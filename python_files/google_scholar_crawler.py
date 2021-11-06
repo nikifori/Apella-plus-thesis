@@ -1,11 +1,12 @@
 '''
-Filename: e:\Projects\theses_tsoumakas\google_scholar_crawler.py
-Path: e:\Projects\theses_tsoumakas
-Created Date: Sunday, October 31st 2021, 3:42:53 pm
+Filename: e:\GitHub_clones\Apella_plus_thesis\python_files\google_scholar_crawler.py
+Path: e:\GitHub_clones\Apella_plus_thesis\python_files
+Created Date: Saturday, November 6th 2021, 12:34:16 pm
 Author: nikifori
 
 Copyright (c) 2021 Your Company
 '''
+
 
 import numpy as np
 import pandas as pd
@@ -44,6 +45,7 @@ def papers_title_year(author_name=""):
 test = papers_title_year("Grigorios Tsoumakas")#.sort_values(by=['Publication Year'],
                                                             # ascending=False)
 
+print(test.head())
 
 
 
