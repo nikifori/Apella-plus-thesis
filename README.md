@@ -1,1 +1,1 @@
-# Apella_plus_thesis
+# Apella+ thesis
