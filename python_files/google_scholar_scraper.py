@@ -23,9 +23,9 @@ def paper_scraper(author_name=""):
         author = next(search_query)     # object
         scholarly.fill(author, sections=["publications"])
         # author_name_without_space = author_name.replace(" ", "_")
-        # df_name = author_name_without_space + "_papers"
-        # print(df_name)
-        df_name = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
+        # df_papers = author_name_without_space + "_papers"
+        # print(df_papers)
+        df_papers = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
         n=0
         
         for paper in author["publications"]:
@@ -54,25 +54,33 @@ def paper_scraper(author_name=""):
                 else:
                     new_paper["Abstract"] = "unknown"
                     
-                df_name = df_name.append(new_paper, ignore_index=True)
+                df_papers = df_papers.append(new_paper, ignore_index=True)
                 
             except:
                 print("There is a problem")
                 
-        return df_name
+        return df_papers
     else:
         print("no argument")
         
     
         
 test = paper_scraper("Grigorios Tsoumakas")#.sort_values(by=['Publication Year'],
-                                                            # ascending=False)
+                                                        # ascending=False)
 
-print(test.head())
+abstract_entirety = pd.DataFrame(columns=["Abstract entirety"])
+temp_list = []
+for abstract in test["Abstract"]:
+    if abstract[-1]=='…':
+        temp_list.append(0)
+    else:
+        temp_list.append(1)
 
+test["Abstract entirety"] = temp_list
 
-
-
+test.to_csv(path_or_buf=r'E:\GitHub_clones\Apella-plus-thesis\tsoumakas_papers.csv', 
+            header=["Title", "Publication Year", "Publication url", "Abstract", "Abstract entirety"], 
+            index=False) 
 
 
 
