@@ -26,22 +26,39 @@ def paper_scraper(author_name=""):
         # df_name = author_name_without_space + "_papers"
         # print(df_name)
         df_name = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
+        n=0
         
         for paper in author["publications"]:
+            n += 1
+            print(n)
             scholarly.fill(paper)
+            new_paper = {}
             try:
-                new_paper = {"Title": paper["bib"]["title"],
-                             "Publication Year": paper["bib"]["pub_year"],
-                             "Publication url": paper["pub_url"],
-                             "Abstract": paper["bib"]["abstract"]}
+                if "title" in paper["bib"]:
+                    new_paper["Title"] = paper["bib"]["title"]
+                else: 
+                    new_paper["Title"] = "unknown"
+                    
+                if "pub_year" in paper["bib"]:
+                    new_paper["Publication Year"] = paper["bib"]["pub_year"]
+                else:
+                    new_paper["Publication Year"] = "unknown"
+                
+                if "pub_url" in paper:
+                    new_paper["Publication url"] = paper["pub_url"]
+                else:
+                    new_paper["Publication url"] = "unknown"
+                    
+                if "abstract" in paper["bib"]:
+                    new_paper["Abstract"] = paper["bib"]["abstract"]
+                else:
+                    new_paper["Abstract"] = "unknown"
+                    
                 df_name = df_name.append(new_paper, ignore_index=True)
+                
             except:
-                new_paper = {"Title": paper["bib"]["title"],
-                             "Publication Year": "unknown",
-                             "Publication url": paper["pub_url"],
-                             "Abstract": paper["bib"]["abstract"]}
-                df_name = df_name.append(new_paper, ignore_index=True)
-        
+                print("There is a problem")
+                
         return df_name
     else:
         print("no argument")
