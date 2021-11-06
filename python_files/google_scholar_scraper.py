@@ -14,9 +14,10 @@ from bs4 import BeautifulSoup
 import requests
 import json
 from scholarly import scholarly
+import unidecode
 
 
-def papers_title_year(author_name=""):
+def paper_scraper(author_name=""):
     if author_name != "":
         search_query = scholarly.search_author("{}".format(author_name))
         author = next(search_query)     # object
@@ -24,16 +25,21 @@ def papers_title_year(author_name=""):
         # author_name_without_space = author_name.replace(" ", "_")
         # df_name = author_name_without_space + "_papers"
         # print(df_name)
-        df_name = pd.DataFrame(columns=["Title", "Publication Year"])
+        df_name = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
         
         for paper in author["publications"]:
+            scholarly.fill(paper)
             try:
                 new_paper = {"Title": paper["bib"]["title"],
-                             "Publication Year": paper["bib"]["pub_year"]}
+                             "Publication Year": paper["bib"]["pub_year"],
+                             "Publication url": paper["pub_url"],
+                             "Abstract": paper["bib"]["abstract"]}
                 df_name = df_name.append(new_paper, ignore_index=True)
             except:
                 new_paper = {"Title": paper["bib"]["title"],
-                             "Publication Year": "unknown"}
+                             "Publication Year": "unknown",
+                             "Publication url": paper["pub_url"],
+                             "Abstract": paper["bib"]["abstract"]}
                 df_name = df_name.append(new_paper, ignore_index=True)
         
         return df_name
@@ -42,11 +48,10 @@ def papers_title_year(author_name=""):
         
     
         
-test = papers_title_year("Grigorios Tsoumakas")#.sort_values(by=['Publication Year'],
+test = paper_scraper("Grigorios Tsoumakas")#.sort_values(by=['Publication Year'],
                                                             # ascending=False)
 
 print(test.head())
-
 
 
 
