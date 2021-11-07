@@ -13,90 +13,72 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import requests
 import json
-from scholarly import scholarly
-import unidecode
+from scholarly import scholarly, ProxyGenerator
+import my_time as mt
+
+t = mt.my_time()
 
 
-def paper_scraper(author_name="", abstract=0):
-    if author_name != "":
-        search_query = scholarly.search_author("{}".format(author_name))
-        author = next(search_query)     # object
-        scholarly.fill(author, sections=["publications"])
-        # author_name_without_space = author_name.replace(" ", "_")
-        # df_papers = author_name_without_space + "_papers"
-        # print(df_papers)
-        if abstract==1:
-            df_papers = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
-        else:
-            df_papers = pd.DataFrame(columns=["Title", "Publication Year"])
-            
-        n=0
-        if abstract==1:
-            for paper in author["publications"]:
-                n += 1
-                print(n)
-                scholarly.fill(paper)
-                new_paper = {}
-                try:
-                    if "title" in paper["bib"]:
-                        new_paper["Title"] = paper["bib"]["title"]
-                    else: 
-                        new_paper["Title"] = "unknown"
-                        
-                    if "pub_year" in paper["bib"]:
-                        new_paper["Publication Year"] = paper["bib"]["pub_year"]
-                    else:
-                        new_paper["Publication Year"] = "unknown"
-                    
-                    if "pub_url" in paper:
-                        new_paper["Publication url"] = paper["pub_url"]
-                    else:
-                        new_paper["Publication url"] = "unknown"
-                        
-                    if "abstract" in paper["bib"]:
-                        new_paper["Abstract"] = paper["bib"]["abstract"]
-                    else:
-                        new_paper["Abstract"] = "unknown"
-                        
-                    df_papers = df_papers.append(new_paper, ignore_index=True)
-                    
-                except:
-                    print("There is a problem")
-                    
-            return df_papers
-        
-        elif abstract==0:
-            for paper in author["publications"]:
-                n += 1
-                print(n)
-                new_paper = {}
-                try:
-                    if "title" in paper["bib"]:
-                        new_paper["Title"] = paper["bib"]["title"]
-                    else: 
-                        new_paper["Title"] = "unknown"
-                        
-                    if "pub_year" in paper["bib"]:
-                        new_paper["Publication Year"] = paper["bib"]["pub_year"]
-                    else:
-                        new_paper["Publication Year"] = "unknown"
-                        
-                    df_papers = df_papers.append(new_paper, ignore_index=True)
-                    
-                except:
-                    print("There is a problem")
-            
-            return df_papers
-                    
-        else:
-            print("Invalid abstract argument")
-                    
+# pg = ProxyGenerator()
+# success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+# scholarly.use_proxy(pg)
+
+def paper_scraper(author_name, abstract=False):
+    
+    if type(author_name) is not str:
+        print(f"Author name must be string: {type(author_name)} given." )
+        return 
+
+    if type(abstract) is not bool:
+         print(f"Abstract must be boolean: {type(abstract)} given.")
+         return
+    
+    search_query = scholarly.search_author(author_name)
+    author = next(search_query)     # object
+    t.tic()
+    scholarly.fill(author, sections=["publications"])
+    t.toc()
+    # author_name_without_space = author_name.replace(" ", "_")
+    # df_papers = author_name_without_space + "_papers"
+    # print(df_papers) 
+    n=0
+    if abstract:
+        df_papers = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
+        for paper in author["publications"]:
+            n += 1
+            print(n)
+            scholarly.fill(paper)
+            new_paper = {}
+            try:
+                new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else None
+                new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else None
+                new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else None
+                new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else None
+                df_papers = df_papers.append(new_paper, ignore_index=True) 
+            except:
+                print("There is a problem")
+                
+        return df_papers
+    
     else:
-        print("no argument")
+        df_papers = pd.DataFrame(columns=["Title", "Publication Year"])
+        for paper in author["publications"]:
+            n += 1
+            print(n)
+            new_paper = {}
+            try:
+                new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else None
+                new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else None
+                df_papers = df_papers.append(new_paper, ignore_index=True)
+            except:
+                print("There is a problem")
+        
+        return df_papers
+                    
         
     
         
-test = paper_scraper("Grigorios Tsoumakas", abstract=0)#.sort_values(by=['Publication Year'],
+test = paper_scraper("Grigorios Tsoumakas", abstract=False)#.sort_values(by=['Publication Year'],
                                                         # ascending=False)
 
 # abstract_entirety = pd.DataFrame(columns=["Abstract entirety"])
