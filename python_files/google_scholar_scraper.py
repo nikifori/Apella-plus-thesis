@@ -2,7 +2,7 @@
 Filename: e:\GitHub_clones\Apella_plus_thesis\python_files\google_scholar_crawler.py
 Path: e:\GitHub_clones\Apella_plus_thesis\python_files
 Created Date: Saturday, November 6th 2021, 12:34:16 pm
-Author: nikifori
+Author: nikifori, bill
 
 Copyright (c) 2021 Your Company
 '''
