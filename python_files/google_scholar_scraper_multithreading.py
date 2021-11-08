@@ -39,7 +39,6 @@ def paper_scraper(author_name, abstract=False, threads_num=1):
     paper_list = author["publications"]
     # threads_num = threads_num if len(paper_list)%threads_num==0 else threads_num+1
      
-
     if abstract:
         global result_list
         result_list = []
@@ -73,7 +72,6 @@ def paper_scraper(author_name, abstract=False, threads_num=1):
         return df_papers
     
 
-
 def chunks(paper_list, threads):
     chunked_list = []
     index_list = [i*(len(paper_list)//threads) for i in range(1,threads+1)]
@@ -87,7 +85,6 @@ def chunks(paper_list, threads):
     
     return chunked_list
         
-
 
 def paper_filler(chunk_of_papers, result_list):
     df_papers = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
@@ -109,23 +106,17 @@ def paper_filler(chunk_of_papers, result_list):
 #-----------------------------------------------------------------------------------------------------------------
 
 
-pg = ProxyGenerator()
-success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
-scholarly.use_proxy(pg)
+# pg = ProxyGenerator()
+# success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+# scholarly.use_proxy(pg)
 
 t = mt.my_time()
 
 t.tic()
-test = paper_scraper("Grigorios Tsoumakas", abstract=True, threads_num=20)
+test = paper_scraper("Grigorios Tsoumakas", abstract=True, threads_num=20)#.sort_values(by=['Publication Year'], 
+                                                                                       # ascending=False)
 t.toc()
 
-
-
-
-
-        
-# test = paper_scraper("Grigorios Tsoumakas", abstract=False)#.sort_values(by=['Publication Year'],
-#                                                         # ascending=False)
 
 # abstract_entirety = pd.DataFrame(columns=["Abstract entirety"])
 # temp_list = []
