@@ -18,7 +18,7 @@ import my_time as mt
 import threading
 
 
-def paper_scraper(author_name, abstract=False, threads_num=1):
+def paper_scraper(author_name, abstract=False, threads_num=1, make_csv=False):
     
     if type(author_name) is not str:
         print(f"Author name must be string: {type(author_name)} given." )
@@ -53,7 +53,12 @@ def paper_scraper(author_name, abstract=False, threads_num=1):
         
         final_df = pd.concat(result_list)
         
-        return result_list, final_df
+        # check abstract entirety
+        final_df = df_abstract_entirety(final_df)
+        if make_csv:
+            csv_creator(author_name, final_df, abstract)
+            
+        return final_df
     
     else:
         n=0
@@ -63,15 +68,17 @@ def paper_scraper(author_name, abstract=False, threads_num=1):
             print(n)
             new_paper = {}
             try:
-                new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else None
-                new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else None
+                new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else "Unknown"
+                new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
                 df_papers = df_papers.append(new_paper, ignore_index=True)
             except:
                 print("There is a problem")
-                
+        
+        if make_csv:
+            csv_creator(author_name, df_papers, abstract)
+    
         return df_papers
     
-
 def chunks(paper_list, threads):
     chunked_list = []
     index_list = [i*(len(paper_list)//threads) for i in range(1,threads+1)]
@@ -85,17 +92,16 @@ def chunks(paper_list, threads):
     
     return chunked_list
         
-
 def paper_filler(chunk_of_papers, result_list):
     df_papers = pd.DataFrame(columns=["Title", "Publication Year", "Publication url", "Abstract"])
     for paper in chunk_of_papers:
         scholarly.fill(paper)
         new_paper = {}
         try:
-            new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else None
-            new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else None
-            new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else None
-            new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else None
+            new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else "Unknown"
+            new_paper["Publication Year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
+            new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else "Unknown"
+            new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else "Unknown"
             print(new_paper["Title"])
             df_papers = df_papers.append(new_paper, ignore_index=True)
         except:
@@ -103,6 +109,28 @@ def paper_filler(chunk_of_papers, result_list):
            
     result_list.append(df_papers)        
     return df_papers
+
+def df_abstract_entirety(final_df):
+    temp_list = []
+    for abstract in final_df["Abstract"]:
+        if abstract[-1]=='…':
+            temp_list.append(0)
+        else:
+            temp_list.append(1)
+            
+    final_df["Abstract entirety"] = temp_list        
+    return final_df
+
+def csv_creator(author_name, final_df, abstract=False):
+    paper_name = author_name.replace(" ", "_")
+    if abstract:
+        final_df.to_csv(path_or_buf=fr'E:\GitHub_clones\Apella-plus-thesis\csv_files\{paper_name}_papers.csv',
+                        header=["Title", "Publication Year", "Publication url", "Abstract", "Abstract entirety"],
+                        index=False)
+    else:
+        final_df.to_csv(path_or_buf=fr'E:\GitHub_clones\Apella-plus-thesis\csv_files\{paper_name}_papers.csv',
+                        header=["Title", "Publication Year"],
+                        index=False)
 #-----------------------------------------------------------------------------------------------------------------
 
 
@@ -113,24 +141,9 @@ def paper_filler(chunk_of_papers, result_list):
 t = mt.my_time()
 
 t.tic()
-test = paper_scraper("Grigorios Tsoumakas", abstract=True, threads_num=20)#.sort_values(by=['Publication Year'], 
-                                                                                       # ascending=False)
+test = paper_scraper("Ioannis Vlahavas", abstract=True, threads_num=20, make_csv=True)
 t.toc()
 
-
-# abstract_entirety = pd.DataFrame(columns=["Abstract entirety"])
-# temp_list = []
-# for abstract in test["Abstract"]:
-#     if abstract[-1]=='…':
-#         temp_list.append(0)
-#     else:
-#         temp_list.append(1)
-
-# test["Abstract entirety"] = temp_list
-
-# test.to_csv(path_or_buf=r'E:\GitHub_clones\Apella-plus-thesis\tsoumakas_papers.csv', 
-#             header=["Title", "Publication Year", "Publication url", "Abstract", "Abstract entirety"], 
-#             index=False) 
 
 
 
