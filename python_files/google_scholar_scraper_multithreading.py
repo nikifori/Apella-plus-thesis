@@ -141,7 +141,7 @@ def csv_creator(author_name, final_df, abstract=False):
 t = mt.my_time()
 
 t.tic()
-test = paper_scraper("Ioannis Vlahavas", abstract=True, threads_num=20, make_csv=True)
+test = paper_scraper("Ioannis Katakis", abstract=True, threads_num=20, make_csv=True)
 t.toc()
 
 
