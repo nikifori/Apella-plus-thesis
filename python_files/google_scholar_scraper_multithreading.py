@@ -85,10 +85,12 @@ def paper_scraper(author_name, abstract=False, threads_num=1, make_csv=False):
     
 def chunks(paper_list, threads):
     chunked_list = []
-    step_size = math.ceil(len(paper_list)/threads)
-    for i in range(0, len(paper_list), step_size):
-        chunked_list.append(paper_list[i:step_size+i])
-    
+    n = len(paper_list)
+    for i in range(threads):
+       start = int(math.floor(i * n / threads))
+       finish = int(math.floor((i + 1) * n / threads) - 1)
+       chunked_list.append(paper_list[start:(finish+1)])
+       
     return chunked_list
         
 def paper_filler(chunk_of_papers, result_list):
