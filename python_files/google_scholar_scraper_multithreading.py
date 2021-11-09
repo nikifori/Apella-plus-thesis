@@ -38,11 +38,14 @@ def paper_scraper(author_name, abstract=False, threads_num=1, make_csv=False):
     author = next(search_query)     # object
     scholarly.fill(author, sections=["publications"])
     paper_list = author["publications"]
-    # threads_num = threads_num if len(paper_list)%threads_num==0 else threads_num+1
+    
      
     if abstract:
         global result_list
         result_list = []
+        # papers always >= threads
+        if threads_num>len(paper_list):threads_num=len(paper_list) # papers always
+        print(threads_num)
         chunked_list = chunks(paper_list, threads_num)
         for chunk in chunked_list:
             x = threading.Thread(target=paper_filler, args=(chunk, result_list))
@@ -137,7 +140,7 @@ def csv_creator(author_name, final_df, abstract=False):
 t = mt.my_time()
 
 t.tic()
-test = paper_scraper("Ioannis Partalas", abstract=True, threads_num=20, make_csv=True)
+test = paper_scraper("Dimitris Floros", abstract=True, threads_num=20, make_csv=True)
 t.toc()
 
 
