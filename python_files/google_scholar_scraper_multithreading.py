@@ -130,9 +130,9 @@ def csv_creator(author_name, final_df, abstract=False):
 #-----------------------------------------------------------------------------------------------------------------
 
 
-pg = ProxyGenerator()
-success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
-scholarly.use_proxy(pg)
+# pg = ProxyGenerator()
+# success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+# scholarly.use_proxy(pg)
 
 t = mt.my_time()
 
