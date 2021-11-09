@@ -16,6 +16,7 @@ import pandas as pd
 from scholarly import scholarly, ProxyGenerator
 import my_time as mt
 import threading
+import math
 
 
 def paper_scraper(author_name, abstract=False, threads_num=1, make_csv=False):
@@ -81,14 +82,9 @@ def paper_scraper(author_name, abstract=False, threads_num=1, make_csv=False):
     
 def chunks(paper_list, threads):
     chunked_list = []
-    index_list = [i*(len(paper_list)//threads) for i in range(1,threads+1)]
-    if len(paper_list)%threads!=0:
-        index_list.append(len(paper_list))
-        
-    n=0
-    for i in index_list:
-        chunked_list.append(paper_list[n:i]) # isws xreiazetai agkiles gia na mpei sa lista
-        n+=i-n
+    step_size = math.ceil(len(paper_list)/threads)
+    for i in range(0, len(paper_list), step_size):
+        chunked_list.append(paper_list[i:step_size+i])
     
     return chunked_list
         
@@ -134,14 +130,14 @@ def csv_creator(author_name, final_df, abstract=False):
 #-----------------------------------------------------------------------------------------------------------------
 
 
-# pg = ProxyGenerator()
-# success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
-# scholarly.use_proxy(pg)
+pg = ProxyGenerator()
+success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+scholarly.use_proxy(pg)
 
 t = mt.my_time()
 
 t.tic()
-test = paper_scraper("Ioannis Katakis", abstract=True, threads_num=20, make_csv=True)
+test = paper_scraper("Ioannis Partalas", abstract=True, threads_num=20, make_csv=True)
 t.toc()
 
 
