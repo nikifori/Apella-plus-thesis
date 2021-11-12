@@ -3,7 +3,6 @@ Filename: e:\GitHub_clones\Apella_plus_thesis\python_files\google_scholar_crawle
 Path: e:\GitHub_clones\Apella_plus_thesis\python_files
 Created Date: Saturday, November 6th 2021, 12:34:16 pm
 Author: nikifori
-
 Copyright (c) 2021 Your Company
 '''
 
@@ -144,15 +143,3 @@ t = mt.my_time()
 t.tic()
 test = paper_scraper("Dimitris Floros", abstract=True, threads_num=20, make_csv=True)
 t.toc()
-
-
-
-
-
-
-
-
-
-
-
-
