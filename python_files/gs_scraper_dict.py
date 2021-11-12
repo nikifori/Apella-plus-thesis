@@ -108,8 +108,8 @@ db = myclient.ApellaDB
 collection = db.author
 collection.insert_one(test)
 # save in json file local
-json_file = json.dumps(test, indent=4)
 test.pop("_id")
+json_file = json.dumps(test, indent=4)
 json_name = test["name"].replace(" ", "_")
 with open(fr'E:\GitHub_clones\Apella-plus-thesis\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
     f.write(f"[{json.dumps(test, indent=4)}]")
