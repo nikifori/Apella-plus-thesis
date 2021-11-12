@@ -83,13 +83,16 @@ def paper_filler(chunk_of_papers, result_list):
             new_paper["Publication year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
             new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else "Unknown"
             new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else "Unknown"
+            new_paper["Abstract entirety"] = 0 if new_paper["Abstract"][-1]=='…' else 1
             new_paper["Author pub id"] = paper["author_pub_id"] if "author_pub_id" in paper else "Unknown"
             new_paper["Publisher"] = paper["bib"]["publisher"] if "publisher" in paper["bib"] else "Unknown"
             print(new_paper["Title"])
             result_list.append(new_paper)
         except:
             print("There is a problem")
-           
+         
+            
+
 
 #-----------------------------------------------------------------------------------------------------------------
 
@@ -108,8 +111,8 @@ db = myclient.ApellaDB
 collection = db.author
 collection.insert_one(test)
 # save in json file local
-json_file = json.dumps(test, indent=4)
 test.pop("_id")
+json_file = json.dumps(test, indent=4)
 json_name = test["name"].replace(" ", "_")
 with open(fr'E:\GitHub_clones\Apella-plus-thesis\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
     f.write(f"[{json.dumps(test, indent=4)}]")
