@@ -20,7 +20,7 @@ import pymongo
 import json
 
 
-def paper_scraper(author_name, threads_num=1):
+def paper_scraper(author_name, threads_num=1, host=None, json_file_path=None):
     
     
     if type(author_name) is not str:
@@ -45,7 +45,6 @@ def paper_scraper(author_name, threads_num=1):
     scholarly.fill(author, sections=["publications"])
     paper_list = author["publications"]
     
-     
     global result_list
     result_list = []
     # papers always >= threads
@@ -61,6 +60,22 @@ def paper_scraper(author_name, threads_num=1):
         thread.join()
     
     author_dict["publications"] = result_list.copy()
+    
+    # connect to MongoDB local
+    if host:
+        myclient = pymongo.MongoClient(f"{host}")
+        db = myclient.ApellaDB
+        collection = db.author
+        collection.insert_one(author_dict)  # inserts _id in author dictionary
+    
+    # save in json file local
+    if json_file_path:
+        author_dict.pop("_id")
+        json_file = json.dumps(author_dict, indent=4)
+        json_name = author_dict["name"].replace(" ", "_")
+        with open(fr'{json_file_path}\{json_name}.json', 'w', encoding='utf-8') as f:
+            f.write(f"[{json_file}]")
+            
     return author_dict
     
     
@@ -88,8 +103,8 @@ def paper_filler(chunk_of_papers, result_list):
             new_paper["Publisher"] = paper["bib"]["publisher"] if "publisher" in paper["bib"] else "Unknown"
             print(new_paper["Title"])
             result_list.append(new_paper)
-        except:
-            print("There is a problem")
+        except Exception as error:
+            print(error)
          
             
 
@@ -102,19 +117,10 @@ success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packe
 scholarly.use_proxy(pg)
 
 t = mt.my_time()
-
 t.tic()
-test = paper_scraper("Dimitris Floros", threads_num=20)
-# connect to MongoDB local
-myclient = pymongo.MongoClient("localhost:27017")
-db = myclient.ApellaDB
-collection = db.author
-collection.insert_one(test)
-# save in json file local
-test.pop("_id")
-json_file = json.dumps(test, indent=4)
-json_name = test["name"].replace(" ", "_")
-with open(fr'E:\GitHub_clones\Apella-plus-thesis\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
-    f.write(f"[{json.dumps(test, indent=4)}]")
+test = paper_scraper("Thomas Karanikiotis", threads_num=20, host="localhost:27017", 
+                     json_file_path = r"E:\GitHub_clones\Apella-plus-thesis\json_files")
 t.toc()
+
+
 
