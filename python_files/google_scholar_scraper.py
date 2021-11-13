@@ -11,9 +11,7 @@ Copyright (c) 2021 Your Company
 # from bs4 import BeautifulSoup
 # import requests
 # import json
-import pandas as pd
 from scholarly import scholarly, ProxyGenerator
-import my_time as mt
 import threading
 import math
 import pymongo
@@ -113,15 +111,15 @@ def paper_filler(chunk_of_papers, result_list):
 #-----------------------------------------------------------------------------------------------------------------
 
 
-pg = ProxyGenerator()
-success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
-scholarly.use_proxy(pg)
+# pg = ProxyGenerator()
+# success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+# scholarly.use_proxy(pg)
 
-t = mt.my_time()
-t.tic()
-test = paper_scraper("Thomas Karanikiotis", threads_num=20, host="localhost:27017", 
-                     json_file_path = r"E:\GitHub_clones\Apella-plus-thesis\json_files")
-t.toc()
+# t = mt.my_time()
+# t.tic()
+# test = paper_scraper("Thomas Karanikiotis", threads_num=20, host="localhost:27017", 
+#                      json_file_path = r"E:\GitHub_clones\Apella-plus-thesis\json_files")
+# t.toc()
 
 
 

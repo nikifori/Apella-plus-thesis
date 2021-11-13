@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 
 # return the query  
 def query_maker(author_dict: dict):
-    query = "{0} {1} google scholar".format(author_dict["romanize name"], "auth")
+    query = "{0} {1} google scholar csd".format(author_dict["romanize name"], author_dict["University"])
     return query
 
 # return author dictionary with scholar name

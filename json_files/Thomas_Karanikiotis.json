@@ -1,0 +1,58 @@
+[{
+    "name": "Thomas Karanikiotis",
+    "affiliation": "Aristotle University of Thessaloniki",
+    "citedby": 15,
+    "interests": [
+        "machine learning",
+        "deep learning",
+        "software engineering"
+    ],
+    "scholar_url": "https://scholar.google.com/citations?user=Lfje7DUAAAAJ&hl=en",
+    "publications": [
+        {
+            "Title": "BrainRun: a behavioral biometrics dataset towards continuous implicit authentication",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/455030",
+            "Abstract": "The widespread use of smartphones has dictated a new paradigm, where mobile applications are the primary channel for dealing with day-to-day tasks. This paradigm is full of sensitive information, making security of utmost importance. To that end, and given the traditional authentication techniques (passwords and/or unlock patterns) which have become ineffective, several research efforts are targeted towards biometrics security, while more advanced techniques are considering continuous implicit authentication on the basis of behavioral biometrics. However, most studies in this direction are performed \u201cin vitro\u201d resulting in small-scale experimentation. In this context, and in an effort to create a solid information basis upon which continuous authentication models can be built, we employ the real-world application \u201cBrainRun\u201d, a brain-training game aiming at boosting cognitive skills of individuals. BrainRun embeds a gestures capturing tool, so that the different types of gestures that describe the swiping behavior of users are recorded and thus can be modeled. Upon releasing the application at both the \u201cGoogle Play Store\u201d and \u201cApple App Store\u201d, we construct a dataset containing gestures and sensors data for more than 2000 different users and devices. The dataset is distributed under the CC0 license and can be found at the EU Zenodo repository. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "Lfje7DUAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Employing Contribution and Quality Metrics for Quantifying the Software Development Process",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3379597.3387490",
+            "Abstract": "The full integration of online repositories in contemporary software development promotes remote work and collaboration. Apart from the apparent benefits, online repositories offer a deluge of data that can be utilized to monitor and improve the software development process. Towards this direction, we have designed and implemented a platform that analyzes data from GitHub in order to compute a series of metrics that quantify the contributions of project collaborators, both from a development as well as an operations (communication) perspective. We analyze contributions throughout the projects' lifecycle and track the number of coding violations, this way aspiring to identify cases of software development that need closer monitoring and (possibly) further actions to be taken. In this context, we have analyzed the 3000 most popular GitHub Java projects and provide the data to the community.",
+            "Abstract entirety": 1,
+            "Author pub id": "Lfje7DUAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multilevel Readability Interpretation Against Software Properties: A Data-Centric Approach",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-83007-6_10",
+            "Abstract": "Given the wide adoption of the agile software development paradigm, where efficient collaboration as well as effective maintenance are of utmost importance, the need to produce readable source code is evident. To that end, several research efforts aspire to assess the extent to which a software component is readable. Several metrics and evaluation criteria have been proposed; however, they are mostly empirical or rely on experts who are responsible for determining the ground truth and/or set custom thresholds, leading to results that are context-dependent and subjective. In this work, we employ a large set of static analysis metrics along with various coding violations towards interpreting readability as perceived by developers. Unlike already existing approaches, we refrain from using experts and we provide a fully automated and extendible methodology built upon data residing in online code hosting \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Lfje7DUAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A Data-driven Methodology towards Interpreting Readability against Software Properties.",
+            "Publication year": 2020,
+            "Publication url": "https://www.researchgate.net/profile/Michail-Papamichail/publication/342964896_A_Data-driven_Methodology_towards_Interpreting_Readability_against_Software_Properties/links/5fa2d587299bf10f73229bdd/A-Data-driven-Methodology-towards-Interpreting-Readability-against-Software-Properties.pdf",
+            "Abstract": "In the context of collaborative, agile software development, where effective and efficient software maintenance is of utmost importance, the need to produce readable source code is evident. Towards this direction, several approaches aspire to assess the extent to which a software component is readable. Most of them rely on experts who are responsible for determining the ground truth and/or set custom evaluation criteria, leading to results that are context-dependent and subjective. In this work, we employ a large set of static analysis metrics along with various coding violations towards interpreting readability as perceived by developers. In an effort to provide a fully automated and extendible methodology, we refrain from using experts; rather we harness data residing in online code hosting facilities towards constructing a dataset that includes more than one million methods that cover diverse development scenarios. After performing clustering based on source code size, we employ Support Vector Regression in order to interpret the extent to which a software component is readable on three axes: complexity, coupling, and documentation. Preliminary evaluation on several axes indicates that our approach effectively interprets readability as perceived by developers against the aforementioned three primary source code properties.",
+            "Abstract entirety": 1,
+            "Author pub id": "Lfje7DUAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Continuous Implicit Authentication through Touch Traces Modelling",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9282760/",
+            "Abstract": "Nowadays, the continuously increasing use of smart-phones as the primary way of dealing with day-to-day tasks raises several concerns mainly focusing on privacy and security. In this context and given the known limitations and deficiencies of traditional authentication mechanisms, a lot of research efforts are targeted towards continuous implicit authentication on the basis of behavioral biometrics. In this work, we propose a methodology towards continuous implicit authentication that refrains from the limitations imposed by small-scale and/or controlled environment experiments by employing a real-world application used widely by a large number of individuals. Upon constructing our models using Support Vector Machines, we introduce a confidence-based methodology, in order to strengthen the effectiveness and the efficiency of our approach. The evaluation of our methodology on a set of diverse scenarios \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Lfje7DUAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

@@ -9,9 +9,6 @@ Copyright (c) 2021 Your Company
 import pandas as pd
 from langdetect import detect
 from romanize import romanize
-from google_search import  get_scholar_name
-import time
-
 
 def df_to_dict_parser(df):
     try:
@@ -37,17 +34,6 @@ def df_to_dict_parser(df):
     return dictionary
 
 
-csd_in = pd.read_excel(r"..\csv_files\csd_data_in.xlsx")
-csd_out = pd.read_excel(r"..\csv_files\csd_data_out.xlsx")
 
-# preprocessing
-# csd_in
-csd_in = df_to_dict_parser(csd_in)
-csd_out = df_to_dict_parser(csd_out)
-
-# find author name in google scholar
-for i in range(len(csd_in)):
-    time.sleep(1.5)
-    get_scholar_name(csd_in[i])
 
 
