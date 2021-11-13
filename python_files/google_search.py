@@ -18,7 +18,7 @@ def query_maker(author_dict: dict):
 # return author dictionary with scholar name
 def get_scholar_name(author_dict: dict): 
     query = query_maker(author_dict)
-    link = search(f"{query}", num_results=0)[0]
+    link = search(query, num_results=0)[0]
     if "scholar" in link:
         author_page = requests.get(link)
         soup = BeautifulSoup(author_page.content, "html.parser")
