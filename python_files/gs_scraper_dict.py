@@ -104,6 +104,7 @@ def paper_filler(chunk_of_papers, result_list):
             print(new_paper["Title"])
             result_list.append(new_paper)
         except Exception as error:
+            print("There is a problem")
             print(error)
          
             
