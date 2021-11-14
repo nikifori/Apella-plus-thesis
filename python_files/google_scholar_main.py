@@ -14,7 +14,6 @@ import pandas as pd
 import my_time as mt
 from scholarly import scholarly, ProxyGenerator
 
-
 csd_in = pd.read_excel(r"..\csv_files\csd_data_in.xlsx")
 csd_out = pd.read_excel(r"..\csv_files\csd_data_out.xlsx")
 
@@ -24,14 +23,12 @@ csd_in = df_to_dict_parser(csd_in)
 csd_out = df_to_dict_parser(csd_out)
 
 # find author name in google scholar
-for i in range(len(csd_in)):
-    time.sleep(1.5)
-    get_scholar_name(csd_in[i])
+for i in range(5): # range(len(csd_out))
+    time.sleep(1)
+    get_scholar_name(csd_out[i])
 
 # save in csv
-# df = pd.DataFrame.from_records(csd_in)
-# df.to_csv(path_or_buf=r'..\csv_files\csd_data_in_processed.csv', index=False)
+df = pd.DataFrame.from_records(csd_out)
+df.to_csv(path_or_buf=r'..\csv_files\csd_data_out_processed.csv', index=False)
     
-    
-    
-    
+
