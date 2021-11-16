@@ -1,0 +1,1408 @@
+[{
+    "name": "\u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u0396\u03b1\u03c1\u03bf\u03bb\u03b9\u03ac\u03b3\u03ba\u03b7\u03c2",
+    "romanize name": "Christos Zaroliagkis",
+    "School-Department": "\u039c\u03b7\u03c7. \u0397/\u03a5 & \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "upatras",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18315,
+    "Scholar name": "Christos Zaroliagis",
+    "Scholar id": "L3AQ8wkAAAAJ",
+    "Affiliation": "Professor of Algorithm Design, Analysis and Engineering, University of Patras",
+    "Citedby": 3598,
+    "Interests": [
+        "Algorithm Engineering",
+        "Optimization",
+        "Mobility in Smart Cities",
+        "Decentralized Computing",
+        "Cryptography & Security"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=L3AQ8wkAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "eCOMPASS\u2013TR\u2013025",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11816163760780367123&hl=en&oi=scholarr",
+            "Abstract": "We present the first approximate distance oracles for sparse directed networks with time-dependent arc-travel-times determined by continuous, piecewise linear, positive functions possessing the FIFO property. Our approach precomputes, in subquadratic time and space,(1+ \u03b5)\u2212 approximate distance summaries from selected vertices to all other vertices in the network, and provides two sublinear time query algorithms that deliver constant and (1+ \u03c3)\u2212 approximate shortest-travel-times, respectively, for arbitrary origin-destination pairs in the network. More specifically, our contributions are threefold:(i) we present a one-to-all polynomial-time algorithm for computing (1+ \u03b5)\u2212 approximations of the shortesttravel-travel time functions from a specific origin to all other vertices in the network, using space per approximate travel-time function that is asymptotically optimal and independent of the network size;(ii) we give a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Geometric shortest path containers [online].",
+            "Publication year": 2004,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.887.2129&rep=rep1&type=pdf",
+            "Abstract": "In this paper, we consider Dijkstra\u2019s algorithm for the single source single target shortest path problem in large sparse graphs. The goal is to reduce the response time for on-line queries by using precomputed information. Due to the size of the graph, preprocessing space requirements can be only linear in the number of nodes. We assume that a layout of the graph is given. In the preprocessing, we determine from this layout a geometric object for each edge containing all nodes that can be reached by a shortest path starting with that edge. Based on these geometric objects, the search space for on-line computation can be reduced significantly. Shortest path queries can then be answered by Dijkstra\u2019s algorithm restricted to edges where the corresponding geometric object contains the target. We present an extensive experimental study comparing the impact of different types of objects. The test data we use are real-world traffic networks, the typical field of application for this scenario. Furthermore, we present new algorithms as well as an empirical study for the dynamic case of this problem, where edge weights are subject to change and the geometric containers have to be updated. We evaluate the quality and the time for different update strategies that guarantee correct shortest paths. Finally, we present a software framework in C++ to realize the implementations of all of our variants of Dijkstra\u2019s algorithm. A basic implementation of the algorithm is refined for each modification and\u2013even more importantly\u2013these modifications can be combined in any possible way without loss of efficiency.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Fakult\u00e4t f\u00fcr Informatik (INFORMATIK)"
+        },
+        {
+            "Title": "eCOMPASS\u2013TR\u2013048",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1670409111611717372&hl=en&oi=scholarr",
+            "Abstract": "ObjectiveData security mechanism was developed in order to ensure that information exchange between the modules of the CGM. The mechanism protect the transfer and the exchange of the data that are delivered both between the services and the end user. The mechanism allows only authenticated content providers to register services and devices using the CGM tool. Security Mechanism is about protecting data, that is, how to prevent unauthorized access or damage to data that is in storage or in transit.In security terms, there are two important concepts: authentication and authorization. Understanding and the ways of implementing of these concepts can achieve the security effect of a project. Authentication is the way in which an entity (a user, an application, or a component) determines that another entity is who it claims to be. An entity uses security credentials to authenticate itself. The credentials might be a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ISB-tree: A new indexing scheme with efficient expected behaviour",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11602613_33",
+            "Abstract": "We present the interpolation search tree (ISB-tree), a new cache-aware indexing scheme that supports update operations (insertions and deletions) in O(1) worst-case (w.c.) block transfers and search operations in O(log B  log n) expected block transfers, where B represents the disk block size and n denotes the number of stored elements. The expected search bound holds with high probability for a large class of (unknown) input distributions. The w.c. search bound of our indexing scheme is O(log B  n) block transfers. Our update and expected search bounds constitute a considerable improvement over the O(log B  n) w.c. block transfer bounds for search and update operations achieved by the B-tree and its numerous variants. This is also suggested by a set of preliminary experiments we have carried out. Our indexing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Hierarchical oracles for time-dependent networks",
+            "Publication year": 2015,
+            "Publication url": "https://www.researchgate.net/profile/Spyros-Kontogiannis/publication/272522060_Hierarchical_Oracles_for_Time-Dependent_Networks/links/551952090cf21b5da3b84257/Hierarchical-Oracles-for-Time-Dependent-Networks.pdf",
+            "Abstract": "We present novel oracles for networks that obey time-dependent metrics with two unique features:(i) they provably achieve subquadratic preprocessing time and space that is independent of the metric;(ii) they provably achieve query time that is sublinear either on the network size, or on the actual Dijkstra Rank of the query at hand.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Report on ALGO 2015",
+            "Publication year": 2016,
+            "Publication url": "http://bulletin.eatcs.org/index.php/beatcs/article/view/394",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:86PQX7AUzd4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "OASIcs, Volume 85, ATMOS 2020, Complete Volume",
+            "Publication year": 2020,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2020/13135/pdf/oasics-vol085-atmos2020-complete.pdf",
+            "Abstract": "Running and optimizing transportation systems give rise to very complex and large-scale optimization problems requiring innovative solution techniques and ideas from mathematical optimization, theoretical computer science, and operations research. Since 2000, the series of Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS) symposia brings together researchers and practitioners who are interested in all aspects of algorithmic methods and models for transportation optimization and provides a forum for the exchange and dissemination of new ideas and techniques. The scope of ATMOS comprises all modes of transportation.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:r_AWSJRzSzQC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Efficient route planning in flight networks",
+            "Publication year": 2009,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2009/2145/",
+            "Abstract": "We present a set of three new time-dependent models with increasing flexibility for realistic route planning in flight networks. By these means, we obtain small graph sizes while modeling airport procedures in a realistic way. With these graphs, we are able to efficiently compute a set of best connections with multiple criteria over a full day. It even turns out that due to the very limited graph sizes it is feasible to precompute full distance tables between all airports. As a result, best connections can be retrieved in a few microseconds on real world data.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Applied Algorithms: First International Conference, ICAA 2014, Kolkata, India, January 13-15, 2014. Proceedings",
+            "Publication year": 2014,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=JrG5BQAAQBAJ&oi=fnd&pg=PP5&dq=info:9cP_g0C3Mt4J:scholar.google.com&ots=vuxVqB3VhI&sig=hWgtevLjPtJ540UXaGsW-haroE8",
+            "Abstract": "This book constitutes the refereed proceedings of the First International Conference on Applied Algorithms, ICAA 2014, held in Kolkata, India, in January 2014. ICAA is a new conference series with a mission to provide a quality forum for researchers working in applied algorithms. Papers presenting original contributions related to the design, analysis, implementation and experimental evaluation of efficient algorithms and data structures for problems with relevant real-world applications were sought, ideally bridging the gap between academia and industry. The 21 revised full papers presented together with 7 short papers were carefully reviewed and selected from 122 submissions.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:fEOibwPWpKIC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Enhancing shopping experiences in smart retailing",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s12652-020-02774-6",
+            "Abstract": "The retailing market has undergone a paradigm-shift in the last decades, departing from its traditional form of shopping in brick-and-mortar stores towards online shopping and the establishment of shopping malls. As a result, \u201csmall\u201d independent retailers operating in urban environments have suffered a substantial reduction of their turnover. This situation could be presumably reversed if retailers were to establish business \u201calliances\u201d targeting economies of scale and engage themselves in providing innovative digital services. The SMARTBUY ecosystem realizes the concept of a \u201cdistributed shopping mall\u201d, which allows retailers to join forces and unite in a large commercial coalition that generates added value for both retailers and customers. Along this line, the SMARTBUY ecosystem offers several novel features: (i) inventory management of centralized products and services, (ii) geo-located marketing of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:yqoGN6RLRZoC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Timetable information: Models and algorithms",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74247-0_3",
+            "Abstract": "We give an overview of models and efficient algorithms for optimally solving timetable information problems like \u201cgiven a departure and an arrival station as well as a departure time, which is the connection that arrives as early as possible at the arrival station?\u201d Two main approaches that transform the problems into shortest path problems are reviewed, including issues like the modeling of realistic details (e.g., train transfers) and further optimization criteria (e.g., the number of transfers). An important topic is also multi-criteria optimization, where in general all attractive connections with respect to several criteria shall be determined. Finally, we discuss the performance of the described algorithms, which is crucial for their application in a real system.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Improved bounds for finger search on a ram",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-012-9636-4",
+            "Abstract": "We present a new finger search tree with O(loglogd) expected search time in the Random Access Machine (RAM) model of computation for a large class of input distributions. The parameter d represents the number of elements (distance) between the search element and an element pointed to by a finger, in a finger search tree that stores n elements. Our data structure improves upon a previous result by Andersson and Mattsson that exhibits expected O(loglogn) search time by incorporating the distance d into the search time complexity, and thus removing the dependence on n. We are also able to show that the search time is O(loglogd+\u03d5(n)) with high probability, where \u03d5(n) is any slowly growing function of n. For the need of the analysis we model the updates by a \u201cballs and bins\u201d combinatorial game that is interesting in its own right as it involves insertions and deletions of balls according to an unknown \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Distributed Algorithms Platform Manual",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17764649399357906098&hl=en&oi=scholarr",
+            "Abstract": "The Distributed Algorithms Platform is a homogeneous simulation environment aiming at the implementation, simulation, and testing of distributed algorithms for wired and wireless networks. In this work, we briefly discuss the basic design and implementation of the Distributed Algorithms Platform, and present the functionality it provides and how to use them. DAP allows the algorithm designer to implement a distributed protocol by creating his own customized environment, and programming in a standard programming language in a style very similar to that of a real-world application. DAP provides a graphical user interface that allows the designer to monitor and control the execution of simulations, visualize algorithms, as well as gather statistics and other information for their experimental analysis and testing, respectively. The platform is written in C++ using LEDA and is provided as a LEDA Extension Package.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algorithmic Methods for Railway Optimization",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-540-74247-0.pdf",
+            "Abstract": "Algorithmic methods have reached a state of maturity as a consequence of decades of research. Despite its success, the current state of algorithmic research still faces severe difficulties, or cannot cope at all, with highly complex and data intensive real-world applications in large-scale networks. A prominent example is given by railway networks, which are used to model the complex systems of railway transportation. The complexity and size of optimization problems arising in railway transportation still pose challenges for algorithmic research. This volume deals with problems arising in railway optimization, ie, with planning and scheduling problems over several time horizons. Different challenging problems from the railway world are discussed from the point of view of computer science, algorithms, operations research, and discrete mathematics. The first part of the volume consists of state-of-the-art papers that were \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:rO6llkc54NcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Bottom-Up Approach to Web Searching and Personalization",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13686046336468810677&hl=en&oi=scholarr",
+            "Abstract": "Most explanations of the user behavior while interacting with the web are based on a topdown approach, where the entire Web, viewed as a vast collection of pages and interconnection links, is used to predict how the users interact with it. A prominent example of this approach is the random-surfer model which has been widely used as an explanation for Google\u2019s PageRank. This model uses the linking structure of the Web as a way to predict the number of people viewing any given page. Contrary to the top-down approach, a bottom-up approach starts from the user and incrementally builds the dynamics of the web as the result of the users\u2019 interaction with it. The second approach has not being widely investigated, although there are numerous advantages over the top-down approach regarding (at least) personalization and de-centralization of the required infrastructure for web-tools. In this work we propose a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An experimental study of algorithms for fully dynamic transitive closure",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1227161.1370597",
+            "Abstract": "We have conducted an extensive experimental study on algorithms for fully dynamic transitive closure. We have implemented the recent fully dynamic algorithms by King [1999], Roditty [2003], Roditty and Zwick [2002, 2004], and Demetrescu and Italiano [2000, 2005] along with several variants and compared them to pseudo fully dynamic and simple-minded algorithms developed in a previous study [Frigioni et al. 2001]. We tested and compared these implementations on random inputs, synthetic (worst-case) inputs, and on inputs motivated by real-world graphs. Our experiments reveal that some of the dynamic algorithms can really be of practical value in many situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "An Experimental Study on the Efficiency of Compositions of Routing Protocols for Ad-hoc Mobile Networks",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2382715334503308118&hl=en&oi=scholarr",
+            "Abstract": "An ad-hoc mobile network is a collection of mobile hosts, with wireless communication capabilities, forming a temporary network without the aid of any established xed infrastructure. In such networks, the natural motion of the stations causes frequent, unpredictable changes on the topological connectivity of the network which has a signicant impact on the performance of routing protocols.In the past years, many protocols have been proposed that operate eciently for a given mobility pattern (rate and speed) of the stations. However, a distinguishing feature of today\u2019s mobile platforms for computation and communication, is their heterogeneity, predominantly manifested by the fact that a wide variety of motion patterns are simultaneously used by the mobile stations that participate in the network. In this paper we investigate the impact of dierent mobility patterns on the performance of routing protocols in ad-hoc mobile \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:DJbcl8HfkQkC",
+            "Publisher": "FLAGS Technical Report FLAGS-TR-71"
+        },
+        {
+            "Title": "ICALP 2019\u2013First Call for Papers",
+            "Publication year": 2018,
+            "Publication url": "http://150.140.5.98/index.php/beatcs/article/view/561",
+            "Abstract": "The 46th International Colloquium on Automata, Languages, and Programming (ICALP) will take place in Patras, Greece, on 8-12 July 2019. ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on 8 July 2019.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:LO7wyVUgiFcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mobile Augmented Reality Guides in Cultural Heritage.",
+            "Publication year": 2016,
+            "Publication url": "https://www.researchgate.net/profile/Damianos-Gavalas/publication/311314532_Mobile_Augmented_Reality_Guides_in_Cultural_Heritage/links/58610a7608ae6eb871a85881/Mobile-Augmented-Reality-Guides-in-Cultural-Heritage.pdf",
+            "Abstract": "Mobile augmented reality (MAR) technology creates unprecedented possibilities for delivering engaging, immersive experiences to the visitors of cultural heritage sites. Despite the proliferation of available prototypes, the relevant literature still lacks studies investigating the way that users interact with MAR interfaces as well as identifying major usability problems and technology acceptance factors. Herein, we present KnossosAR, a MAR guide implemented for the archaeological site of Knossos (in Crete, Greece) which serves as a testbed for pursuing the abovementioned research objectives while also comparing the (dis) advantages of MAR vs. map-based mobile interfaces in outdoor cultural heritage sites. Among other technical contributions, KnossosAR addresses the occlusion problem, which is commonly encountered in location-based AR applications; that is, it employs an efficient method for estimating the field of view (FoV) of the user in order to handle situations wherein a point of interest is occluded by a physical obstacle (eg building). We have conducted field trials which provide preliminary evidence of the efficiency, effectiveness and utility of KnossosAR (including the incorporated FoV estimation approach).",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:q3CdL3IzO_QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic shortest paths containers",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1571066104000088",
+            "Abstract": "Using a set of geometric containers to speed up shortest path queries in a weighted graph has been proven a useful tool for dealing with large sparse graphs. Given a layout of a graph G=(V,E), we store, for each edge (u,v)\u2208E, the bounding box of all nodes t\u2208V for which a shortest u-t-path starts with (u,v). Shortest path queries can then be answered by Dijkstra\u015b restricted to edges where the corresponding bounding box contains the target.In this paper, we present new algorithms as well as an empirical study for the dynamic case of this problem, where edge weights are subject to change and the bounding boxes have to be updated. We evaluate the quality and the time for different update strategies that guarantee correct shortest paths in an interesting application to railway information systems, using real-world data from six European countries.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On the development of an Intelligent Fun Portal: techniques and algoritms",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.16.6249&rep=rep1&type=pdf",
+            "Abstract": "We describe a web intelligent system that demonstrates many of the challenges and implications arising from building such systems on the web. The particular system is an on-line fun portal that adopts several key ideas spanning from site design to user walk-through and user-input analysis, in order to \u201cintelligently\u201d adapt to user interests and, consequently, improve user experience. We build on concepts from machine learning and statistics (na\u00efve Bayes analysis and user models), agent theory (dynamic responses by examining the environment), friendly user interfaces (easy navigation, environment customization) as well as on several ideas for efficient and timely data manipulation (incremental version of algorithms and extended caching).",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Enhanced buying experiences in smart cities: the SMARTBUY approach",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-34255-5_8",
+            "Abstract": "The establishment of shopping malls and the growth of online shopping increasingly diminishes the turnover of \u201csmall\u201d, independent retailers in urban environments. However, retailers could reverse this trend through complementing the offline experiences they already offer with online offerings and establishing business \u201calliances\u201d to achieve economies of scale and enable the provision of innovative digital services. The EU-funded project SMARTBUY aims at realizing the concept of a \u201cdistributed shopping mall\u201d ecosystem which allows retailers to band together in a large commercial coalition which generates added-value for its retailers-members and customers: centralized products and services inventory management; geo-located marketing of products/services; location-based search for products offered by nearby retailers; personalized recommendations for purchasing products based on innovative \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:IUKN3-7HHlwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Algorithmic Methods for Railway Optimization: International Dagstuhl Workshop, Railway Optimization 2004, Dagstuhl Castle, Germany, June 20-25, 2004, Bergen, Norway, September 16-17, 2004, Revised Selected Papers",
+            "Publication year": 2007,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=XCgd_3aZtGoC&oi=fnd&pg=PA2&dq=info:omEioMmNnNsJ:scholar.google.com&ots=_0cClcKqO3&sig=cnR-MaEJzvMrosNzLh_2vnijuM8",
+            "Abstract": "This state-of-the-art survey features papers that were selected after an open call following the International Dagstuhl Seminar on Algorithmic Methods for Railway Optimization. The second part of the volume constitutes the refereed proceedings of the 4th International Workshop on Algorithmic Methods and Models for Optimization of Railways. The 17 full papers presented here were carefully reviewed and selected from numerous submissions.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Distributed simulation of heterogeneous systems of small programmable objects and traditional processors",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1454659.1454682",
+            "Abstract": "In this paper we describe a new simulation platform for heterogeneous distributed systems comprised of small programmable objects (eg, wireless sensor networks) and traditional networked processors. Simulating such systems is complicated because of the need to coordinate compilers and simulators, often with very different interfaces, options, and fidelities. Our platform (which we call ADAPT) is a flexible and extensible environment that provides a highly scalable simulator with unique characteristics. While the platform provides advanced functionality such as real-time simulation monitoring, custom topologies and scenarios, mixing real and simulated nodes, etc., the effort required by the user and the impact to her code is minimal. We here present its architecture, the most important design decisions, and discuss its distinct features and functionalities. We integrate our simulator to the Sun SPOT platform to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Robust line planning in case of multiple pools and disruptions",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-19754-3_6",
+            "Abstract": "We consider the line planning problem in public transportation, under a robustness perspective. We present a mechanism for robust line planning in the case of multiple line pools, when the line operators have a different utility function per pool. We conduct an experimental study of our mechanism on both synthetic and real-world data that shows fast convergence to the optimum. We also explore a wide range of scenarios, varying from an arbitrary initial state (to be solved) to small disruptions in a previously optimal solution (to be recovered). Our experiments with the latter scenario show that our mechanism can be used as an online recovery scheme causing the system to re-converge to its optimum extremely fast.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "D3-Tree",
+            "Publication year": 2015,
+            "Publication url": "http://ikee.lib.auth.gr/record/270609?ln=en",
+            "Abstract": "In this work, we propose D3-Tree, a dynamic distributed deterministic structure for data management in decentralized networks. We present in brief the theoretical algorithmic analysis, in which our proposed structure is based on, and we describe thoroughly the key aspects of the implementation. Conducting experiments, we verify that the implemented structure outperforms other well-known hierarchical tree-based structures, since it provides better complexities regarding load-balancing operations. More specifically, the structure achieves a logarithmic amortized bound, using an efficient deterministic load-balancing mechanism, which is general enough to be applied to other hierarchical tree-based structures. Moreover, we investigate the structure's fault tolerance, which hasn't been sufficiently tackled in previous work, both theoretically and through rigorous experimentation. We prove that D3-Tree is highly fault \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:OcBU2YAGkTUC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Julian Matthias Dibbelt",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.archive.org/work/ghpgtpzle5dqbirwwoucm7pes4/access/wayback/https://publikationen.bibliothek.kit.edu/1000053050/3808147",
+            "Abstract": "Finding the fastest route through traffic, a well-rated restaurant enroute while traveling, the latest train to catch in order to arrive on-time, or a decently priced apartment, with a well-rated school in safe walking distance from home, in biking distance from work, and good public transit access nearby\u2014all these problems have at their core the computation of shortest path queries on different transportation networks. The wide-scale and frequent adoption of web-based map services for route planning and driving directions, GPS navigation, and other location-based applications on large spatial network databases that we see today, has been enabled by and in turn motivated numerous research into accelerating such shortest path queries. In particular, the development of practical algorithms for route planning in transportation networks has been a showpiece application of successful algorithm engineering during the past decade, where experimental evaluation on real-world networks drives the design, analysis, and implementation of algorithms in a continuous feedback loop. This has produced many speedup techniques, varying in preprocessing time, space, and query performance, but also simplicity and ease of implementation. Most approaches follow a similar paradigm: During preprocessing, auxiliary data is computed that is subsequently used to accelerate queries by pruning the search space that needs to be considered. Speedup techniques are so mature today that the fastest can answer a single query within only a few memory accesses, while retaining provable correctness of the results. Due to these successes, focus has shifted to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:4hFrxpcac9AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Engineering planar separator algorithms",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11561071_56",
+            "Abstract": "We consider classical linear-time planar separator algorithms, determining for a given planar graph a small subset of the nodes whose removal separates the graph into two components of similar size. These algorithms are based upon Planar Separator Theorems, which guarantee separators of size  and remaining components of size less than 2n/3. In this work, we present a comprehensive experimental study of the algorithms applied to a large variety of graphs, where the main goal is to find separators that do not only satisfy upper bounds but also possess other desirable qualities with respect to separator size and component balance. We propose the usage of fundamental cycles, whose size is at most twice the diameter of the graph, as planar separators: For graphs of small diameter the guaranteed bound is better than the  bounds, and it turns out that this simple strategy almost always \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Incentive-compatible robust line planning",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-05465-5_4",
+            "Abstract": "The problem of robust line planning requests for a set of origin-destination paths (lines) along with their frequencies in an underlying railway network infrastructure, which are robust to fluctuations of real-time parameters of the solution. In this work, we investigate a variant of robust line planning stemming from recent regulations in the railway sector that introduce competition and free railway markets, and set up a new application scenario: there is a (potentially large) number of line operators that have their lines fixed and operate as competing entities issuing frequency requests, while the management of the infrastructure itself remains the responsibility of a single entity, the network operator. The line operators are typically unwilling to reveal their true incentives, while the network operator strives to ensure a fair (or socially optimal) usage of the infrastructure, e.g., by maximizing the (unknown to him \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An experimental study of bicriteria models for robust timetabling",
+            "Publication year": 2013,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/02331934.2013.779782",
+            "Abstract": "We conduct an experimental study for the timetabling problem in a public railway network under disruptions. We investigate three bicriteria optimization problems introduced recently that model the robustness of a timetable towards delays. We experimentally evaluated these models against various waiting time rules at stations. Our results constitute the first proofs-of-concept for these new robust timetabling approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "Time-Dependent Alternative Route Planning",
+            "Publication year": 2020,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2020/13144/",
+            "Abstract": "We present a new method for computing a set of alternative origin-to-destination routes in road networks with an underlying time-dependent metric. The resulting set is aggregated in the form of a time-dependent alternative graph and is characterized by minimum route overlap, small stretch factor, small size and low complexity. To our knowledge, this is the first work that deals with the time-dependent setting in the framework of alternative routes. Based on preprocessed minimum travel-time information between a small set of nodes and all other nodes in the graph, our algorithm carries out a collection phase for candidate alternative routes, followed by a pruning phase that cautiously discards uninteresting or low-quality routes from the candidate set. Our experimental evaluation on real time-dependent road networks demonstrates that the new algorithm performs much better (by one or two orders of magnitude) than existing baseline approaches. In particular, the entire alternative graph can be computed in less than 0.384 sec for the road network of Germany, and in less than 1.24 sec for that of Europe. Our approach provides also\" quick-and-dirty\" results of decent quality, in about 1/300 of the above mentioned query times for continental-size instances.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:HeT0ZceujKMC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "A collaborative decentralized approach to web search",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6166901/",
+            "Abstract": "Most explanations of the user behavior while interacting with the web are based on a top-down approach, where the entire Web, viewed as a vast collection of pages and interconnection links, is used to predict how the users interact with it. A prominent example of this approach is the random-surfer model, the core ingredient behind Google's PageRank. This model exploits the linking structure of the Web to estimate the percentage of web surfers viewing any given page. Contrary to the top-down approach, a bottom-up approach starts from the user and incrementally builds the dynamics of the web as the result of the users' interaction with it. The second approach has not being widely investigated, although there are numerous advantages over the top-down approach regarding (at least) personalization and decentralization of the required infrastructure for web tools. In this paper, we propose a bottom-up approach to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:olpn-zPbct0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic Shortest Paths Containers",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/43785998/Dynamic_Shortest_Paths_Containers20160316-31324-tsugy5.pdf",
+            "Abstract": "Using a set of geometric containers to speed up shortest path queries in a weighted graph has been proven a useful tool for dealing with large sparse graphs. Given a layout of a graph G=(V, E), we store, for each edge (u, v)\u2208 E, the bounding box of all nodes t\u2208 V for which a shortest ut-path starts with (u, v). Shortest path queries can then be answered by Dijkstra\u2019s algorithm restricted to edges where the corresponding bounding box contains the target.In this paper, we present new algorithms as well as an empirical study for the dynamic case of this problem, where edge weights are subject to change and the bounding boxes have to be updated. We evaluate the quality and the time for different update strategies that guarantee correct shortest paths in an interesting application to railway information systems, using real-world data from six European countries.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:nZcligLrVowC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Topic 12 theory and algorithms for parallel computation",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11549468_101",
+            "Abstract": "The study of theoretical aspects related to the design, analysis and experimentation of efficient algorithms, and to the identification of effective models of computation, represents a fundamental research area in parallel computing, which has been alive and productive for over two decades and well represented in the Euro-Par community. A distinctive characteristic of this Topic 12 is the variety of contributions addressing classical problems as well as the new challenges posed by recent technological advances and emerging computing paradigms.This year 13 papers were submitted to the topic, investigating a variety of algorithmic and modeling problems for parallel computation and communication. Among all submissions, 4 papers were accepted as full papers for the conference, resulting in a 31% acceptance rate.Accepted papers contain the following contributions: new centralized and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Topic 12: Theory and Algorithms for Parallel Computation",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11823285_83",
+            "Abstract": "Parallelism exists at all levels in computing systems from circuits to grids. Effective use of parallelism crucially relies on the availability of suitable models of computation for algorithm design and analysis, and on efficient strategies for the solution of key computational problems on prominent classes of platforms. The study of foundational and algorithmic issues has led to many important advances in parallel computing and has been well represented in the Euro-Par community over that past two decades. A distinctive feature of this topic is the variety of results it as reported over the years that address classical problems as well as the new challenges posed by emerging computing paradigms. This year was no different.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Incentivizing Truthfulness in Crowdsourced Parking Ecosystems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9562950/",
+            "Abstract": "Limited parking space in urban environments has a severe social and environmental impact, because of time loss and unnecessary pollution while looking for free parking spaces. In a recent effort, we have developed the SocialPARK ecosystem to tackle this problem through the activation of a community of interacting citizens, parking companies and municipalities. SocialPARK offers an integrated platform for the provision of personalized parking functionalities as a service, auditing parking availability information through a crowdsourcing approach that gathers relevant information provided by users, parking vendors and municipalities. In this context, a central challenge in delivering trustworthy parking services is to ensure a truthful behavior of the involved (possibly unreliable) users. Towards this direction, we present two rewarding schemes that provably incentivize users to behave truthfully. Both schemes are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:GFxP56DSvIMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A cutting plane approach to solve the railway traveling salesman problem",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.4627&rep=rep1&type=pdf",
+            "Abstract": "We consider the Railway Traveling Salesman Problem. We show that this problem can be reduced to a variant of the generalized traveling salesman problem, defined on an undirected graph G=(V, E) with the nodes partitioned into clusters, which consists in finding a minimum cost cycle spanning a subset of nodes with the property that exactly two nodes are chosen from each cluster. We describe an exact exponential time algorithm for the problem, as well we present two mixed integer programming models of the problem. Based on one of this models proposed, we present an efficient solution procedure based on a cutting plane algorithm. Extensive computational results for instances taken from the railroad company of the Netherlands Nederlandse Spoorwegen and involving graphs with up to 2182 nodes and 38650 edges are reported.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "14th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",
+            "Publication year": 2014,
+            "Publication url": "http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2014/4761/pdf/oasics-vol42-atmos2014-complete.pdf",
+            "Abstract": "14th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and \nSystems 14th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, \nand Systems ATMOS\u201914, September 11th, 2014, Wroc\u0142aw, Poland Edited by Stefan Funke and \nMat\u00fa\u0161 Mihal\u00e1k OASIcs\u2013Vol. 42\u2013ATMOS\u201914 www. dagstuhl. de/oasics Page 2 Editors Stefan \nFunke Mat\u00fa\u0161 Mihal\u00e1k Universit\u00e4t Stuttgart ETH Zurich Stuttgart, Germany Zurich, Switzerland \nfunke@ fmi. uni-stuttgart. de matus. mihalak@ inf. ethz. ch ACM Classification 1998 F. 2 \nAnalysis of Algorithms and Problem Complexity, G. 1.6 Optimization, G. 2.1 Combinatorics, G. \n2.2 Graph Theory, G. 2.3 Applications ISBN 978-3-939897-75-0 Published online and open \naccess by Schloss Dagstuhl\u2013Leibniz-Zentrum f\u00fcr Informatik GmbH, Dagstuhl Publishing, \nSaarbr\u00fccken/Wadern, Germany. Online available at http://www. dagstuhl. de/dagpub/978-3--75\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:cWzG1nlazyYC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Timetable information updating in case of delays: Modeling issues",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/43786004/Timetable_information_updating_in_case_o20160316-24601-1u3eg1b.pdf",
+            "Abstract": "The timetable information problem can be solved by computing shortest paths in special graphs built from timetable data. In general, two models exist: the time-dependent and time-expanded network. In a recent work, both models are compared with respect to advantages and disadvantages on a theoretical and a practical framework. In addition, an extensive experimental evaluation reveals further differences with respect to query performance. However, delays\u2013which occur very frequently in railway systems\u2013are not covered. In this work, we show how the time-dependent and the time-expanded models should be updated in order to capture delays. It turns out that delays can be incorporated in the time-dependent model without changing the topology of the network. This is not true for the time-expanded model, whose updating involves a (sometimes large) sequence of edge insertions, deletions, and cost modifications.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improved bounds for finger search on a RAM",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-39658-1_31",
+            "Abstract": "We present a new finger search tree with O(1) worst-case update time and O(log log d) expected search time with high probability in the Random Access Machine (RAM) model of computation for a large class of input distributions. The parameter d represents the number of elements (distance) between the search element and an element pointed to by a finger, in a finger search tree that stores n elements. For the need of the analysis we model the updates by a \u201cballs and bins\u201d combinatorial game that is interesting in its own right as it involves insertions and deletions of balls according to an unknown distribution.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Robust line planning in case of multiple pools and disruptions",
+            "Publication year": 2001,
+            "Publication url": "http://olympias.lib.uoi.gr/jspui/handle/123456789/26664",
+            "Abstract": "Repository of UOI \"Olympias\": Robust line planning in case of multiple pools and \ndisruptions Skip navigation Home Browse Communities & Collections Browse Items by: \nIssue Date Author Title Subject Item Type Advanced Search Help About DSpace Sign on to: \nMy DSpace Receive email updates Edit Profile Saved Searches Favorites Repository of \nUOI \"Olympias\" 1.Repository of OAI 2.\u0391\u03a0\u039f\u0398\u0395\u03a4\u0397\u03a1\u0399\u039f \"\u039f\u039b\u03a5\u039c\u03a0\u0399\u0391\u03a3\" 3.\u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \n\u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd 4.\u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 5.\u039c\u03bf\u03bd\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b5\u03c2 \n( \u039a\u03bb\u03b5\u03b9\u03c3\u03c4\u03ad\u03c2) \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac English Please use this identifier to cite or link to this item: https://olympias.lib.uoi.gr/jspui/handle/123456789/26664 \nInstitution and School/Department of submitter: \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd. \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \n\u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd. \u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397/\u03a5 & \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 Keywords: - URI: https://olympias.lib.uoi.gr/jspui/handle/123456789/26664 \nPublisher: Springer Book name: Theory and .\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:-FonjvnnhkoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Simple Parallel Algorithms for Dynamic Range Products",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24024-4_23",
+            "Abstract": "We consider here the problem of answering range product queries on an n-node unrooted tree labelled with elements of a semigroup provided with an associative operator only. We present simple parallel dynamic algorithms for one of the weakest models of parallel computation (EREW PRAM). Our main result is an algorithm which answers a query in  time using a single processor after -time and O(n)-work preprocessing, where  is the inverse of Ackermann\u2019s function. The data structures set up during preprocessing are updated in  time and  work, for any (arbitrarily small) constant , after a dynamic change in the label of a tree node.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:KUbvn5osdkgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "DAP: A generic platform for the simulation of distributed algorithms",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1299480/",
+            "Abstract": "DAP (distributed algorithms platform) is a generic and homogeneous simulation environment aiming at the implementation, simulation, and testing of distributed algorithms for wired and wireless networks. In this work, we present its architecture, the most important design decisions, and discuss its distinct features and functionalities. DAP allows the algorithm designer to implement a distributed protocol by creating his own customized environment, and programming in a standard programming language in a style very similar to that of a real-world application. DAP provides a graphical user interface that allows the designer to monitor and control the execution of simulations, visualize algorithms, as well as gather statistics and other information for their experimental analysis and testing.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Engineering graph-based models for dynamic timetable information systems",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1570866717300606",
+            "Abstract": "In the last years we have witnessed remarkable progress in providing efficient algorithmic solutions to the problem of computing best journeys (or routes) in schedule-based public transportation systems. We have now models to represent timetables that allow us to answer queries for optimal journeys in a few milliseconds, also at a very large scale. Such models can be classified into two types: those representing the timetable as an array, and those representing it as a graph. Array-based models have been shown to be very effective in terms of query time, while graph-based ones usually answer queries by computing shortest paths, and hence they are suitable to be combined with the speed-up techniques developed for road networks.In this paper, we study the behavior of graph-based models in the prominent case of dynamic scenarios, i.e., when delays might occur to the original timetable. In particular, we make \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:zLWjf1WUPmwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Algorithmic methods for railway optimization",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13156813102337465603&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:YohjEiUPhakC",
+            "Publisher": "Springer-Verlag Berlin Heidelberg"
+        },
+        {
+            "Title": "Faster multiobjective heuristic search in road maps",
+            "Publication year": 2012,
+            "Publication url": "https://www.ceid.upatras.gr/webpages/faculty/zaro/pub/conf/C62-ICT2012-faster-mobj-search.pdf",
+            "Abstract": "We present new implementations of heuristic algorithms for the solution of the multiobjective shortest path problem, using a new graph structure specifically suited for large scale road networks. We enhance the heuristics with further optimizations and experimentally evaluate the performance of our enhanced implementation on real world road networks achieving 10 times better performance with respect to the best previous study.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hierarchical time-dependent oracles",
+            "Publication year": 2015,
+            "Publication url": "https://arxiv.org/abs/1502.05222",
+            "Abstract": "We study networks obeying \\emph{time-dependent} min-cost path metrics, and present novel oracles for them which \\emph{provably} achieve two unique features: % (i) \\emph{subquadratic} preprocessing time and space, \\emph{independent} of the metric's amount of disconcavity; % (ii) \\emph{sublinear} query time, in either the network size or the actual Dijkstra-Rank of the query at hand.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:xtoqd-5pKcoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distance oracles for time-dependent networks",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00453-015-0003-0.pdf",
+            "Abstract": "We present the first approximate distance oracle for sparse directed networks with time-dependent arc-travel-times determined by continuous, piecewise linear, positive functions possessing the FIFO property. Our approach precomputes -approximate distance summaries from selected landmark vertices to all other vertices in the network. Our oracle uses subquadratic space and time preprocessing, and provides two sublinear-time query algorithms that deliver constant and -approximate shortest-travel-times, respectively, for arbitrary origin\u2013destination pairs in the network, for any constant . Our oracle is based only on the sparsity of the network, along with two quite natural assumptions about travel-time functions which allow the smooth transition towards asymmetric and time-dependent distance metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Engineering planar separator algorithms",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1498698.1571635",
+            "Abstract": "We consider classical linear-time planar separator algorithms, determining for a given planar graph a small subset of its nodes whose removal divides the graph into two components of similar size. These algorithms are based on planar separator theorems, which guarantee separators of size O(\u221an) and remaining components of size at most 2n/3 (where n denotes the number of nodes in the graph). In this article, we present a comprehensive experimental study of the classical algorithms applied to a large variety of graphs, where our main goal is to find separators that do not only satisfy upper bounds, but also possess other desirable characteristics with respect to separator size and component balance. We achieve this by investigating a number of specific alternatives for the concrete implementation and fine-tuning of certain parts of the classical algorithms. It is also shown that the choice of several parameters \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:a0OBvERweLwC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Multiobjective optimization: Improved FPTAS for shortest paths and non-linear objectives with applications",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11940128_40",
+            "Abstract": "We provide an improved FPTAS for multiobjective shortest paths, a fundamental (NP-hard) problem in multiobjective optimization, along with a new generic method for obtaining FPTAS to any multiobjective optimization problem with non-linear objectives. We show how these results can be used to obtain better approximate solutions to three related problems that have important applications in QoS routing and in traffic optimization.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A location history-aware retail product recommender system",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8923403/",
+            "Abstract": "Mobile Context-Aware Recommender Systems (CARS) have recently emerged aiming at generating recommendations relevant to the specific environmental and situational usage context. This article reports on the design and implementation of a collaborative filtering-based mobile CARS, developed as part of an e-platform that supports location-based search for retail products and services sold by nearby physical retailer shops. In addition to the current user location, our RS considers a multitude of contextual factors like time, season, demographic data, consumer behavior, and location history of the user in order to derive more meaningful product recommendations. The RS has been tested on real operational environments as well as on lab evaluation trials demonstrating higher accuracy and relevance of recommendations against two baseline approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:HIFyuExEbWQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Elliptic Curve & Algebraic Geometry-On the Construction of Prime Order Elliptic Curves",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10279165500367356008&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:P7Ujq4OLJYoC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Front Matter, Table of Contents, Preface, Conference Organization",
+            "Publication year": 2020,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2020/13136/pdf/OASIcs-ATMOS-2020-0.pdf",
+            "Abstract": "20th Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, \nand Systems Page 1 20th Symposium on Algorithmic Approaches for Transportation \nModelling, Optimization, and Systems ATMOS 2020, September 7\u20138, 2020, Pisa, Italy (Virtual \nConference) Edited by Dennis Huisman Christos D. Zaroliagis OASIcs \u2013 Vol. 85 \u2013 ATMOS \n2020 www.dagstuhl.de/oasics Page 2 Editors Dennis Huisman Erasmus University \nRotterdam, the Netherlands huisman@ese.eur.nl Christos D. Zaroliagis CTI & University of \nPatras, Greece zaro@ceid.upatras.gr ACM Classification 2012 Theory of computation \u2192 \nDesign and analysis of algorithms; Mathematics of computing \u2192 Discrete mathematics; \nMathematics of computing \u2192 Combinatorics; Mathematics of computing \u2192 Mathematical \noptimization; Mathematics of computing \u2192 Graph theory; Applied computing \u2192 \nTransportation ISBN 978-3-95977-170-2 online /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:yMeIxYmEMEAC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Improved FPTAS for multiobjective shortest paths with applications",
+            "Publication year": 2005,
+            "Publication url": "http://students.ceid.upatras.gr/~tsaggour/CTI-TR-2005-07-03.pdf.gz",
+            "Abstract": "We consider multiobjective shortest paths, a fundamental (NP-hard) problem in multiobjective optimization, where we are interested not in optimizing a single objective, but in finding a set of paths that captures the trade-off (the so-called Pareto curve) among several objectives in a digraph whose edges are associated with multidimensional cost vectors. We provide a new FPTAS for computing an approximate Pareto curve for multiobjective shortest paths that significantly improves upon previous approaches, especially in the case of more than two objective functions. We show how our new FPTAS can be used to provide better approximate solutions to three related problems (multiobjective constrained optimal paths, multiobjective constrained paths, and non-additive shortest paths) that have important applications in the areas of quality of service routing in communication networks, and in computing traffic equilibria in transportation networks. We also show how our new FPTAS for multiobjective shortest paths can provide efficient approximate solutions in a completely different context\u2013to a natural generalization of the weighted multicommodity flow problem with elastic demands and values that models several realistic design scenarios in transportation and communication networks. Finally, as a byproduct of our framework, we provide a generic method for constructing FPTAS for any multiobjective optimization problem with non-linear objective functions of a rather general form.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:0EnyYjriUFMC",
+            "Publisher": "CTI Technical Report TR 2005/07/03"
+        },
+        {
+            "Title": "A software library for elliptic curve cryptography",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45749-6_55",
+            "Abstract": "We present an implementation of an EC cryptographic library targeting three main objectives: portability, modularity, and ease of use. Our goal is to provide a fully-equipped library of portable source code with clearly separated modules that allows for easy development of EC cryptographic protocols, and which can be readily tailored to suit different requirements and user needs. We discuss several implementation issues regarding the development oft he library and report on some preliminary experiments.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Shortest Paths in Time-Dependent Networks ant their Applications",
+            "Publication year": 2005,
+            "Publication url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2174762",
+            "Abstract": "Shortest Paths in Time-Dependent Networks ant their Applications :: MPG.PuRe Deutsch \nHilfe Datenschutzhinweis Impressum Volltexte einbeziehen DetailsucheBrowse START \nABLAGE (0)Werkzeuge Datensatz DATENSATZ AKTIONENEXPORT Zur Ablage \nhinzuf\u00fcgen Lokale TagsStatistikFreigabegeschichteDetails\u00dcbersicht Freigegeben \nHochschulschrift Shortest Paths in Time-Dependent Networks ant their Applications MPG-Autoren \n/persons/resource/persons45230 Pyrga, Evangelia Algorithms and Complexity, MPI for \nInformatics, Max Planck Society; International Max Planck Research School, MPI for \nInformatics, Max Planck Society; Externe Ressourcen Es sind keine externen Ressourcen \nhinterlegt Volltexte (frei zug\u00e4nglich) Es sind keine frei zug\u00e4nglichen Volltexte in PuRe \nverf\u00fcgbar Erg\u00e4nzendes Material (frei zug\u00e4nglich) Es sind keine frei zug\u00e4nglichen \nErg\u00e4nzenden Materialien verf\u00fcgbar Zitation Pyrga, E. ()-\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:k8Z6L05lTy4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "LIPIcs, Volume 57, ESA'16, Complete Volume",
+            "Publication year": 2016,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2016/6585/",
+            "Abstract": "DROPS - LIPIcs, Volume 57, ESA'16, Complete Volume License: Creative Commons \nAttribution 3.0 Unported license (CC-BY 3.0) when quoting this document, please refer to \nthe following URN: urn:nbn:de:0030-drops-65854 URL: https://drops.dagstuhl.de/opus/volltexte/2016/6585/ \nSankowski, Piotr ; Zaroliagis, Christos LIPIcs, Volume 57, ESA'16, Complete Volume pdf-format: \nlipics-vol57-esa2016-complete.pdf (51 MB) Abstract LIPIcs, Volume 57, ESA'16, Complete \nVolume BibTeX - Entry @InProceedings{sankowski_et_al:LIPIcs:2016:6585, author = {Piotr \nSankowski and Christos Zaroliagis}, title = {{LIPIcs, Volume 57, ESA'16, Complete Volume}}, \nbooktitle = {24th Annual European Symposium on Algorithms (ESA 2016)}, series = {Leibniz \nInternational Proceedings in Informatics (LIPIcs)}, ISBN = {978-3-95977-015-6}, ISSN = {1868-8969}, \nyear = {2016}, volume = {57}, editor = {Piotr Sankowski and Christos }, = {---}, {\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:Dip1O2bNi0gC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Securing Embedded Computing Systems through Elliptic Curve Cryptography",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/content/76967",
+            "Abstract": "Embedded computing devices dominate our everyday activities, from cell phones to wireless sensors that collect and process data for various applications. Although desktop and high-end server security seems to be under control by the use of current security technology, securing the low-end embedded computing systems is a difficult long-term problem. This is mainly due to the fact that the embedded systems are constrained by their operational environment and the limited resources they are equipped with. Recent research activities focus on the deployment of lightweight cryptographic algorithms and security protocols that are well suited to the limited resources of low-end embedded systems. Elliptic Curve Cryptography (ECC) offers an interesting alternative to the classical public key cryptography for embedded systems (eg, RSA and ElGamal), since it uses smaller key sizes for achieving the same security level \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Secure Elliptic Curve generation and key establishment on a 802.11 WLAN embedded device",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5207355/",
+            "Abstract": "Elliptic curve cryptography (ECC) is one of the most promising alternatives to conventional public key cryptography, such as RSA and ElGamal, since it employs keys of smaller sizes for the same level of cryptographic strength. Smaller key sizes imply smaller hardware units for performing the arithmetic operations required by cryptographic protocols and, thus, ECC is an ideal candidate for implementation in embedded systems where the major computational resources (speed and storage) are limited. In this paper we present a port, written in ANSI C for maximum portability, of an open source ECC-based cryptographic library (ECC-LIB) to ATMEL's AT76C520 802.11 WLAN Access Point. One of the major features of this port, not found in similar ports, is that it supports Complex Multiplication (CM) for the construction of Elliptic Curves with good security properties. We present some experimental results that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On Neural Networks and Paul Spirakis",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24024-4_3",
+            "Abstract": " \u201cWe are our connectome,\u201d this is the tautology du jour. Everything we do, think, remember, say (or write), is merely a projection of our current neural configuration. So, here goes.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:g3aElNc5_aQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Time-Dependent Alternative Route Planning: Theory and Practice",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/1999-4893/14/8/220",
+            "Abstract": "We consider the problem of computing a set of meaningful alternative origin-to-destination routes, in real-world road network instances whose arcs are accompanied by travel-time functions rather than fixed costs. In this time-dependent alternative route scenario, we present a novel query algorithm, called Time-Dependent Alternative Graph (TDAG), that exploits the outcome of a time-consuming preprocessing phase to create a manageable amount of travel-time metadata, in order to provide answers for arbitrary alternative-routes queries, in only a few milliseconds for continental-size instances. The resulting set of alternative routes is aggregated in the form of a time-dependent alternative graph, which is characterized by the minimum route overlap, small stretch factor, small size, and low complexity. To our knowledge, this is the first work that deals with the time-dependent setting in the framework of alternative routes. The preprocessed metadata prescribe the minimum travel-time informations between a small set of \u201clandmark\u201d nodes and all other nodes in the graph. The TDAG query algorithm carries out the work in two distinct phases: initially, a collection phase constructs candidate alternative routes; consequently, a pruning phase cautiously discards uninteresting or low-quality routes from the candidate set. Our experimental evaluation on real-world, time-dependent road networks demonstrates that TDAG performed much better (by one or two orders of magnitude) than the existing baseline approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:Ehil0879vHcC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "On the construction of prime order elliptic curves",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24582-7_23",
+            "Abstract": "We consider a variant of the Complex Multiplication (CM) method for constructing elliptic curves (ECs) of prime order with additional security properties. Our variant uses Weber polynomials whose discriminant D is congruent to 3 (mod 8), and is based on a new transformation for converting roots of Weber polynomials to their Hilbert counterparts. We also present a new theoretical estimate of the bit precision required for the construction of the Weber polynomials for these values of D. We conduct a comparative experimental study investigating the time and bit precision of using Weber polynomials against the (typical) use of Hilbert polynomials. We further investigate the time efficiency of the new CM variant under four different implementations of a crucial step of the variant and demonstrate the superiority of two of them.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Topic 12-Theory and Algorithms for Parallel Computation-Introduction",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=600920679757924896&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:a9-T7VOCCH8C",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "ART $$^ $$: A Fault-Tolerant Decentralized Tree Structure with Ultimate Sub-logarithmic Efficiency",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-29919-8_10",
+            "Abstract": "In this paper, we focus on large-scale, decentralized environments. Our aim is to develop an architecture that can support range queries and scale in terms of number of nodes as well as of data items stored. The solutions proposed in literature are inadequate for our purposes, since their classic logarithmic complexity is too expensive even for single queries. In this work, we contribute the ART (Autonomous Range Tree) structure, which outperforms the most popular decentralized structures, since it achieves sub-logarithmic complexity. ART achieves an  communication cost for query and update operations, where b is a double-exponentially power of 2 and N is the total number of nodes. Moreover, ART is a fully dynamic and fault-tolerant structure, which supports the join/leave node operations in  expected w.h.p number of hops and performs load-balancing in  \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:M7yex6snE4oC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Generating prime order elliptic curves: difficulties and efficiency considerations",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11496618_20",
+            "Abstract": "We consider the generation of prime order elliptic curves (ECs) over a prime field  using the Complex Multiplication (CM) method. A crucial step of this method is to compute the roots of a special type of class field polynomials with the most commonly used being the Hilbert and Weber ones, uniquely determined by the CM discriminant D. In attempting to construct prime order ECs using Weber polynomials two difficulties arise (in addition to the necessary transformations of the roots of such polynomials to those of their Hilbert counterparts). The first one is that the requirement of prime order necessitates that D \u2261 3 (mod 8), which gives Weber polynomials with degree three times larger than the degree of their corresponding Hilbert polynomials (a fact that could affect efficiency). The second difficulty is that these Weber polynomials do not have roots in . In this paper we show how to overcome the above difficulties and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Negative Cycles in Weighted Digraphs.",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16365429816024141623&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Robust line planning under unknown incentives and elasticity of frequencies",
+            "Publication year": 2008,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2008/1581/",
+            "Abstract": "The problem of robust line planning requests for a set of origin-destination paths (lines) along with their traffic rates (frequencies) in an underlying railway network infrastructure, which are robust to fluctuations of real-time parameters of the solution. In this work, we investigate a variant of robust line planning stemming from recent regulations in the railway sector that introduce competition and free railway markets, and set up a new application scenario: there is a (potentially large) number of line operators that have their lines fixed and operate as competing entities struggling to exploit the underlying network infrastructure via frequency requests, while the management of the infrastructure itself remains the responsibility of a single (typically governmental) entity, the network operator. The line operators are typically unwilling to reveal their true incentives. Nevertheless, the network operator would like to ensure a fair (or, socially optimal) usage of the infrastructure, eg, by maximizing the (unknown to him) aggregate incentives of the line operators. We show that this can be accomplished in certain situations via a (possibly anonymous) incentive-compatible pricing scheme for the usage of the shared resources, that is robust against the unknown incentives and the changes in the demands of the entities. This brings up a new notion of robustness, which we call incentive-compatible robustness, that considers as robustness of the system its tolerance to the entities' unknown incentives and elasticity of demands, aiming at an eventual stabilization to an equilibrium point that is as close as possible to the social optimum.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Improved oracles for time-dependent road networks",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1704.08445",
+            "Abstract": "A novel landmark-based oracle (CFLAT) is presented, which provides earliest-arrival-time route plans in time-dependent road networks. To our knowledge, this is the first oracle that preprocesses combinatorial structures (collections of time-stamped min-travel-time-path trees) rather than travel-time functions. The preprocessed data structure is exploited by a new query algorithm (CFCA) which computes (and pays for it), apart from earliest-arrival-time estimations, the actual connecting path that preserves the theoretical approximation guarantees. To make it practical and tackle the main burden of landmark-based oracles (the large preprocessing requirements), CFLAT is extensively engineered. A thorough experimental evaluation on two real-world benchmark instances shows that CFLAT achieves a significant improvement on preprocessing, approximation guarantees and query-times, in comparison to previous landmark-based oracles, whose query algorithms do not account for the path construction. It also achieves competitive query-time performance and approximation guarantees compared to state-of-art speedup heuristics for time-dependent road networks, whose query-times in most cases do not account for path construction.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:0N-VGjzr574C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scalable and Hierarchical Distributed Data Structures for Efficient Big Data Management",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-58628-7_8",
+            "Abstract": "In this work, we survey state of the art hierarchical distributed data structures for the efficient handling of big data, in scenarios where the dominant operation is range queries which have to be answered in real-time. Our main focus is on structures that exhibit stable scalability.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:KbBQZpvPDL4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "ISB-tree: A new indexing scheme with efficient expected behaviour",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1570866710000304",
+            "Abstract": "We present the interpolation search B-tree (ISB-tree), a new cache-aware indexing scheme that supports update operations (insertions and deletions) in O (1) worst-case block transfers and search operations in O (log B log n) expected block transfers, where B represents the disk block size and n denotes the number of stored elements. The expected search bound holds with high probability for a large class of (unknown) input distributions. The worst-case search bound of our indexing scheme is O (log B n) block transfers. Our update and expected search bounds constitute a considerable improvement over the O (log B n) worst-case block transfer bounds for search and update operations achieved by the B-tree and its numerous variants. This is also verified by an accompanying experimental study.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "eCOMPASS\u2013TR\u2013003",
+            "Publication year": 2012,
+            "Publication url": "https://trimis.ec.europa.eu/sites/default/files/project/documents/20121023_152644_48229_ECOMPASS-TR-005.pdf",
+            "Abstract": "We present a new graph data structure specifically suited for large-scale dynamic transportation networks. Our graph structure provides simultaneously three unique features: compactness, agility and dynamicity. All previously known graph structures could not support efficiently (or could not support at all) at least one of the aforementioned features, especially in large-scale dynamic transportation networks. We demonstrate the practicality and superiority of our new graph structure by conducting an experimental study for shortest route planning in large-scale European and USA road networks with a few dozen millions of nodes and edges. Our approach is the first one that concerns the dynamic maintenance of a large-scale graph with ordered elements using a contiguous part of memory, and which allows an arbitrary online reordering of its elements without violating its contiguity.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mobile user experience in augmented reality vs. maps interfaces: A case study in public transportation",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-40621-3_27",
+            "Abstract": "This article comprises a study on user experience when interacting with different modes of mobile interfaces. Our emphasis is on application instances commonly found in mobile app stores, which utilize sensor-based augmented reality or two-dimensional zoomable maps to visualize points of interest (POIs) in the vicinity of the user. As a case study, we developed two variants of an Android application addressed to public transportation users. The application displays nearby transit stops along with timetable information of transit services passing-by those stops. We report findings drawn from an empirical field study in real outdoors conditions. The evaluation findings have been cross-checked with logged (usage) data. We aim at eliciting knowledge about user requirements related to mobile application interfaces in this context and evaluating user experience from pragmatic and affective viewpoints.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:S16KYo8Pm5AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Attack Propagation in Networks",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18307742965386960116&hl=en&oi=scholarr",
+            "Abstract": "A new model for intrusion and its propagation through various attack schemes in networks is considered. The model is characterized by the number of network nodes n, and two parameters f and g. Parameter f represents the probability of failure of an attack to a node and is a gross measure of the level of security of the attacked system and perhaps of the intruder\u2019s skills; g represents a limit on the number of attacks that the intrusion software can ever try, when it issues them from a particular (broken) network node, due to the danger to be discovered. The success of the attack scheme is characterized by two factors: the number of nodes captured (the spread factor) and the number of virtual links that a defense mechanism has to trace from any node where the attack is active to the origin of the intrusion (the traceability factor). The goal of an intruder is to maximize both factors. In our model, we present four dierent ways \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic interpolation search revisited",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11786986_34",
+            "Abstract": "A new dynamic Interpolation Search (IS) data structure is presented that achieves O(loglogn) search time with high probability on unknown continuous or even discrete input distributions with measurable probability of key collisions, including power law and Binomial distributions. No such previous result holds for IS when the probability of key collisions is measurable. Moreover, our data structure exhibits O(1) expected search time with high probability for a wide class of input distributions that contains all those for which o(loglogn) expected search time was previously known.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The railway traveling salesman problem",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74247-0_14",
+            "Abstract": "We consider the Railway Traveling Salesman Problem (RTSP) in which a salesman using the railway network wishes to visit a certain number of cities to carry out his/her business, starting and ending at the same city, and having as goal to minimize the overall time of the journey. RTSP is an -hard problem. Although it is related to the Generalized Asymmetric Traveling Salesman Problem, in this paper we follow a direct approach and present a modelling of RTSP as an integer linear program based on the directed graph resulted from the timetable information. Since this graph can be very large, we also show how to reduce its size without sacrificing correctness. Finally, we conduct an experimental study with real-world and synthetic data that demonstrates the superiority of the size reduction approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Experimental Comparison of Shortest Path Approaches for Timetable Information.",
+            "Publication year": 2004,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.4852&rep=rep1&type=pdf",
+            "Abstract": "We consider two approaches that model timetable information in public transportation systems as shortestpath problems in weighted graphs. In the time-expanded approach every event at a station, eg, the departure of a train, is modeled as a node in the graph, while in the time-dependent approach the graph contains only one node per station. Both approaches have been recently considered for the earliest arrival problem, but little is known about their relative performance. So far, there are only theoretical arguments in favor of the time-dependent approach. In this paper, we provide an extensive experimental comparison of the two approaches. Using several real-world data-sets we evaluate the performance of the basic models and of several extensions towards realistic modeling. Furthermore, new insights on solving bicriteria problems in both models are presented. The time-expanded approach turns out to be more robust for modeling more complex scenarios, whereas the time-dependent approach shows a clearly better performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Two Approaches for Time-Table Information: a Comparison of Models and Performance",
+            "Publication year": 2003,
+            "Publication url": "http://kops.uni-konstanz.de/handle/123456789/6018",
+            "Abstract": "We consider two approaches that model timetable information in public transportation systems as shortest-path problems in weighted graphs. In the time-expanded approach every event at a station, e.g., the departure of a train, is modelled as a node in the graph, while in the time-dependent approach the graph contains only one node per station. Train connections without intermediate stops correspond to edges. There is one edge for each single connection in the time-expanded model; in contrast, a couple of trains belong to the same edge in the time-dependent model. Both approaches have been recently considered for the earliest arrival problem. In this paper, we compare, on the one hand, the approaches with respect to more realistic modelling of real-world requirements. On the other hand, we evaluate their performance in an experimental study using real-world data.The time-expanded approach turns out to be more robust for modelling more complex scenarios, whereas the time-dependent approach shows a clearly better performance.As a conclusion the combination of both approaches seems promising.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scalable and Hierarchical Distributed Data Structures for Efficient Big Data Management",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-030-58628-7.pdf#page=133",
+            "Abstract": "In this work, we survey state of the art hierarchical distributed data structures for the efficient handling of big data, in scenarios where the dominant operation is range queries which have to be answered in real-time. Our main focus is on structures that exhibit stable scalability.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:fFSKOagxvKUC",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "Recent advances in multiobjective optimization",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11571155_5",
+            "Abstract": "Multiobjective (or multicriteria) optimization is a research area with rich history and under heavy investigation within Operations Research and Economics in the last 60 years [1,2]. Its object of study is to investigate solutions to combinatorial optimization problems that are evaluated under several objective functions \u2013 typically defined on multidimensional attribute (cost) vectors. In multiobjective optimization, we are interested not in finding a single optimal solution, but in computing the trade-off among the different objective functions, called the Pareto set (or curve) , which is the set of all feasible solutions whose vector of the various objectives is not dominated by any other solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the efficient generation of elliptic curves over prime fields",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36400-5_25",
+            "Abstract": "We present a variant of the complex multiplication method that generates elliptic curves of cryptographically strong order. Our variant is based on the computation ofWeber polynomials that require significantly less time and space resources than their Hilbert counterparts. We investigate the time efficiency and precision requirements for generating off-line Weber polynomials and its comparison to another variant based on the off-line generation of Hilbert polynomials. We also investigate the efficiency of our variant when the computation of Weber polynomials should be made on-line due to limitations in resources (e.g., hardware devices of limited space).We present trade-offs that could be useful to potential implementors of elliptic curve cryptosystems on resource-limited hardware devices.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Front Matter, Table of Contents, Preface, Programm Commitee, External Reviewers",
+            "Publication year": 2016,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2016/6342/pdf/LIPIcs-ESA-2016-0.pdf",
+            "Abstract": "24th Annual European Symposium on Algorithms Piotr Sankowski Christos Zaroliagis Page \n1 24th Annual European Symposium on Algorithms ESA 2016, August 22\u201324, 2016, Aarhus, \nDenmark Edited by Piotr Sankowski Christos Zaroliagis LIPIcs \u2013 Vol. 57 \u2013 ESA 2016 www.dagstuhl.de/lipics \nPage 2 Editors Piotr Sankowski Christos Zaroliagis Institute of Infortmatics Department of \nComputer Engineering & Informatics University of Warsawa, Poland University of Patras, \nGreece sank@mimuw.edu.pl zaro@ceid.upatras.gr ACM Classification 1998 E.1 Data \nStructures, F.2.2 Nonnumerical Algorithms and Problems, G.1.6 Optimization, G.2 Discrete \nMathematics, G.4 Mathematical Software, I.1.2 Algorithms, I.2.8 Problem Solving, Control \nMethods, and Search, I.3.5 Computational Geometry and Object Modeling. ISBN 978-3-95977-015-6 \nPublished online and open access by Schloss Dagstuhl \u2013 Leibniz-Zentrum f\u00fcr GmbH, \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:PoWvk5oyLR8C",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Robust and Online Large-scale Optimization: Models and Techniques for Transportation Systems",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5175719723768873880&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:F9fV5C73w3QC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Algorithmic aspects of web intelligent systems",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-05320-1_15",
+            "Abstract": "We discuss the algorithmic aspects of a Web intelligent system which demonstrate several challenges encountered during the development of such systems on the Web. The particular system is an online fun portal that adopts several key ideas spanning from site design to user walk-through and extended user-input analysis, in order to intelligently adapt to user interests and, consequently, improve user experience. Our algorithmic techniques build upon concepts from machine learning and statistics (na\u00efve Bayes analysis and user models), as well as several ideas for efficient and timely data manipulation (incremental algorithms and extended caching), and they allow us to efficiently handle and analyze the collected data.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:VLnqNzywnoUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A Glimpse at Paul G. Spirakis",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24024-4_1",
+            "Abstract": "Paul Spirakis is an eminent, talented, and influential researcher that contributed significantly to computer science. This article is a modest attempt of a biographical sketch of Paul, which we drafted with extreme love and honor.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ILKRHgRFtOwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Heapsort using multiple heaps",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Christos-Zaroliagis/publication/228868535_Heapsort_using_Multiple_Heaps/links/53e255f80cf216e8321a9335/Heapsort-using-Multiple-Heaps.pdf",
+            "Abstract": "We present a modification of the in-place algorithm HEAPSORT using multiple heaps. Our algorithm reduces the number of swaps made between the elements of the heap structure after the removal of the root at the cost of some extra comparisons. In order to retain the property of sorting in-place, we perform a kind of multiplexing and store all heaps in a single array such that no extra space is required. We also present a theoretical analysis of our algorithm, providing a specific formula for computing the optimal number of heaps to be used, and back up our theoretical findings with an experimental study, which shows the superiority of our approach with respect to the classical HEAPSORT.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "D3-Tree: A Dynamic Deterministic Decentralized Structure",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-48350-3_82",
+            "Abstract": "We present D 3-Tree, a dynamic deterministic structure for data management in decentralized networks, by engineering and further extending an existing decentralized structure. D 3-Tree achieves O(logN) worst-case search cost (N is the number of nodes in the network), O(logN) amortized load-balancing cost, and it is highly fault-tolerant. A particular strength of D 3-Tree is that it achieves O(logN) amortized search cost under massive node failures. We conduct an extensive experimental study verifying that D 3-Tree outperforms other well-known structures and that it achieves a significant success rate in element queries in case of massive node failures.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:vbGhcppDl1QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Algorithms for Transport Optimization Theory and Practice",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4592848517393457107&hl=en&oi=scholarr",
+            "Abstract": "Public or private transport gives rise to several optimization problems, which are typically characterized by high complexity and sheer size, while some of them pose, in addition, real-time response constraints. Efficient algorithms can make a great difference towards an efficient and effective solution of such problems. In this talk, a few important algorithmic approaches are surveyed that are theoretically sound and practically efficient for the transport optimization problems they solve.In the first part of the talk, robustness issues are investigated for the line planning problem in public transport under a specific uncertainty setting, motivated by recent market regulations in the railway sector. In this setting, a potentially large number of line operators, operating as commercial organizations, offer services to customers, while a central (typically state) authority manages the railway network infrastructure. The line operators act as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "eCOMPASS\u2013TR\u2013002",
+            "Publication year": 2012,
+            "Publication url": "https://trimis.ec.europa.eu/sites/default/files/project/documents/20121023_152548_13813_ECOMPASS-TR-002.pdf",
+            "Abstract": "We conduct an experimental study for the timetabling problem in a public railway network under disruptions. We investigate three bicriteria optimization problems introduced recently that model the robustness of a timetable towards delays. We experimentally evaluated these models against various waiting time rules at stations. Our results constitute the first proofsof-concept for these new robust timetabling approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A location history-aware recommender system for smart retail environments",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00779-020-01374-7.pdf",
+            "Abstract": "Recommender systems (RSs) represent integral parts of e-commerce platforms for almost two decades now. The recent emergence of mobile context-aware RSs (CARS) contributed in improving the relevance of recommendations derived by \u201ctraditional\u201d RSs through adapting them to the situational user context. This article presents the design and implementation aspects of a collaborative filtering-based mobile CARS, which has been integrated in a smart retailing platform that enables location-based search for retail products and services. In addition to user location, the introduced CARS considers several context parameters like time, season, demographic data, consumer behavior, and location history of the user in order to derive more meaningful product recommendations. Our RS has undergone field trials as well as formal laboratory evaluation tests demonstrating higher accuracy and relevance of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:bKqednn6t2AC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Multimodal route and tour planning in urban environments",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8024532/",
+            "Abstract": "The environmental impact of the steadily increasing demand for mobility of people and goods, especially in urban environments, raises public concern and presents challenges that need to be addressed in the interest of long-term sustainability. Along this line, the inherently eco-friendly human mobility which involves the use of urban public transit networks must be encouraged and eased. This necessitates the development of context-aware services that hide the complexity of public transit networks while considering all available transportation modalities (e.g. bus, metro, tram, walking and cycling) in order to provide sophisticated route planning tailored to both residents and visitors of urban areas. The EU-funded eCOMPASS research project has addressed this challenge through establishing a methodological framework for route planning optimization. A core objective of the project has been to employ novel \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:5qfkUJPXOUwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enabling social navigation on the web",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4740441/",
+            "Abstract": "For a place that gathers millions of people the Web seems pretty lonely at times. This is mainly due to the current predominant browsing scenario; that of an individual participating in an autonomous surfing session. We believe that people should be seen as an integral part of the browsing and searching activity towards a concept known as social navigation. In this work, we extend the typical Web browserpsilas functionality so as to raise awareness of other people having similar Web surfing goals at the current moment. We further present features and algorithms that facilitate online communication and collaboration towards common searching targets. The utility of our system is established by experimental studies. The extentions we present can be easily adopted in a typical Web browser.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "-ESA 2016 Special Issue",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/fullHtml/10.1145/3298788",
+            "Abstract": "This special issue contains four among the top papers that were presented (in a preliminary form) at the 24th European Symposium on Algorithms (ESA), Engineering and Applications Track (Track B), that took place on 22\u201324 August 2016 in Aarhus (Denmark). ESA is a premier conference on algorithms, covering research in the broad spectrum of design, analysis, engineering, and applications of algorithms and data structures.The articles in this special issue were invited based on their evaluation by the ESA 2016 Track B program committee, as well as on extensive discussions among the members of the same committee. All articles are widely expanded versions of their preliminary counterparts presented at ESA 2016, are indicative of the quality of ESA 2016 papers, and went through the standard rigorous refereeing process of the ACM Journal of Experimental Algorithmics before being accepted to this special \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:0izLItjtcgwC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "On the Use of Weber polynomials in elliptic curve cryptography",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-25980-0_28",
+            "Abstract": "In many cryptographic applications it is necessary to generate elliptic curves (ECs) with certain security properties. These curves are commonly constructed using the Complex Multiplication method which typically uses the roots of Hilbert or Weber polynomials. The former generate the EC directly, but have high computational demands, while the latter are faster to construct but they do not lead, directly, to the desired EC. In this paper we present in a simple and unifying manner a complete set of transformations of the roots of a Weber polynomial to the roots of its corresponding Hilbert polynomial for all discriminant values on which they are defined. Moreover, we prove a theoretical estimate of the precision required for the computation of Weber polynomials. Finally, we experimentally assess the computational efficiency of the Weber polynomials along with their precision requirements for various discriminant \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "eCOMPASS\u2013TR\u2013049",
+            "Publication year": 2014,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8605338396162986541&hl=en&oi=scholarr",
+            "Abstract": "Many efforts have been done in the last decade to model public transport timetables in a graph theoretical framework. The aim is to represent a timetable as a graph so that an optimal route or itinerary is found by computing afterwards a shortest path in such a graph. One of the most used models is the so called time-expanded graph model. Its main drawback is that if the timetable changes (eg, due to a delay occurring in the network), the graph needs to be topologically updated. In this paper we propose a new model to represent the timetable of a public transportation system as a graph. Its main advantage is that it can be efficiently updated after a change in the timetable. In fact, it is based on a compact representation that allows us to update the graph by changing only few arc weights and does not require any topological modification. We also conduct a comparative experimental study on realworld timetables to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scenic Athens: A personalized scenic route planner for tourists",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7543892/",
+            "Abstract": "Several mobile guides for unknown destinations provide assistance to tourists (through personalized tour recommendations) in making feasible plans and visiting the most interesting POIs within their available time. However, existing tourist tour planners only regard available attractions as sites lacking physical dimensions (i.e. POIs are treated as points). Although this is adequate for scheduling visits at POIs with single entry/exit points, it fails to capture practical properties of typical tourist visiting styles in urban destinations (e.g. tourists typically enjoy walking on pedestrian zones, market areas and scenic neighborhoods). Herein, we introduce Scenic Athens, a context-aware mobile city guide for Athens (Greece) which delivers personalized tour planning services to tourists deriving near-optimal sequencing of POIs along recommended tours. Scenic Athens takes into account a multitude of travel restrictions and POI \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:e_rmSamDkqQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "04261 Abstracts Collection--Algorithmic Methods for Railway Optimization",
+            "Publication year": 2006,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2006/471/",
+            "Abstract": "From 20.06. 04 to 25.06. 04, the Dagstuhl Seminar 04261``Algorithmic Methods for Railway Optimization''was held in the International Conference and Research Center (IBFI), Schloss Dagstuhl. During the seminar, several participants presented their current research, and ongoing work and open problems were discussed. Abstracts of the presentations given during the seminar as well as abstracts of seminar results and ideas are put together in this paper. The first section describes the seminar topics and goals in general. Links to extended abstracts or full papers are provided, if available.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Routing protocols for efficient communication in wireless ad-hoc networks",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1163610.1163625",
+            "Abstract": "In this paper we demonstrate the significant impact of the user mobility rates on the performance on two different approaches for designing routing protocols for ad-hoc mobile networks:(a) the route creation and maintenance approach and (b) the\" support\" approach, that forces few hosts to move acting as\" helpers\" for message delivery. We study a set of representative protocols for each approach, ie DSR and ZRP for the first approach and RUNNERS for the second. We have implemented the three protocols and performed a large scale and detailed simulation study of their performance. Our findings are:(i) DSR achieves low message delivery rates but manages to deliver messages very fast;(ii) ZRP behaves well in networks of low mobility rate, while its performance drops for networks of highly mobile users;(iii) RUNNERS seem to tolerate well (and in fact benefit from) high mobility rates. Based on our investigation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient generation of secure elliptic curves",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10207-006-0009-3.pdf",
+            "Abstract": "In many cryptographic applications it is necessary to generate elliptic curves (ECs) whose order possesses certain properties. The method that is usually employed for the generation of such ECs is the so-called Complex Multiplication method. This method requires the use of the roots of certain class field polynomials defined on a specific parameter called the discriminant. The most commonly used polynomials are the Hilbert and Weber ones. The former can be used to generate directly the EC, but they are characterized by high computational demands. The latter have usually much lower computational requirements, but they do not directly construct the desired EC. This can be achieved if transformations of their roots to the roots of the corresponding (generated by the same discriminant) Hilbert polynomials are provided. In this paper we present a variant of the Complex Multiplication method that generates \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Multimodal dynamic journey-planning",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/552072",
+            "Abstract": "In this paper, a new model, known as the multimodal dynamic timetable model (DTM), is presented for computing optimal multimodal journeys in schedule-based public transport systems. The new model constitutes an extension of the dynamic timetable model (DTM), which was developed originally for a different setting (unimodal journey-planning). Multimodal DTM demonstrates a very fast query algorithm that meets the requirement for real-time response to best journey queries, and an ultra-fast update algorithm for updating the timetable information in case of delays of scheduled-based vehicles. An experimental study on real-world metropolitan networks demonstrates that the query and update algorithms of Multimodal DTM compare favorably with other state-of-the-art approaches when public transport, including unrestricted\u2014with respect to departing time\u2014traveling (eg, walking and electric vehicles) is considered. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:Ri6SYOTghG4C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "An experimental study of algorithms for fully dynamic transitive closure",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11561071_49",
+            "Abstract": "We have conducted an extensive experimental study on some recent, theoretically outstanding, algorithms for fully dynamic transitive closure along with several variants of them, and compared them to pseudo fully dynamic and simple-minded algorithms developed in a previous study. We tested and compared these implementations on random inputs, synthetic (worst-case) inputs, and on inputs motivated by real-world graphs. Our experiments reveal that some of the fully dynamic algorithms can really be of practical value in many situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the efficient generation of prime-order elliptic curves",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00145-009-9037-2.pdf",
+            "Abstract": "We consider the generation of prime-order elliptic curves (ECs) over a prime field    using the Complex Multiplication (CM) method. A crucial step of this method is to compute the roots of a special type of class field polynomials with the most commonly used being the Hilbert and Weber ones. These polynomials are uniquely determined by the CM discriminant D. In this paper, we consider a variant of the CM method for constructing elliptic curves (ECs) of prime order using Weber polynomials. In attempting to construct prime-order ECs using Weber polynomials, two difficulties arise (in addition to the necessary transformations of the roots of such polynomials to those of their Hilbert counterparts). The first one is that the requirement of prime order necessitates that D\u22613mod8), which gives Weber polynomials with degree three times larger than the degree of their corresponding Hilbert polynomials (a fact that could affect \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Shortest paths in digraphs of small treewidth. Part I: Sequential algorithms",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/article/10.1007/s004530010016",
+            "Abstract": " We consider the problem of preprocessing an n -vertex digraph with real edge weights so that subsequent queries for the shortest path or distance between any two vertices can be efficiently answered. We give algorithms that depend on the treewidth  of the input graph. When the treewidth is a constant, our algorithms can answer distance queries in O(\u03b1(n))  time after O(n)  preprocessing. This improves upon previously known results for the same problem. We also give a dynamic algorithm which, after a change in an edge weight, updates the data structure in time O(n  \u03b2  ) , for any constant 0 < \u03b2 < 1 . Furthermore, an algorithm of independent interest is given: computing a shortest path tree, or finding a negative cycle in linear time. ",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Attack propagation in networks",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-003-1087-5",
+            "Abstract": " A new model for intrusion and its propagation through various attack schemes in networks is considered. The model is characterized by the number of network nodes n, and two parameters f and g. Parameter f represents the probability of failure of an attack to a node and is a gross measure of the level of security of the attacked system and perhaps of the intruder\u2019s skills; g represents a limit on the number of attacks that the intrusion software can ever try, due to the danger of being discovered, when it issues them from a particular (broken) network node. The success of the attack scheme is characterized by two factors: the number of nodes captured (the spread factor) and the number of virtual links that a defense mechanism has to trace from any node where the attack is active to the origin of the intrusion (the traceability factor). The goal of an intruder is to maximize both factors. In our model we present four \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "The eCOMPASS multimodal tourist tour planner",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417415003826",
+            "Abstract": "Tour planning represents a challenging task for individuals visiting unfamiliar tourist destinations, mainly due to the availability of numerous attractions (points of interest, POIs) and the complexity of metropolitan public transit networks. Several web and mobile tourist city guides already support personalized tour recommendations. However, they exclusively consider walking tours; namely, they fail in motivating tourists to use public transportation for reaching far located important POIs, thereby compromising the perceived overall attractiveness of recommended tours. In this paper, we introduce eCOMPASS, a context-aware web/mobile application which derives personalized multimodal tours via selected urban attractions. eCOMPASS is the only available research or commercial tour planner that assists the way arounds of tourists through public transit. Far beyond than just providing navigational aid, eCOMPASS \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:p__nRnzSRKYC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Non-additive shortest paths",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30140-0_72",
+            "Abstract": "The non-additive shortest path (NASP) problem asks for finding an optimal path that minimizes a certain multi-attribute non-linear cost function. In this paper, we consider the case of a non-linear convex and non-decreasing function on two attributes. We present an efficient polynomial algorithm for solving a Lagrangian relaxation of NASP. We also present an exact algorithm that is based on new heuristics we introduce here, and conduct a comparative experimental study with synthetic and real-world data that demonstrates the quality of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Using multi-level graphs for timetable information in railway systems",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45643-0_4",
+            "Abstract": "In many fields of application, shortest path finding problems in very large graphs arise. Scenarios where large numbers of on-line queries for shortest paths have to be processed in real-time appear for example in traffic information systems. In such systems, the techniques considered to speed up the shortest path computation are usually based on precomputed information. One approach proposed often in this context is a space reduction, where precomputed shortest paths are replaced by single edges with weight equal to the length of the corresponding shortest path. In this paper, we give a first systematic experimental study of such a space reduction approach. We introduce the concept of multi-level graph decomposition. For one specific application scenario from the field of timetable information in public transport, we perform a detailed analysis and experimental evaluation of shortest path computations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Analysis and experimental evaluation of time-dependent distance oracles",
+            "Publication year": 2014,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611973754.13",
+            "Abstract": "Urban road networks are represented as directed graphs, accompanied by a metric which assigns cost functions (rather than scalars) to the arcs, e.g. representing time-dependent arc-traversal-times. In this work, we present oracles for providing time-dependent min-cost route plans, and conduct their experimental evaluation on a real-world data set (city of Berlin). Our oracles are based on precomputing all landmark-to-vertex shortest travel-time functions, for properly selected landmark sets. The core of this preprocessing phase is based on a novel, quite efficient and simple one-to-all approximation method for creating approximations of shortest travel-time functions. We then propose three query algorithms, including a PTAS, to efficiently provide min-cost route plan responses to arbitrary queries. Apart from the purely algorithmic challenges, we deal also with several implementation details concerning the digestion \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:epqYDVWIO7EC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Distributed algorithm engineering",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36383-1_10",
+            "Abstract": "When one engineers distributed algorithms, some special characteristics arise that are different from conventional (sequential or parallel) computing paradigms. These characteristics include: the need for either a scalable real network environment or a platform supporting a simulated distributed environment; the need to incorporate asynchrony, where arbitrarya synchrony is hard, if not impossible, to implement; and the generation of \u201cdifficult\u201d input instances which is a particular challenge. In this work, we identifys ome of the methodological issues required to address the above characteristics in distributed algorithm engineering and illustrate certain approaches to tackle them via case studies. Our discussion begins byad dressing the need of a simulation environment and how asynchronyis incorporated when experimenting with distributed algorithms. We then proceed bys uggesting two methods for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On Assessing Robustness in Transportation Planning",
+            "Publication year": 2009,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2009/2146/",
+            "Abstract": "We consider a fundamental problem, called\\emph {QoS-aware Multicommodity Flow}, for assessing robustness in transportation planning. It constitutes a natural generalization of the weighted multicommodity flow problem, where the demands and commodity values are elastic to the Quality-of-Service (QoS) characteristics of the underlying network. The problem is also fundamental in other domains beyond transportation planning. In this work, we provide an extensive experimental study of two FPTAS for the QoS-aware Multicommodity Flow Problem enhanced with several heuristics, and show the superiority of a new heuristic we introduce here.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "20th Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",
+            "Publication year": 2020,
+            "Publication url": "https://scholar.archive.org/work/3hvhihkuibhvrmkmzmhbk635hy/access/wayback/https://drops.dagstuhl.de/opus/volltexte/2020/13135/pdf/oasics-vol085-atmos2020-complete.pdf",
+            "Abstract": "Running and optimizing transportation systems give rise to very complex and large-scale optimization problems requiring innovative solution techniques and ideas from mathematical optimization, theoretical computer science, and operations research. Since 2000, the series of Algorithmic Approaches for Transportation Modelling, Optimization, and Systems (ATMOS) symposia brings together researchers and practitioners who are interested in all aspects of algorithmic methods and models for transportation optimization and provides a forum for the exchange and dissemination of new ideas and techniques. The scope of ATMOS comprises all modes of transportation.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:8xutWZnSdmoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "D3-Tree: A Dynamic Distributed Deterministic Load-Balancer for decentralized tree structures",
+            "Publication year": 2015,
+            "Publication url": "https://arxiv.org/abs/1503.07905",
+            "Abstract": "In this work, we propose D3-Tree, a dynamic distributed deterministic structure for data management in decentralized networks. We present in brief the theoretical algorithmic analysis, in which our proposed structure is based on, and we describe thoroughly the key aspects of the implementation. Conducting experiments, we verify that the implemented structure outperforms other well-known hierarchical tree-based structures, since it provides better complexities regarding load-balancing operations. More specifically, the structure achieves a logarithmic amortized bound, using an efficient deterministic load-balancing mechanism, which is general enough to be applied to other hierarchical tree-based structures. Moreover, we investigate the structure's fault tolerance, which hasn't been sufficiently tackled in previous work, both theoretically and through rigorous experimentation. We prove that D3-Tree is highly fault tolerant, since, even for massive node failures, it achieves a significant success rate in element queries. Afterwards we go one step further, in order to achieve sub-logarithmic complexity and propose the ART+ structure (Autonomous Range Tree), exploiting the excellent performance of D3-Tree. ART+ is a fully dynamic and fault-tolerant structure, which achieves sub-logarithmic performance for query and update operations and performs load-balancing in sub-logarithmic amortized cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Shortest Paths in Planar Graphs with Negative Weight Edges.",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6838070242671812336&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:JQOojiI6XY0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Iclone: towards online social navigation",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1379092.1379143",
+            "Abstract": "For a place that gathers millions of people the Web seems pretty lonely at times. This is mainly due to the current predominant browsing scenario; that of an individual participating in an autonomous surfing session. We believe that people should be seen as an integral part of the browsing and searching activity towards a concept known as social navigation. Based on this observation we present iClone (www. iclone. com), a social web browser that is able to raise awareness of other people surfing similar websites at the same time by utilizing temporal correlations of their web history logs and to facilitate online communication and collaboration.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the implementation of parallel shortest path algorithms on a supercomputer",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11946441_40",
+            "Abstract": "We investigate the practical merits of a parallel priority queue through its use in the development of a fast and work-efficient parallel shortest path algorithm, originally designed for an EREW PRAM. Our study reveals that an efficient implementation on a real supercomputer requires considerable effort to reduce the communication performance (which in theory is assumed to take constant time). It turns out that the most crucial part of the implementation is the mapping of the logical processors to the physical processing nodes of the supercomputer. We achieve the requested efficient mapping through a new graph-theoretic result of independent interest: computing a Hamiltonian cycle on a directed hyper-torus. No such algorithm was known before for the case of directed hypertori. Our Hamiltonian cycle algorithm allows us to considerably improve the communication cost and thus the overall performance of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "eCOMPASS\u2013TR\u2013033",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17696987150530999010&hl=en&oi=scholarr",
+            "Abstract": "Public or private transport gives rise to several optimization problems, which are typically characterized by high complexity and sheer size, while some of them pose, in addition, real-time response constraints. Efficient algorithms can make a great difference towards an efficient and effective solution of such problems. In this talk, a few important algorithmic approaches are surveyed that are theoretically sound and practically efficient for the transport optimization problems they solve.In the first part of the talk, robustness issues are investigated for the line planning problem in public transport under a specific uncertainty setting, motivated by recent market regulations in the railway sector. In this setting, a potentially large number of line operators, operating as commercial organizations, offer services to customers, while a central (typically state) authority manages the railway network infrastructure. The line operators act as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic timetable information in smart cities",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8024502/",
+            "Abstract": "We provide a cloud-based journey planner for public transport built upon an efficient core routing engine that updates efficiently timetable information in case of delays. We describe our mobile application along with a service that allows users to assess the suggested journeys offered by the application, built on top of an IoT/FIRE+ infrastructure. Our journey planner contributes to the establishment of a live community of travelers, equipped with an arsenal of inter-operable personalized renewable mobility services, for modern mobility in smart cities.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:ClCfbGk0d_YC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Frontmatter, Table of Contents, Preface, Workshop Organization",
+            "Publication year": 2014,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2014/4747/pdf/p000-00-frontmatter.pdf",
+            "Abstract": "14th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and \nSystems Stefan Funke and Mat\u00fa\u0161 Mihal\u00e1 Page 1 14th Workshop on Algorithmic Approaches for \nTransportation Modelling, Optimization, and Systems ATMOS\u201914, September 11th, 2014, Wroc\u0142aw, \nPoland Edited by Stefan Funke and Mat\u00fa\u0161 Mihal\u00e1k OASIcs \u2013 Vol. 42 \u2013 ATMOS\u201914 \nwww.dagstuhl.de/oasics Page 2 Editors Stefan Funke Mat\u00fa\u0161 Mihal\u00e1k Universit\u00e4t Stuttgart ETH \nZurich Stuttgart, Germany Zurich, Switzerland funke@fmi.uni-stuttgart.de \nmatus.mihalak@inf.ethz.ch ACM Classification 1998 F.2 Analysis of Algorithms and Problem \nComplexity, G.1.6 Optimization, G.2.1 Combinatorics, G.2.2 Graph Theory, G.2.3 Applications ISBN \n978-3-939897-75-0 Published online and open access by Schloss Dagstuhl \u2013 Leibniz-Zentrum f\u00fcr \nInformatik GmbH, Dagstuhl Publishing, Saarbr\u00fccken/Wadern, Germany. Online available at http://../\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:URolC5Kub84C",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Geometric shortest path containers",
+            "Publication year": 2004,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.1745&rep=rep1&type=pdf",
+            "Abstract": "In this paper, we consider Dijkstra\u2019s algorithm for the single source single target shortest path problem in large sparse graphs. The goal is to reduce the response time for on-line queries by using precomputed information. Due to the size of the graph, preprocessing space requirements can be only linear in the number of nodes. We assume that a layout of the graph is given. In the preprocessing, we determine from this layout a geometric object for each edge containing all nodes that can be reached by a shortest path starting with that edge. Based on these geometric objects, the search space for on-line computation can be reduced significantly. Shortest path queries can then be answered by Dijkstra\u2019s algorithm restricted to edges where the corresponding geometric object contains the target. We present an extensive experimental study comparing the impact of different types of objects. The test data we use are real-world traffic networks, the typical field of application for this scenario. Furthermore, we present new algorithms as well as an empirical study for the dynamic case of this problem, where edge weights are subject to change and the geometric containers have to be updated. We evaluate the quality and the time for different update strategies that guarantee correct shortest paths. Finally, we present a software framework in C++ to realize the implementations of all of our variants of Dijkstra\u2019s algorithm. A basic implementation of the algorithm is refined for each modification and\u2013even more importantly\u2013these modifications can be combined in any possible way without loss of efficiency.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:umqufdRvDiIC",
+            "Publisher": "Universit\u00e4t Karlsruhe, Fakult\u00e4t f\u00fcr Informatik"
+        },
+        {
+            "Title": "Session 5A-Combinatorial Optimization and Computational Biology-Multiobjective Optimization: Improved FPTAS for Shortest Paths and Non-linear Objectives with Applications",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1917362947424598081&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Searchius: A collaborative search engine",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4351430/",
+            "Abstract": "Searchius is a collaborative search engine that produces search results based solely on user provided web-related data. We discuss the architecture of this system and how it compares to current state-of-the-art search engines. We show that the global users' preference over pages can be efficiently used as a metric of page quality, and that the inherent organization of the collected data can be used to discover related URLs. We also conduct an extensive experimental study, based on the web related data of 36483 users, to analyze the qualitative and quantitative characteristics of user collected URL collections, to investigate how well the users URL collections cover the web and discover the characteristics that affect the quality of the search results under the proposed setting.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploiting Amorphous Data Parallelism to Speed-Up Massive Time-Dependent Shortest-Path Computations",
+            "Publication year": 2019,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2019/11421/",
+            "Abstract": "We aim at exploiting parallelism in shared-memory multiprocessing systems, in order to speed up the execution time with as small redundancy in work as possible, for an elementary task that comes up frequently as a subroutine in the daily maintenance of large-scale time-dependent graphs representing real-world relationships or technological networks: the many-to-all time-dependent shortest paths (MATDSP) problem. MATDSP requires the computation of one time-dependent shortest-path tree (TDSPT) per origin-vertex and departure-time, from an arbitrary collection of pairs of origins and departure-times, towards all reachable destinations in the graph. Our goal is to explore the potential and highlight the limitations of amorphous data parallelism, when dealing with MATDSP in multicore computing environments with a given amount of processing elements and a shared memory to exploit. Apart from speeding-up execution time, consumption of resources (and energy) is also critical. Therefore, we aim at limiting the work overhead for solving a MATDSP instance, as measured by the overall number of arc relaxations in shortest-path computations, while trying to minimize the overall execution time. Towards this direction, we provide several algorithmic engineering interventions for solving MATDSP concerning:(i) the compact representation of the instance;(ii) the choice and the improvement of the time-dependent single-source shortest path algorithm that is used as a subroutine;(iii) the way according to which the overall work is allocated to the processing elements;(iv) the adoption of the amorphous data parallelism rationale, in order to avoid \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:9c2xU6iGI7YC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Engineering oracles for time-dependent road networks",
+            "Publication year": 2016,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611974317.1",
+            "Abstract": "We implement and experimentally evaluate landmark-based oracles for min-cost paths in two different types of road networks with time-dependent arc-cost functions, based on distinct real-world historic traffic data: the road network for the metropolitan area of Berlin, and the national road network of Germany.Our first contribution is a significant improvement on the implementation of the FLAT oracle, which was proposed and experimentally tested in previous works. Regarding the implementation, we exploit parallelism to reduce preprocessing time and real-time responsiveness to live-traffic reports. We also adopt a lossless compression scheme that severely reduces preprocessing space and time requirements. As for the experimentation, apart from employing the new data set of Germany, we also construct several refinements and hybrids of the most prominent landmark sets for the city of Berlin. A significant \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:TIZ-Mc8IlK0C",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Towards realistic modeling of time-table information through the time-dependent approach",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S157106610400009X",
+            "Abstract": "We consider optimal itinerary problems in time-table information systems supporting a vast number of on-line queries. We exhibit two important extensions of the time-dependent approach to model realistic versions of the Earliest Arrival and Minimum Number of Transfer problems, as well as of a combination of them, that could not be modeled by the original version of the time-dependent approach. We also provide heuristics that speed up implementations and present preliminary experimental results with real-world data.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Searching the web through user information spaces",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11581062_64",
+            "Abstract": "During the last years web search engines have moved from the simple but inefficient syntactical analysis (first generation) to the more robust and usable web graph analysis (second generation). Much of the current research is focussed on the so-called third generation search engines that, in principle, inject \u201chuman characteristics\u201d on how results are obtained and presented to the end user. Approaches exploited towards this direction include (among others): an alteration of PageRank [1] that takes into account user specific characteristics and bias the page ordering using the user preferences (an approach, though, that does not scale well with the number of users). The approach is further exploited in [3], where several PageRanks are computed for a given number of distinct search topics. A similar idea is used in [6], where the PageRank computation takes into account the content of the pages and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient distributed range query processing in apache spark",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8752645/",
+            "Abstract": "Range queries are important in many diverse applications. In its simplest one-dimensional form, a range query is expressed by an interval [a, b] on the real line, whereas the answer consists of all elements e \u2208 [a, b]. In this work, we focus on efficient range query processing techniques in the Apache Spark engine, which is the state-of-the-art solution for big data management and analytics. We aim at developing a Spark-based indexing scheme that supports range queries in such large-scale decentralized environments and scale well w.r.t. the number of nodes and the data items stored. Towards this goal, there have been solutions in the last few years, which however turn out to be inadequate at the envisaged scale, since the classic linear or even the logarithmic complexity (for point queries) is still too expensive, whereas range query processing is even more demanding. In this paper, we go one step further and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:OTTXONDVkokC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Implementations and experimental studies of dynamic graph algorithms",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36383-1_11",
+            "Abstract": "Dynamic graph algorithms have been extensively studied in the last two decades due to their wide applicabilityin manycon texts. Recently, several implementations and experimental studies have been conducted investigating the practical merits of fundamental techniques and algorithms. In most cases, these algorithms required sophisticated engineering and fine-tuning to be turned into efficient implementations. In this paper, we surveyseveral implementations along with their experimental studies for dynamic problems on undirected and directed graphs. The former case includes dynamic connectivity, dynamic minimum spanning trees, and the sparsification technique. The latter case includes dynamic transitive closure and dynamic shortest paths. We also discuss the design and implementation of a software libraryfor dynamic graph algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Improved algorithms for dynamic shortest paths",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s004530010043.pdf",
+            "Abstract": " We describe algorithms for finding shortest paths and distances in outerplanar and planar digraphs that exploit the particular topology of the input graph. An important feature of our algorithms is that they can work in a dynamic environment, where the cost of any edge can be changed or the edge can be deleted. In the case of outerplanar digraphs, our data structures can be updated after any such change in only logarithmic time. A distance query is also answered in logarithmic time. In the case of planar digraphs, we give an interesting tradeoff between preprocessing, query, and update times depending on the value of a certain topological parameter of the graph. Our results can be extended to n -vertex digraphs of genus O(n  1-\u03b5  )  for any \u03b5>0 .",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "A personalized multimodal tourist tour planner",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2677972.2677977",
+            "Abstract": "Tourists become increasingly dependent on mobile city guides to locate tourist services and retrieve information about nearby points of interest (POIs) when visiting unknown destinations. Although several city guides support the provision of personalized tour recommendations to assist tourists visiting the most interesting attractions, existing tour planners only consider walking tours. Herein, we introduce eCOMPASS, a context-aware mobile application which also considers the option of using public transit for moving around. Far beyond than just providing navigational aid, eCOMPASS incorporates multimodality (ie time dependency) within its routing logic aiming at deriving near-optimal sequencing of POIs along recommended tours so as to best utilize time available for sightseeing and minimize waiting time at transit stops. Further advancing the state of the art, eCOMPASS allows users to define arbitrary start/end \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:uWiczbcajpAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Renewable Mobility in Smart Cities: The MOVESMART Approach",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=KpreDwAAQBAJ&oi=fnd&pg=PA135&dq=info:5Vsb4DtQ-_QJ:scholar.google.com&ots=-xBsl3u7E3&sig=3NDM-OkjRuw5uAcFDiFiDb5MJq4",
+            "Abstract": "The provision of personalized mobility services in urban environments that combine transportation modalities (electromobility, public transportation, etc.) together with the advent of modern transport models like bike and car sharing is essential for creating efficient sustainable mobility chains for travelers. Such a development presents many challenges related to the route planning in urban traffic networks as well as the offering of innovative features in urban mobility.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:yFnVuubrUp4C",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "Efficient models for timetable information in public transportation systems",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1227161.1227166",
+            "Abstract": "We consider two approaches that model timetable information in public transportation systems as shortest-path problems in weighted graphs. In the time-expanded approach, every event at a station, e.g., the departure of a train, is modeled as a node in the graph, while in the time-dependent approach the graph contains only one node per station. Both approaches have been recently considered for (a simplified version of) the earliest arrival problem, but little is known about their relative performance. Thus far, there are only theoretical arguments in favor of the time-dependent approach. In this paper, we provide the first extensive experimental comparison of the two approaches. Using several real-world data sets, we evaluate the performance of the basic models and of several new extensions towards realistic modeling. Furthermore, new insights on solving bicriteria optimization problems in both models are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Multiobjective optimization: Improved FPTAS for shortest paths and non-linear objectives with applications",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-007-9096-4",
+            "Abstract": " We provide an improved FPTAS for multiobjective shortest paths\u2014a fundamental (NP-hard) problem in multiobjective optimization\u2014along with a new generic method for obtaining FPTAS to any multiobjective optimization problem with non-linear objectives. We show how these results can be used to obtain better approximate solutions to three related problems, multiobjective constrained [optimal] path and non-additive shortest path, that have important applications in QoS routing and in traffic optimization. We also show how to obtain a FPTAS to a natural generalization of the weighted multicommodity flow problem with elastic demands and values that models several realistic scenarios in transportation and communication networks. ",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Topic 12: Theory and Algorithms for Parallel Computation",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85451-7_93",
+            "Abstract": "Parallelism permeates all levels of current computing systems, from single CPU machines to large server farms. Effective use of parallelism relies crucially on the availability of suitable models of computation for algorithm design and analysis, and of efficient strategies for the solution of key computational problems on prominent classes of platforms, as well as of good models of the way the different components are interconnected. With the advent of multicore parallel machines, new models and paradigms are needed to allow parallel programming to advance into mainstream computing. Topic 12 focuses on contibutions providing new results on foundational issues of parallelism in computing and/or proposing improved approaches for the solution of specific algorithmic problems.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "                                          D            2 -Tree: A New Overlay with Deterministic Bounds",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-014-9878-4",
+            "Abstract": "We present a new overlay, called the Deterministic Decentralized tree (-tree). The -tree compares favorably to other overlays for the following reasons: (a) it provides matching and better complexities, which are deterministic for the supported operations; (b) the management of nodes (peers) and elements are completely decoupled from each other; and (c) an efficient deterministic load-balancing mechanism is presented for the uniform distribution of elements into nodes, while at the same time probabilistic optimal bounds are provided for the congestion of operations at the nodes. The load-balancing scheme of elements into nodes is deterministic and general enough to be applied to other hierarchical tree-based overlays. This load-balancing mechanism is based on an innovative lazy weight-balancing mechanism, which is interesting in its own right.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:kz9GbA2Ns4gC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Experimenting with Relay Protocols for Communication in Ad-hoc Mobile Networks",
+            "Publication year": 2002,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.583.218&rep=rep1&type=pdf",
+            "Abstract": "We investigate the efficiency of protocols for basic communication in ad-hoc mobile networks. All protocols are classified in the semi-compulsory, relay category according to which communication is achieved through a small team of mobile hosts, called the support, which move in a predetermined way and serves as an intermediate pool for receiving and delivering messages. We implement a new semi-compulsory, relay protocol in which the motion of the support is based on a so-called \u201chunter\u201d strategy developed for a pursuit-evasion game. We conduct an extensive, comparative experimental study of this protocol with other two existing protocols, each one possessing a different motion for its support. We considered several types of inputs, including among others two kinds of motion patterns (random and adversarial) for the mobile hosts not in the support. Our experiments showed that for all protocols the throughput scales almost linearly with the number of mobile hosts in the network, and that a small support size suffices for efficient communication. An interesting outcome is that in most cases the new protocol is inferior to the other two, although it has a global knowledge of the motion space.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:dshw04ExmUIC",
+            "Publisher": "Technical Report ALCOMFT-TR-02-71, ALCOM-FT, Patras"
+        },
+        {
+            "Title": "Engineering algorithms for large network applications",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.423.3521",
+            "Abstract": "computing inversion distance between signed permutations with an experimental study. J. Comp. Biol. 8 (5), 483\u2013491 (2001) 4. Farris, JS: The logical basis of phylogenetic analysis. In: Platnick, NI, Funk, VA (eds.) Advances in Cladistics, pp. 1\u201336. Columbia Univ. Press, New York (1983) 5. Felsenstein, J.: Evolutionary trees from DNA sequences: a maximum",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:uLbwQdceFCQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algorithms, Probability, Networks, and Games",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24024-4.pdf",
+            "Abstract": "This Festschrift volume is published in honor of Paul G. Spirakis on the occasion of his 60th birthday to celebrate his significant contributions to Computer Science. The celebration was complemented by a special event that took place in Patras on 16 September 2015 within the frame of ALGO 2015\u2013the major annual algorithmic event combining the premier algorithmic conference European Symposium on Algorithms (ESA) along with a number of specialized conferences and workshops (ALGOCLOUD, ALGOSENSORS, ATMOS, IPEC, MASSIVE, WAOA), all related to algorithms and their applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:L7CI7m0gUJcC",
+            "Publisher": "Springer, Heidelberg"
+        },
+        {
+            "Title": "Eco-aware vehicle routing in urban environments",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8024531/",
+            "Abstract": "Mobility of people and goods in urban environments raises several quality and sustainability concerns. While ICTs have established the ground for developing intelligent transport services, their effective use for supporting cleaner urban mobility still represents a major research challenge. The eCOMPASS research project addressed this challenge through introducing new mobility concepts and establishing a methodological framework for route planning optimization, delivering a comprehensive set of innovative tools and services for end-users to enable eco-awareness in urban transport. eCOMPASS innovative tools are based on new algorithmic technology concerning tools and methods for vehicle routing (cars and vehicle fleets) and multimodal human mobility for city dwellers and tourists. eCOMPASS involved a generic architecture that considered all types and scenarios of human and goods mobility in urban \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:hCrLmN-GePgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Synthesizing routing protocols for ad-hoc mobile networks",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Christos-Zaroliagis/publication/228719728_Synthesizing_Routing_Protocols_for_Ad-hoc_Mobile_Networks/links/0912f514232b4968e6000000/Synthesizing-Routing-Protocols-for-Ad-hoc-Mobile-Networks.pdf",
+            "Abstract": "We investigate the impact of different mobility rates on the performance of routing protocols in ad-hoc mobile networks. Based on our investigation, we design a new protocol that results from the synthesis of the well known protocols: ZRP and RUNNERS. We have implemented the new protocol as well as the original two protocols and conducted an extensive, comparative simulation study of their performance. The new protocol behaves well both in networks of diverse mobility motion rates, and in some cases even outperforms the original ones by achieving lower message delivery delays.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "13th Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",
+            "Publication year": 2013,
+            "Publication url": "https://d-nb.info/104137027X/34",
+            "Abstract": "In response to the call for papers we received 26 submissions, all of which were reviewed by at least three referees. The submissions were judged on originality, technical quality, and relevance to the topics of the workshop. Based on the reviews, the program committee selected the 12 papers which appear in this volume. Together, they quite impressively demonstrate the range of applicability of algorithmic optimization to transportation problems in a wide sense. In addition, Tobias Harks kindly agreed to complement the program with an invited talk entitled Modeling and Optimizing Traffic Networks.We would like to thank the members of the Steering Committee of ATMOS for giving us the opportunity to serve as Program Chairs of ATMOS\u201913, all the authors who submitted papers, Tobias Harks for accepting our invitation to present an invited talk, the members of the Program Committee and all the additional reviewers for their valuable work in selecting the papers appearing in this volume, and the local organizers for hosting the workshop as part of ALGO\u201913. We also acknowledge the use of the EasyChair system for the great help in managing the submission and review processes, and Schloss Dagstuhl for publishing the proceedings of ATMOS\u201913 in its OASIcs series. Finally, we are pleased to announce that this year, for the first time, ATMOS PC awards a Best Paper Award. The Best Paper of ATMOS 2013 is A Configuration Model for the Line Planning Problem by Ralf Bornd\u00f6rfer, Heide Hoppmann, and Marika Karbstein.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Renewable mobility in smart cities: Cloud-based services",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8538479/",
+            "Abstract": "Providing efficient, sustainable and personalized mobility services in urban environments that combine a spectrum of transport modes (e.g., public transport, electric vehicles, vehicle sharing, low energy and/or emission routes) constitutes a great challenge. In this work, we present MOVESMART, a holistic approach (and integrated platform) for the provision of renewable personal mobility services, leveraging crowd-sourcing data, tools for collecting real-time information by multimodal travelers, and traffic prediction mechanisms. MOVESMART guarantees real-time responses to renewable (on-demand) mobility queries for efficient multi-modal route planning that are time-dependent as well as sensitive to aperiodic incidents and traffic prediction forecasts. This paper focuses on the cloudbased (backend) services of the MOVESMART platform.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:8d8msizDQcsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improved alternative route planning",
+            "Publication year": 2013,
+            "Publication url": "https://hal.inria.fr/hal-00871739/",
+            "Abstract": "We present improved methods for computing a set of alternative source-to-destination routes in road networks in the form of an alternative graph. The resulting alternative graphs are characterized by minimum path overlap, small stretch factor, as well as low size and complexity. Our approach improves upon a previous one by introducing a new pruning stage preceding any other heuristic method and by introducing a new filtering and fine-tuning of two existing methods. Our accompanying experimental study shows that the entire alternative graph can be computed pretty fast even in continental size networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Schloss Dagstuhl\u2015Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "QoS-aware multicommodity flows and transportation planning",
+            "Publication year": 2006,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2006/682/",
+            "Abstract": "We consider the emph {QoS-aware Multicommodity Flow} problem, a natural generalization of the weighted multicommodity flow problem where the demands and commodity values are elastic to the Quality-of-Service characteristics of the underlying network. The problem is fundamental in transportation planning and also has important applications beyond the transportation domain. We provide a FPTAS for the QoS-aware Multicommodity Flow problem by building upon a Lagrangian relaxation method and a recent FPTAS for the non-additive shortest path problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Algorithmic Methods for Railway Optimization: International Dagstuhl Workshop, Dagstuhl Castle, Germany, June 20-25, 2004, 4th International Workshop, ATMOS 2004, Bergen, Norway, September 16-17, 2004",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17726058164816158152&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:WJVC3Jt7v1AC",
+            "Publisher": "Springer-Verlag Berlin Heidelberg"
+        },
+        {
+            "Title": "A cloud-based time-dependent routing service",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-57045-7_4",
+            "Abstract": "We present a cloud-based time-dependent routing service, which is a core component in providing efficient personalized renewable mobility services in smart cities. We describe the architecture of the time-dependent routing engine, consisting of a core routing module along with the so-called urban-traffic knowledge base, which creates, maintains and stores historic traffic data, as well as live traffic updates such as road blockages or unforeseen congestion. We also provide the crucial algorithmic details for providing the sought efficient time-dependent routing service. Our cloud-based time-dependent routing service exhibits an excellent practical behavior on a diversity (w.r.t. to scale and type) of real-world road networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:edDO8Oi4QzsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Geometric containers for efficient shortest-path computation",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1064546.1103378",
+            "Abstract": "A fundamental approach in finding efficiently best routes or optimal itineraries in traffic information systems is to reduce the search space (part of graph visited) of the most commonly used shortest path routine (Dijkstra's algorithm) on a suitably defined graph. We investigate reduction of the search space while simultaneously retaining data structures, created during a preprocessing phase, of size linear (i.e., optimal) to the size of the graph. We show that the search space of Dijkstra's algorithm can be significantly reduced by extracting geometric information from a given layout of the graph and by encapsulating precomputed shortest-path information in resulted geometric objects (containers). We present an extensive experimental study comparing the impact of different types of geometric containers using test data from real-world traffic networks. We also present new algorithms as well as an empirical study for the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "On Building Search Engines Based on User Information Spaces",
+            "Publication year": 2005,
+            "Publication url": "https://www.researchgate.net/profile/Christos-Zaroliagis/publication/228402766_On_Building_Search_Engines_Based_on_User_Information_Spaces/links/53e255f90cf275a5fdd6ba35/On-Building-Search-Engines-Based-on-User-Information-Spaces.pdf",
+            "Abstract": "We present Searchius, a hybrid peer-to-peer search engine that collects and analyzes bookmark collections and their structure submitted by users. Unlike current peer-to-peer systems, which are mainly used to exchange files between users, Searchius facilitates the sharing of information. We discuss how this search engine is built and updated and how the global users\u2019 preference over pages can be used as a metric of page quality. We will also show that the source and type of collected data can be used to effectively personalize the query results. Finally, we report on experimental results.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "TRAILS, a toolkit for efficient, realistic and evolving models of mobility, faults and obstacles in wireless networks",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4494402/",
+            "Abstract": "We present a new simulation toolkit called TRAILS (Toolkit for Realism and Adaptivity In Large-scale Simulations), which extends the ns-2 simulator by adding important functionality and optimizing certain critical simulator operations. The added features provide the tools to study wireless networks of high dynamics. TRAILS facilitates the implementation of advanced mobility patterns, obstacle presence and disaster scenarios, and failures injection that can dynamically change throughout the execution of the simulation. Moreover, we define a set of utilities that enhance the use of ns-2. This functionality is implemented in a simple and flexible architecture, that follows design patterns, object oriented and generic programming principles, maintaining a proper balance between reusability, extendability and ease of use. We evaluate the performance of TRAILS and show that it offers significant speed-ups regarding the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Computing mimicking networks",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/article/10.1007/s004539910003",
+            "Abstract": " A mimicking network  for a k -terminal network, N , is one whose realizable external flows are the same as those of N . Let S(k)  denote the minimum size of a mimicking network for a k -terminal network. In this paper we give new constructions of mimicking networks and prove the following results (the values in brackets are the previously best known results): S(4)=5 [2  16  ] , S(5)=6 [2  32  ] . For bounded treewidth networks we show S(k)= O(k) [2^ 2  k   ] , and for outerplanar networks we show S(k)  10k-6 [k  2  2  k+2  ] .",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:4DMP91E08xMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "An experimental study of basic communication protocols in ad-hoc mobile networks",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44688-5_13",
+            "Abstract": "We investigate basic communication protocols in ad-hoc mobile networks. We follow the semi-compulsory approach according to which a small part of the mobile users, the support \u2211, that moves in a predetermined way is used as an intermediate pool for receiving and delivering messages. Under this approach, we present a new semi-compulsory protocol called the runners in which the members of \u2211 perform concurrent and continuous random walks and exchange any information given to them by senders when they meet. We also conduct a comparative experimental study of the runners protocol with another existing semi-compulsory protocol, called the snake, in which the members of \u2211 move in a coordinated way and always remain pairwise adjacent. The experimental evaluation has been carried out in a new generic framework that we developed to implement protocols for mobile computing. Our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "L3AQ8wkAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An optimal parallel algorithm for minimum spanning trees in planar graphs",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24024-4_11",
+            "Abstract": "We present an optimal deterministic O(n)-work parallel algorithm for finding a minimum spanning tree on an n-vertex planar graph. The algorithm runs in  time on a CRCW PRAM and in  time on an EREW PRAM. Our results hold for any sparse graph that is closed under taking of minors, as well as for a class of graphs with non-bounded genus.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:EYYDruWGBe4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Robust and online large-scale optimization: models and techniques for transportation systems",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=bRpuCQAAQBAJ&oi=fnd&pg=PR2&dq=info:p7LTZakL5VIJ:scholar.google.com&ots=hwk4IuEWc8&sig=60ycYAmEW2vpIz8W6QUysyMGaqU",
+            "Abstract": "Scheduled transportation networks give rise to very complex and large-scale networkoptimization problems requiring innovative solution techniques and ideas from mathematical optimization and theoretical computer science. Examples of scheduled transportation include bus, ferry, airline, and railway networks, with the latter being a prime application domain that provides a fair amount of the most complex and largest instances of such optimization problems. Scheduled transport optimization deals with planning and scheduling problems over several time horizons, and substantial progress has been made for strategic planning and scheduling problems in all transportation domains. This state-of-the-art survey presents the outcome of an open call for contributions asking for either research papers or state-of-the-art survey articles. We received 24 submissions that underwent two rounds of the standard peer-review process, out of which 18 were finally accepted for publication. The volume is organized in four parts: Robustness and Recoverability, Robust Timetabling and Route Planning, Robust Planning Under Scarce Resources, and Online Planning: Delay and Disruption Management.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "A new dynamic graph structure for large-scale transportation networks",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-38233-8_26",
+            "Abstract": "We present a new dynamic graph structure specifically suited for large-scale transportation networks that provides simultaneously three unique features: compactness, agility and dynamicity. We demonstrate its practicality and superiority by conducting an experimental study for shortest route planning in large-scale European and US road networks with a few dozen millions of nodes and edges. Our approach is the first one that concerns the dynamic maintenance of a large-scale graph with ordered elements using a contiguous memory part, and which allows an arbitrary online reordering of its elements.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "MR1784112 (2001e: 05122) 05C85 (68R10)",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.352.5029&rep=rep1&type=pdf",
+            "Abstract": "\u201cWe describe algorithms for finding shortest paths and distances in outerplanar and planar digraphs that exploit the particular topology of the input graph. An important feature of our algorithms is that they can work in a dynamic environment, where the cost of any edge can be changed or the edge can be deleted. In the case of outerplanar digraphs, our data structures can be updated after any such change in only logarithmic time. A distance query is also answered in logarithmic time. In the case of planar digraphs, we give an interesting tradeoff between preprocessing, query, and update times depending on the value of a certain topological parameter of the graph. Our results can be extended to n-vertex digraphs of genus O (n1\u2212 \u03b5) for any \u03b5> 0.\u201d",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An experimental study of dynamic algorithms for transitive closure",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/945394.945403",
+            "Abstract": "We perform an extensive experimental study of several dynamic algorithms for transitive closure. In particular, we implemented algorithms given by Italiano, Yellin, Cicerone et al., and two recent randomized algorithms by Henzinger and King. We propose a fine-tuned version of Italiano's algorithms as well as a new variant of them, both of which were always faster than any of the other implementations of the dynamic algorithms. We also considered simple-minded algorithms that were easy to implement and likely to be fast in practice. Wetested and compared the above implementations on random inputs, on non-random inputs that are worst-case inputs for the dynamic algorithms, and on an input motivated by a real-world graph.",
+            "Abstract entirety": 1,
+            "Author pub id": "L3AQ8wkAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "ACM"
+        }
+    ]
+}]

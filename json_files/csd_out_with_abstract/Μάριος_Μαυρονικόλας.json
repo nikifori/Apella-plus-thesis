@@ -1,0 +1,1090 @@
+[{
+    "name": "\u039c\u03ac\u03c1\u03b9\u03bf\u03c2 \u039c\u03b1\u03c5\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc\u03bb\u03b1\u03c2",
+    "romanize name": "Marios Mavronikolas",
+    "School-Department": " \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "University of Cyprus",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 1892,
+    "Scholar name": "Marios Mavronicolas",
+    "Scholar id": "PAACT74AAAAJ",
+    "Affiliation": "Professor of Computer Science, University of Cyprus",
+    "Citedby": 2726,
+    "Interests": [
+        "Algorithmic Game Theory",
+        "Distributed Computing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=PAACT74AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "The complexity of equilibria for risk-modeling valuations",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397516300524",
+            "Abstract": "Following the direction pioneered by Fiat and Papadimitriou in their 2010 paper [12], we study the complexity of deciding the existence of mixed equilibria for minimization games where players use valuations other than expectation to evaluate their costs. We consider risk-averse players seeking to minimize the sum V= E+ R of expectation E and a risk valuation R of their costs; R is non-negative and vanishes exactly when the cost incurred to a player is constant over all choices of strategies by the other players. In a V-equilibrium, no player could unilaterally reduce her cost. Say that V has the Weak-Equilibrium-for-Expectation property if all strategies supported in a player's best-response mixed strategy incur the same conditional expectation of her cost. We introduce E-strict concavity and observe that every E-strictly concave valuation has the Weak-Equilibrium-for-Expectation property. We focus on a broad class of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:evX43VCCuoAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Nash equilibria in discrete routing games with convex latency functions",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0022000008000524",
+            "Abstract": "In a discrete routing game, each of n selfish users employs a mixed strategy to ship her (unsplittable) traffic over m parallel links. The (expected) latency on a link is determined by an arbitrary non-decreasing, non-constant and convex latency function \u03d5. In a Nash equilibrium, each user alone is minimizing her (Expected) Individual Cost, which is the (expected) latency on the link she chooses. To evaluate Nash equilibria, we formulate Social Cost as the sum of the users'(Expected) Individual Costs. The Price of Anarchy is the worst-case ratio of Social Cost for a Nash equilibrium over the least possible Social Cost. A Nash equilibrium is pure if each user deterministically chooses a single link; a Nash equilibrium is fully mixed if each user chooses each link with non-zero probability. We obtain: For the case of identical users, the Social Cost of any Nash equilibrium is no more than the Social Cost of the fully mixed Nash \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Sequentially consistent versus linearizable counting networks",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s00446-008-0066-0",
+            "Abstract": "We compare the impact of timing conditions on implementing sequentially consistent and linearizable counters using (uniform) counting networks in distributed systems. For counting problems in application domains which do not require linearizability but will run correctly if only sequential consistency is provided, the results of our investigation, and their potential payoffs, are threefold: First, we show that sequential consistency and linearizability cannot be distinguished by the timing conditions previously considered in the context of counting networks; thus, in contexts where these constraints apply, it is possible to rely on the stronger semantics of linearizability, which simplifies proofs and enhances compositionality. Second, we identify local timing conditions that support sequential consistency but not linearizability; thus, we suggest weaker, easily implementable timing conditions that are likely to be sufficient \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:a0OBvERweLwC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Distributed Computing Theory To Date (Part I: Models and an Example)",
+            "Publication year": 2001,
+            "Publication url": "http://www2.cs.ucy.ac.cy/~mavronic/pdf/M01.pdf",
+            "Abstract": "Distributed Computing Theory has been undergoing a series of spectacular developments in the last two decades or so such developments have turned it into one of the most vivid and challenging fields of modern Theoretical Computer Science. In this four-part survey, we attempt to highlight some of the most thrilling developments, both by now classical and more recent, in this young field. Our presentation is structured around three main axes: canonical problems in the field, and results concerning them that have spawned a whole bunch of subsequent research activities and findings (part II) theoretical and mathematical concepts, techniques and tools that have contributed to the establishment of the formal foundations of the field (part II) some of the currently major research directions within the field, that are being observed to promote its frontier and are hoped to lead to even more significant developments in the future (part III).",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance and stability bounds for dynamic networks",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1300487/",
+            "Abstract": "In this work, we study the impact of dynamically changing link capacities on the delay bounds of LIS (longest-in-system) and SIS (shortest-in-system) protocols on specific networks (that can be modelled as directed acyclic graphs - DAGs) and stability bounds of greedy contention-resolution protocols running on arbitrary networks under the adversarial queueing theory. Especially, we consider the model of dynamic capacities, where each link capacity may take on integer values from [1,C] with C > 1, under a (w,p)-adversary.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A cost mechanism for fair pricing of resource usage",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11600930_21",
+            "Abstract": "We propose a simple and intuitive cost mechanism which assigns costs for the competitive usage of mresources by n selfish agents. Each agent has an individual demand; demands are drawn according to some probability distribution. The cost paid by an agent for a resource she chooses is the total demand put on the resource divided by the number of agents who chose that same resource. So, resources charge costs in an equitable, fair way, while each resource makes no profit out of the agents.We call our model the Fair Pricing model. Its fair cost mechanism induces a non-cooperative game among the agents. To evaluate the Nash equilibria of this game, we introduce the Diffuse Price of Anarchy, as an extension of the Price of Anarchy that takes into account the probability distribution on the demands. We prove:    Pure Nash equilibria may not exist \u2026 Pure Nash equilibria may not exist \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Minimizing Expectation Plus Variance",
+            "Publication year": 2015,
+            "Publication url": "https://ris.uni-paderborn.de/record/398",
+            "Abstract": "We consider strategic games in which each player seeks a mixed strategy to minimize her cost evaluated by a concave valuation V (mapping probability distributions to reals); such valuations are used to model risk. In contrast to games with expectation-optimizer players where mixed equilibria always exist (Nash 1950; Nash Ann. Math. 54, 286\u2013295, 1951), a mixed equilibrium for such games, called a V-equilibrium, may fail to exist, even though pure equilibria (if any) transfer over. What is the exact impact of such valuations on the existence, structure and complexity of mixed equilibria? We address this fundamental question in the context of expectation plus variance, a particular concave valuation denoted as RA, which stands for risk-averse; so, variance enters as a measure of risk and it is used as an additive adjustment to expectation. We obtain the following results about RA-equilibria: A collection of general \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:GtLg2Ama23sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Extreme nash equilibria",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-45208-9_1",
+            "Abstract": "We study the combinatorial structure and computational complexity of extreme Nash equilibria, ones that maximize or minimize a certain objective function, in the context of a selfish routing game. Specifically, we assume a collection of nusers, each employing a mixed strategy, which is a probability distribution over m parallel links, to control the routing of its own assigned traffic. In a Nash equilibrium, each user routes its traffic on links that minimize its expected latency cost.Our structural results provide substantial evidence for the Fully Mixed Nash Equilibrium Conjecture, which states that the worst Nash equilibrium is the fully mixed Nash equilibrium, where each user chooses each link with positive probability. Specifically, we prove that the Fully Mixed Nash Equilibrium Conjecture is valid for pure Nash equilibria and that under a certain condition, the social cost of any Nash equilibrium is within a factor of 6 + \u03b5, of that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "One-round Walks in Linear Congestion Games",
+            "Publication year": 2013,
+            "Publication url": "http://eatcs.org/beatcs/index.php/beatcs/article/download/180/175",
+            "Abstract": "Which is the approximation ratio of the solutions achieved after a oneround walk starting from the empty strategy profile in linear congestion games for the social function defined as the sum of the players\u2019 costs? The exact answer has been given only for the cases of unweighted players with unrestricted sets of strategies and weighted players with singleton strategies on identical resources. In this note, we survey results, techniques and open problems from this research topic.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:EYYDruWGBe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient bufferless packet switching on trees and leveled networks",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731507001037",
+            "Abstract": "In bufferless networks the packets cannot be buffered while they are in transit; thus, once injected, the packets have to move constantly. Bufferless networks are interesting because they model optical networks. The objective of this work is to demonstrate that efficient bufferless packet switching is achievable in particular, interesting network topologies. We consider the tree and leveled network topologies, which represent a wide class of network configurations. On these networks, we study many-to-one batch problems where each node is the source of at most one packet, and the destination of an arbitrary number of packets. Each packet is to follow a preselected path from the source to the destination. Let T* be the optimal delivery time for the packets. We have the following results:\u2022 For trees, we present two bufferless algorithms:(i) a deterministic algorithm with delivery time O (\u03b4\u00b7 T*\u00b7 log n), and (ii) a randomized \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:TQgYirikUcIC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "The complexity of equilibria for risk-modeling valuations",
+            "Publication year": 2016,
+            "Publication url": "https://ris.uni-paderborn.de/record/144",
+            "Abstract": "Following the direction pioneered by Fiat and Papadimitriou in their 2010 paper [12], we study the complexity of deciding the existence of mixed equilibria for minimization games where players use valuations other than expectation to evaluate their costs. We consider risk-averse players seeking to minimize the sum V= E+ R of expectationE and a risk valuationR of their costs; R is non-negative and vanishes exactly when the cost incurred to a player is constant over all choices of strategies by the other players. In a V-equilibrium, no player could unilaterally reduce her cost. Say that V has the Weak-Equilibrium-for-Expectation property if all strategies supported in a player's best-response mixed strategy incur the same conditional expectation of her cost. We introduce E-strict concavity and observe that every E-strictly concave valuation has the Weak-Equilibrium-for-Expectation property. We focus on a broad class of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:FPJr55Dyh1AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Internet and network economics: Preface",
+            "Publication year": 2006,
+            "Publication url": "http://gnosis.library.ucy.ac.cy/handle/7/55005",
+            "Abstract": "Internet and network economics: Preface Toggle navigation English \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac English \nEnglish \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac Login Toggle navigation View Item Home \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2 \u03a0\u039a / UCY \nPublications 002 \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd / Faculty of Pure and \nApplied Sciences \u03a4\u03bc\u03ae\u03bc\u03b1 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 / Department of Computer Science View Item \nHome \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2 \u03a0\u039a / UCY Publications 002 \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \n\u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd / Faculty of Pure and Applied Sciences \u03a4\u03bc\u03ae\u03bc\u03b1 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 / Department of \nComputer Science View Item Article Internet and network economics: Preface Thumbnail \nDate 2006 Author ORCID logo Spirakis, Paul G. Mavronicolas, Marios ORCID logo \nKontogiannis, Spyros C. ISSN 0302-9743 Source 2nd International Workshop on Internet \nand Network Economics, WINE 2006 Volume 4286 LNCS Google Scholar check Metadata \nShow full item record Links https://www.scopus.com/inward\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:i2xiXl-TujoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Instability of Networks with Quasi-Static Link Capacities.",
+            "Publication year": 2003,
+            "Publication url": "http://users-cs.au.dk/gerth/alcom-ft/TR/ALCOMFT-TR-03-135.ps.gz",
+            "Abstract": "A packet-switched network is stable if the number of packets in the network remains bounded at all times. A very natural question that arises in the context of stability properties of such networks is how the dynamical change of network link capacities precisely affects these properties.In this work, we embark on a systematic study of this question adopting the Adversarial Queueing Theory framework, where an adversary controls rates of packet injections and determines packet paths. In addition, the power of the adversary is enhanced to include manipulation of link capacities. However, in doing so, the adversary may use only two possible (integer) values, namely 1 and C> 1; moreover, the capacity changes are not abrupt: once a link capacity is set to a value, it maintains this value for a period of time proportional to the number of packets in the system at the time of setting the link capacity to the value. We call this the Adversarial, Quasi-Static Queueing Theory model. Within this model, we obtain a comprehensive collection of results in the form of instability bounds on injection rate of the adversary for various greedy protocols:",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Complexity of rational and irrational Nash equilibria",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-24829-0_19",
+            "Abstract": "We introduce two new decision problems, denoted as \u2203 RATIONAL NASH and \u2203 IRRATIONAL NASH, pertinent to the rationality and irrationality, respectively, of Nash equilibria for (finite) strategic games. These problems ask, given a strategic game, whether or not it admits (i) a rational Nash equilibrium where all probabilities are rational numbers, and (ii) an irrational Nash equilibrium where at least one probability is irrational, respectively. We are interested here in the complexities of \u2203 RATIONAL NASH and \u2203 IRRATIONAL NASH.Towards this end, we study two other decision problems, denoted as NASH-EQUIVALENCE and NASH-REDUCTION, pertinent to some mutual properties of the sets of Nash equilibria of two given strategic games with the same number of players. NASH-EQUIVALENCE asks whether the two sets of Nash equilibria coincide; we identify a restriction of its complementary problem that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:rmuvC79q63oC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Facets of the fully mixed Nash equilibrium conjecture",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-009-9199-1",
+            "Abstract": "In this work, we continue the study of the many facets of the Fully Mixed Nash Equilibrium Conjecture, henceforth abbreviated as the   Conjecture, in selfish routing for the special case of n identical users over two (identical) parallel links. We introduce a new measure of Social Cost, defined as the expectation of the square of the maximum congestion on a link; we call it Quadratic Maximum Social Cost. A Nash equilibrium is a stable state where no user can improve her (expected) latency by switching her mixed strategy; a worst-case Nash equilibrium is one that maximizes Quadratic Maximum Social Cost. In the fully mixed Nash equilibrium, all mixed strategies achieve full support.Formulated within this framework is yet another facet of the   Conjecture, which states that the fully mixed Nash equilibrium is the worst-case Nash equilibrium. We present an extensive \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "A new approach to compute schedules for unrelated parallel machines",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7178423395903056996&hl=en&oi=scholarr",
+            "Abstract": "Scheduling unrelated parallel machines is among the most difficult scheduling problems. Independent jobs have to be assigned to a set of machines of different type without preemption. Processing job i on machine j takes time p ij. For each machine j, the total time used by machine j is the sum of processing times p ij for the jobs that are assigned to machine j. The makespan of a schedule is the maximum total time used by any machine. The objective is to find a schedule (assignment) that minimizes the makespan. The unrelated scheduling problem is N P-complete, and it is known that unless P= NP, there is no polynomial-time approximation algorithm for the optimum schedule with approximation factor less than 3",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:P5F9QuxV20EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computing on a partially eponymous ring",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11945529_27",
+            "Abstract": "We study the partially eponymous model of distributed computation, which simultaneously generalizes the anonymous and the eponymous models. In this model, processors have identities, which are neither necessarily all identical, nor necessarily unique; processors receive inputs and must reach outputs that respect a relation. We focus on the partially eponymous ringR, and we are interested in the computation of circularly symmetric relations on it.\u2219 We distinguish between solvability and computability: in solvability, processors must always reach outputs that respect the relation; in computability, they must reach outputs that respect the relation whenever possible, and report impossibility otherwise.\u2013 We provide an efficient characterization of solvability of an arbitrary (circularly symmetric) relation on an arbitrary set of rings. The characterization is topological and can be expressed as a number \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The complexity of computational problems about Nash equilibria in symmetric win-lose games",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-020-00763-x?error=cookies_not_supported&error=cookies_not_supported&code=d3ae99b8-66c2-47aa-851d-af99be6be943&code=79cec188-d344-4f8c-b73c-16773b027868",
+            "Abstract": "We revisit the complexity of deciding, given a bimatrix game, whether it has a Nash equilibrium with certain natural properties; such decision problems were early known to be -hard (Gilboa and Zemel in Games Econ Behav 1(1):80\u201393, 1989). We show that -hardness still holds under two significant restrictions in simultaneity: the game is win-lose (that is, all utilities are 0 or 1) and symmetric. To address the former restriction, we design win-lose gadgets and a win-lose reduction; to accomodate the latter restriction, we employ and analyze the classical  -symmetrization (Griesmer et al. in On symmetric bimatrix games, IBM research paper RC-959, IBM Corp., T. J. Watson Research Center, 1963) in the win-lose setting. Thus, symmetric win-lose bimatrix games are as complex as general bimatrix games with respect to such decision problems. As a byproduct of our techniques, we derive hardness \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:ruyezt5ZtCIC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "A substitution theorem for graceful trees and its applications",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0012365X08005992",
+            "Abstract": "A graceful labeling of a graph G=(V, E) assigns| V| distinct integers from the set {0,\u2026,| E|} to the vertices of G so that the absolute values of their differences on the| E| edges of G constitute the set {1,\u2026,| E|}. A graph is graceful if it admits a graceful labeling. The forty-year old Graceful Tree Conjecture, due to Ringel and Kotzig, states that every tree is graceful. We prove a Substitution Theorem for graceful trees, which enables the construction of a larger graceful tree through combining smaller and not necessarily identical graceful trees. We present applications of the Substitution Theorem, which generalize earlier constructions combining smaller trees.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:g5m5HwL7SMYC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "M. Mavronicolas: The Distributed Computing Column Distributed Computing Theory to Date (Part I: Models and an Example)",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5839215262488621216&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:CHSYGLWDkRkC",
+            "Publisher": "European Association for Theoretical Computer Science; 1999"
+        },
+        {
+            "Title": "Voronoi Games on Cycle Graphs",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.974.3281&rep=rep1&type=pdf",
+            "Abstract": "Classification by Eiselt et al.(1993) with over 100 references: 1. underlying metric measurable space 2. number of players 3. pricing policy (if any) 4. the equilibrium concept 5. customers\u2019 behavior They call CL one of the \u201ctruly interdisciplinary fields of study\u201d Motivation for computer science: Competitive service providers in discrete networks",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:b1wdh0AR-JQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computing Nash equilibria for scheduling on restricted parallel links",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1007352.1007446",
+            "Abstract": "We consider the problem of routing n users on m parallel links, under the restriction that each user may only be routed on a link from a certain set of allowed links for the user. Thus, the problem is equivalent to the correspondingly restricted problem of assigning n jobs to m parallel machines. In a pure Nash equilibrium, no user may improve its own individual cost (delay) by unilaterally switching to another link from its set of allowed links. As our main result, we introduce a polynomial time algorithm to compute from any given assignment a pure Nash equilibrium with non-increased makespan. The algorithm gradually changes a given assignment by pushing unsplittable user traffics through a network that is defined by the users and the links. Here, we use ideas from blocking flows. Furthermore, we use similar techniques as in the generic Preflow-Push algorithm to approximate a schedule with minimum makespan \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:HtEfBTGE9r8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "RECENT ADVANCES IN APPROXIMABILITY OF BIMATRIX NASH",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17599005749013631875&hl=en&oi=scholarr",
+            "Abstract": "In view of the apparent intractability of constructing Nash Equilibria (NE in short) of normal form games [8], even for only two players [4], understanding the limitations of the approximability of the problem is an important challenge. The purpose of this document is to present some recent, state-of-art advances in this particular line of research aiming towards polynomial time constructions of approximate Nash equilibria in bimatrix games.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:foquWX3nUaYC",
+            "Publisher": "EUROPEAN ASSOC THEORETICAL COMPUTER SCIENCE"
+        },
+        {
+            "Title": "A graph-theoretic network security game",
+            "Publication year": 2008,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJAACS.2008.021488",
+            "Abstract": "Consider a network vulnerable to viral infection, where the security software can guarantee safety only to a limited part of it. We model this practical network scenario as a non-cooperative multi-player game on a graph, with two kinds of players, a set of attackers and a protector player, representing the viruses and the system security software, respectively. We are interested in the associated Nash equilibria, where no network entity can unilaterally improve its local objective. We obtain the following results: for certain families of graphs, mixed Nash equilibria can be computed in polynomially time. These families include, among others, regular graphs, graphs with perfect matchings and trees. The corresponding price of anarchy for any mixed Nash equilibria of the game is upper and lower bounded by a linear function of the number of vertices of the graph. (We define the price of anarchy to reflect the utility of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "The price of anarchy for polynomial social cost",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397506005093",
+            "Abstract": "In this work, we consider an interesting variant of the well studied KP model for selfish routing on parallel links, which reflects some influence from the much older Wardrop model [JG Wardrop, Some theoretical aspects of road traffic research, Proc. Inst. of Civil Eng. Part II 1 (1956) 325\u2013378]. In the new model, user traffics are still unsplittable and links are identical. Social cost is now the expectation of the sum, over all links, of latency costs; each latency cost is modeled as a certain polynomial latency cost function evaluated at the latency incurred by all users choosing the link. The resulting social cost is called polynomial social cost, or monomial social cost when the latency cost function is a monomial. All considered polynomials are of degree d, where d\u2a7e 2, and have non-negative coefficients. We are interested in evaluating Nash equilibria in this model, and we use the monomial price of anarchy (MPoA) and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The cost of concurrent, low-contention Read&Modify&Write",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397504007984",
+            "Abstract": "This work addresses the possibility or impossibility, and the corresponding costs, of devising concurrent, low-contention implementations of atomic Read&Modify&Write (or RMW) operations in a distributed system. A natural class of monotone RMW operations associated with monotone groups, a certain class of algebraic groups introduced here, is considered. The popular Fetch&Add and Fetch&Multiply operations are examples from the class.A Monotone Linearizability Lemma is proved and employed as a chief combinatorial instrument in this work; it establishes inherent ordering constraints of linearizability for a certain class of executions of any distributed system implementing a monotone RMW operation.The end results of this work specifically apply to implementations of (monotone) RMW operations that are based on switching networks, a recent class of concurrent, low-contention data structures that generalize \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:hC7cP41nSMkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The increase of the instability of networks due to quasi-static link capacities",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397507002800",
+            "Abstract": "In this work, we study the impact of the dynamic changing of the network link capacities on the stability properties of packet-switched networks. Especially, we consider the Adversarial, Quasi-Static Queuing Theory model, where each link capacity may take on only two possible (integer) values, namely 1 and C> 1 under a (w, \u03c1)-adversary. We obtain the following results:\u2022 Allowing such dynamic changes to the link capacities of a network with just ten nodes that uses the LIS (Longest-in-System) protocol for contention\u2013resolution results in instability at rates \u03c1> 2\u2212 1 and for large enough values of C.\u2022 The combination of dynamically changing link capacities with compositions of contention\u2013resolution protocols on network queues suffices for similar instability bounds: The composition of LIS with any of SIS (Shortest-in-System), NTS (Nearest-to-Source), and FTG (Furthest-to-Go) protocols is unstable at rates \u03c1> 2\u2212 1 for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The impact of network structure on the stability of greedy protocols",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44849-7_29",
+            "Abstract": "A packet-switching network is stable if the number of packets in the network remains bounded at all times. A very natural question that arises in the context of stability and instability properties of such networks is how network structure precisely affects these properties. In this work, we embark on a systematic study of this question in the context of Adversarial Queueing Theory, which assumes that packets are adversarially injected into the network. We consider size, diameter, maximum vertex degree, minimum number of disjoint paths that cover all edges of the network, and network subgraphs as crucial structural parameters of the network, and we present a comprehensive collection of structural results, in the form of bounds on both stability and instability thresholds for various greedy protocols:   We present a novel, yet simple and natural, construction of a network parameterized by its \u2026We present a novel, yet simple and natural, construction of a network parameterized by its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Some Algorithmic Questions About Nash Equilibria.",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3231497641375830433&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Which is the worst-case Nash equilibrium?",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-45138-9_49",
+            "Abstract": "A Nash equilibrium of a routing network represents a stable state of the network where no user finds it beneficial to unilaterally deviate from its routing strategy. In this work, we investigate the structure of such equilibria within the context of a certain game that models selfish routing for a set of n users each shipping its traffic over a network consisting of m parallel links. In particular, we are interested in identifying the worst-case Nash equilibrium \u2013 the one that maximizes social cost. Worst-case Nash equilibria were first introduced and studied in the pioneering work of Koutsoupias and Papadimitriou [9].More specifically, we continue the study of the Conjecture of the Fully Mixed Nash Equilibrium, henceforth abbreviated as FMNE Conjecture, which asserts that the fully mixed Nash equilibrium, when existing, is the worst-case Nash equilibrium. (In the fully mixed Nash equilibrium, the mixed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:qjMakFHDy7sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Universal bufferless routing",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-31833-0_20",
+            "Abstract": "Given an arbitrary network, and a routing problem with congestion C and dilation D, a long standing open problem is to show the existence of bufferless routing algorithms with optimal performance guarantees (routing time close to the lower bound \u03a9(C + D)). Our main result is a new deterministic technique that constructs a universal bufferless algorithm by emulating a universal buffered algorithm. The heart of the emulation is to replace packet buffering with packet circulation on regions of the network. The cost of the emulation on the routing time is proportional to the square of the node buffer size used by the buffered algorithm. We apply this emulation to a simple randomized buffered algorithm to obtain a distributed, universal bufferless algorithm with routing time O((C + D) \u00b7 log3(n + N)), which is within poly-logarithmic factors from the optimal, where n is the size of the network and N is the number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The Impact of Network Structure",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15797329325998306329&hl=en&oi=scholarr",
+            "Abstract": "A packet-switching network is stable if the number of packets in the network remains bounded at all times. A very natural question that arises in the context of stability and instability properties of such networks is how network structure precisely affects these properties. In this work, we embark on a systematic study of this question in the context of Adversarial Queueing Theory, which assumes that packets are adversarially injected into the network. We consider size, diameter, maximum vertex degree, minimum number of disjoint paths that cover all edges of the network, and network subgraphs as crucial structural parameters of the network, and we present a comprehensive collection of structural re-sults, in the form of bounds on both stability and instability thresholds for various greedy protocols:We present a novel, yet simple and natural, construction of a network parameterized by its size on which certain compositions of univer-sally stable, greedy protocols are unstable for low rates. The closeness of the drop to 0.5 is proportional to the increase in size.-It is now natural to ask how unstable networks with small (constant) size be. We show that size of 22 suffices to drop the instability threshold for the FIFO protocol down to 0.704. This results is the current state-of-the-art trade-off between size and instability threshold. The diameter, maximum vertex degree and minimum number of edge-disjoint paths play a significant role in an improved analysis of stability threshold for the FIFO protocol. The results of our anal-ysis reveal that a calibration of these parameters may be a valuable asset for the design of networks with as high as possible stability threshold.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:sNmaIFBj_lkC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Minimizing expectation plus variance",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-014-9542-z",
+            "Abstract": "We consider strategic games in which each player seeks a mixed strategy to minimize her cost evaluated by a concave valuation                          V (mapping probability distributions to reals); such valuations are used to model risk. In contrast to games with expectation-optimizer players where mixed equilibria always exist (Nash 1950; Nash Ann. Math. 54, 286\u2013295, 1951), a mixed equilibrium for such games, called a V-equilibrium, may fail to exist, even though pure equilibria (if any) transfer over. What is the exact impact of such valuations on the existence, structure and complexity of mixed equilibria? We address this fundamental question in the context of expectation plus variance, a particular concave valuation denoted as RA, which stands for risk-averse; so, variance enters as a measure of risk and it is used as an additive adjustment to expectation. We obtain the following results about RA-equilibria \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:J-pR_7NvFogC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Weighted Boolean Formula Games",
+            "Publication year": 2015,
+            "Publication url": "https://ris.uni-paderborn.de/record/232",
+            "Abstract": "We introduce weighted boolean formula games (WBFG) as a new class of succinct games. Each player has a set of boolean formulas she wants to get satisfied; the formulas involve a ground set of boolean variables each of which is controlled by some player. The payoff of a player is a weighted sum of the values of her formulas. We consider both pure equilibria and their refinement of payoff-dominant equilibria [34], where every player is no worse-off than in any other pure equilibrium. We present both structural and complexity results: We consider mutual weighted boolean formula games (MWBFG), a subclass of WBFG making a natural mutuality assumption on the formulas of players. We present a very simple exact potential for MWBFG. We establish a polynomial monomorphism from certain classes of weighted congestion games to subclasses of WBFG and MWBFG, respectively, indicating their rich structure. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:9pM33mqn1YgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The price of defense and fractional matchings",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11947950_13",
+            "Abstract": "Consider a network vulnerable to security attacks and equipped with defense mechanisms. How much is the loss in the provided security guarantees due to the selfish nature of attacks and defenses? The Price of Defense was recently introduced in [7] as a worst-case measure, over all associated Nash equilibria, of this loss. In the particular strategic game considered in [7], there are two classes of confronting randomized players on a graph G(V, E): \u03bdattackers, each choosing vertices and wishing to minimize the probability of being caught, and a single defender, who chooses edges and gains the expected number of attackers it catches.In this work, we continue the study of the Price of Defense. We obtain the following results:\u2013 The Price of Defense is at least ; this implies that the Perfect Matching Nash equilibria considered in [7] are optimal with respect to the Price of Defense, so that the lower \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The complexity of decision problems about Nash equilibria in win-lose games",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33996-7_4",
+            "Abstract": "We revisit the complexity of deciding, given a (finite) strategic game, whether Nash equilibria with certain natural properties exist; such decision problems are well-known to be -complete [2, 6, 10] . We show that this complexity remains unchanged when all utilities are restricted to be 0 or 1; thus, win-lose games are as complex as general games with respect to such decision problems.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "WP4. 3 Participants: University of Bologna, Italy: Ozalp Babaoglu (babaoglu@ cs. unibo. it) David Hales (dave@ davidhales. com)",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8400167195320090886&hl=en&oi=scholarr",
+            "Abstract": "This report comprises the complete D4. 3.1 deliverable as specified for workpackage WP4. 3 in Subject SP4 of the DELIS (Dynamically Evolving Largescale Information Systems) Integrated Project. The essential goal of the DELIS project is to understand, predict, engineer and control large evolving information systems. These are often arranged in the form of dynamic networks (for example: the Internet or Peer-2-Peer applications running on-top of such physical infrastructure). WP4. 3 brings together a team of specialists in Game Theory, Evolutionary Economics and Organisational Science and Agent-Based Modelling. The purpose of this report is to outline the relevant work and stateof-the-art in each field (including limitations) with application to DELIS-like systems and then to outline integrative on-going problems, ideas and projects that bring these techniques together to advance the state-of-the-art. In the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Congestion games with player-specific constants",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74456-6_56",
+            "Abstract": "We consider a special case of weighted congestion games with player-specific latency functions where each player uses for each particular resource a fixed (non-decreasing) delay function together with a player-specific constant. For each particular resource, the resource-specific delay function and the player-specific constant (for that resource) are composed by means of a group operation (such as addition or multiplication) into a player-specific latency function. We assume that the underlying group is a totally ordered abelian group. In this way, we obtain the class of weighted congestion games with player-specific constants; we observe that this class is contained in the new intuitive class of dominance weighted congestion games.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:roLk4NBRz8UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Computing on a partially eponymous ring",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397508007597",
+            "Abstract": "We study the partially eponymous model of distributed computation, which simultaneously generalizes the anonymous and the eponymous models. In this model, processors have identities, which are neither necessarily all identical (as in the anonymous model) nor necessarily unique (as in the eponymous model). In a decision problem formalized as a relation, processors receive inputs and seek to reach outputs respecting the relation. We focus on the partially eponymous ring, and we shall consider the computation of circularly symmetric relations on it. We consider sets of rings where all rings in the set have the same multiset of identity multiplicities.\u2022 We distinguish between solvability and computability: in solvability, processors are required to always reach outputs respecting the relation; in computability, they must do so whenever this is possible, and must otherwise report impossibility.\u2013We present a topological \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:rO6llkc54NcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Cost sharing mechanisms for fair pricing of resource usage",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-007-9108-4",
+            "Abstract": " We propose a simple and intuitive cost mechanism which assigns costs for the competitive usage of m resources by n selfish agents. Each agent has an individual demand; demands are drawn according to some probability distribution. The cost paid by an agent for a resource it chooses is the total demand put on the resource divided by the number of agents who chose that same resource. So, resources charge costs in an equitable, fair way, while each resource makes no profit out of the agents.  We call our model the Fair Pricing model. Its fair cost mechanism induces a non-cooperative game among the agents. To evaluate the Nash equilibria of this game, we introduce the Diffuse Price of Anarchy, as an extension of the Price of Anarchy that takes into account the probability distribution on the demands. We prove:                        \u2022 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "\u2203 \u211d-complete Decision Problems about (Symmetric) Nash Equilibria in (Symmetric) Multi-player Games",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3456758",
+            "Abstract": "A decision problem about Nash equilibria is concerned with whether a given game has a Nash equilibrium with certain natural properties. We settle the complexity of such decision problems over multi-player games, establishing that (nearly) all decision problems that were before shown NP-complete over 2-player games in References [5, 12, 18] become \u2203\u211d-complete over multi-player games. \u2203\u211d [27] is the class capturing the complexity of deciding the Existential Theory of the Reals. Specifically, we present a simple, unifying, parametric polynomial time reduction from the problem of deciding, given a 3-player (symmetric) game, whether there is a (symmetric) Nash equilibrium where all strategies played with non-zero probability come from a given set, which was shown \u2203\u211d-complete in Reference [17]. By suitably working on the tuning parameters, our reduction delivers two extensive catalogs of \u2203\u211d-complete \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:NXb4pA-qfm4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Preface: Algorithmic Game Theory.",
+            "Publication year": 2011,
+            "Publication url": "https://www.researchgate.net/profile/Marios-Mavronicolas/publication/220543571_Preface_Algorithmic_Game_Theory/links/54bfb27b0cf28eae4a660c88/Preface-Algorithmic-Game-Theory.pdf",
+            "Abstract": "18th to 20th 2009, in Paphos, Cyprus. The purpose of SAGT 2009 was to bring together research from Computer Science, Economics and Mathematics to present and discuss previously unpublished research results at the intersection of the Theory of Algorithms and Game Theory. Consequently, the Call for Papers to SAGT 2009 solicited new foundational work in all important areas of Algorithmic Game Theory such as: Solution concepts in Game Theory; Game classes (eg, bimatrix, potential, Bayesian; Exact and approximate computation of equilibria; Algorithmic Mechanism Design; Automated Mechanism Design; Convergence and learning in games; Complexity classes in Game Theory; Algorithmic aspects of fixed-point theorems; Mechanisms, incentives and coalitions; Cost-sharing algorithms and analysis; Computational aspects of market equilibria; Computational problems in Economics, Finance, Decision Theory and Pricing; Computational social choice; Auction algorithms and analysis; Price of Anarchy and its relatives; Representations of games and their complexity; Economic aspects of Distributed Computing and the Internet; Network formation on the Internet; Congestion, routing and network design games; Game-theoretic approaches to networking problems; Byzantine Game Theory.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A new model for selfish routing",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24749-4_48",
+            "Abstract": "In this work, we introduce and study a new model for selfish routing over non-cooperative networks that combines features from the two such best studied models, namely the KP model and the Wardrop model in an interesting way.We consider a set of nusers, each using a mixed strategy to ship its unsplittable traffic over a network consisting of m parallel links. In a Nash equilibrium, no user can increase its Individual Cost by unilaterally deviating from its strategy. To evaluate the performance of such Nash equilibria, we introduce Quadratic Social Cost as a certain sum of Individual Costs \u2013 namely, the sum of the expectations of the squares of the incurred link latencies. This definition is unlike the KP model, where Maximum Social Cost has been defined as the maximum of Individual Costs.We analyse the impact of our modeling assumptions on the computation of Quadratic Social Cost, on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A glimpse at Christos H. Papadimitriou",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1574013709000185",
+            "Abstract": "Christos H. Papadimitriou is one of the most influential and colorful researchers in Computer Science today. This glimpse is the outcome of a modest attempt of us to a biographical introduction to Christos, which we have drafted with extreme delight and honor.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The Distributed Computing Column Hardness Results and Efficient Approximations for Frequency Assignment Problems and the Radio Coloring Problem (by DA Fotakis, SE Nikoletseas, VG Papadopoulou, PG Spirakis)",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5481666474288898381&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:EUQCXRtRnyEC",
+            "Publisher": "European Association for Theoretical Computer Science; 1999"
+        },
+        {
+            "Title": "The power of the defender",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1648926/",
+            "Abstract": "We consider a security problem on a distributed network. We assume a network whose nodes are vulnerable to infection by threats (e.g. viruses), the attackers. A system security software, the defender, is available in the system. However, due to the network\u2019s size, economic and performance reasons, it is capable to provide safety, i.e. clean nodes from the possible presence of attackers, only to a limited part of it. The objective of the defender is to place itself in such a way as to maximize the number of attackers caught, while each attacker aims not to be caught. In [7], a basic case of this problem was modeled as a non-cooperative game, called the Edge model. There, the defender could protect a single link of the network. Here, we consider a more general case of the problem where the defender is able to scan and protect a set of k links of the network, which we call the Tuple model. It is natural to expect that this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "E-mail: mavronic&ucy. ac. cy",
+            "Publication year": 2004,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=qLHKCgAAQBAJ&oi=fnd&pg=PA435&dq=info:Kk_cP45GjjkJ:scholar.google.com&ots=8dA8z5s5E0&sig=DbePLGJk9R5hubAepZ-MDmmpXz0",
+            "Abstract": "Transfering and delivering messages among different processing units is one of the most basic functionalities of a distributed communication network. This functionality is taken up by following some particular routing protocol, which decides, in a distributed fashion, which message to forward along which link of the network at each time step. This routing mechanism is invoked at every link of the network, and for each and every (discrete) time step, while it must ensure that all messages from all possible sources to all possible destinations are delivered in a timely fashion.A basic challenge encountered by any distributed routing protocol is to come up with some policy for prioritizing packets that find themselves queued up for traversing the same link simultaneously. This policy must provide certain QoS guarantees on how much time it takes a packet to travel from source to destination (including the time waiting in queues). In order for such a guarantee to be possible, the situation where packets end up waiting in queues for an indefinite amount of time needs to be excluded in the first place. Thus, a protocol is stable on a particular communication network if the number of packets in the network remains, at all times, bounded from above by some quantity independent of time (but possibly dependent on characteristics",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:vbGhcppDl1QC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Game theory meets theoretical computer science",
+            "Publication year": 2005,
+            "Publication url": "https://ora.ox.ac.uk/objects/uuid:142ddd2c-812f-4dfe-af60-c1074498fb8f/download_file?file_format=pdf&safe_filename=Game%2Btheory%2Bmeets%2Btheoretical%2Bcomputer%2Bscience.pdf&type_of_work=Journal+article",
+            "Abstract": "Bearing the title \u201cGame Theory Meets Theoretical Computer Science\u2019\u2019, this is probably the first special issue devoted to the intersection of Game Theory and Theoretical Computer Science, an area of study that currently witnesses a lot of flourishing interest and attention. A truly extraordinary amount of research activity is now being observed at the intersection of these two fields.One may ask why, really, it is so interesting to consider this intersection? There are a plethora of reasons, and this has led to a plethora of subareas in this already large intersection. We shall only touch on some of them that we feel are the most prominent.\u2022 First, the algorithmic foundations of Game Theory are not yet developed. Game Theory has answered many questions of existence in a satisfactory way (in many occasions); however, algorithmic questions of actually finding game-theoretic objects with prescribed mathematical properties (for example, the best Nash equilibrium) have only recently started to undergo a systematic complexity-theoretic investigation. It is hoped that Algorithmic Game Theory will experience the same rapid development as Algorithmic Graph Theory or Algorithmic Geometry, to name two leading examples.\u2022 Second, there are many phenomena in Computer Science that involve the interaction of antagonistic entities with conflicting interests. Modeling these selfish entities using the concepts of Game Theory is natural and appropriate, and invites Theoretical Computer Science to take up the story and analyze the resulting models of selfish computation from its own point of view.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Near-optimal hot-potato routing on trees",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-27866-5_109",
+            "Abstract": "In hot-potato (deflection) routing, nodes in the network have no buffers for packets in transit, which causes conflicting packets to be deflected away from their destinations. We study one-to-many batch routing problems on arbitrary tree topologies. We present two hot-potato routing algorithms, one deterministic and one randomized, whose routing times are asymptotically near-optimal (within poly-logarithmic factors from optimal). Both algorithms are distributed and greedy; so, routing decisions are made locally, and packets are advanced towards their destinations whenever possible.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Greedy O (c+ d) hot-potato routing on trees",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.2197&rep=rep1&type=pdf",
+            "Abstract": "In hot-potato (deflection) routing, nodes in the network have no buffers for packets in transit. A hotpotato routing algorithm is greedy if packets are advanced from their sources toward their destinations whenever possible. The dilation D is the longest distance a packet has to travel; the congestion C is the maximum number of packets that traverse any edge. The routing time of a routing-algorithm is the time for the last packet to reach its destination. A well known lower bound on the routing time is \u2126 (C+ D). When is it possible to design routing algorithms whose routing times match this lower bound? Here, we address this fundamental question within the context of hot-potato routing for the specific case of a tree with n nodes. In particular, we present two greedy, hot-potato routing algorithms: i. A deterministic algorithm, which has a routing time of O ((\u03b4\u00b7 C+ D) lg n), where \u03b4 is the maximum node degree; thus, for bounded degree trees, the routing time becomes O ((C+ D) lg n). ii. A randomized algorithm which has a routing time of O ((C+ D) lg2 n) with high probability, for any node degree. Randomization is used for adjusting packet priorities.Both algorithms are online and simple yet efficient. They are built upon the idea of using safe deflections, which are deflections whose net effect is to \u201crecycle\u201d edges from one path to another. These are the first known hot-potato routing algorithms (whether greedy or not) for trees whose routing time is within logarithmic factors of the \u2126 (C+ D) lower bound.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "of Proceedings: Automata, languages and programming: 30th International Colloquium, ICALP 2003",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9249188384135547059&hl=en&oi=scholarr",
+            "Abstract": "Flow variation over time is an important feature in network flow problems arising in various applications such as road or air traffic control, production systems, communication networks (eg, the Internet), and financial flows. The common characteristic are networks with capacities and transit times on the arcs which specify the amount of time it takes for flow to travel through a particular arc. Moreover, in contrast to static flow problems, flow values on arcs may change with time in these networks. While themaximum --flow over time'problem can be solved efficiently andmin-cost flows over time'are known to be NP-hard, the complexity of (fractional)multicommodity flows over time'has been open for many years. We prove that this problem is NP-hard, even for series-parallel networks, and present new and efficient algorithms under certain assumptions on the transit times or on the network topology. As a result, we can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:L7CI7m0gUJcC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "The price of selfish routing",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-006-0056-1",
+            "Abstract": "We study the problem of routing traffic through a congested network. We focus on the simplest case of a network consisting of m parallel links. We assume a collection of n network users; each user employs a mixed strategy, which is a probability distribution over links, to control the shipping of its own assigned traffic. Given a capacity for each link specifying the rate at which the link processes traffic, the objective is to route traffic so that the maximum (over all links) latency is minimized. We consider both uniform and arbitrary link capacities. How much decrease in global performace is necessary due to the absence of some central authority to regulate network traffic and implement an optimal assignment of traffic to links? We investigate this fundamental question in the context of Nash equilibria for such a system, where each network user selfishly routes its traffic only on those links available to it that minimize \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "A comparative study of protocols for efficient data propagation in smart dust networks",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-45209-6_138",
+            "Abstract": "Smart Dust is comprised of a vast number of ultra-small fully autonomous computing and communication devices, with very restricted energy and computing capabilities, that co-operate to accomplish a large sensing task. Smart Dust can be very useful in practice i.e. in the local detection of a remote crucial event and the propagation of data reporting its realization to a control center.In this work, we have implemented and experimentally evaluated four protocols (PFR, LTP and two variations of LTP which we here introduce) for local detection and propagation in smart dust networks, under new, more general and realistic modelling assumptions. We comparatively study, by using extensive experiments, their behavior highlighting their relative advantages and disadvantages. All protocols are very successful. In the setting we considered here, PFR seems to be faster while the LTP based protocols are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Internet and Network Economics: Second International Workshop, WINE 2006, Patras, Greece, December 15-17, 2006, Proceedings",
+            "Publication year": 2006,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=G1yrCAAAQBAJ&oi=fnd&pg=PA1&dq=info:TjLzT_W9pAAJ:scholar.google.com&ots=XHlJ88xnnl&sig=yvDmSf13awkUELe74Hqlxnbb10M",
+            "Abstract": "This book constitutes the refereed proceedings of the Second International Workshop on Internet and Network Economics, WINE 2006, held in Patras, Greece in December 2006. It contains 32 papers that contain foundational and mathematical work for solving problems in internet technologies, grid computing, network communication protocols, as well as social economic issues in virtual communities enabled through the World Wide Web.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "A graph-theoretic network security game",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11600930_98",
+            "Abstract": "Consider a network vulnerable to viral infection. The system security software can guarantee safety only to a limited part of the network. We model this practical network scenario as a non-cooperative multi-player game on a graph, with two kinds of players, a set of attackers and a protector player, representing the viruses and the system security software, respectively. Each attacker player chooses a node of the graph (or a set of them, via a probability distribution) to infect. The protector player chooses independently, in a basic case of the problem, a simple path or an edge of the graph (or a set of them, via a probability distribution) and cleans this part of the network from attackers. Each attacker wishes to maximize the probability of escaping its cleaning by the protector. In contrast, the protector aims at maximizing the expected number of cleaned attackers. We call the two games obtained from the two basic cases \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Complexity of rational and irrational Nash equilibria",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-013-9523-7",
+            "Abstract": "We introduce two new natural decision problems, denoted as \u2203 RATIONAL NASH and \u2203 IRRATIONAL NASH, pertinent to the rationality and irrationality, respectively, of Nash equilibria for (finite) strategic games. These problems ask, given a strategic game, whether or not it admits (i) a rational Nash equilibrium where all probabilities are rational numbers, and (ii) an irrational Nash equilibrium where at least one probability is irrational, respectively. We are interested here in the complexities of \u2203 RATIONAL NASH and \u2203 IRRATIONAL NASH.Towards this end, we study two other decision problems, denoted as NASH-EQUIVALENCE and NASH-REDUCTION, pertinent to some mutual properties of the sets of Nash equilibria of two given strategic games with the same number of players. The problem NASH-EQUIVALENCE asks whether or not the two sets of Nash equilibria coincide; we identify a restriction of its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Universal bufferless packet switching",
+            "Publication year": 2007,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/050642095",
+            "Abstract": "A packet-switching algorithm specifies the actions of the nodes in order to deliver packets in the network. A packet-switching algorithm is universal if it applies to any network topology and for any batch communication problem on the network. A long-standing open problem has concerned the existence of a universal packet-switching algorithm with near-optimal performance guarantees for the class of bufferless networks where the buffer size for packets in transit is zero. We give a positive answer to this question. In particular, we give a universal bufferless algorithm which is within a polylogarithmic factor from optimal for arbitrary batch problems: , where  is the packet delivery time of our algorithm,  is the optimal delivery time, n is the size of the network, and N is the number of packets. At the heart of our result is a new deterministic technique for constructing a universal bufferless algorithm by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Special Issue Algorithmic Game Theory",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3990378612484003193&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:86PQX7AUzd4C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Minimizing expectation plus variance",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33996-7_21",
+            "Abstract": "We consider strategic games in which each player seeks a mixed strategy to minimize her cost evaluated by a concave valuation V (mapping probability distributions to reals); such valuations are used to model risk. In contrast to games with expectation-optimizer players where mixed equilibria always exist [15, 16], a mixed equilibrium for such games, called a V-equilibrium, may fail to exist, even though pure equilibria (if any) transfer over. What is the impact of such valuations on the existence, structure and complexity of mixed equilibria? We address this fundamental question for a particular concave valuation: expectation plus variance, denoted as RA, which stands for risk-averse; so, variance enters as a measure of risk and it is used as an additive adjustment to expectation. We obtain the following results about RA-equilibria:   A collection of general structural properties of RA \u2026A collection of general structural properties of RA \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:kh2fBNsKQNwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Facets of the fully mixed Nash equilibrium conjecture",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-79309-0_14",
+            "Abstract": "In this work, we continue the study of the many facets of the Fully Mixed Nash Equilibrium Conjecture, henceforth abbreviated as the FMNE Conjecture, in selfish routing for the special case of n identical users over two (identical) parallel links. We introduce a new measure of Social Cost, defined to be the expectation of the square of the maximum congestion on a link; we call it Quadratic Maximum Social Cost. A Nash equilibrium (NE) is a stable state where no user can improve her (expected) latency by switching her mixed strategy; a worst-case NE is one that maximizes Quadratic Maximum Social Cost. In the fully mixed NE, all mixed strategies achieve full support.Formulated within this framework is yet another facet of the FMNE Conjecture, which states that the fully mixed Nash equilibrium is the worst-case NE. We present an extensive proof of the FMNE \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:RGFaLdJalmkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "(In) Existence of Equilibria for 2-Players, 2-Values Games with Concave Valuations",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2009.04425",
+            "Abstract": "We consider 2-players, 2-values minimization games where the players' costs take on two values, $a,b$, $a<b$. The players play mixed strategies and their costs are evaluated by unimodal valuations. This broad class of valuations includes all concave, one-parameter functions $\\mathsf{F}: [0,1]\\rightarrow \\mathbb{R}$ with a unique maximum point. Our main result is an impossibility result stating that: If the maximum is obtained in $(0,1)$ and $\\mathsf{F}\\left(\\frac{1}{2}\\right)\\ne b$, then there exists a 2-players, 2-values game without $\\mathsf{F}$-equilibrium. The counterexample game used for the impossibility result belongs to a new class of very sparse 2-players, 2-values bimatrix games which we call normal games. In an attempt to investigate the remaining case $\\mathsf{F}\\left(\\frac{1}{2}\\right) = b$, we show that: - Every normal, $n$-strategies game has an ${\\mathsf{F}}$-equilibrium when ${\\mathsf{F}}\\left( \\frac{1}{2} \\right) = b$. We present a linear time algorithm for computing such an equilibrium. - For 2-players, 2-values games with 3 strategies we have that if $\\mathsf{F}\\left(\\frac{1}{2}\\right) \\le b$, then every 2-players, 2-values, 3-strategies game has an $\\mathsf{F}$-equilibrium; if $\\mathsf{F}\\left(\\frac{1}{2}\\right) > b$, then there exists a normal 2-players, 2-values, 3-strategies game without $\\mathsf{F}$-equilibrium. To the best of our knowledge, this work is the first to provide an (almost complete) answer on whether there is, for a given concave function $\\mathsf{F}$, a counterexample game without $\\mathsf{F}$-equilibrium.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:_FM0Bhl9EiAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Voronoi games on cycle graphs",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85238-4_41",
+            "Abstract": "In a Voronoi game, each of a finite number of players chooses a point in some metric space. The utility of a player is the total measure of all points that are closer to him than to any other player, where points equidistant to several players are split up evenly among the closest players. In a recent paper, D\u00fcrr and Thang (2007) considered discrete Voronoi games on graphs, with a particular focus on pure Nash equilibria. They also looked at Voronoi games on cycle graphs with n nodes and k players. In this paper, we prove a new characterization of all Nash equilibria for these games. We then use this result to establish that Nash equilibria exist if and only if  or k\u2009\u2265\u2009n. Finally, we give exact bounds of  and 1 for the prices of anarchy and stability, respectively.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The structure and complexity of Nash equilibria for a selfish routing game",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397508000261",
+            "Abstract": "In this work, we study the combinatorial structure and the computational complexity of Nash equilibria for a certain game that models selfish routing over a network consisting of m parallel links. We assume a collection of n users, each employing a mixed strategy, which is a probability distribution over links, to control the routing of her own traffic. In a Nash equilibrium, each user selfishly routes her traffic on those links that minimize her expected latency cost, given the network congestion caused by the other users. The social cost of a Nash equilibrium is the expectation, over all random choices of the users, of the maximum, over all links, latency through a link. We embark on a systematic study of several algorithmic problems related to the computation of Nash equilibria for the selfish routing game we consider. In a nutshell, these problems relate to deciding the existence of a pure Nash equilibrium, constructing a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:WF5omc3nYNoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A randomized, o (log w)-depth 2 smoothing network",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1583991.1584043",
+            "Abstract": "A K-smoothing network is a distributed, low-contention data structure where tokens arrive arbitrarily on w input wires and reach w output wires via their completely asynchronous propagation through the network. The maximum discrepancy among the numbers of tokens arriving at the ouput wires, called smoothness, is at most K. It has been a long-standing open problem to construct a K-smoothing network with (i) optimal K,(ii) optimal \u0398 (log w) depth (called small-depth),(iii) no use of the AKS sorting network, and (iv) no reliance on global initialization.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Combinatorial Characterization of Properties Preserved by Antitokens",
+            "Publication year": 2000,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=OBWEyvUYkEkC&oi=fnd&pg=PA297&dq=info:qg6ZGDOXuXcJ:scholar.google.com&ots=DWBMqZ7Ej8&sig=v1ggU1NQ4MqVK42XtiPAO-noweo",
+            "Abstract": "Balancing networks were devised by Aspnes et al.[4] as a novel class of dis-tributed data structures that provide highly-concurrent, low-contention solutions to a variety of synchronization problems. Balancing networks attract a lot of interest and attention due to their nice performance and scalability properties (see, eg,(1, 2, 3, 5, 6, 7, 8, 14, 15, 16, 18, 19, 20, 21, 22, 23]).",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:-FonjvnnhkoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Max-Min Fair Flow Control Sensitive to Priorities",
+            "Publication year": 2005,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0219265905001332",
+            "Abstract": "Flow control is the dominant technique currently used in  communication networks for preventing excess traffic from flooding the  network, and for handling congestion. In rate-based flow  control, transmission rates of sessions are adjusted in an end-to-end  manner through a sequence of operations. In this work, we  present a theory of max-min fair, rate-based flow control  sensitive to priorities of different sessions, as a significant  extension of the classical theory of max-min fair, rate-based flow  control to networks supporting applications with diverse requirements  on network resources.Each individual session bears a priority function, which  maps the session's priority to a transmission rate; the priority is a  working abstraction of the session's priority to bandwidth access.  Priority functions enable the specification of requirements on bandwidth access by distributed applications, and the formal handling of such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:KxtntwgDAa4C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Nash equilibria in discrete routing games with convex latency functions",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-27836-8_55",
+            "Abstract": "We study Nash equilibria in a discrete routing game that combines features of the two most famous models for non-cooperative routing, the KP model [16] and the Wardrop model [27]. In our model, users share parallel links. A user strategy can be any probability distribution over the set of links. Each user tries to minimize its expected latency, where the latency on a link is described by an arbitrary non-decreasing, convex function. The social cost is defined as the sum of the users\u2019 expected latencies. To the best of our knowledge, this is the first time that mixed Nash equilibria for routing games have been studied in combination with non-linear latency functions.As our main result, we show that for identical users the social cost of any Nash equilibrium is bounded by the social cost of the fully mixed Nash equilibrium. A Nash equilibrium is called fully mixed if each user chooses each link with non-zero \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Computing Nash Equilibria for Scheduling on",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8352526222624846378&hl=en&oi=scholarr",
+            "Abstract": "We consider the problem of routing n users on m parallel links, under the restriction that each user may only be routed on a link from a certain set of allowed links for the user. Thus, the problem is equivalent to the correspondingly restricted problem of assigning n jobs to m parallel machines. In a pure Nash equilibrium, no user may improve its own individual exist (delay) by unilaterally switching to another link from its set of allowed links. As our main result, we introduce a polynomial time algorithm to compute from any given assignment a pure Nash equilibrium with non-increased makespan. The algorithm gradually changes a given assignment by pushing unsplittable user traffics through a network that is defined by the users and the links. Here, we use ideas from blocking flows. Furthermore, we use similar techniques as in the generic PREFLOWPUSH algorithm to approximate a schedule with minimum makespan, gaining an improved approximation factor of 2\u2014^ j-for identical links, where w\\is the largest user traffic. We extend this result to related links, gaining an approximation factor of 2. Our approximation algorithms run in polynomial time. We close with tight upper bounds on the coordination ratio for pure Nash equilibria.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:uWQEDVKXjbEC",
+            "Publisher": "ACM Press"
+        },
+        {
+            "Title": "Threshold counters with increments and decrements",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S030439750100113X",
+            "Abstract": "A threshold counter is a shared data structure that assumes integer values. It provides two operations: Increment changes the current counter value from v to v+ 1, while Read returns the value\u230a v/w\u230b, where v is the current counter value and w is a fixed constant. Thus, the Read operation returns the \u201capproximate\u201d value of the counter to within the constant w. Threshold counters have many potential uses, including software barrier synchronization. Threshold networks are a class of distributed data structures that can be used to construct highly-concurrent, low-contention implementations of shared threshold counters. In this paper, we give the first proof that any threshold network construction of a threshold counter can be extended to support a Decrement operation that changes the counter value from v to v\u2212 1.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Distributed algorithmic mechanism design: recent results and future directions (by J. Feigenbaum, S. Shenker)",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15122002530156324520&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:D_sINldO8mEC",
+            "Publisher": "European Association for Theoretical Computer Science; 1999"
+        },
+        {
+            "Title": "Direct routing",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.4.1007&rep=rep1&type=pdf",
+            "Abstract": "Direct routing is a special case of bufferless routing in which packets are not allowed to conflict with each other. The task is to compute the injection times of the packets so that they don\u2019t conflict. A well known lower bound on the routing time of any algorithm is \u2126 (C+ D), where the congestion C is the maximum number of paths that use any edge, and the dilation D is the maximum length of any path. We study the extent to which direct routing algorithms can achieve this lower bound. We present a simple greedy direct routing algorithm for arbitrary routing problems that has routing time O (C\u00b7 D). We show that this routing time is worst case optimal. In particular, we construct a \u201chard\u201d routing problem on the mesh, for which any direct routing algorithm has routing time \u2126 (C\u00b7 D), while C+ D= \u0398 (\u221a C\u00b7 D).",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The price of anarchy for restricted parallel links",
+            "Publication year": 2006,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0129626406002514",
+            "Abstract": "In the model of restricted parallel links, n users must be routed on m parallel links under the restriction that the link for each user be chosen from a certain set of allowed links for the user. In a (pure) Nash equilibrium, no user may improve its own Individual Cost (latency) by unilaterally switching to another link from its set of allowed links. The Price of Anarchy is a widely adopted measure of the worst-case loss (relative to optimum) in system performance (maximum latency) incurred in a Nash equilibrium. In this work, we present a comprehensive collection of bounds on Price of Anarchy for the model of restricted parallel links and for the special case of pure Nash equilibria. Specifically, we prove:\u2022 For the case of identical users and identical links, the Price of Anarchy is.\u2022 For the case of identical users, the Price of Anarchy is.\u2022 For the case of identical links, the Price of Anarchy is, which is asymptotically tight.\u2022 For the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:Se3iqnhoufwC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Topic 8: Distributed systems and algorithms",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-32820-6_40",
+            "Abstract": "The increasing significance of Distributed Computing becomes more and more crucial with the prevail of technological advances that make Global Computing a reality in modern world. Indeed, it is hard to imagine some application or computational activity and process that falls outside Distributed Computing. With the large advent of distributed systems, we are faced with the real challenges of distributed computation: How do we cope with asynchrony and failures? How (and how well) do we achieve load balancing? How do we model and analyze malicious and selfish behavior? How do we address mobility, heterogeneity and the dynamic nature of participating processes? What can we achieve in the presence of disconnecting operations that cause network partitioning?",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:_axFR9aDTf0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Direct routing: Algorithms and complexity",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-005-1189-3",
+            "Abstract": " Direct routing is the special case ofbufferless routing whereN packets, once injected into the network, must be delivered to their destinations without collisions. We give a general treatment of three facets of direct routing:                      1.                                              Algorithms. We present a polynomial-timegreedy direct algorithm which is worst-case optimal. We improve the bound of the greedy algorithm for special cases, by applying variants of this algorithm to commonly used network topologies. In particular, we obtainnear-optimal routing time for thetree, mesh, butterfly, andhypercube.                       2.                                              Complexity. By a reduction from Vertex Coloring, we show that optimal Direct Routing is inapproximable, unless P=NP.                       3.                                              Lower \u2026 Algorithms. We present a polynomial-timegreedy direct algorithm which is worst-case optimal. We improve the bound of the greedy algorithm for special cases, by applying variants of this algorithm to commonly used network topologies. In particular, we obtainnear-optimal routing time for thetree, mesh, butterfly, andhypercube. Complexity. By a reduction from Vertex Coloring, we show that optimal Direct Routing is inapproximable, unless P=NP. Lower \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Stability in routing: Networks and protocols",
+            "Publication year": 2004,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812562494_0022",
+            "Abstract": "We provide a state-of-the-art survey of results concerning stability issues for routing in communication networks, and corresponding protocols. Roughly speaking, a distributed routing protocol is stable on some particular network if the protocol maintains a bounded number of packets in the network at all times, under some suitable assumptions on the fashion of injecting packets into the network. Fundamental questions that pose themselves in such a setting include:\u2022 What is the effect of the injection pattern on stability?\u2022 Which protocols are stable on which networks?\u2022 What can be said about an algorithmic characterization of stability?In this survey, we summarize some of the known answers to these questions, and some questions for which no answers are yet known, as a collection of current challenges for the distributed computing community.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Counting Networks",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2168732652011366859&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "The Price of Defense",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-020-00783-7",
+            "Abstract": "We consider a game on a graph with two confronting classes of randomized players: attackers, who choose vertices and seek to minimize the probability of getting caught, and a single defender, who chooses edges and seeks to maximize the expected number of attackers it catches. In a Nash equilibrium, no player has an incentive to unilaterally deviate from her randomized strategy. The Price of Defense is the worst-case ratio, over all Nash equilibria, of over the expected utility of the defender at a Nash equilibrium.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:4hFrxpcac9AC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Computing Nash equilibria for scheduling on restricted parallel links",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-009-9191-9",
+            "Abstract": "We consider the problem of routing n users on m parallel links under the restriction that each user may only be routed on a link from a certain set of allowed links for the user. So, this problem is equivalent to the correspondingly restricted scheduling problem of assigning n jobs to m parallel machines. In a Nash equilibrium, no user may improve its own Individual Cost (latency) by unilaterally switching to another link from its set of allowed links.For identical links, we present, as our main result, a polynomial time algorithm to compute from any given assignment a Nash equilibrium with non-increased makespan. The algorithm gradually transforms the assignment by pushing the unsplittable user traffics through a flow network, which is constructed from the users and the links. The algorithm uses ideas from blocking flows.Furthermore, we use techniques simular to those in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Network game with attacker and protector entities",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11602613_30",
+            "Abstract": "Consider an information network with harmful procedures called attackers (e.g., viruses); each attacker uses a probability distribution to choose a node of the network to damage. Opponent to the attackers is the system protector scanning and cleaning from attackers some part of the network (e.g., an edge or a path), which it chooses independently using another probability distribution. Each attacker wishes to maximize the probability of escaping its cleaning by the system protector; towards a conflicting objective, the system protector aims at maximizing the expected number of cleaned attackers.We model this network scenario as a non-cooperative strategic game on graphs. We focus on the special case where the protector chooses a single edge. We are interested in the associated Nash equilibria, where no network entity can unilaterally improve its local objective. We obtain the following results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "FIFO is unstable at arbitrarily low rates",
+            "Publication year": 2003,
+            "Publication url": "http://www.cs.ucy.ac.cy/~mavronic/pdf/TCR03016.pdf",
+            "Abstract": "In this work, we study the stability of the FIFO (First-In-First-Out) protocol in the context of Adversarial Queueing Theory. As an important intermediate step, we consider dynamic capacities, where each network link capacity may arbitrarily take on values in the two-valued set of integers {1, C} for C> 1 being the high capacity (a parameter). In this context:",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Weighted boolean formula games",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-77105-0_51",
+            "Abstract": "We introduce a new class of succinct games, called weighted boolean formula games. Here, each player has a set of boolean formulas he wants to get satisfied. The boolean formulas of all players involve a ground set of boolean variables, and every player controls some of these variables. The payoff of a player is the weighted sum of the values of his boolean formulas. We consider pure Nash equilibria [18] and their well-studied refinement of payoff-dominant equilibria [12], where every player is no-worse-off than in any other pure Nash equilibrium. We study both structural and complexity properties for both decision and search problems.   We consider a subclass of weighted boolean formula games, called mutual weighted boolean formula games, which make a natural mutuality assumption. We present a very simple exact potential for mutual weighted boolean \u2026We consider a subclass of weighted boolean formula games, called mutual weighted boolean formula games, which make a natural mutuality assumption. We present a very simple exact potential for mutual weighted boolean \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Weighted Boolean formula games",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24024-4_6",
+            "Abstract": "We introduce weighted boolean formula games (WBFG) as a new class of succinct games. Each player has a set of boolean formulas she wants to get satisfied; the formulas involve a ground set of boolean variables each of which is controlled by some player. The payoff of a player is a weighted sum of the values of her formulas. We consider both pure equilibria and their refinement of payoff-dominant equilibria [34], where every player is no worse-off than in any other pure equilibrium. We present both structural and complexity results:  We consider mutual weighted boolean formula games (MWBFG), a subclass of WBFG making a natural mutuality assumption on the formulas of players. We present a very simple exact potential for MWBFG. We establish a polynomial monomorphism from certain classes of weighted congestion games to subclasses of WBFG and MWBFG, respectively \u2026We consider mutual weighted boolean formula games (MWBFG), a subclass of WBFG making a natural mutuality assumption on the formulas of players. We present a very simple exact potential for MWBFG. We establish a polynomial monomorphism from certain classes of weighted congestion games to subclasses of WBFG and MWBFG, respectively \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:2KloaMYe4IUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "The price of anarchy for polynomial social cost",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-28629-5_44",
+            "Abstract": "In this work, we consider an interesting variant of the well-studied KP model [18] for selfish routing that reflects some influence from the much older Wardrop model [31]. In the new model, user traffics are still unsplittable, while social cost is now the expectation of the sum, over all links, of a certain polynomial evaluated at the total latency incurred by all users choosing the link; we call it polynomial social cost. The polynomials that we consider have non-negative coefficients. We are interested in evaluating Nash equilibria in this model, and we use the Price of Anarchy as our evaluation measure. We prove the Fully Mixed Nash Equilibrium Conjecture for identical users and two links, and establish an approximate version of the conjecture for arbitrary many links. Moreover, we give upper bounds on the Price of Anarchy.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Graphs, Games and Computation Dedicated to Professor Burkhard Monien on the Occasion of his 65th Birthday Preface",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16357943064997231633&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:S16KYo8Pm5AC",
+            "Publisher": "ELSEVIER SCIENCE BV"
+        },
+        {
+            "Title": "-Hardness of Equilibria in Case of Risk-Averse Players",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-98355-4_23",
+            "Abstract": "We study the complexity of deciding the existence of mixed equilibria for minimization games where players use valuations other than expectation to evaluate their costs. We consider risk-averse players seeking to minimize the sum  of expectation  and a risk valuation  of their costs;  is non-negative and vanishes exactly when the cost incurred to a player is constant over all choices of strategies by the other players. In a -equilibrium, no player can unilaterally reduce her cost.The results presented in this paper show that the question whether a 2-player game with such risk-modeling valuations  has a -equilibrium is strongly -hard under very mild assumptions. We only have to ask that the valuation functions are strictly quasiconcave or that they fulfill the Weak-Equilibrium-for-Expectation property and that additionally some 2-strategy game has no -equilibrium. These conditions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A simple graph-theoretic model for selfish restricted scheduling",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=encFCAAAQBAJ&oi=fnd&pg=PA195&dq=info:UYl6OMsOkKQJ:scholar.google.com&ots=bHvi6k8fb4&sig=qxSZ4SPsbTxBMLfbTBQdN0hRsOs",
+            "Abstract": "In this work, we introduce and study a simple, graph-theoretic model for selfish scheduling among m non-cooperative users over a collection of n machines; however, each user is restricted to assign its unsplittable load to one from a pair of machines that are allowed for the user. We model these bounded interactions using an interaction graph, whose vertices and edges are the machines and the users, respectively. We study the impact of our modeling assumptions on the properties of Nash equilibria in this new model. The main findings of our study are outlined as follows:",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:VaXvl8Fpj5cC",
+            "Publisher": "SPRINGER-VERLAG"
+        },
+        {
+            "Title": "Nash equilibria for Voronoi games on transitive graphs",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-10841-9_26",
+            "Abstract": "In a Voronoi game, each of \u03ba\u2009\u2265\u20092 players chooses a vertex in a graph G\u2009=\u2009<V(G), E(G) >. The utility of a player measures her Voronoi cell: the set of vertices that are closest to her chosen vertex than to that of another player. In a Nash equilibrium, unilateral deviation of a player to another vertex is not profitable. We focus on various, symmetry-possessing classes of transitive graphs: the vertex-transitive and generously vertex-transitive graphs, and the more restricted class of friendly graphs we introduce; the latter encompasses as special cases the popular d-dimensional bipartite torus T  d \u2009=\u2009T  d  (2 p 1, ..., 2 p  d ) with even sides 2p 1, ..., 2p  d  and dimension d\u2009\u2265\u20092, and a subclass of the Johnson graphs. Would transitivity enable bypassing the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:BqipwSGYUEgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A network game with attackers and a defender",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-007-9109-3",
+            "Abstract": " Consider an information network with threats called attackers; each attacker uses a probability distribution to choose a node of the network to damage. Opponent to the attackers is a protector entity called defender; the defender scans and cleans from attacks some part of the network (in particular, a link), which it chooses independently using its own probability distribution. Each attacker wishes to maximize the probability of escaping its cleaning by the defender; towards a conflicting objective, the defender aims at maximizing the expected number of attackers it catches.  We model this network security scenario as a non-cooperative strategic game on graphs. We are interested in its associated Nash equilibria, where no network entity can unilaterally increase its local objective. We obtain the following results:                       \u2022                                              We obtain an algebraic characterization of \u2026 We obtain an algebraic characterization of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "M. Mavronicolas: The Distributed Computing Column Annotated Bibliography on Counting Networks",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=559465621075740356&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:fPk4N6BV_jEC",
+            "Publisher": "European Association for Theoretical Computer Science; 1999"
+        },
+        {
+            "Title": "Approximate equilibria and ball fusion",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-003-1131-5",
+            "Abstract": " We consider selfish routing over a network consisting of m parallel links through which  selfish users route their traffic trying to minimize their own expected latency. We study the class of mixed strategies in which the expected latency through each link is at most a constant multiple of the optimum maximum latency had global regulation been available. For the case of uniform links it is known that all Nash equilibria belong to this class of strategies. We are interested in bounding the coordination ratio (or price of anarchy) of these strategies defined as the worst-case ratio of the maximum (over all links) expected latency over the optimum maximum latency. The load balancing aspect of the problem immediately implies a lower bound \u03a9(ln m ln ln m) of the coordination ratio. We give a tight (up to a multiplicative constant) upper bound. To show the upper bound, we analyze a variant of the classical balls and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Universal Bufferless Routing",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17971656173070315065&hl=en&oi=scholarr",
+            "Abstract": "Given an arbitrary network, and a routing problem with congestion C and dilation D, a long standing open problem is to show the existence of bufferless routing algorithms with optimal performance guarantees (routing time close to the lower bound 2 (C+D)). Our main result is a new deterministic technique that constructs a universal bufferless al-gorithm by emulating a universal buffered algorithm. The heart of the emulation is to replace packet buffering with packet circulation on regions of the network. The cost of the emulation on the routing time is proportional to the square of the node buffer size used by the buffered algorithm. We apply this emulation to a simple randomized buffered algo rithm to obtain a distributed, universal bufferless algorithm with routing time O ((C+ D). log (n+ N)), which is within poly-logarithmic factors from the optimal, where n is the size of the network and N is the number of packets. The bufferless competitive ratio is the ratio of the best achiev-able bufferless routing time, to the best achievable buffered routing time.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:DUooU5lO8OsC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Voronoi games on cycle graphs",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/35615429/Voronoi_Games_on_Cycle_Graphs.pdf",
+            "Abstract": "In a Voronoi game, there is a finite number of players who each chooses a point in some metric space. A player\u2019s utility is the total measure of all points that are closer to him than to any other player, where points equidistant to several players are split up evenly among the closest players. In a recent paper, D\u00fcrr and Thang (2007) considered discrete Voronoi games on graphs, with a particular focus on pure Nash equilibria. They also looked at Voronoi games on cycle graphs with n nodes and k players. In this paper, we prove a new characterization of all Nash equilibria for these games. We then use this result to establish that Nash equilibria exist if and only if k\u2264 2n",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:a9-T7VOCCH8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The price of defense",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11821069_62",
+            "Abstract": "We consider a strategic game with two classes of confronting randomized players on a graph G(V, E): \u03bd attackers, each choosing vertices and wishing to minimize the probability of being caught, and a defender, who chooses edges and gains the expected number of attackers it catches. The Price of Defense is the worst-case ratio, over all Nash equilibria, of the optimal gain of the defender over its gain at a Nash equilibrium. We provide a comprehensive collection of trade-offs between the Price of Defense and the computational efficiency of Nash equilibria.\u2013 Through reduction to a Two-Players, Constant-Sum Game, we prove that a Nash equilibrium can be computed in polynomial time. The reduction does not provide any apparent guarantees on the Price of Defense.\u2013 To obtain such, we analyze several structured Nash equilibria:\u2013 In a Matching Nash equilibrium, the support of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The structure and complexity of Nash equilibria for a selfish routing game",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45465-9_12",
+            "Abstract": "In this work, we study the combinatorial structure and the computational complexity of Nash equilibria for a certain game that models selfish routing over a network consisting of m parallel links. We assume a collection of n users, each employing a mixed strategy, which is a probability distribution over links, to control the routing of its own assigned traffic. In a Nash equilibrium, each user selfishly routes its traffic on those links that minimize its expected latency cost, given the network congestion caused by the other users. The social cost of a Nash equilibrium is the expectation, over all random choices of the users, of the maximum, over all links, latency through a link.We embark on a systematic study of several algorithmic problems related to the computation of Nash equilibria for the selfish routing game we consider. In a nutshell, these problems relate to deciding the existence of a Nash equilibrium \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Distributed systems and algorithms",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45706-2_75",
+            "Abstract": "This topic covers new exciting developments in the area of distributed systems and algorithms. It aims to address both theoretical and practical issues that arise in relation to the specification, design, implementation, verification and analysis of distributed systems and their algorithms. Loosely speaking, a distributed system is a collection of independent, autonomous computing elements that appears to its users as a single, coherent entity. Today, distributed systems are almost everywhere. Indeed, the immensely popularWorld WideWeb is arguably the biggest distributed system ever built. Even more so, the wide acceptance and use of Internet technologies and standards stresses the importance of distributed systems more than ever.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:NhqRSupF_l8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An Analysis of Direct Routing-Why do we need Buffers",
+            "Publication year": 2003,
+            "Publication url": "https://users-cs.au.dk/gerth/alcom-ft/TR/ALCOMFT-TR-03-133.ps.gz",
+            "Abstract": "Direct routing is a special case of bufferless routing in which N packets must be routed without conflicts along specific paths. We show, by a reduction from vertex coloring, that direct routing in NP-complete, and that it is as hard to approximate as coloring. This result shows that buffering is necessary in order to tractably compute routing schedules. Further, we construct a hard routing problem for which any routing algorithm requires \u2126 (N (4\u2212 2\u2208)/3) total packet buffering to approximate an optimal routing schedule with approximation ratio O (N\u2208), for any 0\u2264 \u01eb< 1/2.We then study algorithms for efficient direct routing. We give a greedy algorithm for general direct routing problems with direct routing time that is worst case optimal. Finally, we consider many interesting routing problems on commonly used network topologies for which variants of the greedy algorithm achieve optimal or near optimal (within logarithmic factors) routing time. In particular, we study the Tree, the d-dimensional Mesh, the Butterfly and the Hypercube.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Technical Report ALCOMFT-TR-03-133, ALCOM-FT, Patras and Cyprus"
+        },
+        {
+            "Title": "The impact of randomization in smoothing networks",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00446-009-0087-3.pdf",
+            "Abstract": "We revisit randomized smoothing networks (Herlihy and Tirthapura in J Parallel Distrib Comput 66(5):626\u2013632, 2006), which are made up of balancers and wires. We assume that balancers are oriented independently and uniformly at random. Tokens arrive arbitrarily on w  input wires and propagate asynchronously through the network; each token is served on the output wire it arrives at. The smoothness is the maximum discrepancy among the numbers of tokens arriving at the w output wires. We present a collection of lower and upper bounds on smoothness, which are to some extent surprising: (1) The smoothness of a single block network is lg lg  w+\u0398(1) (with high probability), where the additive constant is between \u22122 and 3. This tight bound improves vastly over the upper bound of  from Herlihy and Tirthapura (2006), and it essentially settles our understanding of the smoothing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Algorithmic Game Theory and Applications",
+            "Publication year": 2006,
+            "Publication url": "http://nozdr.ru/data/media/biblio/kolxoz/Cs/CsAl/Nayak%20A.,%20Stojmenovic%20I.%20(eds.)%20Handbook%20of%20applied%20algorithms..%20solving%20scientific,%20engineering,%20and%20practical%20problems%20(Wiley,%202008)(ISBN%200470044926)(571s)_CsAl_.pdf#page=314",
+            "Abstract": "Most of the existing and foreseen complex networks, such as the Internet, are operated and built by thousands of large and small entities (autonomous agents), which collaborate to process and deliver end-to-end flows originating from and terminating at any of them. The distributed nature of the Internet implies a lack of coordination among its users. Instead, each user attempts to obtain maximum performance according to his own parameters and objectives.Methods from game theory and mathematical economics have been proven to be a powerful modeling tool, which can be applied to understand, control, and efficiently design such dynamic, complex networks. Game theory provides a good starting point for computer scientists in their endeavor to understand selfish rational behavior in complex networks with many agents (players). Such scenarios are readily modeled using techniques from game theory, where players with potentially conflicting goals participate in a common setting with well-prescribed interactions.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A network game with attackers and a defender: A survey",
+            "Publication year": 2006,
+            "Publication url": "http://www2.cs.ucy.ac.cy/~mavronic/pdf/complex.pdf",
+            "Abstract": "We survey a research line recently initiated by Mavronicolas et al.[14, 15, 16], concerning a strategic game on a graph G (V, E) with two confronting classes of randomized players: \u03bd attackers who choose vertices and wish to minimize the probability of being caught by the defender, who chooses edges and gains the expected number of attackers it catches. So, the defender captures system rationality. In a Nash equilibrium, no single player has an incentive to unilaterally deviate from its randomized strategy. The Price of Defense is the worst-case ratio, over all Nash equilibria, of the optimal gain of the defender (which is \u03bd) over the gain of the defender at a Nash equilibrium. We present a comprehensive collection of trade-offs between the Price of Defense and the computational efficiency of Nash equilibria proved in [14, 15, 16].",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A combinatorial characterization of properties preserved by antitokens",
+            "Publication year": 2004,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812562494_0017",
+            "Abstract": "Balancing networks are highly distributed data structures that are used for providing efficient solutions to multiprocessor synchronization problems. Traditionally, balancing networks have been designed to be accessed by tokens, which correspond to increment operations. The distribution of tokens on the network's output specifies the correctness property of the network. However, tokens alone may be inadequate for synchronization problems that require decrement operations, such as semaphores and critical regions. For such problems, antitokens have been introduced to implement the decrement operation [21].It has been shown that several kinds of networks that satisfy the step property, the smoothing property and the threshold property for tokens alone preserve their properties when antitokens are introduced [2,5,21]. Thus, such networks are able to solve synchronization problems that require decrements. A \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:ldfaerwXgEUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The complexity of (E+ Var)-equilibria, ESR-equilibria, and SuperE-equilibria for 2-players games with few cost values",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397521000499",
+            "Abstract": "We consider 2-players minimization games with very few cost values. Players are risk-averse and play mixed strategies. The players care about minimizing some function other than expectation or minimizing expectation with additional properties: Expectation plus Variance (E+ Var), or Extended Sharpe Ratio (ESR), or Expectation (E) with the additional property that Variance is zero (Var= 0). These give rise to (E+ Var)-equilibria, to ESR-equilibria, and to SuperE-equilibria, respectively: in an (E+ Var)-equilibrium, no player could unilaterally reduce her (E+ Var)-cost; in an ESR-equilibrium, no player could unilaterally reduce her ESR-cost; in a SuperE-equilibrium, Var= 0 and no player could unilaterally reduce her E-cost. We show two complexity results:\u2022 Deciding the existence of an (E+ R)-equilibrium is strongly NP-hard for 3-values games, where R is a general risk valuation, assuming that E+ R is strictly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:0izLItjtcgwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Review of design and analysis of randomized algorithms: introduction to design paradigms by Juraj Hromkovi\u010d (Published by Springer)",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1556154.1556160",
+            "Abstract": "Everybody in the Theory of Computing community (especially those who work on Algorithm Design) is well acquainted with the concept of Randomization. It is not an exaggeration to say that Randomization is currently one of the major approaches to Algorithm Design. This is evidenced by the fact that modern leading textbooks on Algorithm Design and Analysis often include a chapter on Randomization (next to chapters on Dynamic Programming, Approximation and Linear Programming, to mention a few of the other standard techniques for the design of Computer Algorithms). Besides its (partial) coverage in general textbooks on Algorithm Design, there are already two textbooks devoted to Randomization and emphasizing Randomized Algorithms, Random Processes and Probabilistic Analysis of Algorithms; the textbook by Hromkovic is the third in this row. In my view (and see my comments below on this), this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:8AbLer7MMksC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Existential-R-complete decision problems about symmetric Nash equilibria in symmetric multi-player games",
+            "Publication year": 2017,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2017/7020/",
+            "Abstract": "We study the complexity of decision problems about symmetric Nash equilibria for symmetric multi-player games. These decision problems concern the existence of a symmetric Nash equilibrium with certain natural properties. We show that a handful of such decision problems are Existential-R-complete; that is, they are exactly as hard as deciding the Existential Theory of the Reals.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:ILKRHgRFtOwC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "The impact of network structure on the stability of greedy protocols",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/article/10.1007/s00224-004-1181-3",
+            "Abstract": "A packet-switching network is stable if the number of packets in the network remains  bounded at all times. A  very natural question that arises in the context of stability  properties of such networks is how network structure precisely affects these properties. In this work we embark on a systematic study of this question in the context of  Adversarial Queueing Theory, which assumes that packets are adversarially injected into the network. We consider size, diameter, maximum vertex degree, minimum number of disjoint paths that cover all edges of the network and network subgraphs as crucial structural parameters of the network, and we present a comprehensive collection of structural results, in the form of stability and instability bounds on injection rate of the adversary for various greedy protocols: \u2014Increasing the size of a network may result in dropping its instability bound. This is shown through a novel, yet \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Direct routing: Algorithms and complexity",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30140-0_14",
+            "Abstract": " Direct routing is the special case of bufferless routing where N packets, once injected into the network, must be routed along specific paths to their destinations without conflicts. We give a general treatment of three facets of direct routing:    Algorithms. We present a polynomial time greedy algorithm for arbitrary direct routing problems which is worst-case optimal, i.e., there exist instances for which no direct routing algorithm is better than the greedy. We apply variants of this algorithm to commonly used network topologies. In particular, we obtain near-optimal routing time for the tree and d-dimensional mesh, given arbitrary sources and destinations; for the butterfly and the hypercube, the same result holds for random destinations.    Complexity. By a reduction from Vertex Coloring, we show \u2026 Algorithms. We present a polynomial time greedy algorithm for arbitrary direct routing problems which is worst-case optimal, i.e., there exist instances for which no direct routing algorithm is better than the greedy. We apply variants of this algorithm to commonly used network topologies. In particular, we obtain near-optimal routing time for the tree and d-dimensional mesh, given arbitrary sources and destinations; for the butterfly and the hypercube, the same result holds for random destinations. Complexity. By a reduction from Vertex Coloring, we show \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The complexity of pure equilibria in mix-weighted congestion games on parallel links",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020019015001349",
+            "Abstract": "We revisit the simple class of weighted congestion games on parallel links [10], where each player has a non-negative weight and her cost on the link she chooses is the sum of the weights of all players choosing the link. We extend this class to mix-weighted congestion games on parallel links, where weights may as well be negative. For the resulting simple class, we study the complexity of deciding the existence of a pure equilibrium, where no player could unilaterally improve her cost by switching to another link. We show that even for a single negative weight, this decision problem is strongly NP-complete when the number of links is part of the input; the problem is NP-complete already for two links. When the number of links is a fixed constant, we show, through a pseudopolynomial, dynamic programming algorithm, that the problem is not strongly NP-complete unless P= NP; the algorithm works for any number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:tzM49s52ZIMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An Application of the Monotone Linearizability Lemma.",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5659886302541493384&hl=en&oi=scholarr",
+            "Abstract": "Monotone RMW operations are associated with monotone groups, a certain class of algebraic groups; Fetch&Add and Fetch&Multiply operations are two popular examples. Recently, Busch et al.[3] introduced the Mono-tone Linearizability Lemma, which establishes inherent ordering constraints of linearizability for a certain class of executions of any distributed system that implements a monotone RMW operation. Through the Monotone Lineariability Lemma, Busch et al.[3] derived the first lower bounds on size (the number of sitches) for any (non-trivial) switching network implementing a monotone RMW operation.In this note, we present another application of the Monotone Linearizability Lemma. We provide a very simple and succinct proof that any switching network implementing a monotone RMW operation has sequential executions with n processes and latency Q (n). Since Fetch&lncrement is imple-",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:WZBGuue-350C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Internet and Network Economics",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/11944874.pdf",
+            "Abstract": "The present volume is devoted to the second edition of the international Workshop on Internet and Network Economics (WINE), an interdisciplinary conference intending to provide a forum for researchers as well as practitioners to exchange innovative ideas and to be aware of each other\u2019s efforts and results. This second edition of the conference (WINE 2006) was hosted by the Research Academic Computer Technology Institute, at the University of Patras, December 15\u201317, 2006.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:_B80troHkn4C",
+            "Publisher": "LNCS, Springer, chapter A Graph-Theoretic Network Security Game"
+        },
+        {
+            "Title": "Review of Introduction to Distributed Algorithms",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/564585.564590",
+            "Abstract": "This book presents a view of several important topics in the modern field of distributed algorithms. The book is intended to provide useful background and reference information for professional engineers dealing with distributed systems, and for entering researchers who wish to develop a sufficient background in distributed algorithms. In addition, the book is suitable for providing a textbook-style introduction to distributed algorithms for advanced undergraduates or early graduate students who are taking a relevant course or consider pursuing research in the field.The reference sources for this book incluude mainly research papers on the modern theory of Distributed Computing that routinely appear in conferences such as the ACM Symposium on Principles of Distributed Computing (PODC), or the International Symposium on DIStributed Computing (DISC). Fundamental milestones of this theory include also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:Tiz5es2fbqcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "On the stability of compositions of universally stable, greedy contention-resolution protocols",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36108-1_6",
+            "Abstract": "A distinguishing feature of today\u2019s large-scale platforms for distributed computation and communication, such as the Internet, is their heterogeneity, predominantly manifested by the fact that a wide variety of communication protocols are simultaneously running over different distributed hosts. A fundamental question that naturally poses itself concerns the preservation (or loss) of important correctness and performance properties of the individual protocols when they are composed in a large network. In this work, we specifically address stability properties of greedy, contention-resolution protocols operating over a packet-switched communication network.We focus on a basic adversarial model for packet arrival and path determination for which the time-averaged arrival rate of packets requiring a single edge is no more than 1. Stability requires that the number of packets in the system remains bounded \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Algorithmic Game Theory: Second International Symposium, SAGT 2009, Paphos, Cyprus, October 18-20, 2009, Proceedings",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VIFqCQAAQBAJ&oi=fnd&pg=PP2&dq=info:_2xkYXROQVcJ:scholar.google.com&ots=JYNTy62QXs&sig=jMRK1jrVUkGOCO-cHeES_sic-9w",
+            "Abstract": "This book constitutes the refereed proceedings of the Second International Symposium on Algorithmic Game Theory, SAGT 2009, held in Paphos, Cyprus, in October 2009. The 29 revised full papes presented together with 3 invited lectures were carefully reviewed and selected from 55 submissions. The papers are intended to cover all important areas such as solution concepts, game classes, computation of equilibria and market equilibria, algorithmic mechanism design, automated mechanism design, convergence and learning in games, complexity classes in game theory, algorithmic aspects of fixed-point theorems, mechanisms, incentives and coalitions, cost-sharing algorithms, computational problems in economics, finance, decision theory and pricing, computational social choice, auction algorithms, price of anarchy and its relatives, representations of games and their complexity, economic aspects of distributed computing and the internet, congestion, routing and network design and formation games and game-theoretic approaches to networking problems.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "A simple graph-theoretic model for selfish restricted scheduling",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11600930_20",
+            "Abstract": "In this work, we introduce and study a simple, graph-theoretic model for selfish scheduling among m non-cooperative users over a collection of nmachines; however, each user is restricted to assign its unsplittable load to one from a pair of machines that are allowed for the user. We model these bounded interactions using an interaction graph, whose vertices and edges are the machines and the users, respectively. We study the impact of our modeling assumptions on the properties of Nash equilibria in this new model. The main findings of our study are outlined as follows:\u2013 We prove, as our main result, that the parallel links graph is the best-case interaction graph \u2013 the one that minimizes expected makespan of the standard fully mixed Nash equilibrium \u2013 among all 3-regular interaction graphs. The proof employs a graph-theoretic lemma about orientations in 3-regular graphs, which may be of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:_kc_bZDykSQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Conditional value-at-risk: structure and complexity of equilibria",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397519305596",
+            "Abstract": "Conditional Value-at-Risk, denoted as CVaR \u03b1, is becoming the prevailing measure of risk over two paramount economic domains: the insurance domain and the financial domain; \u03b1\u2208(0, 1) is the confidence level. In this work, we study the strategic equilibria for an economic system modeled as a game, where risk-averse players seek to minimize the Conditional Value-at-Risk of their costs. Concretely, in a CVaR \u03b1-equilibrium, the mixed strategy of each player is a best-response. We establish two significant properties of CVaR \u03b1 at equilibrium:(1) The Optimal-Value property: For any best-response of a player, each mixed strategy in the support gives the same cost to the player. This follows directly from the concavity of CVaR \u03b1 in the involved probabilities, which we establish.(2) The Crawford property: For every \u03b1, there is a 2-player game with no CVaR \u03b1-equilibrium. The property is established using the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:TIZ-Mc8IlK0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficiency of oblivious versus nonoblivious schedulers for optimistic, rate-based flow control",
+            "Publication year": 2005,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S009753970343275X",
+            "Abstract": "Two important performance parameters of distributed, rate-based flow control algorithms are their locality and  convergence complexity. The former is characterized by the amount of global knowledge that is available to their scheduling mechanisms, while the latter is defined as the number of update operations performed on rates of individual sessions until max-min fairness is reached. Optimistic algorithms allow any session to intermediately receive a rate larger than its max-min fair rate; bottleneck algorithms finalize the rate of a session only if it is restricted by a certain, highly congested link of the network. In this work, we present a comprehensive collection of lower and upper bounds on convergence complexity, under varying degrees of locality, for optimistic, bottleneck, rate-based flow control algorithms.Say that an algorithm is oblivious if its scheduling mechanism uses no information of either the session rates or the network \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "A distributed algorithm for gathering many fat mobile robots in the plane",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2484239.2484266",
+            "Abstract": "We revisit the problem of gathering autonomous robots in the plane. In particular, we consider non-transparent unit-disc robots (ie, fat) in an asynchronous setting with vision as the only means of coordination and robots only make local decisions. We use a state-machine representation to formulate the gathering problem and develop a distributed algorithm that solves the problem for any number of fat robots. The main idea behind the algorithm is to enforce the robots to reach a configuration in which all the following hold:",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the Stability of Compositions of Universally",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11174189273156340552&hl=en&oi=scholarr",
+            "Abstract": "A distinguishing feature of today's large-scale platforms for distributed computation and communication, such as the Internet, is their heterogeneity, predominantly manifested by the fact that a wide variety of communication protocols are simultaneously running over dif-ferent distributed hosts. A fundamental question that naturally poses itself concerns the preservation (or loss) of important correctness and performance properties of the individual protocols when they are composed in a large network. In this work, we specifically address stabil-ity properties of greedy, contention-resolution protocols operating over a packet-switched communication network.We focus on a basic adversarial model for packet arrival and path deter-mination for which the time-averaged arrival rate of packets requiring a single edge is no more than 1. Stability requires that the number of packets in the system remains bounded, as the system runs for an arbitrarily",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:XvxMoLDsR5gC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "How many attackers can selfish defenders catch?",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0166218X13002515",
+            "Abstract": "In a distributed system with attacks and defenses, both attackers and defenders are self-interested entities. We assume a reward-sharing scheme among interdependent defenders; each defender wishes to (locally) maximize her own total fair share to the attackers extinguished due to her involvement (and possibly due to those of others). What is the maximum amount of protection achievable by a number of such defenders against a number of attackers while the system is in a Nash equilibrium? As a measure of system protection, we adopt the Defense-Ratio (Mavronicolas et al., 2008)[20], which provides the expected (inverse) proportion of attackers caught by the defenders. In a Defense-Optimal Nash equilibrium, the Defense-Ratio matches a simple lower bound. We discover that the existence of Defense-Optimal Nash equilibria depends in a subtle way on how the number of defenders compares to two natural \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "PAACT74AAAAJ:J_g5lzvAfSwC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "The price of selfish routing",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/380752.380846",
+            "Abstract": "We study the problem of routing traffic through a congested network. We focus on the simplest case of a network consisting of m parallel links. We assume a collection of n network users, each employing a mixed strategy which is a probability distribution over links, to control the shipping of its own assigned traffic. Given a capacity for each link specifying the rate at which the link processes traffic, the objective is to route traffic so that the maximum expected latency over all links is minimized. We consider both uniform and non-uniform link capacities.",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A catalog of EXISTS-R-complete decision problems about Nash equilibria in multi-player games",
+            "Publication year": 2016,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2016/5718/",
+            "Abstract": "[Schaefer and Stefankovic, Theory of Computing Systems, 2015] provided an explicit formulation of EXISTS-R as the class capturing the complexity of deciding the Existential Theory of the Reals, and established that deciding, given a 3-player game, whether or not it has a Nash equilibrium with no probability exceeding a given rational is EXISTS-R-complete. Four more decision problems about Nash equilibria for 3-player games were very recently shown EXISTS-R-complete via a chain of individual, problem-specific reductions in [Garg et al., Proceedings of ICALP 2015]; determining more such EXISTS-R-complete problems was posed there as an open problem. In this work, we deliver an extensive catalog of EXISTS-R-complete decision problems about Nash equilibria in 3-player games, thus resolving completely the open problem from [Garg et al., Proceedings of ICALP 2015]. Towards this end, we present a single and very simple, unifying reduction from the EXISTS-R-complete decision problem from [Schaefer and Stefankovic, Theory of Computing Systems, 2015] to (almost) all the decision problems about Nash equilibria that were before shown NP-complete for 2-player games in [Bilo and Mavronicolas, Proceedings of SAGT 2012; Conitzer and Sandholm, Games and Economic Behavior, 2008; Gilboa and Zemel, Games and Economic Behavior, 1989]. Encompassed in the catalog are the four decision problems shown EXISTS-R-complete in [Garg et al., Proceedings of ICALP 2015].",
+            "Abstract entirety": 1,
+            "Author pub id": "PAACT74AAAAJ:nrtMV_XWKgEC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        }
+    ]
+}]

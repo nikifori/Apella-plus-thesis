@@ -1,0 +1,1129 @@
+[{
+    "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a4\u03c3\u03b1\u03bc\u03b1\u03c1\u03b4\u03af\u03bd\u03bf\u03c2",
+    "romanize name": "Ioannis Tsamardinos",
+    "School-Department": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 5078,
+    "Scholar name": "Ioannis Tsamardinos",
+    "Scholar id": "7fendUwAAAAJ",
+    "Affiliation": "Professor, Computer Science Department, University of Crete",
+    "Citedby": 9785,
+    "Interests": [
+        "Machine Learning",
+        "Data Science",
+        "Bioinformatics",
+        "Causal Discovery",
+        "Artificial Intelligence"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=7fendUwAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Efficiently dispatching plans encoded as simple temporal problems",
+            "Publication year": 2005,
+            "Publication url": "https://www.igi-global.com/chapter/intelligent-techniques-planning/24466",
+            "Abstract": "The Simple Temporal Problem (STP) formalism was developed to encode flexible quantitative temporal constraints, and it has been adopted as a commonly used framework for temporal plans. This chapter addresses the question of how to automatically dispatch a plan encoded as an STP, that is, how to determine when to perform its constituent actions so as to ensure that all of its temporal constraints are satisfied. After reviewing the theory of STPs and their use in encoding plans, we present detailed descriptions of the algorithms that have been developed to date in the literature on STP dispatch. We distinguish between off-line and online dispatch, and present both basic algorithms for dispatch and techniques for improving their efficiency in time-critical situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Somatic copy number aberrations detected in circulating tumor DNA can hold diagnostic value for early detection of hepatocellular carcinoma",
+            "Publication year": 2020,
+            "Publication url": "https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(20)30226-7/fulltext",
+            "Abstract": "The study reported by Tao et al., 2020 appearing in the recent issue of EBioMedicine [1] targets the significant unmet clinical need for a blood-based minimally invasive accurate biomarker for the early detection of hepatocellular carcinoma (HCC). Circulating tumor DNA (ctDNA), a most promising liquid biopsy biomaterial holding clinically relevant information is analyzed. ctDNA had been shown to carry genetic and epigenetic aberrations that mirror the growing tumor [2, 3], therefore could be used to monitor its lifespan. The present study focuses on the detection of somatic copy number aberrations (SCNAs) in ctDNA, not previously assessed in HCC. As a liquid biopsy parameter, SCNAs present some advantages over others, as they contribute larger number of ctDNA fragments to the overall cfDNA pool, span larger genomic regions, whereas compared to methylation, they remain much less affected by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:wuYnf3tzzDUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Erratum to: A comparative evaluation of data-merging and meta-analysis methods for reconstructing gene-gene interactions",
+            "Publication year": 2016,
+            "Publication url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1153-z",
+            "Abstract": "Erratum to: A comparative evaluation of data-merging and meta-analysis methods for \nreconstructing gene-gene interactions | BMC Bioinformatics | Full Text Skip to main content \nAdvertisement BMC Part of Springer Nature Search Explore journals Get published About \nBMC My account Search all BMC articles Search BMC Bioinformatics Home About Articles \nIn Review Submission Guidelines Download PDF Erratum Open Access Published: 27 July \n2016 Erratum to: A comparative evaluation of data-merging and meta-analysis methods for \nreconstructing gene-gene interactions Vincenzo Lagani 1,4 , Argyro D. Karozou 1 , David \nGomez-Cabrero 2,3,5,6 , Gilad Silberberg 2,3,5,6 & Ioannis Tsamardinos 1,4 BMC \nBioinformatics volume 17, Article number: 290 (2016) Cite this article 848 Accesses 1 \nCitations 1 Altmetric Metrics details The original article was published in BMC \nBioinformatics 2016 17:S194 Erratum In the of [1\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:TiLqlu47W2oC",
+            "Publisher": "BioMed Central"
+        },
+        {
+            "Title": "A novel algorithm for scalable and accurate Bayesian network learning.",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/8353240_A_novel_algorithm_for_scalable_and_accurate_Bayesian_network_learning/links/02e7e51e7c59375007000000/A-novel-algorithm-for-scalable-and-accurate-Bayesian-network-learning.pdf",
+            "Abstract": "Bayesian Networks (BN) is a knowledge representation formalism that has been proven to be valuable in biomedicine for constructing decision support systems and for generating causal hypotheses from data. Given the emergence of datasets in medicine with thousands of variables and that current algorithms do not scale more than a few hundred variables in practical domains, new efficient and accurate algorithms are needed to learn high quality BNs from data. We present a new algorithm called Max-Min Hill-Climbing (MMHC) that builds upon and improves the Sparse Candidate (SC) algorithm; a state-of-theart algorithm that scales up to datasets involving hundreds of variables provided the generating networks are sparse. Compared to the SC, on a number of datasets from medicine and biology,(a) MMHC discovers BNs that are structurally closer to the data-generating BN,(b) the discovered networks are more probable given the data,(c) MMHC is computationally more efficient and scalable than SC, and (d) the generating networks are not required to be uniformly sparse nor is the user of MMHC required to guess correctly the network connectivity.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HITON: a novel Markov Blanket algorithm for optimal variable selection",
+            "Publication year": 2003,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmc1480117/",
+            "Abstract": "We introduce a novel, sound, sample-efficient, and highly-scalable algorithm for variable selection for classification, regression and prediction called HITON. The algorithm works by inducing the Markov Blanket of the variable to be classified or predicted. A wide variety of biomedical tasks with different characteristics were used for an empirical evaluation. Namely,(i) bioactivity prediction for drug discovery,(ii) clinical diagnosis of arrhythmias,(iii) bibliographic text categorization,(iv) lung cancer diagnosis from gene expression array data, and (v) proteomics-based prostate cancer detection. State-of-the-art algorithms for each domain were selected for baseline comparison. Results:(1) HITON reduces the number of variables in the prediction models by three orders of magnitude relative to the original variable set while improving or maintaining accuracy.(2) HITON outperforms the baseline algorithms by selecting more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "American Medical Informatics Association"
+        },
+        {
+            "Title": "Feature selection with the R package MXM",
+            "Publication year": 2018,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6792475/",
+            "Abstract": "Feature (or variable) selection is the process of identifying the minimal set of features with the highest predictive performance on the target variable of interest. Numerous feature selection algorithms have been developed over the years, but only few have been implemented in R and made publicly available R as packages while offering few options. The R package MXM offers a variety of feature selection algorithms, and has unique features that make it advantageous over its competitors: a) it contains feature selection algorithms that can treat numerous types of target variables, including continuous, percentages, time to event (survival), binary, nominal, ordinal, clustered, counts, left censored, etc; b) it contains a variety of regression models that can be plugged into the feature selection algorithms (for example with time to event data the user can choose among Cox, Weibull, log logistic or exponential regression); c) it \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:Lpa4s8qvUTIC",
+            "Publisher": "Faculty of 1000 Ltd"
+        },
+        {
+            "Title": "Efficient solution techniques for disjunctive temporal problems",
+            "Publication year": 2002,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "SCENERY: a web application for (causal) network reconstruction from cytometry data",
+            "Publication year": 2017,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/45/W1/W270/3835312",
+            "Abstract": "Flow and mass cytometry technologies can probe proteins as biological markers in thousands of individual cells simultaneously, providing unprecedented opportunities for reconstructing networks of protein interactions through machine learning algorithms. The network reconstruction (NR) problem has been well-studied by the machine learning community. However, the potentials of available methods remain largely unknown to the cytometry community, mainly due to their intrinsic complexity and the lack of comprehensive, powerful and easy-to-use NR software implementations specific for cytometry data. To bridge this gap, we present Single CEll NEtwork Reconstruction sYstem (SCENERY), a web server featuring several standard and advanced cytometry data analysis methods coupled with NR algorithms in a user-friendly, on-line environment. In SCENERY, users may upload their data and set their own \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:vefPE_iVbj4C",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Open BioMedical Data for Integrative Analysis",
+            "Publication year": 2015,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:z3pV1qEBaUAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\" Hunting\" for lung-cancer/mesothelioma early diagnostic biomarkers: results of a pilot analysis from the Cancer-Biomarker-HUNT study",
+            "Publication year": 2014,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:AzjrKLz9U9oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scaling-up bayesian network learning to thousands of variables using local learning techniques",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/39170658/tsamardinos.etal.techreport.2003.pdf",
+            "Abstract": "State-of-the-art Bayesian Network learning algorithms do not scale to more than a few hundred variables; thus, they fall far short from addressing the challenges posed by the large datasets in biomedical informatics (eg, gene expression, proteomics, or text-categorization data). In this paper, we present a BN learning algorithm, called the Max-Min Bayesian Network learning (MMBN) algorithm that can induce networks with tens of thousands of variables, or alternatively, can selectively reconstruct regions of interest if time does not permit full reconstruction. MMBN is based on a local algorithm that returns targeted areas of the network and on putting these pieces together. On a small dataset MMBN outperforms other state-of-the-art methods. Subsequently, its scalability is demonstrated by fully reconstructing from data a Bayesian Network with 10,000 variables using ordinary PC hardware. The novel algorithm pushes the envelope of Bayesian Network learning (an NP-complete problem) by about two orders of magnitude.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u2018Reduced\u2019HUNT model outperforms NLST and NELSON study criteria in predicting lung cancer in the Danish screening trial",
+            "Publication year": 2019,
+            "Publication url": "https://bmjopenrespres.bmj.com/content/6/1/e000512",
+            "Abstract": "We hypothesise that the validated HUNT Lung Cancer Risk Model would perform better than the NLST (USA) and the NELSON (Dutch\u2010Belgian) criteria in the Danish Lung Cancer Screening Trial (DLCST).The DLCST measured only five out of the seven variables included in validated HUNT Lung Cancer Model. Therefore a \u2018Reduced\u2019 model was retrained in the Norwegian HUNT2-cohort using the same statistical methodology as in the original HUNT model but based only on age, pack years, smoking intensity, quit time and body mass index (BMI), adjusted for sex. The model was applied on the DLCST-cohort and contrasted against the NLST and NELSON criteria.Among the 4051 smokers in the DLCST with 10 years follow-up, median age was 57.6, BMI 24.75, pack years 33.8, cigarettes per day 20 and most were current smokers. For the same number of individuals selected for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:-TLX1-BxFiYC",
+            "Publisher": "Archives of Disease in childhood"
+        },
+        {
+            "Title": "Temporal reasoning for planning, scheduling and execution in autonomous agents",
+            "Publication year": 2011,
+            "Publication url": "https://www.cs.vassar.edu/~hunsberg/__papers__/hunsberger-tutorial-slides-aamas2005.pdf",
+            "Abstract": "z\u2212 t1\u2264\u2212 4 (Lv Bos after 4 pm, 8/8) t4\u2212 z\u2264 250 (Av Bos by 10 pm, 8/18) t4\u2212 t1\u2264 168 (Gone no more than 7 days) t2\u2212 t3\u2264\u2212 120 (In Seattle at least 5 days) t4\u2212 t3\u2264 7 (Return flight less than 7 hrs)",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:eJjLl3UG7CkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bounding the False Discovery Rate in Local Bayesian Network Learning.",
+            "Publication year": 2008,
+            "Publication url": "https://www.aaai.org/Papers/AAAI/2008/AAAI08-174.pdf",
+            "Abstract": "Modern Bayesian Network learning algorithms are timeefficient, scalable and produce high-quality models; these algorithms feature prominently in decision support model development, variable selection, and causal discovery. The quality of the models, however, has often only been empirically evaluated; the available theoretical results typically guarantee asymptotic correctness (consistency) of the algorithms. This paper describes theoretical bounds on the quality of a fundamental Bayesian Network local-learning task in the finite sample using theories for controlling the False Discovery Rate. The behavior of the derived bounds is investigated across various problem and algorithm parameters. Empirical results support the theory which has immediate ramifications in the design of new algorithms for Bayesian Network learning, variable selection and causal discovery.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On user-centric modular QoE prediction for VoIP based on machine-learning algorithms",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7167700/",
+            "Abstract": "The impact of the network performance on the quality of experience (QoE) for various services is not well-understood. Assessing the impact of different network and channel conditions on the user experience is important for improving the telecommunication services. The QoE for various wireless services including VoIP, video streaming, and web browsing, has been in the epicenter of recent networking activities. The majority of such efforts aim to characterize the user experience, analyzing various types of measurements often in an aggregate manner. This paper proposes the MLQoE, a modular algorithm for user-centric QoE prediction. The MLQoE employs multiple machine learning (ML) algorithms, namely, Artificial Neural Networks, Support Vector Regression machines, Decision Trees, and Gaussian Naive Bayes classifiers, and tunes their hyper-parameters. It uses the Nested Cross Validation (nested CV \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:fixghrsIJ_wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A greedy feature selection algorithm for Big Data of high dimensionality",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10994-018-5748-7",
+            "Abstract": "We present the Parallel, Forward\u2013Backward with Pruning (PFBP) algorithm for feature selection (FS) for Big Data of high dimensionality. PFBP partitions the data matrix both in terms of rows as well as columns. By employing the concepts of p-values of conditional independence tests and meta-analysis techniques, PFBP relies only on computations local to a partition while minimizing communication costs, thus massively parallelizing computations. Similar techniques for combining local computations are also employed to create the final predictive model. PFBP employs asymptotically sound heuristics to make early, approximate decisions, such as Early Dropping of features from consideration in subsequent iterations, Early Stopping of consideration of features within the same iteration, or Early Return of the winner in each iteration. PFBP provides asymptotic guarantees of optimality for data distributions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:f-E_jMG6T4AC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Learning causal structure from overlapping variable sets",
+            "Publication year": 2010,
+            "Publication url": "http://proceedings.mlr.press/v9/triantafillou10a.html",
+            "Abstract": "We present an algorithm name cSAT+ for learning the causal structure in a domain from datasets measuring different variables sets. The algorithm outputs a graph with edges corresponding to all possible pairwise causal relations between two variables, named Pairwise Causal Graph (PCG). Examples of interesting inferences include the induction of the absence or presence of some causal relation between two variables never measured together. cSAT+ converts the problem to a series of SAT problems, obtaining leverage from the efficiency of state-of-the-art solvers. In our empirical evaluation, it is shown to outperform ION, the first algorithm solving a similar but more general problem, by two orders of magnitude.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "JMLR Workshop and Conference Proceedings"
+        },
+        {
+            "Title": "On Predictive Explanation of Data Anomalies",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2110.09467",
+            "Abstract": "Numerous algorithms have been proposed for detecting anomalies (outliers, novelties) in an unsupervised manner. Unfortunately, it is not trivial, in general, to understand why a given sample (record) is labelled as an anomaly and thus diagnose its root causes. We propose the following reduced-dimensionality, surrogate model approach to explain detector decisions: approximate the detection model with another one that employs only a small subset of features. Subsequently, samples can be visualized in this low-dimensionality space for human understanding. To this end, we develop PROTEUS, an AutoML pipeline to produce the surrogate model, specifically designed for feature selection on imbalanced datasets. The PROTEUS surrogate model can not only explain the training data, but also the out-of-sample (unseen) data. In other words, PROTEUS produces predictive explanations by approximating the decision surface of an unsupervised detector. PROTEUS is designed to return an accurate estimate of out-of-sample predictive performance to serve as a metric of the quality of the approximation. Computational experiments confirm the efficacy of PROTEUS to produce predictive explanations for different families of detectors and to reliably estimate their predictive performance in unseen data. Unlike several ad-hoc feature importance methods, PROTEUS is robust to high-dimensional data.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:LLUdpdcEW3AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Probabilistic computational causal discovery for systems biology",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-21296-8_3",
+            "Abstract": "Discovering the causal mechanisms                                  of biological                                  systems                                  is necessary to design new drugs                                  and therapies. Computational Causal Discovery (CD) is a field that offers the potential to discover                                  causal relations and causal models under certain                                  conditions with a limited                                  set of interventions/manipulations. This chapter reviews the basic concepts and principles of CD, the nature of the assumptions to enable it, potential pitfalls in its application, and recent advances and directions. Importantly, several success stories in molecular and systems biology are discussed in detail.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:m44aUaJR3ikC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Chemosensitivity Prediction of Tumours Based on Expression, miRNA, and Proteomics Data",
+            "Publication year": 2012,
+            "Publication url": "https://www.igi-global.com/article/content/67103",
+            "Abstract": "The chemosensitivity of tumours to specific drugs can be predicted based on molecular quantities, such as gene expressions, miRNA expressions, and protein concentrations. This finding is important for improving drug efficacy and personalizing drug use. In this paper, the authors present an analysis strategy that, compared to prior work, retains more information in the data for analysis and may lead to improved chemosensitivity prediction. The authors apply improved methods for estimating the GI50 value of a drug (an indicator of the response to the drug), regression methods for constructing predictive models of the GI50 value, advanced variable selection techniques, such as MMPC, and a multi-task variable selection technique for identifying a small-size signature that is simultaneously predictive for several drugs and cell lines. The methods are applied on gene expression, miRNA expression, and proteomics \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:lSLTfruPkqcC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Inference of Stochastic Dynamical Systems from Cross-Sectional Population Data",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2012.05055",
+            "Abstract": "Inferring the driving equations of a dynamical system from population or time-course data is important in several scientific fields such as biochemistry, epidemiology, financial mathematics and many others. Despite the existence of algorithms that learn the dynamics from trajectorial measurements there are few attempts to infer the dynamical system straight from population data. In this work, we deduce and then computationally estimate the Fokker-Planck equation which describes the evolution of the population's probability density, based on stochastic differential equations. Then, following the USDL approach, we project the Fokker-Planck equation to a proper set of test functions, transforming it into a linear system of equations. Finally, we apply sparse inference methods to solve the latter system and thus induce the driving forces of the dynamical system. Our approach is illustrated in both synthetic and real data including non-linear, multimodal stochastic differential equations, biochemical reaction networks as well as mass cytometry biological measurements.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:hXkWDDAEazwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Package \u2018MXM\u2019",
+            "Publication year": 2016,
+            "Publication url": "https://mran.microsoft.com/snapshot/2017-09-14/web/packages/MXM/MXM.pdf",
+            "Abstract": "\u2019MXM\u2019stands for Mens eX Machina, meaning\u2019Mind from the Machine\u2019in Latin. The package provides source code for the SES algorithm and for some appropriate statistical conditional independence tests.(Fisher and Spearman corelation, G-square test are some examples. Currently the response variable can be univariate or multivariate Euclidean, proportions within 0 and 1, compositional data without zeros and ones, binary, nominal or ordinal multinomial, count data (handling also overdispersed and with more zeros than expected), longitudinal, clustered data, survival and casecontrol. Robust versions are also available in some cases and a K-fold cross validation is offered. Bayesian network related algorithms and ridge reression are also included. Read the package\u2019s help pages for more details.MMPC and SES can handle even thousands of variables and for some tests, even many sample sizes of tens of thousands. The user is best advised to check his variables in the beginning. For some regressions, logistic and Poisson for example, we have used C++ codes for speed reasons. Thus no check is done for a variable with zero variance for instance. Something like colVars could be used in the first place to remove variables with zero variance.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:3wLP7v6BnpwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using the GEMS System for Supervised Analysis of Cancer Microarray Gene Expression Data",
+            "Publication year": 2005,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560549/",
+            "Abstract": "The authors will demonstrate a system called GEMS (Gene Expression Model Selector) for the automated development and evaluation of high-quality cancer diagnostic and outcome prediction models and biomarker discovery from microarray gene expression data [1]. Manual approaches to building such models (a) require specialized training in statistics, bioinformatics, or machine learning;(b) take several weeks to months to accomplish in typical academic settings; and (c) may suffer from pitfalls introduced by human analysts such as overfitting the data (ie, building models that are very good for the training set but perform poorly on future independent patient samples).",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "American Medical Informatics Association"
+        },
+        {
+            "Title": "Skjulte skatter i \u201cgamle\u201d microarrays: Genprofilering portretterer biologi og resistensmekanismer i lungekreft og normalvev",
+            "Publication year": 2015,
+            "Publication url": "https://vbn.aau.dk/en/publications/skjulte-skatter-i-gamle-microarrays-genprofilering-portretterer-b",
+            "Abstract": "Skjulte skatter i \u201cgamle\u201d microarrays: Genprofilering portretterer biologi og \nresistensmekanismer i lungekreft og normalvev \u2014 Aalborg University's Research Portal \nSkip to main navigation Skip to search Skip to main content Aalborg University's Research \nPortal Logo Dansk English Home Profiles Projects Publications Activities Research Units \nFacilities Press / Media Prizes Datasets Impacts Search by keywords, name or affiliation \nSkjulte skatter i \u201cgamle\u201d microarrays: Genprofilering portretterer biologi og \nresistensmekanismer i lungekreft og normalvev Konstantinos Kerkentzes, Vincenzo Lagani, \nIoannis Tsamardinos, Mogens Vyberg, Oluf Dimitri R\u00f8e The Faculty of Medicine Aalborg \nUniversity Hospital Klinik Diagnostik Patologi Klinik Kirurgi og Kr\u00e6ftbehandling \nKr\u00e6ftbehandling (Onkologi) Research output: Contribution to journal \u203a Journal article \u203a \nCommunication Overview Original language Norwegian Journal : /() 21 (-\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:C-SEpTPhZ1wC",
+            "Publisher": "BestPractice ApS"
+        },
+        {
+            "Title": "An algorithm for generation of large bayesian networks",
+            "Publication year": 2003,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/239836076_An_Algorithm_For_Generation_of_Large_Bayesian_Networks/links/00b7d528da99e098ba000000/An-Algorithm-For-Generation-of-Large-Bayesian-Networks.pdf",
+            "Abstract": "We propose a novel algorithm and software for the generation of arbitrarily large Bayesian networks (eg, graphical models representing joint probability distributions) by tiling smaller real-world known networks (tiles). The algorithm adds edges between tiles, while preserving joint probability distribution of the tiles. This technique will allow researchers to conduct large-scale evaluation of learning algorithms on the real-world large Bayesian networks which was impossible due to unavailability of such networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A data driven approach reveals disease similarity on a molecular level",
+            "Publication year": 2019,
+            "Publication url": "https://www.nature.com/articles/s41540-019-0117-0",
+            "Abstract": "Could there be unexpected similarities between different studies, diseases, or treatments, on a molecular level due to common biological mechanisms involved? To answer this question, we develop a method for computing similarities between empirical, statistical distributions of high-dimensional, low-sample datasets, and apply it on hundreds of-omics studies. The similarities lead to dataset-to-dataset networks visualizing the landscape of a large portion of biological data. Potentially interesting similarities connecting studies of different diseases are assembled in a disease-to-disease network. Exploring it, we discover numerous non-trivial connections between Alzheimer\u2019s disease and schizophrenia, asthma and psoriasis, or liver cancer and obesity, to name a few. We then present a method that identifies the molecular quantities and pathways that contribute the most to the identified similarities and could point to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:x7obfLuV8acC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Translating vitamin D transcriptomics to clinical evidence: analysis of data in asthma and chronic obstructive pulmonary disease, followed by clinical data meta-analysis",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S096007601930398X",
+            "Abstract": "Vitamin D (VitD) continues to trigger intense scientific controversy, regarding both its bi ological targets and its supplementation doses and regimens. In an effort to resolve this dispute, we mapped VitD transcriptome-wide events in humans, in order to unveil shared patterns or mechanisms with diverse pathologies/tissue profiles and reveal causal effects between VitD actions and specific human diseases, using a recently developed bioinformatics methodology. Using the similarities in analyzed transcriptome data (c-SKL method), we validated our methodology with osteoporosis as an example and further analyzed two other strong hits, specifically chronic obstructive pulmonary disease (COPD) and asthma. The latter revealed no impact of VitD on known molecular pathways. In accordance to this finding, review and meta-analysis of published data, based on an objective measure (Forced Expiratory Volume at one \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:b2kfBsK7yCQC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Preface to the first IEEE ICDM workshop on causal discovery",
+            "Publication year": 2013,
+            "Publication url": "https://scholars.ln.edu.hk/en/publications/preface-to-the-first-ieee-icdm-workshop-on-causal-discovery-2",
+            "Abstract": "Preface to the first IEEE ICDM workshop on causal discovery \u2014 Lingnan Scholars Skip to \nmain navigation Skip to search Skip to main content Lingnan Scholars Logo Help & FAQ \nHome Researcher Profiles Departments / Units Research Outputs Projects / Grants \nResearch Activities Impacts Prizes Press / Media Datasets Student theses Facilities / \nEquipments Preface to the first IEEE ICDM workshop on causal discovery Jiuyong Li, Kun \nZhang, Jian Pei, Lin Liu, Laiwan Chan, Zhi Geng, Aapo Hyv\u00e4rinen, Antti Hyttinen, Dominik \nJanzing, Samantha Kleinberg, Yan Liu, Zeng Hua Lu, Zudi Lu, Marloes Maathuis, Joris \nMooij Radboud, Shohei Shimizu, Ricardo Silva, Bingyu Sun, Ioannis Tsamardinos, Jiji \nZhang Lingnan University Research output: Book Chapters | Papers in Conference \nProceedings \u203a Foreword / Postscript Overview Original language English Title of host \npublication Proceedings - IEEE 13th International on , :/\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:SFU-2amZ4xQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enumerating multiple equivalent lasso solutions",
+            "Publication year": 2017,
+            "Publication url": "https://www.researchgate.net/profile/Vincenzo-Lagani/publication/320413462_Enumerating_Multiple_Equivalent_Lasso_Solutions/links/59e62a4845851598a13a5ae7/Enumerating-Multiple-Equivalent-Lasso-Solutions.pdf",
+            "Abstract": "Predictive modelling is a data-analysis task common in many scientific fields. However, it is rather unknown that multiple predictive models can be equally well-performing for the same problem. This multiplicity often leads to poor reproducibility when searching for a unique solution in datasets with low number of samples, high dimensional feature space and/or high levels of noise, a common scenario in biology and medicine. The Lasso regression is one of the most powerful and popular regularization methods, yet it also produces a single, sparse solution. In this paper, we show that nearly-optimal Lasso solutions, whose out-of-sample statistical error is practically indistinguishable from the optimal one, exist. We formalize various notions of equivalence between Lasso solutions, and we devise an algorithm to enumerate the ones that are equivalent in a statistical sense: we define a tolerance on the root mean square error (RMSE) which creates a RMSE-equivalent Lasso solution space. Results in both regression and classification tasks reveal that the out-of-sample error due to the RMSE relaxation is within the range of the statistical error due to the sampling size.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:rwEhk56xNqMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards principled feature selection: Relevancy, filters and wrappers",
+            "Publication year": 2003,
+            "Publication url": "http://proceedings.mlr.press/r4/tsamardinos03a.html",
+            "Abstract": "In an influential paper Kohavi and John [7] presented a number of disadvantages of the filter approach to the feature selection problem, steering research towards algorithms adopting the wrapper approach. We show here that neither approach is inherently better and that any practical feature selection algorithm needs to at least consider the learner used for classification and the metric used for evaluating the learner\u2019s performance. In the process we formally define the feature selection problem, re-examine the relationship between relevancy and filter algorithms, and establish a connection between Kohavi and John\u2019s definition of relevancy to the Markov Blanket of a target variable in a Bayesian Network faithful to some data distribution. The theoretical results lead to principled ways of designing optimal filter algorithms of which we present one example.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:qjMakFHDy7sC",
+            "Publisher": "PMLR"
+        },
+        {
+            "Title": "Algorithms for large-scale local causal discovery and feature selection in the presence of limited sample or large causal neighbourhoods",
+            "Publication year": 2002,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.449.6006&rep=rep1&type=pdf",
+            "Abstract": "When the Causal Neighbourhood of a target node T is so large relative to the available sample then one cannot obtain statistically reliable tests of independence and association metrics when conditioning on all members of the causal neighbourhood. Thus both the growing and the shrinking phase of the algorithms in the IAMB family [Aliferis and Tsamardinos 2002a] will fail to give reliable results. Such situations arise often for example in text categorization, in studies with limited sampling (eg, gene expression experiments), or when one wishes to learn the causal neighbourhood of a constellation of variables (eg, in epidemiology when learning the causal neighbourhood of a \u201cdisease\u201d that in effect summarizes the states of several variables some or all of which are also measured).We give here algorithms that circumvent the problem by trading off less sample (equivalently large causal neighbourhood when the sample is fixed) with computational complexity and with the possibility that false positives may be introduced in the estimated causal neighbourhood. We collectively call these algorithms S/LCN (Small Sample/Large Causal Neighbourhood). The basic structure for all such algorithms is identical, so we will first outline the main concept and see how different members of this family can be created by changes in the basic structure. We will also discuss how the same techniques we introduced for the IAMB family for chunking and parallelization can be directly applied in the S/LCN family to provide distributed processing/storage versions.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:dhFuZR0502QC",
+            "Publisher": "Technical report DSL-02-08, Department of Biomedical Informatics, Vanderbilt University"
+        },
+        {
+            "Title": "Automated machine learning optimizes and accelerates predictive modeling from COVID-19 high throughput datasets",
+            "Publication year": 2021,
+            "Publication url": "https://www.nature.com/articles/s41598-021-94501-0",
+            "Abstract": "COVID-19 outbreak brings intense pressure on healthcare systems, with an urgent demand for effective diagnostic, prognostic and therapeutic procedures. Here, we employed Automated Machine Learning (AutoML) to analyze three publicly available high throughput COVID-19 datasets, including proteomic, metabolomic and transcriptomic measurements. Pathway analysis of the selected features was also performed. Analysis of a combined proteomic and metabolomic dataset led to 10 equivalent signatures of two features each, with AUC 0.840 (CI 0.723\u20130.941) in discriminating severe from non-severe COVID-19 patients. A transcriptomic dataset led to two equivalent signatures of eight features each, with AUC 0.914 (CI 0.865\u20130.955) in identifying COVID-19 patients from those with a different acute respiratory illness. Another transcriptomic dataset led to two equivalent signatures of nine features each, with AUC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:1DAnfT_YoJgC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Efficiently Dispatching Plans Encoded as Simple Temporal Problems",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=62Fjma4ZkxAC&oi=fnd&pg=PA296&dq=info:aFN7XDC73EgJ:scholar.google.com&ots=bVBYLB1MiE&sig=2MHlcPCVYxnzA-eAy7M6C0DXdWY",
+            "Abstract": "The Simple Temporal Problem (STP) formalism was developed to encode flexible quantitative temporal constraints, and it has been adopted as a commonly used framework for temporal plans. This chapter addresses the question of how to automatically dispatch a plan encoded as an STP, that is, how to determine when to perform its constituent actions so as to ensure that all of its temporal constraints are satisfied. After reviewing the theory of STPs and their use in encoding plans, we present detailed descriptions of the algorithms that have been developed to date in the literature on STP dispatch. We distinguish between off-line and online dispatch, and present both basic algorithms for dispatch and techniques for improving their efficiency in time-critical situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:-0tLmPFCw2kC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Efficient feature selection on gene expression data: Which algorithm to use?",
+            "Publication year": 2018,
+            "Publication url": "https://www.biorxiv.org/content/10.1101/431734v1.abstract",
+            "Abstract": "Feature selection seeks to identify a minimal-size subset of features that is maximally predictive of the outcome of interest. It is particularly important for biomarker discovery from high-dimensional molecular data, where the features could correspond to gene expressions, Single Nucleotide Polymorphisms (SNPs), proteins concentrations, e.t.c. We evaluate, empirically, three state-of-the-art, feature selection algorithms, scalable to high-dimensional data: a novel generalized variant of OMP (gOMP), LASSO and FBED. All three greedily select the next feature to include; the first two employ the residuals re-sulting from the current selection, while the latter rebuilds a statistical model. The algorithms are compared in terms of predictive performance, number of selected features and computational efficiency, on gene expression data with either survival time (censored time-to-event) or disease status (case-control) as an outcome. This work attempts to answer a) whether gOMP is to be preferred over LASSO and b) whether residual-based algorithms, e.g. gOMP, are to be preferred over algorithms, such as FBED, that rely heavily on regression model fitting.gOMP is on par, or outperforms LASSO in all metrics, predictive performance, number of features selected and computational efficiency. Contrasting gOMP to FBED, both exhibit similar performance in terms of predictive performance and number of selected features. Overall, gOMP combines the benefits of both LASSO and FBED; it is computationally efficient and produces parsimonious models of high predictive performance.The use of gOMP is suggested for variable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:E10ZYwHxBI8C",
+            "Publisher": "Cold Spring Harbor Laboratory"
+        },
+        {
+            "Title": "Feedforward regulation of Myc coordinates lineage-specific with housekeeping gene expression during B cell progenitor cell differentiation",
+            "Publication year": 2019,
+            "Publication url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006506",
+            "Abstract": "The differentiation of self-renewing progenitor cells requires not only the regulation of lineage- and developmental stage\u2013specific genes but also the coordinated adaptation of housekeeping functions from a metabolically active, proliferative state toward quiescence. How metabolic and cell-cycle states are coordinated with the regulation of cell type\u2013specific genes is an important question, because dissociation between differentiation, cell cycle, and metabolic states is a hallmark of cancer. Here, we use a model system to systematically identify key transcriptional regulators of Ikaros-dependent B cell\u2013progenitor differentiation. We find that the coordinated regulation of housekeeping functions and tissue-specific gene expression requires a feedforward circuit whereby Ikaros down-regulates the expression of Myc. Our findings show how coordination between differentiation and housekeeping states can be achieved by interconnected regulators. Similar principles likely coordinate differentiation and housekeeping functions during progenitor cell differentiation in other cell lineages.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:C6rTQemI8T8C",
+            "Publisher": "Public Library of Science"
+        },
+        {
+            "Title": "Execution-time plan management for a cognitive orthotic system",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-37724-7_11",
+            "Abstract": "In this paper we discuss our work on plan management in the Autominder cognitive orthotic system. Autominder is being designed as part of an initiative on the development of robotic assistants for the elderly. Autominder stores and updates user plans, tracks their execution via input from robot sensors, and provides carefully chosen and timed reminders of the activities to be performed. It will eventually also learn the typical behavior of the user with regard to the execution of these plans. A central component of Autominder is its Plan Manager (PM), which is responsible for the temporal reasoning involved in updating plans and tracking their execution. The PM models plan update problems as disjunctive temporal problems (DTPs) and uses the Epilitis DTP-solving system to handle them. We describe the plan representations and algorithms used by the Plan Manager, and briefly discuss its connections with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Serum microRNAs/enriched pathways in lung cancer 1-4 years before diagnosis: A pilot study from the HUNT Biobank, Norway.",
+            "Publication year": 2016,
+            "Publication url": "https://ascopubs.org/doi/abs/10.1200/JCO.2016.34.15_suppl.11539",
+            "Abstract": "11539Background: Early detection of lung cancer could increase survival and curation rate as low stage and surgery are positive prognostic factors. Screening of ever-smokers and asbestos exposed individuals by non-invasive methods is a desired path to increase the rate of early detection and cure in the future. Moreover, circulating early microRNA signature may decipher lung cancer biology. Methods: Serum samples from the HUNT3 Biobank, Levanger, Norway were profiled with separate total microRNA sequencing (Illumina). The samples included lung adenocarcinoma (n=4), squamous cell carcinoma (n=5) and small-cell carcinoma (n=5) cases collected 1-4 years before diagnosis, along with age and sex-matched non-cancer individuals (n=28), ratio 1:2; the never smokers to ever-smokers ratio of controls was 50/50. The differentially expressed (DE) microRNAs were analyzed for enrichment by DIANA \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:dBzKUGQurMsC",
+            "Publisher": "American Society of Clinical Oncology"
+        },
+        {
+            "Title": "CTP: A new constraint-based formalism for conditional, temporal planning",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1025894003623",
+            "Abstract": "Temporal constraints pose a challenge for conditional planning, because it is necessary for a conditional planner to determine whether a candidate plan will satisfy the specified temporal constraints. This can be difficult, because temporal assignments that satisfy the constraints associated with one conditional branch may fail to satisfy the constraints along a different branch. In this paper we address this challenge by developing the Conditional Temporal Problem (CTP) formalism, an extension of standard temporal constraint-satisfaction processing models used in non-conditional temporal planning. Specifically, we augment temporal CSP frameworks by (1) adding observation nodes, and (2) attaching labels to all nodes to indicate the situation(s) in which each will be executed. Our extended framework allows for the construction of conditional plans that are guaranteed to satisfy complex temporal constraints \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Tuning causal discovery algorithms",
+            "Publication year": 2020,
+            "Publication url": "http://proceedings.mlr.press/v138/biza20a.html",
+            "Abstract": "There are numerous algorithms proposed in the literature for learning causal graphical probabilistic models. Each one of them is typically equipped with one or more tuning hyper-parameters. The choice of optimal algorithm and hyper-parameter values is not universal; it depends on the size of the network, the density of the true causal structure, the sample size, as well as the metric of quality of learning a causal structure. Thus, the challenge to a practitioner is how to \u201ctune\u201d these choices, given that the true graph is unknown and the learning task is unsupervised. In the paper, we evaluate two previously proposed methods for tuning, one based on stability of the learned structure under perturbations (bootstrapping) of the input data and the other based on balancing the in-sample fitting of the model with the model complexity. We propose and comparatively evaluate a new method that treats a causal model as a set of predictive models: one for each node given its Markov Blanket. It then tunes the choices using out-of-sample protocols for supervised methods such as cross-validation. The proposed method performs on par or better than the previous methods for most metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:0d9pApVQ-n0C",
+            "Publisher": "PMLR"
+        },
+        {
+            "Title": "Method and system for automated supervised data analysis",
+            "Publication year": 2011,
+            "Publication url": "https://patents.google.com/patent/US7912698B2/en",
+            "Abstract": "The invention relates to a method for automatically analyzing data and constructing data classification models based on the data. In an embodiment of the method, the method includes selecting a best combination of methods from a plurality of classification, predictor selection, and data preparatory methods; and determining a best model that corresponds to one or more best parameters of the classification, predictor selection, and data preparatory methods for the data to be analyzed. The best model; and returning a small set of predictors sufficient for the classification task.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prediction of outcome in patients with non-small cell lung cancer treated with second line PD-1/PDL-1 inhibitors based on clinical parameters: Results from a prospective, single institution study",
+            "Publication year": 2021,
+            "Publication url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252537",
+            "Abstract": "Objective We prospectively recorded clinical and laboratory parameters from patients with metastatic non-small cell lung cancer (NSCLC) treated with 2nd line PD-1/PD-L1 inhibitors in order to address their effect on treatment outcomes.   Materials and methods Clinicopathological information (age, performance status, smoking, body mass index, histology, organs with metastases), use and duration of proton pump inhibitors, steroids and antibiotics (ATB) and laboratory values [neutrophil/lymphocyte ratio, LDH, albumin] were prospectively collected. Steroid administration was defined as the use of > 10 mg prednisone equivalent for \u2265 10 days. Prolonged ATB administration was defined as ATB \u2265 14 days 30 days before or within the first 3 months of treatment. JADBio, a machine learning pipeline was applied for further multivariate analysis.   Results Data from 66 pts with non-oncogenic driven metastatic NSCLC were analyzed; 15.2% experienced partial response (PR), 34.8% stable disease (SD) and 50% progressive disease (PD). Median overall survival (OS) was 6.77 months. ATB administration did not affect patient OS [HR = 1.35 (CI: 0.761\u20132.406, p = 0.304)], however, prolonged ATBs [HR = 2.95 (CI: 1.62\u20135.36, p = 0.0001)] and the presence of bone metastases [HR = 1.89 (CI: 1.02\u20133.51, p = 0.049)] independently predicted for shorter survival. Prolonged ATB administration, bone metastases, liver metastases and BMI < 25 kg/m2 were selected by JADbio as the important features that were associated with increased probability of developing disease progression as response to treatment. The resulting algorithm that was created was able to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:MbTKqoTs-1EC",
+            "Publisher": "Public Library of Science"
+        },
+        {
+            "Title": "Editors and Staff, 2005",
+            "Publication year": 2005,
+            "Publication url": "https://www.aaai.org/Papers/JAIR/Vol23/JAIR-2300.pdf",
+            "Abstract": "Jair Volume 23 Contents.qxd Page 1 Contents Volume 23, 2005 Finding Approximate POMDP \nSolutions through Belief Compression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1 N. Roy, G. \nGordon, and S. Thrun Extremal Behaviour in Multiagent Contract Negotiation . . . . . . . . . . . . . . . . \n. . . . . . . . . . . . . . . . . . . . . . . . . . . .41 PE Dunne Reinforcement Learning for Agents with Many \nSensors and Actuators Acting in Categorizable Environments . . .79 JM Porta and E. Celaya \nRestricted Value Iteration: Theory and Algorithms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . \n. . . . . . .123 W. Zhang and NL Zhang Combining Spatial and Temporal Logics: Expressiveness \nVersus Complexity . . . . . . . . . . . . . . . . . . . . . . . . . . .167 D. Gabelaia, R. Kontchakov, A. Kurucz, \nF. Wolter, and M. Zakharyaschev Graduality in Argumentation . . . . . . . . . . . . . . . . . . . . . . . . . \n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .245 C. Cayrol, and MC Lagasquie-Schiex - --.\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Feature selection with the R package MXM [version 1; referees",
+            "Publication year": 2018,
+            "Publication url": "https://pdfs.semanticscholar.org/fb15/a25ab329fadff552e0a9502d5e2e549ffc73.pdf",
+            "Abstract": "Feature (or variable) selection is the process of identifying the minimal set of features with the highest predictive performance on the target variable of interest. Numerous feature selection algorithms have been developed over the years, but only few have been implemented in R as a package. The R package MXM is such an example, which not only offers a variety of feature selection algorithms, but has unique features that make it advantageous over its competitors: a) it contains feature selection algorithms that can treat numerous types of target variables, including continuous, percentages, time to event (survival), binary, nominal, ordinal, clustered, counts, left censored, etc; b) it contains a variety of regression models to plug into the feature selection algorithms; c) it includes an algorithm for detecting multiple solutions (many sets of equivalent features); and d) it includes memory efficient algorithms for high volume data, data that cannot be loaded into R. In this paper we qualitatively compare MXM with other relevant packages and discuss its advantages and disadvantages. We also provide a demonstration of its algorithms using real high-dimensional data from various applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:SoGhKUJvMTQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improvement of lung cancer risk prediction adding SNPs to the HUNT Lung Cancer Model: A HUNT Study.",
+            "Publication year": 2019,
+            "Publication url": "https://ascopubs.org/doi/abs/10.1200/JCO.2019.37.15_suppl.e20696",
+            "Abstract": "e20696Background: A novel validated model for risk prediction of lung cancer, the HUNT Lung Cancer Model predicts 6- and 16-year risk of lung cancer with a C-index = 0.879 and 6-year AUC = 0.87. The model is valid for smokers and ex-smokers of any intensity and quit time and includes seven variables; age, BMI, pack-years, smoking intensity (cigarettes per day), quit time, daily cough in periods of the year and hours of daily indoors smoke exposure. Genome-wide association studies (GWAS) have consistently identified specific lung cancer susceptibility regions. We aimed to improve performance of the HUNT model by integrating the most significant Single Nucleotide Polymorphisms (SNPs). Methods: Lung cancer cases (n = 484) and controls without other cancer (n = 50337) were genotyped for 22 SNPs located in GWAS-identified lung cancer susceptibility regions. Variable selection and model development \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:Vxkav03X4woC",
+            "Publisher": "American Society of Clinical Oncology"
+        },
+        {
+            "Title": "Discovering multiple, equivalent biomarker signatures. Ioannis Tsamardinos1, 2, Vincenzo Lagani1 and Dimitris Pappas2",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10186386576580130612&hl=en&oi=scholarr",
+            "Abstract": "Motivation: biosciences\u2019 researchers often attempt to identify small subsets of molecular quantities maximally predictive with respect to a given outcome: the identification of diagnostic/prognostic biomarker signature for cancer diseases is probably the most common example for this type of task. Current statistical algorithms for biomarker identification usually return a single signature; unfortunately, it is often the case that multiple signatures are equally predictive for a given task. Poor statistical power due to low sample size, as well as more interesting issues like intrinsic redundancy in biological processes, can make impossible to distinguish between two or more signatures. Independently by the reasons causing the multiplesignatures issue, considering a single signature and discarding several, equivalent others is definitely detrimental; researchers may find some of the discarded signatures easier to measure in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:6LV2YwJzdtgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Serum biomarkers in mesothelioma 1-3 years before diagnosis: a pilot study",
+            "Publication year": 2016,
+            "Publication url": "https://vbn.aau.dk/en/publications/serum-biomarkers-in-mesothelioma-1-3-years-before-diagnosis-a-pil",
+            "Abstract": "Serum biomarkers in mesothelioma 1-3 years before diagnosis: a pilot study \u2014 Aalborg \nUniversity's Research Portal Skip to main navigation Skip to search Skip to main content \nAalborg University's Research Portal Logo Dansk English Home Profiles Projects \nPublications Activities Research Units Facilities Press / Media Prizes Datasets Impacts \nSearch by keywords, name or affiliation Serum biomarkers in mesothelioma 1-3 years \nbefore diagnosis: a pilot study Robin Mjelle, Maria Markaki, Trygve Andreassen, Vincenzo \nLagani, Ioannis Tsamardinos, Tone Frost Bathen, P\u00e5l S\u00e6trom, Kristian Hveem, Oluf Dimitri \nR\u00f8e Research output: Contribution to book/anthology/report/conference proceeding \u203a \nConference abstract in proceeding \u203a Research \u203a peer-review Overview Original language \nEnglish Title of host publication iMig2016 Abstract Book : 13th International Conference of \nthe International Mesothelioma Interest Group.\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:6gSKFiM3XosC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient solution techniques for disjunctive temporal reasoning problems",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0004370203001139",
+            "Abstract": "Over the past few years, a new constraint-based formalism for temporal reasoning has been developed to represent and reason about Disjunctive Temporal Problems (DTPs). The class of DTPs is significantly more expressive than other problems previously studied in constraint-based temporal reasoning. In this paper we present a new algorithm for DTP solving, called Epilitis, which integrates strategies for efficient DTP solving from the previous literature, including conflict-directed backjumping, removal of subsumed variables, and semantic branching, and further adds no-good recording as a central technique. We discuss the theoretical and technical issues that arise in successfully integrating this range of strategies with one another and with no-good recording in the context of DTP solving. Using an implementation of Epilitis, we explore the effectiveness of various combinations of strategies for solving DTPs, and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The \u03b3-OMP algorithm for feature selection with application to gene expression data",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9219177/",
+            "Abstract": "Feature selection for predictive analytics is the problem of identifying a minimal-size subset of features that is maximally predictive of an outcome of interest. To apply to molecular data, feature selection algorithms need to be scalable to tens of thousands of features. In this paper, we propose \u03b3-OMP, a generalisation of the highly-scalable Orthogonal Matching Pursuit feature selection algorithm. \u03b3-OMP can handle (a) various types of outcomes, such as continuous, binary, nominal, time-to-event, (b) discrete (categorical) features, (c) different statistical-based stopping criteria, (d) several predictive models (e.g., linear or logistic regression), (e) various types of residuals, and (f) different types of association. We compare \u03b3-OMP against LASSO, a prototypical, widely used algorithm for high-dimensional data. On both simulated data and several real gene expression datasets, \u03b3-OMP is on par, or outperforms LASSO in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:ipvhVhH6zQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using constraint optimization for conflict resolution and detail control in activity recognition",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-25167-2_6",
+            "Abstract": "In Ambient Assisted Living and other environments the problem is to recognize all of user activities. Due to noisy or incomplete information a na\u00efve recognition system may report activities that are logically inconsistent with each other, e.g., the user is sleeping on the couch and at the same time is watching TV. In this work, we develop a rule-based recognition system for hierarchically-organized activities that returns only logically consistent scenarios. This is achieved by explicitly formulating conflicts as Weighted Partial MaxSAT clauses to be satisfied. The system also has the ability to adjust the desired level of detail of the scenarios returned. This is accomplished by assigning preferences to clauses of the SAT problem. The system is implemented and evaluated in a real Ambient Intelligence experimental space. It is shown to be robust to the presence of noise; the level of detail can easily be adjusted by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "MicroRNA Expression Analysis and Biological Pathways in Chemoresistant Non-Small Cell Lung Cancer",
+            "Publication year": 2021,
+            "Publication url": "https://www.researchgate.net/profile/Krystallia-Gourlia/publication/348871071_MicroRNA_Expression_Analysis_and_Biological_Pathways_in_Chemoresistant_Non-_Small_Cell_Lung_Cancer/links/6013f1a845851517ef22eb49/MicroRNA-Expression-Analysis-and-Biological-Pathways-in-Chemoresistant-Non-Small-Cell-Lung-Cancer.pdf",
+            "Abstract": "Platinum-based chemotherapy (CT) is a standard treatment for lung cancer, however a variety of chemoresistance mechanisms can impair its efficacy. MicroRNAs (miRNAs) represent potential biomarkers for the prediction of treatment efficacy in nonsmall cell lung cancer (NSCLC). We herein used a bioinformatics approach to identify differentially expressed (DE) miRNAs associated with response to platinum-based CT in NSCLC. We identified 6 miRNAs targeting signaling molecules participating in biological pathways involved in cancer and drug resistance. In summary, we developed a 6-miRNA signature that potentially predicts the response to cisplatin in NSCLC and warrants further validation in clinical samples.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:3UHJKpZgG5wC",
+            "Publisher": "MDPI"
+        },
+        {
+            "Title": "Correction to: Constraint-based causal discovery with mixed data",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s41060-018-0131-0",
+            "Abstract": "The article \u201cConstraint-based causal discovery with mixed data,\u201d written by Michail Tsagris, Giorgos Borboudakis, Vincenzo Lagani, and Ioannis Tsamardinos, was originally published electronically on the publisher\u2019s internet portal (currently SpringerLink) on February 2, 2018, without open access.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:wZJMF1LD7PcC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Temporal and Resource Reasoning for Planning, Scheduling and Execution in Autonomous Agents",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4007421077180889004&hl=en&oi=scholarr",
+            "Abstract": "This viewgraph slide tutorial reviews methods for planning and scheduling events. The presentation reviews several methods and uses several examples of scheduling events for the successful and timely completion of the overall plan. Using constraint based models the presentation reviews planning with time, time representations in problem solving and resource reasoning.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Constraint-based causal discovery from multiple interventions over overlapping variable sets",
+            "Publication year": 2015,
+            "Publication url": "https://www.jmlr.org/papers/volume16/triantafillou15a/triantafillou15a.pdf",
+            "Abstract": "Scientific practice typically involves repeatedly studying a system, each time trying to unravel a different perspective. In each study, the scientist may take measurements under different experimental conditions (interventions, manipulations, perturbations) and measure different sets of quantities (variables). The result is a collection of heterogeneous data sets coming from different data distributions. In this work, we present algorithm COmbINE, which accepts a collection of data sets over overlapping variable sets under different experimental conditions; COmbINE then outputs a summary of all causal models indicating the invariant and variant structural characteristics of all models that simultaneously fit all of the input data sets. COmbINE converts estimated dependencies and independencies in the data into path constraints on the data-generating causal model and encodes them as a SAT instance. The algorithm is sound and complete in the sample limit. To account for conflicting constraints arising from statistical errors, we introduce a general method for sorting constraints in order of confidence, computed as a function of their corresponding p-values. In our empirical evaluation, COmbINE outperforms in terms of efficiency the only pre-existing similar algorithm; the latter additionally admits feedback cycles, but does not admit conflicting constraints which hinders the applicability on real data. As a proof-of-concept, COmbINE is employed to co-analyze 4 real, mass-cytometry data sets measuring phosphorylated protein concentrations of overlapping protein sets under 3 different interventions.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:S_Qw7xXuMuIC",
+            "Publisher": "JMLR. org"
+        },
+        {
+            "Title": "P1. 11-13 Mass Spectrometry Proteomics Analysis Discovers Biomarkers in Serum Months to Years Before Non-Small Cell Lung Cancer: The HUNT Study",
+            "Publication year": 2019,
+            "Publication url": "https://www.jto.org/article/S1556-0864(19)31769-1/abstract",
+            "Abstract": "BackgroundThe high incidence and high mortality rate of non-small cell lung cancer (NSCLC) calls for identification of methods for early diagnosis. Early diagnosis is key for effective treatment and thereby increasing survival. Searching of cancer-related proteins and proteins signature in biofluids is an emerging approach in early diagnostic of malignancies. In the present study we have used proteomics-based profiling of serum collected 2 months to 5 years before NSCLC diagnosis to search for early diagnostic biomarkers.MethodAll serum samples in this study were obtained from the Nord-Tr\u00f8ndelag Health Study (HUNT) Research Centre\u2019s Biobank. Discovery sample set (Cohort I): Serum samples from 24 individuals that subsequently developed NSCLC (adenocarcinoma n= 12, squamous cell carcinoma n= 12) and 24 matched controls were obtained. Validation sample set (Cohort II): Serum samples from 10 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:edV_OwlUe4UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Constraint-based temporal reasoning algorithms with applications to planning",
+            "Publication year": 2001,
+            "Publication url": "https://search.proquest.com/openview/cd9c64458e07d9e72b7413be8d700530/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "Abstract": "A number of systems and applications model time explicitly and so require expressive temporal formalisms and efficient reasoning algorithms. In particular, an increasing number of planning systems deal with metric, quantitative time. This dissertation presents a set of new, efficient, provably correct algorithms for expressive temporal reasoning, based on the use of constraint satisfaction problems and techniques, and demonstrates how they can be used to improve the expressiveness and efficiency of planning and execution systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Causal explorer: A causal probabilistic network learning toolkit for biomedical discovery",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.891&rep=rep1&type=pdf",
+            "Abstract": "Discovery Systems Laboratory, Department of Biomedical Informatics, 412 Eskind Biomedical Library, The Informatics Center, Vanderbilt University, Nashville, TN 37232-8340, USA contact author: C. Aliferis; e-mail: constantin. aliferis@ vanderbilt. edu; tel:(001)-615-936-1425, fax:(001)-615-936-1427",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A generalised OMP algorithm for feature selection with application to gene expression data",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2004.00281",
+            "Abstract": "Feature selection for predictive analytics is the problem of identifying a minimal-size subset of features that is maximally predictive of an outcome of interest. To apply to molecular data, feature selection algorithms need to be scalable to tens of thousands of available features. In this paper, we propose gOMP, a highly-scalable generalisation of the Orthogonal Matching Pursuit feature selection algorithm to several directions: (a) different types of outcomes, such as continuous, binary, nominal, and time-to-event, (b) different types of predictive models (e.g., linear least squares, logistic regression), (c) different types of predictive features (continuous, categorical), and (d) different, statistical-based stopping criteria. We compare the proposed algorithm against LASSO, a prototypical, widely used algorithm for high-dimensional data. On dozens of simulated datasets, as well as, real gene expression datasets, gOMP is on par, or outperforms LASSO for case-control binary classification, quantified outcomes (regression), and (censored) survival times (time-to-event) analysis. gOMP has also several theoretical advantages that are discussed. While gOMP is based on quite simple and basic statistical ideas, easy to implement and to generalize, we also show in an extensive evaluation that it is also quite effective in bioinformatics analysis settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:XJogQLJr2CkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A constraint-based approach to incorporate prior knowledge in causal models.",
+            "Publication year": 2011,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.395&rep=rep1&type=pdf",
+            "Abstract": "In this paper we address the problem of incorporating prior knowledge, in the form of causal relations, in causal models. Prior approaches mostly consider knowledge about the presence or absence of edges in the model. We use the formalism of Maximal Ancestral Graphs (MAGs) and adapt cSAT+ to solve this problem, an algorithm for reasoning with datasets defined over different variable sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Automated Machine Learning architecture for the accelerated prediction of Metal-Organic Frameworks performance in energy and environmental applications",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1387181120301633",
+            "Abstract": "Due to their exceptional host-guest properties, Metal-Organic Frameworks (MOFs) are promising materials for storage of various gases with environmental and technological interest. Molecular modeling and simulations are invaluable tools, extensively used over the last two decades for the study of various properties of MOFs. In particular, Monte Carlo simulation techniques have been employed for the study of the gas uptake capacity of several MOFs at a wide range of different thermodynamic conditions. Despite the accurate predictions of molecular simulations, the accurate characterization and the high-throughput screening of the enormous number of MOFs that can be potentially synthesized by combining various structural building blocks is beyond present computer capabilities. In this work, we propose and demonstrate the use of an alternative approach, namely one based on an Automated Machine Learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:d3xjRt2Mi1YC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Using the GEMS system for cancer diagnosis and biomarker discovery from microarray gene expression data",
+            "Publication year": 2005,
+            "Publication url": "https://www.aaai.org/Papers/AAAI/2005/ISD05-021.pdf",
+            "Abstract": "We will demonstrate the GEMS system for automated development and evaluation of high-quality cancer diagnostic models and biomarker discovery from microarray gene expression data. The development of GEMS was informed by the results of an extensive algorithmic evaluation using 11 microarray datasets. The system was further evaluated in two cross-dataset applications and using 5 microarray datasets. The performance of models produced by GEMS is comparable or better than the results obtained by human analysts, and these models generalize well to independent samples in cross-dataset applications. The system is freely available for download from http://www. gems-system. org for noncommercial use.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "mensxmachina/CyTOF-Randomization: Challenges in the multivariate analysis of mass cytometry data: the effect of randomization.",
+            "Publication year": 2019,
+            "Publication url": "https://repository.kaust.edu.sa/handle/10754/667143",
+            "Abstract": "The export option will allow you to export the current search results of the entered query to a file. Different formats are available for download. To export the items, click on the button corresponding with the preferred download format.By default, clicking on the export buttons will result in a download of the allowed maximum amount of items. For anonymous users the allowed maximum amount is 50 search results.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:XAEgxC7iu0MC",
+            "Publisher": "Github"
+        },
+        {
+            "Title": "Chemically intuited, large-scale screening of MOFs by machine learning techniques",
+            "Publication year": 2017,
+            "Publication url": "https://www.nature.com/articles/s41524-017-0045-8",
+            "Abstract": "A novel computational methodology for large-scale screening of MOFs is applied to gas storage with the use of machine learning technologies. This approach is a promising trade-off between the accuracy of ab initio methods and the speed of classical approaches, strategically combined with chemical intuition. The results demonstrate that the chemical properties of MOFs are indeed predictable (stochastically, not deterministically) using machine learning methods and automated analysis protocols, with the accuracy of predictions increasing with sample size. Our initial results indicate that this methodology is promising to apply not only to gas storage in MOFs but in many other material science projects.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:ocbgtyEEUOwC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Performance-estimation properties of cross-validation-based protocols with simultaneous hyper-parameter optimization",
+            "Publication year": 2015,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230",
+            "Abstract": "In a typical supervised data analysis task, one needs to perform the following two tasks: (a) select an optimal combination of learning methods (e.g., for variable selection and classifier) and tune their hyper-parameters (e.g., K in K-NN), also called model selection, and (b) provide an estimate of the performance of the final, reported model. Combining the two tasks is not trivial because when one selects the set of hyper-parameters that seem to provide the best estimated performance, this estimation is optimistic (biased/overfitted) due to performing multiple statistical comparisons. In this paper, we discuss the theoretical properties of performance estimation when model selection is present and we confirm that the simple Cross-Validation with model selection is indeed optimistic (overestimates performance) in small sample scenarios and should be avoided. We present in detail and investigate the theoretical properties \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:z-B63o8J19IC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Identifying Markov Blankets with Decision Tree Induction",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8462708188796795202&hl=en&oi=scholarr",
+            "Abstract": "The Markov Blanket of a target variable is the minimum conditioning set of variables that makes the target independent of all other variables. Markov Blankets inform feature selection, aid in causal discovery and serve as a basis for scalable methods of constructing Bayesian networks. This paper applies decision tree induction to the task of Markov Blanket identification. Notably, we compare (a) C5. 0, a widely used algorithm for decision rule induction,(b) C50, which postprocesses C5. 0's rule set to retain the most frequently referenced variables and (c) PC, a standard method for Bayesian Network induction. C5C performs as well as or better than C5. 0 and PC across a number of data sets. Our modest variation of an inexpensive, accurate, off-theshelf induction engine mitigates the need for specialized procedures, and establishes baseline performance against which specialized algorithms can be compared. variables that need to be tested experimentally to discover direct causes of a target T.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:qzPvQt7yPGwC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Gradient Boosting Trees",
+            "Publication year": 2020,
+            "Publication url": "https://www.gnosisda.gr/wp-content/uploads/2020/07/Gradient_Boosting_Implementation.pdf",
+            "Abstract": "Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. It builds the model in a stage-wise fashion like other boosting methods do, and it generalizes them by allowing optimization of an arbitrary differentiable loss function. The idea of gradient boosting originated in the observation by Leo Breiman that boosting can be interpreted as an optimization algorithm on a suitable cost function [1]. Explicit regression gradient boosting algorithms were subsequently developed by Jerome H. Friedman [6, 7], simultaneously came up with the more general functional gradient boosting perspective of Llew Mason, Jonathan Baxter, Peter Bartlett and Marcus Frean [9]. The latter paper introduced the view of boosting algorithms as iterative functional gradient descent algorithms. That is, algorithms that optimize a cost function over function space by iteratively choosing a function (weak hypothesis) that points in the negative gradient direction. This functional gradient view of boosting has led to the development of boosting algorithms in many areas of machine learning and statistics beyond regression and classification. XGBoost (eXtreme Gradient Boosting)[3] is an open-source software library which provides the state-of-the-art gradient boosting framework packaged in many languages, such as C++, Python and Java. It aims to provide a\u201d Scalable, Portable and Distributed Gradient Boosting Library\u201d. It runs on a single machine, as well as the distributed processing frameworks Apache Hadoop, Apache Spark, and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:zTJoPluU4X4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Identifying Markov blankets with decision tree induction",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1250903/",
+            "Abstract": "The Markov blanket of a target variable is the minimum conditioning set of variables that makes the target independent of all other variables. Markov blankets inform feature selection, aid in causal discovery and serve as a basis for scalable methods of constructing Bayesian networks. We apply decision tree induction to the task of Markov blanket identification. Notably, we compare (a) C5.0, a widely used algorithm for decision rule induction, (b) C5C, which post-processes C5.0 's rule set to retain the most frequently referenced variables and (c) PC, a standard method for Bayesian network induction. C5C performs as well as or better than C5.0 and PC across a number of data sets. Our modest variation of an inexpensive, accurate, off-the-shelf induction engine mitigates the need for specialized procedures, and establishes baseline performance against which specialized algorithms can be compared.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Risk assessment models for diabetes complications: A survey of available online tools",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-29734-2_7",
+            "Abstract": "Predictions, risk assessment and risk profiling are among the various decision support techniques that medical professionals increasingly rely on to provide early diagnose in patients with elevated risks and to slow down the rapid increase in prevalence of chronic diseases. The introduction of risk assessment tools and applications for chronic diseases in large scale longitudinal clinical studies, presents many challenges due to the nature of the data (studies last around a decade) and the complexity of the models. In this paper, we give an overview of research work on risk assessment tools and applications for diabetes complications. We also introduce the REACTION project and its vision in the field of risk assessment for diabetes complications.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Just add data: Automated predictive modeling and biosignature discovery",
+            "Publication year": 2020,
+            "Publication url": "https://www.biorxiv.org/content/10.1101/2020.05.04.075747v1.abstract",
+            "Abstract": "Fully automated machine learning, statistical modelling, and artificial intelligence for predictive modeling is becoming a reality, giving rise to the field of Automated Machine Learning (AutoML). AutoML systems promise to democratize data analysis to non-experts, drastically increase productivity, improve replicability of the statistical analysis, facilitate the interpretation of results, and shield against common methodological analysis pitfalls. We present the basic ideas and principles of Just Add Data Bio (JADBIO), an AutoML technology applicable to the low-sample, high-dimensional omics data that arise in translational medicine and bioinformatics applications. In addition to predictive and diagnostic models ready for clinical use, JADBIO also returns the corresponding biosignatures, i.e., minimal-size subsets of biomarkers that are jointly predictive of the outcome of interest. A use-case on thymic epithelial tumors is presented, along with an extensive evaluation on 374 public biological datasets. Results show that long-standing challenges with overfitting and overestimation of complex non-linear machine learning pipelines on high-dimensional, low small sample data can be overcome.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:irE4lMk4wWMC",
+            "Publisher": "Cold Spring Harbor Laboratory"
+        },
+        {
+            "Title": "A theoretical characterization of linear SVM-based feature selection",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1015330.1015421",
+            "Abstract": "Most prevalent techniques in Support Vector Machine (SVM) feature selection are based on the intuition that the weights of features that are close to zero are not required for optimal classification. In this paper we show that indeed, in the sample limit, the irrelevant variables (in a theoretical and optimal sense) will be given zero weight by a linear SVM, both in the soft and the hard margin case. However, SVM-based methods have certain theoretical disadvantages too. We present examples where the linear SVM may assign zero weights to strongly relevant variables (ie, variables required for optimal estimation of the distribution of the target variable) and where weakly relevant features (ie, features that are superfluous for optimal feature selection given other features) may get non-zero weights. We contrast and theoretically compare with Markov-Blanket based feature selection algorithms that do not have such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Feature selection with the r package mxm: Discovering statistically-equivalent feature subsets",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1611.03227",
+            "Abstract": "The statistically equivalent signature (SES) algorithm is a method for feature selection inspired by the principles of constrained-based learning of Bayesian Networks. Most of the currently available feature-selection methods return only a single subset of features, supposedly the one with the highest predictive power. We argue that in several domains multiple subsets can achieve close to maximal predictive accuracy, and that arbitrarily providing only one has several drawbacks. The SES method attempts to identify multiple, predictive feature subsets whose performances are statistically equivalent. Under that respect SES subsumes and extends previous feature selection algorithms, like the max-min parent children algorithm. SES is implemented in an homonym function included in the R package MXM, standing for mens ex machina, meaning 'mind from the machine' in Latin. The MXM implementation of SES handles several data-analysis tasks, namely classification, regression and survival analysis. In this paper we present the SES algorithm, its implementation, and provide examples of use of the SES function in R. Furthermore, we analyze three publicly available data sets to illustrate the equivalence of the signatures retrieved by SES and to contrast SES against the state-of-the-art feature selection method LASSO. Our results provide initial evidence that the two methods perform comparably well in terms of predictive accuracy and that multiple, equally predictive signatures are actually present in real world data.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:GDem9OnCwu8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Proteomics analysis discovers biomarkers in serum months to years before small cell lung cancer: The HUNT study.",
+            "Publication year": 2019,
+            "Publication url": "https://ascopubs.org/doi/abs/10.1200/JCO.2019.37.15_suppl.e20095",
+            "Abstract": "e20095Background: The high incidence and high mortality rate of small-cell lung cancer (SCLC) calls for identification of methods for early diagnosis. Searching of cancer-related proteins and proteins signature in biofluids is an emerging approach in early diagnostic of malignancies. In the present study we have used proteomics-based profiling of serum collected 2 months to 5 years before SCLC diagnosis to search for early diagnostic biomarkers. Methods: All serum samples in this study were obtained from the Nord-Tr\u00f8ndelag Health Study (HUNT) Research Centre\u2019s Biobank. Discovery sample set (Cohort I): Serum samples from 12 individuals that subsequently developed SCLC and 12 matched controls were obtained. Validation sample set (Cohort II): Serum samples from 5 future SCLC patients and 5 matched controls were obtained. The serum samples in both cohorts were collected in a time frame of 2 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:eG7oJ4UONFcC",
+            "Publisher": "American Society of Clinical Oncology"
+        },
+        {
+            "Title": "Merging Plans with Quantitative Temporal Constraints, Temporally Extended Actions, and Conditional Branches.",
+            "Publication year": 2000,
+            "Publication url": "https://www.aaai.org/Papers/AIPS/2000/AIPS00-028.pdf",
+            "Abstract": "We develop ml algorithm for merging plans that m\u2019c represented in a richly expressive language. Specifically. we arc concerned with plans that have (i) quantitative temporal constraints,(ii} at. lions that are not instantaneous, but rather have temporal extent, and (iii) conditional branches. Given a set~ q of such plans, our algorithm finds a set of constraints that jointly ensure that the plans in 8 are mutually consistent, if such a set of constraints exists. The algorithm has three phases. In the first, it employs a new data structtu-e, a conditional simple temporal network (CSTN). identify conflicts between the plans. Next. it uses an approach developed by Yang (1997) to suggest a potential resolution of the identified conflicts. Finally, the CSTN is again used to check whether the proposed resolution observes all the temporal constraints. We have implemented our approach, mid we present preliminary experimental evidence \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance-estimation properties of cross-validation-based protocols with simultaneous hyper-parameter optimization",
+            "Publication year": 2015,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213015400230",
+            "Abstract": "In a typical supervised data analysis task, one needs to perform the following two tasks: (a) select an optimal combination of learning methods (e.g., for variable selection and classifier) and tune their hyper-parameters (e.g., K in K-NN), also called model selection, and (b) provide an estimate of the performance of the final, reported model. Combining the two tasks is not trivial because when one selects the set of hyper-parameters that seem to provide the best estimated performance, this estimation is optimistic (biased/overfitted) due to performing multiple statistical comparisons. In this paper, we discuss the theoretical properties of performance estimation when model selection is present and we confirm that the simple Cross-Validation with model selection is indeed optimistic (overestimates performance) in small sample scenarios and should be avoided. We present in detail and investigate the theoretical properties \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:_xSYboBqXhAC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Applicability of an Automated Model and Parameter Selection in the Prediction of Screening-Level PTSD in Danish Soldiers Following Deployment: Development Study of Transferable Predictive Models Using Automated Machine Learning",
+            "Publication year": 2020,
+            "Publication url": "https://medinform.jmir.org/2020/7/e17119?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_1",
+            "Abstract": "Background: Posttraumatic stress disorder (PTSD) is a relatively common consequence of deployment to war zones. Early postdeployment screening with the aim of identifying those at risk for PTSD in the years following deployment will help deliver interventions to those in need but have so far proved unsuccessful.Objective: This study aimed to test the applicability of automated model selection and the ability of automated machine learning prediction models to transfer across cohorts and predict screening-level PTSD 2.5 years and 6.5 years after deployment.Methods: Automated machine learning was applied to data routinely collected 6-8 months after return from deployment from 3 different cohorts of Danish soldiers deployed to Afghanistan in 2009 (cohort 1, N= 287 or N= 261 depending on the timing of the outcome assessment), 2010 (cohort 2, N= 352), and 2013 (cohort 3, N= 232).Results: Models transferred well between cohorts. For screening-level PTSD 2.5 and 6.5 years after deployment, random forest models provided the highest accuracy as measured by area under the receiver operating characteristic curve (AUC): 2.5 years, AUC= 0.77, 95% CI 0.71-0.83; 6.5 years, AUC= 0.78, 95% CI 0.73-0.83. Linear models performed equally well. Military rank, hyperarousal symptoms, and total level of PTSD symptoms were highly predictive.Conclusions: Automated machine learning provided validated models that can be readily implemented in future deployment cohorts in the Danish Defense with the aim of targeting postdeployment support interventions to those at highest risk for developing PTSD, provided the cohorts are deployed on similar \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:2MdNiwGT7yoC",
+            "Publisher": "JMIR Publications Inc., Toronto, Canada"
+        },
+        {
+            "Title": "Assessing the probability of legal execution of plans with temporal uncertainty",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/39170662/00b49520e1396c30c0000000.pdf",
+            "Abstract": "Temporal uncertainty is a feature of many real-world planning problems. One of the most successful formalisms for dealing with temporal uncertainty is the Simple Temporal Problem with uncertainty (STP-u). A very attractive feature of STP-u\u2019s is that one can determine in polynomial time whether a given STP-u is dynamically controllable, ie, whether there is a guaranteed means of execution such that all the constraints are respected, regardless of the exact timing of the uncertain events. Unfortunately, if the STP-u is not dynamically controllable, limitations of the formalism prevent further reasoning about the probability of legal execution. In this paper, we present an alternative formalism, called Probabilistic Simple Temporal Problems (PSTPs), which generalizes STP-u to allow for such reasoning. We show that while it is difficult to compute the exact probability of legal execution, there are methods for bounding the probability both from above and below, and we sketch alternative candidate algorithms for this purpose. Computing the probability of legal execution allows a temporal planner to decide, when uncertainty is present, whether to accept or reject candidate plans.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A unified approach to estimation and control of the False Discovery Rate in Bayesian network skeleton identification.",
+            "Publication year": 2011,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.7818&rep=rep1&type=pdf",
+            "Abstract": "Constraint-based Bayesian network (BN) structure learning algorithms typically control the False Positive Rate (FPR) of their skeleton identification phase. The False Discovery Rate (FDR), however, may be of greater interest and methods for its utilization by these algorithms have been recently devised. We present a unified approach to BN skeleton identification FDR estimation and control and experimentally evaluate the performance of FDR estimators in both tasks over several networks. We demonstrate that estimation is too conservative for most networks and strong control at common FDR thresholds is not achieved with some networks; finally, we identify the possible causes of this situation.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Putting the Human Back in the AutoML Loop.",
+            "Publication year": 2020,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/340336536_Putting_the_Human_Back_in_the_AutoML_Loop/links/5e843eea4585150839b2d6af/Putting-the-Human-Back-in-the-AutoML-Loop.pdf",
+            "Abstract": "Automated Machine Learning (AutoML) is a rapidly rising subfield of Machine Learning. AutoML aims to fully automate the machine learning process end-to-end, democratizing Machine Learning to non-experts and drastically increasing the productivity of expert analysts. So far, most comparisons of AutoML systems focus on quantitative criteria such as predictive performance and execution time. In this paper, we examine AutoML services for predictive modeling tasks from a user\u2019s perspective, going beyond predictive performance. We present a wide palette of criteria and dimensions on which to evaluate and compare these services as a user. This qualitative comparative methodology is applied on seven AutoML systems, namely Auger. AI, BigML, H2O\u2019s Driverless AI, Darwin, Just Add Data Bio, Rapid-Miner, and Watson. The comparison indicates the strengths and weaknesses of each service, the needs that it covers, the segment of users that is most appropriate for, and the possibilities for improvements.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:Ltc9rfRcsxEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Predicting causal relationships from biological data: Applying automated causal discovery on mass cytometry data of human immune cells",
+            "Publication year": 2017,
+            "Publication url": "https://www.nature.com/articles/s41598-017-08582-x",
+            "Abstract": "Learning the causal relationships that define a molecular system allows us to predict how the system will respond to different interventions. Distinguishing causality from mere association typically requires randomized experiments. Methods for automated causal discovery from limited experiments exist, but have so far rarely been tested in systems biology applications. In this work, we apply state-of-the art causal discovery methods on a large collection of public mass cytometry data sets, measuring intra-cellular signaling proteins of the human immune system and their response to several perturbations. We show how different experimental conditions can be used to facilitate causal discovery, and apply two fundamental methods that produce context-specific causal predictions. Causal predictions were reproducible across independent data sets from two different studies, but often disagree with the KEGG pathway \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:ohFW0PAxsewC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Reformulating temporal plans for efficient execution",
+            "Publication year": 2000,
+            "Publication url": "https://www.academia.edu/download/39170644/00b49520e1395d237b000000.pdf",
+            "Abstract": "Temporal plans, which use the Simple Temporal Network (STN) formalism, permit significant flexibility in specifying the occurrence time of events. However, the advantage of retaining execution flexibility is counterbalanced by the cost, during execution, of propagating the time of occurrence of events throughout the flexible plan. To minimize execution latency this propagation needs to be very efficient. This work deals with the problem of reformulating temporal plans that use the STN formalism so that they can be executed efficiently, ie requiring minimal propagation of information. The problem can be restated as reformulating a temporal plan to acquire two properties: a) dispatchability, ie, it can always be executed correctly even when information is propagated only to the immediate neighbors of a node and, b) minimality, ie, it has minimal1 number of edges among all other dispatchable networks. The small number of edges is a core factor in the execution speed of the network.The project examines five main aspects of the problem. The first one is the theoretical analysis of when and how plans can be reformulated to achieve dispatchability and minimality. The result is a necessary and sufficient condition for removing edges from a fully connected network. The immediate application of the condition provides a simple algorithm that solves the research problem in time O (V3), where V is the number of nodes in the network. The second aspect focuses on the efficiency of the reformulation process itself and improves its complexity by providing a new faster (but more complicated) algorithm called Fast-MED. Fast-MED runs in time O (VEin+ V2lgV \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Estimation and control of the false discovery rate in Bayesian network skeleton identification, with application to biological data",
+            "Publication year": 2011,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.707.1122",
+            "Abstract": "An important problem in learning Bayesian networks is assessing confidence on the learnt structure. Prior work in constraint-based algorithms focuses on estimating or controlling the False Discovery Rate (FDR) when identifying the skeleton (set of edges without regard of direction) of a network. We present a unified approach to estimation and control of the FDR of Bayesian network skeleton identification and experimen-tally evaluate the performance of a standard FDR estimator in both tasks over several benchmark networks and sample sizes. We demonstrate that conservative estimation and strong control of FDR are not achieved in some cases due to insufficient sample size and/or unfaithfulness. We show that a permutation-based and a parametric-bootstrap-based FDR estimator achieve more accurate FDR estimation and strong control than the standard estimator. Finally, we present a relaxed definition of false positive that leads to more conservative estimation and control of FDR in relatively small sample sizes. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:9w9GTvUEN2YC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Latent Feature Representations for Human Gene Expression Data Improve Phenotypic Predictions",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9313286/",
+            "Abstract": "High-throughput technologies such as microarrays and RNA-sequencing (RNA-seq) allow to precisely quantify transcriptomic profiles, generating datasets that are inevitably high-dimensional. In this work, we investigate whether the whole human transcriptome can be represented in a compressed, low dimensional latent space without loosing relevant information. We thus constructed low-dimensional latent feature spaces of the human genome, by utilizing three dimensionality reduction approaches and a diverse set of curated datasets. We applied standard Principal Component Analysis (PCA), kernel PCA and Autoencoder Neural Networks on 1360 datasets from four different measurement technologies. The latent feature spaces are tested for their ability to (a) reconstruct the original data and (b) improve predictive performance on validation datasets not used during the creation of the feature space. While linear \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:QhqSGEHatosC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Machine Learning Models for Classification of Lung Cancer and Selection of Genomic Markers Using Array Gene Expression Data.",
+            "Publication year": 2003,
+            "Publication url": "https://www.aaai.org/Papers/FLAIRS/2003/Flairs03-014.pdf",
+            "Abstract": "This research explores machine learning methods for the development of computer models that use gene expression data to distinguish between tumor and non-tumor, between metastatic and non-metastatic, and between histological subtypes of lung cancer. A second goal is to identify small sets of gene predictors and study their properties in terms of stability, size, and relation to lung cancer. We apply four classifier and two gene selection algorithms to a 12,600 oligonucleotide array dataset from 203 patients and normal human subjects. The resulting models exhibit excellent classification performance. Gene selection methods reduce drastically the genes necessary for classification. Selected genes are very different among gene selection methods, however. A statistical method for characterizing the causal relevance of selected genes is introduced and applied.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Accurate blood-based diagnostic biosignatures for Alzheimer\u2019s disease via automated machine learning",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/831666",
+            "Abstract": "Alzheimer\u2019s disease (AD) is the most common form of neurodegenerative dementia and its timely diagnosis remains a major challenge in biomarker discovery. In the present study, we analyzed publicly available high-throughput low-sample-omics datasets from studies in AD blood, by the AutoML technology Just Add Data Bio (JADBIO), to construct accurate predictive models for use as diagnostic biosignatures. Considering data from AD patients and age\u2013sex matched cognitively healthy individuals, we produced three best performing diagnostic biosignatures specific for the presence of AD: A. A 506-feature transcriptomic dataset from 48 AD and 22 controls led to a miRNA-based biosignature via Support Vector Machines with three miRNA predictors (AUC 0.975 (0.906, 1.000)), B. A 38,327-feature transcriptomic dataset from 134 AD and 100 controls led to six mRNA-based statistically equivalent signatures via Classification Random Forests with 25 mRNA predictors (AUC 0.846 (0.778, 0.905)) and C. A 9483-feature proteomic dataset from 25 AD and 37 controls led to a protein-based biosignature via Ridge Logistic Regression with seven protein predictors (AUC 0.921 (0.849, 0.972)). These performance metrics were also validated through the JADBIO pipeline confirming stability. In conclusion, using the automated machine learning tool JADBIO, we produced accurate predictive biosignatures extrapolating available low sample-omics data. These results offer options for minimally invasive blood-based diagnostic tests for AD, awaiting clinical validation based on respective laboratory assays. They also highlight the value of AutoML in biomarker \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:6fxomyk5x4cC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "MatureP: prediction of secreted proteins with exclusive information from their mature regions",
+            "Publication year": 2017,
+            "Publication url": "https://www.nature.com/articles/s41598-017-03557-4",
+            "Abstract": "More than a third of the cellular proteome is non-cytoplasmic. Most secretory proteins use the Sec system for export and are targeted to membranes using signal peptides and mature domains. To specifically analyze bacterial mature domain features, we developed MatureP, a classifier that predicts secretory sequences through features exclusively computed from their mature domains. MatureP was trained using Just Add Data Bio, an automated machine learning tool. Mature domains are predicted efficiently with~ 92% success, as measured by the Area Under the Receiver Operating Characteristic Curve (AUC). Predictions were validated using experimental datasets of mutated secretory proteins. The features selected by MatureP reveal prominent differences in amino acid content between secreted and cytoplasmic proteins. Amino-terminal mature domain sequences have enhanced disorder, more hydroxyl and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:ddB7do2jUx8C",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Massively-Parallel Feature Selection for Big Data",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1708.07178",
+            "Abstract": "We present the Parallel, Forward-Backward with Pruning (PFBP) algorithm for feature selection (FS) in Big Data settings (high dimensionality and/or sample size). To tackle the challenges of Big Data FS PFBP partitions the data matrix both in terms of rows (samples, training examples) as well as columns (features). By employing the concepts of -values of conditional independence tests and meta-analysis techniques PFBP manages to rely only on computations local to a partition while minimizing communication costs. Then, it employs powerful and safe (asymptotically sound) heuristics to make early, approximate decisions, such as Early Dropping of features from consideration in subsequent iterations, Early Stopping of consideration of features within the same iteration, or Early Return of the winner in each iteration. PFBP provides asymptotic guarantees of optimality for data distributions faithfully representable by a causal network (Bayesian network or maximal ancestral graph). Our empirical analysis confirms a super-linear speedup of the algorithm with increasing sample size, linear scalability with respect to the number of features and processing cores, while dominating other competitive algorithms in its class.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:EcS_2O1c4Q0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Applications of machine learning in human microbiome studies: a review on feature selection, biomarker identification, disease prediction and treatment",
+            "Publication year": 2021,
+            "Publication url": "https://internal-journal.frontiersin.org/articles/10.3389/fmicb.2021.634511/full",
+            "Abstract": "The number of microbiome-related studies has notably increased the availability of data on human microbiome composition and function. These studies provide the essential material to deeply explore host-microbiome associations and their relation to the development and progression of various complex diseases. Improved data-analytical tools are needed to exploit all information from these biological datasets, taking into account the peculiarities of microbiome data, i.e. compositional, heterogeneous and sparse nature of these datasets. The possibility of predicting host-phenotypes based on taxonomy-informed feature selection to establish an association between microbiome and predict disease states is beneficial for personalized medicine. In this regard, machine learning (ML) provides new insights into the development of models that can be used to predict outputs, such as classification and prediction in microbiology, infer host phenotypes to predict diseases and use microbial communities to stratify patients by their characterization of state-specific microbial signatures. Here we review the state-of-the-art ML methods and respective software applied in human microbiome studies, performed as part of the COST Action ML4Microbiome activities. This scoping review focuses on the application of ML in microbiome studies related to association and clinical use for diagnostics, prognostics, and therapeutics. Although the data presented here is more related to the bacterial community, many algorithms could be applied in general, regardless of the feature type. This literature and software review covering this broad topic is aligned with the scoping \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:SyxJh60XUSQC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Prothrombotic and Endothelial Inflammatory Markers in Greek Patients with Type 2 Diabetes Compared to Non-Diabetics",
+            "Publication year": 2017,
+            "Publication url": "http://ikee.lib.auth.gr/record/296831/files/prothrombotic-and-endothelial-inflammatory-markers-in-greek-patients-withtype-2-diabetes-compared-to-nondiabetics-2161-1017-1000259.pdf",
+            "Abstract": "Objective: To evaluate specific factors of coagulation and endothelial inflammatory markers namely, thrombomodulin, soluble receptor of the protein C (sEPCR), factor VIII, plasminogen activator inhibitor 1, Von Willebrandt factor, fibrinogen, fibrinogen dimers (d-dimers), high sensitivity C-reactive protein and homocysteine in a subset of Greek subjects with and without Type 2 (T2) Diabetes. Design: 84 subjects, of which 44 patients with T2 diabetes, were included in the randomized comparative prospective cross sectional study. The subjects were split into a \u03a42 diabetics group and a group of healthy controls of similar age, anthropometric profiles and similar gender distribution.Results: A total of 47 variables and biomarkers together with indicators for metabolic profiles, clinical history, as well as detailed anthropometric profiles and traditional risk factors, were evaluated. Dipeptidyl peptidase-4 (DPP4), Insulin, use of Sulfonylurea, high HBA1c and glucose levels, were clearly statistically differentiated in the two groups, while no other biomarkers including the new potential indicators were found to be different. High values of thrombomodulin and homocysteine were correlated with a rise in creatinine and thus seem to affect renal function in the diabetic patients group while in the non-diabetics group the correlations are different with sEPCR having a relative strong negative correlation in renal function as measured with The Modification of Diet in Renal Disease, in agreement with the latest international findings.Conclusions: The presence of T2 diabetes in conjunction with age clearly correlates with problems in renal function, thrombomodulin and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:oYVvnHz_XzQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An AutoML application to forecasting bank failures",
+            "Publication year": 2021,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/13504851.2020.1725230",
+            "Abstract": "We investigate the performance of an automated machine learning (AutoML) methodology in forecasting bank failures, called Just Add Data (JAD). We include all failed U.S. banks for 2007\u20132013 and twice as many healthy ones. An automated feature selection procedure in JAD identifies the most significant forecasters and a bootstrapping methodology provides conservative estimates of performance generalization and confidence intervals. The best performing model yields an AUC 0.985. The current work provides evidence that JAD, and AutoML tools in general, could increase the productivity of financial data analysts, shield against methodological statistical errors, and provide models at par with state-of-the-art manual analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:0vYOBEH00j0C",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "Feature selection for high-dimensional temporal data: supplementary material",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8852175804629533947&hl=en&oi=scholarr",
+            "Abstract": "\u2022 Table S1 give an example of the data structure in the Temporal-longitudinal scenario using the GDS4258 dataset. It can be seen that each subject contains 3 measurements in total, one for each of the 3 distinct time points.\u2022 Table S2 presents example data from the GDS3859 dataset used in the Temporal-distinct scenario. Time points are again present, but each measurement refers to a different subject. This means that measurements can be freely shuffled within each column.\u2022 An example of the static-longitudinal scenario is given in Table S3 where measurements are taken for each subject at three different time points. The goal is to discriminate between the two groups (infected-not infected). The numbers come from the GDS4518 dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:dIILA_La5fwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bootstrapping the out-of-sample predictions for efficient and accurate cross-validation",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10994-018-5714-4",
+            "Abstract": "Cross-Validation (CV), and out-of-sample performance-estimation protocols in general, are often employed both for (a) selecting the optimal combination of algorithms and values of hyper-parameters (called a configuration) for producing the final predictive model, and (b) estimating the predictive performance of the final model. However, the cross-validated performance of the best configuration is optimistically biased. We present an efficient bootstrap method that corrects for the bias, called Bootstrap Bias Corrected CV (BBC-CV). BBC-CV\u2019s main idea is to bootstrap the whole process of selecting the best-performing configuration on the out-of-sample predictions of each configuration, without additional training of models. In comparison to the alternatives, namely the nested cross-validation (Varma and Simon in BMC Bioinform 7(1):91, 2006) and a method by Tibshirani and Tibshirani (Ann Appl Stat 822 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:TuM7UPshZo8C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Deciphering the Methylation Landscape in Breast Cancer: Diagnostic and Prognostic Biosignatures through Automated Machine Learning",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/2072-6694/13/7/1677",
+            "Abstract": "DNA methylation plays an important role in breast cancer (BrCa) pathogenesis and could contribute to driving its personalized management. We performed a complete bioinformatic analysis in BrCa whole methylome datasets, analyzed using the Illumina methylation 450 bead-chip array. Differential methylation analysis vs. clinical end-points resulted in 11,176 to 27,786 differentially methylated genes (DMGs). Innovative automated machine learning (AutoML) was employed to construct signatures with translational value. Three highly performing and low-feature-number signatures were built:(1) A 5-gene signature discriminating BrCa patients from healthy individuals (area under the curve (AUC): 0.994 (0.982\u20131.000)).(2) A 3-gene signature identifying BrCa metastatic disease (AUC: 0.986 (0.921\u20131.000)).(3) Six equivalent 5-gene signatures diagnosing early disease (AUC: 0.973 (0.920\u20131.000)). Validation in independent patient groups verified performance. Bioinformatic tools for functional analysis and protein interaction prediction were also employed. All protein encoding features included in the signatures were associated with BrCa-related pathways. Functional analysis of DMGs highlighted the regulation of transcription as the main biological process, the nucleus as the main cellular component and transcription factor activity and sequence-specific DNA binding as the main molecular functions. Overall, three high-performance diagnostic/prognostic signatures were built and are readily available for improving BrCa precision management upon prospective clinical validation. Revisiting archived methylomes through novel bioinformatic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:uqZYSrDi9MMC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Understanding progression in multiple sclerosis through transcriptomics and DNA methylation in CD4+ and CD8+ T cells",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10400213605520979886&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:djcsc3XHdKAC",
+            "Publisher": "SAGE PUBLICATIONS LTD"
+        },
+        {
+            "Title": "Feature selection for high-dimensional temporal data",
+            "Publication year": 2018,
+            "Publication url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2023-7",
+            "Abstract": "Feature selection is commonly employed for identifying collectively-predictive biomarkers and biosignatures; it facilitates the construction of small statistical models that are easier to verify, visualize, and comprehend while providing insight to the human expert. In this work we extend established constrained-based, feature-selection methods to high-dimensional \u201comics\u201d temporal data, where the number of measurements is orders of magnitude larger than the sample size. The extension required the development of conditional independence tests for temporal and/or static variables conditioned on a set of temporal variables. The algorithm is able to return multiple, equivalent solution subsets of variables, scale to tens of thousands of features, and outperform or be on par with existing methods depending on the analysis task specifics. The use of this algorithm is suggested for variable selection with high-dimensional temporal data.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:8_tS2Vw13FcC",
+            "Publisher": "BioMed Central"
+        },
+        {
+            "Title": "STATegra: multi-omics data integration\u2013a conceptual scheme with a bioinformatics pipeline",
+            "Publication year": 2021,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fgene.2021.620453/full",
+            "Abstract": "Technologies for profiling samples using different omics platforms have been at the forefront since the human genome project. Large-scale multi-omics data hold the promise of deciphering different regulatory layers. Yet, while there is a myriad of bioinformatics tools, each multi-omics analysis appears to start from scratch with an arbitrary decision over which tools to use and how to combine them. Therefore, it is an unmet need to conceptualize how to integrate such data and implement and validate pipelines in different cases. We have designed a conceptual framework (STATegra), aiming it to be as generic as possible for multi-omics analysis, combining available multi-omic anlysis tools (machine learning component analysis, non-parametric data combination and a multi-omics exploratory analysis) in a step-wise manner. While in several studies, we have previously combined those integrative tools, here we provide a systematic description of the STATegra framework and its validation using two TCGA case studies. For both, the Glioblastoma and the Skin Cutaneous Melanoma cases, we demonstrate an enhanced capacity of the framework (and beyond the individual tools) to identify features and pathways compared to single-omics analysis. Such an integrative multi-omics analysis framework for identifying features and components facilitates the discovery of new biology. Finally, we provide several options for applying the STATegra framework when parametric assumptions are fulfilled, and for the case when not all the samples are profiled for all omics. The STATegra framework is built using several tools, which are being integrated step-by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:kOdZbmsmKqcC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Shared DNA methylation profiles in four immune cell types from Multiple Sclerosis patients",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4319696714534220627&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:kxd3qP2_5uAC",
+            "Publisher": "WILEY"
+        },
+        {
+            "Title": "A validated clinical risk prediction model for lung cancer in smokers of all ages and exposure types: a HUNT study",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2352396418301142",
+            "Abstract": "Lung cancer causes >1\u00b76 million deaths annually, with early diagnosis being paramount to effective treatment. Here we present a validated risk assessment model for lung cancer screening.The prospective HUNT2 population study in Norway examined 65,237 people aged >20 years in 1995\u201397. After a median of 15\u00b72 years, 583 lung cancer cases had been diagnosed; 552 (94\u00b77%) ever-smokers and 31 (5\u00b73%) never-smokers. We performed multivariable analyses of 36 candidate risk predictors, using multiple imputation of missing data and backwards feature selection with Cox regression. The resulting model was validated in an independent Norwegian prospective dataset of 45,341 ever-smokers, in which 675 lung cancers had been diagnosed after a median follow-up of 11\u00b76 years.Our final HUNT Lung Cancer Model included age, pack-years, smoking intensity, years since smoking cessation, body mass index \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:kcGNQN_anIUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Forecasting military mental health in a complete sample of Danish military personnel deployed between 1992-2013",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165032721003347",
+            "Abstract": "Mental health problems (MHP) are a relatively common consequence of deployment to war zones. Early identification of those at risk of post-deployment MHP would improve prevention efforts. However, screening instruments based on linear models have not been successful. Machine learning (ML) has shown promise for providing the methodological frame for better prognostic models.The study population was all Danish military personnel deployed for the first time between January 1, 1992 and December 31, 2013. From extensive registry data, 21 pre- or at-deployment predictors comprising early adversity, social, clinical and demographic variables were used to predict psychiatric contacts (psychiatric diagnosis and/or use of psychotropic medicine) occurring within 6.5 years after homecoming. Four supervised ML methods (penalized logistic regression, random forests, support vector machines \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:Ef4XXjhdXvQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Metabolomics signature in serum months to years before thoracic cancer: The HUNT study.",
+            "Publication year": 2017,
+            "Publication url": "https://ascopubs.org/doi/abs/10.1200/JCO.2017.35.15_suppl.e23059",
+            "Abstract": "e23059Background: The Cancer-Biomarkers in HUNTinitiative seeks to identify novel biomarkers for the early cancer diagnosis. For lung cancers and mesothelioma clinically useful early markers are not available. In the prospective HUNT study in Norway, pre-diagnostic samples ranging 0-20 years before diagnosis are available for research purposes. Here we present our first results on high-throughput metabolomics analysis in serum two months to 16 years before diagnosis. Methods: LC-MS untargeted (Amide-) metabolites (n = 1042) were profiled in serum samples from 48 future patients (12 each of adeno-, squamous cell carcinoma, small-cell lung cancer and mesothelioma) and from 48 controls that were cancer-free 5 years after blood sampling. All were active smokers. Metabolic features for (a) each cancer and (b) all cancers pooled together were analyzed with moderated t-test (R limma package \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:b8m_4JuPjscC",
+            "Publisher": "American Society of Clinical Oncology"
+        },
+        {
+            "Title": "Constraint-based causal discovery with mixed data",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s41060-018-0097-y",
+            "Abstract": "We address the problem of constraint-based causal discovery with mixed data types, such as (but not limited to) continuous, binary, multinomial, and ordinal variables. We use likelihood-ratio tests based on appropriate regression models and show how to derive symmetric conditional independence tests. Such tests can then be directly used by existing constraint-based methods with mixed data, such as the PC and FCI algorithms for learning Bayesian networks and maximal ancestral graphs, respectively. In experiments on simulated Bayesian networks, we employ the PC algorithm with different conditional independence tests for mixed data and show that the proposed approach outperforms alternatives in terms of learning accuracy.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:QlnOKEPDpKwC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Morphological classification of heartbeats using similarity features and a two-phase decision tree",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4749175/",
+            "Abstract": "Significant clinical information can be obtained from the analysis of the dominant beat morphology. In such respect, the identification of the dominant beats and their averaging can be very helpful, allowing clinicians to perform the measurement of amplitudes and intervals on a beat much cleaner from noise than a generic beat selected from the entire ECG recording. In this paper an algorithm for the morphological classification of heartbeats based on a two-phase decision tree is described. Similarity features extracted from every beat are used in the decision trees for the identification of different morphological classes for the beats of the ECG signal. The results, in terms of dominant beat discrimination, have been evaluated on all annotated beats of the MIT-BIH arrhythmia database with sensitivity = 99.05%, specificity = 93.94%, positive predictive value (PPV) = 99.32% and negative predictive value (NPV) = 91.69 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On scoring maximal ancestral graphs with the max\u2013min hill climbing algorithm",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0888613X17307090",
+            "Abstract": "We consider the problem of causal structure learning in presence of latent confounders. We propose a hybrid method, MAG Max\u2013Min Hill-Climbing (M3HC) that takes as input a data set of continuous variables, assumed to follow a multivariate Gaussian distribution, and outputs the best fitting maximal ancestral graph. M3HC builds upon a previously proposed method, namely GSMAG, by introducing a constraint-based first phase that greatly reduces the space of structures to investigate. On a large scale experimentation we show that the proposed algorithm greatly improves on GSMAG in all comparisons, and over a set of known networks from the literature it compares positively against FCI and cFCI as well as competitively against GFCI, three well known constraint-based approaches for causal-network reconstruction in presence of latent confounders.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:u1IMlZnpNFQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Methods for multi-category cancer diagnosis from gene expression data: a comprehensive evaluation to inform decision support system development",
+            "Publication year": 2004,
+            "Publication url": "https://ebooks.iospress.nl/volumearticle/21099",
+            "Abstract": "Cancer diagnosis is a major clinical applications area of gene expression microarray technology. We are seeking to develop a system for cancer diagnostic model creation based on microarray data. We performed a comprehensive evaluation of several major classification algorithms, gene selection methods, and cross-validation designs using 11 datasets spanning 74 diagnostic categories (41 cancer types and 12 normal tissue types). The Multi-Category Support Vector Machine techniques by Crammer and Singer, Weston and Watkins, and one-versus-rest were found to be the best methods and they outperform other learning algorithms such as K-Nearest Neighbors and Neural Networks often to a remarkable degree. Gene selection techniques are shown to significantly improve classification performance. These results guided the development of a software system that fully automates cancer diagnostic model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Markov blanket-based variable selection in feature space",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/268340454_Markov_Blanket-Based_Variable_Selection_in_Feature_Space/links/546f4e3a0cf2d67fc0310b1e/Markov-Blanket-Based-Variable-Selection-in-Feature-Space.pdf",
+            "Abstract": "Variable Selection (aka Feature Selection) for predicting a target variable of interest, T, is an important problem in prediction modeling that has drawn significant attention. We present a new variable selection algorithm, called Feature Space Markov Blanket (FSMB), exhibiting two attractive properties under certain conditions:(i) it is able to select multivariately-predictive variables even when these variables have a small or no pairwise association with T (eg, they are associated with T via a parity function), and (ii) it is able to identify a minimal variable subset required for optimal prediction. FSMB combines ideas from kernel-based and Markov Blanket-based variable selection to borrow these theoretical properties; to our knowledge, it is the first such filtering algorithm. We empirically show the advantages of FSMB over previous approaches in simulated and real, large datasets and illustrate its potential for principled, efficient, and high-quality variable selection.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Department Biomedical Informatics, Vanderbilt University"
+        },
+        {
+            "Title": "DNA damage triggers a chronic autoinflammatory response, leading to fat depletion in NER progeria",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1550413113003379",
+            "Abstract": "Lipodystrophies represent a group of heterogeneous disorders characterized by loss of fat tissue. However, the underlying mechanisms remain poorly understood. Using mice carrying an ERCC1-XPF DNA repair defect systematically or in adipocytes, we show that DNA damage signaling triggers a chronic autoinflammatory response leading to fat depletion. Ercc1\u2212/\u2212 and aP2-Ercc1F/\u2212 fat depots show extensive gene expression similarities to lipodystrophic Ppar\u03b3ldi/+ animals, focal areas of ruptured basement membrane, the reappearance of primary cilia, necrosis, fibrosis, and a marked decrease in adiposity. We find that persistent DNA damage in aP2-Ercc1F/\u2212 fat depots and in adipocytes ex vivo triggers the induction of proinflammatory factors by promoting transcriptionally active histone marks and the dissociation of nuclear receptor corepressor complexes from promoters; the response is cell autonomous and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:dgXhHFWAKKUC",
+            "Publisher": "Cell Press"
+        },
+        {
+            "Title": "BioDataome: a collection of uniformly preprocessed and automatically annotated datasets for data-driven biology",
+            "Publication year": 2018,
+            "Publication url": "https://academic.oup.com/database/article-abstract/doi/10.1093/database/bay011/4917852",
+            "Abstract": "Biotechnology revolution generates a plethora of omics data with an exponential growth pace. Therefore, biological data mining demands automatic, \u2018high quality\u2019 curation efforts to organize biomedical knowledge into online databases. BioDataome is a database of uniformly preprocessed and disease-annotated omics data with the aim to promote and accelerate the reuse of public data. We followed the same preprocessing pipeline for each biological mart (microarray gene expression, RNA-Seq gene expression and DNA methylation) to produce ready for downstream analysis datasets and automatically annotated them with disease-ontology terms. We also designate datasets that share common samples and automatically discover control samples in case-control studies. Currently, BioDataome includes \u223c5600 datasets, \u223c260 000 samples spanning \u223c500 diseases and can be easily used in large-scale \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:vrnMIr82eJkC",
+            "Publisher": "Oxford Academic"
+        },
+        {
+            "Title": "Using Support Vector Machines for Multicategory Cancer Diagnosis Based on Gene Expression Data",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/228849653_Using_Support_Vector_Machines_for_Multicategory_Cancer_Diagnosis_Based_on_Gene_Expression_Data/links/02e7e51e7c590ab2a5000000/Using-Support-Vector-Machines-for-Multicategory-Cancer-Diagnosis-Based-on-Gene-Expression-Data.pdf",
+            "Abstract": "In an effort to contribute to the development of accurate cancer diagnosis based on gene expression data, this study performs a comprehensive evaluation of multicategory Support Vector Machine (MC-SVM) algorithms applied to the majority of cancer-related gene expression microarray datasets currently freely available to the scientific community. Our results show that:(a) MC-SVMs are very effective in performing accurate cancer diagnosis in high-dimensional gene expression data. The MC-SVM techniques by Crammer and Singer, Weston and Watkins, and one-versus-rest are the best methods in this domain.(b) MC-SVMs outperform other popular machine learning algorithms to a remarkable degree.(c) A prototype software tool which develops MC-SVM classifiers in a fully-automated fashion is introduced. Results produced by the tool compare favorably with previously published studies.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Toward automatic risk assessment to support suicide prevention",
+            "Publication year": 2018,
+            "Publication url": "https://econtent.hogrefe.com/doi/full/10.1027/0227-5910/a000561",
+            "Abstract": "Background: Suicide has been considered an important public health issue for years and is one of the main causes of death worldwide. Despite prevention strategies being applied, the rate of suicide has not changed substantially over the past decades. Suicide risk has proven extremely difficult to assess for medical specialists, and traditional methodologies deployed have been ineffective. Advances in machine learning make it possible to attempt to predict suicide with the analysis of relevant data aiming to inform clinical practice. Aims: We aimed to (a) test our artificial intelligence based, referral-centric methodology in the context of the National Health Service (NHS),(b) determine whether statistically relevant results can be derived from data related to previous suicides, and (c) develop ideas for various exploitation strategies. Method: The analysis used data of patients who died by suicide in the period 2013\u20132016 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:ey9_mCyZ-VYC",
+            "Publisher": "Hogrefe Publishing"
+        },
+        {
+            "Title": "A vision and strategy for the virtual physiological human: 2012 update",
+            "Publication year": 2013,
+            "Publication url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsfs.2013.0004",
+            "Abstract": "European funding under Framework 7 (FP7) for the virtual physiological human (VPH) project has been in place now for 5 years. The VPH Network of Excellence (NoE) has been set up to help develop common standards, open source software, freely accessible data and model repositories, and various training and dissemination activities for the project. It is also working to coordinate the many clinically targeted projects that have been funded under the FP7 calls. An initial vision for the VPH was defined by the FP6 STEP project in 2006. In 2010, we wrote an assessment of the accomplishments of the first two years of the VPH in which we considered the biomedical science, healthcare and information and communications technology challenges facing the project (Hunter et al. 2010 Phil. Trans. R. Soc. A 368, 2595\u20132614 (doi:10.1098/rsta.2010.0048)). We proposed that a not-for-profit professional umbrella \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "The Royal Society"
+        },
+        {
+            "Title": "A strategy for making predictions under manipulation",
+            "Publication year": 2008,
+            "Publication url": "http://proceedings.mlr.press/v3/brown08a.html",
+            "Abstract": "The first Causality Challenge competition posted several causal discovery problems that require researchers to employ the full arsenal of state-of-the-art causal discovery methods, while prompting the development of new ones. Our approach used the formalism of Causal Bayesian Networks to model and induce causal relations and to make predictions about the effects of the manipulation of the variables. Using state-of-the-art, under development, or newly invented methods specifically for the purposes of the competition, we addressed the following problems in turn in order to build and evaluate a model:(a) finding the Markov Blanket of the target even under some non-faithfulness conditions (eg, parity functions),(b) reducing the problems to a size manageable by subsequent algorithms,(c) identifying and orienting the network edges,(d) identifying causal edges (ie, not confounded), and (e) selecting the causal Markov Blanket of the target in the manipulated distribution. The results of the competition illustrate some of the strengths and weaknesses of the state-of-the-art of causal discovery methods and point to new directions in the field. An implementation of our approach is available at http://www. dsl-lab. org for use by other researchers.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:qUcmZB5y_30C",
+            "Publisher": "PMLR"
+        },
+        {
+            "Title": "Machine Learning Methods for Decision Support and Discovery",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Tsamardinos/publication/265063832_Machine_Learning_Methods_for_Decision_Support_and_Discovery/links/544211a20cf2a76a3cc834c8/Machine-Learning-Methods-for-Decision-Support-and-Discovery.pdf",
+            "Abstract": "\u220e The system will produce a program that implements a function that assigns the correct diagnosis to any pattern of array gene expression data to the correct diagnostic label (and not just the inputoutput patterns of the training data).\u220e Thus the system will learn (ie, generalize) from training data the general input-output function for our diagnosis problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:x8G803Bi31IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A systematic review of predictive risk models for diabetes complications based on large scale clinical studies",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1056872712003303",
+            "Abstract": "This work presents a systematic review of long-term risk assessment models for evaluating the probability of developing complications in diabetes patients. Diabetes mellitus can cause many complications if not adequately controlled; risk assessment models can help physicians and patients in identifying the complications most likely to arise and in taking the necessary countermeasures.We identified six large medical studies related to diabetes mellitus upon which current available risk assessment models are built on; all these studies had duration over 5 years and most of them included some common demographic and clinical data strongly related to diabetic complications. The most common predictions for long term diabetes complications are related to cardiovascular diseases and diabetic retinopathy.Our analysis of the literature led us to the conclusion that researchers and medical practitioners should take in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Controlling the False Discovery Rate in Bayesian Network Structure Learning",
+            "Publication year": 2008,
+            "Publication url": "http://clopinet.com/isabelle/Projects/reading/tsamardinos.pdf",
+            "Abstract": "Controlling the False Discovery Rate in Bayesian Network Structure Learning Page 1 \nControlling FDR in BN Learning Ioannis Tsamardinos, Univ. of Crete \u2013 1 / 78 Controlling the \nFalse Discovery Rate in Bayesian Network Structure Learning Ioannis Tsamardinos Asnt Prof., \nCSD, Univ. of Crete ICS, FORTH Laura E. Brown DBMI, Vanderbilt Univ. Sofia Triantafylloy \nCSD, Univ. of Crete ICS, FORTH May 29, 2008 Page 2 Motivation Motivation Infinite Sample \nCase Finite-Sample Versions of the Algorithms Controlling the Statistical Error A Closer Look on \nControlling FDR Experimental Evaluation Issue 1: Small Ro(d) Issue 2: Not Performing a Test \nIdeas for Extensions Controlling FDR in BN Learning Ioannis Tsamardinos, Univ. of Crete \u2013 2 / \n78 Page 3 State-of-the-art BN Learning Motivation Infinite Sample Case Finite-Sample Versions \nof the Algorithms Controlling the Statistical Error A Closer Look on Controlling FDR 1: R\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mining free-text medical notes for suicide risk assessment",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3200947.3201020",
+            "Abstract": "Suicide has been considered as an important public health issue for a very long time, and is one of the main causes of death worldwide. Despite suicide prevention strategies being applied, the rate of suicide has not changed substantially over the past decades. Advances in machine learning make it possible to attempt to predict suicide based on the analysis of relevant data to inform clinical practice. This paper reports on findings from the analysis of data of patients who died by suicide in the period 2013-2016 and made use of both structured data and free-text medical notes. We focus on examining various text-mining approaches to support risk assessment. The results show that using advance machine learning and text-mining techniques, it is possible to predict within a specified period which people are most at risk of taking their own life at the time of referral to a mental health service.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:EmjvLWWcsQIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CTP: A New Con\u25ca traint-Ba\u25ca ed Formali\u25ca m for Conditional, Temporal Planning",
+            "Publication year": 2004,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.949.9939&rep=rep1&type=pdf#page=60",
+            "Abstract": "Temporal constraints pose a challenge for conditional planning, because it is necessary for a conditional planner to determine whether a candidate plan will satisfy the specified temporal constraints. This can be difficult, because temporal assignments that satisfy the constraints associated with one conditional branch may fail to satisfy the constraints along a different branch. In this paper we address this challenge by developing the Conditional Temporal Problem (CTP) formalism, an extension of standard temporal constraint-satisfaction processing models used in non-conditional temporal planning. Specifically, we augment temporal CSP frameworks by (1) adding observation nodes, and (2) attaching labels to all nodes to indicate the situation (s) in which each will be executed. Our extended framework allows for the construction of conditional plans that are guaranteed to satisfy complex temporal constraints. Importantly, this can be achieved even while allowing for decisions about the precise timing of actions to be postponed until execution time, thereby adding flexibility and making it possible to dynamically adapt the plan in response to the observations made during execution. We also show that, even for plans without explicit quantitative temporal constraints, our approach fixes a problem in the earlier approaches to conditional planning, which resulted in their being incomplete.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:IX653JsL2_EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "GATA-1 genome-wide occupancy associates with distinct epigenetic profiles in mouse fetal liver erythropoiesis",
+            "Publication year": 2013,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/41/9/4938/2409051",
+            "Abstract": "We report the genomic occupancy profiles of the key hematopoietic transcription factor GATA-1 in pro-erythroblasts and mature erythroid cells fractionated from day E12.5 mouse fetal liver cells. Integration of GATA-1 occupancy profiles with available genome-wide transcription factor and epigenetic profiles assayed in fetal liver cells enabled as to evaluate GATA-1 involvement in modulating local chromatin structure of target genes during erythroid differentiation. Our results suggest that GATA-1 associates preferentially with changes of specific epigenetic modifications, such as H4K16, H3K27 acetylation and H3K4 di-methylation. Furthermore, we used random forest (RF) non-linear regression to predict changes in the expression levels of GATA-1 target genes based on the genomic features available for pro-erythroblasts and mature fetal liver-derived erythroid cells. Remarkably, our prediction model explained \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Causal data mining in bioinformatics",
+            "Publication year": 2007,
+            "Publication url": "https://ics.forth.gr/_pdf/brochures/EN69-4.pdf",
+            "Abstract": "What gene's expression is causing another one to be expressed? Which combination of mutations is causing disease? Knowledge of causal relations is paramount in simulating the digital patient, understanding the mechanisms of disease, designing drugs and treating patients. Recent theoretical and algorithmic advances in the discovery of causal relations from observational data promise to boost our biomedical knowledge.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:u_35RYKgDlwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algorithms for large scale Markov blanket discovery.",
+            "Publication year": 2003,
+            "Publication url": "https://www.aaai.org/Papers/FLAIRS/2003/Flairs03-073.pdf",
+            "Abstract": "This paper presents a number of new algorithms for discovering the Markov Blanket of a target variable T from training data. The Markov Blanket can be used for variable selection for classification, for causal discovery, and for Bayesian Network learning. We introduce a low-order polynomial algorithm and several variants that soundly induce the Markov Blanket under certain broad conditions in datasets with thousands of variables and compare them to other state-of-the-art local and global methods with excellent results.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Biomarker signature identification in \u201comics\u201d data with multi-class outcome",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2001037014601136",
+            "Abstract": "Biomarker signature identification in \u201comics\u201d data is a complex challenge that requires specialized feature selection algorithms. The objective of these algorithms is to select the smallest set(s) of molecular quantities that are able to predict a given outcome (target) with maximal predictive performance. This task is even more challenging when the outcome comprises of multiple classes; for example, one may be interested in identifying the genes whose expressions allow discrimination among different types of cancer (nominal outcome) or among different stages of the same cancer, e.g. Stage 1, 2, 3 and 4 of Lung Adenocarcinoma (ordinal outcome). In this work, we consider a particular type of successful feature selection methods, named constraint-based, local causal discovery algorithms. These algorithms depend on performing a series of conditional independence tests. We extend these algorithms for the analysis \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Subtle but critical errors in deriving cancer signatures and markers from high-throughput molecular data: Two high-profile case studies",
+            "Publication year": 2007,
+            "Publication url": "https://clincancerres.aacrjournals.org/content/13/19_Supplement/B55.short",
+            "Abstract": "B55Objectives: Molecular high throughput data offers unprecedented opportunities for discovery including new diagnostics and personalized treatments in a wide range of cancers. Given the novel nature of such data, standard analysis principles either do not apply or are not sufficient. On the other hand, recent high-throughput analysis guidelines are not standardized, they have not been independently validated, and there is no consensus regarding best practices. The present study illustrates these problems in two recent cancer studies by identifying subtle yet critical errors that jeopardize the studies9 findings and conclusions. Methods to avoid such errors are proposed.\u2028 Methods: We examine the methodological validity and identify subtle errors in the highly-cited studies of [1] and [2] We test the impact of the above errors on study conclusions by re-analyzing the original and simulated data using protocols \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:5N-NJrZHaHcC",
+            "Publisher": "American Association for Cancer Research"
+        },
+        {
+            "Title": "Autominder: An intelligent cognitive orthotic system for people with memory impairment",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889003000770",
+            "Abstract": "The world\u2019s population is aging at a phenomenal rate. Certain types of cognitive decline, in particular some forms of memory impairment, occur much more frequently in the elderly. This paper describes Autominder, a cognitive orthotic system intended to help older adults adapt to cognitive decline and continue the satisfactory performance of routine activities, thereby potentially enabling them to remain in their own homes longer. Autominder achieves this goal by providing adaptive, personalized reminders of (basic, instrumental, and extended) activities of daily living. Cognitive orthotic systems on the market today mainly provide alarms for prescribed activities at fixed times that are specified in advance. In contrast, Autominder uses a range of AI techniques to model an individual\u2019s daily plans, observe and reason about the execution of those plans, and make decisions about whether and when it is most appropriate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A bioinformatics approach for investigating the determinants of Drosha processing",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6701569/",
+            "Abstract": "We use a bioinformatics approach to search for the biological features that determine the cleavage site of the Microprocessor complex (or Drosha) within known miRNA hairpins. Towards this goal, we employ a previously developed methodology, termed DuplexSVM, which can accurately identify the four ends of a miRNA:miRNA* duplex. Here we use DuplexSVM to study how the Drosha determines its cleavage site. We perform in silico mutagenesis experiments on 142 hairpins by changing the distance of the Drosha site from the loop tip or the stem - single stranded tails junction by adding or removing matching nucleotides. Our results suggest that the Drosha cleavage site is mainly determined by its distance from the terminal loop tip.",
+            "Abstract entirety": 1,
+            "Author pub id": "7fendUwAAAAJ:D03iK_w7-QYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Workshop Organisation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6753880/",
+            "Abstract": "Causal discovery aims to infer the cause-effect relationships between variables. As a basic tool for explanation, prediction and decision making, causal discovery has been utilized in almost all disciplines. Traditionally, causal relationships are identified using controlled experiments. However, conducting such experiments is often impossible due to cost or ethical concerns. Therefore causal discovery based on observational data becomes an essential alternative to controlled experiments and many cross-disciplinary efforts have been made to discover causal relationships from observational data. Recently, with the rapid accumulation of huge volume of observational data, the field of causal discovery is seeing exciting opportunities, as well as greater challenges.The 1st IEEE ICDM Workshop on Causal Discovery (CD 2013) is aimed at bringing together researchers and practitioners interested in causal discovery \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:cAWJABFkdiUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Time and sample efficient discovery of Markov blankets and direct causal relations",
+            "Publication year": 2003,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/956750.956838",
+            "Abstract": "Data Mining with Bayesian Network learning has two important characteristics: under conditions learned edges between variables correspond to casual influences, and second, for every variable T in the network a special subset (Markov Blanket) identifiable by the network is the minimal variable set required to predict T. However, all known algorithms learning a complete BN do not scale up beyond a few hundred variables. On the other hand, all known sound algorithms learning a local region of the network require an exponential number of training instances to the size of the learned region. The contribution of this paper is two-fold. We introduce a novel local algorithm that returns all variables with direct edges to and from a target variable T as well as a local algorithm that returns the Markov Blanket of T. Both algorithms (i) are sound,(ii) can be run efficiently in datasets with thousands of variables, and (iii \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "7fendUwAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

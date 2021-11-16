@@ -1,0 +1,537 @@
+[{
+    "name": "\u03a3\u03c0\u03c5\u03c1\u03af\u03b4\u03c9\u03bd \u039c\u03c0\u03bb\u03b9\u03ce\u03bd\u03b1\u03c2",
+    "romanize name": "Spyridon Blionas",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 & \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uop",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 11178,
+    "Scholar name": "Blionas",
+    "Scholar id": "eGFLu38AAAAJ",
+    "Affiliation": "University of Peloponnese",
+    "Citedby": 311,
+    "Scholar url": "https://scholar.google.com/citations?user=eGFLu38AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Reconfigurability requirements of wireless communication systems",
+            "Publication year": 2002,
+            "Publication url": "https://www.academia.edu/download/48782559/Reconfigurability_requirements_of_wirele20160912-2750-13fvk27.pdf",
+            "Abstract": "Wireless communication systems require optimization of different factors including real time performance, area, power, flexibility and time-to-market. Instruction set and custom hardware processors cannot optimize the combination of the above factors while reconfigurable hardware offers a good balance between flexibility and implementation efficiency. Heterogeneous Systems-on-Chip including instruction set processors, reconfigurable blocks and custom hardware are currently the state-of-the-art for the realization of future wireless communication systems. A critical design task in such platforms is the assignment of the target system\u2019s tasks on the different types of processing elements available and especially on reconfigurable hardware. In this paper reconfigurability requirements of wireless communication systems are identified both from a system point of view and from a lower level implementation perspective. Guidelines to drive decisions for the assignment of tasks on reconfigurable hardware are also presented. A dual mode HIPERLAN/2\u2013IEEE 802.11 a partly reconfigurable System-on-Chip is currently being developed. The reconfigurability requirements of HIPERLAN/2 and IEEE 802.11 a wireless LAN systems are analyzed.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:hB2aVRuWZNwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A HIPERLAN/2\u2014IEEE 802.11 a Reconfigurable System-on-Chip",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46117-5_112",
+            "Abstract": "In this paper the design of a partly reconfigurable System-on-Chip (SoC) for wireless LANs is described. The reconfigurable System-on-Chip will realize both HIPERLAN/2 and IEEE 802.11a wireless LAN systems. The initial version of the system will include Mobile Terminal functionality. Future firmware versions will upgrade system\u2019s functionality to allow its operation as Access Point. Functionality for operation in outdoor environments in wireless point-to-point links will be also targeted by future firmware upgrades. A system\u2019s prototype is currently under development on the ARM integrator platform.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:QAOzB4mb83kC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Proof of concept apparatus for the design of a simple, low cost, mobile e-nose for real-time victim localization (human presence) based on indoor air quality monitoring sensors",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2214180419301734",
+            "Abstract": "Indoor air quality monitoring sensor devices that are simple to operate, low cost and readily available were tested in an apparatus capable of preparing, storing, and manipulating air samples. Suitably prepared air samples were captured and measured with the apparatus emulating the conditions anticipated in the target application, i.e the detection of humans in confined and poorly ventilated spaces during Urban Search and Rescue Operations. The apparatus and the testing methodology, that were designed in order to evaluate the suitability of the selected sensors for implementing an electronic nose (e-nose) for human detection, are presented. Currently an e-nose system that is under development, adopted the architecture finalized in the presented work, and is intended to be used during the Assessment, Search and Rescue (ASR) stage 4 of a USaR operation as part of the sensor payload of a remotely \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:e9bUPLv0EjcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Virtex Series Configuration Architecture User Guide, Xilinx Application Note Virtex Series Configuration Architecture User Guide, Xilinx Application Note, 2000",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10010778440/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\n\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u7a93\u53e3\u696d\u52d9\u306e\u518d\u958b\u306b\u3064\u3044\u3066 <no title> \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \n\u8457\u8005 \u53ce\u9332\u520a\u884c\u7269 Virtex Series Configuration Architecture User Guide, Xilinx Application Note \nVirtex Series Configuration Architecture User Guide, Xilinx Application Note, 2000 \u88ab\u5f15\u7528\u6587\u732e: \n1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 Prototyping of a 5GHz WLAN Reconfigurable System-on-Chip BLIONAS \nSpyridon , MASSELOS Konstantinos , DRE Chrissavgi , DROSOS Christos , IEROMNIMON \nFragkiskos , METAFAS Dimitris , PAGONIS Thanasis , PNEVMATIKAKIS Aristodemos , \nTATSAKI Anna , TRIMIS Theodor , VONTZALIDIS Adamandios IEICE transactions on and ()\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:4tNoA7Af41QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mobile Communications International 21 Mobile Communications International 21, 1995",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10011766029/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\n\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 <no title> \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 \u53ce\u9332\u520a\u884c\u7269 Mobile \nCommunications International 21 Mobile Communications International 21, 1995 \u88ab\u5f15\u7528\u6587\u732e: \n1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 A Low Power Baseband Processor for a Portable Dual Mode DECT/GSM \nTerminal DROSOS Christos , DRE Chrissavgi , BLIONAS Spyridon , SOUDRIS Dimitrios IEICE \ntransactions on information and systems 86(10), 1976-1986, 2003-10-01 \u53c2\u8003\u6587\u732e15\u4ef6 \u88ab\n\u5f15\u7528\u6587\u732e1\u4ef6 Tweet \u5404\u7a2e\u30b3\u30fc\u30c9 NII\u8ad6\u6587ID(NAID) 10011766029 \u8cc7\u6599\u7a2e\u5225 \u4f1a\u8b70\u8cc7\u6599 \u30c7\u30fc\u30bf\u63d0\u4f9b\u5143 \nCJP\u5f15\u7528 \u66f8\u304d\u51fa\u3057 RefWorks\u306b\u66f8\u304d\u51fa\u3057 EndNote\u306b\u66f8\u304d\u51fa\u3057 Mendeley\u306b\u66f8\u304d\u51fa\u3057 Refer/BiblX\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:8JTMrWI6FdcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Realization of wireless multimedia communication systems on reconfigurable platforms",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1383762103000699",
+            "Abstract": "Wireless multimedia communication systems become increasingly more computational intensive and demand for higher flexibility. The realization of these systems on reconfigurable hardware offers a good balance for these requirements. In this paper the suitability of commercially available reconfigurable hardware platforms for the target application domain is evaluated. Based on this evaluation a heterogeneous partly reconfigurable system-on-chip platform is identified as ideal implementation platform for the targeted systems. Systems from different target domains are analysed and different cases where the inclusion of reconfigurable hardware in their realizations would lead to improved quality in terms of implementation efficiency and flexibility are identified. Design methodology requirements for the realization of systems from the target application domain on the targeted platform are analysed and issues not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:o-PowTg_VKEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A compact hybrid-multiplexed potentiostat for real-time electrochemical biosensing applications",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0956566313002388",
+            "Abstract": "The architecture and design of a compact, multichannel, hybrid-multiplexed potentiostat for performing electrochemical measurements on continuously-biased electrode arrays is presented. The proposed architecture utilises a combination of sequential and parallel measurements, to enable high performance whilst keeping the system low-cost and compact. The accuracy of the signal readout is maintained by following a special multiplexing approach, which ensures the continuous biasing of all the working electrodes of an array. After sampling the results, a digital calibration technique factors out errors from component inaccuracies. A prototype printed circuit board (PCB) was designed and built using off-the-shelf components for the real-time measurement of the amperometric signal of 48 electrodes. The operation and performance of the PCB was evaluated and characterised through a wide range of testing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:yKzB5RS27GgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Rapid prototyping of a wireless LAN implementation using a UML-based system design methodology",
+            "Publication year": 2004,
+            "Publication url": "https://search.ieice.org/bin/summary.php?id=e87-d_8_2058",
+            "Abstract": "The purpose of this paper is to present a rapid prototyping flow for the development of a wireless LAN system. The proposed system flow that was used for the development of the prototype is based on the use of UML (Unified Modeling Language). The UML and its real-time extensions are used to help the development phases of the prototype, mainly in the specification, co-simulation and validation of the design. The target of the development that was carried out with the application of the UML-based methodology is the implementation of an access point for a HIPERLAN/2 wireless network. Apart from the presentation of the UML-based system design methodology the paper also presents the application of the methodology for the implementation of the system prototype, the detailed software development and the results of the development.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:RVqaWcrwK10C",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "Power optimization methodology for multimedia applications implementation on reconfigurable platforms",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-39762-5_49",
+            "Abstract": "A methodology for the power-efficient implementation of multimedia kernels based on reconfigurable hardware (FPGA) is introduced. The methodology combines various types of algorithmic transformations and high-level memory hierarchy exploration with register-transfer level design and implementation. An FPGA with an external memory was used for obtaining experimental results which prove the viability of the methodology. Comparisons among implementations with and without this optimization, prove that great power efficiency is achieved.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:lRPiJ3GhvscC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Systolic Architecture of a Viterbi Equalizer for Optical Communications",
+            "Publication year": 2015,
+            "Publication url": "http://mocast.physics.auth.gr/images/Papers/PAPER_05F.pdf",
+            "Abstract": "This paper presents the architecture of an equalizer for optical communications, for achieving equalization of data at 10Gbps. It is a Fractionally Spaced Clustering Based Sequence Equalizer, one dimensional Euclidean, for NRZ-OOK modulation. The architecture is parametric as far as the parallelism is concerned and the final value of this parameter will define the performance of each architecture element and the number of processing elements needed to achieve real time performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:RgznTc0nqo4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hardware building blocks of a mixed granularity reconfigurable system-on-chip platform",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30205-6_63",
+            "Abstract": "Due to the combination of flexibility and realization efficiency, reconfigurable hardware has become a promising implementation alternative. In the context of the IST-AMDREL project, a mixed granularity reconfigurable SoC platform targeting wireless communication systems has been developed. The platform\u2019s main building blocks are presented, including coarse grain reconfigurable unit, embedded FPGA, interconnection network and application specific reusable blocks. The combination of these blocks in platform instances is expected to lead to a good balance between implementation efficiency and flexibility. An AMDREL platform based reconfigurable SoC for a multi-mode wireless networking system is currently under development.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:5bfplxN71z4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The low power baseband processing parts of a novel dual mode DECT/GSM terminal",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/957657/",
+            "Abstract": "In order to support a dual mode DECT/GSM terminal architecture, with low power characteristics and integrated support for direct conversion terminal architecture the basic parts of such a terminal were designed and implemented. These parts include a baseband processor and a modem. The baseband processor is designed to support dual mode operation, all baseband processing required and different terminal architectures (heterodyne or direct conversion). The modem features a GMSK/GFSK modulator and a novel, low power detection algorithm that supports direct conversion terminals. The architecture of the direct conversion wireless terminal is presented along with details on the low power characteristics of the processor and the modem. Experimental results from the operation of the terminal are also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:6Zm5LS9gQ5UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Design and development of a mobile e-nose platform for real time victim localization in confined spaces during USaR operations",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9129247/",
+            "Abstract": "An electronic nose gas sensor based system for the identification of human presence in confined spaces during Urban Search and Rescue (USaR) operations is presented. The system is intended to be used during the Assessment, Search and Rescue (ASR) level 4 of a USaR operation and is part of the sensor payload of a remotely controlled robot that enters the rubble of collapsed structures searching for trapped victims. The field of operation for the electronic nose from a gas/compounds availability and detectability perspective is investigated to identify candidate detection target chemicals with regard to commercially available sensing solutions and implementation constraints. The e-nose system design and testing cycles are presented, including end user validation.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:EsrhoZGmrkoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low Power Design Methodologies Low Power Design Methodologies, 1995",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10011766028/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\n\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u306e\u30b5\u30fc\u30d3\u30b9\u306b\u95a2\u3059\u308b\u30a2\u30f3\u30b1\u30fc\u30c8\u3092\u5b9f\u65bd\u4e2d\u3067\u3059\n\uff0811/11(\u6c34)-12/23(\u6c34)\uff09 <no title> RABAEY JM \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 RABAEY JM \u53ce\u9332\u520a\u884c\u7269 \nLow Power Design Methodologies Low Power Design Methodologies, 1995 Kluwer Academic \n\u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 A Low Power Baseband Processor for a Portable Dual Mode \nDECT/GSM Terminal DROSOS Christos , DRE Chrissavgi , BLIONAS Spyridon , SOUDRIS \nDimitrios IEICE transactions on information and systems 86(10), 1976-1986, 2003-10-01 \u53c2\u8003\n\u6587\u732e15\u4ef6 \u88ab\u5f15\u7528\u6587\u732e1\u4ef6 CiNii\u5229\u7528\u8005\u30a2\u30f3\u30b1\u30fc\u30c8 Tweet \u5404\u7a2e\u30b3\u30fc\u30c9 NII\u8ad6\u6587ID(NAID) \u8cc7\u6599\u7a2e\u5225 \u56f3\u66f8/\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:Mx5hWS9ctUkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A low power baseband processor for a portable dual mode DECT/GSM terminal",
+            "Publication year": 2003,
+            "Publication url": "https://search.ieice.org/bin/summary.php?id=e86-d_10_1976",
+            "Abstract": "The architecture and implementation of a novel processor suitable wireless terminal applications, is introduced. The wireless terminal is based on the novel dual-mode baseband processor for DECT and GSM, which supports both heterodyne and direct conversion terminal architectures and is capable to undertake all baseband signal processing, and an innovative direct conversion low power modulator/demodulator for DECT and GSM. The state of the art design methodologies for embedded applications and innovative low-power design steps followed for a single chip solution. The performance of the implemented dual mode direct conversion wireless terminal was tested and measured for compliance to the standards. The developed innovative terminal fulfils all the requirements and specifications imposed by the DECT and GSM standards.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:oXKBmVzQOggC",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "Indoor air quality monitoring sensors for the design of a simple, low cost, mobile e-nose for real time victim localization",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8956291/",
+            "Abstract": "An apparatus and the methodology for evaluating the suitability of selected sensors to be utilized in an electronic nose (e-nose) for human detection, is presented. Air quality monitoring sensor devices that are simple to operate, low cost and readily available were tested in an apparatus capable of preparing, storing and manipulating air samples. Suitably prepared air samples were captured and measured with the apparatus emulating the conditions anticipated in the target application, i.e the detection of humans in confined and poorly ventilates spaces during Urban Search and Rescue Operations. Currently an e-nose system that is under development, adopted the architecture finalized by the presented work, and is intended to be used during the Assessment, Search and Rescue (ASR) 4 stage of a USaR operation as part of the sensor payload of a remotely controlled robot that enters the rubble of collapsed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:fF_gHTpLxhAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Physical layer of a base-band OFDM modem: Algorithms and performance",
+            "Publication year": 2005,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218126605002489",
+            "Abstract": "The base-band section of a modem employing Orthogonal Frequency Division Multiplexing (OFDM) is described in this paper. It utilizes the necessary algorithms to combat distortion due to the channel conditions and imperfect synchronization. A model describing these distortions is used to derive the algorithms. The system is realized in a prototype platform for the HIPERLAN/2 standard, but modifications for compliance to other broadband digital broadcasting and wireless networking OFDM systems are proposed. The performance of the prototype base-band modem is described.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:Oj-SLI0tZTcC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Modeling Reactive Systems With Statecharts: The Statemate Approach Modeling Reactive Systems With Statecharts: The Statemate Approach, 1998",
+            "Publication year": 2004,
+            "Publication url": "https://ci.nii.ac.jp/naid/10013433985/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\u6587\u732e \n\u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u306e\u30b5\u30fc\u30d3\u30b9\u306b\u95a2\u3059\u308b\u30a2\u30f3\u30b1\u30fc\u30c8\u3092\u5b9f\u65bd\u4e2d\u3067\u3059\uff0811/11(\u6c34\n)-12/23(\u6c34)\uff09 <no title> HAREL D. \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 HAREL D. \u53ce\u9332\u520a\u884c\u7269 Modeling Reactive \nSystems With Statecharts : The Statemate Approach Modeling Reactive Systems With \nStatecharts : The Statemate Approach, 1998 \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 Rapid Prototyping \nof a Wireless LAN Implementation Using a UML-Based System Design Methodology \nDROSOS Christos , METAFAS Dimitris , BLIONAS Spyridon , PAPADOPOULOS George IEICE \ntransactions on information and systems 87(8), 2058-2069, 2004-08-01 \u53c2\u8003\u6587\u732e16\u4ef6 CiNii\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:mgoTDWlsYNUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Power Optimization Methodology for Multimedia Applications Implementation on Reconfigurable",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16341242206290504425&hl=en&oi=scholarr",
+            "Abstract": "A methodology for the power-efficient implementation of multime-dia kernels based on reconfigurable hardware (FPGA) is introduced. The meth-odology combines various types of algorithmic transformations and high-level memory hierarchy exploration with register-transfer level design and imple-mentation. An FPGA with an external memory was used for obtaining experi-mental results which prove the viability of the methodology. Comparisons among implementations with and without this optimization, prove that great power efficiency is achieved.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:uWy0R8PweswC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Implementation Strategy and Results of an Energy-Aware System-on-Chip for 5 GHz WLAN Applications",
+            "Publication year": 2006,
+            "Publication url": "https://www.ingentaconnect.com/contentone/asp/jolpe/2006/00000002/00000001/art00004",
+            "Abstract": "In this paper we present the implementation strategy and results of an energy-aware system-on-chip (SoC) that covers the baseband processing as well as the medium access control and data link control functionalities of a 5 GHz wireless system. It is compliant with the HIPERLAN/2 standard, but it also implements critical functionality of the IEEE 802.11a standard. Two embedded processor cores, dedicated hardware, on-chip memory elements, as well as advanced bus architectures and peripheral interfaces were carefully combined and optimized for the targeted application, resulting in a proper trade-off of silicon area, flexibility and power consumption. A system-level low-power design methodology has been used, due to the fact that power consumption is the most critical parameter in electronic portable system design. The 17.5 million-transistor solution was implemented in a 0.18 micron CMOS process and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:dMpQl7XwOw4C",
+            "Publisher": "American Scientific Publishers"
+        },
+        {
+            "Title": "A Flexible/Scalable IoT Server Node testbed, from Gateway to Edge Computing. A Smart Home Use Case",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8956284/",
+            "Abstract": "This paper presents the approach for the design, implementation and testing of a low cost open technology flexible and scalable IoT Server Node. This node may be capable of supporting a variety of communication and protocol standards and it is also expandable in means of both storage requirements and processing power. The proposed IoT Server Node is based on a raspberry Pi board and additional communication boards. It is demonstrated with ZigBee IoT nodes based on Arduino board, controlled by an Android application.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:1Aeql8wG3wEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low Power Issues in Processors and Multimedia-Power Optimization Methodology for Multimedia Applications Implementation on Reconfigurable Platforms",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9568593877498593012&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:QeguYG95ZbAC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Prototyping of a 5 GHz WLAN reconfigurable system-on-chip",
+            "Publication year": 2003,
+            "Publication url": "https://search.ieice.org/bin/summary.php?id=e86-d_5_891",
+            "Abstract": "In this paper the development of the prototyping platform of a partly reconfigurable System-on-Chip (SoC) for wireless LANs, is described. It is designed to realize both HIPERLAN/2 and IEEE 802.11a wireless LAN systems. The current version of the system includes Mobile Terminal and AP functionality only for indoor use. Future firmware versions (configurations for its reconfigurable part) will upgrade system's functionality to allow its operation in outdoor environments and in wireless point-to-point links. The target System-on-Chip implementation platform will include instruction set processor cores, ASIC blocks and embedded reconfigurable blocks to achieve an optimal balance between implementation efficiency (area, power, performance) and flexibility. The system's prototype is developed on the ARM integrator platform and all firmware versions will be verified before ASIC prototyping.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:qSd0DAb9jMoC",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "A multi-level validation methodology for wireless network applications",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30205-6_35",
+            "Abstract": "This paper presents the validation methodology established and ap-plied during the development of a wireless LAN application. The target of the development is the implementation of the hardware physical layer of the HIPERLAN/2 wireless LAN protocol and its interface with the upper layers. The implementation of the physical layer (modem) has been validated in two different levels. First, at the functional level, the modem was validated by a high-level UML model. Then, at the implementation level, a new validation framework drives the validation procedure at three different sub-levels of de-sign abstraction (numerical representation, VHDL coding, FPGA-based proto-typing). Using this validation methodology, the prototype of the HIPERLAN/2 modem has been designed and validated successfully.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:KsTgnNRry18C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Low-power system-on-chip architecture for wireless LANs",
+            "Publication year": 2004,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/ip-cdt_20030978",
+            "Abstract": "The authors present the architecture of a low-power system-on-chip (SoC) that implements baseband processing as well as the medium access control and data link control functionalities of a 5\u2009GHz wireless system. The design is based on the HIPERLAN/2 wireless LAN standard, but it also covers critical processing requirements of the IEEE 802.11a standard. The options, constraints and motivations for the taken design decisions are presented, and the followed design steps, starting from the system specifications up to the architecture definition and the system implementation, are explained. The system's functionality covers both mobile terminal and access point devices. A critical design task in such systems is the assignment of the target system's tasks on the different types of processing elements available. Processor cores, dedicated hardware as well as memory elements and advanced bus architectures are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:BFa5h04uPMwC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "FPGA implementation of an MLSE equalizer in 10Gb/s optical links",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7251985/",
+            "Abstract": "In this paper, an FPGA implementation of a Maximum Likelihood Sequence Estimator (MLSE) is proposed, in the context of Intensity Modulated Direct Detection optical communications links operating at 10Gb/s, when non-return to zero on-off keyed transmission is employed. A forward processing, sliding window systolic architecture is adopted for the implementation of the Viterbi algorithm (VA), used for the efficient computation of the sequence detection in the MLSE approach. The proposed VA architecture is implemented using synthesisable VHDL code. VA decoders of up to 32 states operating at the rate of 10Gb/s can be accommodated, when the targeted hardware is the Xilinx Virtex 7 XC7VX690T-2 FPGA chip. A peak processing rate of 56Gb/s is achieved for a 4 states VA decoder.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:KqW5X_olkfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FPGA-based machine vision implementation for Lab-on-Chip flow detection",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6271683/",
+            "Abstract": "This paper presents an FPGA-based machine vision implementation for flow detection on Lab-on-Chip (LoC) experiments. The proposed machine vision system is designed to provide real-time information to the LoC user about the state of the flows (flow coordinates and points of interest) as well as input to the LoC controller. It is uniquely designed to compensate noise in the input video originating from non ideal lighting conditions or LoC movement. This machine vision implementation achieves real time response for input videos of 1Mpixel resolution and frame-rates exceeding 60fps for microfluidic flows with a maximum speed of 20mm/sec.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:gkldIfsazJcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Alternative direct digital frequency synthesizer architectures with reduced memory size",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1205892/",
+            "Abstract": "The overall operation of a Direct Digital Frequency Synthesizer (DDFS) is based on a look up table method, which performs functional mapping from phase to sine amplitude. The spectral purity of the conventional DDFS is determined by the resolution of the values stored in the sine table ROM. However, large ROM storage means higher power consumption, lower reliability, lower speed and increased costs. The novel design and implementation of a DDFS, with reduced memory size, is introduced. Using new technique, the resulting architecture can be realized by smaller number of gates (i.e. less hardware complexity) than existing ones. Describing the proposed architecture, with the hardware description language VHDL, we can generate plethora of alternative realizations in terms of the number of inputs and output bits, the memory size, the number of gates, the memory segmentation parameters, and the spectral \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:h1pkognVyKwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Competitive technology approaches for Electronic Hybridisation Detection in a microsystem with microfluidics for diagnosis genetic tests",
+            "Publication year": 2006,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.ieee-art-000004462703",
+            "Abstract": "This paper is presenting competitive technology alternatives for the electronic hybridization detection in a microsystem with microfluidics for diagnosis genetic tests that are carried out by two competitive research projects. The technologies developed are a photosensor, a capacitive sensor and an optical real-time affinity biosensor. The performance of those biosensors will be evaluated but also their manufacturability and cost will define the appropriateness of each one for industrialization and their integration on a microsystem for diagnosis genetic testing",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:PklR0melJeUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Xilinx Application Note XAPP290 (v1. 0): Virtex, Virtex-E, Virtex-II, Virtex-II Pro Families, Two Flows for Partial Reconfiguration: Module Based or Small Bit Manipulations Xilinx Application Note XAPP290 (v1. 0): Virtex, Virtex-E, Virtex-II, Virtex-II Pro Families, Two Flows for Partial Reconfiguration: Module Based or Small Bit Manipulations, 2002",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10010778441/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\n\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u7a93\u53e3\u696d\u52d9\u306e\u518d\u958b\u306b\u3064\u3044\u3066 <no title> \u88ab\u5f15\u7528\u6587\u732e: \n1\u4ef6 \u8457\u8005 \u53ce\u9332\u520a\u884c\u7269 Xilinx Application Note XAPP290 (v1. 0): Virtex, Virtex-E, Virtex-II, Virtex-II \nPro Families, Two Flows for Partial Reconfiguration: Module Based or Small Bit Manipulations \nXilinx Application Note XAPP290 (v1. 0): Virtex, Virtex-E, Virtex-II, Virtex-II Pro Families, Two \nFlows for Partial Reconfiguration: Module Based or Small Bit Manipulations, 2002 \u88ab\u5f15\u7528\u6587\u732e: \n1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 Prototyping of a 5GHz WLAN Reconfigurable System-on-Chip BLIONAS \nSpyridon , MASSELOS Konstantinos , DRE Chrissavgi , DROSOS Christos , , , , , , , (5\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:e0LTWoPxLYMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A reusable IP FFT core for DSP applications",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1328823/",
+            "Abstract": "In this paper, reusable intellectual property cores for the efficient implementation of digital signal processing (DSP) applications such as wireless LAN are presented. More specifically, a split-radix FFT algorithm implementation architecture, whose applicability for these communication systems has been proven, was designed using reusable VHDL. Four different implementations of the split-radix butterfly element are presented. These different butterfly elements allow tradeoffs between performance, power consumption and hardware complexity. Finally, for demonstration purpose, comparison results of split-radix and radix-4 implementations on Virtex and Virtex-II devices are also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:kvJssbFybhEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hardware-software design and validation framework for wireless LAN modems",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/document/1304178/",
+            "Abstract": "The implementation and validation of a 5-GHz wireless LAN modem based on the HIPERLAN/2 standard is presented. In modern wireless communication systems, there is a demand for higher flexibility and more computational efficiency. Therefore the emphasis of this work is on the hardware-software structure of the developed modem and its processes, in order to offer a good balance of these requirements. In order to efficiently design and validate the behaviour of the modem, a behavioural model was developed in UML (Unified Modelling Language) as a part of the overall HIPERLAN/2 system's model. The processes of the modem were implemented in an instruction-set processor and custom hardware, combining the advantages of both software and hardware implementations. The communication between the software and hardware parts of the modem is achieved through a specialised programmable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:g30IDTdgJMgC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Life, Liberty and WLANs: Wireless Networking Brings Freedom to the Enterprise Life, Liberty and WLANs: Wireless Networking Brings Freedom to the Enterprise, 2001",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10010778438/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\u6587\u732e \n\u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u7a93\u53e3\u696d\u52d9\u306e\u518d\u958b\u306b\u3064\u3044\u3066 <no title> Cahners-In-Stat \u88ab\n\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 Cahners-In-Stat \u53ce\u9332\u520a\u884c\u7269 Life, Liberty and WLANs: Wireless Networking \nBrings Freedom to the Enterprise Life, Liberty and WLANs: Wireless Networking Brings \nFreedom to the Enterprise, 2001 \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 Prototyping of a 5GHz \nWLAN Reconfigurable System-on-Chip BLIONAS Spyridon , MASSELOS Konstantinos , DRE \nChrissavgi , DROSOS Christos , IEROMNIMON Fragkiskos , METAFAS Dimitris , PAGONIS \nThanasis , PNEVMATIKAKIS Aristodemos , TATSAKI Anna , TRIMIS Theodor , VONTZALIDIS \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:bbjcffOLshcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Energy-aware system-on-chip for 5 GHz wireless LANs",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11556930_18",
+            "Abstract": "This paper presents the realization of an energy-aware system-on-chip that implements the baseband processing as well as the medium access control and data link control functionalities of a 5 GHz wireless system. It is compliant with the HIPERLAN/2 standard, but it also covers critical functionality of the IEEE 802.11a standard. Two embedded processor cores, dedicated hardware, on-chip memory elements, as well as advanced bus architectures and peripheral inter-faces were carefully combined and optimized for the targeted application, leading to a proper trade-off of silicon area, flexibility and power consumption. A system-level low-power design methodology has been used, due to the fact that power consumption is the most critical parameter in electronic portable system design. The 17.5 million-transistor solution was implemented in a 0.18 \u03bcm CMOS pro-cess and performs baseband processing at \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:SPgmg5JLkoEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Instruction level energy modeling for pipelined processors",
+            "Publication year": 2005,
+            "Publication url": "https://content.iospress.com/articles/journal-of-embedded-computing/jec00035",
+            "Abstract": "A new method for creating instruction level energy models for pipelined processors is introduced. This method is based on measuring the instantaneous current drawn by the processor during the execution of the instructions. An appropriate instrumentation set up was established for this purpose. According to the proposed method the energy costs (base and inter-instruction costs) are modeled in relation to a reference instruction (eg NOP). These costs incorporate inter-cycle energy components, which cancel each other when they are summed to produce the energy consumption of a program resulting in estimates with high accuracy. This is confirmed by the results. Also the dependencies of the energy consumption on the instruction parameters (eg operands, addresses) are studied and modeled in an efficient way.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:U3qCfcK-7lkC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "The low power analogue and digital baseband processing parts of a novel multimode DECT/GSM/DCS1800 terminal",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0026269204000205",
+            "Abstract": "In order to support a multimode DECT/GSM/DCS1800 terminal architecture, with low power characteristics and integrated support for direct conversion terminal architecture, the critical parts of such a terminal were designed and implemented using three different chips. These parts include a baseband processor, a modem and suitable analogue parts. The baseband processor was designed to support multimode operation, all baseband processing required and different terminal architectures (heterodyne or direct conversion). The modem features a GMSK/GFSK modulator and a novel, low power detection algorithm supports a direct conversion terminal. The analogue circuitry includes analogue filters and Digital-to-Analog and Analog-to-Digital converters. The architecture of the direct conversion wireless terminal is presented along with details on the low power characteristics of the processor and the modem \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:3_f9JqYsqVQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "OFDM for Mobile Multimedia Communications OFDM for Mobile Multimedia Communications, 1999",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10010778430/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\n\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u7a93\u53e3\u696d\u52d9\u306e\u518d\u958b\u306b\u3064\u3044\u3066 <no title> VAN NEE R. \n\u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 VAN NEE R. \u53ce\u9332\u520a\u884c\u7269 OFDM for Mobile Multimedia Communications \nOFDM for Mobile Multimedia Communications, 1999 Artech House \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \n\u8868\u793a 1 Prototyping of a 5GHz WLAN Reconfigurable System-on-Chip BLIONAS Spyridon , \nMASSELOS Konstantinos , DRE Chrissavgi , DROSOS Christos , IEROMNIMON Fragkiskos \n, METAFAS Dimitris , PAGONIS Thanasis , PNEVMATIKAKIS Aristodemos , TATSAKI Anna , \nTRIMIS Theodor , VONTZALIDIS Adamandios IEICE transactions on information and 86(5), -/\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:SgM-ki2adj0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Wind and Temperature Effect on the Performance of a Mobile e-nose platform for Real Time Victim Localization",
+            "Publication year": 2021,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1742-6596/1730/1/012121/meta",
+            "Abstract": "In this paper it is presented the influence of weather conditions on the performance of the sensors of a mobile e-nose system that measures the atmospheric air, gas components' concentrations (actually CO 2 and O 2), into a rubble void, where humans are entrapped, after a disastrous event that caused the collapsing of a building/construction. In this case, the entrapped humans in the void, they affect the air composition and temperature into the void. Additionally to the human (s) created CO 2 source (s), O 2 sink (s), and heat source (s)(from body temperature), rubble openings (possibly too many), create sources of fresh atmospheric air and sinks for letting the air from the inside of the cavity to go out of it and vice-versa. The existence of the aforementioned sources/sinks constantly affect the air composition and temperature into the void and makes gas components' concentrations dynamic rather than static. There \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:oYwriLWYh5YC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "On the implementation of a baseband processor for a portable dual mode DECT/GSM terminal",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/922240/",
+            "Abstract": "For the implementation of a multi-mode DECT/GSM wireless terminal, a dual mode baseband processor, namely ASPIS processor, capable to undertake all baseband signal processing required is designed and fabricated. The multi-mode wireless terminal is based on direct conversion architecture. Experimental results from the operation of ASPIS processor and performance analysis of the selected architecture, under two different testing environments, are promising and quite satisfactory.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:IExZWSxeYXUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A MCM-L BOARD FOR THE BASEBAND PROCESSOR OF A DUAL MODE WIRELESS TERMINAL",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812810861_0064",
+            "Abstract": "An advanced System-On-A-Chip (SoC) design, capable to undertake all baseband signal processing, is presented is this paper. The development and design aspects of an innovative baseband processor, namely the ASPIS processor, for a dual mode DECT/DCS-1800 wireless terminal are covered in the first part of this paper. The architecture of the system and all the hardware design techniques, testing and software development methodologies are given in details. The second part of this paper concerns the fabrication of this SoC design and the technology used for the building of a MCM-L board that incorporates this baseband processor and its whole memory sub-system.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:qCaWouos7ogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Competitive technology approaches for electronic hybridisation detection in a microsystem with microfluidics for diagnosis genetic tests",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4462703/",
+            "Abstract": "This paper is presenting competitive technology alternatives for the electronic hybridization detection in a microsystem with microfluidics for diagnosis genetic tests that are carried out by two competitive research projects. The technologies developed are a photosensor, a capacitive sensor and an optical real-time affinity biosensor. The performance of those biosensors will be evaluated but also their manufacturability and cost will define the appropriateness of each one for industrialization and their integration on a microsystem for diagnosis genetic testing",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:DUFsPKDdMi0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A low cost, mobile e-nose system with an effective user interface for real time victim localization and hazard detection in USaR operations",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2665917421000118",
+            "Abstract": "An e-nose system for Urban Search and Rescue operations is presented. The tool's purpose is the detection of trapped victims in building rubble and air related hazards when entering confined and poorly ventilated spaces. The e-nose system presented here is intended to be used during the Assessment, Search and Rescue (ASR) level 4 of a USaR operation and is part of the sensor payload of a remotely controlled robot that enters collapsed building structures. The system is tested in realistic conditions to verify its functionality. The system includes a user interface to present the findings in a simple and concise manner and aid in the execution of a search. End-users were included in the requirements phase of the research/design and in its final validation in realistic conditions. A heuristic algorithm/logic is programmed to generate the simplified output based on the sensor's readings.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:9CGX2owmTHMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Integrated system for the visual control, quantitative and qualitative flow measurement in microfluidics",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=755301652476512271&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:QtA78RmWg5MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Expected Performance of a Mobile e-nose platform for Real Time Victim Localization",
+            "Publication year": 2021,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1742-6596/1730/1/012120/meta",
+            "Abstract": "In this paper it is presented an analysis for the performance of the sensors of a mobile e-nose system that measures the atmospheric air, gas components' concentrations (actually CO 2 and O 2), into a rubble void, where humans are entrapped, after a disastrous event that caused the collapsing of a building/construction. In this case, the entrapped humans in the void, they affect the air composition and temperature into the void. The existence of human (s) creates CO 2 source (s), O 2 sink (s), and heat source (s) as well (from body temperature). The existence of the entrapped humans constantly affect the air composition and temperature into the void and makes gas components' concentrations dynamic. There will be presented the human CO 2 source (s), and O 2 sink (s) inside a cavity. The final goal is to estimate the concentrations of CO 2 and O 2 into the cavity as a function of time, having as parameters the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:-fu4zM_6qcIC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "VLSI Design and Testing Center, Dept. of Elec. & Comp. Eng., Democritus University of",
+            "Publication year": 2001,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=X21qDQAAQBAJ&oi=fnd&pg=PA309&dq=info:lHTQ1OzocSsJ:scholar.google.com&ots=Bi8oNbnhAe&sig=kJIb4OWM3XhFxjYLUKr1BbAC5Zk",
+            "Abstract": "In the last few years, there is a continuously growing demand for wireless terminals, integrating sophisticated multi-service applications. The achievements of the modern digital design technology make possible the idea of a mobile terminal that can operate and support different communications protocols, such as DECT and",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:koF6b02d8EEC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "ON THE DESIGN OF A LOW POWER MODULATOR/DEMODULATOR FOR DECT/GSM",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812810861_0068",
+            "Abstract": "Recent advances in electronic technology and integration coupled with increasing needs for more services in portable communications favors the development of high performance dual-mode terminals. Here, we present the complete architecture and implementation of a novel GMSK/GFSK modulator/demodulator design. The main features of the modulator/demodulator, the methodologies that were followed and the design techniques used are described. The whole architecture of the modulator/demodulator was described in VHDL and then synthesized and implemented in Xilinx environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:nroGzMJTTpEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of silicon and polymer substrates for fabrication of integrated microfluidic microsystems for dna extraction and amplification",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4462298/",
+            "Abstract": "This paper is presenting two different alternatives for the DNA extraction and amplification that will be carried out by two competitive research projects developing bioanalytical microsystems with microfluidics. The first project will develop the microfluidics part on polymer material and the other one on silicon. The polymer approach is currently under development based on a modular microfluidic architecture aimed to simplify the process of designing and building such a microsystem device. A silicon alternative is about to start and is expected to decrease packaging costs of the microsystem allowing future manufacturability of the device",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:9tXw7Op4-u0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Architecture of a modular, multichannel readout system for dense electrochemical biosensor microarrays",
+            "Publication year": 2014,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0957-0233/26/1/015701/meta",
+            "Abstract": "The architecture of a modular, multichannel readout system for dense electrochemical microarrays, targeting Lab-on-a-Chip applications, is presented. This approach promotes efficient component reusability through a hybrid multiplexing methodology, maintaining high levels of sampling performance and accuracy. Two readout modes are offered, which can be dynamically interchanged following signal profiling, to cater for both rapid signal transitions and weak current responses. Additionally, functional extensions to the described architecture are discussed, which provide the system with multi-biasing capabilities. A prototype integrated circuit of the proposed architecture's analog core and a supporting board were implemented to verify the working principles. The system was evaluated using standard loads, as well as electrochemical sensor arrays. Through a range of operating conditions and loads, the prototype \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:F9HO9s0W2bwC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Instruction level energy modeling for pipelined processors",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-39762-5_34",
+            "Abstract": "A new method for creating instruction level energy models for pipelined processors is introduced. This method is based on measuring the instantaneous current drawn by the processor during the execution of the instructions. An appropriate instrumentation set up was established for this purpose. According to the proposed method the energy costs (base and inter-instruction costs) are modeled in relation to a reference instruction (e.g. NOP). These costs incorporate inter-cycle energy components, which cancel each other when they are summed to produce the energy consumption of a program resulting in estimates with high accuracy. This is confirmed by the results. Also the dependencies of the energy consumption on the instruction parameters (e.g. operands, addresses) are studied and modeled in an efficient way.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:1_W9tMSvGuwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Broadband Radio Access Networks (BRAN); HIPERLAN type 2; Physical (PHY) layer Broadband Radio Access Networks (BRAN); HIPERLAN type 2; Physical (PHY) layer, 2000",
+            "Publication year": 2003,
+            "Publication url": "https://ci.nii.ac.jp/naid/10010778429/",
+            "Abstract": "CiNii \u8ad6\u6587 - <no title> CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \n\u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \n\u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\u6587\u732e \n\u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 CiNii\u7a93\u53e3\u696d\u52d9\u306e\u518d\u958b\u306b\u3064\u3044\u3066 <no title> ETSI \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \n\u8457\u8005 ETSI \u53ce\u9332\u520a\u884c\u7269 Broadband Radio Access Networks (BRAN); HIPERLAN type 2; Physical \n(PHY) layer Broadband Radio Access Networks (BRAN); HIPERLAN type 2; Physical (PHY) \nlayer, 2000 \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 Prototyping of a 5GHz WLAN Reconfigurable \nSystem-on-Chip BLIONAS Spyridon , MASSELOS Konstantinos , DRE Chrissavgi , DROSOS \nChristos , IEROMNIMON Fragkiskos , METAFAS Dimitris , PAGONIS Thanasis , \nPNEVMATIKAKIS Aristodemos , TATSAKI Anna , TRIMIS Theodor , VONTZALIDIS IEICE on 86\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:wlzmIqt2EaEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scalable low cost architecture for analysis of Lab-on-Chip data",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5724574/",
+            "Abstract": "This paper presents an architecture of the data processing (analysis) part, of a Lab-on-Chip (LoC) device. The LoC is a heterogeneous device accommodating mechanical, microsystems and electronics sections. Biological reactions are performed in the microfluidics part of the device, then the biological process results are detected by the Microsystems part and finally the electronics section handles the readout and the data processing for presenting the results to the final user for decision making. The micro-system part is an array of sensors for hybridization electronic detection; the readout is a mixed digital-analogue circuitry for converting the sensors measurements to digital data and the processing part for the data analysis may be an efficient hardware architecture for processing the data in real-time. LoCs are used for molecular Diagnostics or Pharmacogenomics applications, identifying the existence of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:dhpJJ7xvgBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Architecture design of a reconfigurable multiplier for flexible coarse-grain implementations",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46117-5_105",
+            "Abstract": "A run-time reconfiguable array of multipliers architecture is introduced. The novel multiplier can be easily reconfigured to trade bitwidth for array size, thus maximizing the utilization of available hardware, multiply signed or unsigned data, and uses part of its structure when needed. The proposed reconfigurable circuit consists of an array of m\u00d7m multipliers, a few arrays of adders each adding three numbers, and switches. Also small blocks for the implementation of the reconfiguration capabilities, mentioned above, consist of adders, multiplexers, inverters, coders and registers. The circuit reconfiguration can be done dynamically through using only a few control bits. The architecture design of the reconfigurable multiplier, with hardware equivalent to one 64\u00d764 bit high precision multiplier, which can be dynamically reconfigured to produce an array of the products in different forms is described in detailed manner.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:FQ36aI_S1AEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An analysis on the performance of a mobile platform with gas sensors for real time victim localization",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/1424-8220/21/6/2018",
+            "Abstract": "This work concerns the performance analysis of the sensors contained in a victim detection system. The system is a mobile platform with gas sensors utilized for real time victim localization in urban environments after a disaster has caused the entrapment of people in partially collapsed building structures. The operating principle of the platform is the sampling of air from potential survival spaces (voids) and the measurement of the sampled air\u2019s temperature and concentration of CO 2 and O 2. Humans in a survival space are modelled as sources of CO 2 and heat and sinks of O 2. The physical openings of a survival space are modelled as sources of fresh air and sinks of the internal air. These sources and sinks dynamically affect the monitored properties of the air inside a survival space. In this paper, the effects of fresh air sources and internal air sinks are first examined in relation to local weather conditions. Then, the effect of human sources of CO 2 and sinks of O 2 in the space are examined. A model is formulated in order to reliably estimate the concentration of CO 2 and O 2 as a function of time for given reasonable entrapment scenarios. The input parameters are the local weather conditions, the openings of the survival space, and the number and type of entrapped humans. Three different tests successfully verified the presented theoretical estimations. A detection system with gas sensors of specified or measured capabilities, by utilizing this model and based on the expected concentrations, may inform the operator of the minimum required presence of humans in a survival space that can be detected after \u201csome time\u201d.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:DPO9WFcz7UcC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "On the integration of diverse testing strategies in a low-power processor",
+            "Publication year": 2000,
+            "Publication url": "https://ci.nii.ac.jp/naid/10011766038/",
+            "Abstract": "CiNii \u8ad6\u6587 - On the integration of diverse testing strategies in a low-power processor CiNii \u56fd\u7acb\n\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\n\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\n\u540d \u8457\u8005ID \u8457\u8005\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \n\u691c\u7d22 On the integration of diverse testing strategies in a low-power processor IEROMNIMON \nF. \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 IEROMNIMON F. \u53ce\u9332\u520a\u884c\u7269 Proc. Design Automation and Test in \nEurope (DATE), Paris Proc. Design Automation and Test in Europe (DATE), Paris, 2000 \u88ab\n\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 A Low Power Baseband Processor for a Portable Dual Mode \nDECT/GSM Terminal DROSOS Christos , DRE Chrissavgi , BLIONAS Spyridon , SOUDRIS \nDimitrios IEICE transactions on information and systems 86(10), 1976-1986, 2003-10-01 15/\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:6pF0wJmtdfAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Lab-on-Chip for Pharmacogenomics: An Embedded System Organization",
+            "Publication year": 2009,
+            "Publication url": "https://www.ingentaconnect.com/content/ben/mns/2009/00000001/00000001/0006mns",
+            "Abstract": "This paper presents the architecture of the electronic detection and data processing (analysis) part, of a Lab-on- Chip (LoC) device. The data processing part focuses on the analysis of signals captured from the sensors used to detect possible mutations in the sample under consideration. The LoC consists of a micro-fluidics part for the sample preparation and hybridization, a micro-system part including the sensors for the hybridization electronic detection and finally a processing part for the data analysis and an interface for results presentation. The use of such LoCs aims at identifying the appropriate cluster of patients for a pharmacogenomic medicine based on the gene analysis results and at optimizing the effectiveness of the drug or determining whether the affected patient belongs to a group of patients who would suffer severe side effects.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:onKP9CxGSkIC",
+            "Publisher": "Bentham Science Publishers"
+        },
+        {
+            "Title": "AMDREL: On Designing Reconfigurable Embedded Structures for the Future Reconfigurable SoC for Wireless Communication Applications.",
+            "Publication year": 2002,
+            "Publication url": "http://ikee.lib.auth.gr/record/249838/files/Nikolaidis%20et%20al.pdf",
+            "Abstract": "The objective of the AMDREL (Architectures and Methodologies for Dynamic Reconfigurable Logic) project is to develop methodologies, tools and intellectual property blocks to be integrated in a partly dynamically reconfigurable System-on-Chip (SoC) implementation platform for the efficient realization of wireless communications systems. The proposed tools, reusable intellectual property blocks and the mixed granularity reconfigurable blocks will be used for the development of systems from the wireless communication domain including critical paths of wireless LAN systems (eg HIPERLAN/2, IEEE 802.11 a).The developed blocks and tools will be integrated as a System-on-Chip. There are three types of reconfigurable hardware involved: i) coarse-grain reconfigurable hardware (ie multipliers with reconfigurable wordlength, radix etc.) with power dissipation being an important consideration, ii) fine-grain reconfigurable hardware (FPGA-like structures). Also, the tools for mapping logic to these reconfigurable blocks and iii) reconfigurable interconnect for the blocks mentioned above. AMDREL offers significant innovations in all the above areas of reconfigurable computing.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:3x-KLxxGyuUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Architecture of a consumer lab-on-chip for pharmacogenomics",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4587944/",
+            "Abstract": "This paper presents the architecture of the electronic detection and data processing (analysis) part, of a lab-on-chip (LoC) device. The LoC consists of a microfluidics part for the sample preparation and hybridization, a micro-system part including the sensors for the hybridization electronic detection and finally a processing part for the data analysis and the consumer interface for results presentation. Consumers will use such LoCs for identifying the appropriate cluster of a pharmacogenomic medicine based on the gene analysis results and optimize the effectiveness of the drug or determine whether they belong to a group of patients who would suffer severe side effects.",
+            "Abstract entirety": 1,
+            "Author pub id": "eGFLu38AAAAJ:37Fl7vPTsUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Microarchitecture of a multicore SoC for data analysis of a lab-on-chip microarray",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/content/pdf/10.1155/2008/520641.pdf",
+            "Abstract": "This paper presents a reconfigurable architecture of a lab-on-chip (LoC) microarray device capable to process data either in genotyping or in gene expression applications in a fraction of the time that is required by the usual software methods running on a standard computer. The entire LoC consists of a microfluidics part for the sample preparation and hybridization, a microsystem part including the application specific array of sensors for the electronic detection, and finally a reconfigurable processing part for the data analysis. The proposed data processing and analysis electronic module are an embedded multicore reconfigurable system-on-chip designed to analyze data from the forthcoming high-density oligonucleotide microarrays. The proposed architecture employs reconfigurable technology and has the capacity to process data from microarrays of various sizes from small size ones used in genotyping \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "eGFLu38AAAAJ:jq04SsiGh3QC",
+            "Publisher": "Springer International Publishing"
+        }
+    ]
+}]

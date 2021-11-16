@@ -1,0 +1,1111 @@
+[{
+    "name": "\u0391\u03b9\u03ba\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b7 \u039c\u03b1\u03bd\u03b9\u03ac",
+    "romanize name": "Aikaterini Mania",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u039c\u03b7\u03c7 \u03ba\u03b1\u03b9 \u039c\u03b7\u03c7 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "tuc",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 10330,
+    "Scholar name": "Katerina Mania",
+    "Scholar id": "fq9RjXsAAAAJ",
+    "Affiliation": "Professor of Computer Science (HCI and VEs), Technical University of Crete",
+    "Citedby": 1982,
+    "Interests": [
+        "Perceptually-based rendering",
+        "Attention-aware graphics",
+        "Simulation engineering",
+        "VR/Augmented Reality",
+        "Human Computer Interaction"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=fq9RjXsAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Assessing functional realism",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1186954.1187073",
+            "Abstract": "This research presents an innovative method for assessing'functional realism'of interactive Virtual Environments (VEs) in which the same information is transmitted in real and synthetic scenes. The basic premise is that an individual's prior experience will influence how one perceives, comprehends and remembers information in a scene. 120 participants across two conditions of varying rendering quality of a space including varied ratios of objects' association to the scene context, are being exposed to the VE and complete an object-based memory recognition task. The results of this study could have significant implications while identifying areas of an interactive computer graphics scene that require varying quality of rendering.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Near\u2010eye display and tracking technologies for virtual and augmented reality",
+            "Publication year": 2019,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13654",
+            "Abstract": "Virtual and augmented reality (VR/AR) are expected to revolutionise entertainment, healthcare, communication and the manufacturing industries among many others. Near\u2010eye displays are an enabling vessel for VR/AR applications, which have to tackle many challenges related to ergonomics, comfort, visual quality and natural interaction. These challenges are related to the core elements of these near\u2010eye display hardware and tracking technologies. In this state\u2010of\u2010the\u2010art report, we investigate the background theory of perception and vision as well as the latest advancements in display engineering and tracking technologies. We begin our discussion by describing the basics of light and image formation. Later, we recount principles of visual perception by relating to the human visual system. We provide two structured overviews on state\u2010of\u2010the\u2010art near\u2010eye display and tracking technologies involved in such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Usability evaluation of virtual museums\u2019 interfaces visualization technologies",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-07464-1_12",
+            "Abstract": "This paper reports on a user-centered formative usability evaluation of diverse visualization technologies used in Virtual Museums. It initially presents the selection criteria and the five museum websites involved in the analysis. Then, it describes the evaluation process, in which a group of subjects explored the museums\u2019 on-line resources and answered in two usability questions concerning overall reaction to the website and the subjective satisfaction of the users. After user testing, quantitative and qualitative data have been collected and statistically analysed. However, much research remains to be done on future research in terms of larger sample, different methodologies and varied contexts.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:f2IySw72cVMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Memory for objects in virtual environments",
+            "Publication year": 2007,
+            "Publication url": "https://jov.arvojournals.org/article.aspx?articleid=2134789",
+            "Abstract": "Schema theory proposes that memory for objects in scenes depends on the degree to which the objects appear to belong to a particular scene (consistent objects) or not (inconsistent objects). However, the degree to which an object will be consistent with a scene is likely to depend on whether the perception of the scene is itself consistent with our previous experience. Thus, for example, if a familiar scene is presented in an unfamiliar manner, the effect of object consistency on memory is likely to change. We wished to see whether this kind of effect can be used to investigate the degree to which a virtual environment (VE) is perceived as \u201cnormal\u201d, ie consistent with our usual experience of similar environments, or \u201cabnormal\u201d, ie markedly different from our previous experience. Two initial studies measured the effect of rendering quality on memory for consistent and inconsistent objects in conditions of varying quality of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "The Association for Research in Vision and Ophthalmology"
+        },
+        {
+            "Title": "Using WebGL to design an interactive 3D platform for the main monuments of crete",
+            "Publication year": 2012,
+            "Publication url": "https://www.researchgate.net/profile/Panagiotis-Parthenios/publication/266911189_USING_WEBGL_TO_DESIGN_AN_INTERACTIVE_3D_PLATFORM_FOR_THE_MAIN_MONUMENTS_OF_CRETE/links/543ec3430cf21c84f23cb35f/USING-WEBGL-TO-DESIGN-AN-INTERACTIVE-3D-PLATFORM-FOR-THE-MAIN-MONUMENTS-OF-CRETE.pdf",
+            "Abstract": "Conceptualisation of information allows improved visualisation and manipulation of large amounts of data. Especially in digitisation of cultural heritage and when aiming at presenting more than one monuments, abstraction of information becomes the key solution. Our proposed application aims to present the main archaeological monuments of Crete through a conceptual 3D model and their evolution through time. The technical implementation is based on WebGL allowing the user to navigate among the main monuments and approach them gradually and interactively through different levels of detail. Furthermore, the ability to switch between the seven historical periods offers a comparative study of their evolution in time. Conceptualisation and abstraction of information through varied levels of detail allows the application to be available to anyone on the web, being computationally light and easy to use.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fidelity metrics for virtual environment simulations based on spatial memory awareness states",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6790800/",
+            "Abstract": "This paper describes a methodology based on human judgments of memory awareness states for assessing the simulation fidelity of a virtual environment (VE) in relation to its real scene counterpart. To demonstrate the distinction between task performance-based approaches and additional human evaluation of cognitive awareness states, a photorealistic VE was created. Resulting scenes displayed on a head-mounted display (HMD) with or without head tracking and desktop monitor were then compared to the real-world task situation they represented, investigating spatial memory after exposure. Participants described how they completed their spatial recollections by selecting one of four choices of awareness states after retrieval in an initial test and a retention test a week after exposure to the environment. These reflected the level of visual mental imagery involved during retrieval, the familiarity of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "MIT Press"
+        },
+        {
+            "Title": "Simulation fidelity metrics for virtual environments based on memory semantics",
+            "Publication year": 2001,
+            "Publication url": "https://research-information.bris.ac.uk/en/publications/simulation-fidelity-metrics-for-virtual-environments-based-on-mem",
+            "Abstract": "Simulation fidelity metrics for virtual environments based on memory semantics \u2014 University of \nBristol Skip to main navigation Skip to search Skip to main content University of Bristol Logo \nHelp & Terms of Use Home Profiles Research Units Research Outputs Projects Student theses \nDatasets Activities Prizes Facilities/Equipment Search by expertise, name or affiliation \nSimulation fidelity metrics for virtual environments based on memory semantics K Mania, A \nChalmers, RJ Hawkes, TS Troscianko Department of Computer Science School of Psychological \nScience Research output: Chapter in Book/Report/Conference proceeding \u203a Conference \nContribution (Conference Proceeding) Overview Translated title of the contribution Simulation \nfidelity metrics for virtual environments based on memory semantics Original language English \nTitle of host publication Technical sketch, Proc of ACM SIGGRAPH 2001 Pages 258 - 258 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effect of quality of rendering on user lighting impressions and presence in virtual environments",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1044588.1044629",
+            "Abstract": "A between groups experiment was carried out to explore the effect of rendering quality on subjective impressions of illumination and perceived presence after exposure to a Virtual Environment (VE). The computer graphics scenes were rendered in varied levels of shadow accuracy utilising flat-shaded and radiosity rendering and were displayed on a stereo, head tracked Head Mounted Display (HMD). A total of 36 participants were exposed to each experimental visual condition and after completing a spatial task, they were given two questionnaires: A presence questionnaire and a questionnaire investigating subjective responses to lighting. Relevant results show a positive correlation between presence and subjective impressions of lighting (eg'warm','comfortable','spacious', etc.) associated to the high-quality, full-shadow accuracy rendering condition. How real-world responses for both presence and lighting \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D reconstruction and visualization of alternatives for restoration of historic buildings: A new approach",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7512211/",
+            "Abstract": "This paper puts forward a 3D reconstruction methodology applied to the restoration of historic buildings taking advantage of the combined speed, range and accuracy of a total geodetic station. The measurements of geo-referenced points produced a fully interactive and photorealistic geometric mesh of an historic monument named `Neoria'. `Neoria' is a Venetian building located by the old harbour at Chania, Crete, Greece. The integration of tacheometry acquisition and computer graphics puts forward a novel integrated software framework for the accurate 3D reconstruction of a historical building. The main technical challenge of this work was the production of an accurate 3D mesh based on a sufficient number of tacheometry measurements acquired fast and at low-cost. Interpolation methods ensured that a detailed geometric mesh was constructed based on a few points. Advanced interactive functionalities are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Gamified platform for rehabilitation after total knee replacement surgery employing low cost and portable inertial measurement sensor node",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-018-6572-6",
+            "Abstract": "This paper introduces an innovative gamified rehabilitation platform comprising of a mobile game and a custom sensor placed on the knee, intended for patients that have undergone Total Knee Replacement surgery, in collaboration with the General Hospital in Chania. Initial testing of the system is conducted in the Hospital Orthopaedic Clinic, in collaboration with Orthopeadic Surgeons and Physiotherapists. The application uses a single custom-made, light, portable and low-cost sensor node consisting of an Inertial Measurement Unit (IMU) attached on a lower limb in order to capture its orientation in space in real-time, while the patient is completing a physiotherapy protocol. The aim is to increase patient engagement during physiotherapy by motivating the user to participate in a game. The proposed sensor node attached on the lower limb provides input to the gamified experience displayed on an Android \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "The effect of memory schemas on object recognition in virtual environments",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6790530/",
+            "Abstract": "Prior theoretical work on memory schemas, an influential concept of memory from the field of cognitive psychology, is presented for application to fidelity of computer graphics simulations. The basic assumption is that an individual's prior experience will influence how he or she perceives, comprehends, and remembers new information in a scene. Schemas are knowledge structures; a scene could incorporate objects that fit into a specific context or schema (e.g., an academic's office) referred to as  consistent  objects. A scene could also include objects that are not related to the schema in place referred to as  inconsistent  objects. In this paper, we describe ongoing development of a rendering framework related to scene perception based on schemas. An experiment was carried out to explore the effect of object type and rendering quality on object memory recognition in a room. The computer graphics simulation was \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "MIT Press"
+        },
+        {
+            "Title": "Perceptually-motivated graphics, visualization and 3D displays",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1837101.1837108",
+            "Abstract": "This course presents timely, relevant examples on how researchers have leveraged perceptual information for optimization of rendering algorithms, to better guide design and presentation in (3D stereoscopic) display media, and for improved visualization of complex or large data sets. Each presentation will provide references and short overviews of cutting-edge current research pertaining to that area. We will ensure that the most up-to-date research examples are presented by sourcing information from recent perception and graphics conferences and journals such as ACM Transactions on Perception, paying particular attention work presented at the 2010 Symposium on Applied Perception in Graphics and Visualization.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploring the effect of diverse technologies incorporated in virtual museums on visitors' perceived sense of presence",
+            "Publication year": 2013,
+            "Publication url": "https://ebooks.iospress.nl/volumearticle/33901",
+            "Abstract": "This paper presents the preliminary results of a research project aimed at exploring the perceived sense of presence incorporated in diverse technologies used in Virtual Museums. It initially presents the selection criteria and the five museum websites involved in the analysis. Then, it describes the evaluation process, in which a group of subjects explored the museums' on-line resources and completed a presence. The results of a double-phased statistical analysis are discussed, which investigated the technological conditions under which a Virtual Museum enhances the visitors' experience of presence.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:mB3voiENLucC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Exploring behavioural fidelity of synthetic stimuli while immersed in fmri displays",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5962124/",
+            "Abstract": "The goal of the proposed experiments is to assess the fidelity of a simulation as well as develop synthetic imaging systems which will result in controlled functional Magnetic Resonance Imaging (fMRI) experiments involving the normal population as well as patients. The ultimate goal of the experiments planned is to explore whether natural and artificial scenes of varied fidelity for training or for therapeutic purposes engage common perceptual or neuroscientific mechanisms. Such input is non-obtrusive and is derived at the same time as the experience occurs. The first experiment briefly summarized is exploring brain empathic responses of users participating in an interactive economic game developed to be displayed in a fMRI scanner. The second experiment presents an interactive lighting system also to be displayed in an fMRI scanner. Its scope is to enable the monitoring of neural activation patterns in response \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Precise photorealistic visualization for restoration of historic buildings based on tacheometry data",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10109-018-0267-4",
+            "Abstract": " This paper puts forward a 3D reconstruction methodology applied to the restoration of historic buildings taking advantage of the speed, range and accuracy of a total geodetic station. The measurements representing geo-referenced points produced an interactive and photorealistic geometric mesh of a monument named \u2018Neoria.\u2019 \u2018Neoria\u2019 is a Venetian building located by the old harbor at Chania, Crete, Greece. The integration of tacheometry acquisition and computer graphics puts forward a novel integrated software framework for the accurate 3D reconstruction of a historical building. The main technical challenge of this work was the production of a precise 3D mesh based on a sufficient number of tacheometry measurements acquired fast and at low cost, employing a combination of surface reconstruction and processing methods. A fully interactive application based on game engine technologies was \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Augmented reality for cad-cam training featuring 3d interactive geometric transformations",
+            "Publication year": 2021,
+            "Publication url": "https://www.cad-journal.net/files/vol_18/CAD_18(3)_2021_561-570.pdf",
+            "Abstract": "In this paper, a mobile Augmented Reality (AR) application is presented employed to facilitate and enhance the learning processes and traditional text book material of the Mechanical Drawing course for engineering students. The application can track and recognize 3D CAD models with the use of real-world markers printed on a hard copy of a Mechanical Drawing textbook which is used in class. Intuitively, the projected models can also be imported into a graphical user interface which provides trainees with advanced 3D transformation tools. These tools offer not only a mere visualization but an interactive understanding of the solid object and the underlying geometric transformations. Students often find it difficult to visualize a 3D model based on the standard views of the respective mechanical drawing. This application aims to overcome this problem using state of the art AR technology which is more appealing to the younger generation by simultaneously offering scientifically concrete 3D manipulations rendered on a mobile platform, based on computational geometry algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:_Ybze24A_UAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Measuring memories for objects and their locations in immersive virtual environments: The subjective component of memorial experience",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4614-7485-2_18",
+            "Abstract": "The utility of Virtual Environment (VE) technologies for training systems is predicated upon the accuracy of the mental representation formed of the VE. It is therefore important to benchmark the use of these environments through the application of appropriate memory tests. In addition to measuring accuracy, a consideration for such tests is the quality of the memories being reported: Are these vivid memories where the person can mentally visualize the environment? Or are responses based on a strong feeling that happens to be correct? This chapter reviews what is currently known about these more subjective aspects of memories in respect to visualizations of immersive VEs. Current understanding about judgements of \u2018remembering\u2019 and \u2018knowing\u2019 will be summarised from the psychological literature. This will be related to recent attempts to measure these awareness states in VEs, and the consequences of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:rO6llkc54NcC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Gamified 3D orthopaedic rehabilitation using low cost and portable inertial sensors",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8056590/",
+            "Abstract": "This work introduces an innovative gamified 3D rehabilitation application intended for patients that have undergone Total Knee Replacement surgery, in collaboration with the General Hospital in Chania, Crete, Greece. The application uses a single custom-made, light, portable and low-cost sensor node consisting of an Inertial Measurement Unit (IMU) attached on a lower limb in order to capture its orientation in space in real-time, while the patient is completing a physiotherapy protocol. The aim is to increase patient engagement during physiotherapy by motivating the user to participate in a serious game. The proposed sensor node attached on the lower limb drives a graphical image of the patient's limb motion as part of a 3D computer graphics scene displayed on a tablet or phone. It then classifies the exercise performed during physiotherapy as accurately performed or not and increases patient compliance via a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A selective rendering algorithm based on memory schemas",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1599301.1599343",
+            "Abstract": "In order to economize on rendering computation, selective rendering guides high level of detail to specific regions of a synthetic scene and lower quality to the remaining scene, without compromising the level of information transmitted. Scene regions that have been rendered in low and high quality can be combined to form one complete scene. We propose a novel selective rendering approach which is task and gaze-independent, simulating cognitive creation of spatial hypotheses. Scene objects are rendered in varying quality (polygon count) according to how they are associated with the context (schema) of the scene.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effects of levels of immersion on memory and presence in virtual environments: A reality centered approach",
+            "Publication year": 2001,
+            "Publication url": "https://www.liebertpub.com/doi/abs/10.1089/109493101300117938",
+            "Abstract": "Simulation fidelity is characterized as the extent to which a Virtual Environment (VE) and relevant interactions with it are indistinguishable from a user's interaction with a real environment. The growing          number of VE training applications which target a high level of simulation fidelity, mainly for transfer of training in the real world, have made it crucial to examine the manner in which these particular          implementations and designs are evaluated. The methodology presented in this study focuses on real versus simulated virtual worlds, comparing participants' level of presence, task performance, and cognition          state employed to complete a memory task. A 15-minute seminar was presented in four different conditions including real, 3D desktop, 3D Head Mounted Display (HMD) and Audio-only (between-subjects design).          Four independent groups of 18 participants took part in the experiment, which \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Mary Ann Liebert, Inc."
+        },
+        {
+            "Title": "Usability evaluation of the epoch multimodal user interface: designing 3d tangible interactions",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1180495.1180521",
+            "Abstract": "This paper expands on the presentation of a methodology that provides a technology-enhanced exhibition of a cultural artefact through the use of a safe hybrid 2D/3D multimodal interface. Such tangible interactions are based on the integration of a 3DOF orientation tracker and information sensors with a'Kromstaf'rapid prototype replica to provide tactile feedback. The multimodal interface allows the user to manipulate the object via physical gestures which, during evaluation, establish a profound level of virtual object presence and user satisfaction. If a user cannot manipulate the virtual object effectively many application specific tasks cannot be performed. This paper assesses the usability of the multimodal interface by comparing it with two input devices--the Magellan SpaceMouse, and a'black box', which contains the same electronics as the multimodal interface but without the tactile feedback offered by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Augmented & mobile reality",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12645173603256230766&hl=en&oi=scholarr",
+            "Abstract": "not available.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Virtual Reality and Stereo Visualization in Artistic Heritage Reproduction",
+            "Publication year": 2006,
+            "Publication url": "https://ics.p.lodz.pl/~adamwoj/ARTYKULY/short_paper_VAST2006.pdf",
+            "Abstract": "The use of different media from photography to virtual reality may provide a user with an extraordinary tool for appreciation and exploration of artistic heritage. This is especially important in case when direct perceptual experience is denied by distance to museums or prohibition of manipulating exhibits, and in case when a specific media may provide a user with extra functionalities. The use of a specific media such as virtual reality is very important in case of time-spatial work-of-art where the problem of functionalities presentation becomes much more demanding. The goal of the presented work is to contribute in assessing the role of different visualization technologies in work-of-art reproduction focusing on the use of virtual reality and stereoscopic viewing. Our main testing application reproduces a time-spatial work-of-art which contains multi-level mirror reflections and where gravity is also accounted for in the physical simulation. This application has been chosen because it inherently calls for user interaction, which challenges reproduction fidelity and real-time response. The resulting visual reproduction is analyzed for different display technologies and stereo viewing approaches. Results from sets of test trials ran on five different virtual reality systems, from 3D Laptop to Head Mounted Display and large Panorama, confirmed benefits of stereo viewing and emphasized few aspects which represent a base for further investigation as well as a guide when designing specific systems for telepresence related to virtual museum applications and interactive space installations.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Human-Centered Fidelity Metrics for Virtual Environment Simulations",
+            "Publication year": 2005,
+            "Publication url": "https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_1791525",
+            "Abstract": "It is increasingly important to provide fidelity mecrics for rendered images and interactive virtual environments (VEs) targeting transfer of training in real-world task situations. Computational metrics which aim to predict the degree of fidelity of a rendered image can be based on psychophysical observations. For interactive simulations, psychophysical investigations can be carried out into the degree of similarity between the original and a synthetic simulation. Psychophysics comprises a collection of methods used to conduct non-invasive experiments on humans, the purpose of which is to study mappings between events in an environment and levels of sensory responses to those events. This tutorial will present the techniques and principles towards conducting psychophysical studies, for assessing image quality as well as fidelity of a VE simulation and how results from such studies contribute to VE system design as well as to computational image quality metrics. Methods based on experiments for measuring the perceptual equivalence between a real scene and a computer simulation of the same scene will be reported. These methods are presented through the study of human vision and include using photorealistic computer graphics to depict complex environments and works of art. In addition, physical and psychophysical fidelity issues in the assessment of virtual environments will be emphasised. Specifications for correct matching between the psychophysical characteristics of the displays and the human users\u2019 sensory and motor systems will he discussed as well as some examples of the consequences when systems fail to be physically well \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "An automated high-level saliency predictor for smart game balancing",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2637479",
+            "Abstract": "Successfully predicting visual attention can significantly improve many aspects of computer graphics: scene design, interactivity and rendering. Most previous attention models are mainly based on low-level image features, and fail to take into account high-level factors such as scene context, topology, or task. Low-level saliency has previously been combined with task maps, but only for predetermined tasks. Thus, the application of these methods to graphics (e.g., for selective rendering) has not achieved its full potential. In this article, we present the first automated high-level saliency predictor incorporating two hypotheses from perception and cognitive science that can be adapted to different tasks. The first states that a scene is comprised of objects expected to be found in a specific context as well objects out of context which are salient (scene schemata) while the other claims that viewer\u2019s attention is captured by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Action-based slant perception in real and virtual environments",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1272582.1272612",
+            "Abstract": "An innovative action-based motoric measure of slant is proposed, based on gait. This measure is ecologically-valid derived from the angle that the foot makes in relation to the horizontal ground plane immediately before impact (Figure 1). This work explores whether the proposed measure is affected by factors such as material of the walking surface and inclination of the walking ramps. Moreover, experimental studies were conducted in a real environment set-up and in its virtual counterpart. Comparisons between real-world spatial judgments and simulation equivalents provide performance benchmarks as well as tools to assess whether a technological set-up would be of similar functional fidelity to a real-world task situation.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A 3D lighting system for fMRI rendering fidelity experiments",
+            "Publication year": 2012,
+            "Publication url": "https://ibimapublishing.com/articles/IJIW/2012/748870/748870.pdf",
+            "Abstract": "Although improvements in basic computer graphics rendering hardware and lighting algorithms have produced some remarkable results, it is still computationally demanding to render a highly realistic Virtual Environment (VE) in real-time. This paper presents a real-time synthetic lighting system incorporating sophisticated global illumination algorithms aiming to induce similar subjective lighting impressions as in the real world. The lighting system proposed is designed to render an interactive VE on an fMRI display, enabling the conduct of formal neuroscientific experiments and investigating the effects of visual fidelity as well as varied lighting configurations on feelings of presence,\u2018reality\u2019and comfort. Ultimately, the goal is to use this system to explore the effect of lighting variations (daylight vs. forms of artificial light) on subjective impressions of a group of patients suffering from the \u2018depersonalization\u2019syndrome. The system was developed in close collaboration with the Brighton and Sussex Medical School in the UK. It was a challenge to develop an interactive lighting system to be utilized for fMRI experimentation due to infrastructural and technical demands. Such demands were based on acquiring user input when immersed in the constrained environment of an fMRI scanner while the system reacts to it in real-time. fMRI experiments usually employ simple display material, for example using photographs, video clips or simple computerized stimuli. Employing VEs in fMRI has the advantage that it is possible to involve participants in interactive animated environments which more realistically reflect social and emotional situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IBIMA Publishing LLC"
+        },
+        {
+            "Title": "Addventurous rhythmical planet: A 3d rhythm-based serious game for social skills development of children with adhd",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-49932-7_55",
+            "Abstract": "Children diagnosed with ADHD are often at a disadvantage regarding their social interactions at school and at play due to their symptomatic inattention, impulsivity and hyperactivity. That may lead to isolation, low self-esteem and even depression. Music is shown to significantly help children maintain focused attention as well as offer a timed structure around their actions, involving melody and tempo. Music can also aid the development of cognitive ability, self-confidence and promote limits and rules. Through music, children can learn how to control their impulsivity, learn to pause and wait for their turn and apply such social skills to their every-day life. This paper presents a multimodal 3D serious game named \u201cADDventurous Rhythmical Planet\u201d. Its goal is to exploit the benefits of music and rhythm helping children diagnosed with ADHD to overcome their psychosocial challenges, unlike currently available games \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Simulating spatial assumptions",
+            "Publication year": 2003,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/965400.965542",
+            "Abstract": "This sketch presents a new method for assessing'functional realism'across a range of applications. The basic premise is that an individual's prior experience will influence how he or she perceives, comprehends and remembers new information in a scene. 36 participants across three conditions of varied rendering quality of the same space were exposed to the computer graphics environment and completed an object-based memory recognition task. The preliminary experiments presented here could have significant implications while identifying areas of an interactive computer graphics scene that require higher quality of rendering as well as areas where lower fidelity could be adequate, based on this premise.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A user-centered methodology for investigating presence and task performance",
+            "Publication year": 2000,
+            "Publication url": "https://research-information.bris.ac.uk/en/publications/a-user-centered-methodology-for-investigating-presence-and-task-p",
+            "Abstract": "A User-Centered Methodology for Investigating Presence and Task Performance \u2014 University of \nBristol Skip to main navigation Skip to search Skip to main content University of Bristol Logo Help \n& Terms of Use Home Profiles Research Units Research Outputs Projects Student theses Datasets \nActivities Prizes Facilities/Equipment Search by expertise, name or affiliation A User-Centered \nMethodology for Investigating Presence and Task Performance Katerina Mania, Alan Chalmers \nDepartment of Computer Science Research output: Chapter in Book/Report/Conference \nproceeding \u203a Conference Contribution (Conference Proceeding) Overview Translated title \nof the contribution A User-Centered Methodology for Investigating Presence and Task \nPerformance Original language English Title of host publication Unknown Pages 0 - 0 \nNumber of pages 1 Publication status Published - 2000 Bibliographical note Conference /(\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real-time compositing framework for interactive stereo fMRI displays",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1836845.1836862",
+            "Abstract": "This research concentrates on providing high fidelity animation, only achievable with offline rendering solutions, for interactive fMRI-based experiments. Virtual characters are well established within the film, game and research worlds, yet much remains to be learned about which design, stylistic or behavioural factors combine to make a believable character. The definition of believability depends on context. When designing and implementing characters for entertainment, the concern is making believable characters that the audience will engage with. When using virtual characters in experiments, the aim is to create characters and synthetic spaces that people respond to in a similar manner to their real world counterparts. Research has shown that users show empathy for virtual characters. However, uncanny valley effects--ie dips in user impressions--can arise: behavioural fidelity expectations increase alongside \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Gaze-aware displays and interaction",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3450508.3464606",
+            "Abstract": "Being able to detect and to employ gaze enhances digital displays. Research on gaze-contingent or gaze-aware display devices dates back two decades. This is the time, though, that it could truly be employed for fast, low-latency gaze-based interaction and for optimization of computer graphics rendering such as in foveated rendering. Moreover, Virtual Reality (VR) is becoming ubiquitous. The widespread availability of consumer grade VR Head Mounted Displays (HMDs) transformed VR to a commodity available for everyday use. VR applications are now abundantly designed for recreation, work and communication. However, interacting with VR setups requires new paradigms of User Interfaces (UIs), since traditional 2D UIs are designed to be viewed from a static vantage point only, eg the computer screen. Adding to this, traditional input methods such as the keyboard and mouse are hard to manipulate when \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Flight simulation: research challenges and user assessments of fidelity",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1044588.1044644",
+            "Abstract": "The principal aim of simulation is to provide a platform on which environments or technology, either real or proposed, may be recreated for the purposes of training, visualisation and research. Simulators' fidelity range widely; some aim to recreate an environment or system to such a high degree that it is difficult to distinguish between the simulator and the real system, while others simply aim to recreate a small part of a system, or to present the system as a whole in a more compact and stylised fashion. The aim of this paper is to provide an overview of the technical challenges that face the simulation field as technology and requirements change and evolve. Focusing almost exclusively upon commercial Flight and Flight Systems simulation, it will include the results of a experimental study acquiring user assessments of fidelity, involving'Expert Users'(Captain and Flight Instructor) from a variety of international airlines \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Front camera eye tracking for mobile VR",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9090461/",
+            "Abstract": "User fixations is a fast and natural input method for VR interaction. Previous attempts for mobile eye tracking in VR were limited due to low accuracy, long processing time and the need for hardware add-ons such as anti-reflective lens coating and IR emitters. We present an innovative mobile VR eye tracking methodology, utilizing only the captured images of the front-facing (selfie) camera through the headset's lens, without any modifications. The system enhances the low-quality camera-captured images that suffer from low contrast and poor lighting by applying a pipeline of customized low level image enhancements to suppress obtrusive reflections due to the headset lenses. We proceed to calibration and linear gaze mapping between the estimated iris centroids and physical pixels on the screen resulting to iris tracking in real-time. A preliminary study confirms that the presented eye tracking methodology \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:JQOojiI6XY0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tangram quests: a tablet adventure game assisting children with high functioning autism to enhance their communicative and social skills",
+            "Publication year": 2015,
+            "Publication url": "https://www.academia.edu/download/40303925/EDULEARN15_Kourkoutas_.pdf",
+            "Abstract": "Children diagnosed with High-functioning Autism (HFA) have intelligence and language within the normal range of functioning, but present social skills deficits such as problems initiating social interactions, difficulty interpreting both verbal/non-verbal social cues, difficulty in anticipation of their turn and lack of empathy to others\u2019 distress. Most computer-based interventions for autism are designed for a single user. It is challenging to investigate whether a collaborative game on a single touchscreen device can help children between 6-11 of reduced social skills to collaborate with \u2018special peers\u2019, pursuing enjoyment and enhancing their social skills. Innovative contribution of the tool presented is based on the following:(a) continuing interactive process with an adult, caregiver, expert, or \u201cspecial\u201d friend (child) ensuring a structured supervising procedure, more effective in generalizing the acquired skills,(b) close association between the real and the virtual social environment, with degrees of liberty of imagination and improvisation, depending on the child\u2019s case/diagnosis,(c) social skill and emotional intelligence perspective,(d) possibility to alternate and focus on a wide spectrum/variety of levels difficulties, based on child\u2019s capacity/quality of functioning.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D photorealistic scientific visualization of tsunami waves and sea level rise",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6958467/",
+            "Abstract": "A methodology is proposed for the photorealistic scientific visualization of a tsunami wave. The methodology is applied to the case of the tsunami occurring after the Mediterranean earthquake in 365 AD, provoking sea level rise in Heraklion port in Crete, Greece. The work presented in this paper puts forward a semi-automated workflow for parsing modeled data embedded in animation software of choice. By scripting the manual work needed for the import and processing of geo-referenced time arrays, a 4 minutes animation showcasing the automated workflow was created. The script implemented directs the automatic loading of geotif data and produces the required shapekeys needed for the final 3d animation. It minimized production costs for the sea level animation to a minimum and aided the quick visualization of large arrays of numerical models in geo-referenced 3D representing the impact zone. The 3D & \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:UxriW0iASnsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An experimental exploration of the relationship between subjective impressions of illumination and physical fidelity",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849304001931",
+            "Abstract": "Two experiments were carried out to explore the effect of rendering and interface fidelity on subjective impressions of illumination and perceived presence after exposure to a virtual environment (VE). In particular, a study that compares a real-world task situation to its computer graphics simulation counterpart is presented. The computer graphics simulation was based on photometry data acquired in the real-world space and was displayed on either a Head Mounted Display or desktop display utilising either monocular or stereo imagery and interaction interfaces such as the common mouse and head tracking. 105 participants across five conditions were exposed to the real and computer graphics environment and after completing a spatial task, subjective impressions of the illumination and sense of presence assessments were acquired. Relevant results showed a positive correlation between presence and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "The effect of stereo and context on memory and awareness states in immersive virtual environments",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1836248.1836275",
+            "Abstract": "Spatial awareness is crucial for human performance efficiency of any task that entails perception of space. Memory of spaces is an imperfect reflection of the cognitive activity (awareness states) that underlies performance in such environments. Furthermore, performance on these tasks may also be influenced by the context of the environment. This research investigates the effect of stereo viewing on object recognition after exposure to an immersive VE, in terms of both scene context and associated awareness states. The immersive simulation consisted of a radiosity-rendered room that was either populated by objects consistent with an office setting or by primitive objects located in similar positions. The simulation was displayed on a stereo head-tracked Head Mounted Display. Twenty-four participants across two visual conditions of varying depth cues (absence vs presence of stereo cues) were exposed to the VE \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Outdoors Mobile Augmented Reality Application Visualizing 3D Reconstructed Historical Monuments.",
+            "Publication year": 2018,
+            "Publication url": "https://www.scitepress.org/papers/2018/67018/67018.pdf",
+            "Abstract": "We present a mobile Augmented Reality (AR) tourist guide to be utilized while walking around cultural heritage sites located in the Old town of the city of Chania, Crete, Greece. Instead of the traditional static images or text presented by mobile, location-aware tourist guides, the main focus is to seamlessly and transparently superimpose geo-located 3D reconstructions of historical buildings, in their past state, onto the real world, while users hold their consumer grade mobile phones walking on-site, without markers placed onto the buildings, offering a Mobile Augmented Reality experience. we feature three monuments; eg, the \u2018GialiTzamisi\u2019, an Ottoman mosque; part of the south side of a Byzantine Wall and the \u2018Saint Rocco\u2019Venetian chapel. Advances in mobile technology have brought AR to the public by utilizing the camera, GPS and inertial sensors present in modern smart phones. Technical challenges such as accurate registration of 3D and real world, in outdoors settings, have prevented AR becoming main stream. We tested commercial AR frameworks and built a mobile AR app which offers users, while visiting these monuments in the challenging outdoors environment, a virtual reconstruction displaying the monument in its past state superimposed onto the real world. Position tracking is based on the mobile phone\u2019s GPS and inertial sensors. The users explore interest areas and unlock historical information, earning points. By combining AR technologies with locationaware, gamified and social aspects, we enhance interaction with cultural heritage sites.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Eye Tracking Interaction on Unmodified Mobile VR Headsets Using the Selfie Camera",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3456875",
+            "Abstract": "Input methods for interaction in smartphone-based virtual and mixed reality (VR/MR) are currently based on uncomfortable head tracking controlling a pointer on the screen. User fixations are a fast and natural input method for VR/MR interaction. Previously, eye tracking in mobile VR suffered from low accuracy, long processing time, and the need for hardware add-ons such as anti-reflective lens coating and infrared emitters. We present an innovative mobile VR eye tracking methodology utilizing only the eye images from the front-facing (selfie) camera through the headset\u2019s lens, without any modifications. Our system first enhances the low-contrast, poorly lit eye images by applying a pipeline of customised low-level image enhancements suppressing obtrusive lens reflections. We then propose an iris region-of-interest detection algorithm that is run only once. This increases the iris tracking speed by reducing the iris \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Measuring Memories for Objects and Their Locations in Immersive Virtual",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=WXU8AAAAQBAJ&oi=fnd&pg=PA453&dq=info:Hj9xGvb0qt0J:scholar.google.com&ots=yFVGF5F1NK&sig=19XwwEZtoQ4xfk0HBiDqOrM4Ubs",
+            "Abstract": "The utility of Virtual Environment (VE) technologies for training systems is predicated upon the accuracy of the mental representation formed of the VE. It is therefore important to benchmark the use of these environments through the application of appropriate memory tests. In addition to measuring accuracy, a consideration for such tests is the quality of the memories being reported: Are these vivid memories where the person can mentally visualize the environment? Or are responses based on a strong feeling that happens to be correct? This chapter reviews what is currently known about these more subjective aspects of memories in respect to visualizations of immersive VEs. Current understanding about judgements of \u2018remembering\u2019and \u2018knowing\u2019will be summarised from the psychological literature. This will be related to recent attempts to measure these awareness states in VEs, and the consequences of these efforts. An information-processing approach is taken, interpreting the relationship between these experiences and potential in\ufb02uencing variables. As well as highlighting the importance of measuring the subjective component of memorial experience, a brief descriptive model is proposed to aid considerations of these issues in the design and implementation of such visualizations, and future research.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Gaze prediction using machine learning for dynamic stereo manipulation in games",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7504694/",
+            "Abstract": "Comfortable, high-quality 3D stereo viewing is becoming a requirement for interactive applications today. Previous research shows that manipulating disparity can alleviate some of the discomfort caused by 3D stereo, but it is best to do this locally, around the object the user is gazing at. The main challenge is thus to develop a gaze predictor in the demanding context of real-time, heavily task-oriented applications such as games. Our key observation is that player actions are highly correlated with the present state of a game, encoded by game variables. Based on this, we train a classifier to learn these correlations using an eye-tracker which provides the ground-truth object being looked at. The classifier is used at runtime to predict object category - and thus gaze - during game play, based on the current state of game variables. We use this prediction to propose a dynamic disparity manipulation method, which \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:geHnlv5EZngC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Article 2 (21 pages)-Quantifying Fidelity for Virtual Environment Simulations Employing Memory Schema Assumptions",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1559093022032303641&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Connections between lighting impressions and presence in real and virtual environments: an experimental study",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/513867.513893",
+            "Abstract": "A between groups experiment was carried out to assess whether positive correlations between responses relevant to subjective impressions of illumination and perceived presence could be identified after exposure to a Virtual Environment. In particular, a study that compares a real-world task situation to its computer graphics simulation counterpart is presented. The computer graphics simulation is based on photometry data acquired in the real-world space and is displayed mainly on Head Mounted Displays utilising either monocular or stereo imagery and interaction interfaces such as either the common mouse or head tracking. 105 participants across five conditions were exposed to the real and computer graphics environment and after completing a spatial task, were given two questionnaires: A presence questionnaire and a questionnaire investigating subjective responses to lighting. Relevant results show a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Selective rendering based on perceptual importance of scene regions",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4811515/",
+            "Abstract": "Computer graphics algorithms have for long dealt with simulation of physics: simulation of the geometry of a real-world space, simulation of the light propagation in a real environment and simulation of motor actions with appropriate tracking. Perception principles have subsequently been incorporated into rendering algorithms in order to save rendering computation and produce photo realistic images from a human rather than a machine point of view. Spatial memory tasks are often incorporated in benchmarking processes when assessing fidelity of a VE simulation, since spatial awareness is crucial for human performance efficiency of any task that entails awareness of space. This paper is exploring the exploitation of visual perception principles towards efficient selective rendering techniques. In order to economize on rendering computation, selective rendering guides a high level of detail to appropriate regions of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Presenting uncertainty in archaeological reconstructions using possibility theory and information visualisation schemes",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=76813831859171934&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Proceedings of the 7th International Conference on Virtual Reality, Archaeology and Intelligent Cultural Heritage",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/2384301",
+            "Abstract": "Proceedings of the 7th International conference on Virtual Reality, Archaeology and Intelligent \nCultural Heritage | ACM Other conferences ACM Digital Library home ACM home Google, Inc. \n(search) Advanced Search Browse About Sign in Register Advanced Search Journals \nMagazines Proceedings Books SIGs Conferences People More Search ACM Digital Library \nSearchSearch Advanced Search vast Conference Proceedings Upcoming Events Authors \nAffiliations Award Winners More HomeConferencesVASTProceedingsVAST'06 ABSTRACT No \nabstract available. Comments Login options Check if you have access through your login \ncredentials or your institution to get full access on this article. Sign in Full Access Get this \nPublication Information Contributors Published in ACM Other conferences cover image VAST'06: \nProceedings of the 7th International conference on Virtual Reality, Archaeology and Intelligent :: \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Eurographics Association"
+        },
+        {
+            "Title": "Interaction",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1174222543174582768&hl=en&oi=scholarr",
+            "Abstract": "not available.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effect of stereo on schema activation within immersive virtual environments",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1186954.1187074",
+            "Abstract": "This research investigates the effect of stereo and'real-world'scene context on object recognition within an immersive Virtual Environment (VE). 24 participants across two visual conditions of varying depth cues (absence/presence of stereo) including objects with varied association to the scene context, were being exposed to the VE and completed an object-based memory recognition task. Results revealed that the effect of scene context on memory performance was greater than the effect of stereo cues.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Graphics, memory, and surrealism-an experimental investigation",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17319475226030078299&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "PION LTD"
+        },
+        {
+            "Title": "Immersive Simulation and Training of Person-to-3D Character Dance in Real-Time",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8864530/",
+            "Abstract": "This paper presents a person-to-3D character, immersive, real-time dance training framework for leaders. Rather than immersive mimicking of pre-recorded dance animations as in previous work, the user is now trained to lead a 3D partner while dancing, initiating movements to which the 3D character responds to, in real-time. Realistic animations were applied to the rigged 3D human model of a dance partner using Inverse Kinematics (IK). The 3D dance partner is rigged based on custom skeletons using 3D geometrical bones and IK solvers. Motion capture data were applied to the rigged 3D model to create realistic dance animations. Initially, the application features a tutorial guide process. The 3D character is standing facing the user who selects dance training options using gestures such as thumb and waving hands, touches and pinch actions. The 3D character partner responds in real-time, producing body \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:N5tVd3kTz84C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Attention-aware rendering, mobile graphics and games.",
+            "Publication year": 2014,
+            "Publication url": "https://dro.dur.ac.uk/25668/1/25668.pdf",
+            "Abstract": "Figure 1: Top: Subtle Gaze direction, input image for modulation (left). Gaze distribution for modulated image (right). White crosses indicate locations preselected by researchers for modulation [Bailey, McNamara et al. 2009]. Bottom Left: Schematic of the iLab Neuromorphic Vision, a comprehensive set of C++ classes for the development of neuromorphic models of vision [Baldi and Itti 2010]. Bottom Right: In a Search task, a High Level Saliency predictor highlights a vase at a consistent with the context location signifying an easy recovery [Koulieris et al. 2013].Rendering and design efficiency become critical when deploying computer graphics to mobile devices and games. This course addresses novel approaches to leverage models of visual attention, based on low and high level scene features, to propel attentionaware rendering computation. The result: perceptually-optimized scalable algorithms for mobile platforms and game design.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Association for Computing Machinery (ACM)"
+        },
+        {
+            "Title": "Evaluation of the EPOCH multimodal user interface",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9522815413887674851&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A system to measure, control and minimize end-to-end head tracking latency in immersive simulations",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2087756.2087869",
+            "Abstract": "System latency (time delay) and its visible consequences are fundamental Virtual Environment (VE) deficiencies that can hamper user perception and performance. This paper presents an immersive simulation system which improves upon current latency measurement and minimization techniques. Hardware used for latency measurements and minimization is assembled based on low-cost and portable equipment, most of them commonly found in an academic facility without reduction in accuracy of measurements. A custom-made mechanism of measuring and minimizing end-to-end head tracking latency in an immersive VE is assembled. The mechanism is based on an oscilloscope comparing two signals. One is generated due to the head-tracker movement by a shaft encoder attached on a servo motor moving the tracker. The other signal is generated by the visual consequences of this movement in the VE \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Holo-Box: Level-of-Detail Glanceable Interfaces for Augmented Reality",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3450618.3469175",
+            "Abstract": "Glanceable interfaces are Augmented Reality (AR) User Interfaces (UIs) for information retrieval\u201d at a glance\u201d relying on eye gaze for implicit input. While they provide rapid information retrieval, they often occlude a large part of the real-world. This is compounded as the amount of virtual information increases. Interacting with complex glanceable interfaces often results in unintentional eye gaze interaction and selections due to the Midas Touch problem. In this work, we present Holo-box, an innovative AR UI design that combines 2D compact glanceable interfaces with 3D virtual\u201d Holo-boxes\u201d. We can utilize the glanceable 2D interface to provide compact information at a glance while using Holo-box for explicit input such as hand tracking activated when necessary, surpassing the Midas Touch problem and resulting in Level-of-Detail (LOD) for AR glanceable UIs. We test our proposed system inside a real-world \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "-APGV 2010 special issue",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1823738.1823739",
+            "Abstract": "Symposium on Applied Perception in Graphics and Visualization (APGV), held in Los Angeles in July2010 and co-located with SIGGRAPH 2010. Of the 27 accepted long and short papers, the program chairs selected six to undergo a second review for possible inclusion in this special issue based on the recommendations of the international program committee. The articles in this special issue cover a wide range of topics in which insights from perception are employed to advance the design of methods for visual and multi-sensory representation.In \u201cThe Saliency of Anomalies in Animated Human Characters\u201d, Hodgins and colleagues identify character animation features of low fidelity that would be salient by analyzing the impact of anomalies in human motion and appearance on the perception and interpretation of a scene. Facial anomalies are shown to be more disturbing than quite significant body motion \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Preliminary evaluation of the augmented representation of cultural objects system",
+            "Publication year": 2004,
+            "Publication url": "https://www.academia.edu/download/40254909/Preliminary_Evaluation_of_the_Augmented_20151122-20050-17anog.pdf",
+            "Abstract": "We present a preliminary human-centred evaluation of the ARCO (Augmented Representation of Cultural Objects) system that provides museums with software and interface tools that allow them to build integrated Web3D, Virtual and Augmented Reality based virtual museums. Heuristic evaluation and cognitive walkthroughs have been employed, focusing on expert evaluation (curators of museums) and novices (visitors of museums), to evaluate various components and interfaces of the system.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Presence and task performance: A reality centred approach. Technical sketch",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2046534359012106292&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Color characteristics for the evaluation of suspended sediments",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7294574/",
+            "Abstract": "This study focuses on a significant issue of the environmental monitoring application area, which is the suspended sediment concentration estimation. More specifically, the purpose of the current work is to provide a new non-intrusive way to estimate the suspended sediment (SS) distribution. The proposed methodology uses the color characteristics of river flow images and provides a high correlation factor with the suspended sediment measurements. In our opinion, the importance of the current work derives from the fact that it provides an alternative and effective way of estimating SS distribution rather as opposed to the conventional method that requires human presence, especially if we consider the difficulty of taking measurements of the river pollution during flush flood events when the sediment distribution is increased and is directly related to water quality.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:vRqMK49ujn8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Argumentation for all",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3341105.3374122",
+            "Abstract": "This paper proposes the use of a web-based system for the development of applications of argumentation. It focuses on bringing the capability to develop decision policies based on argumentation to people that have little or no knowledge of logic programming or of an argumentation framework. To achieve this, it presents an implementation of the table formalism that has recently been put forward by previous work. Our system was evaluated using the think aloud protocol from the early stages of development.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cyberball3d+ for fmri: Implementing neuroscientific gaming",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2614217.2614278",
+            "Abstract": "This research presents an innovative real-time, interactive gaming system called Cyberball3D+ incorporating virtual characters, to be played interactively in Functional Magnetic Resonance Imaging (fMRI) for the study of empathy, social exclusion and ostracism. For the first time, neuroscientific correlates of believability and emotional engagement with synthetic characters are acquired. Such output is non-obtrusive derived at the same time as the experience occurs. 3D characters are used in films and games but it is still undetermined how design, stylization and behavioral factors interweave to make a character believable. When using synthetic characters in neuroscientific experiments, the aim is that people emotionally respond to them in a similar manner to humans. Although research has shown that users show empathy for 3D characters, it is challenging to identify at which level of anthropomorphism such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cutting-edge VR/AR display technologies (gaze-, accommodation-, motion-aware and HDR-enabled)",
+            "Publication year": 2018,
+            "Publication url": "https://hal.inria.fr/hal-01695622/",
+            "Abstract": "Near-eye (VR/AR) displays suffer from technical, interaction as well as visual quality issues which hinder their commercial potential. This tutorial will deliver an overview of cutting-edge VR/AR display technologies, focusing on technical, interaction and perceptual issues which, if solved, will drive the next generation of display technologies. The most recent advancements in near-eye displays will be presented providing (i) correct accommodation cues, (ii) near-eye varifocal AR, (iii) high dynamic range rendition, (iv) gaze-aware capabilities, either predictive or based on eye-tracking as well as (v) motion-awareness. Future avenues for academic and industrial research related to the next generation of AR/VR display technologies will be analyzed.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "G-Code Machina: A Serious Game for G-code and CNC Machine Operation Training",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9453982/",
+            "Abstract": "In this paper, we present a desktop-based CNC machining training system developed as a serious game for CNC manufacturing motivating young digital-ready users to train in the machining sector. The proposed serious game trains users to write G-code and set up virtual machines for completing Milling and Turning tasks, contrary to previous work mainly focusing on machining simulations. G-code is a simple and usable low-level command set for manufacturing complex objects without prior knowledge of Computer-Aided Manufacturing (CAM) systems. The proposed CNC machining serious game can be used as a standalone introductory training application before being involved with CNC manufacturing. It contains CNC machining and G-code tutorials explaining processes without the need for a book or the assistance from a trainer. The user can select to train in turning and milling machines. The system adapts \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Presence-centred Usability Evaluation of a Virtual Museum",
+            "Publication year": 2010,
+            "Publication url": "http://ikee.lib.auth.gr/record/300233",
+            "Abstract": "The Augmented Representation of Cultural Objects (ARCO) system, developed as a part of an EU ICT project, provides museum curators with software and interface tools to develop web-based virtual museum exhibitions by integrating augmented reality (AR) and 3D computer graphics. ARCO technologies could also be deployed in order to implement educational kiosks placed in real-world museums. The main purpose of the system is to offer an entertaining, informative and enjoyable experience to virtual museum visitors. This paper presents a formal usability study that has been undertaken in order to explore participants\u2019 perceived \u2018sense of being there\u2019and enjoyment while exposed to a virtual museum exhibition in relation to real-world visits. The virtual museum implemented was based on an existing gallery in the Victoria and Albert Museum, London, UK. It is of interest to determine whether a high level of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Human-centred fidelity metrics for virtual environment simulations",
+            "Publication year": 2005,
+            "Publication url": "https://koreauniv.pure.elsevier.com/en/publications/human-centred-fidelity-metrics-for-virtual-environment-simulation",
+            "Abstract": "It is increasingly important to provide fidelity metrics for rendered images and interactive virtual environments (VEs) targeting transfer of training in real-world task situations. Computational metrics which aim to predict the degree of fidelity of a rendered image can be based on psychophysical observations. For interactive simulations, psychophysical investigations can be carried out into the degree of similarity between the original and a synthetic simulation. Psychophysics comprises a collection of methods used to conduct non-invasive experiments on humans, the purpose of which is to study mappings between events in an environment and levels of sensory responses to those events. This tutorial will present the techniques and principles towards conducting psychophysical studies, for assessing image quality as well as fidelity of a VE simulation and how results from such studies contribute to VE system design as well as to computational image quality metrics. Methods based on experiments for measuring the perceptual equivalence between a real scene and a computer simulation of the same scene will be reported. These methods are presented through the study of human vision and include using photo-realistic computer graphics to depict complex environments and works of art. In addition, physical and psychophysical fidelity issues in the assessment of virtual environments will be emphasised. Specifications for correct matching between the psychophysical characteristics of the displays and the human users' sensory and motor systems will be discussed as well as some examples of the consequences when systems fail to be physically well \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Perceptually-Motivated Graphics.",
+            "Publication year": 2008,
+            "Publication url": "http://www.music.tuc.gr/kmania/eg2008_veryfinal.pdf",
+            "Abstract": "In this half-day tutorial, we give an overview of the uses of knowledge about the human visual system, as applied to several aspects of computer graphics. In particular, we show how human visual perception applies to the optimization of rendering algorithms, display algorithms, as well as virtual environments. Examples are shown for applications such as real-time rendering, high quality rendering, material editing using images, and training and knowledge transfer in virtual environments. The aim is to show that the human visual perception literature harbours a rich source of knowledge that can be directly applied to improve a wide range of algorithms and technologies in computer graphics.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development of a 3D Action Role Playing Game",
+            "Publication year": 2013,
+            "Publication url": "http://artemis.library.tuc.gr/DT2013-0320/DT2013-0320.pdf",
+            "Abstract": "The purpose of this project is the creation of an entertainment 3D Third Person Action Role Playing Game titled Broken Dreams. A 3D game is usually developed by a team of more than one person. Nowadays, high quality games are designed by large teams that consist mainly of art designers, who are responsible for the game content creation, and programmers, who are responsible for the gameplay creation and putting all the pieces together. It is a real challenge to create a one-person project taking responsibility for both the artistic and programming parts respectively.The Broken Dreams concept takes place in the middle-ages in a small city which is ruled by a vicious monarch. This ruler has deprived people of their dreams and forced them to sleep forever. The only person that is still unaffected by this eternal sleep is the main character of the game. His purpose is to try and wake up the residents of this town from their sleep. There is only one way to do that. By entering people\u201f s dreams and fighting with their nightmares.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:5awf1xo2G04C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Simulation Fidelity Metrics for Virtual Environments based on Memory Semantics. Technical Sketch",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6812943821441077655&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reciprocal transformations between music and architecture as a real-time supporting mechanism in urban design",
+            "Publication year": 2016,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/1478077116670743",
+            "Abstract": "The more complex our cities become, the more difficult it is for designers to use traditional tools for understanding and analyzing the inner essence of an eco-system such as the contemporary urban environment. Even many of the recently crafted digital tools fail to address the necessity for a more holistic design approach which captures the virtual and the physical, the immaterial and the material. Handling of massive chunks of information and classification and assessment of diverse data are nowadays more crucial than ever before. We see a significant potential in combining the fields of composition in music and architecture through the use of information technology. Merging the two fields has the intense potential to release new, innovative tools for urban designers. This article describes an innovative tool developed at the Technical University of Crete, through which an urban designer can work on the music \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:tOudhMTPpwUC",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Exploring the relationship between presence and enjoyment in a virtual museum",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1071581909001761",
+            "Abstract": "The Augmented Representation of Cultural Objects (ARCO) system, developed as a part of an EU ICT project, provides museum curators with software and interface tools to develop web-based virtual museum exhibitions by integrating augmented reality (AR) and 3D computer graphics. ARCO technologies could also be deployed in order to implement educational kiosks placed in real-world museums. The main purpose of the system is to offer an entertaining, informative and enjoyable experience to virtual museum visitors. This paper presents a formal usability study that has been undertaken in order to explore participants\u2019 perceived \u2018sense of being there\u2019 and enjoyment while exposed to a virtual museum exhibition in relation to real-world visits. The virtual museum implemented was based on an existing gallery in the Victoria and Albert Museum, London, UK. It is of interest to determine whether a high level of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Visualising uncertainty in archaeological reconstructions: a possibilistic approach",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1179849.1180049",
+            "Abstract": "For the past decade, 3D archaeological visualisations have mostly been representing photo-realistic reconstructions of ancient monuments. While these can be constructive in a museum or tourist context, the archaeological community has long stressed the need for reconstructions showing where the actual remains end and the assumptions begin. Recent attempts to implement the latter approach are either limited to found/not found scenarios or marking of uncertain areas without any justification to the choice of colour/hue degradation etc. As a result, there is no system to represent the uncertainty involved in visualising archaeological data. The archaeologist interprets a site based on a limited amount of material remains and uses comparative evidence from other sites, written references, as well as speculation in order to create a reconstruction. Due to this varied range of data, he/she may have different levels of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Monitoring navigational strategies and idle time in real and virtual environments: An experimental study",
+            "Publication year": 2002,
+            "Publication url": "http://www.music.tuc.gr/kmania/vsmm2002.pdf",
+            "Abstract": "A between groups experiment was carried out to compare navigational strategies in a real environment and in a photorealistic computer graphics simulation of that environment. In this paper, a study that compares a real-world task situation to its computer graphics simulation counterpart is presented. The computer graphics simulation is based on photometry data acquired in the real-world space and is displayed mainly on Head Mounted Displays utilising either monocular or stereo imagery and interaction interfaces such as either the common mouse or head tracking. 105 participants across five conditions were exposed to the real and computer graphics environment and completed a spatial memory task. Participants across conditions were monitored (using software or hardware according to condition) in terms of their navigation patterns and idle time while horizontally rotating around their viewpoint, placed in the centre of the experimental room. An overall main effect was revealed. Relevant statistical analysis showed that the amount of idle time for the participants in the HMD stereo head tracked condition was significantly higher than those in the real-world (p< 0.01) condition.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D Laser Scanning as a Tool for Conservation: The Experiences of the Herculaneum Conservation Project",
+            "Publication year": 2006,
+            "Publication url": "https://www.academia.edu/download/32102731/02_CIPA2006_laserscan.pdf",
+            "Abstract": "The Herculaneum Conservation Project (HCP) is a project of the Packard Humanities Institute in collaboration with the Soprintendenza Archeologica di Pompei and the British School at Rome. The ancient Roman city of Herculaneum (Italy), which was destroyed and buried along with Pompeii by the volcanic eruption of Vesuvius in AD 79, has a history of excavation dating back to the early eighteenth century. The project arose from a recognition of the risks to the survival of the unique and irreplaceable heritage to be found in Herculaneum. Its aim is both to support the Italian heritage agency in the protection and preservation of the site, and to extend scientific understanding and public interest and awareness. The most immediate task is to halt the widespread decay afflicting the entire site. The longer-term aim is to develop a conservation strategy which will ensure its survival, understanding and enhancement. The project aspires to learn lessons that will not only feed into the management of the site of Herculaneum, but that can enrich conservation working practices in Pompeii and elsewhere. In 2006 trials were launched to see how three-dimensional laser scanning could help the project, not only in terms of documentation, but also as a tool for monitoring decay and informing conservation decisions, and as a source of rich but accurate visual material to illustrate areas of the site currently closed for conservation works and thereby enhance the visitor experience. In collaboration with the University of North Carolina, the Suburban Baths were chosen for trial survey work with a 3rdTech Inc. DeltaSphere-3000 laser scanner. This Roman bathing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ARCHIMUSIC3D: Multimodal Playful Transformations between Music and Refined Urban Architectural Design",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8864525/",
+            "Abstract": "The commonly used 3D architectural design tools for urban environments fail to capture aspects of an urban design which are aesthetic as well as functional. This paper describes an innovative multimodal user interface through which an urban designer can work on the music transcription of a specific urban environment applying music compositional rules and filters in order to identify discordant entities, highlight imbalanced parts and make design corrections. The proposed platform offers sonification of an Urban Virtual Environment (UVE), simulating a real-world cityscape, offering visual interpretation and musically playful modification of its soundscape. The system presented offers: The ability to view and convert an urban street to music (ready to play) based on a specific grammar of converting architectural elements to musical elements; secondly, the ability to transform this music in order to `harmonize' it based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual sensitivity to head tracking latency in virtual environments with varying degrees of scene complexity",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1012551.1012559",
+            "Abstract": "System latency (time delay) and its visible consequences are fundamental virtual environment (VE) deficiencies that can hamper user perception and performance. The aim of this research is to quantify the role of VE scene content and resultant relative object motion on perceptual sensitivity to VE latency. Latency detection was examined by presenting observers in a head-tracked, stereoscopic head mounted display with environments having differing levels of complexity ranging from simple geometrical objects to a radiosity-rendered scene of two interconnected rooms. Latency discrimination was compared with results from a previous study in which only simple geometrical objects, without radiosity rendering or a'real-world'setting, were used. From the results of these two studies, it can be inferred that the Just Noticeable Difference (JND) for latency discrimination by trained observers averages~ 15 ms or less \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effect of visual and interaction fidelity on spatial cognition in immersive virtual environments",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1608026/",
+            "Abstract": "Accuracy of memory performance per se is an imperfect reflection of the cognitive activity (awareness states) that underlies performance in memory tasks. The aim of this research is to investigate the effect of varied visual and interaction fidelity of immersive virtual environments on memory awareness states. A between groups experiment was carried out to explore the effect of rendering quality on location-based recognition memory for objects and associated states of awareness. The experimental space, consisting of two interconnected rooms, was rendered either flat-shaded or using radiosity rendering. The computer graphics simulations were displayed on a stereo head-tracked head mounted display. Participants completed a recognition memory task after exposure to the experimental space and reported one of four states of awareness following object recognition. These reflected the level of visual mental \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cyberball3D+: A 3D serious game for fMRI investigating social exclusion and empathy",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7012032/",
+            "Abstract": "This paper presents a 3D interactive gaming paradigm for the secluded space of an fMRI scanner. The Cyberball3D+ game is a virtual ball-toss game in which the participant is either excluded or not from ball tossing played by three virtual players and the subject in the scanner. It has been used in simple sketch mode by neuroscientists for research on ostracism, social exclusion or rejection as well as discrimination and prejudice. The game proposed is designed to render an interactive Virtual Environment (VE) on an fMRI display, enabling the conduct of formal neuroscientific experiments and investigating the effects of social exclusion, empathy and different level of anthropomorphism on human brain activity. Although, here, the focus is on the technical implementation of the system, the goal is to use this system to explore whether the pain felt by someone when socially excluded is the same when observing other \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perception in graphics, visualization, virtual environments and animation",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2077434.2077448",
+            "Abstract": "The advent of affordable display technology and seamless integration of real-world scenes with computer graphics fuels our continuing ability to create and display stunning realistic imagery. With the arrival of new technology, algorithms and display methods comes the realization that gains can be made by tailoring output to the intended audience-humans. Human beings have amazingly complex perceptual systems, which have the ability to quickly capture and process vast amounts of complex data. With all its capability however, the Human Visual System (HVS) has some surprising nuances and limitations that can be exploited to the benefit of numerous graphics applications. This short course will provide insight into those aspects of HVS and other perceptual systems that can serve as both a guide and yard-stick to further the development and evaluation of computer graphics imagery and presentations. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Combining 3D Surveying with Archaeological Uncertainty: The Metopes of the Athenian Treasury at Delphi",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9555568/",
+            "Abstract": "At the archaeological site of Delphi, significant monuments inherently communicate uncertainty regarding the reconstruction of their initial form. An innovative, preliminary, theoretical formulation of a 3D visualization system is proposed, combining 3D surveying based on terrestrial laser scanning and archaeological uncertainty which, unlike past work, will offer multiple hypotheses to be visualized. The system, when implemented, will take as input the archaeologists\u2019 assessment regarding various evidence and offers probabilistic reasoning in relation to the monuments\u2019 past form, which is finally reconstructed and visualized in 3D. The positioning of the metopes of the Athenian Treasury at Delphi is presented as a case study.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human factors in virtual environments",
+            "Publication year": 2003,
+            "Publication url": "https://www.researchgate.net/profile/Rycharde-Hawkes/publication/228868209_Human_Factors_in_Virtual_Environments/links/0fcfd50781305bd117000000/Human-Factors-in-Virtual-Environments.pdf",
+            "Abstract": "This is the final report detailing the research conducted during a three-year project funded by the HP Laboratories External Research Program (1997-2000) in collaboration with the Department of Computer Science, University of Bristol, UK.The project\u2019s generic goals were initially defined as the following:\u2022 The construction of distributed computer graphics electronic spaces introduces critical problems of scale. Some issues to be considered are network-, processing-and perceptual scalability and the unavoidable latencies caused by the geographical separation of users and nodes (Demuynck, K, 1996). Development of a shared environment has to take into account all these limitations. Data management strategies will need to be introduced to reduce these communication latencies.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Technical report"
+        },
+        {
+            "Title": "Article 21 (2 pages) Editorial",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14051366460525206512&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Flight Simulation: Research Challenges and Flight Crew Assessments of Fidelity",
+            "Publication year": 2004,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.594.1688&rep=rep1&type=pdf",
+            "Abstract": "The principal aim of simulation is to provide a platform on which environments or technology, either real or proposed, may be recreated for the purposes of training, visualisation and research. Simulators\u2019 fidelity range widely; some aim to recreate an environment or system to such a high degree that it is difficult to distinguish between the simulator and the real system, while others simply aim to recreate a small part of a system, or to present the system as a whole in a more compact and stylised fashion.. The aim of this paper is to provide an overview of the technical challenges that face the simulation field as technology and requirements change and evolve. Focusing almost exclusively upon commercial Flight and Flight Systems simulation, it will include the results of a experimental study acquiring user assessments of fidelity, involving \u2018Expert Users\u2019(Captain and Flight Instructor) from a variety of international airlines and who have many hundreds of hours of experience of both the real, operational environment, as well as the simulated equivalent",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Presence and task performance: A reality centred approach",
+            "Publication year": 2000,
+            "Publication url": "https://research-information.bris.ac.uk/en/publications/presence-and-task-performance-a-reality-centred-approach",
+            "Abstract": "Mania, A., Chalmers, AG, Troscianko, TS., & Hawkes, RJ.(2000). Presence and task performance: A reality centred approach. In Technical sketch, Proc. of ACM SIGGRAPH 2000 conference (pp. 245). ACM SIGGRAPH. http://www. cs. bris. ac. uk/Tools/Reports/Abstracts/2000-mania. html",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "ACM SIGGRAPH"
+        },
+        {
+            "Title": "High level saliency prediction for smart game balancing",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2614106.2614157",
+            "Abstract": "Predicting visual attention can significantly improve scene design, interactivity and rendering. For example, image synthesis can be accelerated by reducing computation on non-attended scene regions; attention can also be used to improve LOD. Most previous attention models are based on low-level image features, as it is computationally and conceptually challenging to take into account highlevel factors such as scene context, topology or task. As a result, they often fail to predict saccadic targets because scene semantics strongly affect the planning and execution of fixations. In this talk, we present the first automated high level saliency predictor that incorporates the schema [Bartlett 1932] and singleton [Theeuwes and Godijn 2002] hypotheses into the Differential-Weighting Model (DWM)[Eckstein 1998]. The scene schema effect states that a scene is comprised of objects expected to be found in a specific context \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "C\u2010LOD: Context\u2010aware Material Level\u2010of\u2010Detail applied to Mobile Graphics",
+            "Publication year": 2014,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12411",
+            "Abstract": "Attention\u2010based Level\u2010Of\u2013Detail (LOD) managers downgrade the quality of areas that are expected to go unnoticed by an observer to economize on computational resources. The perceptibility of lowered visual fidelity is determined by the accuracy of the attention model that assigns quality levels. Most previous attention based LOD managers do not take into account saliency provoked by context, failing to provide consistently accurate attention predictions. In this work, we extend a recent high level saliency model with four additional components yielding more accurate predictions: an object\u2010intrinsic factor accounting for canonical form of objects, an object\u2010context factor for contextual isolation of objects, a feature uniqueness term that accounts for the number of salient features in an image, and a temporal context that generates recurring fixations for objects inconsistent with the context. We conduct a perceptual \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Wireless Embedded System on a Glove for Hand Motion Capture and Tactile Feedback in 3D Environments",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3415264.3425457",
+            "Abstract": "Wearable haptics, compatible with Virtual Reality applications for remote interaction, are still heavily reliant on cumbersome wired systems, restricting user movement. We present an innovative, component-based, wireless embedded system on a glove with hand motion capture providing tactile feedback, operating without the need for a finger tracking device such as the Leap Motion. The user\u2019s hand is tracked by an infrared filter pass camera which detects three infrared LEDs attached on the 3D printed base on the glove. The system is built using inexpensive parts making it ideal for prototyping and customization, therefore resulting to a scalable and upgradable system.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:W5xh706n7nkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tutorial on Cutting-Edge VR/AR Display Technologies:(Gaze-, Accommodation-, Motion-aware and HDR-enabled)",
+            "Publication year": 2018,
+            "Publication url": "https://researchportal.bath.ac.uk/en/publications/tutorial-on-cutting-edge-vrar-display-technologies-gaze-accommoda",
+            "Abstract": "Near-eye (VR/AR) displays suffer from technical, interaction as well as visual quality issues which hinder their commercial potential. This tutorial will deliver an overview of cutting-edge VR/AR display technologies, focusing on technical, interaction and perceptual issues which, if solved, will drive the next generation of display technologies. The most recent advancements in near-eye displays will be presented providing (i) correct accommodation cues,(ii) near-eye varifocal AR,(iii) high dynamic range rendition,(iv) gaze-aware capabilities, either predictive or based on eye-tracking as well as (v) motion-awareness. Future avenues for academic and industrial research related to the next generation of AR/VR display technologies will be analyzed.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Emulating Foveated Path Tracing",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3487983.3488295",
+            "Abstract": "At full resolution, path tracing cannot be deployed in real-time based on current graphics hardware due to slow convergence times and noisy outputs, despite recent advances in denoisers. In this work, we develop a perceptual sandbox emulating a foveated path tracer to determine the eccentricity angle thresholds that enable imperceptible foveated path tracing. In a foveated path tracer the number of rays fired can be decreased, and thus performance can be increased. For this study, due to current hardware limitations prohibiting real-time path-tracing for multiple samples-per-pixel, we pre-render image buffers and emulate foveated rendering as a post-process by selectively blending the pre-rendered content, driven by an eye tracker capturing eye motion. We then perform three experiments to estimate conservative thresholds of eccentricity boundaries for which image manipulations are imperceptible. Contrary to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Gender differences in spatial awareness in immersive virtual environments: a preliminary investigation",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2407516.2407546",
+            "Abstract": "This paper presents an experiment exploring gender differences in spatial navigation, memory performance and spatial awareness through a complex Virtual Environment (VE). The immersive simulation consisted of a radiosity-rendered space divided in four zones including a kitchen area, a dining area, an office area and a lounge area. The space was populated with objects consistent as well as inconsistent with each zone's context. The simulation was then displayed on a stereo head tracked Head Mounted Display. Participants were separated in two groups based on their gender. After being exposed to the VE, they completed an object-based memory recognition task. Participants also reported one of two states of awareness following each recognition response which reflected either the recollection of contextual detail or informed guesses. It was found that reported awareness states interacted with the context \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D visualization of archaeological uncertainty",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1836248.1836284",
+            "Abstract": "By uncertainty, we define an archaeological expert's level of confidence in an interpretation deriving from gathered evidence. Archaeologists and computer scientists have urged caution in the use of 3D for archaeological reconstructions because the availability of other possible hypotheses is not always being acknowledged. This poster presents a 3D visualization system of archaeological uncertainty.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effect of visual fidelity on transfer of training and awareness states",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1080402.1080457",
+            "Abstract": "This research investigates the effect of rendering quality and scene context on transfer of training with an immersive Virtual Environment (VE). 24 participants across two visual conditions of varying shadow information (absence/presence of shadows) were exposed to a simulated real-world scene and subsequently completed an object-based memory recognition task in the real world environment simulated. Results revealed a higher proportion of recollections associated with mental imagery after training in the flat-shaded condition. These findings comply with similar paradoxical effects revealed in three earlier studies which demonstrated that low interaction fidelity 3D interfaces provoked a higher proportion of recognitions based on visual mental images.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Testing Methodology based on Memory Awareness States for Virtual Environment Spatial Tasks",
+            "Publication year": 2001,
+            "Publication url": "https://www.researchgate.net/profile/Homero-Rios-Figueroa/publication/259971257_Interaction_for_virtual_environments_based_on_recognition_of_facial_expressions/links/00b7d52ebef40e9ac5000000/Interaction-for-virtual-environments-based-on-recognition-of-facial-expressions.pdf#page=73",
+            "Abstract": "Simulation fidelity is characterized as the extent to which a Virtual Environment (VE) and relevant interactions with it are indistinguishable from a participant\u2019s interaction with a real environment. The research community is challenged to determine ways towards assessing simulation fidelity for specific applications through human-centered experimentation. This document describes a methodology behind comparative studies between real-life situations and 3D simulations displayed on typical desktop monitors as well as on Head Mounted Displays (HMDs). These studies are conducted in the University of Bristol, UK and investigate the effects of immersion on memory and spatial perception.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The e-volution of Information Communication Technology in Cultural Heritage",
+            "Publication year": 2006,
+            "Publication url": "https://ktisis.cut.ac.cy/bitstream/10488/18715/1/The%20e-volution%20of%20Information.pdf",
+            "Abstract": "VASTE2006 Project 1.indd Page 1 EPOCH Publication The e-volution of Information \nCommunication Technology in Cultural Heritage Where Hi-Tech Touches the Past: Risks and \nChallenges for the 21st Century Project papers from the joint event CIPA / VAST / EG / EuroMed \n2006 30. October \u2013 4. November 2006 NICOSIA, CYPRUS Edited by M. Ioannides, D. Arnold, F. \nNiccolucci, K. Mania Page 2 David Arnold, Franco Niccolucci, Daniel Pletinckx, Luc Van Gool \nSeries Editors Franco Niccolucci Editor-in-Chief Elizabeth Jerem Managing Editor Fruzsina \nCseh, Elizabeth Jerem Copy Editors Andr\u00e1s Kardos Typesetting and Layout ARCHAEOLINGUA \nCover Design Cover image: Aphrodite\u2019s Birthplace. The legendary Aphrodite\u2019s birthplace \u2013 \nPetra tou Romiou \u2013, where according to mythology, the Goddess of beauty and love emerged \nfrom the sea and came to this shore riding on a sea shell. Photo: Marios J. Ioannides is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cognitive transfer of spatial awareness states from immersive virtual environments to reality",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1670671.1670673",
+            "Abstract": "An individual's prior experience will influence how new visual information in a scene is perceived and remembered. Accuracy of memory performance per se is an imperfect reflection of the cognitive activity (awareness states) that underlies performance in memory tasks. The aim of this research is to investigate the effect of varied visual fidelity of training environments on the transfer of training to the real world after exposure to immersive simulations representing a real-world scene. A between groups experiment was carried out to explore the effect of rendering quality on measurements of location-based recognition memory for objects and associated states of awareness. The immersive simulation consisted of one room that was either rendered flat-shaded or using radiosity rendering. The simulation was displayed on a stereo head-tracked head mounted display. Post exposure to the synthetic simulation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Binocular eye-tracking for the control of a 3D immersive multimedia user interface",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7151689/",
+            "Abstract": "In this paper, we present an innovative approach to design a gaze-controlled Multimedia User Interface for modern, immersive headsets. The wide-spread availability of consumer grade Virtual Reality Head Mounted Displays such as the Oculus RiftTM transformed VR to a commodity available for everyday use. However, Virtual Environments require new paradigms of User Interfaces, since standard 2D interfaces are designed to be viewed from a static vantage point only, e.g. the computer screen. Additionally, traditional input methods such as the keyboard and mouse are hard to manipulate when the user wears a Head Mounted Display. We present a 3D Multimedia User Interface based on eye-tracking and develop six applications which cover commonly operated actions of everyday computing such as mail composing and multimedia viewing. We perform a user study to evaluate our system by acquiring both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tutorial 1: Usability Evaluation Techniques for Virtual Reality Technologies",
+            "Publication year": 2002,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/vr/2002/14920299/12OmNzmclzS",
+            "Abstract": "Describes a general purpose flexible technique which uses physical modelling techniques for determining the features of a 3D object that are visible from any predefined view. Physical modelling techniques are used to determine which of many different types of features are visible from a complete set of viewpoints. The power of this technique lies in its ability to detect and parameterise object features, regardless of object complexity. Raytracing is used to simulate the physical process by which object features are visible so that surface properties (eg specularity, transparency) as well as object boundaries can be used in the recognition process. Using this technique occluding and non-occluding edge based features are extracted using image processing techniques and then parameterised. Features caused by specularity are also extracted and qualitative descriptions for these are defined.<>",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "An architecture for mobile outdoors augmented reality for cultural heritage",
+            "Publication year": 2018,
+            "Publication url": "https://www.mdpi.com/373054",
+            "Abstract": "In this paper, we present the software architecture of a complete mobile tourist guide for cultural heritage sites located in the old town of Chania, Crete, Greece. This includes gamified components that motivate the user to traverse the suggested interest points, as well as technically challenging outdoors augmented reality (AR) visualization features. The main focus of the AR feature is to superimpose 3D models of historical buildings in their past state onto the real world, while users walk around the Venetian part of Chania\u2019s city, exploring historical information in the form of text and images. We examined and tested registration and tracking mechanisms based on commercial AR frameworks in the challenging outdoor, sunny environment of a Mediterranean town, addressing relevant technical challenges. Upon visiting one of three significant monuments, a 3D model displaying the monument in its past state is visualized onto the mobile phone\u2019s screen at the exact location of the real-world monument, while the user is exploring the area. A location-based experience was designed and integrated into the application, enveloping the 3D model with real-world information at the same time. The users are urged to explore interest areas and unlock historical information, while earning points following a gamified experience. By combining AR technologies with location-aware and gamified elements, we aim to promote the technologically enhanced public appreciation of cultural heritage sites and showcase the cultural depth of the city of Chania. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Friction and slant perception in real and virtual environments",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1179622.1179759",
+            "Abstract": "Comparisons between real-world spatial judgments and simulation equivalents provide performance benchmarks as well as tools to assess whether a technological set-up would be of similar functional fidelity to a real-world task situation. It is widely recognised that perceptual fidelity is not necessarily equivalent to physical simulation. Identifying ways to \u2018induce\u2019reality by possibly distorting physics based on fundamental perceptual processes triggered in real and synthetic worlds rather than simulating the physics of reality is a novel research route worth pursuing. We describe a set of comparative studies between a real-world task situation and varied synthetic simulations which attempt to introduce novel functional fidelity metrics based on slant and friction perception, as well as novel perceptual estimates of slant offering a truly interdisciplinary approach.The proposed approach is based on classic findings of vision \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Technological research challenges of flight simulation and flight instructor assessments of perceived fidelity",
+            "Publication year": 2007,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/1046878106299035",
+            "Abstract": "This article postulates that perceptual fidelity is not necessarily communicated by exact physics-based simulation. Fidelity ranges widely among simulators; some re-create an environment or system so that it is difficult to distinguish between the simulator and the real system, whereas others re-create a small part of a system or present the whole system in a more compact and stylized fashion. This article aims to explore technological and perceptual fidelity metrics for flight simulators based on human judgments and technological characteristics resulting in research challenges in either facet of a system. Examples include psychophysical experiments assessing perceptual sensitivity to system faults such as latency. Focusing on commercial flight and flight systems simulation, this article presents the results of an experimental study acquiring user assessments of fidelity, involving expert users with experience of the real \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Sage Publications"
+        },
+        {
+            "Title": "The EPOCH multimodal interface for interacting with digital heritage artefacts",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11890881_45",
+            "Abstract": "In recent years, 3D and virtual reality have emerged as areas of extreme interest as methods for visualizing digital museum artefacts in context, and particularly over the Internet. The technology associated with these new visualization techniques has until now been very expensive. The advent of cheap computing and graphics cards coupled with increasing Internet \u2018broadband\u2019 access has made possible the implementation of effective virtual museums both online and within the museum. Virtual museums are valuable for the end-user for efficient and remote learning about their local heritage in a diverse multimodal manner. Multimodal access to museum artefacts can help the user to better understand and appreciate the objects and stories that the museum brings forward, but also creates a closer psychological bond between the user and his past. If we now couple cheap computing technologies, 3D and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Generalizeability of latency detection in a variety of virtual environments",
+            "Publication year": 2004,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/154193120404802306",
+            "Abstract": "User perceptual sensitivity to changes of system latency was tested in three simple virtual environments: one with only a foreground object, a second with only a background object, and a third that combined both of these elements. Prior psychophysical measurements of sensitivity, Just Noticeable Difference; and bias, Points of Subjective Equality, from our laboratory are confirmed with measurements in 13 subjects. Our measurements indicate that perceptual stability across a variety of virtual environments will require latencies less than 16 ms. We discount a possible explanation that the differences between our results and those from a study by Allison et al. could be related to a visual capture effect initially reported by L. Matin. Instead, the differences may be due to the type of psychophysical judgment rendered by the subjects and the degree to which subjects were instructed and practiced.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Music as an interventional design tool for urban designers",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2614217.2614283",
+            "Abstract": "At first look, music and architecture seem unrelated, but they share features such as composition, rhythm, repetition and analogies. Acoustic data encoded from the built environment provides a valuable platform on which discordant and imbalanced parts can be highlighted [Liapi et al. 2011]. The cognitive process of analyzing today\u2019s chaotic urban eco-system can be augmented with cross-modal understanding and intervening through the ecosystem\u2019s musical footprint. Based on a grammar which connects musical with architectural elements, we present a system that offers sonification of an Urban Virtual Environment (UVE), simulating a real-world cityscape, offering visual interpretation and interactive modification of its soundscape (Figure 1).The exciting methodology analyzed in this paper expands the hearing experience of the urban environment by marking its basic spatial elements and transforming them to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fidelity Metrics for Virtual Environment Simulations Based",
+            "Publication year": 2003,
+            "Publication url": "https://core.ac.uk/download/pdf/188810436.pdf",
+            "Abstract": "This paper describes a methodology based on human judgments of memory awareness states for assessing the simulation fidelity of a virtual environment (VE) in relation to its real scene counterpart. To demonstrate the distinction between task performance-based approaches and additional human evaluation of cognitive awareness states, a photorealistic VE was created. Resulting scenes displayed on a headmounted display (HMD) with or without head tracking and desktop monitor were then compared to the real-world task situation they represented, investigating spatial memory after exposure. Participants described how they completed their spatial recollections by selecting one of four choices of awareness states after retrieval in an initial test and a retention test a week after exposure to the environment. These reflected the level of visual mental imagery involved during retrieval, the familiarity of the recollection and also included guesses, even if informed. Experimental results revealed variations in the distribution of participants\u2019 awareness states across conditions while, in certain cases, task performance failed to reveal any. Experimental conditions that incorporated head tracking were not associated with visually induced recollections. Generally, simulation of task performance does not necessarily lead to simulation of the awareness states involved when completing a memory task. The general premise of this research focuses on how tasks are achieved, rather than only on what is achieved. The extent to which judgments of human memory recall, memory awareness states, and presence in the physical and VE are similar provides a fidelity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A 3D Rhythm-based Serious Game for Collaboration Improvement of Children with Attention Deficit Hyperactivity Disorder (ADHD)",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9453999/",
+            "Abstract": "The \u201dADDventurous Rhythmical Planet\u201d is a multimodal 3D serious game that exploits the benefits of music and rhythm to help children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) to confront important psychosocial challenges. Music is shown to significantly help children maintain focused attention as well as offer a timed structure around their actions, involving melody and tempo. The advantages of music are exploited in the game, using a tin drum. This drum is used by the player to produce rhythm and it is connected to the computer via a Makey Makey board. This board sends each drum knock as a mouse click signal to the computer. Using the drum, the player tries to reproduce a given beat, and subsequently synchronize with another player, so that they cooperatively produce an expected beat. This creates a connection between the real and the virtual world of the game. In order for the hero \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:tzM49s52ZIMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A schema-based selective rendering framework",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1620993.1621011",
+            "Abstract": "Perception principles have been incorporated into rendering algorithms in order to optimize rendering computation and produce photorealistic images from a human rather than a machine point of view. In order to economize on rendering computation, selective rendering guides high level of detail to specific regions of a synthetic scene and lower quality to the remaining scene, without compromising the level of information transmitted. Scene regions that have been rendered in low and high quality can be combined to form one complete scene. Such decisions are guided by predictive attention modeling, gaze or task-based information. We propose a novel selective rendering approach which is task and gaze-independent, simulating cognitive creation of spatial hypotheses. Scene objects are rendered in varying polygon quality according to how they are associated with the context (schema) of the scene \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The effect of tracking delay on awareness states in immersive virtual environments: an initial exploration",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2087756.2087848",
+            "Abstract": "This paper presents an experimental methodology exploring the effect of tracking latency on object recognition after exposure to an immersive VE, in terms of both scene context and associated awareness states. System latency (time delay) and its visible consequences are fundamental Virtual Environment (VE) deficiencies that can hamper spatial awareness and memory. The immersive simulation consisted of a radiosity-rendered space divided in three zones including a kitchen/dining area, an office area and a lounge area. The space was populated by objects consistent as well as inconsistent with each zone's context. The simulation was displayed on a stereo head-tracked Head Mounted Display. Participants across two conditions of varying latency (system minimum latency vs added latency condition) were exposed to the VE and completed an object-based memory recognition task. Participants also reported \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Simulating perception with interactive virtual environments",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1400752/",
+            "Abstract": "Computer graphics algorithms have for long dealt with simulation of physics: simulation of the geometry of a real-world space, simulation of the light propagation in a real environment and simulation of motor actions with appropriate tracking. Perception principles have subsequently been incorporated into rendering algorithms in order to save rendering computation and produce photorealistic images from a human rather than a machine point of view. With virtual environment (VE) simulator technologies simulating real-world task situations mainly for transfer of training, the research community is challenged to produce a complex system. Furthermore, accurate simulation of physics is often not required in order to induce reality. Much less detail is adequate. This paper is going to review research literature exploring behavioral fidelity and reality benchmarking in interactive VEs focusing on results from two studies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Between Real and Unreal: Investigating Presence and Task Performance in Virtual Environments",
+            "Publication year": 2000,
+            "Publication url": "https://research-information.bris.ac.uk/en/publications/between-real-and-unreal-investigating-presence-and-task-performan",
+            "Abstract": "Between Real and Unreal: Investigating Presence and Task Performance in Virtual \nEnvironments \u2014 University of Bristol Skip to main navigation Skip to search Skip to main content \nUniversity of Bristol Logo Help & Terms of Use Home Profiles Research Units Research Outputs \nProjects Student theses Datasets Activities Prizes Facilities/Equipment Search by expertise, \nname or affiliation Between Real and Unreal: Investigating Presence and Task Performance in \nVirtual Environments Katerina Mania, Alan Chalmers Department of Computer Science \nResearch output: Chapter in Book/Report/Conference proceeding \u203a Conference Contribution \n(Conference Proceeding) Overview Translated title of the contribution Between Real and Unreal: \nInvestigating Presence and Task Performance in Virtual Environments Original language \nEnglish Title of host publication Unknown Pages 0 - 0 Number of pages 1 Publication status - /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Context-aware material selective rendering for mobile graphics",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2614217.2614246",
+            "Abstract": "Modern video games and interactive applications get simultaneously deployed for computers, consoles and mobile devices. These platforms are extremely diverse in terms of computing power. Modern materials and effects such as complex refraction with chromatic aberration and subsurface scattering that are considered standard in high-end desktop computers, do not scale well in portable devices. Hardware restrictions prohibit the use of-necessary for the game aesthetics-effects that demand multiple texture fetches and many arithmetic/logic operations. We present for the first time, a perceptually optimized renderer for mobile platforms incorporating a context-based visual attention model which we call Cognitive Level-Of-Detail (C-LOD). Taking into account the dependence of attention deployment on scene context and object topology the innovative renderer presented saves computational time by automatically \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Outdoors Mobile Augmented Reality for Coastal Erosion Visualization Based on Geographical Data.",
+            "Publication year": 2020,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18099220053269582101&hl=en&oi=scholarr",
+            "Abstract": "This paper presents a Mobile Augmented Reality (MAR) system for coastal erosion visualization based on geographical data. The system is demonstrated at the beach of Georgioupoli in Chania, Crete Grece, in challenging, sunny, outdoors conditions. The main focus of this work is the 3D on-site visualization of the future state of the beach when the shoreline will inevitably progresses in-land based on the impact of severe coastal erosion, taking place across the Mediterranean sea but also worldwide. We feature two future scenarios in three locations of the beach. A 3D sea segment is matched to the user\u2019s actual position. The visualization as seen through a smartphone\u2019s screen presents an unprecedented seamless view of the 3D sea segment joined with the real-world edge of the sea, achieving accurate registration of the 3D segment with the real-world. Position tracking is performed by utilizing the phone\u2019s GPS \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploring the educational impact of diverse technologies in online virtual museums",
+            "Publication year": 2017,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJART.2017.083907",
+            "Abstract": "This research explores the learning outcomes of online virtual museums employing diverse technologies such as images, videos, 3D reconstructions, etc. It presents the selection criteria (imageability, interactivity, navigability, personalisation, communication) of the five online virtual museums (VMs) involved in the analysis, each of which brings forward a prominent visualisation technology. Then, it describes the methodology of the evaluation process, in which a group of 164 (n = 164) participants, after exploration of the virtual museum websites, answered a self-administered questionnaire including 12 questions based on the concept of generic learning outcomes: a) knowledge and understanding; b) skills; c) change in attitude and values; d) enjoyment, inspiration and creativity; e) action, behaviour and progression. The results of a statistical analysis investigating the educational impact of each VM are analysed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:5ugPr518TE4C",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "Towards perceptual fidelity: Slant perception in real and interactive virtual environments",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1071581912001140",
+            "Abstract": "An innovative motoric measure of slant based on gait is proposed as the angle between the foot and the walking surface during walking. This work investigates whether the proposed action-based measure is affected by factors such as material and inclination of the walking surface. Experimental studies were conducted in a real environment set-up and in its virtual simulation counterpart evaluating behavioural fidelity and user performance in ecologically-valid simulations. In the real environment, the measure slightly overestimated the inclined path whereas in the virtual environment it slightly underestimated the inclined path. The results imply that the proposed slant measure is modulated by motoric caution. Since the \u201creality\u201d of the synthetic environment was relatively high, performance results should have revealed the same degree of caution as in the real world, however, that was not the case. People become \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:blknAaTinKkC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "An analysis of the effect of technological fidelity on perceptual fidelity",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15320610321600285161&hl=en&oi=scholarr",
+            "Abstract": "Accurate simulation of physics is often not required in order to induce the feeling of \u2018reality\u2019 after being exposed to a synthetic simulation comprising of computer graphics imagery and appropriate simulator apparatus. Much less detail is often adequate. This paper is going to review human-centred fidelity metrics for immersive simulations and explore human factors issues concerned with perceptual fidelity. Two case studies are going to be summarized. The first is concerned with the effect of memory schemas on object recognition in immersive virtual environments. The second explores 3D spatial input via a physical mock up of a museum artefact in comparison to lower fidelity interaction devices.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Elsevier Science"
+        },
+        {
+            "Title": "Tutorial 4: Usability Evaluation Techniques for Virtual Reality Technologies",
+            "Publication year": 2001,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/vr/2001/09480310/12OmNBQ2VSc",
+            "Abstract": ",, 6,!,,, Tutorial 4: Usability Evaluation Techniques, for Virtual Reality Technologies,, Stephen Ellis, NASA Ames Research Center, Katerina Mania, University of Bristol, Alan Chalmers, University of Bristol, Mark Billinghurst, HITLab, University of Washington, Anthony Steed, University College London, Abstract,, The research community is challenged to investigate the factors that make virtual reality technologies, effective and productive. Realizing the goals of virtual reality systems and harnessing them to successful, applications could be accomplished by employing robust metrics and human-centered experimentation., Subsequently, the quality of interfaces and platforms implemented could be assessed.,, This tutorial will present the techniques and principles towards designing usability evaluation, experiments for virtual reality technologies. Starting from generic user studies guidelines, complete, experimental cycles \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Evaluation of a cultural heritage augmented reality game",
+            "Publication year": 2015,
+            "Publication url": "https://www.researchgate.net/profile/Stella-Sylaiou/publication/292091242_Evaluation_of_a_Cultural_Heritage_Augmented_Reality_Game/links/56b2605d08ae795dd5c7b6cc/Evaluation-of-a-Cultural-Heritage-Augmented-Reality-Game.pdf",
+            "Abstract": "The ability to develop sophisticated and flexible web and mobile applications based on augmented reality (AR) and gaming engine technologies is incredible taking into account the plethora of powerful mobile computing devices for displaying such applications. In this respect, the research community is challenged to investigate the factors that make such technologies effective, productive and engaging. In this paper, we investigate the efficacy of augmented reality in a simple cultural heritage game, by evaluating real-time feedback from users. The game has been implemented within the ARCO (Augmented Representation of Cultural Objects) system using its flexible AR scenario authoring tools and dynamic content composition and delivery technology. The game has been presented within an Augmented Reality Interface\u2014a specialized application enabling AR on a user\u2019s computer. The ARCO system, a result of the ARCO project, allows museums to create their own virtual museum exhibitions based around a collection of cultural objects. A typical virtual museum would be composed of exhibition spaces that present these digital objects to a user, for example, on a web page, on a mobile device or in a virtual environment. A virtual museum can present these digital objects in the form of an interactive AR game or quiz. Through the use of interviews and structured questionnaires, user feedback has been collected for evaluation to enable us to improve the game characteristics, but more importantly to understand whether AR based games are educationally useful, meaningful and appealing to users. In this respect, our study revealed that AR based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Quantifying fidelity for virtual environment simulations employing memory schema assumptions",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1857893.1857895",
+            "Abstract": "In a virtual environment (VE), efficient techniques are often needed to economize on rendering computation without compromising the information transmitted. The reported experiments devise a functional fidelity metric by exploiting research on memory schemata. According to the proposed measure, similar information would be transmitted across synthetic and real-world scenes depicting a specific schema. This would ultimately indicate which areas in a VE could be rendered in lower quality without affecting information uptake. We examine whether computationally more expensive scenes of greater visual fidelity affect memory performance after exposure to immersive VEs, or whether they are merely more aesthetically pleasing than their diminished visual quality counterparts. Results indicate that memory schemata function in VEs similar to real-world environments. \u201cHigh-level\u201d visual cognition related to late \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "VAST'06: Proceedings of the 7th International conference on Virtual Reality, Archaeology and Intelligent Cultural Heritage",
+            "Publication year": 2006,
+            "Publication url": "https://ktisis.cut.ac.cy/bitstream/10488/18702/1/VAST2006.pdf",
+            "Abstract": "This volume contains the so-called \u201cshort\u201d papers presented at the VAST2006 International Conference held in Nicosia, Cyprus, on 30 October\u20134 November 2006. The Conference is a joint effort of several organisations and continues the successful series of VAST Conferences, which started in Arezzo, Italy, in November 2000, on the eve of the 21st century.VAST Conferences focus on the applications of Information and Communication Technology to Cultural Heritage and Archaeology. In particular, special attention is paid to computer visualization technologies and 3D modelling, which have an outstanding importance in the explanation and communication of heritage to a broad audience of visitors. The variety of themes presented are of equal importance, such as the documentation of heritage, the foundation of preservation and specific technologies, such as mobile computing and 3D data capture and processing. During its life, VAST has shared its goals with EPOCH, the European Network of Excellence on ICT applications to Cultural Heritage (www. epoch-net. org), and naturally became the venue for hosting the reports of the Network\u2019s activity. Since 2004, EPOCH has become the primary supporter of VAST, which also hosts the Eurographics Workshop on Graphics and Cultural Heritage since 2003. Eurographics also became the publisher of the \u201cfull\u201d papers proceedings. In the 2006 edition, other organizations have joined in this effort.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:uLbwQdceFCQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spatial Perception, Memory and Performance in Synthetic Worlds",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1680564045074697511&hl=en&oi=scholarr",
+            "Abstract": "One aim of interactive computer graphics and Virtual Environment (VE) technologies for simulation and training is the creation of accurate, high-quality imagery which faithfully represents a physical environment. The ultimate goal, as often argued, is to create synthetic spaces which are going to induce a sense of \u2018presence\u2019similar to the real world. The accurate simulation of real-world spaces and illumination could be required as well as the simulation of interaction interfaces to match the human perceptual and motor systems. Robust metrics are essential in order to assess VE implementations comprising of computer graphics imagery, display technologies and 3D interaction metaphors across a range of application fields. One common belief is that efficient task performance measures should serve as fidelity metrics for any application that requires a high level of simulation fidelity and mainly targets, for instance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Influencing factors on the visualisation of archaeological uncertainty",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/2384154.2384169",
+            "Abstract": "This paper presents further work on a 3D visualisation system for the reconstruction of historical structures which takes into account archaeological uncertainty. The uncertainty associated with an archaeologist's interpretation is represented using possibility theory and visualised by shader-based information visualisation schemes. An increase or decrease in uncertainty is influenced by any related evidence recovered; we define this evidence as' influencing factors'. Different types of archaeological evidence were identified after discussions with several archaeologists. To understand the individual importance of each influencing factor on an interpretation, we analysed data derived from formal questionnaires distributed to a selected group of archaeologists equally divided between Roman and non-Roman specialists. They were asked questions ranging from the wider perception of uncertainty to more specific ones \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fq9RjXsAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Web-Gorgias-B: Argumentation for All.",
+            "Publication year": 2021,
+            "Publication url": "https://www.scitepress.org/Papers/2021/102694/102694.pdf",
+            "Abstract": "This paper proposes the use of a web-based authoring tool for the development of applications of argumentation. It focuses on aiding people that have little, or no knowledge of logic programming, or of an argumentation framework, to develop argumentation-based decision policies. To achieve this, it proposes an implementation of the table formalism that has recently been proposed in the literature. The proposed implementation contains original features that were evaluated by experts in web-application development, students and experts in argumentation. The main feature of the proposed system is the ability to define a default preferred option in a given scenario, thus, allowing for other options to be used in further refinements of the scenario. We followed a user-centered development process using the think aloud protocol. We evaluated the usability of the system with the System Usability Scale, validating our hypothesis that even naive users can employ it to define their decision policies.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The cognitive impact of head tracking latency in immersive simulations",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1620993.1621030",
+            "Abstract": "This research presents an immersive Virtual Environment (VE) of minimum tracking latency. Subsequently, we quantify the cognitive impact of head-tracking latency by investigating the effect of latency on spatial cognition, awareness states and mental imagery. Both the quantification of perceptual sensitivity to latency and description of the mechanism by which VE latency is perceived and controlled will be essential to guide system countermeasures such as predictive compensation.",
+            "Abstract entirety": 1,
+            "Author pub id": "fq9RjXsAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

@@ -21,14 +21,19 @@ def get_scholar_name(author_dict: dict):
     links = search(query, num_results=5)
     for link in links:
         if "scholar" in link:
-            author_page = requests.get(link)
-            soup = BeautifulSoup(author_page.content, "html.parser")
-            name = soup.find("div", id="gsc_prf_in").text
-            print(name)
-            author_dict["Scholar name"] = name
-            temp_id = link.split("user=")[1]
-            author_dict["Scholar id"] = temp_id.split("&hl=")[0] if "&hl=" in temp_id else temp_id
-            return author_dict
+            try:
+                author_page = requests.get(link)
+                soup = BeautifulSoup(author_page.content, "html.parser")
+                name = soup.find("div", id="gsc_prf_in").text
+                print(name)
+                author_dict["Scholar name"] = name
+                temp_id = link.split("user=")[1]
+                author_dict["Scholar id"] = temp_id.split("&hl=")[0] if "&hl=" in temp_id else temp_id
+                return author_dict
+            
+            except:
+                print("error")
+                continue
         
         else:
             continue 

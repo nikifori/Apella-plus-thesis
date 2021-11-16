@@ -1,0 +1,209 @@
+[{
+    "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039c\u03b1\u03bd\u03bf\u03c5\u03c3\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Ioannis Manousakis",
+    "School-Department": "Computer Science",
+    "University": "LRI, University Paris South, Orsay",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 11102,
+    "Scholar name": "Ioannis Manousakis",
+    "Scholar id": "5rA-dYcAAAAJ",
+    "Affiliation": "Microsoft",
+    "Citedby": 157,
+    "Interests": [
+        "Datacenter Architecture",
+        "Computer Architecture",
+        "Energy Efficient Systems"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=5rA-dYcAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "TProf: An energy profiler for task-parallel programs",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2210537914000390",
+            "Abstract": "We present TProf, an energy profiling tool for OpenMP-like task-parallel programs. To compute the energy consumed by each task in a parallel application, TProf dynamically traces the parallel execution and uses a novel technique to estimate the per-task energy consumption. To achieve this estimation, TProf apportions the total processor energy among cores and overcomes the limitation of current works which would otherwise make parallel accounting impossible to achieve. We demonstrate the value of TProf by characterizing a set of task parallel programs, where we find that data locality, memory access patterns and task working sets are responsible for significant variance in energy consumption between seemingly homogeneous tasks. In addition, we identify opportunities for fine-grain energy optimization by applying per-task Dynamic Voltage and Frequency Scaling (DVFS).",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "CPU Overclocking: A Performance Assessment of Air, Cold Plates, and Two-Phase Immersion Cooling",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/iel7/5503870/9592341/09517300.pdf",
+            "Abstract": "Computing capacity has always been on the upward climb due to the constant technological improvements in semiconductor manufacturing and packaging industry. This growth in computing capability is usually accompanied by a steep rise in heat flux density associated with the electronic component (CPUs or GPUs for example). High Performance Computing (HPC) data centers often employ several of these high-performance devices for crunching their enormous Artificial Intelligence (AI) or scientific computing workloads. State-of-the-art air cooling technologies throttle after a certain heat flux level and would require bigger heat sinks driving enormous airflow through it, which may not be desirable from a data center operation standpoint. Hence, a lookout for advanced thermal management techniques is quite imperative. In this article, a commercially available intel overclockable CPU i9-9900k was exercised with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Machine learning-based power capping and virtual machine placement in cloud platforms",
+            "Publication year": 2021,
+            "Publication url": "https://patents.google.com/patent/US20210103458A1/en",
+            "Abstract": "Systems and methods for machine learning-based power capping and virtual machine placement in cloud platforms are disclosed. A method includes applying a machine learning model to predict whether a request for deployment of a virtual machine corresponds to deployment of a user-facing (UF) virtual machine or a non-user-facing (NUF) virtual machine. The method further includes sorting a list of candidate servers based on both a chassis score and a server score for each server to determine a ranked list of the candidate servers, where the server score depends at least on whether the request for the deployment of the virtual machine is determined to be a request for a deployment of a UF virtual machine or a request for a deployment of an NUF virtual machine. The method further includes deploying the virtual machine to a server with highest rank among the ranked list of the candidate servers.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mitigating vapor loss in a two-phase immersion cooling system",
+            "Publication year": 2021,
+            "Publication url": "https://patents.google.com/patent/US20210059079A1/en",
+            "Abstract": "Techniques for mitigating loss of vaporized working fluid in a two-phase immersion cooling system may be implemented using one or more supplemental condensers that facilitate condensation of vaporized working fluid when the immersion tank is open, and one or more vapor collection points that are in fluid communication with at least one supplemental condenser. One or more fluid displacement devices may be configured to create suction pressure at the one or more vapor collection points. One or more vents may be positioned in the door. The one or more vents may be configured to permit movement of air from outside the immersion tank into an interior portion of the immersion tank without permitting loss of vaporized working fluid. A directional blowing device may be configured to blow a gaseous substance against a computing device in a downward direction as the computing device is being pulled upward \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cost-Efficient Overclocking in Immersion-Cooled Datacenters",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9499736/",
+            "Abstract": "Cloud providers typically use air-based solutions for cooling servers in datacenters. However, increasing transistor counts and the end of Dennard scaling will result in chips with thermal design power that exceeds the capabilities of air cooling in the near future. Consequently, providers have started to explore liquid cooling solutions (e.g., cold plates, immersion cooling) for the most power-hungry workloads. By keeping the servers cooler, these new solutions enable providers to operate server components beyond the normal frequency range (i.e., overclocking them) all the time. Still, providers must tradeoff the increase in performance via overclocking with its higher power draw and any component reliability implications.In this paper, we argue that two-phase immersion cooling (2PIC) is the most promising technology, and build three prototype 2PIC tanks. Given the benefits of 2PIC, we characterize the impact of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient software packet processing on heterogeneous and asymmetric hardware architectures",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2658260.2658265",
+            "Abstract": "Heterogeneous and asymmetric computing systems are composed by a set of different processing units, each with its own unique performance and energy characteristics. Still, the majority of current network packet processing frameworks targets only a single device (the CPU or some accelerator), leaving other processing resources idle. In this paper, we propose an adaptive scheduling approach that supports heterogeneous and asymmetric hardware, tailored for network packet processing applications. Our scheduler is able to respond quickly to dynamic performance fluctuations that occur at real-time, such as traffic bursts, application overloads and system changes. The experimental results show that our system is able to match the peak throughput of a diverse set of packet processing workloads, while consuming up to 3.5 x less energy.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Systems and methods for scheduling datacenter buildouts",
+            "Publication year": 2018,
+            "Publication url": "https://patents.google.com/patent/US20180336579A1/en",
+            "Abstract": "A system estimates a future demand for resources over a first time period to build a datacenter. The resources include construction resources to construct the datacenter and computing resources for the datacenter. The system generates, based on inputs including the future demand, a first schedule of resources to build a first stage of the datacenter over the first time period. The first schedule includes fewer resources than an amount of resources capable of fulfilling the future demand. The system determines a probability of the first schedule not fulfilling the future demand and determines a risk associated with the first schedule based on the probability. The system identifies procedures to employ to mitigate the risk, including oversubscribing resources in the first schedule, lending a portion of the future demand to a peer datacenter, and leasing an additional datacenter, where the first schedule and the procedures \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Managing power resources for pools of virtual machines",
+            "Publication year": 2021,
+            "Publication url": "https://patents.google.com/patent/US20210318745A1/en",
+            "Abstract": "The present disclosure relates to systems, methods, and computer readable media for enabling server devices to utilize a higher percentage of power resources while maintaining sufficient availability of power resources of a datacenter or other collection of server devices. For example, systems disclosed herein determine and implement power shaving actions based on virtual machine metadata and in accordance with a power shaving policy to facilitate a significantly higher utilization of power resources on a datacenter during normal operation as well as within periods of limited power capacity on various server devices. Systems described herein provide more efficient utilization of power resources while maintaining service availability guarantees for a variety of virtual machines hosted by servers of the datacenter.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Btl: A framework for measuring and modeling energy in memory hierarchies",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6374782/",
+            "Abstract": "Understanding the energy efficiency of computing systems is paramount. Although processors remain dominant energy consumers and the focal target of energy-aware optimization in computing systems, the memory subsystem dissipates substantial amounts of power, which at high densities may exceed50% of total system power. The failure of DRAM to keep up with increasing processor speeds, creates a two-pronged bottleneck for overall system energy efficiency. This paper presents a high-performance, autonomic power instrumentation setup to measure energy consumption in computing systems and accurately attribute energy to processors and components of the memory hierarchy. We provide a set of carefully engineered micro benchmarks that reveal the energy efficiency under different memory access patterns and stress the importance of minimizing costly data transfers that involve multiple levels of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cooling provisioning and reliability implications for cost-efficient datacenters",
+            "Publication year": 2018,
+            "Publication url": "https://rucore.libraries.rutgers.edu/rutgers-lib/57657/",
+            "Abstract": "Today and for the foreseeable future, demand for datacenter capacity is constantly increasing worldwide, primarily driven by cloud computing. Large cloud providers such as Amazon, Microsoft and Google are currently deploying multi-gigawatt facilities annually. This staggering growth is costly. Just for datacenter infrastructure, excluding IT equipment, energy and maintenance costs, these companies spend approximately ten dollars to house each useful Watt of IT equipment. Due to the huge monetary incentives, cloud providers have made significant strides in reducing both capital (provisioning) and operations costs of their datacenters primarily via the adaptation of cost-efficient cooling technologies. However, significant opportunities still exist. Thus, this dissertation is dedicated to cost-efficient methods for provisioning the datacenter cooling infrastructure and the implications to server reliability.In the first part of this dissertation, we propose a method to reduce cooling costs by underprovisioning the cooling infrastructure of datacenters. Cooling costs still represent a significant capital and operational expense, mainly because cloud providers typically provision their cooling infrastructure for the worst-case scenario (ie, very high load and outside temperature at the same time). Since extreme conditions occur very rarely, it is cost efficient to provision for less capacity (under-provision) and manage the rare",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Coolprovision: Underprovisioning datacenter cooling",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2806777.2806938",
+            "Abstract": "Cloud providers have made significant strides in reducing the cooling capital and operational costs of their datacenters, for example, by leveraging outside air (\" free\") cooling where possible. Despite these advances, cooling costs still represent a significant expense mainly because cloud providers typically provision their cooling infrastructure for the worst-case scenario (ie, very high load and outside temperature at the same time). Thus, in this paper, we propose to reduce cooling costs by underprovisioning the cooling infrastructure. When the cooling is underprovisioned, there might be (rare) periods when the cooling infrastructure cannot cool down the IT equipment enough. During these periods, we can either (1) reduce the processing capacity and potentially degrade the quality of service, or (2) let the IT equipment temperature increase in exchange for a controlled degradation in reliability. To determine the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Environmental conditions and disk reliability in free-cooled datacenters",
+            "Publication year": 2016,
+            "Publication url": "https://www.usenix.org/conference/fast16/technical-sessions/presentation/manousakis",
+            "Abstract": "Free cooling lowers datacenter costs significantly, but may also expose servers to higher and more variable temperatures and relative humidities. It is currently unclear whether these environmental conditions have a significant impact on hardware component reliability. Thus, in this paper, we use data from nine hyperscale datacenters to study the impact of environmental conditions on the reliability of server hardware, with a particular focus on disk drives and free cooling. Based on this study, we derive and validate a new model of disk lifetime as a function of environmental conditions. Furthermore, we quantify the tradeoffs between energy consumption, environmental conditions, component reliability, and datacenter costs. Finally, based on our analyses and model, we derive server and datacenter design lessons.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prediction-based power oversubscription in cloud platforms",
+            "Publication year": 2021,
+            "Publication url": "https://www.usenix.org/conference/atc21/presentation/kumbhare",
+            "Abstract": "Prior work has used power capping to shave rare power peaks and add more servers to a datacenter, thereby oversubscribing its resources and lowering capital costs. This works well when the workloads and their server placements are known. Unfortunately, these factors are unknown in public clouds, forcing providers to limit the oversubscription and thus the potential performance loss from power capping. In this paper, we argue that providers can use predictions of workload performance criticality and virtual machine (VM) resource utilization to increase oversubscription. This poses many challenges, such as identifying the performance-critical workloads from opaque VMs, creating support for criticality-aware power management, and increasing oversubscription while limiting the impact of capping. We address these challenges for the hardware and software of Microsoft Azure. The results show that we enable a 2x increase in oversubscription with minimum impact to critical workloads. We describe lessons from deploying our work in production.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Energy regeneration in fuel cell-powered datacenter with thermoelectric generators",
+            "Publication year": 2021,
+            "Publication url": "https://patents.google.com/patent/US10998483B1/en",
+            "Abstract": "A method of controlling energy in a datacenter includes receiving a fuel cell operating percentage of an operating capacity of the fuel cell, receiving a fuel cell exhaust temperature, receiving a hot aisle air temperature from a hot aisle of a server computer, determining a temperature delta between the hot aisle air temperature and the fuel cell exhaust temperature, and then allocating virtual machine placements to change a server user percentage relative to a server user capacity percentage target value to optimize the fuel cell operating percentage relative to the fuel cell efficiency target value, the temperature delta relative to the thermoelectric generator efficiency target value, and the server user percentage relative to the server user capacity percentage target value.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Uncertainty propagation in data processing systems",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3267809.3267833",
+            "Abstract": "We are seeing an explosion of uncertain data---ie, data that is more properly represented by probability distributions or estimated values with error bounds rather than exact values---from sensors in IoT, sampling-based approximate computations and machine learning algorithms. In many cases, performing computations on uncertain data as if it were exact leads to incorrect results. Unfortunately, developing applications for processing uncertain data is a major challenge from both the mathematical and performance perspectives. This paper proposes and evaluates an approach for tackling this challenge in DAG-based data processing systems. We present a framework for uncertainty propagation (UP) that allows developers to modify precise implementations of DAG nodes to process uncertain inputs with modest effort. We implement this framework in a system called UP-MapReduce, and use it to modify ten \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Epc: a power instrumentation controller for embedded applications",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2318836.2318841",
+            "Abstract": "In this work we propose and implement a real-time power monitor controller based on a simple 8-bit AVR controller and an analog Hall effect current sensor. Our setup imposes negligible degradation in the power efficiency, performance and the response time of the instrumented system. Those characteristics make it ideal for portable and battery critical applications. The use of an external controller enables the implementation of a function set for automated power measurement and energy accounting. In order to validate the correctness and the quality of our implementation we have used our setup to instrument a Linux Single Board Computer (SBC) based on an ARM micro-controller. During this instrumentation we have run various CPU and I/O intensive workloads that incur fast phase transitions.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Sustainable Computing: Informatics and Systems",
+            "Publication year": 2014,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6401905670502560795&hl=en&oi=scholarr",
+            "Abstract": "Article history: Received 19 April 2013",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Leveraging reserved data center resources to improve data center utilization",
+            "Publication year": 2020,
+            "Publication url": "https://patents.google.com/patent/US20200394081A1/en",
+            "Abstract": "A method for facilitating increased utilization of a data center includes receiving information about availability of components in a data center's electrical infrastructure and about power consumption of servers in the data center. The method may also include detecting that the power consumption of the servers in the data center exceeds a reduced total capacity of the electrical infrastructure. The reduced total capacity may be caused by unavailability of at least one component in the data center's electrical infrastructure. The method may also include causing power management to be performed to reduce the power consumption of the servers so that the power consumption of the servers does not exceed the reduced total capacity of the electrical infrastructure of the data center.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Flex: High-availability datacenters with zero reserved power",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9499818/",
+            "Abstract": "Cloud providers, like Amazon and Microsoft, must guarantee high availability for a large fraction of their workloads. For this reason, they build datacenters with redundant infrastructures for power delivery and cooling. Typically, the redundant resources are reserved for use only during infrastructure failure or maintenance events, so that workload performance and availability do not suffer. Unfortunately, the reserved resources also produce lower power utilization and, consequently, require more datacenters to be built. To address these problems, in this paper we propose \"zero-reserved-power\" datacenters and the Flex system to ensure that workloads still receive their desired performance and availability. Flex leverages the existence of software-redundant workloads that can tolerate lower infrastructure availability, while imposing minimal (if any) performance degradation for those that require high infrastructure \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "{FDIO}: A Feedback Driven Controller for Minimizing Energy in I/O-Intensive Applications",
+            "Publication year": 2013,
+            "Publication url": "https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/manousakis",
+            "Abstract": "The relatively low utilization of servers in data-center environments when running I/O-intensive applications is a key concern for efficiency. Energy optimization, by throttling power consumption, is an essential operational goal. Since processors are the most demanding of the components constituting a server, energy optimization has focused on regulating processor consumption. However, more recently memory and storage are increasingly becoming more demanding, collectively accounting for more than 40% of the overall energy consumption in typical system configurations. We argue that this trend necessitates tracking overall energy consumption rather than focusing on any single component. Although currently only processors expose energy-related controls at a fine granularity, we demonstrate that with a more holistic approach we can obtain significant efficiency benefits. Specifically, our feedback-based controller for Linux detects I/O-intensive phases in workloads, and adjusts processor operating frequencies accordingly, in a more effective manner than the standard CPU governors.",
+            "Abstract entirety": 1,
+            "Author pub id": "5rA-dYcAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Strengthening consistency in the cassandra distributed key-value store",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-38541-4_17",
+            "Abstract": "Distributed highly-available key-value stores have emerged as important building blocks for applications handling large amounts of data. The Apache Cassandra system is one such popular store combining a key distribution mechanism based on consistent hashing with eventually-consistent data replication and membership mechanisms. Cassandra fits well applications that share its semantics but is a poor choice for traditional applications that require strong data consistency. In this work we strengthen the consistency of Cassandra through the use of appropriate components: the Oracle Berkeley DB Java Edition High Availability storage engine for data replication and a replicated directory for maintaining membership information. The first component ensures that data replicas remain consistent despite failures. The second component simplifies Cassandra\u2019s membership, improving its consistency and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "5rA-dYcAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        }
+    ]
+}]

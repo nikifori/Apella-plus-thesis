@@ -1,0 +1,1044 @@
+[{
+    "name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2 \u039a\u03bf\u03c5\u03b3\u03b9\u03bf\u03c5\u03bc\u03c4\u03b6\u03ae\u03c2",
+    "romanize name": "Dimitrios Kougioumtzis",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7 & \u039c\u03b7\u03c7 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "auth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18580,
+    "Scholar name": "D Kugiumtzis",
+    "Scholar id": "SgQOqeIAAAAJ",
+    "Affiliation": "Aristotle University of Thessaloniki",
+    "Citedby": 3319,
+    "Interests": [
+        "computational statistics - time series"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=SgQOqeIAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Turning point prediction of oscillating time series using local dynamic regression models",
+            "Publication year": 2008,
+            "Publication url": "https://arxiv.org/abs/0809.2229",
+            "Abstract": "In the prediction of oscillating time series, the interest is in the turning points of successive oscillations rather than the samples themselves. For this purpose a scheme has been proposed; the state space reconstruction is limited to the turning points and the local (nearest neighbor) model is modified in order to predict the turning point magnitudes and times. This approach is extended here using a local dynamic regression model on both turning point magnitudes and times. Simulations on oscillating nonlinear systems show that the proposed approach gives better predictions of turning points than the standard local model applied to all the samples of the oscillating time series.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Testing the randomness of causality networks from multivariate time series",
+            "Publication year": 2014,
+            "Publication url": "http://users.auth.gr/~dkugiu/Publications/Y2014ChorozoglouRandomCorrNets_NOLTA2014.pdf",
+            "Abstract": "In network analysis it is important to contrast the given or formed network to a random network, typically by means of significance testing of some network measures. This requires the generation of random networks that preserve certain properties of the original network, ie the total number of nodes and connections or even the number of connections of each node. In this paper we show that these schemes are not appropriate for correlation or causality networks formed from multivariate time series, which have nodes the observed variables and connections given by some measure of correlation (undirected connections) or Granger causality (directed connections). Further, we propose a scheme that performs the randomization on the time series rather than the network connections. Particularly for the networks formed by cross correlation, we generate surrogates for each time series preserving the marginal distribution and linear autocorrelation, and form the network from the surrogate multivariate time series. Simulations on multivariate time series with no inter-dependencies shows that the classical network randomization erroneously tends to reject the null hypothesis of random network, whereas the proposed scheme does not.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEICE, Japan"
+        },
+        {
+            "Title": "Evaluation of Surrogate and Bootstrap Tests for Nonlinearity",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.512.2325",
+            "Abstract": "The validity of any test for nonlinearity based on resampling techniques depends heavily on the consistency of the generated resampled data to the null hypothesis of linear stochastic process. The surrogate data generating algorithms AAFT, IAAFT and STAP, as well as a residual-based bootstrap algorithm, all used for the randomization or bootstrap test for nonlinearity, are reviewed and their performance is compared using different nonlinear statistics for the test. The simulations on linear and nonlinear stochastic systems, as well as chaotic systems, reveals a variation in the test outcome with the algorithm and statistic. Overall, the bootstrap algorithm led to smallest test power whereas the STAP algorithm gave consistently good results in terms of size and power of the test. The performance of the nonlinearity test with the resampling techniques is evaluated on volume and return time series of international stock exchange indices.\u2217 I would like to thank the reviewers for their valuable comments. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Financial networks based on Granger causality: A case study",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437117303503",
+            "Abstract": "Connectivity analysis is performed on a long financial record of 21 international stock indices employing a linear and a nonlinear causality measure, the conditional Granger causality index (CGCI) and the partial mutual information on mixed embedding (PMIME), respectively. Both measures aim to specify the direction of the interrelationships among the international stock indexes and portray the links of the resulting networks, by the presence of direct couplings between variables exploiting all available information. However, their differences are assessed due to the presence of nonlinearity. The weighted networks formed with respect to the causality measures are transformed to binary ones using a significance test. The financial networks are formed on sliding windows in order to examine the network characteristics and trace changes in the connectivity structure. Subsequently, two statistical network quantities are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Testing the randomness of correlation networks from multivariate time series",
+            "Publication year": 2019,
+            "Publication url": "https://academic.oup.com/comnet/article-abstract/7/2/190/5074365",
+            "Abstract": "In network analysis, it is important to contrast the given or formed network to a random network. This requires the generation of randomized networks that preserve certain properties of the original network, i.e. the total number of nodes and connections or even the number of connections of each node. In this article, we show that these schemes are not appropriate for correlation networks formed from multivariate time series, where the observed variables constitute the network nodes and the correlation measure defines the network connections. Further, we propose a scheme for the generation of appropriate random networks that performs the randomization on the time series rather than the original network connections, employing known algorithms for the generation of surrogate time series. Particularly for the networks formed using cross correlation, we generate surrogates for each time series preserving the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Transcranial magnetic stimulation (TMS) modulates epileptiform discharges in patients with frontal lobe epilepsy: a preliminary EEG-TMS study",
+            "Publication year": 2013,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0129065712500359",
+            "Abstract": "Background: TMS is being increasingly used as a noninvasive brain stimulation technique for the therapeutic management of partial epilepsies. However, the acute effects of TMS on epileptiform discharges (EDs, i.e. interictal epileptiform activity and subclinical electrographic seizure patterns) remain unexplored. Objective: To investigate whether TMS can modulate EDs in partial epilepsy. Methods: In Experiment Set 1, the safety of the TMS protocol was investigated in 10 well-controlled by anti-epileptic drugs (AEDs) epileptic patients. In Experiment Set 2, the effects of TMS on EDs were studied in three subjects with intractable frontal lobe epilepsies, characterized by particularly frequent EDs. TMS was applied over the electrographic focus with a circular and a figure of eight coil while recording EEG with a 60-channel TMS-compatible EEG system. The effectiveness of TMS in aborting EDs was investigated using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Obesity prevalence, dieting status and food choice criteria in adolescents in Thessaloniki, Greece: results from database processing and analysis PO0862",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6449690367654771810&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Markov chain order estimation with parametric significance tests of conditional mutual information",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1569190X15001598",
+            "Abstract": "Besides the different approaches suggested in the literature, accurate estimation of the order of a Markov chain from a given symbol sequence is an open issue, especially when the order is moderately large. Here, parametric significance tests of conditional mutual information (CMI) of increasing order m, I c (m), on a symbol sequence are conducted for increasing orders m in order to estimate the true order L of the underlying Markov chain. CMI of order m is the mutual information of two variables in the Markov chain being m time steps apart, conditioning on the intermediate variables of the chain. The null distribution of CMI is approximated with a normal and gamma distribution deriving analytic expressions of their parameters, and a gamma distribution deriving its parameters from the mean and variance of the normal distribution. The accuracy of order estimation is assessed with the three parametric tests, and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Estimation of connectivity measures in gappy time series",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437115004471",
+            "Abstract": "A new method is proposed to compute connectivity measures on multivariate time series with gaps. Rather than removing or filling the gaps, the rows of the joint data matrix containing empty entries are removed and the calculations are done on the remainder matrix. The method, called measure adapted gap removal (MAGR), can be applied to any connectivity measure that uses a joint data matrix, such as cross correlation, cross mutual information and transfer entropy. MAGR is favorably compared using these three measures to a number of known gap-filling techniques, as well as the gap closure. The superiority of MAGR is illustrated on time series from synthetic systems and financial time series.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Comparing model-free and model-based transfer entropy estimators in cardiovascular variability",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6713485/",
+            "Abstract": "Information flow between heart period (T), systolic pressure (S) and respiration (R) variability in a head-up tilt (HUT) protocol is assessed by transfer entropy (TE). Two estimates of TE are compared: the model-based (MB) approach using linear regression under the Gaussian assumption, and the model-free (MF) approach combining binning estimates of entropy and non-uniform delay embedding. The approaches were applied to 300-beats series of T, S, R measured in the supine (su) and upright (up) positions during HUT. Both MB and MF approaches detected a unidirectional information transfer from R to T and from R to S, and a significant decrease of the TE from R to T, as well as a significant increase of the TE from S to T, moving from su to up. For the MF approach, these trends were supported by the statistical test for TE significance. These results suggest that TE estimated from T, S and R variability can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dimension reduction of frequency-based direct Granger causality measures on short time series",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165027017302297",
+            "Abstract": "The mainstream in the estimation of effective brain connectivity relies on Granger causality measures in the frequency domain. If the measure is meant to capture direct causal effects accounting for the presence of other observed variables, as in multi-channel electroencephalograms (EEG), typically the fit of a vector autoregressive (VAR) model on the multivariate time series is required. For short time series of many variables, the estimation of VAR may not be stable requiring dimension reduction resulting in restricted or sparse VAR models.The restricted VAR obtained by the modified backward-in-time selection method (mBTS) is adapted to the generalized partial directed coherence (GPDC), termed restricted GPDC (RGPDC). Dimension reduction on other frequency based measures, such the direct directed transfer function (dDTF), is straightforward.First, a simulation study using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Comparison of Causality Network Estimation in the Sensor and Source Space: Simulation and Application on EEG",
+            "Publication year": 2021,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fnetp.2021.706487/full",
+            "Abstract": "The usage of methods for the estimation of the true underlying connectivity among the observed variables of a system is increasing, especially in the domain of neuroscience. Granger causality and similar concepts are employed for the estimation of the brain network from electroencephalogram (EEG) data. Also source localization techniques, such as the standardized low resolution electromagnetic tomography (sLORETA), are widely used for more reliable data and results. In this work, connectivity structures are estimated in the sensor and in the source space making use of the sLORETA transformation for simulated and for EEG data with episodes of spontaneous epileptiform discharges (ED). The comparative simulation study on high-dimensional coupled stochastic and deterministic systems concludes that the structure of the estimated causality networks differs in the sensor space and in the source space. Moreover, different network types, such as random, small-world and scale-free, can be better discriminated in the sensor space than in the source space. The simulation results are in agreement with the findings for the EEG epochs containing EDs, concluding that the structural change (before and during ED) can be better detected in the sensor space.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Detection of Direct Causal Effects among Parts of the Brain of Epileptic Patients",
+            "Publication year": 2012,
+            "Publication url": "http://users.auth.gr/agpapana/PL/PosterNDC2010.pdf",
+            "Abstract": "An extension of transfer entropy, called Partial Transfer Entropy (PTE), is proposed here to detect causal effects among observed interacting systems, and particularly distinguish among direct and indirect causal effects. The measure is presented for time series from three interacting systems, but can be extended for more time series. PTE is evaluated on simulated and real data and is compared with partial directed coherence (PDC), a linear causality measure defined in the frequency domain. The simulation study showed that both measures can identify linear and nonlinear causal effects for the correct parameters. PTE and PDC are then tested on electroencephalograms (EEG) of epileptic patients for the detection of the direction of the interaction among brain areas during the preictal, ictal and postictal states.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Effect of a Hidden Source on the Estimation of Connectivity Networks from Multivariate Time Series",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/991736",
+            "Abstract": "Many methods of Granger causality, or broadly termed connectivity, have been developed to assess the causal relationships between the system variables based only on the information extracted from the time series. The power of these methods to capture the true underlying connectivity structure has been assessed using simulated dynamical systems where the ground truth is known. Here, we consider the presence of an unobserved variable that acts as a hidden source for the observed high-dimensional dynamical system and study the effect of the hidden source on the estimation of the connectivity structure. In particular, the focus is on estimating the direct causality effects in high-dimensional time series (not including the hidden source) of relatively short length. We examine the performance of a linear and a nonlinear connectivity measure using dimension reduction and compare them to a linear measure designed for latent variables. For the simulations, four systems are considered, the coupled H\u00e9non maps system, the coupled Mackey\u2013Glass system, the neural mass model and the vector autoregressive (VAR) process, each comprising 25 subsystems (variables for VAR) at close chain coupling structure and another subsystem (variable for VAR) driving all others acting as the hidden source. The results show that the direct causality measures estimate, in general terms, correctly the existing connectivity in the absence of the source when its driving is zero or weak, yet fail to detect the actual relationships when the driving is strong, with the nonlinear measure of dimension reduction performing best. An example from finance including and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Effective connectivity in partial epilepsy: Modulation by transcranial magnetic stimuli",
+            "Publication year": 2011,
+            "Publication url": "http://www.brainmaster.com/tfc/index_files/Publications/2011%20Butlers%20EEG%20Operant%20NFB%20kids%20LD,%20240%20EEG,%20LATVIA%20,%20Atl,%20page%20103.pdf#page=42",
+            "Abstract": "Methods: Three subjects (median age, 32 years) with drug resistant frontal lobe epilepsies characterized by particularly frequent epileptiform discharges (EDs) were studied. Seizure etiology included perisylvian",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of Granger causality measures for constructing networks from multivariate time series",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/566904",
+            "Abstract": "Granger causality and variants of this concept allow the study of complex dynamical systems as networks constructed from multivariate time series. In this work, a large number of Granger causality measures used to form causality networks from multivariate time series are assessed. These measures are in the time domain, such as model-based and information measures, the frequency domain, and the phase domain. The study aims also to compare bivariate and multivariate measures, linear and nonlinear measures, as well as the use of dimension reduction in linear model-based measures and information measures. The latter is particular relevant in the study of high-dimensional time series. For the performance of the multivariate causality measures, low and high dimensional coupled dynamical systems are considered in discrete and continuous time, as well as deterministic and stochastic. The measures are evaluated and ranked according to their ability to provide causality networks that match the original coupling structure. The simulation study concludes that the Granger causality measures using dimension reduction are superior and should be preferred particularly in studies involving many observed variables, such as multi-channel electroencephalograms and financial markets. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Detection of direct causal effects and application to epileptic electroencephalogram analysis",
+            "Publication year": 2012,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218127412502227",
+            "Abstract": "An extension of transfer entropy, called partial transfer entropy (PTE), is proposed to detect causal effects among observed interacting systems, and particularly to distinguish direct from indirect causal effects. PTE is compared to a linear direct causality measure, the Partial Directed Coherence (PDC), on known linear stochastic systems and nonlinear deterministic systems. PTE performs equally well as PDC on the linear systems and better than PDC on the nonlinear systems, both being dependent on the selection of the measure specific parameters. PTE and PDC are applied to electroencephalograms of epileptic patients during the preictal, ictal and postictal states, and PTE turns out to detect better changes of the strength of the direct causality at specific pairs of electrodes and for the different states.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Detecting synchronization in coupled stochastic ecosystem networks",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0375960109014807",
+            "Abstract": "Instantaneous phase difference, synchronization index and mutual information are considered in order to detect phase transitions, collective behaviours and synchronization phenomena that emerge for different levels of diffusive and reactive activity in stochastic networks. The network under investigation is a spatial 2D lattice which serves as a substrate for Lotka\u2013Volterra dynamics with 3rd order nonlinearities. Kinetic Monte Carlo simulations demonstrate that the system spontaneously organizes into a number of asynchronous local oscillators, when only nearest neighbour interactions are considered. In contrast, the oscillators can be correlated, phase synchronized and completely synchronized when introducing different interactivity rules (diffusive or reactive) for nearby and distant species. The quantitative measures of synchronization show that long distance diffusion coupling induces phase synchronization \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "JOURNAL OF THE MECHANICAL BEHAVIOUR OF MATERIALS",
+            "Publication year": 2004,
+            "Publication url": "https://www.degruyter.com/document/doi/10.1515/JMBM.2004.15.3.I/html",
+            "Abstract": "ObjectiveThe Journal of the Mechanical Behavior of Materials (JMBM) publishes articles on original research, short communications and reviews covering all natural and modern engineering materials. Contributions on interdisciplinary high risk-high gain or unconventional approaches in topics spanning the whole range from condensed to soft matter mechanics are particularly welcome.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of mutual information estimators for time series",
+            "Publication year": 2009,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218127409025298",
+            "Abstract": "We study some of the most commonly used mutual information estimators, based on histograms of fixed or adaptive bin size, k-nearest neighbors and kernels and focus on optimal selection of their free parameters. We examine the consistency of the estimators (convergence to a stable value with the increase of time series length) and the degree of deviation among the estimators. The optimization of parameters is assessed by quantifying the deviation of the estimated mutual information from its true or asymptotic value as a function of the free parameter. Moreover, some commonly used criteria for parameter selection are evaluated for each estimator. The comparative study is based on Monte Carlo simulations on time series from several linear and nonlinear systems of different lengths and noise levels. The results show that the k-nearest neighbor is the most stable and less affected by the method-specific \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Rendering statistical significance of information flow measures",
+            "Publication year": 2011,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814350341_0034",
+            "Abstract": "Information causality measures, i.e. transfer entropy and symbolic transfer entropy, are modified using the concept of surrogate data in order to identify correctly the presence and direction of causal effects. The measures are evaluated on multiple bivariate time series of known coupled systems of varying complexity and on a range of embedding dimensions. The proposed modifications of the causality measures are found to reduce the bias in the estimation of the measures and preserve the zero level in the absence of coupling.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Comparison of resampling techniques for the non-causality hypothesis",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-2104-1_41",
+            "Abstract": "Different resampling schemes for the null hypothesis of non-causality are assessed. As test statistic the partial transfer entropy (PTE), an information and model-free measure, is used. Two resampling methods, (1) the time shifted surrogates and (2) the stationary bootstrap, are combined with the following three independence settings (giving in total six resampling schemes), all consistent with the null hypothesis of non-causality: (a) only the driving variable is resampled, (b) both the driving and response variable are resampled, and (c) both the driving and response variable are resampled while also the dependence of the future of the response variable and the vector of its past values is destroyed. The empirical null distribution of the PTE as the surrogate and bootstrapped time series become more independent is examined along with the size and power of the respective tests.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "On the reliability of the surrogate data test for nonlinearity in the analysis of noisy time series",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218127401003061",
+            "Abstract": "In the analysis of real world data, the surrogate data test is often performed in order to investigate nonlinearity in the data. The null hypothesis of the test is that the original time series is generated from a linear stochastic process possibly undergoing a nonlinear static transform. We argue against reported rejection of the null hypothesis and claims of evidence of nonlinearity based on a single nonlinear statistic. In particular, two schemes for the generation of surrogate data are examined, the amplitude adjusted Fourier transform (AAFT) and the iterated AAFT (IAFFT) and many nonlinear discriminating statistics are used for testing, i.e. the fit with the Volterra series of polynomials and the fit with local average mappings, the mutual information, the correlation dimension, the false nearest neighbors, the largest Lyapunov exponent and simple nonlinear averages (the three point autocorrelation and the time reversal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Evaluation of surrogate and bootstrap tests for nonlinearity in time series",
+            "Publication year": 2008,
+            "Publication url": "https://www.degruyter.com/document/doi/10.2202/1558-3708.1474/html",
+            "Abstract": "The validity of any test for nonlinearity based on resampling techniques depends heavily on the consistency of the generated resampled data to the null hypothesis of linear stochastic process. The surrogate data generating algorithms AAFT, IAAFT and STAP, as well as a residual-based bootstrap algorithm, all used for the randomization or bootstrap test for nonlinearity, are reviewed and their performance is compared using different nonlinear statistics for the test.  The simulations on linear and nonlinear stochastic systems, as well as chaotic systems, reveals a variation in the test outcome with the algorithm and statistic. Overall, the bootstrap algorithm led to smallest test power whereas the STAP algorithm gave consistently good results in terms of size and power of the test. The performance of the nonlinearity test with the resampling techniques is evaluated on volume and return time series of international stock \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:roLk4NBRz8UC",
+            "Publisher": "De Gruyter"
+        },
+        {
+            "Title": "A prediction scheme using perceptually important points and dynamic time warping",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417414002516",
+            "Abstract": "An algorithmic method for assessing statistically the efficient market hypothesis (EMH) is developed based on two data mining tools, perceptually important points (PIPs) used to dynamically segment price series into subsequences, and dynamic time warping (DTW) used to find similar historical subsequences. Then predictions are made from the mappings of the most similar subsequences, and the prediction error statistic is used for the EMH assessment. The predictions are assessed on simulated price paths composed of stochastic trend and chaotic deterministic time series, and real financial data of 18 world equity markets and the GBP/USD exchange rate. The main results establish that the proposed algorithm can capture the deterministic structure in simulated series, confirm the validity of EMH on the examined equity indices, and indicate that prediction of the exchange rates using PIPs and DTW could beat at \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Estimating the decomposition of predictive information in multivariate systems",
+            "Publication year": 2015,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.91.032904",
+            "Abstract": "In the study of complex systems from observed multivariate time series, insight into the evolution of one system may be under investigation, which can be explained by the information storage of the system and the information transfer from other interacting systems. We present a framework for the model-free estimation of information storage and information transfer computed as the terms composing the predictive information about the target of a multivariate dynamical process. The approach tackles the curse of dimensionality employing a nonuniform embedding scheme that selects progressively, among the past components of the multivariate process, only those that contribute most, in terms of conditional mutual information, to the present target process. Moreover, it computes all information-theoretic quantities using a nearest-neighbor technique designed to compensate the bias due to the different dimensionality \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:aqlVkmm33-oC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Nonuniform state-space reconstruction and coupling detection",
+            "Publication year": 2010,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.82.016207",
+            "Abstract": "We investigate the state space reconstruction from multiple time series derived from continuous and discrete systems and propose a method for building embedding vectors progressively using information measure criteria regarding past, current, and future states. The embedding scheme can be adapted for different purposes, such as mixed modeling, cross-prediction and Granger causality. In particular, we apply this method in order to detect and evaluate information transfer in coupled systems. As a practical application, we investigate in records of scalp epileptic EEG the information flow across brain areas.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Partial transfer entropy on rank vectors",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1140/epjst/e2013-01849-4",
+            "Abstract": "For the evaluation of information flow in bivariate time series, information measures have been employed, such as the transfer entropy (TE), the symbolic transfer entropy (STE), defined similarly to TE but on the ranks of the components of the reconstructed vectors, and the transfer entropy on rank vectors (TERV), similar to STE but forming the ranks for the future samples of the response system with regard to the current reconstructed vector. Here we extend TERV for multivariate time series, and account for the presence of confounding variables, called partial transfer entropy on ranks (PTERV). We investigate the asymptotic properties of PTERV, and also partial STE (PSTE), construct parametric significance tests under approximations with Gaussian and gamma null distributions, and show that the parametric tests cannot achieve the power of the randomization test using time-shifted surrogates. Using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "New material of the hominoid Ouranopithecus macedoniensis from the Late Miocene of the Axios Valley (Macedonia, Greece) with some remarks on its sexual dimorphism",
+            "Publication year": 2016,
+            "Publication url": "https://www.karger.com/Article/Abstract/446433",
+            "Abstract": "New hominoid teeth from the late Miocene locality Ravin de la Pluie (RPl) of the Axios Valley (Macedonia, Greece) are studied in this article. Their morphology, dimensions and proportions are similar to the hominoid Ouranopithecus macedoniensis, allowing their attribution to this taxon. The studied material provides some new morphological characters for the female P3 (small asymmetry, small mesiobuccal crown projection, paracone higher than protocone) and the lower canine (mesial groove: large in the male and small in the female, distobuccal fovea: large in the female and small in the male). The new material enriches the collection of O. macedoniensis. The estimated degree of sexual dimorphism of the RPl O. macedoniensis, calculated by the multivariate size dimorphism method, is compared with those of extant hominoids (Gorilla, Pan, Pongo) and of the late Miocene Lufengpithecus lufengensis from \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Karger Publishers"
+        },
+        {
+            "Title": "Identification of hidden sources by estimating instantaneous causality in high-dimensional biomedical time series",
+            "Publication year": 2019,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S012906571850051X",
+            "Abstract": "The study of connectivity patterns of a system\u2019s variables, such as multi-channel electroencephalograms (EEG), is of utmost importance towards a better understanding of its internal evolutionary mechanisms. Here, the problem of estimating the connectivity network from multivariate time series in the presence of prominent unobserved variables is addressed. The causality measure of partial mutual information from mixed embedding (PMIME), designed to estimate direct lag-causal effects in the presence of many observed variables, is adapted to estimate also zero-lag effects, the so-called instantaneous causality. We term the proposed advanced method, PMIME0. The estimation of instantaneous causality by PMIME0 is a signature of the presence of hidden source in the observed system, as demonstrated analytically in a toy model. It is further demonstrated that the PMIME0 identifies the true instantaneous with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:sSrBHYA8nusC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "PERSISTENT CONNECTIVITY DURING AWAKE AND SLEEP OF BRAIN LOCATIONS GENERATING CONTINUOUS SPIKE AND WAVES DURING SLOW SLEEP (CSWS): p817",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4877092370015729010&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A nonparametric causality test: Detection of direct causal effects in multivariate systems using corrected partial transfer entropy",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0569-0_18",
+            "Abstract": "In a recent work we proposed the corrected transfer entropy (CTE), which reduces the bias in the estimation of transfer entropy (TE), a measure of Granger causality for bivariate time series making use of the conditional mutual information. An extension of TE to account for the presence of other time series is the partial TE (PTE). Here, we propose the correction of PTE, termed Corrected PTE (CPTE), in a similar way to CTE: time shifted surrogates are used in order to quantify and correct the bias, and the estimation of the involved entropies of high-dimensional variables is made with the method of k-nearest neighbors. CPTE is evaluated on coupled stochastic systems with both linear and nonlinear interactions. Finally, we apply CPTE to economic data and investigate whether we can detect the direct causal effects among economic variables.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Correlating cognitive status with electrophysiological brain networks",
+            "Publication year": 2015,
+            "Publication url": "http://ikee.lib.auth.gr/record/294354",
+            "Abstract": "The investigation of brain connectivity in Multiple Sclerosis (MS) from multi-channel EEG, MEG or fMRI has attracted research interest in recent years. This line of research is suitable for the investigation of cognitive dysfunction that is regarded as a common and debilitating feature of this disease. Brain connectivity approaches are particularly appropriate for investigating this critical disease aspect. Subjects and Methods: Ten patients fulfilling the Poser's clinical criteria for definite MS entered the study after giving informed consent for the procedures which were approved by an institutional ethics committee and performed in accordance with the ethical standards laid down in the 1964 Declaration of Helsinki. Exclusion criteria include severe cognitive decline and inability to understand and sign the informed consent or comply with the experimental procedures. hd-EEG was performed in electrically shielded conditions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Assessment of measures of scalar time series analysis in discriminating preictal states",
+            "Publication year": 2007,
+            "Publication url": "http://www.ijbem.org/volume9/number3/134-145.pdf",
+            "Abstract": "We evaluate a large number of measures used in the statistical and nonlinear analysis of EEG as to their power in discriminating different preictal states. Some new measures are proposed and the analysis involves also feature time series, such as local minima and maxima, the time between them, as well as interspike intervals. The measures are computed on consecutive non-overlapping segments of 30 s of multichannel scalp EEG at the preictal period of several hours. The discrimination power of each measure is assessed by the receiver operating characteristic (ROC) curve computed on measure values grouped in different preictal stages. The results on 7 epileptic EEG records show that simple measures have the same, and at cases better, power in discriminating preictal states than other more sophisticated measures.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "TMS combined with EEG in genetic generalized epilepsy: a phase II diagnostic accuracy study",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1388245716306691",
+            "Abstract": "(A) To develop a TMS\u2013EEG stimulation and data analysis protocol in genetic generalized epilepsy (GGE). (B) To investigate the diagnostic accuracy of TMS\u2013EEG in GGE.Pilot experiments resulted in the development and optimization of a paired-pulse TMS\u2013EEG protocol at rest, during hyperventilation (HV), and post-HV combined with multi-level data analysis. This protocol was applied in 11 controls (C) and 25 GGE patients (P), further dichotomized into responders to antiepileptic drugs (R, n = 13) and non-responders (n-R, n = 12).Features (n = 57) extracted from TMS\u2013EEG responses after multi-level analysis were given to a feature selection scheme and a Bayesian classifier, and the accuracy of assigning participants into the classes P-C and R-nR was computed.On the basis of the optimal feature subset, the cross-validated accuracy of TMS\u2013EEG for the classification P-C was 0.86 at \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:dshw04ExmUIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A Novel Connectome-Based Electrophysiological Study of Subjective Cognitive Decline Related to Alzheimer\u2019s Disease by Using Resting-State High-Density EEG EGI GES 300",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/748066",
+            "Abstract": "Aim: To investigate for the first time the brain network in the Alzheimer\u2019s disease (AD) spectrum by implementing a high-density electroencephalography (HD-EEG-EGI GES 300) study with 256 channels in order to seek if the brain connectome can be effectively used to distinguish cognitive impairment in preclinical stages. Methods: Twenty participants with AD, 30 with mild cognitive impairment (MCI), 20 with subjective cognitive decline (SCD) and 22 healthy controls (HC) were examined with a detailed neuropsychological battery and 10 min resting state HD-EEG. We extracted correlation matrices by using Pearson correlation coefficients for each subject and constructed weighted undirected networks for calculating clustering coefficient (CC), strength (S) and betweenness centrality (BC) at global (256 electrodes) and local levels (29 parietal electrodes). Results: One-way ANOVA presented a statistically significant difference among the four groups at local level in CC [F (3, 88)= 4.76, p= 0.004] and S [F (3, 88)= 4.69, p= 0.004]. However, no statistically significant difference was found at a global level. According to the independent sample t-test, local CC was higher for HC [M (SD)= 0.79 (0.07)] compared with SCD [M (SD)= 0.72 (0.09)]; t (40)= 2.39, p= 0.02, MCI [M (SD)= 0.71 (0.09)]; t (50)= 0.41, p= 0.004 and AD [M (SD)= 0.68 (0.11)]; t (40)= 3.62, p= 0.001 as well, while BC showed an increase at a local level but a decrease at a global level as the disease progresses. These findings provide evidence that disruptions in brain networks in parietal organization may potentially represent a key factor in the ability to distinguish people at early stages of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Surrogate data test for nonlinearity including nonmonotonic transforms",
+            "Publication year": 2000,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.62.R25",
+            "Abstract": "It is shown that monotonicity of the transform in the surrogate data test, which diminishes the applicability of the test, is not necessary and concerns only the prominent algorithm of amplitude adjusted Fourier transform (AAFT) for surrogate data generation. The failure of AAFT under nonmonotonicity is explained and a modified algorithm appropriate for nonmonotonic transforms, called corrected AAFT (CAAFT), is proposed. The superiority of CAAFT over AAFT is demonstrated with simulated and real data and compared also to the iterated AAFT algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Measures of analysis of time series (MATS): a MATLAB toolkit for computation of multiple measures on time series data bases",
+            "Publication year": 2010,
+            "Publication url": "https://arxiv.org/abs/1002.1940",
+            "Abstract": "In many applications, such as physiology and finance, large time series data bases are to be analyzed requiring the computation of linear, nonlinear and other measures. Such measures have been developed and implemented in commercial and freeware softwares rather selectively and independently. The Measures of Analysis of Time Series ({\\tt MATS}) {\\tt MATLAB} toolkit is designed to handle an arbitrary large set of scalar time series and compute a large variety of measures on them, allowing for the specification of varying measure parameters as well. The variety of options with added facilities for visualization of the results support different settings of time series analysis, such as the detection of dynamics changes in long data records, resampling (surrogate or bootstrap) tests for independence and linearity with various test statistics, and discrimination power of different measures and for different combinations of their parameters. The basic features of {\\tt MATS} are presented and the implemented measures are briefly described. The usefulness of {\\tt MATS} is illustrated on some empirical examples along with screenshots.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Further insights on the relationship between SP500, VIX and volume: A new asymmetric causality test",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/1351847X.2019.1599406",
+            "Abstract": "In the aim to explore the complex relationships between S&P500, VIX and volume we introduce a Granger causality test using the nonlinear statistic of Asymmetric Partial Transfer Entropy (APTE). Through a simulation exercise, it arises that the APTE offers precise information on the nature of the connectivity. Our empirical findings concretize the information flow that links volume, S&P500 and VIX, and merge the leverage effect and the asymmetric stock return-volume relationship into a unified framework of analysis. More specifically, when we condition on the tails, the detected causal channel provides empirical validation of the noise trading contribution to large swings in financial markets, because of the increase of trading volume and the subsequent worsening ability of market prices to adjust to new information.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "Evaluation of mutual information estimators on nonlinear dynamic systems",
+            "Publication year": 2008,
+            "Publication url": "https://arxiv.org/abs/0809.2149",
+            "Abstract": "Mutual information is a nonlinear measure used in time series analysis in order to measure the linear and non-linear correlations at any lag . The aim of this study is to evaluate some of the most commonly used mutual information estimators, i.e. estimators based on histograms (with fixed or adaptive bin size), -nearest neighbors and kernels. We assess the accuracy of the estimators by Monte-Carlo simulations on time series from nonlinear dynamical systems of varying complexity. As the true mutual information is generally unknown, we investigate the existence and rate of consistency of the estimators (convergence to a stable value with the increase of time series length), and the degree of deviation among the estimators. The results show that the -nearest neighbor estimator is the most stable and less affected by the method-specific parameter.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Time series feature evaluation in discriminating preictal EEG states",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11946465_27",
+            "Abstract": "Statistical discrimination of states in the preictal EEG is attempted using a large number of measures from linear and nonlinear time series analysis. The measures are organized in two categories: correlation measures, such as autocorrelation and mutual information at specific lags and new measures derived from oscillations of the EEG time series, such as mean oscillation peak and mean oscillation period. All measures are computed on successive segments of multichannel EEG windows selected from early, intermediate and late preictal states from four epochs. Hypothesis tests applied for each channel and epoch showed good discrimination of the preictal states and allowed for the selection of optimal measures. These optimal measures, together with other standard measures (skewness, kurtosis, largest Lyapunov exponent) formed the feature set for feature-based clustering and the feature-subset \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "State space reconstruction from multiple time series",
+            "Publication year": 2009,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814271349_0043",
+            "Abstract": "In the non-linear analysis of scalar time series the common practice is to reconstruct the state space using time-delay embedding. When there are more than one observed quantities, one can reconstruct the state space using a time-delay embedding scheme specifying embedding parameters for each quantity. In this study we investigate the state space reconstruction from multiple time series derived from continuous systems and propose a method for building the embedding vector progressively using information measure criteria. The proposed method is compared to other methods with simulations on known chaotic systems, such as individual and coupled Lorenz and R\u00f6ssler systems. Our analysis showed that multivariate attractor reconstruction preserves better the dynamics of a system and our proposed method gives a parsimonious alternative to the simple extension of the univariate case.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Granger causality in multivariate time series using a time-ordered restricted vector autoregressive model",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7330023/",
+            "Abstract": "Granger causality has been used for the investigation of the inter-dependence structure of the underlying systems of multivariate time series. In particular, the direct causal effects are commonly estimated by the conditional Granger causality index (CGCI). In the presence of many observed variables and relatively short time series, CGCI may fail because it is based on vector autoregressive models (VAR) involving a large number of coefficients to be estimated. In this paper, the VAR is restricted by a scheme that modifies the recently developed method of backward-in-time selection (BTS) of the lagged variables and the CGCI is combined with BTS. Further, the proposed approach is compared favorably to other restricted VAR representations, such as the top-down strategy, the bottom-up strategy, and the least absolute shrinkage and selection operator (LASSO), in terms of sensitivity and specificity of CGCI. This is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dimension Reduction of Polynomial Regression Models for the Estimation of Granger Causality in High-Dimensional Time Series",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9556562/",
+            "Abstract": "The causality analysis of multivariate time series and formation of complex networks relies on the estimation of the direct cause-effect from one observed variable to another accounting for the presence of other observed variables. Such effects are quantified by the conditional Granger causality index (CGCI), derived by linear vector autoregressive models (VAR). Dimension reduction approaches have been developed to restrict VAR models, such as the modified backward-in-time selection method (mBTS) giving the restricted CGCI (rCGCI). The rCGCI is limited to linear systems. In this study, we extend the mBTS dimension reduction scheme to polynomial VAR, so as to model nonlinear dynamics and cause-effect relationships and derive the Granger causality measure termed restricted polynomial CGCI (rpCGCI). The complications in the adaptation of mBTS to the restricted polynomial VAR and the construction of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detecting causality in non-stationary time series using partial symbolic transfer entropy: Evidence in financial data",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007%252Fs10614-015-9491-x",
+            "Abstract": "In this paper, a framework is developed for the identification of causal effects from non-stationary time series. Focusing on causality measures that make use of delay vectors from time series, the idea is to account for non-stationarity by considering the ranks of the components of the delay vectors rather than the components themselves. As an exemplary measure, we introduce the partial symbolic transfer entropy (PSTE), which is an extension of the bivariate symbolic transfer entropy quantifying only the direct causal effects among the variables of a multivariate system. Through Monte Carlo simulations it is shown that the PSTE is directly applicable to non-stationary in mean and variance time series and it is not affected by the existence of outliers and VAR filtering. For stationary time series, the PSTE is also compared to the linear conditional Granger causality index (CGCI). Finally, the causal effects among \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Evaluation of algorithms for correction of transcranial magnetic stimulation-induced artifacts in electroencephalograms",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s11517-019-02053-3",
+            "Abstract": "Transcranial magnetic stimulation combined with electroencephalography (TMS-EEG) is widely used to study the reactivity and connectivity of brain regions for clinical or research purposes. The electromagnetic pulse of the TMS device generates at the instant of administration an artifact of large amplitude and a duration up to tens of milliseconds that overlaps with brain activity. Methods for TMS artifact correction have been developed to remove the artifact and recover the underlying, immediate response of the cerebral cortex to the magnetic stimulus. In this study, four such algorithms are evaluated. Since there is no ground truth for the masked brain activity, pilot data formed from the superposition of the isolated TMS artifact on EEG brain activity are used to evaluate the performance of the algorithms. Different scenarios of TMS-EEG experiments are considered for the evaluation: TMS at resting state, TMS inducing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Theoretical considerations and a mathematical model for the analysis of the biomechanical response of human keratinized oral mucosa",
+            "Publication year": 2016,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fphys.2016.00364/full",
+            "Abstract": "Removable complete and partial dentures are supported by the residual alveolar ridges consisting of mucosa, submucosa, periosteum and bone. An understanding of the biomechanical behavior of the oral mucosa is essential in order to improve the denture-bearing foundations for complete and partially edentulous patients. The purpose of this paper was to examine the biomechanical behavior of the soft tissues supporting a removable denture and develop a model for that reason. Keratinized oral mucosa blocks with their underlying bone were harvested from the maxillary palatal area adjacent to the edentulous ridges of a cadaver. The compressive response of the oral mucosa was tested by using atomic force microscopy. The specimens were first scanned in order their topography to be obtained. The mechanical properties of the specimens were tested using a single crystal silicon pyramidal tip, which traversed towards the keratinized oral mucosa specimens. Loading-unloading cycles were registered and four mathematical models were tested using MATLAB to note which one approximates the force-displacement curve as close as possible: a. spherical, b. conical, c. third order polynomial, d. Murphy (fourth order polynomial, non-linear Hertzian based). The third order polynomial model showed the best accuracy in representing the force-displacement data of the tested specimens. A model was developed in order to analyze the biomechanical behavior of the human oral keratinized mucosa and obtain information about its mechanical properties.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Testing the correlation of time series using dynamic time warping",
+            "Publication year": 2014,
+            "Publication url": "http://users.auth.gr/dkugiu/Publications/PandriaESI2014.pdf",
+            "Abstract": "Testing the correlation of time series using dynamic time warping Page 1 Testing the correlation \nof time series using dynamic time warping N. Pandria Medical School, Aristotle University of \nThessaloniki 27o Panhellenic Conference of Statistics, Thessaloniki D. Kugiumtzis Department \nof Electrical and Computer Engineering, Aristotle University of Thessaloniki Page 2 0.1 0.2 0.3 \n0.4 0.5 0.6 col3 col2 col1 time step t [sampling time=0.000690] x (t) X Y Z The problem Are any \nof the three time series \u201csimilar\u201d to each other? 0.1 0.2 0.3 0.4 0.5 0.6 col3 col2 col1 time step \nt [sampling time=0.000690] x (t) X Y Z r(X,Y)=-0.25 r(X,Z)=-0.12 r(Y,Z)=-0.38 r(X,Y)= ? r(X,Z)= \n? r(Y,Z)= ? Outline -Align the time series (DTW) -Significance correlation test -Simulations \n-Application on TMS-EEG Page 3 Dynamic Time Warping Algorithm (DTW) 2. Generate \na n x m distance matrix using a distance measure, eg Euclidean: d(q i ,c j )=(q i -c j )2 1. : \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:rO6llkc54NcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Correlation networks for identifying changes in brain connectivity during epileptiform discharges and transcranial magnetic stimulation",
+            "Publication year": 2014,
+            "Publication url": "https://www.mdpi.com/1424-8220/14/7/12585",
+            "Abstract": "The occurrence of epileptiform discharges (ED) in electroencephalographic (EEG) recordings of patients with epilepsy signifies a change in brain dynamics and particularly brain connectivity. Transcranial magnetic stimulation (TMS) has been recently acknowledged as a non-invasive brain stimulation technique that can be used in focal epilepsy for therapeutic purposes. In this case study, it is investigated whether simple time-domain connectivity measures, namely cross-correlation and partial cross-correlation, can detect alterations in the connectivity structure estimated from selected EEG channels before and during ED, as well as how this changes with the application of TMS. The correlation for each channel pair is computed on non-overlapping windows of 1 s duration forming weighted networks. Further, binary networks are derived by thresholding or statistical significance tests (parametric and randomization tests). The information for the binary networks is summarized by statistical network measures, such as the average degree and the average path length. Alterations of brain connectivity before, during and after ED with or without TMS are identified by statistical analysis of the network measures at each state. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:4DMP91E08xMC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Reducing the bias of causality measures",
+            "Publication year": 2011,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.036207",
+            "Abstract": "Measures of the direction and strength of the interdependence between two time series are evaluated and modified to reduce the bias in the estimation of the measures, so that they give zero values when there is no causal effect. For this, point shuffling is employed as used in the frame of surrogate data. This correction is not specific to a particular measure and it is implemented here on measures based on state space reconstruction and information measures. The performance of the causality measures and their modifications is evaluated on simulated uncoupled and coupled dynamical systems and for different settings of embedding dimension, time series length, and noise level. The corrected measures, and particularly the suggested corrected transfer entropy, turn out to stabilize at the zero level in the absence of a causal effect and detect correctly the direction of information flow when it is present. The measures \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Correlating cognitive status with electrophysiological brain networks: methodological aspects and preliminary results in healthy volunteers",
+            "Publication year": 2015,
+            "Publication url": "https://www.researchgate.net/profile/Elvira-Masoura/publication/283356565_Papaliagkas_V_Kouvatsou_Z_Masoura_E_Koutlis_C_Siggiridou_E_Karagianni_M_Zafeiridou_G_Kosmidis_M-H_Kioseoglou_G_Kugiumtzis_D_Kimiskidis_V_2015_Correlating_cognitive_status_with_electrophysiological_bra/links/5804d48c08ae98cb6f2a5a38/Papaliagkas-V-Kouvatsou-Z-Masoura-E-Koutlis-C-Siggiridou-E-Karagianni-M-Zafeiridou-G-Kosmidis-M-H-Kioseoglou-G-Kugiumtzis-D-Kimiskidis-V-2015-Correlating-cognitive-status-with-elec.pdf",
+            "Abstract": "Background: High-density EEG (hd-EEG) is being increasingly employed as a means of investigating the integrity of brain networks in health and disease. The optimal usage of this technique requires the elucidation of important methodological aspects and the application of the method in healthy subjects prior to the investigation of patient cohorts. Subjects and Methods: Ten neurologically normal subjects (aged 19-47 years of age) entered the study after giving informed consent for the procedures which were approved by an institutional review board. hd-EEG was performed in electrically shielded conditions using a 64-channel hd-EEG device (TMS-compatible eXimia, Nexstim Oy, Finland). During acquisition, the reference channel was attached to the right mastoid and the ground electrode was placed on the right zygomatic bone at a distance of approximately 4 cm from each other. The EEG signals were band-pass filtered from 0.1 to 500 Hz and sampled with a 1450 Hz sampling frequency and 16-bit precision. For data analysis, we selected artifact-free channels and preprocessed the data by applying a band-pass filter (low pass frequency 0.01 Hz and high pass frequency 70 Hz, filter order 60) and downsampling to 200 Hz. The EEG data were then re-referenced to infinity as well as to common average. Brain networks were constructed in artifact free epochs during resting state using linear and non-linear measures of brain connectivity. Conclusion: High-density EEG can be used to construct and describe brain networks quantitatively. The importance of certain methodological aspects in this procedure is highlighted.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Markov chain order estimation with conditional mutual information",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437112010837",
+            "Abstract": "We introduce the Conditional Mutual Information (CMI) for the estimation of the Markov chain order. For a Markov chain of K symbols, we define CMI of order m, I c (m), as the mutual information of two variables in the chain being m time steps apart, conditioning on the intermediate variables of the chain. We find approximate analytic significance limits based on the estimation bias of CMI and develop a randomization significance test of I c (m), where the randomized symbol sequences are formed by random permutation of the components of the original symbol sequence. The significance test is applied for increasing m and the Markov chain order is estimated by the last order for which the null hypothesis is rejected. We present the appropriateness of CMI-testing on Monte Carlo simulations and compare it to the Akaike and Bayesian information criteria, the maximal fluctuation method (Peres\u2013Shields \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Assessment of resampling methods for causality testing: A note on the US inflation behavior",
+            "Publication year": 2017,
+            "Publication url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180852",
+            "Abstract": "Different resampling methods for the null hypothesis of no Granger causality are assessed in the setting of multivariate time series, taking into account that the driving-response coupling is conditioned on the other observed variables. As appropriate test statistic for this setting, the partial transfer entropy (PTE), an information and model-free measure, is used. Two resampling techniques, time-shifted surrogates and the stationary bootstrap, are combined with three independence settings (giving a total of six resampling methods), all approximating the null hypothesis of no Granger causality. In these three settings, the level of dependence is changed, while the conditioning variables remain intact. The empirical null distribution of the PTE, as the surrogate and bootstrapped time series become more independent, is examined along with the size and power of the respective tests. Additionally, we consider a seventh resampling method by contemporaneously resampling the driving and the response time series using the stationary bootstrap. Although this case does not comply with the no causality hypothesis, one can obtain an accurate sampling distribution for the mean of the test statistic since its value is zero under H0. Results indicate that as the resampling setting gets more independent, the test becomes more conservative. Finally, we conclude with a real application. More specifically, we investigate the causal links among the growth rates for the US CPI, money supply and crude oil. Based on the PTE and the seven resampling methods, we consistently find that changes in crude oil cause inflation conditioning on money supply in the post-1986 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Public Library of Science"
+        },
+        {
+            "Title": "Surrogate data test on time series",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4615-0931-8_13",
+            "Abstract": "Given a real random-like time series, the first question to answer is whether the data carry any information over time, i.e. whether the successive samples are correlated. Using standard statistical testing, the least interesting null hypothesis of white noise has to be rejected if the analysis of the time series should be of any use at all. Further, if nonlinear methods are to be used, e.g. a sophisticated nonlinear prediction method instead of a linear autoregressive model, the null hypothesis to be rejected is that the data involve only temporal linear correlations and are otherwise random. A statistically rigorous framework for such tests is provided by the method of surrogate data. The surrogate data, generated to represent the null hypothesis, are compared to the original data under a nonlinear discriminating statistic in order to reject or approve the null hypothesis.The surrogate data test for nonlinearity has \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Linear and nonlinear analysis of EEG for the prediction of epileptic seizures",
+            "Publication year": 2000,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812793782_0044",
+            "Abstract": "Linear and nonlinear methods are applied to multichannel scalp EEG records from 7 epileptic patients for the prediction of epileptic seizures of generalized tonic-clonic and complex partial type. The estimates on overlapped data segments are statistically processed in order to discriminate phases within the preictal state (comparing records long before and shortly before the onset) and find possible trends within the last preictal state. The results from the different subjects are not conclusive neither for the prognosis of the seizure (phase discrimination and trend) nor for the performance of the methods. However, in most cases, the methods could discriminate between records many hours before and shortly before the onset and in some cases detect a trend of increasing \"complexity\" within the last preictal state. It turned out that no method gave consistently best results and generally the linear methods performed as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tsallis conditional mutual information in investigating long range correlation in symbol sequences",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437119317030",
+            "Abstract": "The presence of long range correlation (LRC) as opposed to Markov chain of a finite order is of primary interest in the study of symbol sequences, such as DNA. Among others, methods using information theory have been developed for Markov chain order estimation. In this work, we consider the Tsallis entropy and define the Tsallis conditional mutual information (TCMI) for Markov chain order estimation, which is more suitable to identify large orders suggesting effectively LRC. The TCMI of order m for a Tsallis parameter q is computed for increasing m and a significance test is performed for each m until TCMI is found non-significant. Randomization and parametric significance tests for TCMI are developed. For the latter, the null distribution of TCMI is approximated with a gamma distribution deriving analytic expressions for its parameters. We assess the accuracy of order estimation with the two tests for TCMI and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Transfer entropy on rank vectors",
+            "Publication year": 2010,
+            "Publication url": "https://arxiv.org/abs/1007.0357",
+            "Abstract": "Transfer entropy (TE) is a popular measure of information flow found to perform consistently well in different settings. Symbolic transfer entropy (STE) is defined similarly to TE but on the ranks of the components of the reconstructed vectors rather than the reconstructed vectors themselves. First, we correct STE by forming the ranks for the future samples of the response system with regard to the current reconstructed vector. We give the grounds for this modified version of STE, which we call Transfer Entropy on Rank Vectors (TERV). Then we propose to use more than one step ahead in the formation of the future of the response in order to capture the information flow from the driving system over a longer time horizon. To assess the performance of STE, TE and TERV in detecting correctly the information flow we use receiver operating characteristic (ROC) curves formed by the measure values in the two coupling directions computed on a number of realizations of known weakly coupled systems. We also consider different settings of state space reconstruction, time series length and observational noise. The results show that TERV indeed improves STE and in some cases performs better than TE, particularly in the presence of noise, but overall TE gives more consistent results. The use of multiple steps ahead improves the accuracy of TE and TERV.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Nearest neighbor estimate of conditional mutual information in feature selection",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417412007129",
+            "Abstract": "Mutual information (MI) is used in feature selection to evaluate two key-properties of optimal features, the relevance of a feature to the class variable and the redundancy of similar features. Conditional mutual information (CMI), i.e., MI of the candidate feature to the class variable conditioning on the features already selected, is a natural extension of MI but not so far applied due to estimation complications for high dimensional distributions. We propose the nearest neighbor estimate of CMI, appropriate for high-dimensional variables, and build an iterative scheme for sequential feature selection with a termination criterion, called CMINN. We show that CMINN is equivalent to feature selection MI filters, such as mRMR and MaxiMin, in the presence of solely single feature effects, and more appropriate for combined feature effects. We compare CMINN to mRMR and MaxiMin on simulated datasets involving combined \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Detection of directionality of information transfer in nonlinear dynamical systems",
+            "Publication year": 2009,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814271349_0029",
+            "Abstract": "For the quantification of strength and identification of direction of coupling between two sub-systems of a complex dynamical system, observed from bivariate time series, a number of measures have been proposed that can be grouped in measures of phase synchronization, state space and information. We review all these measures and, in particular, for the information measures we examine different estimates of the probability distributions. We propose also a modification of the transfer entropy measure to span larger time windows and thus be more appropriate for flows. Simulations on systems of different types and for varying coupling strengths showed that information measures, and the modified transfer entropy measure in particular, detect best the coupling strength and direction. This is also found when applying the measures to pairs of EEG channels in order to detect the propagation of pre-epileptic brain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Analysis of multi-variate time series by means of networks",
+            "Publication year": 2015,
+            "Publication url": "http://users.auth.gr/users/9/5/012259/public_html/Teach/Networks/KugiumtzisLecture3.pdf",
+            "Abstract": "Analysis of multi-variate time series by means of networks Page 1 Analysis of multi-variate time \nseries by means of networks Dimitris Kugiumtzis January 28, 2015 Dimitris Kugiumtzis Analysis \nof multi-variate time series by means of networks Page 2 Spurious cross correlations see [1]: \nSec 7.3 Dimitris Kugiumtzis Analysis of multi-variate time series by means of networks Page \n3 Spurious cross correlations see [1]: Sec 7.3 Dimitris Kugiumtzis Analysis of multi-variate \ntime series by means of networks Page 4 Spurious cross correlations see [1]: Sec 7.3 Dimitris \nKugiumtzis Analysis of multi-variate time series by means of networks Page 5 Spurious cross \ncorrelations see [1]: Sec 7.3 Dimitris Kugiumtzis Analysis of multi-variate time series by \nmeans of networks Page 6 Spurious cross correlations see [1]: Sec 7.3 Time series of indices \n(strongly autocorrelated): large cross-correlation Dimitris Kugiumtzis Analysis of multi-time []\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detecting direct causality in multivariate time series: A comparative study",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1007570421001088",
+            "Abstract": "The concept of Granger causality is increasingly being applied for the characterization of directional interactions in different applications. A multivariate framework for estimating Granger causality is essential in order to account for all the available information from multivariate time series. However, the inclusion of non-informative or non-significant variables creates estimation problems related to the \u2018curse of dimensionality\u2019. To deal with this issue, direct causality measures using variable selection and dimension reduction techniques have been introduced. In this comparative work, the performance of an ensemble of bivariate and multivariate causality measures in the time domain is assessed, focusing on dimension reduction causality measures. In particular, different types of high-dimensional coupled discrete systems are used (involving up to 100 variables) and the robustness of the causality measures to time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Clustering of oscillating dynamical systems from time series data bases",
+            "Publication year": 2006,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.4847&rep=rep1&type=pdf",
+            "Abstract": "The clustering of time series from oscillating dynamical systems requires appropriately selected features. We employed features stemming from methods of linear and nonlinear analysis of time series, such as autocorrelation and Lyapunov exponents, as well as features estimating oscillation characteristics. Optimal feature forward selection and standardization method, under the standard k-means clustering algorithm, were assessed using Monte Carlo simulations on known oscillating deterministic and stochastic systems. The clustering efficiency was measured by the corrected Rand index and the results showed the prevalence of oscillating-related features. The same setting was applied to real-world oscillating time series, ie epileptic electroencephalograms and optokinetic signals, giving good discrimination of pathological states.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Investigating small-world and scale-free structure of earthquake networks in Greece",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0960077918309615",
+            "Abstract": "The non-trivial properties of the small-world and scale-free structure are investigated in earthquake networks that are formed from the seismicity taking place in Greece and adjacent area. The nodes of these networks are either well-defined seismic zones or square cells comprised in a normal grid superimposed onto the study area. The network connections are either drawn whenever earthquake succession is observed between the nodes or given by the significant correlation of the seismic activity in two areas. The networks are formed for varying magnitude thresholds and for selected time spans during 1845\u20132017 to establish that the data are complete for each study period. Rigorous statistical analysis is performed using also appropriate resampling methods to assess the presence of the small-world and scale-free property. The scale-free property was not identified in any network and only for one of the network \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Direct causal networks for the study of transcranial magnetic stimulation effects on focal epileptiform discharges",
+            "Publication year": 2015,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0129065715500069",
+            "Abstract": "Background: Transcranial magnetic stimulation (TMS) can have inhibitory effects on epileptiform discharges (EDs) of patients with focal seizures. However, the brain connectivity before, during and after EDs, with or without the administration of TMS, has not been extensively explored. Objective: To investigate the brain network of effective connectivity during ED with and without TMS in patients with focal seizures. Methods: For the effective connectivity a direct causality measure is applied termed partial mutual information from mixed embedding (PMIME). TMS-EEG data from two patients with focal seizures were analyzed. Each EEG record contained a number of EDs in the majority of which TMS was administered over the epileptic focus. As a control condition, sham stimulation over the epileptogenic zone or real TMS at a distance from the epileptic focus was also performed. The change in brain connectivity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Discriminating dynamic regimes using measures of causality networks from multivariate time series",
+            "Publication year": 2014,
+            "Publication url": "https://www.ieice.org/nolta/symposium/archive/2014/articles/B1L-B3-6242.pdf",
+            "Abstract": "In many applications ranging from neurophysiology to finance, the dynamics of the underlying mechanism to observed multivariate time series is believed to change and this is reflected to the inter-dependence structure of the observed variables. We consider a Granger causality index for estimating the inter-dependence structure and form causality networks with nodes the observed variables and directed connections given by the selected Granger causality index. The focus of the study is on assessing the different network measures as to their ability in discriminating different dynamic regimes of the system underlying the multivariate time series. For this, we first compute the network measures on many realizations of the coupled Mackey-Glass system under different coupling structures, and then to electroencephalogram recordings containing episodes of epileptiform discharges. The ranking of the network measures on the simulated and real data revealed the same subset of measures performing best.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "State space reconstruction for multivariate time series prediction",
+            "Publication year": 2008,
+            "Publication url": "https://arxiv.org/abs/0809.2220",
+            "Abstract": "In the nonlinear prediction of scalar time series, the common practice is to reconstruct the state space using time-delay embedding and apply a local model on neighborhoods of the reconstructed space. The method of false nearest neighbors is often used to estimate the embedding dimension. For prediction purposes, the optimal embedding dimension can also be estimated by some prediction error minimization criterion. We investigate the proper state space reconstruction for multivariate time series and modify the two abovementioned criteria to search for optimal embedding in the set of the variables and their delays. We pinpoint the problems that can arise in each case and compare the state space reconstructions (suggested by each of the two methods) on the predictive ability of the local model that uses each of them. Results obtained from Monte Carlo simulations on known chaotic maps revealed the non-uniqueness of optimum reconstruction in the multivariate case and showed that prediction criteria perform better when the task is prediction.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Classification methods can identify external constrains in swimming",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S002192901830825X",
+            "Abstract": "The purpose of the present study is to examine whether the use of fins is identifiable based on swimmers\u2019 technique and to find out technique-related features that depict fins\u2019 influence. First, a number of features were extracted from kinematic data given by movement sensors attached to swimmers\u2019 bodies during butterfly swimming technique. Then, dimensionality reduction, feature selection and classification methods were applied to the extracted features. Two classification tasks were defined, one for the three classes of long, short and no fins, attaining accuracy up to 70, 62 and 70%, respectively, and the two-class simplified version (long fins, no fins) with accuracy up to 78%. These high accuracy levels were also found statistically significant and suggest that the use of fins influences swimming technique in a recognizable way and that the selected features that depict those differences are swimming type depended.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:geHnlv5EZngC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Nonparametric testing of variability and trend in some climatic records",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s10584-011-0053-5",
+            "Abstract": "We use the method of surrogates to test the structure of variability in nine paleoclimate reconstructions and to compare temperature trends with that of the modern temperature record in the Northern hemisphere. Three different algorithms are used to generate surrogate time series: the iterated amplitude adjusted Fourier transform (IAAFT), the statically transformed autoregressive process (STAP) and a modification of STAP, which generates surrogates of arbitrary length (STAPL). We assessed through formal statistical tests that the surrogates preserve the LTP structure of the reconstructed time series of global temperature, using different measures (Hurst exponent, DFA exponent and R/S analysis). Then using the same surrogates we tested for the presence of a linear trend at least as great as the trend of the modern time series against the null hypothesis that the observed trend is only due to LTP. The null \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Identifying causal relationships in case of non-stationary time series",
+            "Publication year": 2014,
+            "Publication url": "https://cendef.uva.nl/binaries/content/assets/subsites/amsterdam-school-of-economics/amsterdam-school-of-economics-research-institute/cendef/working-papers-2014/non_stat_causality.pdf",
+            "Abstract": "The standard linear Granger non-causality test is effective only when time series are stationary. In case of non-stationary data, a vector autoregressive model (VAR) in first differences should be used instead. However, if the examined time series are co-integrated, a VAR in first differences will also fail to capture the long-run relationships. The vector error-correction model (VECM) has been introduced",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Influence of preparation depth and design on stress distribution in maxillary central incisors restored with ceramic veneers: A 3D finite element analysis",
+            "Publication year": 2020,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jopr.13121",
+            "Abstract": "To evaluate the influence of different preparation designs and depths on the stress field developed in maxillary central incisors restored with veneers made with different ceramic materials using finite element analysis (FEA).A linear static three\u2010dimensional finite element analysis model was used with the aid of reverse engineering to develop digital models of maxillary central incisors restored with ceramic veneers, according to two different preparation depths (thin vs deep) and two different preparation designs (feather edge vs butt joint). Three ceramic systems were tested: (i) feldspathic porcelain, (ii) heat pressed glass ceramic IPS Empress 2 (Ivoclar Vivadent AG), and (iii) heat pressed glass ceramic IPS e.max\u2010Press (Ivoclar Vivadent AG). Each model was subjected to a compressive force of 200N applied to the palatal surface 2 mm below the incisal edge. The longitudinal axis \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Backward\u2010in\u2010Time Selection of the Order of Dynamic Regression Prediction Model",
+            "Publication year": 2013,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2265",
+            "Abstract": "We investigate the optimal structure of dynamic regression models used in multivariate time series prediction and propose a scheme to form the lagged variable structure called Backward\u2010in\u2010Time Selection (BTS), which takes into account feedback and multicollinearity, often present in multivariate time series. We compare BTS to other known methods, also in conjunction with regularization techniques used for the estimation of model parameters, namely principal components, partial least squares and ridge regression estimation. The predictive efficiency of the different models is assessed by means of Monte Carlo simulations for different settings of feedback and multicollinearity. The results show that BTS has consistently good prediction performance, while other popular methods have varying and often inferior performance. The prediction performance of BTS was also found the best when tested on human \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Methodological advances in brain connectivity",
+            "Publication year": 2012,
+            "Publication url": "https://www.hindawi.com/journals/cmmm/2012/492902/",
+            "Abstract": "Determining how distinct neurons or brain regions are connected and communicate with each other is a crucial point in neuroscience, as it allows to investigate how the functional integration of specialized neural populations enables the emergence of coherent cognitive and behavioral states. The general concept of brain connectivity encompasses different aspects: structural connectivity is related to the description of anatomical pathways and synaptic connections; functional connectivity investigates statistical dependencies between spatially separated brain regions; effective connectivity refers to models aimed at elucidating driver-response relationships. The study of these different modes of brain connectivity is fundamental both for the investigation of the neurophysiological processes engaged in cognitive and perceptive processing and for the assessment of a variety of neurological disorders.Over the last past few decades, the continuous advancement of multichannel data acquisition technologies has made it possible to collect neuroscience data at multiple levels of description, ranging from neural spikes to local field potentials and electroencephalography (EEG)-magnetoencephalography (MEG). This increasing data availability and the contemporaneous improvement of signal processing capabilities have contributed in placing increasing demands on methods for the quantitative assessment of neural interactions. Accordingly, a variety of methodological approaches have emerged for the estimation of brain connectivity from multivariate neurophysiological time series. These approaches build on different analysis frameworks which point \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "RANKING OF SEISMIC ZONES IN GREECE USING MEASURES OF NETWORKS FORMED FROM EARTHQUAKE HISTORICAL DATA",
+            "Publication year": 2016,
+            "Publication url": "https://ejournals.epublishing.ekt.gr/index.php/geosociety/article/viewFile/11836/11875",
+            "Abstract": "Interdependencies in earthquakes with \ud835\udc40\u2265 5.0 that occurred in the Greek territory during 1911-2014 are investigated by means of network analysis. The nodes of the seismic network represent seismic zones and the connections between them are given by the time succession of two earthquakes of any seismic zones. Five different approaches for determining the weighted connections are studied based on different normalizations of the frequencies of successions for each pair of nodes (areas). In particular, two approaches transform the transition matrix to transition probability matrix of a Markov chain or Gibbs sequence. The network structure is quantified by five selected network measures, and we assess how changes in seismicity (number of earthquakes or seismic moment release) in sliding time windows (eg decades) agree with changes in the network structure. It turns out that the best matching of seismicity and network measures is succeeded with the two approaches normalizing the maximum frequency of a succession pair, over the current time window or over all time windows, and with the approach that is based on probability distribution for the pairs of nodes. For the approaches transforming the transition matrix to transition probability matrix, a test is developed for the null hypothesis according to which the observed transition in a time window is equal to the predicted one on the basis on the information given from the previous time window. The developed parametric test is based on Chi-square null distribution and shows that the null hypothesis could not be rejected in some time windows, providing a tool for future seismic hazard \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Complications in applying the method of surrogate data to EEG",
+            "Publication year": 2000,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812793782_0020",
+            "Abstract": "In the analysis of EEG data, often surrogate data are used in order to test the null hypothesis that the EEG time series is generated from a linear stochastic process possibly undergoing nonlinear static transform. Here, we argue against reported success of the test and claims of evidence of nonlinearity based on a single nonlinear statistic. The results from many nonlinear discriminating statistics on two arbitrarily selected EEG data sets suggest that rejections of the null hypothesis vary with the nonlinear method and its parameters and depend also on the algorithm generating the surrogate data, i.e. the amplitude adjusted Fourier transform (AAFT) and the iterated AAFT (IAAFT).",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Statically transformed autoregressive process and surrogate data test for nonlinearity",
+            "Publication year": 2002,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.025201",
+            "Abstract": "The key feature for the successful implementation of the surrogate data test for nonlinearity on a scalar time series is the generation of surrogate data that represent exactly the null hypothesis (statically transformed normal stochastic process), ie, they possess the sample autocorrelation and amplitude distribution of the given data. A conceptual approach and algorithm for the generation of surrogate data is proposed, called the statically transformed autoregressive process (STAP). It identifies a normal autoregressive process and a monotonic static transform, so that the transformed realizations of this process fulfill exactly both conditions and do not suffer from bias in autocorrelation as the surrogate data generated by other algorithms. The appropriateness of STAP is demonstrated with simulated and real world data.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Geometrical facial feature selection for person identification",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6641354/",
+            "Abstract": "Automatic human identification is a hot topic with many applications, mainly in security. A common type of facial features used for the purposes of biometric recognition and identification includes geometrical characteristics. To this respect, the current study is performed on a proprietary dataset of 53 subjects (with several frames per subject) by utilizing 3D geometrical face features extracted from the Euclidean and geodesic intradistances between specific nodal facial points. The objective is to achieve high accuracy in the verification of the IDs of the users. Two feature selection methods based on information criteria are selected and benchmarked herein, i.e. the minimum redundancy and maximum relevance (mRMR) and the conditional mutual information with nearest neighbors estimate (CMINN). The repeated computations on several randomly selected training and test sets from the ensemble of frames give \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Normal correlation coefficient of non-normal variables using piece-wise linear approximation",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s00180-010-0195-3",
+            "Abstract": "The correlation coefficient of non-normal variables is expressed as a function of the correlation coefficient of normal variables using piece-wise linear approximation of each univariate transform of normal to anything, and the second order moments of a multiply truncated bivariate normal distribution. For the inverse problem, an algorithm iterates this analytic function in order to assign a normal correlation coefficient to two non-normal variables. The algorithm is applied for the generation of randomized bivariate samples with given correlation coefficient and marginal distributions and used in a randomization test for bivariate nonlinearity. The test correctly does not reject the null hypothesis of linear correlation if the nonlinearity is plausible and due to the sample transform alone.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "GAUSSIAN ANALYSIS OF NON-GAUSSIAN TIME SERIES.",
+            "Publication year": 2010,
+            "Publication url": "http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13799932&AN=82373543&h=tjnGaQtsPLA5w1aof5vIBUues4F3oeteiHqVhc5BryO%2FIBV6ZjPOd2dyEUiXRRi2V60smRQuYIKLs5YoUWZ4OA%3D%3D&crl=c",
+            "Abstract": "A framework is proposed for the analysis of non-Gaussian time series under the Gaussian assumption. The analysis is based on the Gaussian autocorrelation computed from the transform of the sample autocorrelation. It is shown that this approach improves the linear autoregressive fit. We also use it to generate time series that preserve the original autocorrelation and marginal distribution and develop a combined test that discriminates whether a linear stochastic time series is a monotonic or non-monotonic transform of a Gaussian time series. The usefulness of the proposed analysis is demonstrated on stock exchange volumes of several world markets.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improvement of Symbolic Transfer Entropy",
+            "Publication year": 2009,
+            "Publication url": "http://users.auth.gr/dkugiu/PDFs/IntProc/Y2009TERV_ICCSAProc.pdf",
+            "Abstract": "A number of measures have been proposed for the direction of the coupling between two time series, and transfer entropy (TE) has been found in recent studies to perform consistently well in different settings. Symbolic transfer entropy (STE) has been very recently proposed as a variation of the transfer entropy operating on the ranks of the components of the reconstructed vectors rather than the reconstructed vectors themselves. Here, an improvement of STE is proposed. Specifically, the ranks of the samples of the response system for given time steps ahead are computed with regard to the current reconstructed vector. The grounds of this modification are given and the new measure, called Transfer Entropy on Rank Vectors (TERV), is compared to STE and TE on different settings of state space reconstruction, time series length and observational noise. The results on two simulated systems have shown that the detection of the direction and strength of coupling is improved with TERV over both STE and TE.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Statistical analysis of the extreme values of stress time series from the Portevin\u2013Le Ch\u00e2telier effect",
+            "Publication year": 2004,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.70.036110",
+            "Abstract": "In an effort to understand the deterministic vs stochastic character of the Portevin\u2013Le Ch\u00e2telier (PLC) phenomenon, we investigate the structure of the underlying mechanism that generates the stick-slip patterns of stress over time. The stress time series is reduced to a series of successive pairs of minimum and maximum values representing the stick-slip patterns and a statistical analysis by means of hypothesis testing is applied to it. The null hypothesis of least deterministic structure is that the time series of extreme values is a bounded random walk of alternating direction (BRWAD); that is, besides the constraint of succession of minima to maxima bounded at a predefined range there are no other correlations in the data. To implement the test we use surrogate data generated by a model consistent with a BRWAD type process, which also uses the statistics of the original data to best mimic them. The proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:5nxA0vEk-isC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Transcranial magnetic stimulation combined with EEG reveals covert states of elevated excitability in the human epileptic brain",
+            "Publication year": 2015,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0129065715500185",
+            "Abstract": "Background: Transcranial magnetic stimulation combined with electroencephalogram (TMS-EEG) can be used to explore the dynamical state of neuronal networks. In patients with epilepsy, TMS can induce epileptiform discharges (EDs) with a stochastic occurrence despite constant stimulation parameters. This observation raises the possibility that the pre-stimulation period contains multiple covert states of brain excitability some of which are associated with the generation of EDs. Objective: To investigate whether the interictal period contains \"high excitability\" states that upon brain stimulation produce EDs and can be differentiated from \"low excitability\" states producing normal appearing TMS-EEG responses. Methods: In a cohort of 25 patients with Genetic Generalized Epilepsies (GGE) we identified two subjects characterized by the intermittent development of TMS-induced EDs. The high-excitability in the pre \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:mB3voiENLucC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Discrimination of coupling structures using causality networks from multivariate time series",
+            "Publication year": 2016,
+            "Publication url": "https://aip.scitation.org/doi/abs/10.1063/1.4963175",
+            "Abstract": "Measures of Granger causality on multivariate time series have been used to form the so-called causality networks. A causality network represents the interdependence structure of the underlying dynamical system or coupled dynamical systems, and its properties are quantified by network indices. In this work, it is investigated whether network indices on networks generated by an appropriate Granger causality measure can discriminate different coupling structures. The information based Granger causality measure of partial mutual information from mixed embedding (PMIME) is used to form causality networks, and a large number of network indices are ranked according to their ability to discriminate the different coupling structures. The evaluation of the network indices is done with a simulation study based on two dynamical systems, the coupled Mackey-Glass delay differential equations and the neural mass model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "AIP Publishing LLC"
+        },
+        {
+            "Title": "Assessment of resampling methods for causality testing",
+            "Publication year": 2014,
+            "Publication url": "http://cendef.uva.nl/binaries/content/assets/subsites/amsterdam-school-of-economics/amsterdam-school-of-economics-research-institute/cendef/working-papers-2014/resamplingpaper_1.pdf",
+            "Abstract": "Different resampling methods for the null hypothesis of non-causality are assessed. As test statistic the partial transfer entropy (PTE), an information and model-free measure, is used. Two resampling techniques, 1) the time shifted surrogates and 2) the stationary bootstrap, are combined with the following three independence settings (giving in total six resampling schemes), all consistent to the null hypothesis",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Universiteit van Amsterdam, Center for Nonlinear Dynamics in Economics and Finance"
+        },
+        {
+            "Title": "Decoding motor imagery through common spatial pattern filters at the EEG source space",
+            "Publication year": 2018,
+            "Publication url": "https://www.hindawi.com/journals/cin/2018/7957408/abs/",
+            "Abstract": "Brain-Computer Interface (BCI) is a rapidly developing technology that aims to support individuals suffering from various disabilities and, ultimately, improve everyday quality of life. Sensorimotor rhythm-based BCIs have demonstrated remarkable results in controlling virtual or physical external devices but they still face a number of challenges and limitations. Main challenges include multiple degrees-of-freedom control, accuracy, and robustness. In this work, we develop a multiclass BCI decoding algorithm that uses electroencephalography (EEG) source imaging, a technique that maps scalp potentials to cortical activations, to compensate for low spatial resolution of EEG. Spatial features were extracted using Common Spatial Pattern (CSP) filters in the cortical source space from a number of selected Regions of Interest (ROIs). Classification was performed through an ensemble model, based on individual ROI classification models. The evaluation was performed on the BCI Competition IV dataset 2a, which features 4 motor imagery classes from 9 participants. Our results revealed a mean accuracy increase of 5.6% with respect to the conventional application method of CSP on sensors. Neuroanatomical constraints and prior neurophysiological knowledge play an important role in developing source space-based BCI algorithms. Feature selection and classifier characteristics of our implementation will be explored to raise performance to current state-of-the-art.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Evaluation of linear trend tests using resampling techniques",
+            "Publication year": 2008,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/03610910701858371",
+            "Abstract": "A number of parametric and non-parametric linear trend tests for time series are evaluated in terms of test size and power, using also resampling techniques to form the empirical distribution of the test statistics under the null hypothesis of no linear trend. For resampling, both bootstrap and surrogate data are considered. Monte Carlo simulations were done for several types of residuals (uncorrelated and correlated with normal and nonnormal distributions) and a range of small magnitudes of the trend coefficient. In particular for AR(1) and ARMA(1, 1) residual processes, we investigate the discrimination of strong autocorrelation from linear trend with respect to the sample size. The correct test size is obtained for larger data sizes as autocorrelation increases and only when a randomization test that accounts for autocorrelation is used. The overall results show that the type I and II errors of the trend tests are reduced \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Clinical utility and prospective of TMS\u2013EEG",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S138824571930001X",
+            "Abstract": "Concurrent transcranial magnetic stimulation and electroencephalography (TMS\u2013EEG) has emerged as a powerful tool to non-invasively probe brain circuits in humans, allowing for the assessment of several cortical properties such as excitability and connectivity. Over the past decade, this technique has been applied to various clinical populations, enabling the characterization and development of potential TMS\u2013EEG predictors and markers of treatments and of the pathophysiology of brain disorders. The objective of this article is to present a comprehensive review of studies that have used TMS\u2013EEG in clinical populations and to discuss potential clinical applications. To provide a technical and theoretical framework, we first give an overview of TMS\u2013EEG methodology and discuss the current state of knowledge regarding the use of TMS\u2013EEG to assess excitability, inhibition, plasticity and connectivity following \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:8AbLer7MMksC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Partial symbolic transfer entropy",
+            "Publication year": 2013,
+            "Publication url": "https://cendef.uva.nl/binaries/content/assets/subsites/amsterdam-school-of-economics/amsterdam-school-of-economics-research-institute/cendef/working-papers-2013/pste_working_paper.pdf",
+            "Abstract": "In this paper, we introduce the partial symbolic transfer entropy (PSTE), an extension of the symbolic transfer entropy that accounts only for the direct causal effects among the components of a multivariate system. It is an information theoretic measure, and as such does not suffer from model mis-specification bias. The PSTE is defined on the ranks of vectors that are formed from the reconstructed vectors, instead of the original time series values. The statistical significance of",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Feature selection for classification of oscillating time series",
+            "Publication year": 2012,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0394.2011.00605.x",
+            "Abstract": "We propose a forward sequential feature selection scheme based on k\u2010means clustering algorithm to derive the feature subset that classifies best the time series data base, according to the criterion of the corrected Rand index. Moreover, we investigate the effect of the standardization scheme on the feature selection and propose a standardization given by the transform to standard Gaussian distribution. Our interest in this work is in classification of oscillating dynamical systems on the basis of measures computed on time series from these systems. The features to be selected are measures of linear and non\u2010linear analysis of time series, such as auto\u2010correlation and Lyapunov exponents, as well as oscillation characteristics, such as the mean magnitude of peaks. Simulations on known oscillating deterministic and stochastic systems showed that, for repeated realizations of the same classification task, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Species mobility induces synchronization in chaotic population dynamics",
+            "Publication year": 2011,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.036211",
+            "Abstract": "A prototype population dynamics model with cyclic domination of four species and empty sites is proposed for studying transition to synchronization. At the mean-field level the dynamics shows quasiperiodicity and chaos depending on the parameter values. The realization of the model on a square lattice shows that spatial restrictions and intrinsic stochasticity change the whole picture. The mean-field dynamics qualitatively remains only under global reactions, while local reactions drive the lattice to poisoning, where only some of the species survive. Nontrivial oscillatory steady states are developed if long-distance exchange is introduced due to gradual mixing with a certain probability. The mixing probability is shown to control the transition to synchronization which emerges abruptly following a phase slip scenario. Near the transition a typical intermittency crisis takes place, with phase slips becoming more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Correlation, complexity, and coupling measures of time series",
+            "Publication year": 2011,
+            "Publication url": "http://users.auth.gr/~dkugiu/Teach/Networks/KugiumtzisLecture2.pdf",
+            "Abstract": "Correlation, complexity, and coupling measures of time series Page 1 Correlation, complexity, \nand coupling measures of time series Dimitris Kugiumtzis November 4, 2020 Dimitris \nKugiumtzis Correlation, complexity, and coupling measures of time series Page 2 Time Series, \ntime dependence Dimitris Kugiumtzis Correlation, complexity, and coupling measures of time \nseries Page 3 Time Series, time dependence Time dependence? =\u21d2 Test for independence \n(see below) Dimitris Kugiumtzis Correlation, complexity, and coupling measures of time series \nPage 4 Time Series, time dependence Time dependence? =\u21d2 Test for independence (see \nbelow) Time dependence The time series is a function of time The time series is a realization \nof a stochastic process / dynamical system Dimitris Kugiumtzis Correlation, complexity, and \ncoupling measures of time series Page 5 Stationarity see [1]: Sec 2.1-2.4, [2] Chp 1 and Sec : \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "State Space Local Linear Prediction",
+            "Publication year": 2000,
+            "Publication url": "http://users.auth.gr/~dkugiu/PDFs/FinLLPfig.pdf",
+            "Abstract": "Local linear prediction is one of several methods that have been applied to prediction of real time series including financial time series. The difference from global linear prediction is that, for every single point prediction, a different linear autoregressive (AR) model is estimated based only on a number of selected past scalar data segments. Geometrically, these data segments correspond to points close to the target point when the time series is viewed in a pseudo-state space with dimension equal to the order of the local AR model.The parameters of the local linear model are typically estimated using ordinary least squares (OLS). Apart from potential linearisation errors, a drawback of this approach is the high variance of the predictions under certain conditions. It has been shown that a different set of so-called regularisation techniques, originally derived to solve ill-posed regression problems, gives more stable solutions (and thus better predictions) than OLS on noisy chaotic time series. Three regularisation techniques are considered, ie principal component regression (PCR), partial least squares (PLS) and ridge regression (RR). These methods reduce the variance compared to OLS, but introduce more bias. A main tool of this analysis is the Singular Value Decomposition (SVD), and a key to successful regularisation is to dampen the higher order SVD components. For the sake of completeness, truncated total least squares is discussed as well, which is designed to solve \u201cerror-in-variables\u201d problems. Even though it would be expected that this method is more appropriate for noisy time series, it turns out to give the worst predictions.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Investigating long range correlation in DNA sequences using significance tests of conditional mutual information",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1476927114000863",
+            "Abstract": "This study exploits the use of Markov chain order estimation from symbol sequences of systems exhibiting long memory or long range correlations (LRC), such as DNA sequences. In the presence of limited sequence length, LRC chain can be approximated by a high order Markov chain. For the order estimation, the parametric significance test of conditional mutual information IC(m) is applied, found in an earlier work to be suitable for high order estimation. Here, it is computationally optimized applying an iterative algorithm for calculating IC(m) at increasing order m, enabling the analysis of long symbol sequences of high Markov chain order or LRC. The simulation study shows that when the true order is reasonably small, the estimated order saturates at the true order with the increase of the symbol sequence length, while when the true order is very large or the chain has LRC, the estimated order increases \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:TQgYirikUcIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Investigation of the correlation of successive earthquakes preceding main shocks in the Greek territory",
+            "Publication year": 2021,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/02664763.2021.1939661",
+            "Abstract": "The Canonical Correlation Analysis (CCA) estimates the correlation between two vector variables by maximizing the correlation of linear combinations of their respective components. Here, the CCA is used to find correlation patterns in the last five successive, per pairs, earthquakes () preceding 271 main shocks () that occurred in the Greek territory during 1964\u20132018. The vector variables have two components, the earthquake magnitude and interevent time. The statistical significance of CCA is determined by the standard parametric test along with two proposed randomization tests, one using random shuffling of each paired dataset and one using randomly selected pairs of successive earthquakes. Simulations were designed on synthetic data from vector variables having the statistical characteristics of the real observations. The results on uncorrelated variables showed the correct size for the two \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:olpn-zPbct0C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Evaluation of causality measures based on non-uniform embedding schemes with application to the cardiovascular system",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6847601/",
+            "Abstract": "In the analysis of physiological time series it is important to investigate the inter-dependence structure among the observed variables of the system. For this, a number of measures of the so-called Granger causality have been developed, and among them information measures have gained much attention. However, information measures have to deal with the estimation of probability distributions of high-dimensional vector variables, typically formed through uniform delay embedding of the time series. Here, the focus is on measures derived after nonuniform embedding. Particularly, two schemes are considered, one based on conditional mutual information and the other based on conditional entropy. We evaluate the two measures on simulated nonlinear coupled dynamical systems and apply them to signals of heart rate variability, respiration, and oxygen concentration in the blood.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SEISMIC HAZARD ASSESSMENT OF EARTHQUAKES IN GREECE USING DIRECTED EARTHQUAKE NETWORKS",
+            "Publication year": 2016,
+            "Publication url": "https://www.researchgate.net/profile/Dimitrios-Chorozoglou/publication/317427598_SEISMIC_HAZARD_ASSESSMENT_OF_EARTHQUAKES_IN_GREECE_USING_DIRECTED_EARTHQUAKE_NETWORKS/links/593a6fe4458515320640a39a/SEISMIC-HAZARD-ASSESSMENT-OF-EARTHQUAKES-IN-GREECE-USING-DIRECTED-EARTHQUAKE-NETWORKS.pdf",
+            "Abstract": "The objective of this study is the seismic hazard evaluation in the area of Greece based on modeling of the transition probabilities of seismicity as a Markov and semi-Markov chain model. The data consist of strong earthquakes with magnitude that occurred during the period 1911-2015 are considered. The study area is divided into 5 subareas (seismic zones) that are homogenous from the seismotectonic point of view and the seismic catalog is divided into subsets for four magnitude ranges. Two Markov chains are defined with respect to predefined time window, one having as states the occurrence or not of strong earthquakes in any of the 5 subareas ( states), and one having as states the occurrence or not of strong earthquakes anywhere in Greece at any of the four magnitude ranges ( states). The states constitute the nodes of a network with weighted directed connections defined by the transition probabilities of the Markov chain. he null hypothesis that the Markov chain has no memory is rejected using test statistics for three memoryless models (uniform, Poissonian and fixed Markov chain). It is confirmed that the degree (strength) distribution of the network matches well the limiting state distribution of the Markov chain. In a different approach, two semi-Markov models are developed, one for subareas (5 states) and one for magnitudes (4 states), for the sequence of strong earthquakes using appropriate time step and core matrices. The semi-Markov model on the subareas and magnitudes is found to give satisfactory aftcast (estimation of the next transition considering the data until the time of forecast), which is regarded an estimate of seismic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dimensionality reduction for enhanced 3D face recognition",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6623708/",
+            "Abstract": "This paper presents a novel approach for improving the accuracy of existing 3D face recognition algorithms via the dimensionality reduction of the feature space. In particular, two feature selection methods based on information criteria are selected and benchmarked herein (i.e. the minimum Redundancy - Maximum Relevance (mRMR) and the Conditional Mutual Information with Nearest Neighbors estimate (CMINN)), on top of the geometric features provided by a state-of-the-art 3D face recognition algorithm. Experimental validation on a proprietary dataset of 53 subjects illustrates significant advances in performance of the proposed method when compared to the reference 3D face recognition system. The repeated computations on several non-overlapping, randomly selected, training and test sets from the ensemble of frames, give evidence for successful classification of the subjects based on a significantly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Discrimination of epileptic pre-ictal states using feature based clustering on EEG",
+            "Publication year": 2010,
+            "Publication url": "https://www.researchgate.net/profile/Dimitris-Kugiumtzis/publication/266892040_Discrimination_of_epileptic_pre-ictal_states_using_feature_based_clustering_on_EEG/links/549924e30cf2519f5a1df0ac/Discrimination-of-epileptic-pre-ictal-states-using-feature-based-clustering-on-EEG.pdf",
+            "Abstract": "The aim of this study is the classification and clustering of preictal states on the basis of relevant features computed on consecutive segments of preictal electroencephalograms (EEG). First, a sum of 312 time series features were estimated (simple statistical measures, linear and non-linear measures), where some of them were estimated for different method specific parameters. We compared the efficiency of two methods for feature selection, the Forward Sequential Selection (FSS) and Support Vector Machines with Recursive Feature Elimination (SVM-RFE). The classification was applied to 12 extra-cranial preictal EEG recordings of different epileptic patients and gave successful separation between early and late preictal states (about three hours and half an hour before the seizure onset, respectively) using only a small feature subset, which most frequently was comprised of any of the following features: permutation entropy, Higuchi dimension, median of local extremes, energy band and Hjorth complexity. The optimal feature subsets that selected by the two feature selection strategies for the same classification problems were found very often to have common features. Using these feature subsets, clustering with k-means partitioning algorithm was applied to a test set of EEG segments of early and late preictal states from the same recordings. The results indicated a good agreement between the estimated clusters and the original preictal states for the cases where the classification efficiency was high.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Application of complex network theory to the recent foreshock sequences of Methoni (2008) and Kefalonia (2014) in Greece",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/article/10.1007/s11600-017-0039-4",
+            "Abstract": "Seismic hazard evaluation before recent strong main shocks in the area of Greece is attempted using prior seismicity on the basis of earthquake network theory. The connections of earthquake networks are constructed from successive earthquakes and the nodes are represented by cells of normal grids that were considered superimposed on the study areas. The dynamic evolution of the network structure is examined at sliding windows for identifying periods of statistically significant change, i.e., the network structure differentiation from that of a random network, where the structure is characterized by selected network measures, including the index of small-worldness property. By studying the structure of complex earthquake network, a distinct dynamic evolution is revealed, 2 months before the main shock occurrence. Particularly, the network measures, such as clustering coefficient and small-worldness \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "State space local linear prediction",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4615-0931-8_5",
+            "Abstract": "Local linear prediction is one of several methods that have been applied to prediction of real time series including financial time series. The difference from global linear prediction is that, for every single point prediction, a different linear autoregressive (AR) model is estimated based only on a number of selected past scalar data segments. Geometrically, these data segments correspond to points close to the target point when the time series is viewed in a pseudo-state space with dimension equal to the order of the local AR model.The parameters of the local linear model are typically estimated using ordinary least squares (OLS). Apart from potential linearisation errors, a drawback of this approach is the high variance of the predictions under certain conditions. It has been shown that a different set of so-called regularisation techniques, originally derived to solve ill-posed regression problems, gives \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Statistical analysis of gene and intergenic DNA sequences",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437104006405",
+            "Abstract": "Much of the on-going statistical analysis of DNA sequences is focused on the estimation of characteristics of coding and non-coding regions that would possibly allow discrimination of these regions. In the current approach, we concentrate specifically on genes and intergenic regions. To estimate the level and type of correlation in these regions we apply various statistical methods inspired from nonlinear time series analysis, namely the probability distribution of tuplets, the Mutual Information and the Identical Neighbour Fit. The methods are suitably modified to work on symbolic sequences and they are first tested for validity on sequences obtained from well-known simple deterministic and stochastic models. Then they are applied to the DNA sequence of chromosome 1 of arabidopsis thaliana. The results suggest that correlations do exist in the DNA sequence but they are weak and that intergenic sequences tend to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Local prediction of turning points of oscillating time series",
+            "Publication year": 2008,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.78.036206",
+            "Abstract": "For oscillating time series, the prediction is often focused on the turning points. In order to predict the turning point magnitudes and times it is proposed to form the state space reconstruction only from the turning points and modify the local (nearest-neighbor) model accordingly. The model on turning points gives optimal predictions at a lower dimensional state space than the optimal local model applied directly on the oscillating time series and is thus computationally more efficient. Simulations on different oscillating nonlinear systems showed that it gives better predictions of turning points and this is confirmed also for the time series of annual sunspots and total stress in a plastic deformation experiment.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Causality networks from multivariate time series and application to epilepsy",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7319281/",
+            "Abstract": "Granger causality and variants of this concept allow the study of complex dynamical systems as networks constructed from multivariate time series. In this work, a large number of Granger causality measures used to form causality networks from multivariate time series are assessed. For this, realizations on high dimensional coupled dynamical systems are considered and the performance of the Granger causality measures is evaluated, seeking for the measures that form networks closest to the true network of the dynamical system. In particular, the comparison focuses on Granger causality measures that reduce the state space dimension when many variables are observed. Further, the linear and nonlinear Granger causality measures of dimension reduction are compared to a standard Granger causality measure on electroencephalographic (EEG) recordings containing episodes of epileptiform discharges.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Testing the structure of earthquake networks from multivariate time series of successive main shocks in Greece",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437118300530",
+            "Abstract": "The seismic hazard assessment in the area of Greece is attempted by studying the earthquake network structure, such as small-world and random. In this network, a node represents a seismic zone in the study area and a connection between two nodes is given by the correlation of the seismic activity of two zones. To investigate the network structure, and particularly the small-world property, the earthquake correlation network is compared with randomized ones. Simulations on multivariate time series of different length and number of variables show that for the construction of randomized networks the method randomizing the time series performs better than methods randomizing directly the original network connections. Based on the appropriate randomization method, the network approach is applied to time series of earthquakes that occurred between main shocks in the territory of Greece spanning the period \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:08ZZubdj9fEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Direct-coupling information measure from nonuniform embedding",
+            "Publication year": 2013,
+            "Publication url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.062918",
+            "Abstract": "A measure to estimate the direct and directional coupling in multivariate time series is proposed. The measure is an extension of a recently published measure of conditional mutual information from mixed embedding (MIME) for bivariate time series. In the proposed measure of partial MIME (PMIME), the embedding is on all observed variables and it is optimized in explaining the response variable. It is shown that PMIME detects correctly direct coupling and outperforms the (linear) conditional Granger causality and the partial transfer entropy. We demonstrate that PMIME does not rely on significance test and embedding parameters and the number of observed variables has no effect on its statistical accuracy; it may only slow the computations. The importance of these points is shown in simulations and in an application to epileptic multichannel scalp electroencephalograms.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "American Physical Society"
+        },
+        {
+            "Title": "Article _",
+            "Publication year": 2011,
+            "Publication url": "https://www.academia.edu/download/51107486/j.1468-0394.2011.00605.x20161229-653-1v9iloy.pdf",
+            "Abstract": "We propose a forward sequential feature selection scheme based on k-means clustering algorithm to derive the feature subset that classifies best the time series data base, according to the criterion of the corrected Rand index. Moreover, we investigate the effect of the standardization scheme on the feature selection and propose a standardization given by the transform to standard Gaussian distribution. Our interest in this work is in classification of oscillating dynamical systems on the basis of measures computed on time series from these systems. The features to be selected are measures of linear and non-linear analysis of time series, such as auto-correlation and Lyapunov exponents, as well as oscillation characteristics, such as the mean magnitude of peaks. Simulations on known oscillating deterministic and stochastic systems showed that, for repeated realizations of the same classification task, the proposed feature selection scheme selected very often the same best feature subset, giving high classification accuracy for any standardization. We found that, regardless of the standardization, the highest classification accuracy could be obtained with a small feature subset, containing most frequently an oscillating-related feature. The same setting was applied to records of epileptic electroencephalogram signals, giving varying results and dependent on the standardization.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "EEG features as biomarkers for discrimination of preictal states",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4614-2107-8_3",
+            "Abstract": "The aim of this study is the selection of the most relevant features of electroencephalograms (EEG) for classification and clustering of preictal states. First, a sum of 312 time series features were computed on consecutive segments of preictal EEG (simple statistical measures, linear and nonlinear measures), where some of them regard different method specific parameters. The efficiency of three methods for feature selection was assessed, i.e., the Forward Sequential Selection (FSS), Support Vector Machines with Recursive Feature Elimination (SVM-RFE) and a MI filter. The classification was applied first to 1000 realizations of simulated data from the Mackey\u2013Glass system at different high dimensional chaotic regimes, and next to 12 scalp early and late preictal EEG recordings of different epileptic patients (about 3 h and half an hour before the seizure onset, respectively). The optimal feature subsets \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Discrimination of dynamical regimes by time series characteristics",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6738885871440861493&hl=en&oi=scholarr",
+            "Abstract": "The ability of time series characteristics to discriminate dynamical regimes is the subject of this work. The problem is postulated as the search for the time series characteristics that best classify a given time series, where the classes are the different dynamical regimes or systems. In this work, we considered a large ensemble of time series characteristics including simple statistics, statistics of correlation, entropy and complexity, as well as statistics based on modeling, defined for different parameter values if they are parameter dependent, and giving a total of 540 characteristics, called time series features. Most of these features assume that the time series is stationary. For our setting, we suppose two dynamical systems or regimes and multiple realizations of each, and for the evaluation of the discrimination ability of the features, we consider the area under receiver operating characteristic curve (AUROC). The above \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Surrogate Data Test for Nonlinearity: A New Approach",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2191138511057985905&hl=en&oi=scholarr",
+            "Abstract": "The existence of nonlinear dynamics in real scalar time series is established if the null hypothesis that the time series is a realisation of a normal stochastic process, possibly undergoing a nonlinear static transform, is rejected. For the implementa-tion of the test, surrogate data are generated to represent the null hypothesis, ie to possess the sample autocorrelation and amplitude distribution of the given data and be otherwise random. A new method to generate surrogate data is pro-posed, called Statically Transformed Autoregressive Process (STAP), which identifies a normal autoregressive process and a monotonic static transform, so that the transformed realisations of this process fulfill exactly both conditions. The new method does not share the limitation of monotonicity of the transform in the null hypothesis, as does the prominent algorithm of amplitude adjusted Fourier transform (AAFT). The practical advantage of STAP compared to AAFT is that it does not give bias in autocorrelation. The superiority of STAP over AAFT in real applica-tions is demonstrated with two examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:5ugPr518TE4C",
+            "Publisher": "Pabst Science Publishers"
+        },
+        {
+            "Title": "Entropy-Based Measures of Causality and Application to Epilepsy",
+            "Publication year": 2010,
+            "Publication url": "https://www.ieice.org/publications/proceedings/summary.php?expandable=11&iconf=NOLTA&session_num=C2L-A&number=C2L-A1&year=2010",
+            "Abstract": "Among different measures of coupling and causality, measures based on entropies have gained much attention recently, such as the transfer entropy (TE) and its extensions based on permutation entropies, i.e. the socalled symbolic transfer entropy (STE) and the transfer entropy on rank vectors (TERV). All these measures make use of univariate embedding of each of the two time series. Very recently, we proposed a measure for coupling and causality that is derived from mixed embedding, which relies on information criteria regarding past, current and future states. The components of the mixed embedding vector indicate the presence of information transfer, and a measure is formed to quantify it, called mutual information from mixed embedding (MIME). We compare the measures from univariate embedding, TE, STE and TERV, and the measure from multivariate embedding, MIME. For this, we make simulations on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "Simulation of multivariate non-gaussian autoregressive time series with given autocovariance and marginals",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1569190X14000392",
+            "Abstract": "A semi-analytic method is proposed for the generation of realizations of a multivariate process of a given linear correlation structure and marginal distribution. This is an extension of a similar method for univariate processes, transforming the autocorrelation of the non-Gaussian process to that of a Gaussian process based on a piece-wise linear marginal transform from non-Gaussian to Gaussian marginal. The extension to multivariate processes involves the derivation of the autocorrelation matrix from the marginal transforms, which determines the generating vector autoregressive process. The effectiveness of the approach is demonstrated on systems designed under different scenarios of autocovariance and marginals.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:hMod-77fHWUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Statistical analysis for long term correlations in the stress time series of jerky flow",
+            "Publication year": 2004,
+            "Publication url": "https://www.degruyter.com/document/doi/10.1515/JMBM.2004.15.3.135/html",
+            "Abstract": "ObjectiveThe Journal of the Mechanical Behavior of Materials (JMBM) publishes articles on original research, short communications and reviews covering all natural and modern engineering materials. Contributions on interdisciplinary high risk-high gain or unconventional approaches in topics spanning the whole range from condensed to soft matter mechanics are particularly welcome.",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:-f6ydRqryjwC",
+            "Publisher": "De Gruyter"
+        },
+        {
+            "Title": "Brain connectivity in children with cognitive deficits and CSWS",
+            "Publication year": 2011,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.elsevier-2c767c92-2da1-3fa6-a523-4e83cea5e12c",
+            "Abstract": "Brain connectivity in children with cognitive deficits and CSWS \u00d7 Close The Infona portal uses \ncookies, ie strings of text saved by a browser on the user's device. The portal can access \nthose files and use them to remember the user's data, such as their chosen settings (screen \nview, interface language, etc.), or their login data. By using the Infona portal the user accepts \nautomatic saving and using this information for portal operation purposes. More information \non the subject can be found in the Privacy Policy and Terms of Service. By closing this window \nthe user confirms that they have read the information on cookie usage, and they accept the \nprivacy policy and the way cookies are used by the portal. You can change the cookie settings \nin your browser. I accept Polski English Login or register account remember me Password \nrecovery INFONA - science communication portal INFONA Search advanced search Browse \u00d7 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:f2IySw72cVMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Simulation study of direct causality measures in multivariate time series",
+            "Publication year": 2013,
+            "Publication url": "https://www.mdpi.com/53846",
+            "Abstract": "Measures of the direction and strength of the interdependence among time series from multivariate systems are evaluated based on their statistical significance and discrimination ability. The best-known measures estimating direct causal effects, both linear and nonlinear, are considered, ie, conditional Granger causality index (CGCI), partial Granger causality index (PGCI), partial directed coherence (PDC), partial transfer entropy (PTE), partial symbolic transfer entropy (PSTE) and partial mutual information on mixed embedding (PMIME). The performance of the multivariate coupling measures is assessed on stochastic and chaotic simulated uncoupled and coupled dynamical systems for different settings of embedding dimension and time series length. The CGCI, PGCI and PDC seem to outperform the other causality measures in the case of the linearly coupled systems, while the PGCI is the most effective one when latent and exogenous variables are present. The PMIME outweighs all others in the case of nonlinear simulation systems. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "SgQOqeIAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "P11-14 Transcranial magnetic stimulation terminates epileptiform discharges in patients with partial epilepsy: a combined EEG-TMS study",
+            "Publication year": 2010,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.elsevier-3e375b42-17ba-34b7-8c34-2d42c4c5dd11",
+            "Abstract": "P11-14 Transcranial magnetic stimulation terminates epileptiform discharges in patients with \npartial epilepsy: a combined EEG-TMS study \u00d7 Close The Infona portal uses cookies, ie strings \nof text saved by a browser on the user's device. The portal can access those files and use them \nto remember the user's data, such as their chosen settings (screen view, interface language, \netc.), or their login data. By using the Infona portal the user accepts automatic saving and \nusing this information for portal operation purposes. More information on the subject can be \nfound in the Privacy Policy and Terms of Service. By closing this window the user confirms \nthat they have read the information on cookie usage, and they accept the privacy policy and \nthe way cookies are used by the portal. You can change the cookie settings in your browser. \nI accept Polski English Login or register account remember me Password recovery INFONA . \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "SgQOqeIAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

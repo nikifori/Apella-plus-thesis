@@ -1,0 +1,1380 @@
+[{
+    "name": "\u0386\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2 \u039c\u03c0\u03af\u03bb\u03b1\u03c2",
+    "romanize name": "Angelos Bilas",
+    "School-Department": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18041,
+    "Scholar name": "Angelos Bilas",
+    "Scholar id": "JZDNQaMAAAAJ",
+    "Affiliation": "Professor of Computer Science, University of Crete & FORTH, Greece",
+    "Citedby": 2857,
+    "Interests": [
+        "Storage Systems",
+        "Computer Systems",
+        "Cloud Computing",
+        "Parallel Computing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=JZDNQaMAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Cumulonimbo: A highly-scalable transaction processing platform as a service",
+            "Publication year": 2012,
+            "Publication url": "http://adapt01.ls.fi.upm.es/lsd/papers/2012/2012_CumuloNimbo.%20A%20highly-scalable%20transaction%20processing%20platform%20as%20a%20service.pdf",
+            "Abstract": "One of the main challenges facing next generation Cloud platform services is the need to simultaneously achieve ease of programming, consistency, and high scalability. Big Data applications have so far focused on batch processing. The next step for Big Data is to move to the online world. This shift will raise the requirements for transactional guarantees. CumuloNimbo is a new EC-funded project led by Universidad Polit\u00e9cnica de Madrid (UPM) that addresses these issues via a highly scalable multi-tier transactional platform as a service (PaaS) that bridges the gap between OLTP and Big Data applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Drasync: Distributed region-based memory allocation and synchronization",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2488551.2488558",
+            "Abstract": "We present DRASync, a region-based allocator that implements a global address space abstraction for MPI programs with pointer-based data structures. The main features of DRASync are:(a) it amortizes communication among nodes to allow efficient parallel allocation in a global address space;(b) it takes advantage of bulk deallocation and good locality with pointer-based data structures.(c) it supports ownership semantics of regions by nodes akin to reader-writer locks, which makes for a high-level, intuitive synchronization tool in MPI programs, without sacrificing message-passing performance. We evaluate DRASync against a state-of-the-art distributed allocator and find that it produces comparable performance while offering a higher level abstraction to programmers.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Topic 14 Routing and Communication in Interconnection Networks",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-45209-6_128",
+            "Abstract": "Communication networks, protocols, and application programming interfaces (APIs) are crucial factors for the performance of parallel and distributed computations. This topic of Euro-Par 2003 is therefore devoted to all aspects of communication in on-chip interconnects, parallel computers, networks of workstations, and more widely distributed systems such as grids. Papers were solicited that examine the design and implementation of interconnection networks and communication protocols, advances in system area and storage area networks, routing and communication algorithms, and the communication costs of parallel and distributed algorithms. On-chip and power-e.cient interconnects, I/O architectures and storage area networks, switch architectures as well as multimedia and QoS-aware communication were new topics introduced in this year\u2019s Call for Papers (CfP).",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Fast and transparent recovery for continuous availability of cluster-based servers",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1122971.1123005",
+            "Abstract": "Recently there has been renewed interest in building reliable servers that support continuous application operation. Besides maintaining system state consistent after a failure, one of the main challenges in achieving continuous operation is to provide fast reconfiguration. The complexity of the failure reconfiguration mechanisms employed and their overheads depend on the type of platform that is being used as a server and the types of applications that need to be supported. In this paper we focus on providing support for shared-memory applications running on clusters of commodity nodes and interconnects. Achieving continuous operation for shared memory applications on clusters presents two main challenges.(a) The fault tolerance mechanisms employed should be transparent to applications and should have low overhead during failure-free execution.(b) When failures occur, reconfiguration should occur with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Frisbee: A Suite for Benchmarking Systems Recovery",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3447851.3458738",
+            "Abstract": "With failures being unavoidable, a system's ability to recover from failures quickly is a critical factor in the overall availability of the system. Although many systems exhibit self-healing properties, their behavior in the presence of failures is poorly understood. This is primarily due to the shortcomings of existing benchmarks, which cannot generate failures. For a more accurate systems evaluation, we argue that it is essential to create new suites that treat failures as first-class citizens. We present Frisbee, a benchmark suite and evaluation methodology for comparing the recovery behavior of highly available systems. Frisbee is built for the Kubernetes environment, leveraging several valuable tools in its stack, including Chaos tools for fault injection, Prometheus for distributed monitoring, and Grafana for visualization. We discuss a set of design requirements and present an initial prototype that makes faultloads as easy to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:edDO8Oi4QzsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Virtual timers: Using hardware physical timers for profiling kernel code-paths",
+            "Publication year": 2005,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.536.2611&rep=rep1&type=pdf",
+            "Abstract": "When evaluating the performance of commercial workloads it is important to be able to examine overheads induced by the operating system kernel. Currently the only method for understanding kernel overheads is by using sample-based profiling tools. Although profiling can be very useful, one of its main limitations is that it does not allow the precise profiling of specific code-paths. Using hardware timers with a simple API allows addressing this issue, however, does not deal with context switch operations that incur during code execution, due to synchronous or asynchronous events. In this work we propose a new interface for virtualizing physical timers. Our interface takes into account context switches and provides the system programmer with simple calls to profile specific code-paths. We implement this API in the Linux kernel and demonstrate how it can be used to profile the system overhead of MySQL running a subset of TPC-H over iSCSI. Using our virtual timers we identify the time is spent in I/O related code-paths in the kernel with little effort. We also examine the overhead of the instrumentation code and find that it is less than 3% of the execution time in all experiments we perform.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "VineTalk: Simplifying software access and sharing of FPGAs in datacenters",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8056788/",
+            "Abstract": "FPGA-based accelerators are becoming first class citizens in data centers. Adding FPGAs in data centers can lead to higher compute densities with improved energy efficiency for latency critical workloads, such as financial applications. However FPGA deployment in datacenters brings difficulties both to application developers, and cloud providers. Application writers need to deal with the interfacing of FPGAs on top of application logic/algorithms. On the other hand, cloud providers are reluctant face the risk that their hardware remains underutilized, due to the lack of a sharing mechanism for FPGAs. In this paper, we introduce VineTalk, a framework that reduces the programming effort associated with FPGA-based accelerators and FPGA virtualization. We integrate VineTalk with the Xilinx SDAccel development framework and we map it to the Kintex UltraScale FPGA. Our preliminary evaluation with a use-case of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:fEOibwPWpKIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploiting spatial parallelism in Ethernet-based cluster interconnects",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4536145/",
+            "Abstract": "In this work we examine the implications of building a single logical link out of multiple physical links. We use MultiEdge to examine the throughput-CPU utilization tradeoffs and examine how overheads and performance scale with the number and speed of links. We use low- level instrumentation to understand associated overheads, we experiment with setups between 1 and 8 1-GBit/s links, and we contrast our results with a single 10-GBit/s link. We find that: (a) Our base protocol achieves up-to 65% of the nominal aggregate throughput, (b) Replacing the interrupts with polling significantly impacts only the multiple link configurations, reaching 80% of nominal throughput, (c) The impact of copying on CPU overhead is significant, and removing copying results in up-to 66% improvement in maximum throughput, reaching almost 100% of the nominal throughput, (d) Scheduling packets over heterogeneous links \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Behavior and performance of interactive multi-player game servers",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1025718026938",
+            "Abstract": "With the recent explosion in deployment of services to large numbers of customers over the Internet and in global services in general, issues related to the architecture of scalable servers are becoming increasingly important. However, our understanding of these types of applications is currently limited, especially on how well they scale to support large numbers of users. One such, novel, commercial class of applications, are interactive, multi-player game servers. Multi-player games are both an important class of commercial applications (in the entertainment industry) and they can be valuable in understanding the architectural requirements of scalable services. They impose requirements on system performance, scalability, and availability, stressing multiple aspects of the system architecture (e.g., compute cycles and network I/O). Recently there has been a lot of interest on client side issues with respect to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Task-based parallel H. 264 video encoding for explicit communication architectures",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6045464/",
+            "Abstract": "Future multi-core processors will necessitate exploitation of fine-grain, architecture-independent parallelism from applications to utilize many cores with relatively small local memories. We use c264, an end-to-end H.264 video encoder for the Cell processor based on x264, to show that exploiting fine-grain parallelism remains challenging and requires significant advancement in runtime support. Our implementation of c264 achieves speedup between 4.7\u00d7 and 8.6\u00d7 on six synergistic processing elements (SPEs), compared to the serial version running on the power processing element (PPE). We find that the programming effort associated with efficient parallelization of c264 at fine granularity is highly non-trivial. Hand optimizations may improve performance significantly but are limited eventually by the code restructuring they require. We assess the complexity of exploiting fine-grain parallelism in realistic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Say goodbye to off-heap caches! On-heap caches using memory-mapped I/O",
+            "Publication year": 2020,
+            "Publication url": "https://www.usenix.org/conference/hotstorage20/presentation/kolokasis",
+            "Abstract": "Many analytics computations are dominated by iterative processing stages, executed until a convergence condition is met. To accelerate such workloads while keeping up with the exponential growth of data and the slow scaling of DRAM capacity, Spark employs off-memory caching of intermediate results. However, off-heap caching requires the serialization and deserialization (serdes) of data, which add significant overhead especially with growing datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:VaXvl8Fpj5cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An analysis of security services in grid storage systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-78446-5_12",
+            "Abstract": "With the wide-spread deployment of Data Grids, storage services are becoming a critical aspect of the Grid infrastructure. Due to the sensitive and critical nature of the data being stored, security issues related with state of the art data storage services need to be studied thoroughly to identify potential vulnerabilities and attack vectors. In this paper, motivated by a typical use-case for Data Grid storage, we apply an extended framework for analyzing and evaluating security from the point of view of the data and metadata, considering the security capabilities provided by both the underlying Grid infrastructure and two commonly deployed Grid storage systems. This analysis leads to the identification of a set of potential security gaps, risks, and even redundant security features found in a typical Data Grid. These results are the starting point for our ongoing research on policies and mechanisms able to provide a fair \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Experiences with Shared Virtual Memory on System Area Network Clusters: System Simulation, Implementation, and Emulation",
+            "Publication year": 2002,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812777430_0001",
+            "Abstract": "The following sections are included:  Introduction   Overall Methodology and Results  System Simulation System Implementation System Emulation     System Simulation  Simulation Environment Methodology Applications Effects of Communication Parameters Limitations on Application Performance Degree of Clustering     System Implementation  Network Interface and SVM Protocol Extensions Experimental Testbed Applications Results Remaining bottlenecks     System Emulation  Emulation infrastructure Impact of Fast Interconnection Networks Impact of Wide, CC-NUMA Nodes     Discussion on Methodology   Related Work   Conclusions   Acknowledgments   Bibliography  IntroductionOverall Methodology and Results  System Simulation System Implementation System Emulation  System SimulationSystem ImplementationSystem EmulationSystem Simulation  Simulation Environment Methodology Applications Effects of Communication Parameters Limitations on Application Performance Degree of Clustering  Simulation EnvironmentMethodologyApplicationsEffects of Communication ParametersLimitations on Application PerformanceDegree of ClusteringSystem Implementation  Network Interface and SVM Protocol Extensions Experimental Testbed Applications Results Remaining bottlenecks  Network Interface and SVM Protocol ExtensionsExperimental TestbedApplicationsResultsRemaining bottlenecksSystem Emulation  Emulation infrastructure Impact of Fast Interconnection Networks Impact of Wide, CC-NUMA Nodes  Emulation infrastructureImpact of Fast Interconnection NetworksImpact of Wide, CC-NUMA NodesDiscussion on MethodologyRelated WorkConclusionsAcknowledgmentsBibliography",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System and method for implementing SSD-based I/O caches",
+            "Publication year": 2018,
+            "Publication url": "https://patents.google.com/patent/US9971513B2/en",
+            "Abstract": "A method for caching a data block stored on a first storage device and onto a second storage device including determining whether a data block being requested contains a first type of data, upon a condition in which the data block contains the first type of data, writing the data block to the second storage device and upon a condition in which the data block does not contain the first type of data, determining whether a correspondingly mapped block on the second storage device contains the first type of data, and only writing the data block to the second storage device upon a condition in which the correspondingly mapped block does not contain the first type of data.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Balancing Garbage Collection vs I/O Amplification using dynamic KV separation",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2106.03840",
+            "Abstract": "Key-value (KV) separation is a technique that introduces randomness in the I/O access patterns to reduce I/O amplification in LSM-based key-value stores for fast storage devices (NVMe). KV separation has a significant drawback that makes it less attractive: Delete and especially update operations that are important in modern workloads result in frequent and expensive garbage collection (GC) in the value log. In this paper, we design and implement Parallax, which proposes hybrid KV placement that reduces GC overhead significantly and maximizes the benefits of using a log. We first model the benefits of KV separation for different KV pair sizes. We use this model to classify KV pairs in three categories small, medium, and large. Then, Parallax uses different approaches for each KV category: It always places large values in a log and small values in place. For medium values it uses a mixed strategy that combines the benefits of using a log and eliminates GC overhead as follows: It places medium values in a log for all but the last few (typically one or two) levels in the LSM structure, where it performs a full compaction, merges values in place, and reclaims log space without the need for GC. We evaluate Parallax against RocksDB that places all values in place and BlobDB that always performs KV separation. We find that Parallax increases throughput by up to 12.4x and 17.83x, decreases I/O amplification by up to 27.1x and 26x, and increases CPU efficiency by up to 18.7x and 28x respectively, for all but scan-based YCSB workloads.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:PVjk1bu6vJQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multiedge: An edge-based communication subsystem for scalable commodity servers",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4227946/",
+            "Abstract": "At the core of contemporary high performance computer systems is the communication infrastructure. For this reason, there has been a lot of work on providing low-latency, high-bandwidth communication subsystems for clusters. In this paper, we introduce MultiEdge, a connection oriented communication system designed for high-speed commodity hardware. MultiEdge provides support for end-to-end flow -control, ordering, and reliable transmission. It transparently supports multiple physical links within a single connection. We use MultiEdge to examine the behavior of edge-based protocols using both micro-benchmarks and real-life shared memory applications. Our results show that MultiEdge is able to deliver about 88% of the nominal link throughput with a single 10-GBit/s link and more than 95% with multiple 1-GBit/s links. Our application results show that performing all of the communication protocol at the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cloud-based synchronization of distributed file system hierarchies",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5613087/",
+            "Abstract": "As the number of user-managed devices continues to increase, the need for synchronizing multiple file hierarchies distributed over devices with ad hoc connectivity, is becoming a significant problem. In this paper, we propose a new approach for efficient cloud-based synchronization of an arbitrary number of distributed file system hierarchies. Our approach maintains both the advantages of peer-to-peer synchronization with the cloud-based approach that stores a master replica online. In contrast, we do not assume storage of any user's data in the cloud, so we address the related capacity, cost, security, and privacy limitations. Finally, the proposed system performs data synchronization in a peer-to-peer manner, eliminating cost and bandwidth concerns that arise in the \u201ccloud master-replica\u201d approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reducing CPU and network overhead for small I/O requests in network storage protocols over raw Ethernet",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7208293/",
+            "Abstract": "Small I/O requests are important for a large number of modern workloads in the data center. Traditionally, storage systems have been able to achieve low I/O rates for small I/O operations because of hard disk drive (HDD) limitations that are capable of about 100-150 IOPS (I/O operations per second) per spindle. Therefore, the host CPU processing capacity and network link throughput have been relatively abundant for providing these low rates. With new storage device technologies, such as NAND Flash Solid State Drives (SSDs) and non-volatile memory (NVM), it is becoming common to design storage systems that are able to support millions of small IOPS. At these rates, however, both server CPU and network protocol are emerging as the main bottlenecks for achieving large rates for small I/O requests. Most storage systems in datacenters deliver I/O operations over some network protocol. Although there has \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using RDMA for Efficient Index Replication in LSM Key-Value Stores",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2110.09918",
+            "Abstract": "Log-Structured Merge tree (LSM tree) Key-Value (KV) stores have become a foundational layer in the storage stacks of datacenter and cloud services. Current approaches for achieving reliability and availability avoid replication at the KV store level and instead perform these operations at higher layers, e.g., the DB layer that runs on top of the KV store. The main reason is that past designs for replicated KV stores favor reducing network traffic and increasing I/O size. Therefore, they perform costly compactions to reorganize data in both the primary and backup nodes, which hurts overall system performance. In this paper, we design and implement Talos, an efficient rack-scale LSM-based KV store that aims to significantly reduce the I/O amplification and CPU overhead in backup nodes and make replication in the KV store practical. We rely on two observations: (a) the increased use of RDMA in the datacenter, which reduces CPU overhead for communication, and (b) the use of KV separation that is becoming prevalent in modern KV stores. We use a primary-backup replication scheme that performs compactions only on the primary nodes and sends the pre-built index to the backup nodes of the region, avoiding all compactions in backups. Our approach includes an efficient mechanism to deal with pointer translation across nodes in the region index. Our results show that Talos reduces in the backup nodes, I/O amplification by up to , CPU overhead by up to , and memory size needed for the write path by up to , without increasing network bandwidth excessively, and by up to . Overall, we show that our approach has benefits even when \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:bz8QjSJIRt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Foreword CLUSTER 2010",
+            "Publication year": 2010,
+            "Publication url": "https://pure.qub.ac.uk/en/publications/foreword-cluster-2010",
+            "Abstract": "Foreword CLUSTER 2010 \u2014 Queen's University Belfast Skip to main navigation Skip to search \nSkip to main content Queen's University Belfast Logo Help & FAQ Home Profiles Organisations \nResearch output Projects Impact Datasets Activities Prizes Press / Media Student theses Facilities \nSearch by expertise, name or affiliation Foreword CLUSTER 2010 Dimitrios S. Nikolopoulos, \nRicardo Bianchini, Angelos Bilas Research output: Chapter in Book/Report/Conference \nproceeding \u203a Foreword/postscript Overview Original language English Title of host publication \nProceedings - 2010 IEEE International Conference on Cluster Computing, Cluster 2010 DOIs \nhttps://doi.org/10.1109/CLUSTER.Publication status Published - 02 Dec 2010 Externally \npublished Yes ASJC Scopus subject areas Software Hardware and Architecture Signal \nProcessing Access to Document 10.1109/CLUSTER.Cite this APA Author BIBTEX Harvard .\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:FPJr55Dyh1AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Topic 13-Routing and Communication in Interconnection Networks-Introduction",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11860501228281752029&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:epqYDVWIO7EC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Tyche: An efficient Ethernet-based protocol for converged networked storage",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6855540/",
+            "Abstract": "Current technology trends for efficient use of infrastructures dictate that storage converges with computation by placing storage devices, such as NVM-based cards and drives, in the servers themselves. With converged storage the role of the interconnect among servers becomes more important for achieving high I/O throughput. Given that Ethernet is emerging as the dominant technology for datacenters, it becomes imperative to examine how to reduce protocol overheads for accessing remote storage over Ethernet interconnects. In this paper we propose Tyche, a network storage protocol directly on top of Ethernet, which does not require any hardware support from the network interface. Therefore, Tyche can be deployed in existing infrastructures and to co-exist with other Ethernet-based protocols. Tyche presents remote storage as a local block device and can support any existing filesystem. At the heart of our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mitigation of NUMA and synchronization effects in high-speed network storage over raw Ethernet",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s11227-016-1726-7",
+            "Abstract": "Current storage trends dictate placing fast storage devices in all servers and using them as a single distributed storage system. In this converged model where storage and compute resources co-exist in the same server, the role of the network is becoming more important: network overhead is becoming a main limitation to improving storage performance. At the same time, server consolidation dictates building servers that employ non-uniform memory architectures (NUMA) to scale memory performance and bundling multiple network links to increase network throughput. In this work, we use Tyche, an in-house protocol for network storage based on raw Ethernet, to examine and address (a) performance implications of NUMA servers on end-to-end path and (b) synchronization issues with multiple network interfaces (NICs) and multicore servers. We evaluate NUMA and synchronization issues on a real setup with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Tiered heterogeneous fast layer shared storage substrate apparatuses, methods, and systems",
+            "Publication year": 2019,
+            "Publication url": "https://patents.google.com/patent/US10257274B2/en",
+            "Abstract": "A storage system for organizing and maintaining metadata in a distributed network. The system includes: a network; a plurality of distributed nodes configured to communicate through the network; a plurality of block devices configured to communicate with the plurality of distributed nodes through the network; and a management server configured to communicate with each of the plurality of distributed nodes and block devices and further configured to arbitrarily associate metadata and data to any of the plurality of distributed nodes such that a global copy of the metadata does not exist in one or more fixed locations known to all distributed nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "USING THE GLITE MIDDLEWARE TO IMPLEMENT A SECURE INTENSIVE CARE GRID SYSTEM.",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-0-387-85966-8.pdf#page=99",
+            "Abstract": "Storage capabilities in novel \u201cHealth Grids\u201d are quite suitable for the requirements of systems like ICGrid, which captures, stores and manages data and metadata from Intensive Care Units. However, this paradigm depends on widely distributed storage sites, therefore requiring new security mechanisms, able to avoid potential leaks to cope with modification and destruction of stored data under the presence of external or internal attacks. Particular emphasis must be put on the patient\u2019s personal data, the protection of which is required by legislations in many countries of the European Union and the world in general. In a previous paper we performed a security analysis of ICGrid, from the point of view of metadata and data, where we found the need to protect the data-at-rest from untrusted Storage Elements (SE). That research also proposed a privacy protocol to protect a patients\u2019 private metadata and data. This \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Understanding scalability and performance requirements of I/O-intensive applications on future multicore servers",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6298177/",
+            "Abstract": "Today, there is increased interest in understanding the impact of data-centric applications on compute and storage infrastructures as datasets are projected to grow dramatically. In this paper, we examine the storage I/O behavior of twelve data-centric applications as the number of cores per server grows. We configure these applications with realistic datasets and examine configuration points where they perform significant amount of I/O. We propose using cycles per I/O (cpio) as a metric for abstracting many I/O subsystem configuration details. We analyze specific architectural issues pertaining to data-centric applications including the usefulness of hyperthreading, sensitivity to memory bandwidth, and the potential impact of disruptive storage technologies. Our results show that today's data-centric applications are not able to scale with the number of cores: moving from one to eight cores, results in 0% to 400% more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Inference and declaration of independence in task-parallel programs",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-45293-2_1",
+            "Abstract": "The inherent difficulty of thread-based shared-memory programming has recently motivated research in high-level, task-parallel programming models. Recent advances of Task-Parallel models add implicit synchronization, where the system automatically detects and satisfies data dependencies among spawned tasks. However, dynamic dependence analysis incurs significant runtime overheads, because the runtime must track task resources and use this information to schedule tasks while avoiding conflicts and races.We present SCOOP, a compiler that effectively integrates static and dynamic analysis in code generation. SCOOP combines context-sensitive points-to, control-flow, escape, and effect analyses to remove redundant dependence checks at runtime. Our static analysis can work in combination with existing dynamic analyses and task-parallel runtimes that use annotations to specify tasks \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic Data Replication: an Approach to Providing Fault-Tolerant Shared",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17186650721575119154&hl=en&oi=scholarr",
+            "Abstract": "A challenging issue in today's server systems is to trans-parently deal with failures and application-imposed require-ments for continuous operation. In this paper we address this problem in shared virtual memory (SVM) clusters at the programming abstraction layer. We design extensions to an existing SVM protocol that has been tuned for low-latency, high-bandwidth interconnects and SMP nodes and we achieve reliability through dynamic replication of application shared data and protocol information. Our extensions allow us to tolerate single (or multiple, but not simultaneous) node failures. We implement our extensions on a stateof-the-art cluster and we evaluate the common, failure-free case. We find that, although the complexity of our protocol is substantially higher than its failure-free counterpart, by taking advantage of architectural features of modern systems our approach imposes low overhead and can be employed for transparently dealing with system failures.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:Dip1O2bNi0gC",
+            "Publisher": "IEEE Computer Society Press"
+        },
+        {
+            "Title": "EVOLVE: HPC and cloud enhanced testbed for extracting value from large-scale diverse data",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3457388.3458621",
+            "Abstract": "EVOLVE is a pan-European Innovation Action building a converged infrastructure to bring together the HPC, Cloud, and Big Data worlds. EVOLVE's platform and software stack supports large-scale, data-intensive applications, driven primarily by industry requirements set by pilot and proof-of-concept use cases from diverse fields. Given the unprecedented data growth we are experiencing, EVOLVE's infrastructure is key in enabling the cost-effective processing of massive amounts of data and the adaptation of multiple high-end technologies, in an environment that fosters interoperability and enforces increased security.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:0N-VGjzr574C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Iris: An optimized i/o stack for low-latency storage devices",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3041710.3041713",
+            "Abstract": "System software overheads in the I/O path, including VFS and file system code, become more pronounced with emerging low-latency storage devices. Currently, these overheads constitute the main bottleneck in the I/O path and they limit efficiency of modern storage systems. In this paper we present a taxonomy of the current state-of-the-art systems on accelerating accesses to fast storage devices. Furthermore, we present Iris, a new I/O path for applications, that minimizes overheads from system software in the common I/O path. The main idea is the separation of the control and data planes. The control plane consists of an unmodified Linux kernel and is responsible for handling data plane initialization and the normal processing path through the kernel for non-file related operations. The data plane is a lightweight mechanism to provide direct access to storage devices with minimum overheads and without \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:2KloaMYe4IUC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Memory-mapped I/O on steroids",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3447786.3456242",
+            "Abstract": "With current technology trends for fast storage devices, the host-level I/O path is emerging as a main bottleneck for modern, data-intensive servers and applications. The need to improve I/O performance requires customizing various aspects of the I/O path, including the page cache and the method to access the storage devices.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:XoXfffV-tXoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Comparative Experimental Study of Parallel File Systems for Large-Scale Data Processing.",
+            "Publication year": 2008,
+            "Publication url": "https://www.usenix.org/event/lasco08/tech/full_papers/sebepou/sebepou_html/",
+            "Abstract": "Large-scale scientific and business applications require data processing of ever-increasing amounts of data, fueling a demand for scalable parallel file systems comprising hundreds to thousands of disks. Modern parallel file system architectures however, span a large and complex design space. As a result, IT architects are faced with a challenge when deciding on the most appropriate parallel file system for a specific scientific or industrial application in a large-scale computing installation. Typically, the right choice depends on the characteristics of the application as well as the design assumptions built into a parallel file system. In this study, we take a close look at two prominent modern parallel file systems, PVFS2 and Lustre, and compare them experimentally on a range of benchmark-driven scenarios modeling specific real-world applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using lightweight transactions and snapshots for fault-tolerant services based on shared storage bricks",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4100402/",
+            "Abstract": "To satisfy current and future application needs in a cost effective manner, storage systems are evolving from monolithic disk arrays to networked storage architectures based on commodity components. So far, this architectural transition has mostly been envisioned as a way to scale capacity and performance. In this work we examine how the block-level interface exported by such networked storage systems can be extended to deal with reliability. Our goals are: (a) At the design level, to examine how strong reliability semantics can be offered at the block level; (b) At the implementation level, to examine the mechanisms required and how they may be provided in a modular and configurable manner. We first discuss how transactional-type semantics may be offered at the block level. We present a system design that uses the concept of atomic update intervals combined with existing, block-level locking and snapshot \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A scaling analysis of Linux I/O performance",
+            "Publication year": 2011,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.286&rep=rep1&type=pdf",
+            "Abstract": "The widespread availability of multicore processors in server configurations with aggressive I/O resources (I/O controllers along with multiple storage devices, such as solidstate drives) is very promising for increasing levels of I/O performance. However, in this work, we raise concerns about the actual scalability of I/O performance observed in current server configurations. We provide experimental evidence of scalability issues, using the latest stable Linux kernel release (v. 2.6. 37). We identify scaling limitations based on extensive measurements and analysis of overheads, mostly lock contention, using a synthetic workload, which consists of basic filesystem tasks and employs a high degree of I/O concurrency. Starting with a fairly common system configuration as a baseline, we find that for several cases I/O performance does not scale adequately with the number of available hardware threads, for a variety of filesystem operations. Moreover, we observe that performance may actually deteriorate when more CPU cores become available. We attempt to mitigate overheads, as identified in our analysis, with targeted tuning. Still, significant scaling limitations remain, motivating a critical reexamination of the entire I/O path in the Linux kernel.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Violin: A framework for extensible block-level storage",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1410730/",
+            "Abstract": "In this work we propose Violin, a virtualization framework that allows easy extensions of block-level storage stacks. Violin allows (i) developers to provide new virtualization functions and (ii) storage administrators to combine these functions in storage hierarchies with rich semantics. Violin makes it easy to develop such new functions by providing support for (i) hierarchy awareness and arbitrary mapping of blocks between virtual devices, (ii) explicit control over both the request and completion path of I/O requests, and (iii) persistent metadata management. To demonstrate the effectiveness of our approach we evaluate Violin in three ways: (i) we loosely compare the complexity of providing new virtual modules in Violin with the traditional approach of writing monolithic drivers. In many cases, adding new modules is a matter of recompiling existing user-level code that provides the required functionality. (ii) We show \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Jericho: Achieving scalability through optimal data placement on multicore systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6855538/",
+            "Abstract": "Achieving high I/O throughput on modern servers presents significant challenges. With increasing core counts, server memory architectures become less uniform, both in terms of latency as well as bandwidth. In particular, the bandwidth of the interconnect among NUMA nodes is limited compared to local memory bandwidth. Moreover, interconnect congestion and contention introduce additional latency on remote accesses. These challenges severely limit the maximum achievable storage throughput and IOPS rate. Therefore, data and thread placement are critical for data-intensive applications running on NUMA architectures. In this paper we present Jericho, a new I/O stack for the Linux kernel that improves affinity between application threads, kernel threads, and buffers in the storage I/O path. Jericho consists of a NUMA-aware filesystem and a DRAM cache organized in slices mapped to NUMA nodes. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Parallel programming models for heterogeneous multicore architectures",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3369816461115809444&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A data-centric security analysis of icgrid",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-09457-1_17",
+            "Abstract": "The Data Grid is becoming a new paradigm for eHealth systems due to its enormous storage potential using decentralized resources managed by different organizations. The storage capabilities in these novel \u201cHealth Grids\u201d are quite suitable for the requirements of systems like ICGrid, which captures, stores and manages data and metadata from Intensive Care Units. However, this paradigm depends on a widely distributed storage sites, therefore requiring new security mechanisms, able to avoid potential leaks to cope with modification and destruction of stored data under the presence of external or internal attacks. Particular emphasis must be put on the patient\u2019s personal data, the protection of which is required by legislations in many countries of the European Union and the world in general. Taking into consideration underlying data protection legislations and technological data privacy mechanisms, in this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Data storage for big data in the exascale era: Challenges and prospects",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1715122659488155843&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:BwyfMAYsbu0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Frisbee: automated testing of Cloud-native applications in Kubernetes",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2109.10727",
+            "Abstract": "As more and more companies are migrating (or planning to migrate) from on-premise to Cloud, their focus is to find anomalies and deficits as early as possible in the development life cycle. We propose Frisbee, a declarative language and associated runtime components for testing cloud-native applications on top of Kubernetes. Given a template describing the system under test and a workflow describing the experiment, Frisbee automatically interfaces with Kubernetes to deploy the necessary software in containers, launch needed sidecars, execute the workflow steps, and perform automated checks for deviation from expected behavior. We evaluate Frisbee through a series of tests, to demonstrate its role in designing, and evaluating cloud-native applications; Frisbee helps in testing uncertainties at the level of application (e.g., dynamically changing request patterns), infrastructure (e.g., crashes, network partitions), and deployment (e.g., saturation points). Our findings have strong implications for the design, deployment, and evaluation of cloud applications. The most prominent is that: erroneous benchmark outputs can cause an apparent performance improvement, automated failover mechanisms may require interoperability with clients, and that a proper placement policy should also account for the clock frequency, not only the number of cores.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:YohjEiUPhakC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Parallelization, optimization, and performance analysis of portfolio choice models",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/952072/",
+            "Abstract": "In this paper we show how applications in computational economics can take advantage of modern parallel architectures to reduce the computation time in a wide array of models that have been, to date, computationally intractable. The specific application we use computes the optimal consumption and portfolio choice policy rules over the life-cycle of the individual. Our goal is two-fold: (i) To understand the behavior of a class of emerging applications and provide an efficient parallel implementation and (ii) to introduce a new benchmark for parallel computer architectures from an emerging and important class of applications. We start from an existing sequential algorithm for solving a portfolio choice model. We present a number of optimizations that result in highly optimized sequential code. We then present a parallel version of the application. We find that: (i) Emerging applications in this area of computational \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimization and bottleneck analysis of network block I/O in commodity storage systems",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1274971.1274979",
+            "Abstract": "Building commodity networked storage systems is an important architectural trend; Commodity servers hosting a moderate number of consumer-grade disks and interconnected with a high-performance network are an attractive option for improving storage system scalability and cost-efficiency. However, such systems incur significant overheads and are not able to deliver to applications the available throughput. We examine in detail the sources of overheads in such systems, using a working prototype to quantify the overheads associated with various parts of the I/O protocol. We optimize our base protocol to deal with small requests by batching them at the network level and without any I/O-specific knowledge. We also redesign our protocol stack to allow for asynchronous event processing, in-line, during send-path request processing. These techniques improve performance for a 8-disk SATA RAID0 array from 200 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "QuMan Profile-based Improvement of Cluster Utilization",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3210560",
+            "Abstract": "Modern data centers consolidate workloads to increase server utilization and reduce total cost of ownership, and cope with scaling limitations. However, server resource sharing introduces performance interference across applications and, consequently, increases performance volatility, which negatively affects user experience. Thus, a challenging problem is to increase server utilization while maintaining application QoS.In this article, we present QuMan, a server resource manager that uses application isolation and profiling to increase server utilization while controlling degradation of application QoS. Previous solutions, either estimate interference across applications and then restrict colocation to \u201ccompatible\u201d applications, or assume that application requirements are known. Instead, QuMan estimates the required resources of applications. It uses an isolation mechanism to create properly-sized resource slices \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "ZBD: Using transparent compression at the block level to increase storage space efficiency",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5571755/",
+            "Abstract": "In this work we examine how transparent compression in the I/O path can improve space efficiency for online storage. We extend the block layer with the ability to compress and decompress data as they flow between the file-system and the disk. Achieving transparent compression requires extensive metadata management for dealing with variable block sizes, dynamic block mapping, block allocation, explicit work scheduling and I/O optimizations to mitigate the impact of additional I/O sand compression overheads. Preliminary results show that online transparent compression is a viable option for improving effective storage capacity, it can improve I/O performance by reducing I/O traffic and seek distance, and has a negative impact on performance only when single-thread I/O latency is critical.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "List of 2018 distinguished reviewers ACM TACO",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/3293444",
+            "Abstract": "List of 2018 Distinguished Reviewers ACM TACO Page 1 69 List of 2018 Distinguished \nReviewers ACM TACO Angelos Bilas University of Crete, Greece Gregory Byrd North Carolina \nState University, USA Ramon Canal UPC, Spain Shuai Che AMD Research Bjorn De Sutter \nGhent University, Belgium Chen Ding University of Rochester, USA Yoav Etsion Technion, Israel \nMike Ferdman Stony Brook University, USA Bj\u00f6rn Franke University of Edinburgh, UK David \nGregg Trinity College, Dublin, Ireland Wei-Chung Hsu National Chiao Tung University, Taiwan \nTimothy Jones Cambridge University, UK Russ Joseph Northwestern University, USA Mahmut \nKandemir Penn State University, USA Ulya Karpuzcu University of Minnesota, Twin Cities, \nUSA Paul Kelly Imperial College, UK Omer Khan University of Connecticut, USA Benjamin \nLee Duke University, USA Jaejin Lee Seoul National University, South Korea Jeng-Kuen -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:yB1At4FlUx8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3472883.3487012",
+            "Abstract": "Key-value (KV) separation is a technique that introduces randomness in the I/O access patterns to reduce I/O amplification in LSM-based key-value stores. KV separation has a significant drawback that makes it less attractive: Delete and update operations in modern workloads result in frequent and expensive garbage collection (GC) in the value log.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:4fGpz3EwCPoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NanoStreams: Codesigned microservers for edge analytics in real time",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7818346/",
+            "Abstract": "NanoStreams explores the design, implementation, and system software stack of micro-servers aimed at processing data in-situ and in real time. These micro-servers can serve the emerging Edge computing ecosystem, namely the provisioning of advanced computational, storage, and networking capability near data sources to achieve both low latency event processing and high throughput analytical processing, before considering off-loading some of this processing to high-capacity data centres. Nano Streams explores a scale-out micro-server architecture that can achieve equivalent QoS to that of conventional rack-mounted servers for high-capacity data centres, but with dramatically reduced form factors and power consumption. To this end, Nano Streams introduces novel solutions in programmable & configurable hardware accelerators, as well as the system software stack used to access, share, and program \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TReM: A Task Revocation Mechanism for GPUs",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9408050/",
+            "Abstract": "GPUs in datacenters and cloud environments are mainly offered in a dedicated manner to applications, which leads to GPU under-utilization. Previous work has focused on increasing utilization by sharing GPUs across batch and user-facing tasks. With the presence of long-running tasks, scheduling approaches without GPU preemption fail to meet the SLA of user-facing tasks. Existing GPU preemption mechanisms introduce variable delays up to several seconds, which is intolerable, or require kernel source code, which is not always available.In this paper, we design TReM, a GPU revocation mechanism that stops a task at any point in its execution. TReM has a constant latency, of about 5ms to stop the currently executing kernel and about 17ms to start a new task. TReM does not store the state of the revoked kernel to obviate transfer latencies. We design and implement two scheduling policies, Priority and Elastic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:ruyezt5ZtCIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "mini: Reducing network interface memory requirements with dynamic handle lookup",
+            "Publication year": 2003,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/782814.782851",
+            "Abstract": "Recent work in low-latency, high-bandwidth communication systems has resulted in building user--level Network Interface Controllers (NICs) and communication abstractions that support direct access from the NIC to applications virtual memory to avoid both data copies and operating system intervention. Such mechanisms require the ability to directly manipulate user--level communication buffers for delivering data and achieving protection. To provide such abilities, NICs must maintain appropriate translation data structures. Most user--level NICs manage these data structures statically, which results both in high memory requirements for the NIC and limitations on the total size and number of communication buffers that a NIC can handle. In this paper, we categorize the types of data structures used by NICs and propose dynamic handle lookup as a mechanism to manage such data structures dynamically. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance Evaluation of Commodity iSCSI-based Storage System, 22nd IEEE",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17302949912545438027&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:tYavs44e6CUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scaling I/O in virtualized multicore servers: How much I/O in 10 years and how to get there",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2287056.2287058",
+            "Abstract": "With emerging storage device technologies, such as solid-state disks (SSDs), servers that are capable of millions of I/O operations are expected to become commonplace. This trend shifts the bottleneck from I/O devices to the I/O path. Recently, industry has started to also shift focus from merely using faster I/O devices, such as SSDs instead of disks, to innovations in the server I/O path for achieving scale-out for big data applications. Today's systems software in the I/O path exhibits high overheads and poor scaling when increasing the number of cores and storage devices; shared structures, replication of functionality, synchronization requirements, and workload interference are on the way of supporting current and future I/O intensive applications that end-up consuming many times more cycles to perform each I/O operation when the number of cores increases. In this talk, by looking at the cycles used per I/O \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Nanostreams: A microserver architecture for real-time analytics on fast data streams",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8071017/",
+            "Abstract": "Ever increasing power consumption has created great interest in energy-efficient microserver architectures but they lack the computational, networking, and storage power necessary to cope with real-time data analytics. We propose NanoStreams, an integrated architecture comprising an ARM-based microserver, coupled via a novel, low latency network interface, Nanowire, to an Analytics-on-Chip architecture implemented on Field Programmable Gate Array (FPGA) technology; the architecture comprises ARM cores for performing low latency transactional processing, integrated with programmable, energy efficient Nanocore processors for high-throughput streaming analytics. The paper outlines the complete system architecture, hardware level detail, compiler, network protocol, and programming environment. We present experiments from the financial services sector, comparing a state-of-the-art server based on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Information Security Theory and Practice. Smart Devices, Pervasive Systems, and Ubiquitous Networks: Third IFIP WG 11.2 International Workshop, WISTP 2009 Brussels, Belgium, September 1-4, 2009 Proceedings Proceedings",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=g1lsCQAAQBAJ&oi=fnd&pg=PR2&dq=info:nDnqdV0E8QgJ:scholar.google.com&ots=XPIKjkYbmv&sig=NcAXF2h8A6RLCPZOPgJ8NifhYUs",
+            "Abstract": "This volume contains the 12 papers presented at the WISTP 2009 conference, held in Brussels, Belgium in September 2009. WISTP 2009 was the third int-national workshop devoted to information security theory and practice. WISTP 2009 built on the successful WISTP 2007 and 2008 conferences, held in Heraklion, Crete, Greece and Seville, Spain in May 2007 and May 2008,-spectively. The proceedings of WISTP 2007 and WISTP 2008 were published as volumes 4462 and 5019 of the Lecture Notes in Computer Science series. This workshop received the following support:\u2013Co-sponsored by IFIP WG 11. 2 Small System Security\u2013Co-sponsored by VDE ITG\u2013Technical sponsorship of the IEEE Systems, Man & Cybernetics Society\u2013Supported by the Technical Committee on Systems Safety and Security\u2013Organized in cooperation with the ACM SIGSAC\u2013Supported by ENISA\u2013Supported by the Institute for Systems and Technologies of Information, Control and Communication (INSTICC) These proceedings contain 12 original papers covering a range of theoretical and practical topics in information security. For the purposes of the organi-tion of the WISTP program, the papers were divided into four main categories, namely:\u2013Mobility\u2013Attacks and Secure Implementations\u2013Performance and Security\u2013Cryptography The12papersincludedherewereselectedfromatotalof27submissions. The refereeing process was rigorous, involving at least three (and mostly four or? ve) independent reports being prepared for each submission.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Shared & Flexible Block I/O for Cluster-Based Storage",
+            "Publication year": 2006,
+            "Publication url": "https://publications.ics.forth.gr/tech-reports/2006/2006.TR380_Shared_Flexible_Block_Cluster-Based_Storage.pdf",
+            "Abstract": "High-performance storage systems are evolving from centralized architectures and specialized hardware to\u201d storage bricks\u201d, ie a large set of decentralized commodity components with more processing power and network throughput. These emerging systems offer increased flexibility for tailoring storage to application needs. In this paper, we present Locus, an extensible framework for cluster storage virtualization and sharing at the block-level. Locus allows to build customized storage systems by composing hierarchies of virtual storage devices on top of distributed physical disks. Locus hierarchies may be distributed almost arbitrarily over storage nodes and application servers, introducing significant freedom in mapping functions to available resources. Furthermore, Locus allows sharing of storage volumes at the block-level by providing block-locking and block-allocation services as modules that may be inserted in virtual hierarchies. To demonstrate the benefits of such an enhanced block interface, we show that it can substantially simplify the design of higher-level storage services, such as distributed (cluster) file systems.We implement the Locus framework and Locus-fs (a stateless, pass-trough file-system) under Linux and evaluate them over various setups using both single and multiple client and storage nodes. We find that the flexibility offered by Locus introduces little overhead beyond mandatory communication and disk access costs. Furthermore, experiments with a cluster of 16 nodes show that Locus scales well both at the block and file-system level.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Technical Report 380, Institute of Computer Science, FORTH, Greece"
+        },
+        {
+            "Title": "Relational access to unix kernel data structures",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2592798.2592802",
+            "Abstract": "State of the art kernel diagnostic tools like DTrace and Systemtap provide a procedural interface for expressing analysis tasks. We argue that a relational interface to kernel data structures can offer complementary benefits for kernel diagnostics.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DARC: design and evaluation of an I/O controller for data protection",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1815695.1815721",
+            "Abstract": "Lately, with increasing disk capacities, there is increased concern about protection from data errors, beyond masking of device failures. In this paper, we present a prototype I/O stack for storage controllers that encompasses two data protection features:(a) persistent checksums to protect data at-rest from silent errors and (b) block-level versioning to allow protection from user errors. Although these techniques have been previously used either at the device level (checksums) or at the host (versioning), in this work we implement these features in the storage controller, which allows us to use any type of storage devices as well as any type of host I/O stack. The main challenge in our approach is to deal with persistent metadata in the controller I/O path. Our main contribution is to show the implications of introducing metadata at this level and to deal with the performance issues that arise. Overall, we find that data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NUMA impact on network storage throughput over high-speed raw Ethernet",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2368947097155840173&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:p__nRnzSRKYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A sleep-based communication mechanism to save processor utilization in distributed streaming systems",
+            "Publication year": 2011,
+            "Publication url": "https://pdfs.semanticscholar.org/cb1f/3503c0a72e6d3839cadfc8d3a48b046f6cd3.pdf",
+            "Abstract": "A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed \nStreaming Systems Page 1 A Sleep-based Communication Mechanism to Save Processor \nUtilization in Distributed Streaming Systems Shoaib Akram, Angelos Bilas Outline \nIntroduction Our Work Experimental Platform Results A Broader Picture of Our Work \nConclusions A Sleep-based Communication Mechanism to Save Processor Utilization in \nDistributed Streaming Systems Shoaib Akram Angelos Bilas Foundation for Research and \nTechnology - Hellas (FORTH) Institute of Computer Science (ICS) May 1, 2011 Page 2 A \nSleep-based Communication Mechanism to Save Processor Utilization in Distributed \nStreaming Systems Shoaib Akram, Angelos Bilas Outline Introduction Our Work \nExperimental Platform Results A Broader Picture of Our Work Conclusions 1 Introduction 2 \nOur Work 3 Experimental Platform 4 Results 5 A of Our /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:5awf1xo2G04C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimizing memory-mapped I/O for fast storage devices",
+            "Publication year": 2020,
+            "Publication url": "https://www.usenix.org/conference/atc20/presentation/papagiannis",
+            "Abstract": "Memory-mapped I/O provides several potential advantages over explicit read/write I/O, especially for low latency devices:(1) It does not require a system call,(2) it incurs almost zero overhead for data in memory (I/O cache hits), and (3) it removes copies between kernel and user space. However, the Linux memory-mapped I/O path suffers from several scalability limitations. We show that the performance of Linux memory-mapped I/O does not scale beyond 8 threads on a 32-core server. To overcome these limitations, we propose FastMap, an alternative design for the memory-mapped I/O path in Linux that provides scalable access to fast storage devices in multi-core servers, by reducing synchronization overhead in the common path. FastMap also increases device queue depth, an important factor to achieve peak device throughput. Our experimental analysis shows that FastMap scales up to 80 cores and provides up to 11.8\u00d7 more IOPS compared to mmap using null_blk. Additionally, it provides up to 5.27\u00d7 higher throughput using an Optane SSD. We also show that FastMap is able to saturate state-of-the-art fast storage devices when used by a large number of cores, where Linux mmap fails to scale.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:M7yex6snE4oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Understanding and improving the cost of scaling distributed event processing",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2335484.2335516",
+            "Abstract": "Building scalable back-end infrastructures for data-centric applications is becoming important. Applications used in data-centres have complex, multilayer software stacks and are required to scale to a large number of nodes. Today, there is increased interest in improving the efficiency of such software stacks. In this paper, we examine the efficiency of such a stack used for distributed stream processing, an important application domain. We use a specific streaming system, Borealis [10], and extensively hand-tune the end-to-end data path. We focus on parts of the stack that are related to intra-and inter-node communication and data exchange, a central component of many software stacks. We find that application-independent code in stream processing middleware employs operations for communication that consume significant amount of CPU cycles and are not strictly necessary. We first categorize these operations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Skynet: Performance-driven Resource Management for Dynamic Workloads",
+            "Publication year": 2021,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/cloud/2021/006000a527/1ymIZfS8Zva",
+            "Abstract": "A primary concern for cloud operators is to increase resource utilization while maintaining good performance for applications. This is particularly difficult to achieve for three reasons: users tend to overprovision applications, applications are diverse and dynamic, and their performance depends on multiple resources. In this paper, we present Skynet, an automated and adaptive cloud resource management approach that addresses all three concerns. Skynet uses performance level objectives (PLOs) to capture user intentions about required performance more accurately to remove the user from the resource allocation loop. Then, Skynet estimates the resources required to achieve the target PLO. For this purpose, we employ a Proportional Integral Derivative (PID) controller per application and adjust its parameters on the fly. Finally, to capture the dependence of applications on different or multiple resources, Skynet \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:9pM33mqn1YgC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Information Security Theory and Practices. Smart Cards, Mobile and Ubiquitous Computing Systems: First IFIP TC6/WG 8.8/WG 11.2 International Workshop, WISTP 2007, Heraklion, Crete, Greece, May 9-11, 2007",
+            "Publication year": 2007,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=zADZmOCxBNQC&oi=fnd&pg=PP2&dq=info:gL0trBro36UJ:scholar.google.com&ots=FedCQgAGHg&sig=cc9rKswLh8cuNuxcXZ4vpKR88gc",
+            "Abstract": "With the rapid technological development of information technology, computer systems and especially embedded systems are becoming more mobile and ub-uitous. Ensuring the security of these complex and yet resource-constraineds-temshasemergedasoneofthemostpressingchallengesforresearchers. Although there are a number of information security conferences that look at particular aspects of the challenge, we decided to create the Workshop in Information-curity Theory and Practices (WISTP) to consider the problem as a whole. In additiontheworkshopaimsto bringtogetherresearchersandpractitionersin-lated disciplines and encourage interchange and practical co-operation between academia and industry. Although this is the? rst ever WISTP event, the response from researchers wassuperbwithover68paperssubmittedforpotentialinclusionintheworkshop and proceedings. The submissions were reviewed by at least three reviewers, in most cases by four, and for program committee (PC) papers at least? ve reviewers. This long and rigorous process was only possible thanks to the hard work of the PC members and additional reviewers, listed in the following pages. We would like to express our gratitude to the PC members, who were very supportive from the very beginning of this project. Thanks are also due to the additional expert reviewers who helped the PC to select the? nal 20 workshop papers for publication in the proceedings. Of course we highly appreciate the e? orts of all the authors who submitted papers to WISTP 2007. We hope they will contribute again to a future edition and encourage others to do so.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Performance evaluation of commodity iSCSI-based storage systems",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1410745/",
+            "Abstract": "iSCSI is proposed as a possible solution to building future storage systems. However, using iSCSI raises numerous questions about its implications on system performance. This lack of understanding of system I/O behavior in modern and future systems inhibits providing solutions at the architectural and system levels. Our main goals in this work are to understand the behavior of the application server (iSCSI initiator), to evaluate the overhead introduced by iSCSI compared to systems with directly-attached storage, and to provide insight about how future storage systems may be improved. We examine these questions in the context of commodity iSCSI systems that can benefit most from using iSCSI. We use commodity PCs with several disks as storage nodes and a Gigabit Ethernet network as the storage network. On the application server side we use a broad range of benchmarks and applications to evaluate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Experiences with VI communication for database storage",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1003584/",
+            "Abstract": "This paper examines how VI-based interconnects can be used to improve I/O path performance between a database server and the storage subsystem. We design and implement a software layer, DSA, that is layered between the application and VI. DSA takes advantage of specific VI features and deals with many of its shortcomings. We provide and evaluate one kernel-level and two user-level implementations of DSA. These implementations trade transparency and generality for performance at different degrees, and unlike research prototypes are designed to be suitable for realworld deployment. We present detailed measurements using a commercial database management system with both micro-benchmarks and industrial database workloads on a mid-size, 4 CPU, and a large, 32 CPU, database server. Our results show that VI-based interconnects and user-level communication can improve all aspects of the I \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Trust and security in grids: A state of the art",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/50066122/Trust_and_Security_in_Grids_A_State_of_t20161102-3288-1fv7reb.pdf",
+            "Abstract": "The Trust and Security activity in CoreGRID runs as a horizontal integration activity related to all the research areas, making the Network participants aware of the use of the technologies associated with trust and security. This paper presents an overview of the different concepts and technologies relevant to trust and security in Grid systems. It analyses the relation between trust and security, describes trust and security challenges in the Grid, and introduces the existing mechanisms for managing trust and security. The core of the document is the trust and security requirements across the CoreGRID Institutes, and the description of the work being carried out to meet such requirements.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The grid checkpointing architecture",
+            "Publication year": 2008,
+            "Publication url": "http://coregrid.ercim.eu/mambo/images/stories/WhitePapers/whp-0003.pdf",
+            "Abstract": "Introduction of checkpointing into the Grid environment is difficult. The difficulty of integrating the checkpointing technology is imposed by the distributed and heterogeneous nature of the Grid environment and by the close links of the checkpointing tools to the hardware. This paper scrutinizes the most important problems that have to be solved to prepare a fully functional environment that is able to utilize the full potential of the checkpointing technology for improving fault tolerance and system management in the Grids. The scope of considered issues covers both the high level issues concerning placement of the checkpointing in the Grid architecture with regard to the role this service plays in the Grid, and more technical problems as well. The solutions for all the mentioned problems are proposed, taking into account the complexity of the implementation on the one hand, and delivered functionality on the other. The general architecture of the Grid Checkpointing Service is presented. The interconnections and interactions between internal modules and external Grid services are described taking into account the experience gained during the research and experiments on proof-of-concept implementations. The proposed model of the grid-enabled checkpointer should allow for seamless integration of different checkpointers with the Grid environment. The intended reader of the paper is a person willing to have a checkpointing service in the operational Grid environment or someone willing to gain knowledge about the checkpointing on both legacy and Grid-level. The basic knowledge on topics related to the checkpointing technology issues and Grid \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System and method for classifying and storing related forms of data",
+            "Publication year": 2010,
+            "Publication url": "https://patents.google.com/patent/US20100153375A1/en",
+            "Abstract": "A method for managing data and corresponding computer program are provided. The method includes providing a plurality of buckets, each associated with a corresponding scope of similarity metric, processing a first data container of a plurality of data containers to determine a corresponding similarity metric, comparing the similarity metric of the first data container with the scope of similarity metric of the plurality of buckets, assigning, if the similarity metric of the first data container matches the scope of similarity metric of any of the plurality of buckets and the corresponding bucket has sufficient available space, the first data container with the corresponding one of the plurality of buckets, creating, if either the similarity metric of the first data container does not match the scope of similarity metric of any of the plurality of buckets or a match is present but any of the corresponding buckets do not have sufficient available \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HetSpark: A Framework that Provides Heterogeneous Executors to Apache Spark",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1877050918315497",
+            "Abstract": "The increasing computational complexity of Big Data software requires the scale up of the nodes of clusters of commodity hardware that have been used widely for Big Data workloads. Thus, FPGA-based accelerators and GPU devices have recently become a first class citizen in data centers. Utilizing these devices is not trivial task however from an engineering effort perspective since developers versed in distributed computing frameworks, such as Apache Spark are used to developing in higher level languages and APIs, like Python and Scala, while accelerators require the use of low-level APIs like Cuda and OpenCl.Through recent developments in accelerator virtualization like VineTalk [6] a software layer that handles the complex communication between applications and FPGAs or GPU devices, software development using accelerators has been simplified.This paper presents HetSpark, a heterogeneous \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Accelerating shared virtual memory via general-purpose network interface support",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/367742.367747",
+            "Abstract": "Clusters of symmetric multiprocessors (SMPs) are important platforms for high-performance computing. With the success of hardware cache-coherent distributed shared memory (DSM), a lot of effort has also been made to support the coherent shared-address-space programming model in software on clusters. Much research has been done in fast communication on clusters and in protocols for supporting software shared memory across them. However, the performance of software virtual memory (SVM) is still far from that achieved on hardware DSM systems. The goal of this paper is to improve the performance of SVM on system area network clusters by considering communication and protocol layer interactions. We first examine what are the important communication system bottlenecks that stand in the way of improving parallel performance of SVM clusters; in particular, which parameters of the communication \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Dynamic data replication: An approach to providing fault-tolerant shared memory clusters",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1183538/",
+            "Abstract": "A challenging issue in today's server systems is to transparently deal with failures and application-imposed requirements for continuous operation. In this paper we address this problem in shared virtual memory (SVM) clusters at the programming abstraction layer. We design extensions to an existing SVM protocol that has been tuned for low-latency, high-bandwidth interconnects and SMP nodes and we achieve reliability through dynamic replication of application shared data and protocol information. Our extensions allow us to tolerate single (or multiple, but not simultaneous) node failures. We implement our extensions on a state-of-the-art cluster and we evaluate the common, failure-free case. We find that, although the complexity of our protocol is substantially higher than its failure-free counterpart, by taking advantage of architectural features of modern systems our approach imposes low overhead and can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The VINEYARD project: Versatile integrated accelerator-based heterogeneous data centres",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7495121/",
+            "Abstract": "Emerging applications like cloud computing and big data analytics have created the need for powerful centers hosting hundreds of thousands of servers. Currently, the data centers are based on general purpose processors that provide high flexibility but lacks the energy efficiency of customized accelerators. VINEYARD1 aims to develop novel servers based on programmable hardware accelerators. Furthermore, VINEYARD will develop an integrated framework for allowing end-users to seamlessly utilize these accelerators in heterogeneous computing systems by using typical data-center programming frameworks (i.e. Spark). VINEYARD will foster the expansion of the soft-IP cores industry, currently limited in the embedded systems, to the data center market. VINEYARD plans to demonstrate the advantages of its approach in three real use-cases a) a bio-informatics application for high-accuracy brain modeling, b \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "IOTier: A Virtual Testbed to evaluate systems for IoT environments",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9499588/",
+            "Abstract": "Internet of Things (IoT) is an emerging field characterized by constrained resources, Internet-based communication, arbitrary topologies, geographical distance, and variable operational conditions. Additionally, IoT architectures typically exhibit at least three tiers: IoT devices, Edge gateways, Cloud servers. On top of challenging the design of networked systems, multiple tiers create a web of complexity that makes systems evaluation a challenging endeavor. This paper presents a framework for transforming a cluster of lab machines into a Virtual Testbed that provides views of how systems will perform in a tiered IoT environment. Experiments with constrained resources (CPU, memory, block device, network), multiple tiers, and programmables events are presented and discussed. Their effects are analyzed on the common path operation of micro-benchmarks and distributed key/value store.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:_axFR9aDTf0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NanoStreams: Advancing the hardware and software stack for real-time analytics on fast data streams",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7058143/",
+            "Abstract": "NanoStreams is a consortium project funded by the European Commission under its FP7 programme and is a major effort to address the challenges of processing vast amounts of data in real-time, with a markedly lower carbon footprint than the state of the art. The project addresses both the energy challenge and the high-performance required by emerging applications in real-time streaming data analytics. NanoStreams achieves this goal by designing and building disruptive micro-server solutions incorporating real-silicon prototype micro-servers based on System-on-Chip and reconfigurable hardware technologies.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Energy Inefficiency of Operating System Layers for Data-centric Infrastructures",
+            "Publication year": 2012,
+            "Publication url": "http://users.ics.forth.gr/~bilas/pdffiles/sfma12-akram.pdf",
+            "Abstract": "In this work we examine the relative overhead of the operating system and using virtual machines on I/O intensive applications. We use real applications to calculate the cycles and energy per I/O using simple models, based on actual measurements. Our results indicate that the OS can cost up to 60% in terms of energy spent per I/O operation. Further, a single VM instance costs 150% in terms of performance and 180% in terms of energy consumption per I/O operation. For some applications, server consolidation using two VM instances can reduce the cost compared to one VM instance by up to 25%. Finally, we note that current system stacks do not scale with the number of cores and on average, compared with one core, the system component of execution time increases by 90x on a 1000-core processor.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Experiences from Debugging a PCIX-based RDMA-capable NIC",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4100425/",
+            "Abstract": "Implementing and debugging high-performance network subsystems is a challenging task. In this paper, we present our experiences from developing and debugging a network interface card (NIC). Our NIC targets networked storage subsystems (Marazakis et al., 2006). For this purpose it mainly provides support for remote direct-memory-access (RDMA) write, sender-side notification of RDMA write completion, and receiver-side interrupt generation. In our work we examine issues that arise during system implementation and debugging, both in terms of correctness as well as performance. We present an analysis of the individual problems we encounter and we discuss how we address each case. For most problems we encounter, it is not possible to rely on existing debugging tools. However, we find that most of the techniques we use in this process, rely on collecting some form of event records from software or \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FLASH: Fine-grained localization in wireless sensor networks using acoustic sound transmissions and high precision clock synchronization",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5158437/",
+            "Abstract": "Sensor localization in wireless sensor networks is an important component of many applications. Previous work has demonstrated how localization can be achieved using various methods. In this paper we focus on achieving fine-grained localization that does not require external infrastructure, specialized hardware support, or excessive sensor resources. We use a real sensor network and provide measurements on the actual system. We adopt a localization approach that relies on acoustic sounds and clock synchronization. The contribution of our work is achieving consistent sound pulse detection at each sensor and precise range estimation using a high-precision clock synchronization implementation. We first describe our technique and then we evaluate our approach using a real setup. Our results show that our approach achieves an average clock synchronization accuracy of 5 mus. We verify this accuracy \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Data management techniques",
+            "Publication year": 2019,
+            "Publication url": "https://repositorio.inesctec.pt/bitstream/123456789/11803/1/P-00S-7RQ.pdf",
+            "Abstract": "Angelos Bilas1 and Jesus Carretero2 and Toni Cortes3 and Javier Garcia-Blas4 and Pilar Gonz\u00e1lez-F\u00e9rez5 and Anastasios Papagiannis6 and Anna Queralt7 and Fabrizio Marozzo8 and Giorgos Saloustros9 and Ali Shoker10 and Domenico Talia11 and Paolo Trunfio12",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:S16KYo8Pm5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Providing security to the desktop data grid",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4536443/",
+            "Abstract": "Volunteer computing is becoming a new paradigm not only for the computational grid, but also for institutions using production-level data grids because of the enormous storage potential that may be achieved at a low cost by using commodity hardware within their own computing premises. However, this novel \"Desktop Data Grid\" depends on a set of widely distributed and untrusted storage nodes, therefore offering no guarantees about neither availability nor protection to the stored data. These security challenges must be carefully managed before fully deploying desktop data grids in sensitive environments (such as eHealth) to cope with a broad range of storage needs, including backup and caching. In this paper we propose a cryptographic protocol able to fulfil the storage security requirements related with a generic desktop data grid scenario, which were identified after applying an analysis framework extended \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Power and Performance Analysis of Persistent Key-Value Stores",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2008.13402",
+            "Abstract": "With the current rate of data growth, processing needs are becoming difficult to fulfill due to CPU power and energy limitations. Data serving systems and especially persistent key-value stores have become a substantial part of data processing stacks in the data center, providing access to massive amounts of data for applications and services. Key-value stores exhibit high CPU and I/O overheads because of their constant need to reorganize data on the devices. In this paper, we examine the efficiency of two key-value stores on four servers of different generations and with different CPU architectures. We use RocksDB, a key-value that is deployed widely, e.g. in Facebook, and Kreon, a research key-value store that has been designed to reduce CPU overhead. We evaluate their behavior and overheads on an ARM-based microserver and three different generations of x86 servers. Our findings show that microservers have better power efficiency in the range of 0.68-3.6x with a comparable tail latency.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Inference and declaration of independence: Impact on deterministic task parallelism",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2370816.2370892",
+            "Abstract": "We present a set of static techniques that reduce runtime overheads in task-parallel programs with implicit synchronization. We use a static dependence analysis to detect non-conflicting tasks and remove unnecessary runtime checks. We further reduce overheads by statically optimizing task creation and management of runtime metadata. We implemented these optimizations in SCOOP, a source-to-source compiler for such a programming model and runtime system. We evaluate SCOOP on 10 representative benchmarks and show that our approach can improve performance by 12% on average.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "VAT: Asymptotic Cost Analysis for Multi-Level Key-Value Stores",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2003.00103",
+            "Abstract": "Over the past years, there has been an increasing number of key-value (KV) store designs, each optimizing for a different set of requirements. Furthermore, with the advancements of storage technology the design space of KV stores has become even more complex. More recent KV-store designs target fast storage devices, such as SSDs and NVM. Most of these designs aim to reduce amplification during data reorganization by taking advantage of device characteristics. However, until today most analysis of KV-store designs is experimental and limited to specific design points. This makes it difficult to compare tradeoffs across different designs, find optimal configurations and guide future KV-store design. In this paper, we introduce the Variable Amplification- Throughput analysis (VAT) to calculate insert-path amplification and its impact on multi-level KV-store performance.We use VAT to express the behavior of several existing design points and to explore tradeoffs that are not possible or easy to measure experimentally. VAT indicates that by inserting randomness in the insert-path, KV stores can reduce amplification by more than 10x for fast storage devices. Techniques, such as key-value separation and tiering compaction, reduce amplification by 10x and 5x, respectively. Additionally, VAT predicts that the advancements in device technology towards NVM, reduces the benefits from both using key-value separation and tiering.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:lmc2jWPfTJgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tucana: Design and implementation of a fast and efficient scale-up key-value store",
+            "Publication year": 2016,
+            "Publication url": "https://www.usenix.org/conference/atc16/technical-sessions/presentation/papagiannis",
+            "Abstract": "Given current technology trends towards fast storage devices and the need for increasing data processing density, it is important to examine key-value store designs that reduce CPU overhead. However, current key-value stores are still designed mostly for hard disk drives (HDDs) that exhibit a large difference between sequential and random access performance, and they incur high CPU overheads.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NUMA impact on network storage protocolsover high-speed raw Ethernet",
+            "Publication year": 2015,
+            "Publication url": "http://e-archivo.uc3m.es/handle/10016/22001",
+            "Abstract": "Current storage trends dictate placing fast storage devices in all servers and using them as a single distributed storage system. In this converged model where storage and compute resources co-exist in the same server, the role of the network is becoming more important: network overhead is becoming a main  imitation to improving storage performance. In our previous work we have designed Tyche, a network protocol for converged storage that bundles multiple 10GigE links transparently and reduces protocol overheads over raw Ethernet without hardware support. However, current technology trends and server consolidation dictates building servers with large amounts of resources (CPU, memory, network, storage). Such servers need to employ Non-Uniform Memory Architectures (NUMA) to scale memory performance. NUMA introduces significant problems with the placement of data and buffers at all software levels. In this paper, we first use Tyche to examine the performance implications of NUMA servers on end-to-end network storage performance. Our results show that NUMA effects have significant negative impact and can reduce throughput by almost 2x on servers with as few as 8 cores (16 hyper-threads). Then, we propose extensions to network protocols that can mitigate this impact. We use information about the location of data, cores, and NICs to properly align data transfers and minimize the impact of NUMA servers. Our design almost entirely eliminates NUMA effects by encapsulating all protocol structures to a \u201cchannel\u201d concept and then carefully mapping channels and their resources to NICs and NUMA nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Parallelization and performance of 3D ultrasound imaging beamforming algorithms on modern clusters",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/514191.514232",
+            "Abstract": "Recently there has been a lot of interest in improving the infrastructure used in medical applications. In particular, there is renewed interest on non-invasive, high-resolution diagnostic methods. One such method is digital, 3D ultrasound medical imaging. Current state-of-the-art ultrasound systems use specialized hardware for performing advanced processing of input data to improve the quality of the generated images. Such systems are limited in their capabilities by the underlying computing architecture and they tend to be expensive due to the specialized nature of the solutions they employ. Our goal in this work is twofold:(i) To understand the behavior of this class of emerging medical applications in order to provide an efficient parallel implementation and (ii) to introduce a new benchmark for parallel computer architectures from a novel and important class of applications. We address the limitations faced by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Clotho: Transparent Data Versioning at the Block I/O Level.",
+            "Publication year": 2004,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.3414&rep=rep1&type=pdf#page=326",
+            "Abstract": "Recently storage management has emerged as one of the main problems in building cost effective storage infrastructures. One of the issues that contribute to management complexity of storage systems is maintaining previous versions of data. Up till now such functionality has been implemented by high-level applications or at the filesystem level. However, many modern systems aim at higher scalability and do not employ such management entities as filesystems.In this paper we propose pushing the versioning functionality closer to the disk by taking advantage of modern, block-level storage devices. We present Clotho, a storage block abstraction layer that allows transparent and automatic data versioning at the block level. Clotho provides a set of mechanisms that can be used to build flexible higher-level version management policies that range from keeping all data modifications to version capturing triggered by timers or other system events.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic data replication for tolerating single node failures in shared virtual memory clusters of workstations",
+            "Publication year": 2001,
+            "Publication url": "http://users.ics.forth.gr/~bilas/pdffiles/ft-svm.pdf",
+            "Abstract": "In this paper we investigate how shared memory clusters can take advantage of replication to tolerate single system failures. We start from a shared virtual memory protocol (GeNIMA) that has been optimized for low-latency, highbandwidth system area networks. We propose a set of extensions that maintain shared data consistent in the presence of failures and support SMP nodes. Our scheme uses dynamic data replication to guarantee that no shared data is lost when a failure occurs. A failing node is removed from the system and the rest of the nodes recover dynamically and can continue with application execution. We deal both with data consistency and lock synchronization issues. Our approach leverages the low initiation overhead operations provided by modern system area networks as well as the availability of network bandwidth to guarantee data consistency in the presence of failures, and the low-latency operations for dealing with lock synchronization issues. We have implemented the proposed scheme on a cluster of 32, Intel-based dual-processor systems interconnected with a Myrinet network. We are currently evaluating the performance implications of our protocol extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tagged Procedure Calls (TPC): Efficient runtime support for task-based parallelism on the Cell Processor",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-11515-8_23",
+            "Abstract": "Increasing the number of cores in modern CPUs is the main trend for improving system performance. A central challenge is the runtime support that multi-core systems ought to use for sustaining high performance and scalability without increasing disproportionally the effort required by the programmer. In this work we present Tagged Procedure Calls (TPC), a runtime system for supporting task-based programming models on architectures that require explicit data access specification by the programmer. We present the design and implementation of TPC for the Cell processor and examine how the runtime system can support task management functions with on-chip communication only. Through minimizing off-chip transactions in the runtime, we achieve sub-microsecond task initiation latency and minimum null task initiation/completion latency of 385 ns. We evaluate TPC with several kernels and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Knowledge and data management in GRIDs",
+            "Publication year": 2007,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Gn8UKJZhzpUC&oi=fnd&pg=PR7&dq=info:oWuZNYXxBHwJ:scholar.google.com&ots=b5xnvcJDa7&sig=2KeIuc0vb5qt7ovAvYiF-W_Ud0M",
+            "Abstract": "Data and knowledge play a key role in both current and future GRIDs. The issues concerning representation, discovery, and integration of data and knowledge in dynamic distributed environments can be addressed by exploiting features offered by GRID Technologies. Current research activities are leveraging the GRID for the provision of generic-and domain-specific solutions and services for data management and knowledge discovery. Knowledge and Data Management in GRIDs is the third volume of the CoreGRID series and brings together scientific contributions by researchers and scientists working on storage, data, and knowledge management in GRID and Peer-to-Peer systems. This volume presents the latest GRID solutions and research results in key areas of knowledge and data management such as distributed storage management, GRID databases, Semantic GRID and GRID-aware data mining. Knowledge and Data Management in GRIDs is designed for a professional audience, composed of researchers and practitioners in industry. This book is also suitable for graduate-level students in computer science.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "technology-based Storage Elements",
+            "Publication year": 2008,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.665.5817&rep=rep1&type=pdf",
+            "Abstract": "Scalable and cost-effective Storage Elements are essential components of Grid systems. An increasing number of data-intensive applications and services in Grids make the cost-effective scalability of capacity and performance of the storage infrastructure a very hot research topic. In this paper, we present the practical evaluation of the performance features of two classes of storage systems. We tested an example custom technology-based storage system, the FC-SATA disk matrix and a commodity-based storage solution, the Violin system, developed at FORTH. Using a block-level benchmark, we examined the performance limits and the scalability features of both classes of systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CORMOS: A communication-oriented runtime system for sensor networks",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1462026/",
+            "Abstract": "Recently there has been a lot of activity in building sensor prototypes with processing and communication capabilities. Early efforts in this area focused on building the devices themselves and on understanding network issues. An issue that has not received as much attention is generic runtime system support. In this paper, we present CORMOS, a communication-oriented runtime system for sensor networks. CORMOS is tailored: (i) to provide easy-to-use abstractions and treat communication as a first class citizen rather than an extension, (ii) to be highly modular with unified application and system interfaces, and (iii) to deal with sensor limitations on concurrency and memory. We describe the design of CORMOS, discuss various design alternatives, and provide a prototype implementation on a real system. We present preliminary results for resource requirements of CORMOS using a pair of sensor devices. We find \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "PRACTICAL EVALUATION OF CUSTOM TECHNOLOGY-BASED VS COMMODITY TECHNOLOGY-BASED STORAGE ELEMENTS",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=E7WWAYtj5YcC&oi=fnd&pg=PA17&dq=info:d5RCVNViFwkJ:scholar.google.com&ots=PLiXiIRzqy&sig=EzNa7ql1kD4F2UfQkCmTacCruuQ",
+            "Abstract": "Scalable and cost-effective Storage Elements are essential components of Grid systems. Scaling the capacity and performance of the Grid storage infrastructure in an economical manner is an important research goal, due to an increasing number of data-intensive Grid applications and services. In this paper we present practical performance evaluation of two classes of storage systems: an aggressive commercial Fibre Chanel SATA disk matrix and a commoditybased research prototype\u2013Violin. We use a block-level benchmark to examine the performance limits and scalability features of both classes of systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Trace-Based Workload Generation and Execution",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-85665-6_3",
+            "Abstract": "Although major cloud providers have captured and published workload executions in the form of traces, it is not clear how to use them for workload generation on a wide range of existing platforms. A methodological challenge that remains is to generate and execute realistic datacenter workloads on any infrastructure, using information from available traces. In this paper, we propose Tracie, a methodology addressing this challenge, and introduce the tool supporting its implementation. We present all the necessary steps starting from a trace up to workload execution: analysis of datacenter traces, extraction of parameters, application selection, and scaling of a workload to match the capabilities of the underlying infrastructure. Our evaluation validates that Tracie can generate executable workloads that closely resemble their trace-based counterparts. For validation, we correlate the recorded system metrics of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:rmuvC79q63oC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "GPU Provisioning: The  Rule",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-96983-1_25",
+            "Abstract": "The use of accelerators, such as GPUs and FPGAs, in datacenters has been increasing in an effort to improve response time for user-facing tasks. Although accelerators offer performance improvements for certain types of applications, they contribute to total cost of ownership and need to be deployed thoughtfully. In addition, the complexity of modern applications and different accelerator types, makes this a challenging task. In this paper, we derive a generalized model of workload core performance in datacenters. We find that the sweet spot for cost/benefit is when deploying a relatively low number of GPU accelerators compared to the number of servers. We also quantify this effect in the presence of data transfers and verify our observations using performance simulations and experiments in a realistic testbed with multiple GPUs. Overall, we detect aspects of accelerator deployment that should be taken \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:z_wVstp3MssC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Awards and Honors",
+            "Publication year": 2011,
+            "Publication url": "https://www.ics.forth.gr/carv/sites/default/files/Bilas_1.pdf",
+            "Abstract": "PC Vice-Chair Conferences: HiPC'09, ICPP'08, EuroPar'06, ICPADS'06, ICPP'02. PC Member Conferences: Cluster'11, CF'11, SC'11, MSST2011, CCECE'11, ISPASS'11, HiPC'10, ICPP'10, CF'09, NAS'09, IPDPS'09, SRDS'08, ICDCS'08, IPDPS'08, HPCA-14 (2008), EDCC-7",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A unified storage layer for supporting distributed workflows in kubernetes",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3439839.3458735",
+            "Abstract": "The distributed computing landscape has been undergoing radical changes: High-Performance Computing (HPC) applications are moving to the Cloud, as a way of simplifying development, deployment, and migration across computing systems. Meanwhile, cloud applications are becoming increasingly complex and computationally intensive, with the advent of High-Performance Data Analytics (HPDA) pipelines---highly distributed workflows dealing with enormous and diverse datasets, heavily relying on virtualization and containers, that would benefit from technologies used in\" traditional\" HPC. The foreseeable convergence, demands new abstractions to cope with the increased heterogeneity, so that differing workload classes can coexist seamlessly on the same infrastructure. In this paper, we propose a Unified Storage Layer (USL), to enable cloud-native applications to transparently access a wide spectrum of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:Ug5p-4gJ2f0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards 100 gbit/s ethernet: multicore-based parallel communication protocol design",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1542275.1542308",
+            "Abstract": "Ethernet line rates are projected to reach 100 Gbits/s by as soon as 2010. While in principle suitable for high performance clustered and parallel applications, Ethernet requires matching improvements in the system software stack. In this paper we address several sources of CPU and memory system overhead in the I/O path at line rates reaching 80 Gbits/s (bi-directional), using multiple 10 Gbit/s links per system node. Key contributions of our work are the design of a parallel high-performance communication protocol that uses context-independent page-remapping to (a) reduce packet processing overheads;(b) reduce thread management and synchronization overheads; and (c) address affinity issues in NUMA multicore CPUs. Our design result in the full 40 Gbits/s of available one-way Ethernet bandwidth and in 57.6 Gbits/s (72%) of the 80 Gbits/s maximum bidirectional throughput (limited only by the memory \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Shared virtual memory clusters: bridging the cost-performance gap between SMPs and hardware DSM systems",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731503001357",
+            "Abstract": "Although the shared memory abstraction is gaining ground as a programming abstraction for parallel computing, the main platforms that support it, small-scale symmetric multiprocessors (SMPs) and hardware cache-coherent distributed shared memory systems (DSMs), seem to lie inherently at the extremes of the cost-performance spectrum for parallel systems. In this paper we examine if shared virtual memory (SVM) clusters can bridge this gap by examining how application performance scales on a state-of-the-art shared virtual memory cluster. We find that: (i) The level of application restructuring needed is quite high compared to applications that perform well on a DSM system of the same scale and larger problem sizes are needed for good performance. (ii) However, surprisingly, SVM performs quite well for a fairly wide range of applications, achieving at least half the parallel efficiency of a high-end DSM system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Analysis of grid storage element architectures: high-end fiber-channel vs. emerging cluster-based networked storage",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-78446-5_13",
+            "Abstract": "Storage elements that can scale to large capacities and high-performance are an essential component of future GRID infrastructures, especially for supporting an increasing number of data-intensive applications and services. This paper studies two approaches for building scalable networked storage elements: enterpriselevel, Fibre-Channel-based Storage (FCS) and commodity, Cluster-based Networked Storage (CNS). First we review the characteristics of FCS, which is currently widely used in high-end enterprise-level installations, discussing various aspects, such as scalability, performance, availability, manageability and security. Then, we compare it with CNS and consider how features of high-end specialized systems may be provided on top of this new architecture. We believe that CNS has a potential for replacing FCS in many application domains; however, there is a need for addressing the feature gap \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "The EuroSys 2020 online conference: Experience and lessons learned",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2006.11068",
+            "Abstract": "The 15th European Conference on Computer Systems (EuroSys'20) was organized as a virtual (online) conference on April 27-30, 2020. The main EuroSys'20 track took place April 28-30, 2020, preceded by five workshops (EdgeSys'20, EuroDW'20, EuroSec'20, PaPoC'20, SPMA'20) on April 27, 2020. The decision to hold a virtual (online) conference was taken in early April 2020, after consultations with the EuroSys community and internal discussions about potential options, eventually allowing about three weeks for the organization. This paper describes the choices we made to organize EuroSys'20 as a virtual (online) conference, the challenges we addressed, and the lessons learned.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:k8Z6L05lTy4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "User-Space I/O for s-level Storage Devices",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-46079-6_44",
+            "Abstract": "System software overheads in the I/O path, including VFS and file system code, become more pronounced with emerging low-latency storage devices. Currently, these overheads constitute the main bottleneck in the I/O path and they limit efficiency of modern storage systems. In this paper we present Iris, a new I/O path for applications, that minimizes overheads from system software in the common I/O path. The main idea is the separation of the control and data planes. The control plane consists of an unmodified Linux kernel and is responsible for handling data plane initialization and the normal processing path through the kernel for non-file related operations. The data plane is a lightweight mechanism to provide direct access to storage devices with minimum overheads and without sacrificing strong protection semantics. Iris requires neither hardware support from the storage devices nor changes in user applications \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Topic 13: Routing and Communication in Interconnection Networks",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11823285_89",
+            "Abstract": "Welcome to the Euro-Par 2006 Topic 13 on Routing and Communication in Interconnection Networks. Interconnection networks is a key area in the quest for performance in parallel and distributed computers, and this topic is dedicated to techniques that improve the state of the art in interconnecting parallel computers, workstations or clusters.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Computational Science by Youth: Further Steps",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1877050919310403",
+            "Abstract": "This volume presents selected papers of young computational scientists \u2013 participants of YSC\u20192019. Annual Young Scientists Conferences in computational science are traditionally held since 2012 by the University of Amsterdam (the Netherlands) and ITMO University (St. Petersburg, Russia) as an event, which aims to develop a dialogue about the present and future of computational science with a focus on applications of modeling and simulation to solve a wide range of problems in science, industry, and business.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Storage I/O path partitioning to eliminate I/O interference in consolidated servers",
+            "Publication year": 2016,
+            "Publication url": "https://patents.google.com/patent/US9268702B2/en",
+            "Abstract": "A method for storage input/output (I/O) path configuration in a system that includes at least one storage device in network communication with at least one computer processor; the method comprising providing in the I/O path into at least:(a) a block-based kernel-level filesystem,(b) an I/O cache module controlling an I/O cache implemented on a first computer readable medium,(c) a journaling module, and (d) a storage cache module controlling a storage cache implemented on a second computer readable medium, the second computer readable medium having a lower read/write speed than the first computer readable medium. Furthermore, the steps of translating by the filesystem, based on computer executable instructions executed by the at least one processor, a file I/O request made by an application executed by the at least one computer processor into a block I/O request and fulfilling by the at least one \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Transparent online storage compression at the block-level",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2180905.2180906",
+            "Abstract": "In this work, we examine how transparent block-level compression in the I/O path can improve both the space efficiency and performance of online storage. We present ZBD, a block-layer driver that transparently compresses and decompresses data as they flow between the file-system and storage devices. Our system provides support for variable-size blocks, metadata caching, and persistence, as well as block allocation and cleanup. ZBD targets maintaining high performance, by mitigating compression and decompression overheads that can have a significant impact on performance by leveraging modern multicore CPUs through explicit work scheduling. We present two case-studies for compression. First, we examine how our approach can be used to increase the capacity of SSD-based caches, thus increasing their cost-effectiveness. Then, we examine how ZBD can improve the efficiency of online disk-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:lSLTfruPkqcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Distributed region-based memory allocation and synchronization",
+            "Publication year": 2014,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/1094342014552863",
+            "Abstract": "We present DRASync, a region-based allocator that implements a global address space abstraction for MPI programs with pointer-based data structures. The main features of DRASync are: (a) it amortizes communication among nodes to allow efficient parallel allocation in a global address space; (b) it takes advantage of bulk deallocation and good locality with pointer-based data structures; (c) it supports ownership semantics of regions by nodes akin to reader\u2013writer locks, which makes for a high-level, intuitive synchronization tool in MPI programs, without sacrificing message-passing performance. We evaluate DRASync against a state-of-the-art distributed allocator and find that it produces comparable performance while offering a higher-level abstraction to programmers.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Sage Publications"
+        },
+        {
+            "Title": "Cables: Thread control and memory management extensions for shared virtual memory clusters",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/995716/",
+            "Abstract": "Clusters of high-end workstations and PCs are currently used in many application domains to perform large-scale computations or as scalable servers for I/O bound tasks. Although clusters have many advantages, their applicability in emerging areas of applications has been limited. One of the main reasons for this is the fact that clusters do not provide a single system image and thus are hard to program. In this work we address this problem by providing a single-cluster image with respect to thread and memory management. We implement our system, CableS (Cluster enabled threads), on a 32-processor cluster interconnected with a low-latency, high-bandwidth system area network and conduct an early exploration of the costs involved in providing the extra functionality. We demonstrate the versatility :of Cables with a wide range of applications and show that clusters can be used to support applications that have \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "ACROSS SMP NODES: AN APPLICATION-DRIVEN INVESTIGATION",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=r3zkBwAAQBAJ&oi=fnd&pg=PA19&dq=info:y4avci6LFvAJ:scholar.google.com&ots=IIiGo8eJPh&sig=X0jCs0Ey6pptn3AI32WdAK22tXo",
+            "Abstract": "As the workstation market moves form single processor to small-scale shared memory multiprocessors, it is very attractive to construct larger-scale multiprocessors by connecting symmetric multiprocessors (SMPs) with efficient commodity network interfaces such as Myrinet. With hardware-supported cache-coherent shared memory within the SMPs, the question is what programming model to support across SMPs. A coherent shared address space has been found to be attractive for a wide range of applications, and shared virtual memory (SVM) protocols have been developed to provide this model in software at page granularity across uniprocessor nodes. It is therefore attractive to extend SVM protocols to efficiently incorporate SMP nodes, in-stead of using a hybrid programming model with a shared address space within SMP nodes and explicit message passing across them. The protocols should be optimized to exploit the efficient hardware sharing within an SMP as much as possible, and invoke the less efficient software protocol across nodes as infrequently as possible. We present a home-based SVM protocol that was designed with these goals in mind. We then use detailed, application-driven simulations to understand how successful such a protocol might be and particularly whether and to what extent the use of SMP nodes improves performance over the traditional method of using SVM across uniprocessor nodes. We examine cases where the home-based SVM protocol across nodes is supported entirely in software, and where the propagation of modifications to the home is supported at fine grain in hardware. We analyze how the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Network storage protocol and adaptive batching apparatuses, methods, and systems",
+            "Publication year": 2020,
+            "Publication url": "https://patents.google.com/patent/US10721302B2/en",
+            "Abstract": "A computer network-storage protocol system, including at least one initiator device having an initiator block layer and an initiator network layer interfacing with a first network driver; at least one target device having a target block layer and a target network layer interfacing with a second network driver; a plurality of network interface controllers (NICs) interfacing with the first network driver and the second network driver; a plurality of distinct channels, each channel establishing a connection between the initiator device and the target device and being configured to transmit packets between the initiator device and the target device, wherein each channel is mapped to only one NIC; and wherein the initiator block layer includes at least one request message buffer and at least one data message buffer.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Parallelization and performance of interactive multiplayer game servers",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1303003/",
+            "Abstract": "Summary form only given. An important application domain for online services is interactive, multiplayer games. An essential component far realizing these services is game servers that can support large numbers of simultaneous users in a single game world. We use a popular, 3D, interactive, multiplayer game server, Quake, to study this important class of applications. We present the design and implementation of a multithreaded version of the server. We examine the challenges in scaling this class of applications to large numbers of users, mainly task decomposition and synchronization. We present preliminary performance results for a server with up to eight processors. We find that: (i) scaling interactive, multiplayer games that exhibit fine-grain interactions in a detailed 3D world to large numbers of players is a challenging task, (ii) the main bottlenecks are lock synchronization during request processing and high \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Euroserver: Energy efficient node for european micro-servers",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6927246/",
+            "Abstract": "EUROSERVER is a collaborative project that aims to dramatically improve data centre energy-efficiency, cost, and software efficiency. It is addressing these important challenges through the coordinated application of several key recent innovations: 64-bit ARM cores, 3D heterogeneous silicon-on-silicon integration, and fully-depleted silicon-on-insulator (FD SOI) process technology, together with new software techniques for efficient resource management, including resource sharing and workload isolation. We are pioneering a system architecture approach that allows specialized silicon devices to be built even for low-volume markets where NRE costs are currently prohibitive. The EUROSERVER device will embed multiple silicon \"chiplets\" on an active silicon interposer. Its system architecture is being driven by requirements from three use cases: data centres and cloud computing, telecom infrastructures, and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A data-centric security analysis of ICGrid, Institute on Knowledge and Data Management",
+            "Publication year": 2008,
+            "Publication url": "https://pure.unic.ac.cy/en/publications/a-data-centric-security-analysis-of-icgrid-institute-on-knowledge",
+            "Abstract": "A data-centric security analysis of ICGrid, Institute on Knowledge and Data Management \u2014 \nUNIC | Research Portal Skip to main navigation Skip to search Skip to main content UNIC | \nResearch Portal Logo Home Profiles Research Units Research output Projects Search by \nexpertise, name or affiliation A data-centric security analysis of ICGrid, Institute on Knowledge \nand Data Management Jesus Luna, Marios D. Dikaiakos, Harald Gjermundrod, Michail Flouris, \nManolis Marazakis, Angelos Bilas, Theodoros Kyprianou Medical School Research output: \nWorking paper Overview Original language English Pages 1-14 Publication status Published \n- 19 May 2008 Publication series Name CoreGRID Technical Report No. TR-0145 Access to \nDocument http://coregrid.ercim.eu/mambo/images/stories/TechnicalReports/tr-0145.pdf Cite \nthis APA Author BIBTEX Harvard Standard RIS Vancouver Luna, J., Dikaiakos, MD, , H., , M., .\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:uWiczbcajpAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CableS : Thread Control and Memory System Extensions for Shared Virtual Memory Clusters",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44587-0_15",
+            "Abstract": "Clusters of high-end workstations and PCs are currently used in many application domains to perform large-scale computations or as scalable servers for I/O bound tasks. Although clusters have many advantages, their applicability in new areas and especially in areas of commercial applications has been limited. One of the main reasons for this is the fact that clusters do not provide a single system image and thus are hard to program. In this work we address this problem by providing a single cluster image with respect to thread and memory management to programmers. The main limitation of our system is that it does not yet provide file system and networking support across cluster nodes. We implement our system on a 16-processor cluster interconnected with a low-latency, high-bandwidth system area network. We demonstrate the versatility of our system with a wide range of applications. We show that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "VI-attached database storage",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1363751/",
+            "Abstract": "This work presents a Vl-attached database storage architecture to improve database transaction rates. More specifically, we examine how Vl-based interconnects can be used to improve I/O path performance between a database server and a storage subsystem. To facilitate the interaction between client applications and a Vl-aware storage system, we design and implement a software layer called DSA, that is layered between applications and VI. DSA takes advantage of specific VI features and deals with many of its shortcomings. We provide and evaluate one kernel-level and two user-level implementations of DSA. These implementations trade transparency and generality for performance at different degrees and, unlike research prototypes, are designed to be suitable for real-world deployment. We have also investigated many design trade offs in the storage cluster. We present detailed measurements using a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reducing disk i/o performance sensitivity for large numbers of sequential streams",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5158405/",
+            "Abstract": "Retrieving sequential rich media content from modern commodity disks is a challenging task. As disk capacity increases, there is a need to increase the number of streams that are allocated to each disk. However, when multiple streams are accessing a single disk, throughput is dramatically reduced because of disk head seek overhead, resulting in requirements for more disks. Thus, there is a tradeoff between how many streams should be allowed to access a disk and the total throughput that can be achieved. In this work we examine this tradeoff and provide an understanding of issues along with a practical solution. We use Disksim, a detailed architectural simulator, to examine several aspects of a modern I/O subsystem and we show the effect of various disk parameters on system performance under multiple sequential streams. Then, we propose a solution that dynamically adjusts I/O request streams, based on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FPGA acceleration in EVOLVE\u2019s Converged Cloud-HPC Infrastructure",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9556330/",
+            "Abstract": "The EVOLVE project aims to take important steps in bringing together Big Data, HPC and Cloud domains in a single testbed and expose its services through a user friendly and transparent interface. The EVOLVE testbed is enhanced with acceleration capabilities by leveraging the power of heterogeneous technologies and allows the user to develop and deploy applications through Zeppelin notebooks with ease of use.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:kh2fBNsKQNwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Conductor: support for autonomous configuration of storage systems",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-37831-2_5",
+            "Abstract": "Scalable storage systems are expected to scale to large numbers of physical storage devices and to service diverse applications without incuring high management costs. New storage virtualization architectures and techniques that are currently being proposed, aim at addressing these needs by providing the ability to configure storage systems to meet resource constraints and application requirements. However, this flexibility leads to a large number of options when configuring storage systems either statically or dynamically.In this work we examine how this process can be automated. We present Conductor, a rule-based production system that is able to evaluate alternatives and minimize system cost, based on certain criteria. Conductor starts from a set of system resources and a set of application requirements and proposes specific system configurations that meet application requirements while \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Parallel programming models for heterogeneous multicore architectures",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5640603/",
+            "Abstract": "This article evaluates the scalability and productivity of six parallel programming models for heterogeneous architectures, and finds that task-based models using code and data annotations require the programming effort while sustaining nearly best performance. however, achieving this result requires both extensions of programming models to control locality and granularity and proper interoperability with platform-specific optimizations.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The VINEYARD integrated framework for hardware accelerators in the cloud",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3229631.3236093",
+            "Abstract": "Emerging cloud applications like machine learning, AI and big data analytics required high performance computing systems that can sustain the increased amount of data processing without consuming excessive power. Towards this end, many cloud operators have started deploying hardware accelerators, like FPGAs, to increase the performance of computational intensive tasks but increasing the programming complexity to utilize these accelerators. VINEYARD has developed an efficient framework that allows the seamless deployment and utilization of hardware accelerators in the cloud without increasing the programming complexity and offering the flexibility of software packages. This paper presents the main components that have been developed in this framework such as the runtime system, the virtualization and the central accelerators\u00e2\u0102\u0179 repository. The proposed platform has been demonstrated into 2 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Kreon: An Efficient Memory-Mapped Key-Value Store for Flash Storage",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3418414",
+            "Abstract": "Persistent key-value stores have emerged as a main component in the data access path of modern data processing systems. However, they exhibit high CPU and I/O overhead. Nowadays, due to power limitations, it is important to reduce CPU overheads for data processing.In this article, we propose Kreon, a key-value store that targets servers with flash-based storage, where CPU overhead and I/O amplification are more significant bottlenecks compared to I/O randomness. We first observe that two significant sources of overhead in key-value stores are: (a) The use of compaction in Log-Structured Merge-Trees (LSM-Tree) that constantly perform merging and sorting of large data segments and (b) the use of an I/O cache to access devices, which incurs overhead even for data that reside in memory. To avoid these, Kreon performs data movement from level to level by using partial reorganization instead of full data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:PoWvk5oyLR8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Orchestra: Extensible block-level support for resource and data sharing in networked storage systems",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4724325/",
+            "Abstract": "High-performance storage systems are evolving towards decentralized commodity clusters that can scale in capacity, processing power, and network throughput. Building such systems requires: (a)Sharing physical resources among applications; (b)Sharing data among applications; (c) Allowing customized views of data for applications. Current solutions satisfy typically the first two requirements through a distributed file-system, resulting in monolithic, hard-to-manage storage systems. In this paper, we present Orchestra, a novel storage system that addresses all three above requirements below the file-system by extending the block layer. To provide customized views, Orchestra allows applications to create semantically-rich virtual block devices by combining simpler ones. To achieve efficient resource and data sharing it supports block-level allocation and byte-range locking as in-band mechanisms. We implement \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "International Workshop in Information Security, Theory and Practice: Smart Devices, Pervasive Systems, and Ubiquitous Networks",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18299867565207972963&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Evaluating the performance impact of dynamic handle lookup in modern network interfaces",
+            "Publication year": 2003,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.4772&rep=rep1&type=pdf",
+            "Abstract": "Recent work in low-latency, high-bandwidth com-munication systems has resulted in building user\u2013level Network Interface Controllers (NICs) and communication abstractions that support direct access from the NIC to applications virtual memory to avoid both data copies and operating system intervention. Such mechanisms require the ability to directly manipulate user\u2013level communication buffers for delivering data and achieving protection. To provide such abilities, NICs must maintain appropriate translation data structures. Most user\u2013level NICs manage these data structures statically which results both in high memory requirements for the NIC and limitations on the total size and number of communication buffers that a NIC can handle.In this paper, we categorize the types of data structures used by NICs and propose dynamic handle lookup as a mechanism to manage such data structures dynamically. We implement our approach in a modern, user\u2013level communication system, we evaluate our design with both micro-benchmarks and real applications, and we study the impact of various cache parameters on system performance. In this work we focus mostly on the results of our work. We find that, with appropriate cache tuning, our approach reduces the amount of NIC memory required in our system by a factor of two for the total NIC memory and by more than 80% for the lookup data structures. For larger system configurations the gains can be even more significant. Moreover, our approach eliminates the limitations imposed by current NICs on the amount of host memory that can be used for communication buffers. Our approach increases \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DyRAC: Cost-aware Resource Assignment and Provider Selection for Dynamic Cloud Workloads",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9359137/",
+            "Abstract": "A primary concern for cloud users is how to minimize the total cost of ownership of cloud services. This is not trivial to achieve due to workload dynamics. Users need to select the number, size, type of VMs, and the provider to host their services based on available offerings. To avoid the complexity of re-configuring a cloud service, related work commonly approaches cost minimization as a packing problem that minimizes the resources allocated to services. However, this approach does not consider two problem dimensions that can further reduce cost: (1) provider selection and (2) VM sizing. In this paper, we explore a more direct approach to cost minimization by adjusting the type, number, size of VM instances, and the provider of a cloud service (i.e. a service deployment) at runtime. Our goal is to identify the limits in service cost reduction by online re-deployment of cloud services. For this purpose, we design \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:xtoqd-5pKcoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "C Source Level Transformations & Optimizations for Task-Based Parallelism: Student Poster Session, 2011 International Symposium on Code Generation and Optimization (CGO)",
+            "Publication year": 2011,
+            "Publication url": "https://pure.qub.ac.uk/en/publications/c-source-level-transformations-amp-optimizations-for-task-based-p",
+            "Abstract": "C Source Level Transformations & Optimizations for Task-Based Parallelism: Student Poster \nSession, 2011 International Symposium on Code Generation and Optimization (CGO) \u2014 \nQueen's University Belfast Skip to main navigation Skip to search Skip to main content Queen's \nUniversity Belfast Logo Help & FAQ Home Profiles Organisations Research output Projects \nImpact Datasets Activities Prizes Press / Media Student theses Facilities Search by expertise, \nname or affiliation C Source Level Transformations & Optimizations for Task-Based Parallelism: \nStudent Poster Session, 2011 International Symposium on Code Generation and Optimization \n(CGO) F. Zakkak, D. Chassapis, P. Pratikakis, Dimitrios Nikolopoulos, A. Bilas School of \nElectronics, Electrical Engineering and Computer Science Research output: Contribution to \nconference \u203a Poster \u203a peer-review Overview Original language English Number of pages 1 - , \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:hCrLmN-GePgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Syntix: A Profiling Based Resource Estimator for CUDA Kernels",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1877050919310415",
+            "Abstract": "Trending applications such as AI and data analytics have mandated the use of GPUs in modern datacenters for performance reasons. Current practice dictates to dedicate GPUs to applications, which limits the amount of concurrent users to the available GPUs. That use of GPUs contradicts with the policy of datacenters to oversubscribe resources and accommodate as many user applications as possible. To address this issue, providers will inevitably resort to GPU sharing. In this work we introduce Syntix, a mechanism that we deploy on GPU sharing system and 1) profiles CUDA kernels in order to learn their resource requirements in terms of threads and blocks and 2) assigns those resources to kernels in order to be efficiently collocated into streams. Syntix is able to exploit the resources that are possibly wasted from the execution of an individual kernel and save the 80% of them on average.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "FDIO: A Feedback Driven Controller for Minimizing Energy in I/O-Intensive Applications",
+            "Publication year": 2013,
+            "Publication url": "https://www.usenix.org/conference/hotstorage13/workshop-program/presentation/manousakis",
+            "Abstract": "The relatively low utilization of servers in data-center environments when running I/O-intensive applications is a key concern for efficiency. Energy optimization, by throttling power consumption, is an essential operational goal. Since processors are the most demanding of the components constituting a server, energy optimization has focused on regulating processor consumption. However, more recently memory and storage are increasingly becoming more demanding, collectively accounting for more than 40% of the overall energy consumption in typical system configurations. We argue that this trend necessitates tracking overall energy consumption rather than focusing on any single component. Although currently only processors expose energy-related controls at a fine granularity, we demonstrate that with a more holistic approach we can obtain significant efficiency benefits. Specifically, our feedback-based controller for Linux detects I/O-intensive phases in workloads, and adjusts processor operating frequencies accordingly, in a more effective manner than the standard CPU governors.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:UxriW0iASnsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "KVFS: An HDFS Library over NoSQL Databases.",
+            "Publication year": 2016,
+            "Publication url": "https://www.scitepress.org/Papers/2016/59240/59240.pdf",
+            "Abstract": "Recently, NoSQL stores, such as HBase, have gained acceptance and popularity due to their ability to scale-out and perform queries over large amounts of data. NoSQL stores typically arrange data in tables of (key, value) pairs and support few simple operations: get, insert, delete, and scan. Despite its simplicity, this API has proven to be extremely powerful. Nowadays most data analytics frameworks utilize distributed file systems (DFS) for storing and accessing data. HDFS has emerged as the most popular choice due to its scalability. In this paper we explore how popular NoSQL stores, such as HBase, can provide an HDFS scale-out file system abstraction. We show how we can design an HDFS compliant filesystem on top a key-value store. We implement our design as a user-space library (KVFS) providing an HDFS filesystem over an HBase key-value store. KVFS is designed to run Hadoop style analytics such as MapReduce, Hive, Pig and Mahout over NoSQL stores without the use of HDFS. We perform a preliminary evaluation of KVFS against a native HDFS setup using DFSIO with varying number of threads. Our results show that the approach of providing a filesystem API over a key-value store is a promising direction: Read and write throughput of KVFS and HDFS, for big and small datasets, is identical. Both HDFS and KVFS throughput is limited by the network for small datasets and from the device I/O for bigger datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Support for automatic diagnosis and dynamic configuration of scalable storage systems",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-72337-0_3",
+            "Abstract": "Distributed storage systems are expected to serve a broad spectrum of applications, satisfying various requirements with respect to capacity, speed, reliability, security at low cost. Virtualization techniques allow flexible configuration of storage systems in order to meet resource constraints and application requirements. Violin provides block level virtualization that enables the extension of storage with new mechanisms and combining them to create modular hierarchies. Creating and maintaining such virtualization hierarchies however, is a complex task where a human system administrator is the most expensive and less efficient element. We introduced Conductor, an automated support system that tries to grasp human expertise with declarative rules that are applied to storage management. So far the initial, static configuration capabilities of Conductor have been elaborated. Static features however, are not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The vineyard approach: Versatile, integrated, accelerator-based, heterogeneous data centres",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-30481-6_1",
+            "Abstract": "Emerging web applications like cloud computing, Big Data and social networks have created the need for powerful centres hosting hundreds of thousands of servers. Currently, the data centres are based on general purpose processors that provide high flexibility buts lack the energy efficiency of customized accelerators. VINEYARD aims to develop an integrated platform for energy-efficient data centres based on new servers with novel, coarse-grain and fine-grain, programmable hardware accelerators. It will, also, build a high-level programming framework for allowing end-users to seamlessly utilize these accelerators in heterogeneous computing systems by employing typical data-centre programming frameworks (e.g. MapReduce, Storm, Spark, etc.). This programming framework will, further, allow the hardware accelerators to be swapped in and out of the heterogeneous infrastructure so as to offer high \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:WqliGbK-hY8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Vanguard: Increasing server efficiency via workload isolation in the storage i/o path",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2670979.2670998",
+            "Abstract": "Server consolidation via virtualization is an essential technique for improving infrastructure cost in modern datacenters. From the viewpoint of datacenter operators, consolidation offers compelling advantages by reducing the number of physical servers, and reducing operational costs such as energy consumption. However, performance interference between co-located workloads can be crippling. Conservatively, and at significant cost, datacenter operators are forced to keep physical servers at low utilization levels (typically below 20%), to minimize adverse performance interactions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NUMA implications for storage I/O throughput in modern servers",
+            "Publication year": 2012,
+            "Publication url": "https://www.ics.forth.gr/~bilas/pdffiles/akram-caos12.pdf",
+            "Abstract": "Current server architectures have started to move away from traditional memory buses that do not scale and towards pointto-point interconnects for communication among processors, memories, and I/O devices. As a result, memory modules are not equidistant from all cores leading to significant differences in memory access performance from different cores. Similar to memory modules, I/O devices are connected today to processor sockets in a NUMA manner. This results in NUMA effects for transfers between I/O devices and memory banks, as well as processor I/O (PIO) accesses to I/O devices. This trend towards NUMA architectures increases complexity for buffer placement, device data transfers, and code execution, creating a complex affinity space. In this paper, we discuss problems that arise when performing I/O and present a preliminary evaluation of the impact of different types of affinity. We use a server-type system with two Intel Xeon processors, four storage controllers, and 24 solid-state-disks (SSDs). Our experiments with various machine configurations show that compared to local transfers between devices and memory, remote transfers have the potential to reduce maximum achievable throughput from 8% up to 40%. Further, for I/O-intensive applications, remote transfers can potentially increase I/O-completion time up to 130%.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Shared virtual memory clusters with next-generation interconnection networks and wide compute nodes",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45307-5_15",
+            "Abstract": "Recently much effort has been spent on providing a shared address space abstraction on clusters of small-scale symmetric multiprocessors. However, advances in technology will soon make it possible to construct these clusters with larger-scale cc-NUMA nodes, connected with non-coherent networks that ofier latencies and bandwidth comparable to interconnection networks used in hardware cache-coherent systems. The shared memory abstraction can be provided on these systems in software across nodes and in hardware within nodes. In this work we investigate this approach to building future software shared memory clusters. We use an existing, large-scale hardware cache- coherent system with 64 processors to emulate a future cluster. We present results for both 32- and 64-processor system configurations. We quantify the effects of faster interconnects and wide, NUMA nodes on system design \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:TQgYirikUcIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Clotho: Transparent data versioning at the block I",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4662910236417845314&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:EYYDruWGBe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Azor: Using two-level block selection to improve SSD-based I/O caches",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6005455/",
+            "Abstract": "Flash-based solid state drives (SSDs) exhibit potential for solving I/O bottlenecks by offering superior performance over hard disks for several workloads. In this work we design Azor, an SSD-based I/O cache that operates at the block-level and is transparent to existing applications, such as databases. Our design provides various choices for associativity, write policies and cache line size, while maintaining a high degree of I/O concurrency. Our main contribution is that we explore differentiation of HDD blocks according to their expected importance on system performance. We design and analyze a two-level block selection scheme that dynamically differentiates HDD blocks, and selectively places them in the limited space of the SSD cache. We implement Azor in the Linux kernel and evaluate its effectiveness experimentally using a server-type platform and large problem sizes with three I/O intensive workloads: TPC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tolerating network failures in system area networks",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1040866/",
+            "Abstract": "In this paper, we investigate how system area networks can deal with transient and permanent network failures. We design and implement a firmware-level retransmission scheme to tolerate transient failures and an on-demand network mapping scheme to deal with permanent failures. Both schemes are transparent to applications and are conceptually simple and suitable for low-level implementations, e.g. in firmware. We then examine how the retransmission scheme affects system performance and how various protocol parameters impact system behavior. We analyze and evaluate system performance by using a real implementation on a state-of-the art cluster and both micro-benchmarks and real applications from the SPLASH-2 suite.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient Remote Block-level I/O over an RDMA-capable NIC",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1183401.1183417",
+            "Abstract": "Modern storage systems are required to scale to large storage capacities and I/O throughput in a cost effective manner. For this reason, they are increasingly being built out of commodity components, mainly PCs equipped with large numbers of disks and interconnected of high-performance system area networks. A main issue in these efforts is to achieve high I/O throughput over commodity, low-cost system area networks and commodity operating systems. In this work, we examine in detail the performance of remote block-level storage I/O over commodity, RDMA-capable network interfaces and networks. We examine the support that is required from the network interface for achieving high throughput. We also examine in detail the overheads associated in kernel-level protocols for networked storage access. We find that base system performance is limited by (a) interrupt cost,(b) request size, and (c) protocol \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "AManifesto FOR FUTURE GENERATION HETEROGENEOUS COMPUTING: RESEARCH DIRECTIONS",
+            "Publication year": 2020,
+            "Publication url": "http://heterogeneityalliance.eu/sites/default/files/alliance/public/content-files/article/alliance_journal_paper_arXiv_style.pdf",
+            "Abstract": "Hardware in various environments such as High Performance Computing, the Internet of Things and Embedded Systems has become heterogeneous in order to improve computational performance. Customising the hardware for particular application domains as well as the use of accelerators such as GPUs, TPUs, DSPs, FPGAs is attractive as it can lead to performance improvements of up to three orders of magnitude compared to general-purpose processors. Recent technological developments and paradigms in compilers, profilers, and run-time systems are creating new opportunities for heterogeneous computing. However, these are also posing several new challenges and creating the need for new approaches and research strategies, as well as the re-evaluation of the models that were developed to address issues such as application models, programming models, middleware, scalability, security and sustainability. The proposed paper identifies the major open challenges in heterogeneous computing, emerging trends, and impact areas. It then offers a future research agenda, thus helping in the realisation of Future Generation Heterogeneous Computing.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:-FonjvnnhkoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Knowledge and data management in grids: Notes on the state of the art",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/41882457/a_novel_approach_to_semantics_based_exception_handling_for_service.pdf",
+            "Abstract": "Knowledge and data management is a key topic in Grid computing. Today and in the near future, data, information, and knowledge are critical elements in the application of Grids in several sectors of our society. As Grids become pervasive in human activities, the management of data and the derivation and manipulation of knowledge play an increasingly significant role in enabling high-level applications in wired and wireless settings where Grids are used as enabling platforms, engines and tools for complex information systems. Our view is that the Grid should be effectively exploited for deploying data-driven and knowledge-based services and applications. To support this class of applications, tools and services for data and knowledge management are vital, so that, in the coming years the Grid will be used as a platform for implementing and deploying geographically dispersed data intensive applications, distributed knowledge discovery systems and knowledge management platforms. This white paper is provided by the Institute on Knowledge and Data Management (KDM) of the CoreGRID NoE. The work originates from work done by the Institute members and its aim is to present the current state of the art with respect to Grid data and knowledge management and provide the context of the related research activities, focusing on the areas of Grid storage, information processing and data mining.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:35N4QoGY0k4C",
+            "Publisher": "April"
+        },
+        {
+            "Title": "H3: An Application-Level, Low-Overhead Object Store",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-90539-2_11",
+            "Abstract": "H3 is an embedded object store, backed by a high-performance key-value store. H3 provides a user-friendly object API, similar to Amazon\u2019s S3, but is especially tailored for use in \u201cconverged\u201d Cloud-HPC environments, where HPC applications expect from the underlying storage services to meet strict latency requirements\u2014even for high-level object operations. By embedding the object store in the application, thus avoiding the REST layer, we show that data operations gain significant performance benefits, especially for smaller sized objects. Additionally, H3\u2019s pluggable back-end architecture allows adapting the object store\u2019s scale and performance to a variety of deployment requirements. H3 supports several key-value stores, ranging from in-memory services to distributed, RDMA-based implementations. The core of H3 is H3lib, a C library with Python and Java bindings. The H3 ecosystem also includes \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:GtLg2Ama23sC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Extensible block-level storage virtualization in cluster-based systems",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731510000353",
+            "Abstract": "High-performance storage systems are evolving towards decentralized commodity clusters that can scale in capacity, processing power, and network throughput. Building such systems requires: (a) Sharing physical resources among applications; (b) Sharing data among applications; (c) Allowing customized data views. Current solutions typically satisfy the first two requirements through a cluster file-system, resulting in monolithic, hard-to-manage systems. In this paper we present a storage system that addresses all three requirements by extending the block layer below the file-system. First, we discuss how our system provides customized (virtualized) storage views within a single node. Then, we discuss how it scales in clustered setups. To achieve efficient resource and data sharing we support block-level allocation and locking as in-band mechanisms. We implement a prototype under Linux and use it to build a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Block-level Virtualization: How far can we go?",
+            "Publication year": 2005,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.4993&rep=rep1&type=pdf",
+            "Abstract": "In this paper, we present our vision on building large-scale storage systems from commodity components in a data center. For reasons of efficiency and flexibility, we advocate maintaining sophisticated data management functions behind a block-based interface. We anticipate that such an interface can be customized to meet the diverse needs of end-users and applications through the extensible storage system architecture that we propose.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of Custom vs Commodity Technology-based Storage Elements.",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-0-387-85966-8_2.pdf",
+            "Abstract": "Scalable and cost-effective Storage Elements are essential components of Grid systems. Scaling the capacity and performance of the Grid storage infrastructure in an economical manner is an important research goal, due to an increasing number of data-intensive Grid applications and services. In this paper we present practical performance evaluation of two classes of storage systems: an aggressive commercial Fibre Chanel SATA disk matrix and a commoditybased research prototype\u2013Violin. We use a block-level benchmark to examine the performance limits and scalability features of both classes of systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "A Flexible Datacenter Simulator",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1877050918315448",
+            "Abstract": "The current data volume and processing requirements in a modern datacenter outgrow the performance increase offered by CPU technology scaling. In light of this trend, datacenter operators have started exploiting application-specific accelerators in order to provide the performance that is needed, without exceeding power consumption constraints. The resulting heterogeneity of resources raises the question of what type of datacenter composition is most useful and under what circumstances. However, as the resulting complexity makes the testing on real-life datacenters difficult or even prohibitive, the use of simulation tools allow datacenter planners to estimate the results of their design decisions. We have developed Het-Sim, a software simulator based on the theoretical modeling of the datacenter, its components, expected workloads, and its possible deployments. Het-Sim takes as inputs a workload and a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Using System Emulation to Model Next-Generation Shared Virtual Memory Clusters",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1025713926030",
+            "Abstract": "Recently much effort has been spent on providing a shared address space abstraction on clusters of small-scale symmetric multiprocessors. However, advances in technology will soon make it possible to construct these clusters with larger-scale cc-NUMA nodes, connected with non-coherent networks that offer latencies and bandwidth comparable to interconnection networks used in hardware cache-coherent systems. The shared memory abstraction can be provided on these systems in software across nodes and hardware within nodes.Recent simulation results have demonstrated that certain features of modern system area networks can be used to greatly reduce shared virtual memory (SVM) overheads [5,19]. In this work we leverage these results and we use detailed system emulation to investigate building future software shared memory clusters. We use an existing, large-scale hardware \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:dshw04ExmUIC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Using transparent compression to improve ssd-based i/o caches",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1755913.1755915",
+            "Abstract": "Flash-based solid state drives (SSDs) offer superior performance over hard disks for many workloads. A prominent use of SSDs in modern storage systems is to use these devices as a cache in the I/O path. In this work, we examine how transparent, online I/O compression can be used to increase the capacity of SSD-based caches, thus increasing the costeffectiveness of the system. We present FlaZ, an I/O system that operates at the block-level and is transparent to existing file-systems. To achieve transparent, online compression in the I/O path and maintain high performance, FlaZ, provides support for variable-size blocks, mapping of logical to physical blocks, block allocation, and cleanup. FlaZ, mitigates compression and decompression overheads that can have a significant impact on performance by leveraging modern multicore CPUs. We implement FlaZ, in the Linux kernel and evaluate it on a commodity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An efficient memory-mapped key-value store for flash storage",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3267809.3267824",
+            "Abstract": "Persistent key-value stores have emerged as a main component in the data access path of modern data processing systems. However, they exhibit high CPU and I/O overhead. Today, due to power limitations it is important to reduce CPU overheads for data processing.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Session III: Architecture-Shared Virtual Memory Clusters with Next-Generation Interconnection Networks and Wide Compute Nodes",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=252279868776415416&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "BDDT-SCC: A Task-parallel Runtime for Non Cache-Coherent Multicores",
+            "Publication year": 2016,
+            "Publication url": "https://arxiv.org/abs/1606.04288",
+            "Abstract": "This paper presents BDDT-SCC, a task-parallel runtime system for non cache-coherent multicore processors, implemented for the Intel Single-Chip Cloud Computer. The BDDT-SCC runtime includes a dynamic dependence analysis and automatic synchronization, and executes OpenMP-Ss tasks on a non cache-coherent architecture. We design a runtime that uses fast on-chip inter-core communication with small messages. At the same time, we use non coherent shared memory to avoid large core-to-core data transfers that would incur a high volume of unnecessary copying. We evaluate BDDT-SCC on a set of representative benchmarks, in terms of task granularity, locality, and communication. We find that memory locality and allocation plays a very important role in performance, as the architecture of the SCC memory controllers can create strong contention effects. We suggest patterns that improve memory locality and thus the performance of applications, and measure their impact.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:_Ybze24A_UAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Jupiter/SVM: A JVM-based Single System Image for Clusters of Workstations",
+            "Publication year": 2004,
+            "Publication url": "http://users.ics.forth.gr/~bilas/pdffiles/jupiter-cables.pdf",
+            "Abstract": "We address the problem of providing a single system image (SSI) on clusters of workstations, based on the Java Virtual Machine (JVM). Our approach is unique in that the needed functionality is separated in two layers: a shared virtual memory (SVM) system, CableS, that is optimized for system area networks and provides a standard Pthreads API, and a multithreaded JVM, Jupiter, that was originally developed for symmetric multiprocessors (SMPs). We identify the JVM extensions that are required to deal with CableS\u2019s more relaxed memory consistency model, to optimize memory allocation by using private memory where possible, and to deal with various dynamic resource limitations imposed by CableS. We present a preliminary evaluation of the new JVM using the Java Grande benchmark suite on a 16-processor cluster of PCs interconnected with a Myrinet network, which (to the best of our knowledge) is the largest configuration reported to the literature. We find that:(i) the overhead introduced by SVM-specific extensions is less than 7% on average and (ii) Jupiter/SVM scales well to achieve an average speedup of 14 on 16 processors\u2014a significantly better speedup than for previous reported work. Our main contribution is the conclusion that JVM-based SSIs for clusters do not have to be based on specially designed JVMs but may use JVMs that have been developed for popular SMP platforms.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HugeMap: Optimizing Memory-Mapped I/O with Huge Pages for Fast Storage",
+            "Publication year": 2020,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7972734/",
+            "Abstract": "Memory-mapped I/O (mmio) is emerging as a viable alternative for accessing directly-attached fast storage devices compared to explicit I/O with system calls. Mmio removes the need for costly lookups in the DRAM I/O cache for cache hits, as they are handled in hardware via the virtual memory mechanism. In this work we present HugeMap, a custom mmio path in the Linux kernel that uses huge pages for file-backed mappings to accelerate applications with sequential I/O access patterns or large I/O operations. HugeMap uses huge pages to reduce CPU processing in the kernel I/O path compared to regular mmap. We explore the benefits and trade-offs of huge pages in HugeMap using microbenchmarks, IOR, and an in-house persistent key-value store designed for mmio. Our experiments show up to 3.7\u00d7 higher throughput and up to 4.76\u00d7 lower system time, compared to regular page configurations.",
+            "Abstract entirety": 1,
+            "Author pub id": "JZDNQaMAAAAJ:foquWX3nUaYC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Using gLite to Implement a Secure ICGrid",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-0-387-85966-8_7.pdf",
+            "Abstract": "Storage capabilities in novel \u201cHealth Grids\u201d are quite suitable for the requirements of systems like ICGrid, which captures, stores and manages data and metadata from Intensive Care Units. However, this paradigm depends on widely distributed storage sites, therefore requiring new security mechanisms, able to avoid potential leaks to cope with modification and destruction of stored data under the presence of external or internal attacks. Particular emphasis must be put on the patient\u2019s personal data, the protection of which is required by legislations in many countries of the European Union and the world in general. In a previous paper we performed a security analysis of ICGrid, from the point of view of metadata and data, where we found the need to protect the data-at-rest from untrusted Storage Elements (SE). That research also proposed a privacy protocol to protect a patients\u2019 private metadata and data. This \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JZDNQaMAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Springer, Boston, MA"
+        }
+    ]
+}]

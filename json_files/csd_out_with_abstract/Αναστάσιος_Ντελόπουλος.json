@@ -1,0 +1,1228 @@
+[{
+    "name": "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u039d\u03c4\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+    "romanize name": "Anastasios Ntelopoulos",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7 & \u039c\u03b7\u03c7 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "auth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18211,
+    "Scholar name": "Anastasios Delopoulos",
+    "Scholar id": "yBp_7EEAAAAJ",
+    "Affiliation": "Aristotle University of Thessaloniki, multimedia understanding group",
+    "Citedby": 1665,
+    "Interests": [
+        "signal processing",
+        "computer vision",
+        "machine learning",
+        "m-health",
+        "behavior analytics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=yBp_7EEAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Semantic integration of cervical cancer data repositories to facilitate multicenter association studies: the ASSIST approach",
+            "Publication year": 2009,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.4137/CIN.S963",
+            "Abstract": "The current work addresses the unification of Electronic Health Records related to cervical cancer into a single medical knowledge source, in the context of the EU-funded ASSIST research project. The project aims to facilitate the research for cervical precancer and cancer through a system that virtually unifies multiple patient record repositories, physically located in different medical centers/hospitals, thus, increasing flexibility by allowing the formation of study groups \u201con demand\u201d and by recycling patient records in new studies. To this end, ASSIST uses semantic technologies to translate all medical entities (such as patient examination results, history, habits, genetic profile) and represent them in a common form, encoded in the ASSIST Cervical Cancer Ontology. The current paper presents the knowledge elicitation approach followed, towards the definition and representation of the disease's medical concepts and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Assessment of real life eating difficulties in Parkinson\u2019s disease patients by measuring plate to mouth movement elongation with inertial sensors",
+            "Publication year": 2021,
+            "Publication url": "https://www.nature.com/articles/s41598-020-80394-y",
+            "Abstract": "Parkinson\u2019s disease (PD) is a neurodegenerative disorder with both motor and non-motor symptoms. Despite the progressive nature of PD, early diagnosis, tracking the disease\u2019s natural history and measuring the drug response are factors that play a major role in determining the quality of life of the affected individual. Apart from the common motor symptoms, ie, tremor at rest, rigidity and bradykinesia, studies suggest that PD is associated with disturbances in eating behavior and energy intake. Specifically, PD is associated with drug-induced impulsive eating disorders such as binge eating, appetite-related non-motor issues such as weight loss and/or gain as well as dysphagia\u2014factors that correlate with difficulties in completing day-to-day eating-related tasks. In this work we introduce Plate-to-Mouth (PtM), an indicator that relates with the time spent for the hand operating the utensil to transfer a quantity of food \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "An Interpretable Multiple-Instance Approach for the Detection of referable Diabetic Retinopathy from Fundus Images",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2103.01702",
+            "Abstract": "Diabetic Retinopathy (DR) is a leading cause of vision loss globally. Yet despite its prevalence, the majority of affected people lack access to the specialized ophthalmologists and equipment required for assessing their condition. This can lead to delays in the start of treatment, thereby lowering their chances for a successful outcome. Machine learning systems that automatically detect the disease in eye fundus images have been proposed as a means of facilitating access to DR severity estimates for patients in remote regions or even for complementing the human expert's diagnosis. In this paper, we propose a machine learning system for the detection of referable DR in fundus images that is based on the paradigm of multiple-instance learning. By extracting local information from image patches and combining it efficiently through an attention mechanism, our system is able to achieve high classification accuracy. Moreover, it can highlight potential image regions where DR manifests through its characteristic lesions. We evaluate our approach on publicly available retinal image datasets, in which it exhibits near state-of-the-art performance, while also producing interpretable visualizations of its predictions.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:tzM49s52ZIMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Assessment of In-Meal Eating Behaviour using Fuzzy SVM",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8857606/",
+            "Abstract": "Certain patterns of eating behaviour during meal have been identified as risk factors for long-term abnormal eating development in healthy individuals and, eventually, can affect the body weight. To detect early signs of problematic eating behaviour, this paper proposes a novel method for building behaviour assessment models. The goal of the models is to predict whether the in-meal eating behaviour resembles patterns associated with obesity, eating disorders, or low-risk behaviours. The models are trained using meals recorded with a plate scale from a reference population and labels annotated by a domain expert. In addition, the domain expert assigned scores that characterise the degree of any exhibited abnormal patterns. To improve model effectiveness, we use the domain expert's scores to create training error regularisation weights that alter the importance of each training instance for its class during model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Active and healthy ageing for Parkinson's disease patients' support: A user's perspective within the i-PROGNOSIS framework",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7847785/",
+            "Abstract": "In this paper, the user requirements, along with the methodology adopted towards their identification within the i-PROGNOSIS framework (www.i-prognosis.eu), are presented. The latter are placed within the concept of active and healthy ageing (AHA), focusing on the case of Parkinson's Disease (PD) patients' support. The bases for the user requirements identification were face-to-face sessions, focus groups and a large scale Web-survey. Towards the efficient user requirements identification and i-PROGNOSIS components development, exemplified usage scenarios and related business processes the stakeholders of i-PROGNOSIS can perform, are discussed. Overall, 122 functional and non-functional requirements were identified, serving as a basis for the spiral development model of i-PROGNOSIS, revealing the beneficial role of the users in designing solutions within the AHA concept.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Big Data Against Childhood Obesity, the BigO Project",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8787479/",
+            "Abstract": "BigO (bigoprogram.eu) is an EU-funded project that collects objective evidence on the causes of obesity in local communities and helps public health authorities design effective counter obesity interventions. A novel technological platform is being built relying on mobile devices and sensors for data acquisition combined with big data analytics and visualization. During the 4 year project duration the BigO platform will be used by 9000 school and age-matched obese children and adolescents as sources for community data. Led by Aristotle University of Thessaloniki, the project brings together schools, health and clinical scientists, technology providers, personal health solutions businesses and mobile communication providers in Greece, Sweden, Ireland, Spain and the Netherlands.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Intelligent Semantic Access to Audiovisual Content",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46014-4_20",
+            "Abstract": "In this paper, an integrated information system is presented that offers enhanced search and retrieval capabilities to users of heterogeneous digital audiovisual (a/v) archives. This novel system exploits the advances in handling a/v content and related metadata, as introduced by MPEG-4 and worked out by MPEG-7, to offer advanced access services characterized by the tri-fold \u201csemantic phrasing of the request (query)\u201d, \u201cunified handling\u201d and \u201cpersonalized response\u201d. The proposed system is targeting the intelligent extraction of semantic information from a/v and text related data taking into account the nature of useful queries that users may issue, and the context determined by user profiles. From a technical point of view, it will play the role of an intermediate access server residing between the end users and multiple heterogeneous audiovisual archives organized according to new MPEG standards.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A method for the evaluation of projective geometric consistency in weakly calibrated stereo with application to point matching",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S107731421300235X",
+            "Abstract": "We present a novel method that evaluates the geometric consistency of putative point matches in weakly calibrated settings, i.e. when the epipolar geometry but not the camera calibration is known, using only the point coordinates as information. The main idea behind our approach is the fact that each point correspondence in our data belongs to one of two classes (inliers/outlier). The classification of each point match relies on the histogram of a quantity representing the difference between cross ratios derived from a construction involving 6-tuples of point matches. Neither constraints nor scenario dependent parameters/thresholds are needed. Even for few candidate point matches the ensemble of 6-tuples containing each of them turns to provide statistically reliable histograms that prove to discriminate between inliers and outliers. In fact, in most cases a random sampling among this population is sufficient \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Image-based surrogates of socio-economic status in urban neighborhoods using deep multiple instance learning",
+            "Publication year": 2018,
+            "Publication url": "https://www.mdpi.com/355468",
+            "Abstract": "(1) Background: Evidence-based policymaking requires data about the local population\u2019s socioeconomic status (SES) at detailed geographical level, however, such information is often not available, or is too expensive to acquire. Researchers have proposed solutions to estimate SES indicators by analyzing Google Street View images, however, these methods are also resource-intensive, since they require large volumes of manually labeled training data.(2) Methods: We propose a methodology for automatically computing surrogate variables of SES indicators using street images of parked cars and deep multiple instance learning. Our approach does not require any manually created labels, apart from data already available by statistical authorities, while the entire pipeline for image acquisition, parked car detection, car classification, and surrogate variable computation is fully automated. The proposed surrogate variables are then used in linear regression models to estimate the target SES indicators.(3) Results: We implement and evaluate a model based on the proposed surrogate variable at 30 municipalities of varying SES in Greece. Our model has R 2= 0.76 and a correlation coefficient of 0.874 with the true unemployment rate, while it achieves a mean absolute percentage error of 0.089 and mean absolute error of 1.87 on a held-out test set. Similar results are also obtained for other socioeconomic indicators, related to education level and occupational prestige.(4) Conclusions: The proposed methodology can be used to estimate SES indicators at the local level automatically, using images of parked cars detected via Google Street View \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "A methodology for obtaining objective measurements of population obesogenic behaviors in relation to the environment",
+            "Publication year": 2019,
+            "Publication url": "https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji190537",
+            "Abstract": "The way we eat and what we eat, the way we move and the way we sleep significantly impact the risk of becoming obese. These aspects of behavior decompose into several personal behavioral elements including our food choices, eating place preferences, transportation choices, sleeping periods and duration etc. Most of these elements are highly correlated in a causal way with the conditions of our local urban, social, regulatory and economic environment. To this end, the H2020 project \u201cBigO: Big Data Against Childhood Obesity\u201d(http://bigoprogram. eu) aims to create new sources of evidence together with exploration tools, assisting the Public Health Authorities in their effort to tackle childhood obesity. In this paper, we present the technology-based methodology that has been developed in the context of BigO in order to:(a) objectively monitor a matrix of a population\u2019s obesogenic behavioral elements using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:5awf1xo2G04C",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Fuzzy-logic based information fusion for image segmentation",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1530279/",
+            "Abstract": "This work presents an information fusion mechanism for image segmentation using multiple cues. Initially, a fuzzy clustering of each cue space is performed and corresponding membership functions are produced on the image coordinates space. The latter include complementary as well as redundant information. A fuzzy inference mechanism is developed, which exploits these characteristics and fuses the membership functions. The produced aggregate membership functions represent objects, which bear combinations of the properties specified by the cues. The segmented image results after post-processing and defuzzification, which involves majority voting. A fuzzy rule based merging algorithm is finally proposed for reducing possible oversegmentation. Experimental results have been included to illustrate the steps and the efficiency of the algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automated analysis of in meal eating behavior using a commercial wristband IMU sensor",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8037449/",
+            "Abstract": "Automatic objective monitoring of eating behavior using inertial sensors is a research problem that has received a lot of attention recently, mainly due to the mass availability of IMUs and the evidence on the importance of quantifying and monitoring eating patterns. In this paper we propose a method for detecting food intake cycles during the course of a meal using a commercially available wristband. We first model micro-movements that are part of the intake cycle and then use HMMs to model the sequences of micro-movements leading to mouthfuls. Evaluation is carried out on an annotated dataset of 8 subjects where the proposed method achieves 0:78 precision and 0:77 recall. The evaluation dataset is publicly available at http://mug.ee.auth.gr/intake-cycle-detection/.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:LPZeul_q3PIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Innovative Parkinson's Disease Patients' Motor Skills Assessment: The i-PROGNOSIS Paradigm",
+            "Publication year": 2020,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fcomp.2020.00020/full",
+            "Abstract": "Being the second most common neurodegenerative disease, Parkinson\u2019s Disease (PD) can be symptomatically treated; though, unfortunately, it cannot be cured yet. Moreover, diagnosing and assessing PD patients is a complex process, requiring continuous monitoring. In this vein, the design, development and validation of innovative Assessment Tools may be helpful in the management of patients with PD, in particular. Based on intelligent ICT interventions, the i-PROGNOSIS project intends to mitigate PD\u2019s specific symptoms, such as, neurological movement disorders of gait, balance, coordination and posture, already characterized in the early phase of the disease. From this perspective, an innovative iPrognosis motor Assessment Tool is presented here, taking into consideration the Unified Parkinson Disease Rating Scale (UPDRS) Part III motor skills testing items, for evaluating the motor skills status. The efficiency of the proposed Assessment Tests to reflect the motor skills status, similarly to the UPDRS Part III items, was validated via 27 participants (18 males; mean age = 62 yrs, SD=10.36 yrs, range 43\u201379 yrs) with early (n=10) and moderate (n=17) PD, that performed the Assessment Tests. Features from the latter were then correlated with the corresponding clinically assessed UPDRS Part III items and statistically significant negative correlations (range: -0.364:-0.802) were identified between the median values of the Assessment Tests and the UPDRS Part III items. In this vein, the iPrognosis Assessment Tests were integrated within the personalized interventions of i-PRGNOSIS project, providing alternative means of assessing their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:_Ybze24A_UAC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Data-driven assessments for sensor measurements of eating behavior",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7897222/",
+            "Abstract": "Two major challenges in sensor-based measurement and assessment of healthy eating behavior are (a) choosing the behavioral indicators to be measured, and (b) interpreting the measured values. While much of the work towards solving these problems belongs in the domain of behavioral science, there are several areas where technology can help. This paper outlines an approach for representing and interpreting eating and activity behavior based on sensor measurements and data available from a reference population. The main idea is to assess the \u201csimilarity\u201d of an individual's behavior to previous data recordings of a relevant reference population. Thus, by appropriate selection of the indicators and reference data it is possible to perform comparative behavioral evaluation and support decisions, even in cases where no clear medical guidelines for the indicator values exist. We examine the simple, univariate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Constructing optimal fuzzy metric trees for agent performance evaluation",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4740645/",
+            "Abstract": "The field of multi-agent systems has reached a significant degree of maturity with respect to frameworks, standards and infrastructures. Focus is now shifted to performance evaluation of real-world applications, in order to quantify the practical benefits and drawbacks of agent systems. Our approach extends current work on generic evaluation methodologies for agents by employing fuzzy weighted trees for organizing evaluation-specific concepts/metrics and linguistic terms to intuitively represent and aggregate measurement information.Furthermore, we introduce meta-metrics that measure the validity and complexity of the contribution of each metric in the overall performance evaluation. These are all incorporated for selecting optimal subsets of metrics and designing the evaluation process incompliance with the demands/restrictions of various evaluation setups, thus minimizing intervention by domain experts. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Semantic identification: Balancing between complexity and validity",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1155/ASP/2006/41716.pdf",
+            "Abstract": "An efficient scheme for identifying semantic entities within data sets such as multimedia documents, scenes, signals, and so forth, is proposed in this work. Expression of semantic entities in terms of syntactic properties is modelled with appropriately defined finite automata, which also model the identification procedure. Based on the structure and properties of these automata, formal definitions of attained validity and certainty and also required complexity are defined as metrics of identification efficiency. The main contribution of the paper relies on organizing the identification and search procedure in a way that maximizes its validity for bounded complexity budgets and reversely minimizes computational complexity for a given required validity threshold. The associated optimization problem is solved by using dynamic programming. Finally, a set of experiments provides insight to the introduced theoretical \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "A novel algorithm for restricting the complexity of virus typing via PCR-RFLP gel electrophoresis",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s13534-011-0038-3",
+            "Abstract": "PCR-RFLP gel electrophoresis is a popular method for virus typing (i.e., for identifying the types of a virus that have infected a biological sample), which has been automated recently owing to a computerized typing methodology. However, even with the help of this methodology, the PCRRFLP method suffers from low throughput, when compared to other typing methods. In this paper, we tackle this issue by introducing a novel algorithm for conducting the most computationally demanding phase of the aforementioned typing methodology (testing phase).The testing phase requires the execution of an optimization task on a 1d signal (intensity profile) for a number of type combinations. The introduced algorithm first partitions the signal into individually treatable segments. This parcels the optimization task into a set of more lightweight \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Korean Society of Medical and Biological Engineering"
+        },
+        {
+            "Title": "Motion-based segmentation of objects using overlapping temporal windows",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885613000929",
+            "Abstract": "Motion segmentation refers to the problem of separating the objects in a video sequence according to their motion. It is a fundamental problem of computer vision, since various systems focusing on the analysis of dynamic scenes include motion segmentation algorithms. In this paper we present a novel approach, where a video shot is temporally divided in successive and overlapping windows and motion segmentation is performed on each window respectively. This attribute renders the algorithm suitable even for long video sequences. In the last stage of the algorithm the segmentation results for every window are aggregated into a final segmentation. The presented algorithm can handle effectively asynchronous trajectories on each window even when they have no temporal intersection. The evaluation of the proposed algorithm on the Berkeley motion segmentation benchmark demonstrates its scalability and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Building effective SVM concept detectors from clickthrough data for large-scale image retrieval",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s13735-015-0080-5",
+            "Abstract": "Clickthrough data is a source of information that can be used for automatically building concept detectors for image retrieval. Previous studies, however, have shown that in many cases the resulting training sets suffer from severe label noise that has a significant impact in the SVM concept detector performance. This paper evaluates and proposes a set of strategies for automatically building effective concept detectors from clickthrough data. These strategies focus on: (1) automatic training set generation; (2) assignment of label confidence weights to the training samples and (3) using these weights at the classifier level to improve concept detector effectiveness. For training set selection and in order to assign weights to individual training samples three Information Retrieval (IR) models are examined: vector space models, BM25 and language models. Three SVM variants that take into account importance at \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:SP6oXDckpogC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Evaluation of the BigO behavioral indicators in overweight and obese children and adolescents",
+            "Publication year": 2021,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17422110018539146409&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "KARGER"
+        },
+        {
+            "Title": "Analysis of PCR-RFLP gel electrophoresis images for accurate and automated HPV typing",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5687732/",
+            "Abstract": "The identification of the types of the human papilomavirus (HPV) that have infected a woman provides valuable information as regards to her risk for developing cervical cancer. HPV typing is often performed by means of manually analyzing PCR-RFLP gel electrophoresis images. However, the typing procedure that is currently employed suffers from unsatisfactory accuracy and high time consumption. In order to treat these problems we propose a novel approach to HPV typing that automates the analysis of the electrophoretic images and concurrently improves the accuracy of the typing decision. The proposed methodology contributes both to the extraction of information from the images through a novel modeling approach and also to the process of making a typing decision based on the above information by the introduction of an original HPV typing algorithm. The efficiency of our approach is demonstrated with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving Concept-Based Image Retrieval with Training Weights Computed from Tags",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2790230",
+            "Abstract": "This article presents a novel approach to training classifiers for concept detection using tags and a variant of Support Vector Machine that enables the usage of training weights per sample. Combined with an appropriate tag weighting mechanism, more relevant samples play a more important role in the calibration of the final concept-detector model. We propose a complete, automated framework that (i) calculates relevance scores for each image-concept pair based on image tags, (ii) transforms the scores into relevance probabilities and automatically annotates each image according to this probability, (iii) transforms either the relevance scores or the probabilities into appropriate training weights and finally, (iv) incorporates the training weights and the visual features into a Fuzzy Support Vector Machine classifier to build the concept-detector model. The framework can be applied to online public collections, by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:u9iWguZQMMsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Unobtrusive detection of Parkinson\u2019s disease from multi-modal and in-the-wild sensor data using deep learning techniques",
+            "Publication year": 2020,
+            "Publication url": "https://www.nature.com/articles/s41598-020-78418-8",
+            "Abstract": "Parkinson\u2019s Disease (PD) is the second most common neurodegenerative disorder, affecting more than 1% of the population above 60 years old with both motor and non-motor symptoms of escalating severity as it progresses. Since it cannot be cured, treatment options focus on the improvement of PD symptoms. In fact, evidence suggests that early PD intervention has the potential to slow down symptom progression and improve the general quality of life in the long term. However, the initial motor symptoms are usually very subtle and, as a result, patients seek medical assistance only when their condition has substantially deteriorated; thus, missing the opportunity for an improved clinical outcome. This situation highlights the need for accessible tools that can screen for early motor PD symptoms and alert individuals to act accordingly. Here we show that PD and its motor symptoms can unobtrusively be detected \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "Improved motion segmentation using locally sampled subspaces",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6466857/",
+            "Abstract": "Motion segmentation is an important component of various video processing applications. In this paper an effective method for motion segmentation is presented. The method adopts the affine camera model. Initially, a local algorithm is applied to sample 4-subsets from the available trajectories. The Ordered Residual Kernel is then employed to measure similarities between trajectories. The algorithm proceeds by applying FastMap on the computed kernel matrix as a dimensionality reduction technique. The embedded vectors are used to produce an affinity matrix. Finally, spectral clustering is performed on the computed affinity matrix. Experiments on the Hopkins155 database demonstrate the robustness of the method to noise and its efficacy compared to existing approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Assistive HCI-Serious Games Co-design Insights: The Case Study of i-PROGNOSIS Personalized Game Suite for Parkinson\u2019s Disease",
+            "Publication year": 2021,
+            "Publication url": "https://internal-journal.frontiersin.org/articles/10.3389/fpsyg.2020.612835/full",
+            "Abstract": "Human-Computer Interaction (HCI) and games set a new domain in understanding people\u2019s motivations in gaming, behavioral implications of game play, game adaptation to player preferences and needs for increased engaging experiences in the context of HCI serious games (HCI-SGs). When the latter relate with people\u2019s health status, they can become a part of their daily life as assistive health status monitoring/enhancement systems. Co-designing HCI-SGs can be seen as a combination of art and science that involves a meticulous collaborative process. The design elements in assistive HCI-SGs for Parkinson\u2019s Disease (PD) patients, in particular, are explored in the present work. Within this context, the Game-Based Learning (GBL) design framework is adopted here and its main game-design parameters are explored for the Exergames, Dietarygames, Emotional games, Handwriting games and Voice games design, drawn from the PD-related i-PROGNOSIS Personalized Game Suite (PGS) (www.i-prognosis.eu) holistic approach. Two main data sources were involved in the study. In particular, the first one includes qualitative data from semi-structured interviews, involving 10 PD patients and four clinicians in the co-creation process of the game design, whereas the second one relates with data from an online questionnaire addressed by 104 participants spanning the whole related spectrum, i.e., PD patients, physicians, software/game developers. Linear regression analysis was employed to identify an adapted GBL framework with the most significant game-design parameters, which efficiently predict the transferability of the PGS beneficial \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Unified intelligent access to heterogeneous audiovisual content",
+            "Publication year": 2001,
+            "Publication url": "https://www.academia.edu/download/39664597/Unified_intelligent_access_to_heterogene20151103-6935-1085yf8.pdf",
+            "Abstract": "Content-based audiovisual data retrieval utilizing new emerging related standards such as MPEG-7 will yield ineffective results, unless major focus is given to the semantic information level. Mapping of low level, sub-symbolic descriptors of a/v archives to high level symbolic ones is in general difficult, even impossible with the current state of technology. It can, however, be tackled when dealing with specific application domains. It seems that the extraction of semantic information from a/v and text related data is tractable taking into account the nature of useful queries that users may issue and the context determined by user profile. The IST project FAETHON is developing a novel platform to implement these ideas for user friendly and highly informative access to distributed audiovisual archives.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "iPrognosis-early detection of Parkinson's disease via a smartphone application-proof of concept",
+            "Publication year": 2019,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6070503318058990115&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:eMMeJKvmdy0C",
+            "Publisher": "SPRINGER WIEN"
+        },
+        {
+            "Title": "Building robust concept detectors from clickthrough data: a study in the msr-bing dataset",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6978955/",
+            "Abstract": "In this paper we extend our previous work on strategies for automatically constructing noise resilient SVM detectors from click through data for large scale concept-based image retrieval. First, search log data is used in conjunction with Information Retrieval (IR) models to score images with respect to each concept. The IR models evaluated in this work include Vector Space Models (VSM), BM25 and Language Models (LM). The scored images are then used to create training sets for SVM and appropriate sample weights for two SVM variants: the Fuzzy SVM (FSVM) and the Power SVM (PSVM). These SVM variants incorporate weights for each individual training sample and can therefore be used to model label uncertainty at the classifier level. Experiments on the MSR-Bing Image Retrieval Grand Challenge dataset (consisting of 1M images and 82.3M unique clicks) show that FSVM is the most robust SVM algorithm \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Food intake detection from inertial sensors using lstm networks",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-70742-6_39",
+            "Abstract": "Unobtrusive analysis of eating behavior based on Inertial Measurement Unit (IMU) sensors (e.g. accelerometer) is a topic that has attracted the interest of both the industry and the research community over the past years. This work presents a method for detecting food intake moments that occur during a meal session using the accelerometer and gyroscope signals of an off-the-shelf smartwatch. We propose a two step approach. First, we model the hand micro-movements that take place while eating using an array of binary Support Vector Machines (SVMs); then the detection of intake moments is achieved by processing the sequence of SVM score vectors by a Long Short Term Memory (LSTM) network. Evaluation is performed on a publicly available dataset with 10 subjects, where the proposed method outperforms similar approaches by achieving an F1 score of 0.892.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:D_sINldO8mEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Using imu sensors to assess motor degradation of pd patients by modeling in-meal plate-to-mouth movement elongation",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9175615/",
+            "Abstract": "Parkinson's disease (PD) is the second most common age-related neurodegenerative disorder after Alzheimer's disease, associated, among others, with motor symptoms such as resting tremor, rigidity and bradykinesia. At the same time, early diagnosis of PD is hindered by a high misdiagnosis rate and the subjective nature of the diagnosis process itself. Recent developments in mobile and wearable devices, such as smartphones and smartwatches, have allowed the automated detection and objective measurement of PD symptoms. In this paper we investigate the hypothesis that PD motor symptom degradation can be assessed by studying the in-meal behavior and modeling the food intake process. To achieve this, we use the inertial data from a commercial smartwatch to investigate the in-meal eating behavior of healthy controls and PD patients. In addition, we define and provide a methodology for calculating \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:W5xh706n7nkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A framework for efficient correspondence using feature interrelations",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4761227/",
+            "Abstract": "We propose a formulation for solving the point pattern correspondence problem, relying on transformation invariants. Our approach can accommodate any degree of descriptors thus modeling any kind of potential deformation according to the needs of each specific problem. Other potential descriptors such as color or local appearance can also be incorporated. A brief study on the complexity of the methodology is made which proves to be inherently polynomial while allowing for further adjustments via thresholding. Initial experiments on both synthetic and real data demonstrate its potentials in terms of accuracy and robustness to noise and outliers.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploring Associations Between Children\u2019s Obesogenic Behaviors and the Local Environment Using Big Data: Development and Evaluation of the Obesity Prevention Dashboard",
+            "Publication year": 2021,
+            "Publication url": "https://mhealth.jmir.org/2021/7/e26290/",
+            "Abstract": "Background: Obesity is a major public health problem globally and in Europe. The prevalence of childhood obesity is also soaring. Several parameters of the living environment are contributing to this increase, such as the density of fast food retailers, and thus, preventive health policies against childhood obesity must focus on the environment to which children are exposed. Currently, there are no systems in place to objectively measure the effect of living environment parameters on obesogenic behaviors and obesity. The H2020 project \u201cBigO: Big Data Against Childhood Obesity\u201d aims to tackle childhood obesity by creating new sources of evidence based on big data.Objective: This paper introduces the Obesity Prevention dashboard (OPdashboard), implemented in the context of BigO, which offers an interactive data platform for the exploration of objective obesity-related behaviors and local environments based on the data recorded using the BigO mHealth (mobile health) app.Methods: The OPdashboard, which can be accessed on the web, allows for (1) the real-time monitoring of children\u2019s obesogenic behaviors in a city area,(2) the extraction of associations between these behaviors and the local environment, and (3) the evaluation of interventions over time. More than 3700 children from 33 schools and 2 clinics in 5 European cities have been monitored using a custom-made mobile app created to extract behavioral patterns by capturing accelerometer and geolocation data. Online databases were assessed in order to obtain a description of the environment. The dashboard\u2019s functionality was evaluated during a focus group discussion with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "JMIR Publications Inc., Toronto, Canada"
+        },
+        {
+            "Title": "Developing a novel citizen-scientist smartphone app for collecting behavioral and affective data from children populations",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-49289-2_23",
+            "Abstract": "The paradigm of citizen-science, i.e., scientific research that is conducted in whole or in part by non-professional scientists, has gained popularity lately, e.g., for the purpose of crowdsourced data collection. Smartphones with their abundance and ubiquity are perfectly suited and have been widely used for crowdsourced data collection in real life settings. The ongoing, EC-funded research programme named BigO exploits the citizen-science paradigm to collect behavioral (eating, sleeping and physical activity) and affective (mood) data from children populations by means of a novel smartphone application with the intention of developing a decision support system to assist public health authorities in effective policy making against childhood obesity. This paper presents the development \u2013 in the context of BigO \u2013 of the myBigO app, one of the first citizen-scientist smartphone applications addressed to children for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Building parsimonious svm models for chewing detection and adapting them to the user",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-70742-6_38",
+            "Abstract": "Monitoring of eating activity is a well-established yet challenging problem. Various sensors have been proposed in the literature, including in-ear microphones, strain sensors, and photoplethysmography. Most of these approaches use detection algorithms that include machine learning; however, a universal, non user-specific model is usually trained from an available dataset for the final system. In this paper, we present a chewing detection system that can adapt to each user independently using active learning (AL) with minimal intrusiveness. The system captures audio from a commercial bone-conduction microphone connected to an Android smart-phone. We employ a state-of-the-art feature extraction algorithm and extend the Support Vector Machine (SVM) classification stage using AL. The effectiveness of the adaptable classification model can quickly converge to that achieved when using the entire \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Medical evaluation as gold standard to control iprognosis application derived data for early parkinson\u2019s disease detection",
+            "Publication year": 2019,
+            "Publication url": "http://www.i-prognosis.eu/wp-content/uploads/2019/11/Poster_iPrognosis_MDS-Nice-2019_FINAL.pdf",
+            "Abstract": "BackgroundThe research leading to these results has received funding from the European Unions Horizon 2020 research and innovation programme under grant agreement number 690494\u2013i-PROGNOSIS: Intelligent Parkinson early detection guiding novel supportive interventions.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Applying semantic technologies in cervical cancer research",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169023X13000220",
+            "Abstract": "In this paper we present a research system that follows a semantic approach to facilitate medical association studies in the area of cervical cancer. Our system, named ASSIST and developed as an EU research project, assists in cervical cancer research by unifying multiple patient record repositories, physically located in different medical centers or hospitals. Semantic modeling of medical data and rules for inferring domain-specific information allow the system to (i) homogenize the information contained in the isolated repositories by translating it into the terms of a unified semantic representation, (ii) extract diagnostic information not explicitly stored in the individual repositories, and (iii) automate the process of evaluating medical hypotheses by performing case\u2013control association studies, which is the ultimate goal of the system.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "IEEE INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND ENGINEERING",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7446795261766198145&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multiresolution Invariant Image Recognition",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780124438804500636",
+            "Abstract": "Multiresolution techniques are able to handle images or video object planes at different resolution levels, as well as generate invariant representations that can be combined with these techniques. Neural networks provide good classification capabilities, and thus, they constitute a very promising tool within the framework of moving picture expert group-4 (MPEG-4) and MPEG-7 activities. This chapter introduces multiresolution techniques for invariant image classification. It defines and proposes triple-correlation or cumulant-based neural networks. Appropriate clustering of third-order correlations of an image provides a representation that is invariant with respect to translation, rotation, scale, and insensitive to additive noise. An efficient implementation scheme is proposed in this chapter, derived on a two-angle image plane, to reduce the problem size, providing robustness to distortions of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Improved modeling of lane intensity profiles on gel electrophoresis images",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-13039-7_169",
+            "Abstract": "The quantitative information extraction from PCR-RFLP gel electrophoresis images requires the efficient modeling of the lane intensity profiles. To improve the acquired modeling accuracy, we introduce two novel ideas that can be incorporated in the modeling process. The first one proposes the use of the simplified integrated Weibull function as the basis function of the employed superposition model and the second proposes switching the domain of the intensity profile tobe-modeled to the unexploited fragment length domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient Indexing, Color Descriptors and Browsing in Image Databases",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4041971/",
+            "Abstract": "This work provides an experimental evaluation of various existing approaches for some of the major problems content based image retrieval applications are faced with. More specifically, global color representation, indexing and navigation methods are analyzed and insight is provided regarding their efficiency and applicability. Furthermore this paper proposes and evaluates the combined use of FastMap and kd-trees to enable accurate and fast retrieval in image databases",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An Iterative Method for 3 D Reconstruction under Orthography",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=873092414114123548&hl=en&oi=scholarr",
+            "Abstract": "Three-dimensional object reconstruction and the corre sponding estimation of motion and shape from two dimensional projections is a task of great importance in the fields of digital video processing, computer vision and specific areas of biomedicine, robotics, topography etc. Present work presents an iterative method for estimating the three-dimensional parameters needed for reconstruct ing the observed object. The geometric objects and their relationships have been modelled as elements of a 3D Geo metric Algebra. Extensive experiments indicate that the proposed algorithm is more robust to measurement noise - such as motion estimation errors - than traditional tools for extracting 'structure from motion' (SFM) under the or thography assumption.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fast geometric consistency test for real time logo detection",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7153636/",
+            "Abstract": "In this paper we present a method for logo detection in image collections and streams. The proposed method is based on features, extracted from reference logo images and test images. Extracted features are combined with respect to their similarity in their descriptors' space and afterwards with respect to their geometric consistency on the image plane. The contribution of this paper is a novel method for fast geometric consistency test. Using state of the art fast matching methods, it produces pairs of similar features between the test image and the reference logo image and then examines which pairs are forming a consistent geometry on both the test and the reference logo image. It is noteworthy that the proposed method is scale, rotation and translation invariant. The key advantage of the proposed method is that it exhibits a much lower computational complexity and better performance than the state of the art \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast supervised LDA for discovering micro-events in large-scale video datasets",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2964284.2967237",
+            "Abstract": "This paper introduces fsLDA, a fast variational inference method for supervised LDA, which overcomes the computational limitations of the original supervised LDA and enables its application in large-scale video datasets. In addition to its scalability, our method also overcomes the drawbacks of standard, unsupervised LDA for video, including its focus on dominant but often irrelevant video information (eg background, camera motion). As a result, experiments in the UCF11 and UCF101 datasets show that our method consistently outperforms unsupervised LDA in every metric. Furthermore, analysis shows that class-relevant topics of fsLDA lead to sparse video representations and encapsulate high-level information corresponding to parts of video events, which we denote\" micro-events\".",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated extraction of food intake indicators from continuous meal weight measurements",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-16480-9_4",
+            "Abstract": "Recent studies and clinical practice have shown that the extraction of detailed eating behaviour indicators is critical in identifying risk factors and/or treating obesity and eating disorders, such as anorexia and bulimia nervosa. A number of single meal analysis methods that have been successfully applied are based on the Mandometer, a weight scale that continuously measures the weight of food on a plate over the course of a meal. Experimental meal analysis is performed using the cumulative food intake curve, which is produced by the semi-automatic processing of the Mandometer weight measurements, in tandem with the video recordings of the eating session. Due to its complexity and the video recording dependence, this process is not suited to a clinical or a real-life setting.In this work, we evaluate a method for automating the extraction of an accurate food intake curve, corrected for food \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:UxriW0iASnsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Evaluation of the BigO system in a clinical setting in Greece",
+            "Publication year": 2021,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5347624808220443307&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:yB1At4FlUx8C",
+            "Publisher": "KARGER"
+        },
+        {
+            "Title": "Medical follow up assessments of iPrognosis application users for early Parkinson's disease detection",
+            "Publication year": 2020,
+            "Publication url": "https://www.prd-journal.com/article/S1353-8020(20)30332-1/abstract",
+            "Abstract": "Objective: Medical follow up assessments as gold standard for controlling iPrognosis application users derived data of an international multilingual study.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Are clickthrough data reliable as image annotations?",
+            "Publication year": 2009,
+            "Publication url": "https://www.academia.edu/download/39150563/00b7d5141f348bf746000000.pdf",
+            "Abstract": "We examine the reliability of clickthrough data as concept-based image annotations, by comparing them against manual annotations, for different concept categories. Our analysis shows that, for many concepts, the image annotations generated by using clickthrough data are reliable, with up to 90% of true positives in the automatically annotated images compared to the manual ground truth. Concept categories, though, do not provide additional evidence about the types of concepts for which clickthroughbased image annotation performs well.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HPVTyper: a software application for automatic HPV typing via PCR-RFLP gel electrophoresis",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=k5mfDwAAQBAJ&oi=fnd&pg=PA383&dq=info:Ree8jV-cbbUJ:scholar.google.com&ots=6jx3DMKYjs&sig=j7VEvgMq_IStkvlpSujZNn_r9I0",
+            "Abstract": "The human papillomavirus (HPV) has been proved to be a many-sided virus. Up to date, over 200 types of HPV have been reported, while ongoing research studies constantly discover new types of the virus. Recently, certain HPV types have been associated with the development of several cancer types (Parkin, 2006), including anal, vaginal, penile, oral, and pharyngeal cancer.The cervical cancer is currently the most prominent case of association between HPV and cancer. The persistent infection of the anogenital tract by a group of HPV types has been proved to be the main causal factor of cervical cancer (Bosch et al., 2002; Walboomers et al., 1999). This group of cervical cancer related types currently includes 30 to 40 types. However, not all the types in the group induce the same risk for the development of cervical cancer. In fact, virologists have classified the aforementioned types with respect to their oncogenic activity as low-risk, high-risk, and potentially high-risk (Mu\u00f1oz et al., 2003), while other HPV types remain unclassified.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "INTECH Open Access Publisher"
+        },
+        {
+            "Title": "Fast, robust and occlusion resilient motion based video segmentation",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7025892/",
+            "Abstract": "Segmentation using tracked points is an active research area with various applications in video processing. Many algorithms have been proposed and some have shown promising results. Nonetheless, most methods have overlooked the problem of object occlusion. For instance, two objects that move similarly before a partial occlusion, may be merged even if their motions differ afterwards. The occluded parts provide a spurious link that can lead to undersegmentation. In this paper, following the framework of previous work where a video is divided in subsequences, we focus on the negative effect of occlusions and propose a method that resolves such cases. We improve the quality and robustness of segmentation by rejecting noisy trajectories using the sparsity of reprojection error. Finally, we propose a new metric to measure the motion dissimilarity between segments. The experimental evaluation shows that our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic analysis of food intake and meal microstructure based on continuous weight measurements",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8306871/",
+            "Abstract": "The structure of the cumulative food intake (CFI) curve has been associated with obesity and eating disorders. Scales that record the weight loss of a plate from which a subject eats food are used for capturing this curve; however, their measurements are contaminated by additive noise and are distorted by certain types of artifacts. This paper presents an algorithm for automatically processing continuous in-meal weight measurements in order to extract the clean CFI curve and in-meal eating indicators, such as total food intake and food intake rate. The algorithm relies on the representation of the weight-time series by a string of symbols that correspond to events such as bites or food additions. A context-free grammar is next used to model a meal as a sequence of such events. The selection of the most likely parse tree is finally used to determine the predicted eating sequence. The algorithm is evaluated on a dataset \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Chewing detection from an in-ear microphone using convolutional neural networks",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8037060/",
+            "Abstract": "Detecting chewing sounds from a microphone placed inside the outer ear for eating behaviour monitoring still remains a challenging task. This is mainly due the difficulty in discriminating non-chewing sounds (e.g. speech or sounds caused by walking) from chews, as well as due to to the high variability of the chewing sounds of different food types. Most approaches rely on detecting distictive structures on the sound wave, or on extracting a set of features and using a classifier to detect chews. In this work, we propose to use feature-learning in the time domain with 1-dimensional convolutional neural networks for for chewing detection. We apply a network of convolutional layers followed by fully connected layers directly on windows of the audio samples to detect chewing activity, and then aggregate individual chews to eating events. Experimental results on a large, semi-free living dataset collected in the context of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An Intelligent System for Archiving and Retrieval of Audiovisual Material Based on the MPEG-7 Description Schemes",
+            "Publication year": 2001,
+            "Publication url": "https://www.academia.edu/download/3246594/C4.pdf",
+            "Abstract": "A system for digitization, storage and retrieval of audiovisual information and its associated data (metainfo) is presented. The principles of the evolving MPEG-7 standard have been adopted for the creation the data model used by the system, permitting efficient separation of database design, content description, business logic and presentation of query results. XML Schema is used in defining the data model, and XML in describing audiovisual content. Issues regarding problems that emerged during system design and their solutions are discussed, such as customization, deviations from the standard MPEG-7 DSs or even the design of entirely custom DSs. Although the system includes modules for digitization, annotation, archiving and intelligent data mining, the paper mainly focuses on the use of MPEG-7 as the information model.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Learning local feature aggregation functions with backpropagation",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8081307/",
+            "Abstract": "This paper introduces a family of local feature aggregation functions and a novel method to estimate their parameters, such that they generate optimal representations for classification (or any task that can be expressed as a cost function minimization problem). To achieve that, we compose the local feature aggregation function with the classifier cost function and we backpropagate the gradient of this cost function in order to update the local feature aggregation function parameters. Experiments on synthetic datasets indicate that our method discovers parameters that model the class-relevant information in addition to the local feature space. Further experiments on a variety of motion and visual descriptors, both on image and video datasets, show that our method outperforms other state-of-the-art local feature aggregation functions, such as Bag of Words, Fisher Vectors and VLAD, by a large margin.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:geHnlv5EZngC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Canopy Height Estimation from Single Multispectral 2D Airborne Imagery Using Texture Analysis and Machine Learning in Structurally Rich Temperate Forests",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/585598",
+            "Abstract": "Canopy height is a fundamental biophysical and structural parameter, crucial for biodiversity monitoring, forest inventory and management, and a number of ecological and environmental studies and applications. It is a determinant for linking the classification of land cover to habitat categories towards building one-to-one relationships. Light detection and ranging (LiDAR) or 3D Stereoscopy are the commonly used and most accurate remote sensing approaches to measure canopy height. However, both require significant time and budget resources. This study proposes a cost-effective methodology for canopy height approximation using texture analysis on a single 2D image. An object-oriented approach is followed using land cover (LC) map as segmentation vector layer to delineate landscape objects. Global texture feature descriptors are calculated for each land cover object and used as variables in a number of classifiers, including single and ensemble trees, and support vector machines. The aim of the analysis is the discrimination among classes in a wide range of height values used for habitat mapping (from less than 5 cm to 40 m). For that task, different spatial resolutions are tested, representing a range from airborne to spaceborne quality ones, as well as their combinations, forming a multiresolution training set. Multiple dataset alternatives are formed based on the missing data handling, outlier removal, and data normalization techniques. The approach was applied using orthomosaics from DMC II airborne images, and evaluated against a reference LiDAR-derived canopy height model (CHM). Results reached overall object-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "A data driven end-to-end approach for in-the-wild monitoring of eating behavior using smartwatches",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9056472/",
+            "Abstract": "The increased worldwide prevalence of obesity has sparked the interest of the scientific community towards tools that objectively and automatically monitor eating behavior. Despite the study of obesity being in the spotlight, such tools can also be used to study eating disorders (e.g. anorexia nervosa) or provide a personalized monitoring platform for patients or athletes. This paper presents a complete framework towards the automated i) modeling of in-meal eating behavior and ii) temporal localization of meals, from raw inertial data collected in-the-wild using commercially available smartwatches. Initially, we present an end-to-end Neural Network which detects food intake events (i.e. bites). The proposed network uses both convolutional and recurrent layers that are trained simultaneously. Subsequently, we show how the distribution of the detected bites throughout the day can be used to estimate the start and end \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:N5tVd3kTz84C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Recognition of food-texture attributes using an in-ear microphone",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2105.09621",
+            "Abstract": "Food texture is a complex property; various sensory attributes such as perceived crispiness and wetness have been identified as ways to quantify it. Objective and automatic recognition of these attributes has applications in multiple fields, including health sciences and food engineering. In this work we use an in-ear microphone, commonly used for chewing detection, and propose algorithms for recognizing three food-texture attributes, specifically crispiness, wetness (moisture), and chewiness. We use binary SVMs, one for each attribute, and propose two algorithms: one that recognizes each texture attribute at the chew level and one at the chewing-bout level. We evaluate the proposed algorithms using leave-one-subject-out cross-validation on a dataset with 9 subjects. We also evaluate them using leave-one-food-type-out cross-validation, in order to examine the generalization of our approach to new, unknown food types. Our approach performs very well in recognizing crispiness (0.95 weighted accuracy on new subjects and 0.93 on new food types) and demonstrates promising results for objective and automatic recognition of wetness and chewiness.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Minimizing uncertainty in semantic identification when computing resources are limited",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11550907_129",
+            "Abstract": "In this paper we examine the problem of automatic semantic identification of entities in multimedia documents from a computing point of view. Specifically, we identify as main points to consider the storage of the required knowledge and the computational complexity of the handling of the knowledge as well as of the actual identification process. In order to tackle the above we utilize (i) a sparse representation model for storage, (ii) a novel transitive closure algorithm for handling and (iii) a novel approach to identification that allows for the specification of computational boundaries.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "BigO: A public health decision support system for measuring obesogenic behaviors of children in relation to their local environment",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9175361/",
+            "Abstract": "Obesity is a complex disease and its prevalence depends on multiple factors related to the local socioeconomic, cultural and urban context of individuals. Many obesity prevention strategies and policies, however, are horizontal measures that do not depend on context-specific evidence. In this paper we present an overview of BigO (http://bigoprogram.eu), a system designed to collect objective behavioral data from children and adolescent populations as well as their environment in order to support public health authorities in formulating effective, context-specific policies and interventions addressing childhood obesity. We present an overview of the data acquisition, indicator extraction, data exploration and analysis components of the BigO system, as well as an account of its preliminary pilot application in 33 schools and 2 clinics in four European countries, involving over 4,200 participants.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detecting meals in the wild using the inertial data of a typical smartwatch",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8857275/",
+            "Abstract": "Automated and objective monitoring of eating behavior has received the attention of both the research community and the industry over the past few years. In this paper we present a method for automatically detecting meals in free living conditions, using the inertial data (acceleration and orientation velocity) from commercially available smartwatches. The proposed method operates in two steps. In the first step we process the raw inertial signals using an End-to-End Neural Network with the purpose of detecting the bite events throughout the recording. During the next step, we process the resulting bite detections using signal processing algorithms to obtain the final meal start and end timestamp estimates. Evaluation results obtained from our Leave One Subject Out experiments using our publicly available FIC and FreeFIC datasets, exhibit encouraging results by achieving an F1/Average Jaccard Index of 0.894/0.804.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:_B80troHkn4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Indexing and browsing of color images: Design considerations",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-76361_16",
+            "Abstract": "This chapter deals with the various problems and decisions associated with the design of a content based image retrieval system. Image descriptors and descriptor similarity measures, indexing data structures and navigation approaches are examined through the evaluation of a set representative methods. Insight is provided regarding their efficiency and applicability. Furthermore the accuracy of using low dimensional FastMap point configurations for indexing is extensively evaluated through a set of experiments. While it is out of the scope of this chapter to offer a review of state of the art techniques in the problems above, the results presented aim at assisting in the design and development of practical, usable and possibly large scale image databases.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Motion segmentation via overlapping temporal windows",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6738873/",
+            "Abstract": "In this paper we present a novel approach to motion segmentation. Initially, the video sequence is divided in overlapping temporal windows. Our algorithm performs over-segmentation on each window separately. Concretely, quadruples of trajectories are used as motion subspaces and the Ordered Residual Kernel is employed as an affinity metric between trajectories. The corresponding graph of the computed affinity matrix is partitioned via a random walk algorithm. A motion dissimilarity score is proposed to correlate the computed segments as well as a merging mechanism that fuses the individual segmentation results of successive windows. Experiments on the Berkeley motion segmentation dataset demonstrate the scalability and accuracy of our method compared to the existing approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The MUG facial expression database",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5617662/",
+            "Abstract": "This paper presents a new extended collection of posed and induced facial expression image sequences. All sequences were captured in a controlled laboratory environment with high resolution and no occlusions. The collection consists of two parts: The first part depicts eighty six subjects performing the six basic expressions according to the \u201cemotion prototypes\u201d as defined in the Investigator's Guide in the FACS manual. The second part contains the same subjects recorded while they were watching an emotion inducing video. Most of the database recordings are available to the scientific community. Beyond the emotion related annotation the database contains also manual and automatic annotation of 80 facial landmark points for a significant number of frames. The database contains sufficient material for the development and the statistical evaluation of facial expression recognition systems using posed and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Online training of concept detectors for image retrieval using streaming clickthrough data",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S095219761600021X",
+            "Abstract": "Clickthrough data from image search engines provide a massive and continuously generated source of user feedback that can be used to model how the search engine users perceive the visual content. Image clickthrough data have been successfully used to build concept detectors without any manual annotation effort, although the generated annotations suffer from labeling errors. Previous research efforts therefore focused on modeling the sample uncertainty in order to improve concept detector effectiveness. In this paper, we study the problem in an online learning setting using streaming clickthrough data where each click is treated seperately when it becomes available; the concept detector model is therefore continuously updated without batch retraining. We argue that sample uncertainty can be incorporated in the online learning setting by exploiting the repetitions of incoming clicks at the classifier level \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Self-Supervised Feature Learning of 1D Convolutional Neural Networks with Contrastive Loss for Eating Detection Using an In-Ear Microphone",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2108.00769",
+            "Abstract": "The importance of automated and objective monitoring of dietary behavior is becoming increasingly accepted. The advancements in sensor technology along with recent achievements in machine-learning--based signal-processing algorithms have enabled the development of dietary monitoring solutions that yield highly accurate results. A common bottleneck for developing and training machine learning algorithms is obtaining labeled data for training supervised algorithms, and in particular ground truth annotations. Manual ground truth annotation is laborious, cumbersome, can sometimes introduce errors, and is sometimes impossible in free-living data collection. As a result, there is a need to decrease the labeled data required for training. Additionally, unlabeled data, gathered in-the-wild from existing wearables (such as Bluetooth earbuds) can be used to train and fine-tune eating-detection models. In this work, we focus on training a feature extractor for audio signals captured by an in-ear microphone for the task of eating detection in a self-supervised way. We base our approach on the SimCLR method for image classification, proposed by Chen et al. from the domain of computer vision. Results are promising as our self-supervised method achieves similar results to supervised training alternatives, and its overall effectiveness is comparable to current state-of-the-art methods. Code is available at https://github.com/mug-auth/ssl-chewing .",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient optical camera tracking in virtual sets",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/913595/",
+            "Abstract": "Optical tracking systems have become particularly popular in virtual studios applications tending to substitute electromechanical ones. However, optical systems are reported to be inferior in terms of accuracy in camera motion estimation. Moreover, marker-based approaches often cause problems in image/video compositing and impose undesirable constraints on camera movement, present work introduces a novel methodology for the construction of a two-tone blue screen, which allows the localization of camera in three-dimensional (3-D) space on the basis of the captured sequence. At the same time, a novel algorithm is presented for the extraction of camera's 3-D motion parameters based on 3-D-to-two-dimensional (2-D) line correspondences. Simulated experiments have been included to illustrate the performance of the proposed system.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Multimedia Understanding Group at TRECVID 2010.",
+            "Publication year": 2010,
+            "Publication url": "https://www.academia.edu/download/39150544/00b7d5141f34b89fb8000000.pdf",
+            "Abstract": "This is a report of the Multimedia Understanding Group participation in TRECVID-2010, where we submitted full runs for the Semantic Indexing (SIN) task. Our submission aims at experimentally evaluating three research items, that are important for work that is currently in progress. First, we examine the use of bag-of-words audio features for video concept detection, with noisy and/or low-quality video data. Although audio is important for some concepts and has shown promising results at other datasets, the results indicate that it can also lead to a decrease in performance when the quality is low and the negative examples are not adequately represented. We also explore the possibility of using a cross-domain concept fusion approach for reducing the number of dimensions at the final classifier. The corresponding experiments show, however, that when drastically reducing the number of dimensions the effectiveness drops. Finally, we also examined a transformation of the feature space, using a set of functions that are parametrically constructed from the data.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Space-Time Tubes and Motion Representation",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-34224-9_68",
+            "Abstract": "Space-time tubes, a feature that can be used for analysis of motion based on the observed moving points in a scene is introduced. Information provided by sensors is used to detect moving points and based on their connectivity, tubes enable a structured approach towards identifying moving objects and high level events. It is shown that using tubes in conjunction with domain knowledge can overcome errors caused by the inaccuracy or inadequacy of the original motion information. The detected high level events can then be mapped to small natural language descriptions of object motion in the scene.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Silhouette completion in DIBR with the help of skeletal tracking",
+            "Publication year": 2015,
+            "Publication url": "http://vivliothmmy2.ee.auth.gr/wp-content/uploads/participants-database/kasimidou_eleftheria_dibr.pdf",
+            "Abstract": "The present work explores the image completion problem in Multiview. More specifically, the aim is to reduce artifacts on the human figures in a scene (foreground), unlike other methods which target the background. Skeletal tracking is for the first time used to guide the image completion process, referred to as silhouette completion, as a tool to bypass occlusions. One reference viewpoint is primarily used in the view synthesis stage. The proposed algorithms are used as a complement to the general image completion methods\u2013the latter ones handle the background and the former ones the foreground.Two approaches are examined and implemented. An initial stage for both approaches, exploits the skeleton to detect any discontinuities in the figure. Parts that are not missing but filled with background pixels and, therefore, would not get inpainted by a conventional method, are now detected and a mask is formed there. In the first approach\u2013\u2018silhouette completion via inpainting\u2019\u2013an orientation term is introduced in priority computation to favor patches with structures parallel to the skeleton. In this way, appropriate structures can propagate and complete the figure naturally. In the second approach\u2013\u2018silhouette completion with one plus view\u2019\u2013the mask is formed in the same way as described above. However, it is filled in not via inpainting but with the corresponding information from a camera on the opposite side of the reference view instead. In this case, only the information contained in the mask is required to complete the silhouette. It can be an interesting alternative to the two-view approach in view synthesis in cases where the center of attention is on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Developing a Novel Citizen-Scientist Smartphone App for Collecting Behavioral and Affective Data from Children Populations",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=GsXnDwAAQBAJ&oi=fnd&pg=PA294&dq=info:zhx2RnoTdnAJ:scholar.google.com&ots=trANFUkfdn&sig=K_4s1rG06F-4UpDMb7BuVAQ0oPc",
+            "Abstract": "The paradigm of citizen-science, ie, scientific research that is conducted in whole or in part by non-professional scientists, has gained popularity lately, eg, for the purpose of crowdsourced data collection. Smartphones with their abundance and ubiquity are perfectly suited and have been widely used for crowdsourced data collection in real life settings. The ongoing, EC-funded research programme named BigO exploits the citizen-science paradigm to collect behavioral (eating, sleeping and physical activity) and affective (mood) data from children populations by means of a novel smartphone application with the intention of developing a decision support system to assist public health authorities in effective policy making against childhood obesity. This paper presents the development\u2013in the context of BigO\u2013of the myBigO app, one of the first citizen-scientist smartphone applications addressed to children for behavioral and affective data collection. This includes the design, implementation, and deployment of myBigO app in a number of data collection studies as well as its preliminary evaluation with respect to technical robustness and user experience in the context of these studies.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "A parametric Probabilistic Context-Free Grammar for food intake analysis based on continuous meal weight measurements",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7320212/",
+            "Abstract": "Monitoring and modification of eating behaviour through continuous meal weight measurements has been successfully applied in clinical practice to treat obesity and eating disorders. For this purpose, the Mandometer, a plate scale, along with video recordings of subjects during the course of single meals, has been used to assist clinicians in measuring relevant food intake parameters. In this work, we present a novel algorithm for automatically constructing a subject's food intake curve using only the Mandometer weight measurements. This eliminates the need for direct clinical observation or video recordings, thus significantly reducing the manual effort required for analysis. The proposed algorithm aims at identifying specific meal related events (e.g. bites, food additions, artifacts), by applying an adaptive pre-processing stage using Delta coefficients, followed by event detection based on a parametric Probabilistic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:XiSMed-E-HIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An Ontology for Supporting Clinical Research on Cervical Cancer.",
+            "Publication year": 2009,
+            "Publication url": "http://olympus.ee.auth.gr/~chmaramis/website/documents/keod2009.pdf",
+            "Abstract": "Manolis Falelakisa, b, Christos Maramisa, b, Irini Lekkac, Pericles A. Mitkasa, b and Anastasios Delopoulosa, b a. Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki b. Informatics and Telematics Institute, Centre for Research and Technology Hellas c. School of Medicine, Aristotle University of Thessaloniki {manf, chmaramis}@ mug. ee. auth. gr, lekka@ med. auth. gr,{mitkas, adelo}@ eng. auth. gr",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reliability and effectiveness of clickthrough data for automatic image annotation",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-010-0584-1",
+            "Abstract": "Automatic image annotation using supervised learning is performed by concept classifiers trained on labelled example images. This work proposes the use of clickthrough data collected from search logs as a source for the automatic generation of concept training data, thus avoiding the expensive manual annotation effort. We investigate and evaluate this approach using a collection of 97,628 photographic images. The results indicate that the contribution of search log based training data is positive despite their inherent noise; in particular, the combination of manual and automatically generated training data outperforms the use of manual data alone. It is therefore possible to use clickthrough data to perform large-scale image annotation with little manual annotation effort or, depending on performance, using only the automatically generated training data. An extensive presentation of the experimental \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Personalised meal eating behaviour analysis via semi-supervised learning",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8513174/",
+            "Abstract": "Automated monitoring and analysis of eating behaviour patterns, i.e., \u201chow one eats\u201d, has recently received much attention by the research community, owing to the association of eating patterns with health-related problems and especially obesity and its comorbidities. In this work, we introduce an improved method for meal micro-structure analysis. Stepping on a previous methodology of ours that combines feature extraction, SVM micro-movement classification and LSTM sequence modelling, we propose a method to adapt a pretrained IMU-based food intake cycle detection model to a new subject, with the purpose of improving model performance for that subject. We split model training into two stages. First, the model is trained using standard supervised learning techniques. Then, an adaptation step is performed, where the model is fine-tuned on unlabeled samples of the target subject via semisupervised \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Least squares estimation of 3D shape and motion of rigid objects from their orthographic projections",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/845382/",
+            "Abstract": "The extraction of motion and shape information of three-dimensional objects from their two-dimensional projections is a task that emerges in various applications such as computer vision, biomedical engineering, and video coding and mining especially after the recent guidelines of the Motion Pictures Expert Group regarding MPEG-4 and MPEG-7 standards. Present work establishes a novel approach for extracting the motion and shape parameters of a rigid three-dimensional object on the basis of its orthographic projections and the associated motion field. Experimental results have been included to verify the theoretical analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A novel chewing detection system based on ppg, audio, and accelerometry",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7736096/",
+            "Abstract": "In the context of dietary management, accurate monitoring of eating habits is receiving increased attention. Wearable sensors, combined with the connectivity and processing of modern smartphones, can be used to robustly extract objective and real-time measurements of human behavior. In particular, for the task of chewing detection, several approaches based on an in-ear microphone can be found in the literature, while other types of sensors have also been reported, such as strain sensors. In this paper, performed in the context of the SPLENDID project, we propose to combine an in-ear microphone with a photoplethysmography (PPG) sensor placed in the ear concha, in a new high accuracy and low sampling rate prototype chewing detection system. We propose a pipeline that initially processes each sensor signal separately, and then fuses both to perform the final detection. Features are extracted from each \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Novel e-health applications for the management of cardiometabolic risk factors in children and adolescents in Greece",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/713782",
+            "Abstract": "Obesity in childhood and adolescence represents a major health problem. Novel e-Health technologies have been developed in order to provide a comprehensive and personalized plan of action for the prevention and management of overweight and obesity in childhood and adolescence. We used information and communication technologies to develop a \u201cNational Registry for the Prevention and Management of Overweight and Obesity\u201d in order to register online children and adolescents nationwide, and to guide pediatricians and general practitioners regarding the management of overweight or obese subjects. Furthermore, intelligent multi-level information systems and specialized artificial intelligence algorithms are being developed with a view to offering precision and personalized medical management to obese or overweight subjects. Moreover, the Big Data against Childhood Obesity platform records behavioral data objectively by using inertial sensors and Global Positioning System (GPS) and combines them with data of the environment, in order to assess the full contextual framework that is associated with increased body mass index (BMI). Finally, a computerized decision-support tool was developed to assist pediatric health care professionals in delivering personalized nutrition and lifestyle optimization advice to overweight or obese children and their families. These e-Health applications are expected to play an important role in the management of overweight and obesity in childhood and adolescence. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Complexity control in semantic identification",
+            "Publication year": 2006,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2006.009907",
+            "Abstract": "This work introduces an efficient scheme for identifying semantic entities within multimedia data sets, providing mechanisms for modelling the trade-off between the accuracy of the result and the entailed computational cost. Semantic entities are described through formal definitions based on lower-level semantic and/or syntactic features. Based on appropriate metrics, the paper presents a methodology for selecting optimal subsets of syntactic features to extract, so that satisfactory results are obtained, while complexity remains below some required limit.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "End-to-end Learning for Measuring in-meal Eating Behavior from a Smartwatch",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8513627/",
+            "Abstract": "In this paper, we propose an end-to-end neural network (NN) architecture for detecting in-meal eating events (i.e., bites), using only a commercially available smartwatch. Our method combines convolutional and recurrent networks and is able to simultaneously learn intermediate data representations related to hand movements, as well as sequences of these movements that appear during eating. A promising F-score of 0.884 is achieved for detecting bites on a publicly available dataset with 10 subjects.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "D3. 2 Formal ontology for the eating and activity behaviour domain",
+            "Publication year": 2014,
+            "Publication url": "https://splendid-program.eu/public-delivs/D3.2_Formal%20ontology%20for%20the%20eating%20and%20activity%20behaviour_v1.pdf",
+            "Abstract": "This deliverable documents the initial outcomes of Task 3.2 of the SPLENDID project (entitled \u201cGoal semantics expression and monitoring\u201d). More specifically, it focuses on i) formally expressing the entities involved in the various phases of SPLENDID operation via a prototype ontology for the eating and activity behaviour domain ii) defining a formal language for expressing goals to be used during Personalised Guidance Events (cf deliverable D1. 1 and D1. 2 for details) and iii) documenting the use of a prototype software tool for parsing and validating goals expressed in the goal language.AUTH developed the SPLENDID ontology based on the Use Case analysis of Deliverable D1. 2 (\u201cUse Cases Specifications\u201d) and the Functional Requirements of Deliverable D1. 1 (\u201cUser Requirements\u201d). These deliverables provided the necessary groundwork for the identification of the ontology classes, their properties and the relations between them. Each class and property of the ontology is thoroughly documented, both in this document as well as via built-in annotations in the prototype. In addition, this document also provides detailed examples on how to define data/storage models and communication interfaces based on the ontology.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multimedia Coding Techniques for Wireless Networks",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=L_FiQHhGSRsC&oi=fnd&pg=PA17&dq=info:ZqnLxSZNl0kJ:scholar.google.com&ots=YiHxS8rEaP&sig=xXPW_vjJsjpXS3qdSe5cQX-UqNo",
+            "Abstract": "All types of information that can be captured by human perception, and can be handled by human made devices are collectively assigned the term multimedia content. This broad definition of multimedia includes text, audio (speech, music), images, video and even other types of signals such as bio-signals, temperature and pressure recordings, etc. Limiting the types of human perception mechanisms to vision and hearing senses yields a somehow narrower definition of multimedia content that is closer to the scope of multimedia in our everyday or commercial language. If, in addition, we stick to only those information types that can be handled by computer-like devices we come up with the class of digital multimedia content. These include text, digital audio (including digital speech), digital images and video.Although some of the concepts presented in this chapter are easily extendable to all types of digital multimedia content, we shall focus on speech and video. The reason of adopting this restrictive approach is that these two modalities (i) constitute the vast amount of data transmitted over wireless channels;(ii) they both share the need to be streamed through these channels and (iii) much of the research and standardization activities have been aimed at their efficient transmission. Speech is generated by the excitation by the vocal track of the air coming from the lungs in a controlled manner. This excitation produces time varying air pressure in the neighborhood of the mouth in the form of propagating acoustic waves that could be captured by human ears. Digital speech is the recording\u2013in the form of a sequence of samples\u2013of this time varying \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "John Wiley & Sons, Ltd"
+        },
+        {
+            "Title": "Objective measures of eating behaviour in a Swedish high school",
+            "Publication year": 2017,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2017.1322146",
+            "Abstract": "Studying eating behaviours is important in the fields of eating disorders and obesity. However, the current methodologies of quantifying eating behaviour in a real-life setting are lacking, either in reliability (e.g. self-reports) or in scalability. In this descriptive study, we deployed previously evaluated laboratory-based methodologies in a Swedish high school, using the Mandometer\u00ae, together with video cameras and a dedicated mobile app in order to record eating behaviours in a sample of 41 students, 16\u201317 years old. Without disturbing the normal school life, we achieved a 97% data-retention rate, using methods fully accepted by the target population. The overall eating style of the students was similar across genders, with male students eating more than females, during lunches of similar lengths. While both groups took similar number of bites, males took larger bites across the meal. Interestingly, the recorded \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Multiple-instance learning for in-the-wild Parkinsonian tremor detection",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8856314/",
+            "Abstract": "Parkinson's Disease (PD) is a neurodegenerative disorder that manifests through slowly progressing symptoms, such as tremor, voice degradation and bradykinesia. Automated detection of such symptoms has recently received much attention by the research community, owing to the clinical benefits associated with the early diagnosis of the disease. Unfortunately, most of the approaches proposed so far, operate under a strictly laboratory setting, thus limiting their potential applicability in real world conditions. In this work, we present a method for automatically detecting tremorous episodes related to PD, based on acceleration signals. We propose to address the problem at hand, as a case of Multiple-Instance Learning, wherein a subject is represented as an unordered bag of signal segments and a single, expert-provided, ground-truth. We employ a deep learning approach that combines feature learning and a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Inferring the spatial distribution of physical activity in children population from characteristics of the environment",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9176246/",
+            "Abstract": "Obesity affects a rising percentage of the children and adolescent population, contributing to decreased quality of life and increased risk for comorbidities. Although the major causes of obesity are known, the obesogenic behaviors manifest as a result of complex interactions of the individual with the living environment. For this reason, addressing childhood obesity remains a challenging problem for public health authorities. The BigO project (https://bigoprogram.eu) relies on large-scale behavioral and environmental data collection to create tools that support policy making and intervention design. In this work, we propose a novel analysis approach for modeling the expected population behavior as a function of the local environment. We experimentally evaluate this approach in predicting the expected physical activity level in small geographic regions using urban environment characteristics. Experiments on data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Bottom-up method Towards the Automatic and Objective Monitoring of Smoking Behavior In-the-wild using Wrist-mounted Inertial Sensors",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2109.03475",
+            "Abstract": "The consumption of tobacco has reached global epidemic proportions and is characterized as the leading cause of death and illness. Among the different ways of consuming tobacco (e.g., smokeless, cigars), smoking cigarettes is the most widespread. In this paper, we present a two-step, bottom-up algorithm towards the automatic and objective monitoring of cigarette-based, smoking behavior during the day, using the 3D acceleration and orientation velocity measurements from a commercial smartwatch. In the first step, our algorithm performs the detection of individual smoking gestures (i.e., puffs) using an artificial neural network with both convolutional and recurrent layers. In the second step, we make use of the detected puff density to achieve the temporal localization of smoking sessions that occur throughout the day. In the experimental section we provide extended evaluation regarding each step of the proposed algorithm, using our publicly available, realistic Smoking Event Detection (SED) and Free-living Smoking Event Detection (SED-FL) datasets recorded under semi-controlled and free-living conditions, respectively. In particular, leave-one-subject-out (LOSO) experiments reveal an F1-score of 0.863 for the detection of puffs and an F1-score/Jaccard index equal to 0.878/0.604 towards the temporal localization of smoking sessions during the day. Finally, to gain further insight, we also compare the puff detection part of our algorithm with a similar approach found in the recent literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detection and Classification of Facades.",
+            "Publication year": 2013,
+            "Publication url": "https://www.scitepress.org/Papers/2013/42835/42835.pdf",
+            "Abstract": "This paper presents a framework that exploits the expressive power of probabilistic geometric grammars to cope with the task of facade classification. In particular, we work on a dataset of rectified facades and we attempt to discover the origin of a number of query facade segments, contaminated with noise. The building block of our description are the windows of the facade. To this direction we develop an algorithm that achieves to accurately detect them. Our core contribution though, lies on the probabilistic manipulation of the geometry of the detected windows. In particular, we propose a simple probabilistic grammar to model this geometry and we propose a methodology for learning the parameters of the grammar from a single instance of each facade through a MAP estimation procedure. The produced generative model is essentially a detector of the particular facade. After producing one model per facade in our dataset, we proceed with the classification of the query segments. Promising results indicate that the simultaneous use of an appearance model together with our geometric formulation always achieved superior classification rates than the exclusive use of the appearance model itself, justifying the value of probabilistic geometric grammars for the task of facade classification.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Integrating multimedia archives: The architecture and the content layer",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1561472/",
+            "Abstract": "In the last few years, numerous multimedia archives have made extensive use of digitized storage and annotation technologies. Still, the development of single points of access, providing common and uniform access to their data, despite the efforts and accomplishments of standardization organizations, has remained an open issue as it involves the integration of various large-scale heterogeneous and heterolingual systems. This paper describes a mediator system that achieves architectural integration through an extended three-tier architecture and content integration through semantic modeling. The described system has successfully integrated five multimedia archives, quite different in nature and content from each other, while also providing easy and scalable inclusion of more archives in the future.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards unobtrusive Parkinson\u2019s disease detection via motor symptoms severity inference from multimodal smartphone-sensor data",
+            "Publication year": 2019,
+            "Publication url": "http://www.i-prognosis.eu/wp-content/uploads/2019/11/Poster_Nice.pdf",
+            "Abstract": "ObjectiveTo provide clinically-corroborated evidence of the Parkinson\u2019s disease (PD) diagnostic potential of machine learning-based approaches for motor symptoms severity inference via multimodal data, passively captured during the natural use of smartphones.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "WILEY"
+        },
+        {
+            "Title": "Efficient quantitative information extraction from PCR-RFLP gel electrophoresis images",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5595784/",
+            "Abstract": "For the purpose of PCR-RFLP analysis, as in the case of human papillomavirus (HPV) typing, quantitative information needs to be extracted from images resulting from one-dimensional gel electrophoresis by associating the image intensity with the concentration of biological material at the corresponding position on a gel matrix. However, the background intensity of the image stands in the way of quantifying this association. We propose a novel, efficient methodology for modeling the image background with a polynomial function and prove that this can benefit the extraction of accurate information from the lane intensity profile when modeled by a superposition of properly shaped parametric functions.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SPLENDID: PREVENTING OBESITY AND EATING DISORDERS THROUGH BEHAVIOURAL MONITORING AND NORMALIZATION",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14064388625111625707&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "WILEY-BLACKWELL"
+        },
+        {
+            "Title": "An application for semi-automatic HPV typing of PCR-RFLP images",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-13775-4_18",
+            "Abstract": "The human papillomavirus, coming in over 100 flavors/types, is the causal factor of cervical cancer. The identification of the types that have infected the cervix of a patient is a very laborious yet critical task for molecular biologists that is still performed manually. HPVTyper is a novel research software application that assists biologists by analyzing digitized images of electrophorized gel matrices that contain cervical samples processed by the PCR-RFLP technique in order to semi-automatically identify the existing types of the virus. HPVTyper has been designed to be functional under minimum user input conditions and yet to allow the user to intervene in any step of the typing procedure.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An intelligent system for retrieval and mining of audiovisual material based on the MPEG-7 description schemes",
+            "Publication year": 2001,
+            "Publication url": "http://www.image.ntua.gr/iva/files/An%20Intelligent%20System%20for%20Retrieval%20and%20Mining%20of%20Audiovisual%20Material%20Based%20on%20the%20MPEG-7%20Description%20Schemes%20-%20G.%20Akrivas2001.pdf",
+            "Abstract": "A system for digitization, storage and retrieval of audiovisual information and its associated data (metainfo) is presented. The principles of the evolving MPEG-7 standard have been adopted for the creation of the data model used by the system, permitting efficient separation of database des ign, content description, business logic and presentation of query results. XML Schema is used in defining the data model and XML in describing audiovisual content. Issues regarding problems that emerged during system design and their solutions are discussed, such as customization, deviations from the standard MPEG-7 DSs or even the design of entirely custom DSs. Although the system includes modules for digitization, annotation, archiving and intelligent data mining, the paper mainly focuses on the use of MPEG-7 as the information model.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Modeling wrist micromovements to measure in-meal eating behavior from inertial sensor data",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8606156/",
+            "Abstract": "Overweight and obesity are both associated with in-meal eating parameters such as eating speed. Recently, the plethora of available wearable devices in the market ignited the interest of both the scientific community and the industry toward unobtrusive solutions for eating behavior monitoring. In this paper, we present an algorithm for automatically detecting the in-meal food intake cycles using the inertial signals (acceleration and orientation velocity) from an off-the-shelf smartwatch. We use five specific wrist micromovements to model the series of actions leading to and following an intake event (i.e., bite). Food intake detection is performed in two steps. In the first step, we process windows of raw sensor streams and estimate their micromovement probability distributions by means of a convolutional neural network. In the second step, we use a long short-term memory network to capture the temporal evolution and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Bite-Weight Estimation Using Commercial Ear Buds",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2108.00771",
+            "Abstract": "While automatic tracking and measuring of our physical activity is a well established domain, not only in research but also in commercial products and every-day life-style, automatic measurement of eating behavior is significantly more limited. Despite the abundance of methods and algorithms that are available in bibliography, commercial solutions are mostly limited to digital logging applications for smart-phones. One factor that limits the adoption of such solutions is that they usually require specialized hardware or sensors. Based on this, we evaluate the potential for estimating the weight of consumed food (per bite) based only on the audio signal that is captured by commercial ear buds (Samsung Galaxy Buds). Specifically, we examine a combination of features (both audio and non-audio features) and trainable estimators (linear regression, support vector regression, and neural-network based estimators) and evaluate on an in-house dataset of 8 participants and 4 food types. Results indicate good potential for this approach: our best results yield mean absolute error of less than 1 g for 3 out of 4 food types when training food-specific models, and 2.1 g when training on all food types together, both of which improve over an existing literature approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:z_wVstp3MssC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Incorporating higher order models for occlusion resilient motion segmentation in streaming videos",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885615000128",
+            "Abstract": "Video segmentation is a fundamental problem in computer vision and aims to extract meaningful entities from a video. One of the most useful cues in this quest is motion as is described by the trajectories of tracked points. In this paper we present a motion segmentation method attempting to address some of the major issues in the area. Namely, we propose an efficient framework where more complex motion models can be seamlessly integrated both maintaining computational tractability and not penalizing non translational motion. Moreover, we expose in depth the problem of object leakage due to occlusion and highlight that motion segmentation could be treated as a graph coloring problem. Our algorithm uses an approach based on graph theory and resolves occlusion cases in a robust manner. To endow our method with scalability, we follow the previously presented subsequence architecture and test it in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:dshw04ExmUIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Preventing obesity and eating disorders through behavioural modifications: The SPLENDID vision",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7015895/",
+            "Abstract": "Recent intensive research in the fields of obesity and eating disorders has proved most traditional interventions inadequate: The obesity-targeting interventions have either failed or are strongly social context dependent, while the interventions for eating disorders have poor results and high levels of relapse. On the contrary, recent randomized control trials have illustrated that supervised training of patients to eat and move in a non-pathological way is effective in the prevention of both obesity and eating disorders. Applying the same kind of methodologies to the general population in real life conditions for prevention purposes comes as the logical next step. SPLENDID is a recently initiated EU-funded collaborative project that intends to develop a personalised guidance system for helping and training children and young adults to improve their eating and activity behaviour. By combining expertise in behavioural \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Knowledge-Based Concept Score Fusion for Multimedia Retrieval",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-04875-3_17",
+            "Abstract": "Automated detection of semantic concepts in multimedia documents has been attracting intensive research efforts over the last years. These efforts can be generally classified in two categories of methodologies: the ones that attempt to solve the problem using discriminative methods (classifiers) and those that build knowledge-based models, as driven by the W3C consortium. This paper proposes a methodology that tries to combine both approaches for multimedia retrieval. Our main contribution is the adoption of a formal model for defining concepts using logic and the incorporation of the output of concept classifiers to the computation of annotation scores. Our method does not require the computationally intensive training of new classifiers for the concepts defined. Instead, it employs a knowledge-based mechanism to combine the output score of existing classifiers and can be used for either detecting new \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Automatic ground-truth image generation from user tags",
+            "Publication year": 2011,
+            "Publication url": "https://www.researchgate.net/profile/Anastasios-Delopoulos/publication/266873471_Automatic_ground-truth_image_generation_from_user_tags/links/545a22b90cf2cf5164842dd8/Automatic-ground-truth-image-generation-from-user-tags.pdf",
+            "Abstract": "Automatic selection of ground-truth images is very important for the training of image classifiers, like the ones used in concept-based image retrieval. For this purpose, we propose a method which collects a sufficient number of groundtruth images based on their user-assigned tags. The semantic similarity between the tags of the images and the concept is used as a relevancy metric to classify the images in ranked lists. The system is comprised of parts of data preprocessing, WordNet-based synonym retrieval, Natural Language Processing and corpus-based semantic similarity calculations. Experimental results indicate that the proposed method is effective in collecting groundtruth data and that the training of concept classifiers based on this groundtruth leads to effective image retrieval.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Main mobile object detection and localization in video sequences",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-40053-2_8",
+            "Abstract": "Main mobile object detection and localization is a task of major importance in the fields of video understanding, object-based coding and numerous related applications, such as content-based retrieval, remote surveillance and object recognition. The present work revisits the algorithm proposed in [13] for mobile object localization in both indoor and outdoor sequences when either a static or a mobile camera is utilized. The proposed approach greatly improves the trade-off between accuracy and time-performance leading to satisfactory results with a considerably low amount of computations. Moreover, based on the point gatherings extracted in [13], the bounding polygon and the direction of movement are estimated for each mobile object; thus yielding an adequate representation in the MPEG-7 sense. Experimental results over a number of distinct natural sequences have been included to illustrate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "BigO: Big Data Against Childhood Obesity",
+            "Publication year": 2018,
+            "Publication url": "http://abstracts.eurospe.org/hrp/0089/hrp0089p3-p127",
+            "Abstract": "Background: Childhood obesity is a major global and European public health problem. The need for community-targeted actions has long been recognized, however it has been prevented by the lack of monitoring and evaluation framework, and the methodological inability to objectively quantify the local community characteristics in a reasonable timeframe. Recent technological achievements in mobile and wearable electronics and Big Data infrastructures allow the engagement of European citizens in the data collection process.Objective: BigO (bigoprogram. eu) is an EU-funded project that collects objective evidence on the causes of obesity in local communities and enables public health authorities to design effective interventions to prevent or combat obesity. BigO aims to redefine the way those strategies are designed and deployed.Method: A novel technological platform will be built relying on big data analytics and visualization. The BigO platform will use sensor technologies to record children\u2019s daily eating and physical activity behavior and correlate it with environment data from on-line sources. Widely spread sensors in smartphones or activity bracelets will be used, in combination with Mandometer\u00ae, a clinically validated device monitoring the rate of food intake. Data as a whole will include what and how children eat, how they move and sleep, along with characteristics of their urban, socioeconomic, commercial and school environment. Data driven analytics will then be employed to extract relationships between environment, personal behavior, obesity risk factors and obesity prevalence, and determine which particular local conditions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Bioscientifica"
+        },
+        {
+            "Title": "Preventing Obesity and Eating Disorders through Behavioural Modifications: the SPLENDID Vision",
+            "Publication year": 2014,
+            "Publication url": "https://www.academia.edu/download/67098739/icst.mobihealth.2014.pdf",
+            "Abstract": "Recent intensive research in the fields of obesity and eating disorders has proved most traditional interventions inadequate: The obesity-targeting interventions have either failed or are strongly social context dependent, while the interventions for eating disorders have poor results and high levels of relapse. On the contrary, recent randomized control trials have illustrated that supervised training of patients to eat and move in a nonpathological way is effective in the prevention of both obesity and eating disorders. Applying the same kind of methodologies to the general population in real life conditions for prevention purposes comes as the logical next step. SPLENDID is a recently initiated EU-funded collaborative project that intends to develop a personalised guidance system for helping and training children and young adults to improve their eating and activity behaviour. By combining expertise in behavioural patterns with current advancements in intelligent systems and sensor technologies, SPLENDID is going to detect subjects at risk for developing obesity or eating disorders and offer them enhanced monitoring and guidance to prevent further disease progression. Both behavioural data collection and system evaluation are going to be performed via pilot studies supported by expert health professionals.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Lower energy intake among advanced vs. early parkinson\u2019s disease patients and healthy controls in a clinical lunch setting: A cross-sectional study",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/770662",
+            "Abstract": "Unintentional weight loss has been observed among Parkinson\u2019s disease (PD) patients. Changes in energy intake (EI) and eating behavior, potentially caused by fine motor dysfunction and eating-related symptoms, might contribute to this. The primary aim of this study was to investigate differences in objectively measured EI between groups of healthy controls (HC), early (ESPD) and advanced stage PD patients (ASPD) during a standardized lunch in a clinical setting. The secondary aim was to identify clinical features and eating behavior abnormalities that explain EI differences. All participants (n= 23 HC, n= 20 ESPD, and n= 21 ASPD) went through clinical evaluations and were eating a standardized meal (200 g sausages, 400 g potato salad, 200 g apple pur\u00e9e and 500 mL water) in front of two video cameras. Participants ate freely, and the food was weighed pre-and post-meal to calculate EI (kcal). Multiple linear regression was used to explain group differences in EI. ASPD had a significantly lower EI vs. HC (\u2212 162 kcal, p< 0.05) and vs. ESPD (\u2212 203 kcal, p< 0.01) when controlling for sex. The number of spoonfuls, eating problems, dysphagia and upper extremity tremor could explain most (86%) of the lower EI vs. HC, while the first three could explain~ 50% vs. ESPD. Food component intake analysis revealed significantly lower potato salad and sausage intakes among ASPD vs. both HC and ESPD, while water intake was lower vs. HC. EI is an important clinical target for PD patients with an increased risk of weight loss. Our results suggest that interventions targeting upper extremity tremor, spoonfuls, dysphagia and eating problems might be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:JQOojiI6XY0C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Predicting Real-Life Eating Behaviours Using Single School Lunches in Adolescents",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/431528",
+            "Abstract": "Large portion sizes and a high eating rate are associated with high energy intake and obesity. Most individuals maintain their food intake weight (g) and eating rate (g/min) rank in relation to their peers, despite food and environmental manipulations. Single meal measures may enable identification of \u201clarge portion eaters\u201d and \u201cfast eaters,\u201d finding individuals at risk of developing obesity. The aim of this study was to predict real-life food intake weight and eating rate based on one school lunch. Twenty-four high-school students with a mean (\u00b1SD) age of 16.8 yr (\u00b10.7) and body mass index of 21.9 (\u00b14.1) were recruited, using no exclusion criteria. Food intake weight and eating rate was first self-rated (\u201cLess,\u201d\u201cAverage\u201d or \u201cMore than peers\u201d), then objectively recorded during one school lunch (absolute weight of consumed food in grams). Afterwards, subjects recorded as many main meals (breakfasts, lunches and dinners) as possible in real-life for a period of at least two weeks, using a Bluetooth connected weight scale and a smartphone application. On average participants recorded 18.9 (7.3) meals during the study. Real-life food intake weight was 327.4 g (\u00b1110.6), which was significantly lower (p= 0.027) than the single school lunch, at 367.4 g (\u00b1167.2). When the intra-class correlation of food weight intake between the objectively recorded real-life and school lunch meals was compared, the correlation was excellent (R= 0.91). Real-life eating rate was 33.5 g/min (\u00b114.8), which was significantly higher (p= 0.010) than the single school lunch, at 27.7 g/min (\u00b113.3). The intra-class correlation of the recorded eating rate between real-life and school lunch \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Formative evaluation of a smartphone app for monitoring daily meal distribution and food selection in adolescents: acceptability and usability study",
+            "Publication year": 2020,
+            "Publication url": "https://mhealth.jmir.org/2020/7/e14778/",
+            "Abstract": "Background: Obesity interventions face the problem of weight regain after treatment as a result of low compliance. Mobile health (mHealth) technologies could potentially increase compliance and aid both health care providers and patients.Objective: This study aimed to evaluate the acceptability and usability and define system constraints of an mHealth system used to monitor dietary habits of adolescents in real life, as a first step in the development of a self-monitoring and lifestyle management system against adolescent obesity.Methods: We recruited 26 students from a high school in Stockholm, Sweden. After a 30-minute information meeting and 5-minute individual instruction on how to use an mHealth system (smartphone with app and two external sensors), participants used it for 2-3 weeks to objectively collect dietary habits. The app and sensors were used by the participants, without supervision, to record as many main meals and snacks as possible in real life. Feasibility was assessed following the \u201cmHealth evidence reporting and assessment checklist,\u201d and usability was assessed by questionnaires. Compliance was estimated based on system use, where a registration frequency of 3 main meals (breakfast, lunch, and dinner) per day for the period of the experiment, constituted 100% compliance.Results: Participants included in the analysis had a mean age of 16.8 years (SD 0.7 years) and BMI of 21.9 kg/m2 (SD 4.1 kg/m2). Due to deviations from study instructions, 2 participants were excluded from the analysis. During the study, 6 participants required additional information on system use. The system received a \u2018Good\u2019grade (77.1 of 100 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:uLbwQdceFCQC",
+            "Publisher": "JMIR Publications Inc., Toronto, Canada"
+        },
+        {
+            "Title": "Efficient semantic search using finite automata",
+            "Publication year": 2004,
+            "Publication url": "https://mug.ee.auth.gr/wp-content/uploads/panagiotopoulos-falelakis-delopoulos-cost276.pdf",
+            "Abstract": "An efficient scheme for identifying Semantic Entities within data sets such as multimedia documents, scenes, signals etc. is proposed in this work. Expression of Semantic Entities in terms of Syntactic Properties is proved to be isomorphic to appropriately defined finite automata, which also model the identification procedure. Based on the structure and properties of these automata, formal definitions of attained Validity and Certainty and also required Complexity are defined as metrics of identification efficiency. The main contribution of the paper relies on organizing the identification and search procedure in a way that maximizes its validity for bounded Complexity budgets and reversely minimizes computational Complexity for a given required Validity threshold.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel approach for chewing detection based on a wearable PPG sensor",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7592214/",
+            "Abstract": "Monitoring of human eating behaviour has been attracting interest over the last few years, as a means to a healthy lifestyle, but also due to its association with serious health conditions, such as eating disorders and obesity. Use of self-reports and other non-automated means of monitoring have been found to be unreliable, compared to the use of wearable sensors. Various modalities have been reported, such as acoustic signal from ear-worn microphones, or signal from wearable strain sensors. In this work, we introduce a new sensor for the task of chewing detection, based on a novel photoplethysmography (PPG) sensor placed on the outer earlobe to perform the task. We also present a processing pipeline that includes two chewing detection algorithms from literature and one new algorithm, to process the captured PPG signal, and present their effectiveness. Experiments are performed on an annotated dataset \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The SPLENDID chewing detection challenge",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8036949/",
+            "Abstract": "Monitoring of eating behavior using wearable technology is receiving increased attention, driven by the recent advances in wearable devices and mobile phones. One particularly interesting aspect of eating behavior is the monitoring of chewing activity and eating occurrences. There are several chewing sensor types and chewing detection algorithms proposed in the bibliography, however no datasets are publicly available to facilitate evaluation and further research. In this paper, we present a multi-modal dataset of over 60 hours of recordings from 14 participants in semi-free living conditions, collected in the context of the SPLENDID project. The dataset includes raw signals from a photoplethysmography (PPG) sensor and a 3D accelerometer, and a set of extracted features from audio recordings; detailed annotations and ground truth are also provided both at eating event level and at individual chew level. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:8AbLer7MMksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The SPLENDID eating detection sensor: Development and feasibility study",
+            "Publication year": 2018,
+            "Publication url": "https://mhealth.jmir.org/2018/9/e170/",
+            "Abstract": "Background: The available methods for monitoring food intake\u2014which for a great part rely on self-report\u2014often provide biased and incomplete data. Currently, no good technological solutions are available. Hence, the SPLENDID eating detection sensor (an ear-worn device with an air microphone and a photoplethysmogram [PPG] sensor) was developed to enable complete and objective measurements of eating events. The technical performance of this device has been described before. To date, literature is lacking a description of how such a device is perceived and experienced by potential users.Objective: The objective of our study was to explore how potential users perceive and experience the SPLENDID eating detection sensor.Methods: Potential users evaluated the eating detection sensor at different stages of its development:(1) At the start, 12 health professionals (eg, dieticians, personal trainers) were interviewed and a focus group was held with 5 potential end users to find out their thoughts on the concept of the eating detection sensor.(2) Then, preliminary prototypes of the eating detection sensor were tested in a laboratory setting where 23 young adults reported their experiences.(3) Next, the first wearable version of the eating detection sensor was tested in a semicontrolled study where 22 young, overweight adults used the sensor on 2 separate days (from lunch till dinner) and reported their experiences.(4) The final version of the sensor was tested in a 4-week feasibility study by 20 young, overweight adults who reported their experiences.Results: Throughout all the development stages, most individuals were enthusiastic about \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "JMIR Publications Inc., Toronto, Canada"
+        },
+        {
+            "Title": "Constructing Fuzzy Relations fromWordNet forWord Sense Disambiguation",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4041972/",
+            "Abstract": "In this work, the problem of word sense disambiguation is formulated as a problem of imprecise associations between words and word senses in a textual context. The approach has two main parts. Initially, we consider that for each sense, a fuzzy set is given that provides the degrees of association between a number of words and the sense. An algorithm is provided that ranks the senses of a word in a text based on this information, effectively leading to word sense disambiguation. In the second part, a method based on WordNet is developed that constructs the fuzzy sets for the senses (independent of any text). Algorithms are provided that can help in both understanding and implementation of the proposed approach. Experimental results are satisfactory and show that modeling word sense disambiguation as a problem of imprecise associations is promising",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "BigO: The use of new technologies for the management of childhood obesity\u2013A clinical pilot study",
+            "Publication year": 2019,
+            "Publication url": "http://abstracts.eurospe.org/hrp/0092/hrp0092p3-101",
+            "Abstract": "Background: Obesity represents one of the most challenging public health problems of the 21st century. According to the World Health Organization (WHO), there is a need to create reliable monitoring and behavioral systems, and to investigate their effectiveness in preventing childhood obesity.Objective: To evaluate a range of novel technologies for collecting photographs, information regarding physical activity and geographic data (GPS) in overweight and obese children and adolescents during their day-to-day life.Methodology: The study was carried out in the context of the four-year European project BigO (http://bigoprogram. eu, Horizon2020, No. 727688). Overweight and obese children and adolescents aged 9-18 years participated in the study following approval by the local Committee on the Ethics of Human Research. Written informed consent was obtained by parents/guardians in all cases. The data collection system includes the BigO technology platform, which interfaces with a Smartphone and Smartwatch, and records data objectively (using inertial sensors and GPS) for each patient. Data are then transmitted to BigO servers to extract behavioral indicators, including:(a) physical activity/exercise,(b) dietary habits, and (c) environmental conditions (urban, socio-economic, nutritional). During the first pilot phase, participants used the BigO system for 2 weeks to take photographs of the food they consumed, as well as food advertisements, and wore the watch for specific periods during the week (at least 2 weekdays, 1 weekend and 3 nights). Finally, they were asked to return the watch and complete a questionnaire.Results: Forty children \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Bioscientifica"
+        },
+        {
+            "Title": "Evaluation of the BigO system during the COVID-19 outbreak in Greece",
+            "Publication year": 2021,
+            "Publication url": "https://abstracts.eurospe.org/hrp/0094/hrp0094p2-173",
+            "Abstract": "Background: Since December 2019, the world has witnessed a global pandemic due to SARS-CoV-2 coronavirus (COVID-19), which has led to lifestyle changes as a result of Public Health Regulations and Guidelines introduced by governments worldwide.Objective: To determine the body mass index (BMI) trajectory in children and adolescents with overweight and obesity with respect to the COVID-19 outbreak in Greece.Methodology: The study was carried out as part of the four-year European project BigO (http://bigoprogram. eu, Horizon2020, No. 727688). Overweight and obese children and adolescents aged 9-18 years participated in the study following approval by the local Committee on the Ethics of Human Research. Written informed consent was obtained by parents/guardians in all cases. The data collection system included the BigO technology platform, which interfaces with a Smartphone and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "Bioscientifica"
+        },
+        {
+            "Title": "Automatic chromosome classification using support vector machines",
+            "Publication year": 2012,
+            "Publication url": "https://olympus.ee.auth.gr/~chmaramis/website/documents/iConceptPress2012.pdf",
+            "Abstract": "The genetic information of every living organism is contained into a number of organized structures that are called chromosomes. In particular, the chromosomes of human beings are categorized into 22 autosome and 2 sex classes. Chromosome analysis aims at revealing numerical and/or structural chromosome abnormalities that have been found to be responsible for several diseases, including cancer (eg, leukemia). The aforementioned fact emphasizes the significance of chromosome analysis in the field of cytogenetics with widespread applications in prenatal screening, genetic counseling, oncology, radiation dosimetry and toxicology (Carothers & Piper, 1994). The first step towards human chromosome analysis is the assignment of the chromosomes into the aforementioned 24 classes (chromosome classification). This task is carried out on microscope images of single cells that depict the complete set of chromosomes as partially overlapping objects\u2013see Figure 1 (a) for an example. The overlapping objects are first segmented and subsequently categorized, based on their visual features (eg, their relative length), into the 24 classes of human chromosomes taking into account the biologically-dictated number of instances per class. The task of classifying all the chromosomes in a microscope image is called karyotyping; a typical karyotyping outcome is depicted in Figure 1 (b). Initially, chromosome analysis has been performed manually by cytogeneticists. However, this has been proved to be a very time-consuming and laborious yet error-prone task. In particular, the chromosome analysis of a single individual might take up to one hour \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic semantic identification with complexity constraints as a knapsack problem",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1452456/",
+            "Abstract": "The process of automatic identification of high level semantic entities (e.g., objects, concepts or events) in multimedia documents requires processing by means of algorithms that are used for feature extraction, i.e. low level information needed for the analysis of these documents at a semantic level. This work copes with the high and often prohibitive computational complexity of this procedure. Emphasis is given to a dynamic scheme that allows for efficient distribution of the available computational resources in application. Scenarios that deal with the identification of multiple high level entities with strict simultaneous restrictions, such as real time applications",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Large-scale concept detection in multimedia data using small training sets and cross-domain concept fusion",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5604666/",
+            "Abstract": "This paper presents the concept detector module developed for the VITALAS multimedia retrieval system. It outlines its architecture and major implementation aspects, including a set of procedures and tools that were used for the development of detectors for more than 500 concepts. The focus is on aspects that increase the system's scalability in terms of the number of concepts: collaborative concept definition and disambiguation, selection of small but sufficient training sets and efficient manual annotation. The proposed architecture uses cross-domain concept fusion to improve effectiveness and reduce the number of samples required for concept detector training. Two criteria are proposed for selecting the best predictors to use for fusion and their effectiveness is experimentally evaluated for 221 concepts on the TRECVID-2005 development set and 132 concepts on a set of images provided by the Belga news \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "From textual queries to visual queries",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7500270/",
+            "Abstract": "In this paper we present a framework to transform textual queries into visual ones. The proposed method uses standard image retrieval techniques with textual queries and the Fast Geometric Consistency Test (FGCT) method. For every textual query a set of images is retrieved and for every image a set of descriptors is extracted. Extracted features are combined with respect to their similarity in their descriptors' space and afterwards with respect to their geometric consistency on the image plane. All pairs of images are tested for consistent geometric structures using the FGCT method. This procedure extracts the subset of images that have a persistent geometric formation in the descriptors' space. Descriptors that compose the persistent formation are extracted and used as the input in a visual query; those features constitute the visual context of the visual query. Afterwards we perform again the FGCT method, but this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:738O_yMBCRsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image annotation using clickthrough data",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1646396.1646415",
+            "Abstract": "Automatic image annotation using supervised learning is performed by concept classifiers trained on labelled example images. This work proposes the use of clickthrough data collected from search logs as a source for the automatic generation of concept training data, thus avoiding the expensive manual annotation effort. We investigate and evaluate this approach using a collection of 97,628 photographic images. The results indicate that the contribution of search log based training data is positive; in particular, the combination of manual and automatically generated training data outperforms the use of manual data alone. It is therefore possible to use clickthrough data to perform large-scale image annotation with little manual annotation effort or, depending on performance, using only the automatically generated training data. The datasets used as well as an extensive presentation of the experimental results can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fractal nature of chewing sounds",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-23222-5_49",
+            "Abstract": "In the battle against Obesity as well as Eating Disorders, non-intrusive dietary monitoring has been investigated by many researchers. For this purpose, one of the most promising modalities is the acoustic signal captured by a common microphone placed inside the outer ear canal. Various chewing detection algorithms for this type of signals exist in the literature. In this work, we perform a systematic analysis of the fractal nature of chewing sounds, and find that the Fractal Dimension is substantially different between chewing and talking. This holds even for severely down-sampled versions of the recordings. We derive chewing detectors based on the the fractal dimension of the recorded signals that can clearly discriminate chewing from non-chewing sounds. We experimentally evaluate snacking detection based on the proposed chewing detector, and we compare our approach against well known \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Canopy Height Estimation from Spaceborne Imagery Using Convolutional Encoder-Decoder",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-67835-7_26",
+            "Abstract": "The recent advances in multimedia modeling with deep learning methods have significantly affected remote sensing applications, such as canopy height mapping. Estimating canopy height maps in large-scale is an important step towards sustainable ecosystem management. Apart from the standard height estimation method using LiDAR data, other airborne measurement techniques, such as very high-resolution passive airborne imaging, have also shown to provide accurate estimations. However, those methods suffer from high cost and cannot be used at large-scale nor frequently. In our study, we adopt a neural network architecture to estimate pixel-wise canopy height from cost-effective spaceborne imagery. A deep convolutional encoder-decoder network, based on the SegNet architecture together with skip connections, is trained to embed the multi-spectral pixels of a Sentinel-2 input image to height \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Linear subspaces for facial expression recognition",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0923596513001641",
+            "Abstract": "This paper presents a method for the recognition of the six basic facial expressions in images or in image sequences using landmark points. The proposed technique relies on the observation that the vectors formed by the landmark point coordinates belong to a different manifold for each of the expressions. In addition experimental measurements validate the hypothesis that each of these manifolds can be decomposed to a small number of linear subspaces of very low dimension. This yields a parameterization of the manifolds that allows for computing the distance of a feature vector from each subspace and consequently from each one of the six manifolds. Two alternative classifiers are next proposed that use the corresponding distances as input: the first one is based on the minimum distance from the manifolds, while the second one uses SVMs that are trained with the vector of all distances from each subspace \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Detecting parkinsonian tremor from IMU data collected in-the-wild using deep multiple-instance learning",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8941232/",
+            "Abstract": "Parkinson's Disease (PD) is a slowly evolving neurological disease that affects about    of the population above 60 years old, causing symptoms that are subtle at first, but whose intensity increases as the disease progresses. Automated detection of these symptoms could offer clues as to the early onset of the disease, thus improving the expected clinical outcomes of the patients via appropriately targeted interventions. This potential has led many researchers to develop methods that use widely available sensors to measure and quantify the presence of PD symptoms such as tremor, rigidity and braykinesia. However, most of these approaches operate under controlled settings, such as in lab or at home, thus limiting their applicability under free-living conditions. In this work, we present a method for automatically identifying tremorous episodes related to PD, based on IMU signals captured via a smartphone device \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:ye4kPcJQO24C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A multiresolution approach for main mobile object localization in video sequences",
+            "Publication year": 2001,
+            "Publication url": "https://www.academia.edu/download/67097919/vlbv_2001.pdf",
+            "Abstract": "Main mobile object localization is a task that emerges in research fields such us video understanding, object-based coding and various related applications, such as contentbased retrieval, remote surveillance and object recognition.The present work revisits mobile object localization in the context of content-based retrieval schemes and the related MPEG-7 framework, for natural and synthetic, indoor and outdoor sequences, when either a static or a mobile camera is utilized. The proposed multiresolution approach greatly improves the trade-off between accuracy and timeperformance leading to satisfactory results with a considerably low amount of computations. Moreover, based on the point gatherings extracted in [14], the bounding polygon and the direction of movement are estimated for each mobile object; thus yielding an adequate representation in the MPEG-7 sense. Finally, the resulting polygons can be used as appropriate initial estimates for methods that extract object contours, eg curve propagation approaches, such as [8, 10] which utilize the level-set method.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "VITALAS at TRECVID-2008.",
+            "Publication year": 2008,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.155.1864&rep=rep1&type=pdf",
+            "Abstract": "This paper describes the participation of VITALAS in the TRECVID-2009 evaluation where we submitted runs for the High-Level Feature Extraction (HLFE) and Interactive Search tasks.For the HLFE task, we focus on the evaluation of low-level feature sets and fusion methods. The runs employ multiple low-level features based on all available modalities (visual, audio and text) and the results show that use of such features improves the retrieval effectiveness significantly. We also use a concept score fusion approach that achieves good results with reduced low-level feature vector dimensionality. Furthermore, a weighting scheme is introduced for cluster assignment in the \u201cbag-of-words\u201d approach. Our runs achieved good performance compared to a baseline run and the submissions of other TRECVID-2009 participants. For the Interactive Search task, we focus on the evaluation of the integrated VITALAS system in order to gain insights into the use and effectiveness of the system\u2019s search functionalities on (the combination of) multiple modalities and study the behavior of two user groups: professional archivists and non-professional users. Our analysis indicates that both user groups submit about the same total number of queries and use the search functionalities in a similar way, but professional users save twice as many shots and examine shots deeper in the ranked retrieved list. The agreement between the TRECVID assessors and our users was quite low. In terms of the effectiveness of the different search modalities, similarity searches retrieve on average twice as many relevant shots as keyword searches, fused searches three times as many \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A computerized methodology for improved virus typing by PCR-RFLP gel electrophoresis",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5765663/",
+            "Abstract": "The analysis of digitized images from polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) gel electrophoresis examinations is a popular method for virus typing, i.e., for identifying the virus type(s) that have infected an investigated biological sample. However, being mostly manual, the conventional virus typing protocol remains laborious, time consuming, and error prone. In order to overcome these shortcomings, we propose a computerized methodology for improving virus typing via PCR-RFLP gel electrophoresis. A novel realistic observation model of the viral DNA motion on the gel matrix is employed to assist in exploiting additional virus-related information in comparison to the conventional approaches. The extracted rich information is fed to a novel typing algorithm, resulting in faster and more accurate decisions. The proposed methodology is evaluated for the case of the human \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The user-informed development of the SPLENDID eating detection sensor",
+            "Publication year": 2018,
+            "Publication url": "https://library.wur.nl/WebQuery/wurpubs/fulltext/440689#page=45",
+            "Abstract": "The available methods for monitoring food intake\u2014which for a great part rely on self-report\u2014often provide biased and incomplete data. Currently, no good technological solutions are available. Hence, the SPLENDID eating detection sensor (ie an ear-worn device) was developed to enable complete and objective measurements of eating events. The technical performance of this device has been described before. To date, literature is lacking a description of how such a device is perceived and experienced by potential users. The current paper describes how potential users perceived and experienced the SPLENDID eating detection sensor during the different stages of its development. Potential users evaluated the eating detection sensor at different stages of its development: 1) At the start twelve health professionals (eg dieticians or personal trainers) were interviewed and a focus group was held with five potential end-users (m/w= 0/5, age: 22\u00b12 yrs., BMI: 22.5\u00b11.9 kg/m2) to find out about their thoughts on the concept of the eating detection sensor. 2) Preliminary prototypes of the eating detection sensor were tested in a laboratory setting where 23 participants (m/w= 13/10, age: 23\u00b13 yrs., BMI: 22.6\u00b13 kg/m2) reported their experiences. 3) The first wearable version of the eating detection sensor was tested in a semi-controlled study where 22 young, overweight adults (m/w= 3/19, age: 23\u00b12 yrs., BMI: 28.0\u00b12.3 kg/m) used the sensor on two days and reported their experiences. 4) The final version of the sensor was tested in a 4-week feasibility study by 20 young, overweight adults (m/w= 4/16, age: 25\u00b12 yrs., BMI: 28.8\u00b12.8 kg/m2) who reported their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optical camera tracking in virtual studios: degenerate cases",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/903741/",
+            "Abstract": "Over the past few years, virtual studios applications have significantly attracted the attention of the entertainment industry. Optical tracking systems for virtual sets production have become particularly popular tending to substitute electro-mechanical ones. In this work, an existing optical tracking system is revisited, in order to tackle with inherent degenerate cases; namely, reduction of the perspective projection model to the orthographic one and blurring of the blue screen. In this context, we propose a simple algorithm for 3D motion estimation under orthography using 3D-to-2D line correspondences. In addition, the watershed algorithm is employed for successful feature extraction in the presence of defocus or motion blur.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Collecting big behavioral data for measuring behavior against obesity",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9175313/",
+            "Abstract": "Obesity is currently affecting very large portions of the global population. Effective prevention and treatment starts at the early age and requires objective knowledge of population-level behavior on the region/neighborhood scale. To this end, we present a system for extracting and collecting behavioral information on the individual-level objectively and automatically. The behavioral information is related to physical activity, types of visited places, and transportation mode used between them. The system employs indicator-extraction algorithms from the literature which we evaluate on publicly available datasets. The system has been developed and integrated in the context of the EU-funded BigO project that aims at preventing obesity in young populations.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Identification of semantics: Balancing between complexity and validity",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1436588/",
+            "Abstract": "This paper addresses the problem of identifying semantic entities (e.g., events, objects, concepts etc.) in a particular environment (e.g., a multimedia document, a scene, a signal etc.) by means of an appropriately modelled semantic encyclopedia. Each semantic entity in the encyclopedia is defined in terms of other semantic entities as well as low level features, which we call syntactic entities, in a hierarchical scheme. Furthermore, a methodology is introduced, which can be used to evaluate the direct contribution of every syntactic feature of the document to the identification of semantic entities. This information allows us to estimate the quality of the result as well as the required computational cost of the search procedure and to balance between them. Our approach could be particularly important in real time and/or bulky search/indexing applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Behaviour profiles for evidence-based policies against obesity",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8857161/",
+            "Abstract": "Obesity is a preventable disease that affects the health of a significant population percentage, reduces the life expectancy and encumbers the health care systems. The obesity epidemic is not caused by isolated factors, but it is the result of multiple behavioural patterns and complex interactions with the living environment. Therefore, in-depth understanding of the population behaviour is essential in order to create successful policies against obesity prevalence. To this end, the BigO system facilitates the collection, processing and modelling of behavioural data at population level to provide evidence for effective policy and interventions design. In this paper, we introduce the behaviour profiles mechanism of BigO that produces comprehensive models for the behavioural patterns of individuals, while maintaining high levels of privacy protection. We give examples for the proposed mechanism from real world data and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:SdhP9T11ey4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SPLENDID: A new mobile tool for weight management",
+            "Publication year": 2016,
+            "Publication url": "https://research.wur.nl/en/publications/splendid-a-new-mobile-tool-for-weight-management",
+            "Abstract": "Mobile technologies targeting both eating and physical activity behavior provide new opportunities for weight management, but for data on eating behavior these rely on self-report. This results in unreliable information and is burdensome for the user. SPLENDID, an EU project, aims to take the next step in the development of these mobile technologies and is currently developing a wearable personal coach; ie a system that will actively monitor eating and physical activity behavior and provides real-time feedback. For the system to be implemented successfully it is essential that it is accepted by consumers and health professionals. While still under development it was investigated how the system is perceived by them. The system was discussed in a focus group with five females (age: 19\u201324 years) interested in weight management. Nineteen overweight young adults completed a questionnaire on their experiences with the system after 5 hours of using and wearing the system. Furthermore, twelve health professionals were interviewed on the system. Overall the system was perceived as very promising. The objective measurements of both eating and physical activity behavior, and real-time feedback were especially appreciated. However, it was emphasized that the system should be discrete, user-friendly and comfortable for the consumer, and saves the health professional time. These results of the focus group, interviews and questionnaire on user experience are promising and are being taken into account in the further development of the system.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Weighted SVM from clickthrough data for image retrieval",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7025609/",
+            "Abstract": "In this paper we propose a novel approach to training noise-resilient concept detectors from clickthrough data collected by image search engines. We take advantage of the query logs to automatically produce concept detector training sets; these suffer though from label noise, i.e., erroneously assigned labels. We explore two alternative approaches for handling noisy training data at the classifier level by training concept detectors with two SVM variants: the Fuzzy SVM and the Power SVM. Experimental results on images collected from a professional image search engine indicate that 1) Fuzzy SVM outperforms both SVM and Power SVM and is the most effective approach towards handling label noise and 2) the performance gain of Fuzzy SVM compared to SVM increases progressively with the noise level in the training sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Association studies on cervical cancer facilitated by inference and semantic technologies: the ASSIST approach",
+            "Publication year": 2008,
+            "Publication url": "https://person.hst.aau.dk/ska/MIE2008/ParalleSessions/PapersForDownloads/03.DS&KM/SHTI136-0241.pdf",
+            "Abstract": "Cervical cancer (CxCa) is currently the second leading cause of cancerrelated deaths, for women between 20 and 39 years old. As infection by the human papillomavirus (HPV) is considered as the central risk factor for CxCa, current research focuses on the role of specific genetic and environmental factors in determining HPV persistence and subsequent progression of the disease. ASSIST is an EU-funded research project that aims to facilitate the design and execution of genetic association studies on CxCa in a systematic way by adopting inference and semantic technologies. Toward this goal, ASSIST provides the means for seamless integration and virtual unification of distributed and heterogeneous CxCa data repositories, and the underlying mechanisms to undertake the entire process of expressing and statistically evaluating medical hypotheses based on the collected data in order to generate medically important associations. The ultimate goal for ASSIST is to foster the biomedical research community by providing an open, integrated and collaborative framework to facilitate genetic association studies.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:4DMP91E08xMC",
+            "Publisher": "IOS Press; 1999"
+        },
+        {
+            "Title": "A system for automatic HPV typing via PCR-RFLP gel electrophoresis",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6042466/",
+            "Abstract": "The identification of the types of the human papillomavirus (HPV) that have infected a female patient provides valuable information as regards to her risk for developing cervical cancer. A widely used method for performing the above task (namely HPV typing) is PCR-RFLP gel electrophoresis. However, the conventional HPV typing protocol is error-prone and resource-ineffective due to lack of interaction between the phases involved in it. In order to treat these shortcomings, we introduce a novel HPV typing system that can be built upon widely available laboratory equipment. The proposed workflow of the system automates the task of HPV typing via PCRRFLP gel electrophoresis. The proof-of-concept of the proposed methodology is evaluated via an experiment that emulates the operation of the introduced system on a set of real HPV data.",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Comparative Study on 3D Motion Estimation under Orthography",
+            "Publication year": 2000,
+            "Publication url": "https://mug.ee.auth.gr/wp-content/uploads/publications/page057_id151.pdf",
+            "Abstract": "In the present work, the algorithm proposed in [8, 10] is tested against existing approaches on 3D motion and structure estimation of rigid objects under orthography. The theoretical relation between the proposed approach and the well-known factorization and epipolar methods is discussed. At the same time, comparative simulated experiments are given, illustrating the performance of the three algorithms (the factorization, the epipolar and the proposed one).",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Span error bound for weighted SVM with applications in hyperparameter selection",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1809.06124",
+            "Abstract": "Weighted SVM (or fuzzy SVM) is the most widely used SVM variant owning its effectiveness to the use of instance weights. Proper selection of the instance weights can lead to increased generalization performance. In this work, we extend the span error bound theory to weighted SVM and we introduce effective hyperparameter selection methods for the weighted SVM algorithm. The significance of the presented work is that enables the application of span bound and span-rule with weighted SVM. The span bound is an upper bound of the leave-one-out error that can be calculated using a single trained SVM model. This is important since leave-one-out error is an almost unbiased estimator of the test error. Similarly, the span-rule gives the actual value of the leave-one-out error. Thus, one can apply span bound and span-rule as computationally lightweight alternatives of leave-one-out procedure for hyperparameter selection. The main theoretical contributions are: (a) we prove the necessary and sufficient condition for the existence of the span of a support vector in weighted SVM; and (b) we prove the extension of span bound and span-rule to weighted SVM. We experimentally evaluate the span bound and the span-rule for hyperparameter selection and we compare them with other methods that are applicable to weighted SVM: the -fold cross-validation and the  bound. Experiments on 14 benchmark data sets and data sets with importance scores for the training instances show that: (a) the condition for the existence of span in weighted SVM is satisfied almost always; (b) the span-rule is the most effective method for weighted SVM \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "yBp_7EEAAAAJ:5ugPr518TE4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Objective monitoring and analysis of the obesogenic behaviour in relation to the Local environment: A tool facilitating decisions by public health authorities",
+            "Publication year": 2018,
+            "Publication url": "http://helios-eie.ekt.gr/EIE/bitstream/10442/15825/1/Delopoulos.pdf",
+            "Abstract": "Eating fast food/outside Occurrence L, P, U Fast-food eating frequency Times/week L, P, U Eating dinner outside of the home? Occurrence L, P, U Eating at home Occurrence L, P, U Food type Categorical U, P Meal type (breakfast, lunch, dinner, snack) Categorical L, P, U Meal frequency (eg, breakfast) Occurrence U, P Soda or fizzy drinks (sugar added) Occurrence U, P Diet soda/Juice/water/milk Occurrence U, P Eating occurrences Occurrence U Eating/snacking frequency times/day U Eating late at night Times/week U Eating schedule adherence sec (std) U",
+            "Abstract entirety": 1,
+            "Author pub id": "yBp_7EEAAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

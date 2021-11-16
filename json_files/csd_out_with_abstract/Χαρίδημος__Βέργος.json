@@ -1,0 +1,651 @@
+[{
+    "name": "\u03a7\u03b1\u03c1\u03af\u03b4\u03b7\u03bc\u03bf\u03c2  \u0392\u03ad\u03c1\u03b3\u03bf\u03c2",
+    "romanize name": "Charidimos  Vergos",
+    "School-Department": "\u039c\u03b7\u03c7. \u0397/\u03a5 & \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 ",
+    "University": "upatras",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18796,
+    "Scholar name": "Haridimos T. Vergos",
+    "Scholar id": "dYOrcUIAAAAJ",
+    "Affiliation": "Professor, Computer Engineering & Informatics Dept, University of Patras",
+    "Citedby": 1594,
+    "Interests": [
+        "Computer Arithmetic",
+        "VLSI Design",
+        "VLSI Testing",
+        "Computer Architecture"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=dYOrcUIAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Fast parallel-prefix modulo  adders",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1315614/",
+            "Abstract": "Modulo 2/sup n/+1 adders find great applicability in several applications including RNS implementations and cryptography. In this paper, we present two novel architectures for designing modulo 2/sup n/+1 adders, based on parallel-prefix carry computation units, the first architecture utilizes a fast carry increment stage, whereas the second is a totally parallel-prefix solution. CMOS implementations reveal the superiority of the resulting adders against previously reported solutions in terms of implementation area and execution latency.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Area-time efficient end-around inverted carry adders",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167926011000927",
+            "Abstract": "Novel architectures for end-around inverted carry adders are proposed in this manuscript, which use a sparse carry computation unit for deriving only some of the carries in log 2 n prefix levels, while all the rest are computed in an extra one. When used for the design of modulo 2 n+ 1 adders, the proposed designs offer significant area and power savings compared to earlier proposals, while maintaining a high operation speed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On the design of modulo  subtractors and adders/subtractors",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s00034-011-9326-5",
+            "Abstract": "Novel architectures for designing modulo 2 n +1 subtractors and combined adders/subtractors are proposed in this manuscript. Both the normal and the diminished-one representations of the operands are considered. Unit gate estimates and CMOS VLSI implementations reveal that the proposed modulo 2 n +1 subtractors for operands in the normal representation are more efficient than those previously proposed. The proposed diminished-one modulo 2 n +1 subtractors have a complexity similar to that of the corresponding diminished-one adders. Modulo 2 n \u22121 subtractors and adders/subtractors are also considered for the sake of completeness and a comparison between alternative architectures is provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "SP Birkh\u00e4user Verlag Boston"
+        },
+        {
+            "Title": "Modulo  adder design using select-prefix blocks",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1244938/",
+            "Abstract": "We present new design methods for modulo 2/sup n//spl plusmn/1 adders. We use the same select-prefix addition block for both modulo 2/sup n/-1 and diminished-one modulo 2/sup n/+1 adder design. VLSI implementations of the proposed adders in static CMOS show that they achieve an attractive combination of speed and area costs.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:5ugPr518TE4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Area-efficient multi-moduli squarers for RNS",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5615578/",
+            "Abstract": "Multi-moduli architectures are very useful for reconfigurable digital processors and fault-tolerant systems that are based on the Residue Number System (RNS). In this paper we propose two architectures for multi-moduli squaring that support the most common moduli cases in RNS channels, that is, 2 n -1, 2 n  and 2 n +1. The proposed architectures are based on the modified Booth encoding of the input operand for deriving the required partial products and on Dadda adder trees for their addition. Experimental results show that the proposed squarers offer significant savings in area compared to previous proposals while a small improvement in delay is achieved in most cases as well.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Diminished-one modulo  adder design",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1146705/",
+            "Abstract": "This paper presents two new design methodologies for modulo 2/sup n/+1 addition in the diminished-one number system. The first design methodology leads to carry look-ahead, whereas the second to parallel-prefix adder implementations. VLSI realizations of the proposed circuits in a standard-cell technology are utilized for quantitative comparisons against the existing solutions. Our results indicate that the proposed carry look-ahead adders are area and time efficient for small values of n, while for the rest values of n the proposed parallel-prefix adders are considerably faster than any other already known in the open literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Deterministic BIST for RNS adders",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1214338/",
+            "Abstract": "Modulo 2/sup n/ -1 adders as fast as n-bit 2's complement adders have been recently proposed in the open literature. This makes a residue number system (RNS) adder with channels based on the moduli 2/sup n/, 2/sup n/ - 1, and any other of the form 2/sup k/ - 1, with k < n, faster than RNS adders based on other moduli. We formally derive a parametric, with respect to the adder size, test set, for parallel testing of the channels of an RNS adder based on moduli of the form 2/sup n/, 2/sup n/ - 1, 2/sup k/ - 1, 2/sup l/ - 1, ..., with l < k < n. The derived test set is reusable; it can be used for any value of n, k, l, ..., regardless of the implementation library used and is composed of n/sup 2/ + 2 test vectors. A test-per-clock BIST scheme is also proposed that applies the derived test vectors within n/sup 2/ + 2n cycles. Static CMOS implementations reveal that the proposed BIST offers 100 percent postcompaction fault coverage and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dYOrcUIAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "New architectures for modulo  adders",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4633502/",
+            "Abstract": "Two architectures for parallel-prefix modulo 2 n  - 1 adders are presented in this paper. For large wordlengths we introduce the sparse modulo 2 n  - 1 adders that achieve significant reduction of the wiring complexity without imposing any delay penalty. Then, the Ling-carry formulation of modulo 2 n  - 1 addition is presented. Ling modulo adders save one logic level of implementation and provide high-speed solutions for smaller adder widths, where wiring complexity is small. The performance of the proposed adders has been validated with static CMOS implementations. In all examined cases, the proposed designs achieve significant savings in both area and delay compared to previously published architectures.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast modulo  adder architectures",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.2396&rep=rep1&type=pdf",
+            "Abstract": "A novel architecture for the design of diminished-1 modulo 2n+ 1 adders is proposed in this manuscript, which is based on the Ling carries principle. The adders designed according to the proposed architecture are very fast, since they require one less prefix level than the fastest already known ones. It is further shown that every architecture for diminished-1 adders can also be used for ones with weighted operands. Therefore, the proposed architecture also leads to very fast modulo 2n+ 1 adders for operands in the weighted representation.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Diminished-One Modulo  Multiply-Add Circuits",
+            "Publication year": 2010,
+            "Publication url": "http://pc-vlsi18.ceid.upatras.gr/files/c_41.pdf",
+            "Abstract": "A novel architecture for designing modulo 2n+ 1 multiply-add circuits in the diminished-one number representation is introduced. The number of vectors that have to be added is reduced from (n+ 4) to (n+ 2) utilizing the redundancy that is present in some of the partial products. Handling of zero input operands is also taken into account.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "SUT-RNS forward and reverse converters",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-94-007-1488-5_14",
+            "Abstract": "Stored Unibit Transfer (SUT) has recently been considered as a redundant high-radix encoding for the channels of a Residue Number System (RNS) that can improve the efficiency of conventional redundant RNS. In this work we propose modulo 2 n  \u00b1 1 forward and reverse converters for the SUT-RNS encoding. The proposed converters are based on parallel-prefix binary or modulo adders and are therefore highly efficient.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Extending the viability of power signature\u2014Based IP watermarking in the SoC era",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7841187/",
+            "Abstract": "The power signature of an intellectual property (IP) core during its test has been proposed as a watermark that can reveal if it is used without proper authorization within a System on Chip (SoC). In this paper we show that the classic application of this method is not viable in the current SoC era. Our experimental results indicate that the core power signature would be indistinguishable in a SoC with hundreds of IP cores due to the power consumption of the rest cores that operate and/or are tested in parallel. To this end, we propose embedding ring oscillators, which are enabled at discrete time points during the testing of the core to over pronounce its power signature. Our experimental results indicate that in this way cores can be identified more efficiently.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the design of low power BIST for multipliers with Booth encoding and Wallace tree summation",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1383762102001212",
+            "Abstract": "Low power dissipation (PD) during testing is emerging as one of the major objectives of a built-in self-test (BIST) designer. In this paper we examine the testability of multipliers based on Booth encoding and Wallace tree summation of the partial products and we present a methodology for deriving a low power BIST scheme for them. We propose several design rules for designing the Wallace tree in order to be fully testable under the cell fault model. The proposed low power BIST scheme for the derived multipliers is achieved by: (a) introducing suitable test pattern generators (TPGs), (b) properly assigning the TPG outputs to the multiplier inputs and (c) significantly reducing the test set length. Results indicate that the total power dissipated, the average power per test vector and the peak PD during testing can be reduced up to 73%, 27% and 36% respectively with respect to earlier schemes, depending on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dYOrcUIAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "On the design of modulo  adders",
+            "Publication year": 2001,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient modulo  squarers",
+            "Publication year": 2006,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.6885&rep=rep1&type=pdf",
+            "Abstract": "A new modulo 2k+ 1 squarer architecture is proposed for operands in the normal representation. The novel architecture is derived by showing that all required correction factors can be merged into a single constant one and by treating this, partly as a partial product and partly by the final parallel adder. The proposed architecture utilizes a total of\u2308 k2\u2309+ 1 partial products, each k bits wide and is built using an inverted endaround-carry, carry-save adder tree and a final parallel adder.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Shifter circuits for  RNS",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/document/4733088/",
+            "Abstract": "Shifter circuits are introduced for residue number systems (RNS) with bases composed of the moduli set {2 n  + 1, 2 n , 2 n -1}. The proposed circuits are straightforward to design and their implementation has very small area and delay, making shift operations in RNS inexpensive.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:uLbwQdceFCQC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Low power BIST for wallace tree-based multipliers",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/838914/",
+            "Abstract": "The low power as a feature of a BIST scheme is a significant target due to quality as well as cost related issues. In this paper we examine the testability of multipliers based on Booth encoding and Wallace tree summation of the partial products and we present a methodology for deriving a low power Built In Self Test (BIST) scheme for them. We propose several design rules for designing the Wallace tree in order to be fully testable under the cell fault model. The proposed low power BIST scheme for the derived multipliers is achieved by: (a) introducing suitable Test Pattern Generators (TPG); (b) properly assigning the TPG outputs to the multiplier inputs; and (c) significantly reducing the test set length with respect to earlier schemes; Our results indicate that the total power dissipated during test can be reduced from 64.8% to 72.8%, while the average power per test vector can be reduced from 19.6% to 27.4% and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dYOrcUIAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SUT-RNS Residue-to-Binary Converters Design",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6386871/",
+            "Abstract": "The Stored Unibit Transfer (SUT) encoding has been recently proposed as a redundant high-radix encoding for each of the channels of a Residue Number System (RNS) that can improve the efficiency of Binary Signed Digit (BSD)-encoded RNS. However, a residue-to-binary (reverse) converter for it has not yet been reported in the open literature. In this paper we introduce SUT-RNS reverse converters for two different moduli sets, that is, for the 3-moduli {2 n -1, 2 n , 2 n +1} and for the 4-moduli {2 n -1, 2 n , 2 n +1, 2 2n +1} sets. The area and delay costs of the proposed converters are shown to be less than those required by the corresponding RNS converters for the BSD encoding. In the 4-moduli set case, the converters' costs are shown to be close to those of the corresponding converters for the binary encoding.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:_Ybze24A_UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient modulo  squarers",
+            "Publication year": 2011,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "KoVer: A sophisticated residue arithmetic core generator",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1509465/",
+            "Abstract": "Numerous architectures have been recently proposed for residue arithmetic components, each with its own speed, area and power consumption characteristics. In this paper, we present KoVer, a novel software tool that gives a designer the opportunity to explore several architectures for implementing his residue arithmetic blocks, select the one that best suits his goals and instantly get the HDL level description of the selected architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Path delay fault testing of multiplexer-based shifters",
+            "Publication year": 2001,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00207210110058139",
+            "Abstract": "In this paper we present a method for path delay fault testing of multiplexer-based shifters. We show that many paths of the shifter are not single path propagating hazard free robustly testable (SPP-HFRT) and we present a path selection method such that all the selected paths are SPP-HFRT by (Olog2 n) test-vector pairs, where n is the length of the shifter's operand. The propagation delay along all other paths is a function of the delays along the selected paths. This is the first work addressing the problem of shifter path delay fault testing.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Modified Booth modulo  multipliers",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1261842/",
+            "Abstract": "2/sup n/-1 is one of the most commonly used moduli in residue number systems. In this paper, we propose a new method for designing modified Booth modulo 2/sup n/-1 multipliers, which, for even values of n, require one less partial product than the already known. CMOS implementations reveal that the proposed multipliers compared to earlier solutions offer savings up to 28.7 percent and up to 29.3 percent in the implementation area and execution delay, respectively.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:J-pR_7NvFogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Novel modulo  subtractors",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5201052/",
+            "Abstract": "Novel architectures for designing modulo 2 n +1 subtractors are introduced, for both the normal and the diminished-one number representation of the operands. Zero-handling is also considered in the diminished-one operand representation case. The modulo 2 n +1 subtractors for operands in the normal representation that are proposed are shown to be more efficient in area, delay and power dissipation than the currently most efficient ones. The proposed diminished-one modulo 2 n +1 subtractors offer similar characteristics to those of the corresponding diminished-one adders.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:SdhP9T11ey4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On Modulo  Adder Design",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5669283/",
+            "Abstract": "Two architectures for modulo 2 n +1 adders are introduced in this paper. The first one is built around a sparse carry computation unit that computes only some of the carries of the modulo 2 n +1 addition. This sparse approach is enabled by the introduction of the inverted circular idempotency property of the parallel-prefix carry operator and its regularity and area efficiency are further enhanced by the introduction of a new prefix operator. The resulting diminished-1 adders can be implemented in smaller area and consume less power compared to all earlier proposals, while maintaining a high operation speed. The second architecture unifies the design of modulo 2 n  \u00b1 1 adders. It is shown that modulo 2 n +1 adders can be easily derived by straightforward modifications of modulo 2 n -1 adders with minor hardware overhead.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:olpn-zPbct0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast parallel-prefix Ling-carry adders in QCA nanotechnology",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6815477/",
+            "Abstract": "Ling-carry adders that use a Ladner-Fischer parallel-prefix algorithm for carry computation are explored for quantum-dot cellular automata (QCA) nanotechnology implementations. The results derived from drawn layouts, indicate that the proposed adders outperform in terms of delay all previously reported architectures explored for QCA implementations. The delay difference is becoming bigger in favor of the proposed adders as we move to larger wordlengths.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A systematic methodology for designing area-time efficient parallel-prefix modulo  adders",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1206237/",
+            "Abstract": "In this paper a systematic methodology for designing parallel-prefix modulo 2/sup n/ - 1 adders, for every n, is introduced. The resulting modulo 2/sup n/ - 1 adders feature minimum logical depth and bounded fan-out loading. Additionally, an optimization technique is proposed, which aims at the reduction of redundant operators that appear on the parallel-prefix carry computation trees. Performance data reveal that the reduced structures achieve area /spl times/ time complexity reduction of up to 46% when compared to previously reported designs.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:PELIpwtuRlgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Handling zero in diminished-one modulo  adders",
+            "Publication year": 2003,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/0020721031000148263",
+            "Abstract": "Zero treatment in diminished-one modulo 2 n  + 1 addition has traditionally been performed separately, leading to slow and area-consuming implementations. To overcome this, on the basis of an enhanced number representation used previously, we introduce novel carry look ahead and parallel-prefix architectures for diminished-one modulo 2 n  + 1 adders that can also handle operands equal to 0. Translators for the new representation are also given.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Easily verified IP watermarking",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6850644/",
+            "Abstract": "In this paper the problem of IP watermark proof is attacked by a new technique applied at the state machine level along with assisting hardware. Experiments on benchmark circuits and an example system-on-chip (SoC) indicate that the overhead of the proposed technique on the delay and area is negligible and extremely small respectively.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the use of double-LSB and signed-LSB encodings for RNS",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6004929/",
+            "Abstract": "Double-LSB and signed-LSB have been recently proposed as efficient encodings for addition and multiplication in the modulo 2 n +1 and 2 n \u00b11 channels respectively of a Residue Number System (RNS). In this paper we introduce reverse converters for two 4-moduli sets that adopt these encodings and analyze their efficiency. The theoretical and experimental results that are derived indicate that the area and delay costs of the reverse conversion in such RNSs are comparable to those that use the ordinary binary encoding and hence both the double-LSB and the signed-LSB encodings are well suited to RNSs.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A family of area-time efficient modulo  adders",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5572832/",
+            "Abstract": "A family of diminished-1 modulo 2 n +1 adders is proposed in this manuscript. All members of the family use a sparse carry computation unit for deriving only some of the carries in log 2 n prefix levels, while all the rest carries are computed in an extra one. The proposed adders offer significant area and power savings compared to earlier proposals, while maintaining a high operation speed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:hkOj_22Ku90C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A core generator for arithmetic cores and testing structures with a network interface",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S138376210500055X",
+            "Abstract": "We present Eudoxus, a tool for generation of architectural variants for arithmetic soft cores and testing structures targeting a wide variety of functions, operand sizes and architectures. Eudoxus produces structural and synthesizable VHDL and/or Verilog descriptions for: (a) several arithmetic operations including addition, subtraction, multiplication, division, squaring, square rooting and shifting, and (b) several testing structures that can be used as test pattern generators and test response compactors. Interaction with the user is made through a network interface. Since the end user is presented with a variety of unencrypted structural cores, each one describing an architecture with its own area, delay and power characteristics, he can choose the one that best fits his specific needs which he can further optimize or customize. Therefore, designs utilizing these cores are completed in less time and with less effort.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Ling adders in CMOS standard cell technologies",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1046203/",
+            "Abstract": "Two level carry look-ahead (CLA) and novel parallel-prefix Ling adder architectures are introduced in this paper. The adders resulting from these architectures, as well as from the well known single level CLA Ling adder architecture, are compared against traditional adders using CMOS realizations. The results reveal that Ling architectures are more attractive in several cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Lookahead Architectures for Hamming distance and fixed-threshold Hamming weight comparators",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s00034-014-9891-5",
+            "Abstract": "A Hamming distance comparator (also known as -order comparator) compares its two operands and outputs an agreement if they differ in less than  corresponding bits. In this paper, we introduce novel architectures for the design of Hamming distance  comparators, for the usually adopted values 2 or 3 for . The proposed architectures are fully digital and are based on splitting the difference vector in smaller groups and performing comparison against  in parallel with counting, leading to significant speedup against previous proposals. The derived architectures can also be used for fixed-threshold Hamming weight comparators for small or large threshold values. The proposed 2- and 3-order comparators are more than 60 and 31 % more efficient than the most competitive previous proposal, respectively, using the area  time metric, while their total power dissipation remains low.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "High speed parallel-prefix modulo  adders for diminished-one operands",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/930121/",
+            "Abstract": "We present a new methodology for designing modulo 2/sup n/+1 adders with operands in the diminished-one number system. The proposed methodology leads to parallel-prefix adder implementations. Both an analytical model and VLSI implementations in a standard-cell technology are utilized for comparing the adders designed following the proposed methodology against the existing solutions. Our results indicate; that the proposed parallel-prefix adders are considerably faster than any other already known in the open literature and as fast as the corresponding modulo 2/sup n/ and modulo 2/sup n/-1 adders.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:_B80troHkn4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On accumulator-based bit-serial test response compaction schemes",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/915255/",
+            "Abstract": "The data paths of most contemporary general and special purpose processors include registers, adders and other arithmetic circuits. If these circuits are also used for built-in self-test, the extra area required for embedding testing structures can be cut down efficiently. Several schemes based on accumulators, subtracters, multipliers and shift, resisters have been proposed and analyzed in the past for parallel test response compaction, whereas some efforts have also been devoted in the bit-serial response compaction case. In this paper, we analyse and evaluate the bit-serial version of a recently proposed scheme for parallel test response compaction. Experimental results on the ISCAS'85 benchmark circuits indicate that the post-compaction fault coverage drop attained by the new scheme is significantly lower than other already known accumulator-based compaction schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A class of easily path delay fault testable circuits",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/836466/",
+            "Abstract": "The number of physical paths in a carry save or modified Booth multiplier, as well as in a non-restoring cellular array divider is prohibitively large for testing all paths for delay faults. Besides, neither all paths are robustly testable nor a basis consisting of SPP-HFRT paths exists. In this paper we present sufficient modifications of the above mentioned circuits so that a basis consisting of SPP-HFRT paths exists. The cardinality of the derived basis is very small. Also, hardware and delay overheads due to the modifications are respectively small and negligible.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient modulo  multi-operand adders",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4674948/",
+            "Abstract": "A new architecture for modulo 2 n +1 multi-operand addition (MOMA) of weighted operands is introduced. It is based on the use of a translator circuit that enables to use n-bit operations for performing the weighted multi-operand addition. Our experimental results indicate that the proposed MOMAs offer significant savings in execution time compared to the previously proposed solutions that either require two parallel additions or a carry-save adder tree with twice the depth of the proposed while they can be implemented in less area in most cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Diminished-1 modulo  squarer design",
+            "Publication year": 2005,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/ip-cdt_20055037",
+            "Abstract": "Squarers modulo M are useful design blocks for digital signal processors that internally use a residue number system and for implementing the exponentiators required in cryptographic algorithms. In these applications, some of the most commonly used moduli are those of the form 2n+1. To avoid using (n+1)-bit circuits, the diminished-1 number system can be effectively used in modulo 2n+1 arithmetic applications. In the paper, for the first time in the open literature, the authors formally derive modulo 2n+1 squarers that adopt the diminished-1 number system. The resulting implementations are built using only full-and half-adders and a final diminished-1 adder and can therefore be pipelined straightforwardly.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:UHK10RUVsp4C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Squarers in QCA nanotechnology",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6321897/",
+            "Abstract": "A novel architecture suitable for designing squaring circuits in Quantum-dot Cellular Automata (QCA) nanotechnology is explored in this manuscript. It consists of a reduced partial product array followed by a Dadda adder tree and a final carry-flow adder. A new full adder (FA) layout is also introduced that is more area efficient than the already proposed ones. The proposed squarers offer an execution delay of (2n - 1) clock zones. Layouts of the proposed squarers using multilayer design in the QCAdesigner toolset are presented and their area and delay complexities are compared against previously proposed multipliers.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the Efficiency of Parallel-Prefix Adders",
+            "Publication year": 2003,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Diminished-1 Modulo 2^ n+ 1 Squarer Design",
+            "Publication year": 2004,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/dsd/2004/22030380/12OmNBKW9EC",
+            "Abstract": "Squarers modulo M are useful design blocks for digital signal processors that internally use a residue number system and for implementing the exponentiators required in cryptographic algorithms. In these applications, some of the most commonly used moduli are those of the form 2^ n+ 1. To avoid using (n+ 1)-bit circuits, the diminished-1 number system can be effectively used in modulo 2^ n+ 1 arithmetic applications. In this paper, for the first time in the open literature, we formally derive modulo 2^ n+ 1 squarers that adopt the diminished-1 number system. The resulting implementations are built using only full-or half-adders and a final diminished-1 adder and can therefore be pipelined straightforwardly.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:tKAzc9rXhukC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "A Unifying Approach for Weighted and Diminished-1 Modulo  Addition",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4653509/",
+            "Abstract": "In this paper, it is shown that every architecture proposed for modulo 2 n +1 addition of operands that follow the diminished-1 representation can also be used in the design of modulo 2 n +1 adders for operands that follow the weighted representation. This is achieved by the addition of a constant-time operator composed of a simplified carry-save adder stage. The experimental results indicate that many architectures already proposed for the diminished-1 case, lead to very efficient adders for weighted operands, under this unifying approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:XiVPGOgt02cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Modulo  arithmetic units with embedded diminished-to-normal conversion",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6037450/",
+            "Abstract": "The diminished-one representation has been proposed for RNS-based systems with moduli of the 2 n +1 forms as an encoding that is more efficient than the normal representation in the arithmetic processing units. However, its use necessitates a two-step reverse conversion, in which a diminished-to-normal conversion is first performed before the final residue-to-binary conversion resulting in performance loss. In this paper we introduce efficient modulo 2 n +1 adders, sub tractors and multipliers that accept diminished-one operands at their inputs and derive normal operands at their outputs, that is, we embed the diminished-to-normal conversion within the arithmetic processing. Experimental results show that the proposed one-step approach is more efficient in terms of delay.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Area-time efficient multi-modulus adders and their applications",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S014193311200021X",
+            "Abstract": "Multi-modulus architectures, that is, architectures that can deal with more than one modulo cases, are very useful for reconfigurable processors and fault-tolerant systems that are based on the residue number system (RNS). Two novel architectures are proposed for multi-modulus adders that support the most common moduli cases in RNS channels, that is, modulo 2n \u2212 1, 2n and 2n + 1. The proposed architectures use parallel prefix carry computation units composed of log2 n levels. The experimental results show that the resulting adders are significantly faster and/or smaller than the earlier proposals. Multi-modulus subtractors, multipliers and squarers that rely on the use of the proposed multi-modulus adders are also presented. The last two are shown experimentally to outperform the currently most efficient ones in area, delay and dynamic power dissipation terms.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient modulo  tree multipliers for diminished-1 operands",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1302011/",
+            "Abstract": "In this work we propose a new method for designing modulo 2/sup n/+l multipliers for diminished-1 operands. Our multipliers compared to the already known tree architecture offer enhanced operation speed for the majority of n values, with similar area complexities. They also have very regular structure, and can be pipelined at the full-adder level.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High-speed parallel-prefix modulo  adders",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/863036/",
+            "Abstract": "A novel parallel-prefix architecture for high speed module 2/sup n/-1 adders is presented. The proposed architecture is based on the idea of recirculating the generate and propagate signals, instead of the traditional end-around carry approach. Static CMOS implementations verify that the proposed architecture compares favorably with the already known parallel-prefix or carry look-ahead structures.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Novel Modulo  Multipliers",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1690036/",
+            "Abstract": "A new modulo 2 n +1 multiplier architecture is proposed for operands in the normal representation. The novel architecture is derived by showing that all required correction factors can be merged into a single constant one and by treating this, partly as a partial product and partly by the final parallel adder. The proposed architecture utilizes a total of (n+1) partial products, each n bits wide and is built using an inverted end-around-carry, carry-save adder tree and a final parallel adder.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Modulo  multiplication/sum-of-squares units",
+            "Publication year": 2005,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast modulo  multi-operand adders and residue generators",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167926009000236",
+            "Abstract": "In this manuscript novel architectures for modulo 2 n+ 1 multi-operand addition and residue generation are introduced. The proposed arithmetic components consist of a translation stage, an inverted end-around-carry carry-save-adder tree and an enhanced diminished-1 modulo 2 n+ 1 adder. Qualitative and quantitative results indicate that the proposed architectures result in significantly faster and in several cases smaller circuits than the previously proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Low power built-in self-test schemes for array and Booth multipliers",
+            "Publication year": 2001,
+            "Publication url": "https://www.hindawi.com/archive/2001/067893/abs/",
+            "Abstract": "Recent trends in IC technology have given rise to a new requirement, that of low power dissipation during testing, that Built-In Self-Test (BIST) structures must target along with the traditional requirements. To this end, by exploiting the inherent properties of Carry Save, Carry Propagate and modified Booth multipliers, in this paper we propose new power-efficient BIST structures for them. The proposed BIST schemes are derived by: (a) properly assigning the Test Pattern Generator (TPG) outputs to the multiplier inputs, (b) modifying the TPG circuits and (c) reducing the test set length. Our results indicate that the total power dissipated during testing can be reduced from 29.3% to 54.9%, while the average power per test vector applied can be reduced from 5.8% to 36.5% and the peak power dissipation can be reduced from 15.5% to 50.2% depending on the implementation of the basic cells and the size of the multiplier. The test application time is also significantly reduced, while the introduced BIST schemes implementation area is small.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Hindawi Publishing Corporation"
+        },
+        {
+            "Title": "A 200-mhz RNS core",
+            "Publication year": 2001,
+            "Publication url": "http://pc-vlsi18.ceid.upatras.gr/files/c_17.pdf",
+            "Abstract": "The need for fast computation of digital signal processing algorithms and the development of VLSI techniques of fabrication have motivated the development of efficient hardware implementations of Residue Number System (RNS) arithmetic. In this paper the architecture and implementation details of a core capable to perform both addition and multiplication operations over the moduli set< 232, 232-1 and 232+ 1> is presented. The core accepts its input operands in either residue or straight binary forms. Heavy pipelining of the multiplication modules is used to achieve a 200 MHz operating frequency in a 0.6 um implementation technology..",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A family of parallel-prefix modulo  adders",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1212856/",
+            "Abstract": "We reveal the cyclic nature of idempotency in the case of modulo 2/sup n/-1 addition. Then based on this property, we derive for each n, a family of minimum logic depth modulo 2/sup n/-1 adders, which allows several trade-offs between the number of operators, the internal wire length, and the fanout of internal nodes. Performance data, gathered using static CMOS implementations, reveal that the proposed architectures outperform all previously reported ones in terms of area and/or operation speed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the design of efficient modular adders",
+            "Publication year": 2005,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218126605002726",
+            "Abstract": "Modular adders are met in various applications of computer systems. In this paper, we investigate a new architecture for their design that utilizes a carry save adder stage and two binary adders that operate in parallel. Realizations in static CMOS reveal that the introduced architecture leads to modular adder implementations that offer significant savings in delay and power consumption over implementations based on previously proposed architectures. In parallel, the proposed architecture offers significantly smaller implementation area for small operand widths.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "A macro generator for arithmetic cores",
+            "Publication year": 2000,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the use of diminished-1 adders for weighted modulo  arithmetic components",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4669312/",
+            "Abstract": "The contribution of this paper is twofold. We firstly show that an augmented diminished-1 adder can be used for the modulo 2 n  +1 addition of two n-bit operands in the weighted representation, if it is driven by operands whose sum has been decreased by 1. This scheme outperforms solutions that are based on the use of binary adders and/or weighted modulo 2 n  + 1 adders in both area and delay terms. We then apply this scheme in the design of residue generators (RGs) and multi-operand modulo adders (MOMAs). The resulting arithmetic components remove at least a whole parallel adder out of the critical path of the currently most efficient proposals. Experimental results indicate savings of more than 30% in execution time and of approximately 19% in implementation area when the proposed architectures are used.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High-speed parallel-prefix modulo  adders",
+            "Publication year": 2006,
+            "Publication url": "https://patents.google.com/patent/US7155473B2/en",
+            "Abstract": "A parallel-prefix modulo 2 n\u2212 1 adder that is as fast as the fastest parallel prefix 2 n integer adders, does not require an extra level of logic to generate the carry values, and has a very regular structure to which pipeline registers can easily be added. All nodes of the adder have a fanout\u2266 2. In the prefix structure of the adder, each carry value term output by the parallel prefix structure is determined by the all of the bits in the operands input to the adder. In one embodiment, there are log 2 n stages in the prefix structure. Each stage has n logical operators, and all of the logical operators in the prefix structure are of the same kind. Pipeline registers may be inserted before and/or after a stage in the prefix structure.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "RNS assisted image filtering and edge detection",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6622821/",
+            "Abstract": "Image edge detection plays a fundamental role in image processing as well as in computer and machine vision while when applied in medical images can improve medical diagnosis. Thus, efficient hardware implementation of an edge detection system is highly appreciated. In this work we propose a novel architecture for image filtering and edge detection using the Residue Number System (RNS). A VLSI implementation of the proposed architecture dictates that the employment of RNS for the arithmetic processing leads to small hardware complexity and high operation frequency.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An efficient BIST scheme for high-speed adders",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1214372/",
+            "Abstract": "In this paper we present a new pseudorandom BIST scheme for high-speed adders. Under this scheme an adder is simultaneously used as a test pattern generator and as a response compactor during its own testing. The main advantages of the proposed scheme, compared to prior methods, are minimal performance penalty, small hardware overhead and the benefits of at-speed testing.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient BIST schemes for RNS datapaths",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1206377/",
+            "Abstract": "It has recently been shown that accumulators can be used efficiently for test pattern generation as well as for test response compaction. In this paper we present a BIST scheme for accumulators where the accumulator is simultaneously used as a test pattern generator and a response compactor during its own testing. We also show that the proposed BIST scheme is especially suitable for accumulator, adder and multiplier-accumulator RNS channels leading to minimal hardware overhead and short test sequences.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Area-time efficient multi-moduli adder design",
+            "Publication year": 2010,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.700.5966&rep=rep1&type=pdf",
+            "Abstract": "Multi-moduli architectures, that is, architectures that can deal with more than one modulo cases, are very useful for reconfigurable digital processors and fault-tolerant systems that are based on the Residue Number System (RNS). Two novel architectures are proposed for multi-moduli adders that support the most common moduli cases in RNS channels, that is, modulo 2n\u2212 1, 2n and 2n+ 1. The proposed architectures use parallel prefix carry computation units composed of log2 n levels. The experimental results show that the resulting adders are significantly faster and/or area efficient than the earlier proposals.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient diminished-1 modulo  multipliers",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1401868/",
+            "Abstract": "In this work, we propose a new algorithm for designing diminished-1 modulo 2/sup n/+1multipliers. The implementation of the proposed algorithm requires n + 3 partial products that are reduced by a tree architecture into two summands, which are finally added by a diminished-1 modulo 2/sup n/+1 adder. The proposed multipliers, compared to existing implementations, offer enhanced operation speed and their regular structure allows efficient VLSI implementations.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Modified Booth 1's complement and modulo  multipliers",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/912958/",
+            "Abstract": "In this paper we derive a novel modified Booth multiplier architecture which is based on 1's complement arithmetic. We also extend our theory to the design of module 2/sup n/-1 multipliers. The proposed 1's complement modified Booth multipliers have an execution latency which is approximately the same as that offered by their 2's complement counterparts with a completely regular structure. Therefore, pipelined implementations of them can be derived in a straightforward manner. The proposed modified Booth module 2/sup n/-1 multipliers can find great applicability in Residue Number System (RNS) applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:JQOojiI6XY0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On implementing efficient modulo  arithmetic components",
+            "Publication year": 2010,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218126610006529",
+            "Abstract": "It is shown that a diminished-1 adder, with minor modifications, can be also used for the modulo 2n + 1 addition of two n-bit operands in the weighted representation, if the sum of its input operands is decreased by one. This modified diminished-1 adder can perform n-bit modulo 2n + 1 addition in less area and time than solutions that are based on the use of binary adders and/or weighted modulo 2n + 1 adders. Therefore, it can be applied effectively to all weighted modulo 2n + 1 arithmetic components that finally derive two n-bit addends. A small number of weighted arithmetic components have in the past adopted such a scheme without presenting this general theory. By applying this idea, we propose novel multi-operand modulo 2n + 1 adders (MOMAs) and residue generators (RGs). Experimental results indicate that the resulting arithmetic components offer significant savings in delay, implementation area and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dYOrcUIAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Configurable Booth-encoded Modulo  Multipliers",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6226138/",
+            "Abstract": "Multi-moduli architectures are very useful for reconfigurable digital processors and fault-tolerant systems that utilize the Residue Number System (RNS). In this paper we propose a novel architecture for configurable modulo 2 (exp n)\u00b11 multipliers. It uses the modified Booth encoding of the input operand for deriving the required partial products and an adder tree followed by a sparse parallel-prefix final adder for their addition. Experimental results show that the proposed multipliers offer significant savings in area and delay compared to those previously reported in the literature. Keywords - modulo 2 (exp n)\u00b11 arithmetic; modulo multipliers; Boothencoding; configurable circuits; residue number system",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:ye4kPcJQO24C",
+            "Publisher": "VDE"
+        },
+        {
+            "Title": "Design of efficient modulo  multipliers",
+            "Publication year": 2007,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-cdt_20060026",
+            "Abstract": "A new modulo 2n+1 multiplier architecture is proposed for operands in the weighted representation. A new set of partial products is derived and it is shown that all required correction factors can be merged into a single constant one. It is also proposed that part of the correction factor is treated as a partial product, whereas the rest is handled by the final parallel adder. The proposed multipliers utilise a total of (n+1) partial products, each n bits wide and are built using an inverted end-around-carry, carry-save adder tree and a final adder. Area and delay qualitative and quantitative comparisons indicate that the proposed multipliers compare favourably with the earlier solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:bnK-pcrLprsC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Reverse converters for RNSs with diminished-one encoded channels",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6625221/",
+            "Abstract": "The diminished-one encoding is often considered when representing the operands in the modulo 2 k +1 channels of a Residue Number System (RNS) since it can offer increased arithmetic processing speed. However, limited research is available on the design of residue-to-binary (reverse) converters for RNSs that use the diminished-one encoding in one or more channels. In this paper we introduce a simple methodology for designing such converters which can be applied to reverse converters based on the Chinese Remainder Theorem (CRT) or the New CRT-I method. Efficient converters for three moduli sets, covering different dynamic ranges, are also analytically presented. The proposed converters are shown to be area, delay and power efficient for several moduli sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "RNS multiplication/sum-of-squares units",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/document/4117430/",
+            "Abstract": "Digital signal processing and multimedia applications often profit from the use of a residue number system. Among the most commonly used moduli, in such systems, are those of 2 n -1 and 2 n +1 forms and among the most commonly used operations are multiplication and sum-of-squares. These operations are currently performed using distinct design units and/or consecutive machine cycles. Novel architectures for combined units that perform modulo 2 n -1/diminished-1 modulo 2 n +1 multiplication or sum-of-squares depending on the value of a control signal are proposed",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "An efficient BIST scheme for non-restoring array dividers",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4341538/",
+            "Abstract": "A new effective built-in self-test (BIST) scheme for non- restoring array dividers (NADs) is proposed, that offers more than 99% cell fault coverage in all NADs of practical use. Moreover, it can be implemented in small hardware and can apply all its test vectors within 128 clock cycles. A version of the proposed scheme for power critical applications is also exploited.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient modulo  adder architectures",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167926008000138",
+            "Abstract": "In this manuscript, we introduce novel carry lookahead (CLA) and parallel-prefix architectures for the design of modulo 2 n+ 1 adders with operands in the diminished-1 number representation. The proposed architectures are based on the use of Ling carries\u2019 computation units and they lead to faster and/or smaller adders than the already known ones that are based on the traditional carry signals.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient architectures for modulo  squarers",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5201088/",
+            "Abstract": "Two novel architectures for designing modulo 2 n -1 squarers are given. The first one does not perform any encoding on the input operand, while the second one uses Booth-encoding. Pre-layout estimates indicate that both architectures result in area and/or delay efficient modulo 2 n -1 squarers. The non-encoded modulo squarers are more suitable for small values of n while the Booth-encoded modulo squarers are more suitable for medium and large values of n.",
+            "Abstract entirety": 1,
+            "Author pub id": "dYOrcUIAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

@@ -1,0 +1,1228 @@
+[{
+    "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0395\u03bc\u03af\u03c1\u03b7\u03c2",
+    "romanize name": "Ioannis Emiris",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uoa",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 4425,
+    "Scholar name": "Ioannis Emiris",
+    "Scholar id": "ZK6y-cIAAAAJ",
+    "Affiliation": "Athena Research & Innovation Center; and National & Kapodistrian University of Athens",
+    "Citedby": 4517,
+    "Interests": [
+        "Algorithms",
+        "Scientific computing",
+        "Computational geometry",
+        "Data science",
+        "Robotics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=ZK6y-cIAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Data structures for approximate nearest neighbor search",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6077369402686061518&hl=en&oi=scholarr",
+            "Abstract": "We discuss data-structures and algorithms for three related questions in approximate Nearest-Neighbor Searching (NNS). For dimensions 3-5, we implement an improved Approximate Voronoi Diagram, based on the work of Arya, Malamatos, and Mount. This is the first implementation of the method and we show it is competitive to state-of-the-art NNS libraries. For high dimensions (eg 50 and beyond) we implement randomized kd-trees in CGAL, based on the corresponding algorithms of the FLANN library, and show they are competitive to FLANN and faster than CGAL kd-trees. Lastly, we study structured data, namely points almost aligned on unknown lines. We show that NNS queries take expected time proportional to log log (n), where n denotes the number of points, when there are polylog (n) lines, uniformly distributed in a sphere, and the space dimension is fixed.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Practical volume estimation of zonotopes by a new annealing schedule for cooling convex bodies",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-52200-1_21",
+            "Abstract": " We study the problem of estimating the volume of convex polytopes, focusing on zonotopes. Although a lot of effort is devoted to practical algorithms for polytopes given as an intersection of halfspaces, there is no such method for zonotopes. Our algorithm is based on Multiphase Monte Carlo (MMC) methods, and our main contributions include: (i) a new uniform sampler employing Billiard Walk for the first time in volume computation, (ii) a new simulated annealing generalizing existing MMC by making use of adaptive convex bodies which fit to the input, thus drastically reducing the number of phases. Extensive experiments on zonotopes show our algorithm requires sub-linear number of oracle calls in the dimension, while the best theoretical bound is cubic. Moreover, our algorithm can be easily generalized to any convex body. We offer an open-source, optimized C++ implementation, and analyze its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:CdxZDUztZiMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Enumerating a subset of the integer points inside a Minkowski sum",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925772101000499",
+            "Abstract": "Sparse elimination exploits the structure of algebraic equations in order to obtain tighter bounds on the number of roots and better complexity in numerically approximating them. The model of sparsity is of combinatorial nature, thus leading to certain problems in general-dimensional convex geometry. This work addresses one such problem, namely the computation of a certain subset of integer points in the interior of integer convex polytopes. These polytopes are Minkowski sums, but avoiding their explicit construction is precisely one of the main features of the algorithm. Complexity bounds for our algorithm are derived under certain hypotheses, in terms of output-size and the sparsity parameters. A public domain implementation is described and its performance studied. Linear optimization lies at the inner loop of the algorithm, hence we analyze the structure of the linear programs and compare different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:maZDTaKrznsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Root comparison techniques applied to computing the additively weighted Voronoi diagram.",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Sya5NZ4uFSQC&oi=fnd&pg=PA320&dq=info:w7kRD7AllPwJ:scholar.google.com&ots=jGQ2SciSW_&sig=k8NQJrTntxMmu7NBfwg-YfTG7Ho",
+            "Abstract": "variate polynomials. This problem is by itself important This work examines algebraic techniques for comparing in building geometric software, as is manifest by the re-quadratic algebraic numbers, thus yielding methods for lated efforts mentioned in the sequel. deciding key predicates in various geometric construc- Our main motivation comes from Voronoi diagrams, tions. Our motivation and main application concerns a which are among the most studied constructions in com-dynamic algorithm for computing the additively weighted putational geometry due to their numerous applications,",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Variable elimination for reliable parallel robot calibration",
+            "Publication year": 2001,
+            "Publication url": "https://www-sop.inria.fr/teams/hephaistos/EJCK/Vol1-1/13_daneya.ps",
+            "Abstract": "We study overconstrained polynomial systems from an algebraic and numerical perspective in order to improve the accuracy and reliability of Gough platform calibration. By elimination theory, we may limit ourselves to measuring only the position information by external sensors, besides internal sensor measurements. Measuring orientation, which is intricate and error-prone, becomes unnecessary. A planar analogue is used to formally develop the technique and analyze observability by means of the Jacobian. Several experiments are used to compare the existing alternatives with partial information to our approach, by numerical simulation. It is shown that our method signi cantly improves robustness without compromising accuracy, especially when the measured con gurations lie at the workspace's boundary.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "High dimensional predicates: Algorithms and software",
+            "Publication year": 2012,
+            "Publication url": "http://dcc.ufrj.br/~luisp/publi/CGL-TR-27.pdf",
+            "Abstract": "Determinant predicates are the core procedures in many important geometric algorithms, such as convex hull computations and point location. As the dimension of the computation space grows, a higher percentage of the computation time is consumed by these predicates. We study the sequences of determinants that appear in geometric algorithms. We use dynamic determinant algorithms to speed-up the computation of each predicate by using information from previously computed predicates. We propose two dynamic determinant algorithms with quadratic complexity when employed in convex hull computations, and with linear complexity when used in point location problems. Moreover, we implement them and perform an experimental analysis. Our implementations are based on CGAL and can be easily integrated. They outperform the stateof-the-art determinant and convex hull implementations in most of the tested scenarios, as well as giving a speed-up of 78 times in point location problems. Another contribution focuses on hashing (minors of) determinantal predicates when computing regular triangulations, which accelerates execution up to 100 times when computing resultant polytopes. This has been implemented and submitted to CGAL.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Technical Report CGL-TR-27, NKUA"
+        },
+        {
+            "Title": "Root counts of semi-mixed systems, and an application to counting Nash equilibria",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2608628.2608679",
+            "Abstract": "Semi-mixed algebraic systems are those where the equations can be partitioned into subsets with common Newton polytopes. We are interested in counting roots of semi-mixed multihomogeneous systems, where both variables and equations can be partitioned into blocks, and each block of equations has a given degree in each block of variables. The motivating example is counting the number of totally mixed Nash equilibria in games of several players. Firstly, this paper relates and unifies the BKK and multivariate B\u00e9zout bounds for semi-mixed systems, through mixed volumes and matrix permanents. Permanent expressions for BKK bounds hold for all multihomogeneous systems, without any requirement of semi-mixed structure, as well as systems whose Newton polytopes are products of polytopes in complementary subspaces. Secondly, by means of a novel asymptotic analysis, the complexity of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:L7CI7m0gUJcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the maximal number of real embeddings of minimally rigid graphs in R2, R3 and S2",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717119301257",
+            "Abstract": "Rigidity theory studies the properties of graphs that can have rigid embeddings in a euclidean space R d or on a sphere and other manifolds which in addition satisfy certain edge length constraints. One of the major open problems in this field is to determine lower and upper bounds on the number of realizations with respect to a given number of vertices. This problem is closely related to the classification of rigid graphs according to their maximal number of real embeddings. In this paper, we are interested in finding edge lengths that can maximize the number of real embeddings of minimally rigid graphs in the plane, space, and on the sphere. We use algebraic formulations to provide upper bounds. To find values of the parameters that lead to graphs with a large number of real realizations, possibly attaining the (algebraic) upper bounds, we use some standard heuristics and we also develop a new method inspired \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:43bX7VzcjpAC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Efficient edge-skeleton computation for polytopes defined by oracles",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717115000425",
+            "Abstract": "In general dimension, there is no known total polynomial algorithm for either convex hull or vertex enumeration, i.e. an algorithm whose complexity depends polynomially on the input and output sizes. It is thus important to identify problems and polytope representations for which total polynomial-time algorithms can be obtained. We offer the first total polynomial-time algorithm for computing the edge-skeleton\u2014including vertex enumeration\u2014of a polytope given by an optimization or separation oracle, where we are also given a superset of its edge directions. We also offer a space-efficient variant of our algorithm by employing reverse search. All complexity bounds refer to the (oracle) Turing machine model. There is a number of polytope classes naturally defined by oracles; for some of them neither vertex nor facet representation is obvious. We consider two main applications, where we obtain (weakly) total \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Voronoi diagram of orthogonal polyhedra in two and three dimensions",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-34029-2_1",
+            "Abstract": " Voronoi diagrams are a fundamental geometric data structure for obtaining proximity relations. We consider collections of axis-aligned orthogonal polyhedra in two and three-dimensional space under the max-norm, which is a particularly useful scenario in certain application domains. We construct the exact Voronoi diagram inside an orthogonal polyhedron with holes defined by such polyhedra. Our approach avoids creating full-dimensional elements on the Voronoi diagram and yields a skeletal representation of the input object. We introduce a complete algorithm in 2D and 3D that follows the subdivision paradigm relying on a bounding-volume hierarchy; this is an original approach to the problem. The complexity is adaptive and comparable to that of previous methods. Under a mild assumption it is  in 2D or  in 3D, where n is the number of sites, namely edges or facets resp.,  is the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:1lhNe0rCu4AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "The cross-sectional distribution of portfolio returns and applications",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2105.06573",
+            "Abstract": "This paper aims to develop new mathematical and computational tools for modeling the distribution of portfolio returns across portfolios. We establish relevant mathematical formulas and propose efficient algorithms, drawing upon powerful techniques in computational geometry and the literature on splines, to compute the probability density function, the cumulative distribution function, and the k-th moment of the probability function. Our algorithmic tools and implementations efficiently handle portfolios with 10000 assets, and compute moments of order k up to 40 in a few seconds, thus handling real-life scenarios. We focus on the long-only strategy which is the most common type of investment, i.e. on portfolios whose weights are non-negative and sum up to 1; our approach is readily generalizable. Thus, we leverage a geometric representation of the stock market, where the investment set defines a simplex polytope. The cumulative distribution function corresponds to a portfolio score capturing the percentage of portfolios yielding a return not exceeding a given value. We introduce closed-form analytic formulas for the first 4 moments of the cross-sectional returns distribution, as well as a novel algorithm to compute all higher moments. We show that the first 4 moments are a direct mapping of the asset returns' moments. All of our algorithms and solutions are fully general and include the special case of equal asset returns, which was sometimes excluded in previous works. Finally, we apply our portfolio score in the design of new performance measures and asset management. We found our score-based optimal portfolios less concentrated than the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:Ade32sEp0pkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Discriminants of multilinear systems",
+            "Publication year": 2016,
+            "Publication url": "https://arxiv.org/abs/1607.01496",
+            "Abstract": "We study well-constrained bilinear algebraic systems in order to formulate their discriminant. We derive a new determinantal formula for the discriminant of a multilinear system that appears in the study of Nash equilibria of multiplayer games with mixed strategies.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:4vMrXwiscB8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exact and efficient evaluation of the InCircle predicate for parametric ellipses and smooth convex objects",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0010448508000936",
+            "Abstract": "We study the Voronoi diagram, under the Euclidean metric, of a set of ellipses, given in parametric representation. The article concentrates on the InCircle predicate, which is the hardest to compute, and describes an exact and complete solution. It consists of a customized subdivision-based method that achieves quadratic convergence, leading to a real-time implementation for non-degenerate inputs. Degenerate cases are handled using exact algebraic computation. We conclude with experiments showing that most instances run in less than 0.1 s, on a 2.6 GHz Pentium-4, whereas degenerate cases may take up to 13 s. Our approach readily generalizes to smooth convex objects.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On the complexity of real solving bivariate systems",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1277548.1277567",
+            "Abstract": "We consider exact real solving of well-constrained, bivariate systems of relatively prime polynomials. The main problem is to compute all common real roots in isolating interval representation, and to determine their intersection multiplicities. We present three algorithms and analyze their asymptotic bit complexity, obtaining a bound of \u00d5 B (N 14) for the purely projection-based method, and \u00d5 B (N 12) for two subresultants-based methods: these ignore polylogarithmic factors, and N bounds the degree and the bitsize of the polynomials. The previous record bound was \u00d5 B (N 14).",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Solving polynomial equations: foundations, algorithms, and applications",
+            "Publication year": 2005,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:kz9GbA2Ns4gC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Mixed volume and distance geometry techniques for counting Euclidean embeddings of rigid graphs",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4614-5128-0_2",
+            "Abstract": "A graph G is called generically minimally rigid in \u211d  d  if, for any choice of sufficiently generic edge lengths, it can be embedded in \u211d  d  in a finite number of distinct ways, modulo rigid transformations. Here, we deal with the problem of determining tight bounds on the number of such embeddings, as a function of the number of vertices. The study of rigid graphs is motivated by numerous applications, mostly in robotics, bioinformatics, sensor networks, and architecture. We capture embeddability by polynomial systems with suitable structure so that their mixed volume, which bounds the number of common roots, yields interesting upper bounds on the number of embeddings. We explore different polynomial formulations so as to reduce the corresponding mixed volume, namely by introducing new variables that remove certain spurious roots and by applying the theory of distance geometry. We focus on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "The predicates for the Voronoi diagram of ellipses",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1137856.1137891",
+            "Abstract": "This paper examines the computation of the Voronoi diagram of a set of ellipses in the Euclidean plane. We propose the first complete algorithms, under the exact computation paradigm, for the predicates of an incremental algorithm: \u03ba 1 decides which one of 2 given ellipses is closest to a given exterior point; \u03ba 2 decides the position of a query ellipse relative to an external bitangent line of 2 given ellipses; \u03ba 3 decides the position of a query ellipse relative to a Voronoi circle of 3 given ellipses; \u03ba 4 determines the type of conflict between a Voronoi edge, defined by 4 given ellipses, and a query ellipse. The paper is restricted to non-intersecting ellipses, but the extension to arbitrary ones is possible. The ellipses are input in parametric representation or constructively in terms of their axes, center and rotation. For \u03ba 1 and \u03ba 2 we derive optimal algebraic conditions, solve them exactly and provide efficient implementations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "D2. 1: Handling High-Dimensional Data",
+            "Publication year": 2013,
+            "Publication url": "https://cordis.europa.eu/docs/projects/cnect/7/255827/080/deliverables/001-D21.pdf",
+            "Abstract": "We give a survey and assessment of methods that are commonly used for dealing with high-dimensional data, mainly from the database community. We refer to the book by Samet [59] for a comprehensive overview. In the following chapters, we will deal with the following topics.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computing the Newton polygon of the implicit equation",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s11786-010-0046-1",
+            "Abstract": "We consider rationally parameterized plane curves, where the polynomials in the parameterization have fixed supports and generic coefficients. We apply sparse (or toric) elimination theory in order to determine the vertex representation of the implicit equation\u2019s Newton polygon. In particular, we consider mixed subdivisions of the input Newton polygons and regular triangulations of point sets defined by Cayley\u2019s trick. We consider polynomial and rational parameterizations, where the latter may have the same or different denominators; the implicit polygon is shown to have, respectively, up to four, five, or six vertices.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:k_IJM867U9cC",
+            "Publisher": "SP Birkh\u00e4user Verlag Basel"
+        },
+        {
+            "Title": "High-dimensional approximate r-nets",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00453-019-00664-8.pdf",
+            "Abstract": "The construction of r-nets offers a powerful tool in computational and metric geometry. We focus on high-dimensional spaces and present a new randomized algorithm which efficiently computes approximate r-nets with respect to Euclidean distance. For any fixed , the approximation factor is  and the complexity is polynomial in the dimension and subquadratic in the number of points; the algorithm succeeds with high probability. Specifically, we improve upon the best previously known (LSH-based) construction of Eppstein et al. (Approximate greedy clustering and distance selection for graph metrics, 2015. CoRR arxiv: abs/1507.01555) in terms of complexity, by reducing the dependence on , provided that  is sufficiently small. Moreover, our method does not require LSH but follows Valiant\u2019s (J ACM 62(2):13, 2015. https://doi.org/10.1145/2728167) approach in designing a sequence of reductions of our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:mNrWkgRL2YcC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Cgal package for 2d curved kernel (a wrapper for synaps)",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17547682760901241341&hl=en&oi=scholarr",
+            "Abstract": "We present a wrapper for Synaps that allows the cgal user to use the real solving capabilities of Synaps for certain operations in the 2D curved-kernel, such as the arrangements of circular and conics arcs. The interface is compatible with the cgalconcepts of Algebraic kernel for circles and conic arcs.In this report we present an interface between cgal and Synaps, that allows the cgal user to access the algebraic functionality in Synaps in order to partly implement a 2D Curved Kernel. As a testbed of our ideas, we provide the algebraic support for the predicates needed in the arrangment of circular and conic arcs. This is, of course, closely related to the Circular Kernel in cgal, as described in [5]. The developed interface is lean because the corresponding module in Synaps was developed with this prospect in mind. It respects the guidelines discussed in [1].",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Technical Report ACS-TR-123203-02"
+        },
+        {
+            "Title": "Notes creuses sur l\u2019\u00e9limination creuse",
+            "Publication year": 2009,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Emiris/publication/336252574_Notes_creuses_sur_l'elimination_creuse/links/5d96f91b458515c1d391cef8/Notes-creuses-sur-lelimination-creuse.pdf",
+            "Abstract": "La th\u00e9orie d\u2019\u00e9limination creuse utilise plusieurs notions g\u00e9om\u00e9triques dans l\u2019\u00e9tude de polyn\u00f4mes et de systemes alg\u00e9briques. On commence avec la notion de base qui est le volume mixte, et on propose des m\u00e9thodes pour son calcul. Quand il y a plusieurs coefficients \u00e9gauxa z\u00e9ro, comme dans la plupart",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Practical volume estimation by a new annealing schedule for cooling convex bodies",
+            "Publication year": 2019,
+            "Publication url": "https://www.researchgate.net/profile/Vissarion-Fisikopoulos/publication/333102709_Practical_Volume_Estimation_by_a_New_Annealing_Schedule_for_Cooling_Convex_Bodies/links/5cdd2a8e299bf14d959c7b5d/Practical-Volume-Estimation-by-a-New-Annealing-Schedule-for-Cooling-Convex-Bodies.pdf",
+            "Abstract": "We study the problem of estimating the volume of convex polytopes, focusing on H-and V-polytopes, as well as zonotopes. Although a lot of effort is devoted to practical algorithms for H-polytopes there is no such method for the latter two representations. We propose a new, practical algorithm for all representations, which is faster than existing methods. It relies on Hit-and-Run sampling, and combines a new simulated annealing method with the Multiphase Monte Carlo (MMC) approach. Our method introduces the following key features to make it adaptive:(a) It defines a sequence of convex bodies in MMC by introducing a new annealing schedule, whose length is shorter than in previous methods with high probability, and the need of computing an enclosing and an inscribed ball is removed;(b) It exploits statistical properties in rejection-sampling and proposes a better empirical convergence criterion for specifying each step;(c) For zonotopes, it may use a sequence of convex bodies for MMC different than balls, where the chosen body adapts to the input. We offer an open-source, optimized C++ implementation, and analyze its performance to show that it outperforms state-of-the-art software for H-polytopes by Cousins-Vempala (2016) and Emiris-Fisikopoulos (2018), while it undertakes volume computations that were intractable until now, as it is the first polynomial-time, practical method for V-polytopes and zonotopes that scales to high dimensions (currently 100). We further focus on zonotopes, and characterize them by their order (number of generators over dimension), because this largely determines sampling complexity. The number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:lgwcVrK6X84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Toric resultants and applications to geometric modelling",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-27357-3_7",
+            "Abstract": "Toric (or sparse) elimination theory uses combinatorial and discrete geometry to exploit the structure of a given system of algebraic equations. The basic objects are the Newton polytope of a polynomial, the Minkowski sum of a set of convex polytopes, and a mixed polyhedral subdivision of such a Minkowski sum. Different matrices expressing the toric resultant shall be discussed, and effective methods for their construction will be described based on discrete geometric operations, namely the subdivision-based methods and the incremental algorithm. The former allows us to produce Macaulay-type formulae of the toric resultant by determining a matrix minor that divides the determinant in order to yield the precise resultant. Toric resultant matrices exhibit a quasi-Toeplitz structure, which may reduce complexity by almost one order of magnitude in terms of matrix dimension.We discuss perturbation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Minkowski decomposition and geometric predicates in sparse implicitization",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2755996.2756661",
+            "Abstract": "Based on the computation of a polytope Q, called the predicted polytope, containing the Newton polytope P of the implicit equation, implicitization of a parametric hypersurface is reduced to computing the nullspace of a numeric matrix. Polytope Q may contain P as a Minkowski summand, thus jeopardizing the efficiency of sparse implicitization. Our contribution is twofold. On one hand we tackle the aforementioned issue in the case of 2D curves and 3D surfaces by Minkowski decomposing Q, thus detecting the Minkowski summand relevant to implicitization: we design and implement in Sage a new, public domain, practical, potentially generalizable and worst-case optimal algorithm for Minkowski decomposition in 3D based on integer linear programming. On the other hand, we formulate basic geometric predicates, namely membership and sidedness for given query points, as rank computations on the interpolation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:HbR8gkJAVGIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algebraic elimination for parallel robot calibration",
+            "Publication year": 2004,
+            "Publication url": "https://hal.inria.fr/hal-00990064/",
+            "Abstract": "This paper implements algebraic elimination methods for an accurate and general calibration of parallel robots, applied to Gough (or Stewart) platforms. It focuses on two approaches, namely algebraic variable elimination and monomial lineariza- tion, which are compared to a classical numerical optimization technique. We detail the former, since it is not often used for the problems at hand, and specify its application by means of the sparse resultant, combined with numerical linear algebra. We per- form several experiments that allow us to compare the three meth- ods in the presence of measurement errors. Our main conclusion is that elimination methods offer an interesting alternative to more well-established methods for parallel robot calibration by satisfy- ing the goals of accuracy and robustness. Moreover, out methods require no initial estimate and no hypothesis on the noise distribu- tion in order to derive a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the asymptotic and practical complexity of solving bivariate systems over the reals",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717108001235",
+            "Abstract": "This paper is concerned with exact real solving of well-constrained, bivariate polynomial systems. The main problem is to isolate all common real roots in rational rectangles, and to determine their intersection multiplicities. We present three algorithms and analyze their asymptotic bit complexity, obtaining a bound of O\u02dc B (N 14) for the purely projection-based method, and O\u02dc B (N 12) for two subresultant-based methods: this notation ignores polylogarithmic factors, where N bounds the degree, and the bitsize of the polynomials. The previous record bound was O\u02dc B (N 14). Our main tool is signed subresultant sequences. We exploit recent advances on the complexity of univariate root isolation, and extend them to sign evaluation of bivariate polynomials over algebraic numbers, and real root counting for polynomials over an extension field. Our algorithms apply to the problem of simultaneous inequalities; they also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Implicit Polynomial Support Optimized for Sparseness",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44842-X_41",
+            "Abstract": "We propose the use of various tools from algebraic geometry, with an emphasis on toric (or sparse) elimination theory, in order to predict the support of the implicit equation of a parametric hypersurface. The problem of implicitization lies at the heart of several algorithms in geometric modeling and computer-aided design, two of which (based on interpolation) are immediately improved by our contribution. We believe that other methods of implicitization shall be able to benefit from our work. More specifically, we use information on the support of the toric resultant, and degree bounds, formulated in terms of the mixed volume of Newton polytopes. The computed support of the implicit equation depends on the sparseness of the parametric expressions and is much tighter than the one predicted by degree arguments. Our Maple implementation illustrates many cases in which we obtain the exact support. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Berlin: Springer-Verlag"
+        },
+        {
+            "Title": "An inversion-based implicitization method",
+            "Publication year": 2002,
+            "Publication url": "https://hal.inria.fr/inria-00072104/",
+            "Abstract": "This paper proposes a new method for implicitizing surfaces given by a proper parametrization mapping, under the assumption that the inverse mapping has been computed. The advantage of the method is that it can handle base points and it is readily generalizable to hypersurfaces in arbitrary dimension. Moreover, the computational tools required are GCD operations and taking the square-free part of a polynomial. Alternatively, one may employ factorization.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:86PQX7AUzd4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sign methods for enumerating solutions of nonlinear algebraic systems",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.9017&rep=rep1&type=pdf",
+            "Abstract": "We implement the concept of topological degree to isolate and compute all zeros of systems of nonlinear algebraic equations when the only computable information required is the algebraic signs of the components of the function. The basic theorems of Kronecker\u2013Picard theory relate the number of roots to the topological degree. They are combined with grid methods in order to compute the topological degree by using the minimum possible information, namely the sign of a function at some value. Recent fast methods, which work over fixed precision, are applied to determine the sign of algebraic systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:EkHepimYqZsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Neural networks for cryptocurrency evaluation and price fluctuation forecasting",
+            "Publication year": 2019,
+            "Publication url": "https://hal.inria.fr/hal-03116041/",
+            "Abstract": "Today, there is a growing number of digital assets, often built on questionable technical foundations. We design and implement supervized learning models in order to explore different aspects of a cryptocurrency affecting its performance, its stability as well as its daily price fluctuation. One characteristic feature of our approach is that we aim at a holistic view that would integrate all available information: First, financial information, including market capitalization and historical daily prices. Second, features related to the underlying blockchain from blockchain explorers like network activity: blockchains handle the supply and demand of a cryptocurrency. Lastly, we integrate software development metrics based on GitHub activity by the supporting team. We set two goals. First, to classify a given cryptocurrency by its performance, where stability and price increase are the positive features. Second, to forecast daily price tendency through regression; this is of course a well-studied problem. A related third goal is to determine the most relevant features for such analysis. We compare various neural networks using most of the widely traded digital currencies (e.g. Bitcoin, Ethereum and Litecoin) in both classification and regression settings. Simple Feedforward neural networks are considered, as well as Recurrent neural networks (RNN) along with their improvements, namely Long Short-Term Memory and Gated Recurrent Units. The results of our comparative analysis indicate that RNNs provide the most promising results.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:yxmsSjX2EkcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Plane mixed discriminants and toric jacobians",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-08635-4_6",
+            "Abstract": "Polynomial algebra offers a standard approach to handle several problems in geometric modeling. A key tool is the discriminant of a univariate polynomial, or of a well-constrained system of polynomial equations, which expresses the existence of a multiple root. We describe discriminants in a general context, and focus on exploiting the sparseness of polynomials via the theory of Newton polytopes and sparse (or toric) elimination. We concentrate on bivariate polynomials and establish an original formula that relates the discriminant of two bivariate Laurent polynomials with fixed support, with the sparse resultant of these polynomials and their toric Jacobian. This allows us to obtain a new proof for the bidegree formula of the discriminant as well as to establish multiplicativity formulas arising when one polynomial can be factored.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:fEOibwPWpKIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Sparse implicitization by interpolation: Characterizing non-exactness and an application to computing discriminants",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0010448512002138",
+            "Abstract": "We revisit implicitization by interpolation in order to examine its properties in the context of sparse elimination theory. Based on the computation of a superset of the implicit support, implicitization is reduced to computing the nullspace of a numeric matrix. The approach is applicable to polynomial and rational parameterizations of curves and (hyper)surfaces of any dimension, including the case of parameterizations with base points. Our support prediction is based on sparse (or toric) resultant theory, in order to exploit the sparsity of the input and the output. Our method may yield a multiple of the implicit equation: we characterize and quantify this situation by relating the nullspace dimension to the predicted support and its geometry. In this case, we obtain more than one multiple of the implicit equation; the latter can be obtained via multivariate polynomial GCD (or factoring). All of the above techniques extend to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:WC23djZS0W4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Multilinear polynomial systems: Root isolation and bit complexity",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S074771712030047X",
+            "Abstract": "We exploit structure in polynomial system solving by considering polynomials that are linear in subsets of the variables. We focus on algorithms and their Boolean complexity for computing isolating hyperboxes for all the isolated complex roots of well-constrained, unmixed systems of multilinear polynomials based on resultant methods. We enumerate all expressions of the multihomogeneous (or multigraded) resultant of such systems as a determinant of Sylvester-like matrices, aka generalized Sylvester matrices. We construct these matrices by means of Weyman homological complexes, which generalize the Cayley-Koszul complex. The computation of the determinant of the resultant matrix is the bottleneck for the overall complexity. We exploit the quasi-Toeplitz structure to reduce the problem to efficient matrix-vector multiplication, which corresponds to multivariate polynomial multiplication, by extending the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:ALROH1vI_8AC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Practical linear-space Approximate Near Neighbors in high dimension",
+            "Publication year": 2016,
+            "Publication url": "https://arxiv.org/abs/1612.07405",
+            "Abstract": "The -approximate Near Neighbor problem in high dimensional spaces has been mainly addressed by Locality Sensitive Hashing (LSH), which offers polynomial dependence on the dimension, query time sublinear in the size of the dataset, and subquadratic space requirement. For practical applications, linear space is typically imperative. Most previous work in the linear space regime focuses on the case that  exceeds  by a constant term. In a recently accepted paper, optimal bounds have been achieved for any  \\cite{ALRW17}. Towards practicality, we present a new and simple data structure using linear space and sublinear query time for any  including . Given an LSH family of functions for some metric space, we randomly project points to the Hamming cube of dimension , where  is the number of input points. The projected space contains strings which serve as keys for buckets containing the input points. The query algorithm simply projects the query point, then examines points which are assigned to the same or nearby vertices on the Hamming cube. We analyze in detail the query time for some standard LSH families. To illustrate our claim of practicality, we offer an open-source implementation in {\\tt C++}, and report on several experiments in dimension up to 1000 and  up to . Our algorithm is one to two orders of magnitude faster than brute force search. Experiments confirm the sublinear dependence on  and the linear dependence on the dimension. We have compared against state-of-the-art LSH-based library {\\tt FALCONN}: our search is somewhat slower, but memory usage and preprocessing time are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:HeT0ZceujKMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Protein structure prediction using residual dipolar couplings",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73433-8_16",
+            "Abstract": "NMR is important for the determination of protein structures, but the usual NOE distance constraints cannot capture large structures. However, RDC experiments offer global orientation constraints for the H\u2013N backbone vectors. Our first application validates local structure from 3 RDC values, by solving an elliptical equation. Second, we model the protein backbone by drawing upon robot kinematics, and compute the relative orientation of consecutive pairs of peptide planes; we obtain a unique orientation by considering also NOE distances. Third, we present a novel algebraic method for determining the relative orientation of secondary structures, a crucial question in fold classification. The orientation of the magnetic vector relative to the secondary structures is determined using two media, leading to a rotation matrix mapping one molecular frame to the other. A unique solution is obtained from RDC data, with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:0izLItjtcgwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Regular triangulations and resultant polytopes",
+            "Publication year": 2010,
+            "Publication url": "http://cgi.di.uoa.gr/~ckonaxis/files/pub/eurocg10.pdf",
+            "Abstract": "We describe properties of the Resultant polytope of a given set of polynomial equations towards an outputsensitive algorithm for enumerating its vertices. In principle, one has to consider all regular fine mixed subdivisions of the Minkowski sum of the Newton polytopes of the given equations. By the Cayley trick, this is equivalent to computing all regular triangulations of another point set in higher dimension. However, the number of all regular triangulations is generally much larger than that of the vertices of the Resultant polytope, as illustrated by our experiments [3]. Thus, we study output-sensitive methods by defining classes of subdivisions, called configurations, which yield the same resultant vertex. Moreover, we offer algorithmic versions of certain results by Sturmfels [11], regarding the edges of the Resultant polytope. Lastly, we settle some easy cases, and discuss harder examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:L1USKYWJimsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design framework for a simple robotic ankle evaluation and rehabilitation device",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4650163/",
+            "Abstract": "This paper juxtaposes simple yet sufficiently general robotic mechanisms for ankle function evaluation, measurement and physiotherapy. For the choice, design and operation of the mechanism, a kinematics model of foot is adopted from biomechanics, based on the hypothesis that foot kinematics are similar to a 2R serial robot. We undertake experiments, using a 3D scanner and an inertial sensor in order to fully specify the design framework by studying a larger sample of healthy subjects. Our experimental analysis confirms and enhances the 2R foot model, and leads us to the choice of the specific mechanism. We compute the required workspace and thus address the issues required for a complete and efficient design. The robot must be capable to perform several multi-axis motions and sustain a significant range of forces and torques. We compare mechanisms based on serial and parallel robots, and choose a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Minkowski decomposition of convex lattice polygons",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-540-33275-6_14.pdf",
+            "Abstract": "A relatively recent area of study in geometric modeling concerns toric B\u00e9zier patches. In this line of work, several questions reduce to testing whether a given convex lattice polygon can be decomposed into a Minkowski sum of two such polygons and, if so, to finding one or all such decompositions. Other motivations for this problem include sparse resultant computation, especially for the implicitization of parametric surfaces, and factorization of bivariate polynomials. Particularly relevant for geometric modeling are decompositions where at least one summand has a small number of edges. We study the complexity of Minkowski decomposition and propose efficient algorithms for the case of constant-size summands. We have implemented these algorithms and illustrate them by various experiments with random lattice polygons and on all convex lattice polygons with zero or one interior lattice points. We also express \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Improved algorithms for computing determinants and resultants",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0885064X04000226",
+            "Abstract": "Our first contribution is a substantial acceleration of randomized computation of scalar, univariate, and multivariate matrix determinants, in terms of the output-sensitive bit operation complexity bounds, including computation modulo a product of random primes from a fixed range. This acceleration is dramatic in a critical application, namely solving polynomial systems and related studies, via computing the resultant. This is achieved by combining our techniques with the primitive-element method, which leads to an effective implicit representation of the roots. We systematically examine quotient formulae of Sylvester-type resultant matrices, including matrix polynomials and the u-resultant. We reduce the known bit operation complexity bounds by almost an order of magnitude, in terms of the resultant matrix dimension. Our theoretical and practical improvements cover the highly important cases of sparse and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Research workshop on algebraic representations in computer-aided design for complex shapes",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2893803.2893811",
+            "Abstract": "This is the Kickoff Workshop of European Network ARCADES, and also serves as a Recruitment event for the Network's 13 open PhD positions. There is funding available for student participants.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:XvxMoLDsR5gC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Matrix Methods for Solving Algebraic",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=pX4QBwAAQBAJ&oi=fnd&pg=PA68&dq=info:-LAvPuZKEEIJ:scholar.google.com&ots=ZXJy9ttJOt&sig=jnjBjO1ZvKH8cvAaKSSWesC7TEQ",
+            "Abstract": "The problem of computing all common Zeros of a system of polynomials is of fundamental importance in a wide variety of scientific and engineering applications. This article surveys efficient methods based on the sparse resultant for computing all isolated solutions of an arbitrary system of n polynomials in n unknowns. In particular, we construct matrix formulae which yield nontrivial multiples of the resultant thus reducing root-finding to the eigendecomposition of a square matrix.Our methods can exploit structure of the polynomials as well as that of the resulting matrices. This is an advantage as compared to other algebraic methods, such as Gr\u00f6bner bases and characteristic sets. All approaches have complexity exponential in n, but Gr\u00f6bner bases suffer in the worst case by a quadratic exponent, whereas for matrix-based methods the exponent is linear. Moreover, they are discontinuous with respect to perturbations in the input coefficients, unlike resultant matrix methods in general. Of course, Gr\u00f6bner bases provide a complete description of arbitrary algebraic systems and have been well developed, including public domain stand-alone implementations or as part of standard computer algebra systems. There is also a number of numerical methods for solving algebraic systems, but their enumeration goes beyond this article's scope.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:XUvXOeBm_78C",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Maximizing the guarded interior of an art gallery",
+            "Publication year": 2006,
+            "Publication url": "https://fragkoudakis.gr/assets/talks/ewcg2006.pdf",
+            "Abstract": "Maximizing the Guarded Interior of an Art Gallery Page 1 22nd European Workshop on \nComputational Geometry, Delphi, Greece 1 Maximizing the Guarded Interior of an Art Gallery \nIoannis Emiris\u2217 Christodoulos Fragoudakis\u2020 Euripides Markou\u2217 emiris@di.uoa.gr cfrag@cs.ntua.gr \nemarkou@di.uoa.gr March 28, 2006 *Department of Informatics and Telecommunications, \nNational University of Athens \u2020Computer Science, ECE, National Technical University of \nAthens Page 2 The Art Gallery (AG) Theorem . The Art Gallery (AG) Theorem . Variations of the \nAG Problem . Visibility Predicates . Approximability and Inapproximability Results of MVG . Our \nProblems . A Treasury . Previous Work . Our Results . A Hierarchy of Approximation Classes . \nA Simple Construction . The Maximum Area Vertex/Edge Guards Problem . An Approximation \nAlgorithm for Vertex Guards . The Maximum Treasures Value Vertex Guards Problem . \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real algebraic numbers: Complexity analysis and experimentation",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85521-7_4",
+            "Abstract": "We present algorithmic, complexity and implementation results concerning real root isolation of a polynomial of degree d, with integer coefficients of bit size \u2264\u2009\u03c4, using Sturm (-Habicht) sequences and the Bernstein subdivision solver. In particular, we unify and simplify the analysis of both methods and we give an asymptotic complexity bound of . This matches the best known bounds for binary subdivision solvers. Moreover, we generalize this to cover the non square-free polynomials and show that within the same complexity we can also compute the multiplicities of the roots. We also consider algorithms for sign evaluation, comparison of real algebraic numbers and simultaneous inequalities, and we improve the known bounds at least by a factor of d.Finally, we present our C++ implementation in synaps and some preliminary experiments on various data sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Implicit representations of high-codimension varieties",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167839619300676",
+            "Abstract": "Implicitization usually focuses on plane curves and (hyper)surfaces, in other words, varieties of codimension 1. In this paper we shift the focus on space curves and, more generally, on varieties of codimension larger than 1, and discuss approaches that are not sensitive to base points.Our first contribution is a direct generalization of an implicitization method based on interpolation matrices for objects of high codimension given parametrically or as point clouds. Our result shows the completeness of this approach which, furthermore, reduces geometric operations and predicates to linear algebra computations.Our second, and main contribution is an implicitization method of parametric space curves and varieties of codimension >1, which exploits the theory of Chow forms to obtain the equations of conical (hyper)surfaces intersecting precisely at the given object. We design a new, practical, randomized algorithm that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:jgBuDB5drN8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Solving polynomial equations, volume 14 of",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8498294242855754542&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:hsZV8lGYWTMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Robust parallel robot calibration with partial information",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/933121/",
+            "Abstract": "A new algorithm for calibrating Gough platforms is proposed. It requires internal sensor measurements and only the position information is provided by external sensors. It removes the need to measure orientation, which is intricate and error-prone, by algebraic elimination. This approach, relying on resultant and dialytic elimination, produces an equivalent, yet simpler, set of equations. A numerical simulation is given to compare the existing techniques with our method using partial information, which proves to be significantly more robust, without compromising accuracy. It reduces initial error in pose determination by 99% and 80-98%, in two sets of experiments with realistic conditions. We compare different choices for the measured configurations and show the relevance of configurations at the workspace's boundary. This increases reliability by avoiding to use any random measured configurations.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A subdivision-based algorithm for the sparse resultant",
+            "Publication year": 2000,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/337244.337247",
+            "Abstract": "Multivariate resultants generalize the Sylvester resultant of two polynomials and characterize the solvability of a polynomial system. They also reduce the computation of all common roots to a problem in linear algebra. We propose a determinantal formula for the sparse resultant of an arbitrary system of n + 1 polynomials in n variables. This resultant generalizes the classical one and has significantly lower degree for polynomials that are sparse in the sense that their mixed volume is lower than their B\u00e9zout number. Our algorithm uses a mixed polyhedral subdivision of the Minkowski sum of the Newton polytopes in order to construct a Newton matrix. Its determinant is a nonzero multiple of the sparse resultant and the latter equals the GCD of   at most n + 1 such determinants. This construction implies a restricted version of an effective sparse Nullstellensatz. For an arbitrary specialization of the coefficients, there are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Experimental evaluation and cross-benchmarking of univariate real solvers",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1577190.1577202",
+            "Abstract": "Real solving of univariate polynomials is a fundamental problem with several important applications. This paper is focused on the comparison of black-box implementations of state-of-the-art algorithms for isolating real roots of univariate polynomials over the integers. We have tested 9 different implementations based on symbolic-numeric methods, Sturm sequences, Continued Fractions and Descartes' rule of sign. The methods under consideration were developed at the GALAAD group at INRIA, the VEGAS group at LORIA and the MPI Saarbr\u00fccken. We compared their sensitivity with respect to various aspects such as degree, bitsize or root separation of the input polynomials. Our datasets consist of 5,000 polynomials from many different settings, which have maximum coefficient bitsize up to bits 8,000, and the total running time of the experiments was about 50 hours. Thereby, all implementations of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Practical volume computation of structured convex bodies, and an application to modeling portfolio dependencies and financial crises",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1803.05861",
+            "Abstract": "We examine volume computation of general-dimensional polytopes and more general convex bodies, defined as the intersection of a simplex by a family of parallel hyperplanes, and another family of parallel hyperplanes or a family of concentric ellipsoids. Such convex bodies appear in modeling and predicting financial crises. The impact of crises on the economy (labor, income, etc.) makes its detection of prime interest. Certain features of dependencies in the markets clearly identify times of turmoil. We describe the relationship between asset characteristics by means of a copula; each characteristic is either a linear or quadratic form of the portfolio components, hence the copula can be constructed by computing volumes of convex bodies. We design and implement practical algorithms in the exact and approximate setting, we experimentally juxtapose them and study the tradeoff of exactness and accuracy for speed. We analyze the following methods in order of increasing generality: rejection sampling relying on uniformly sampling the simplex, which is the fastest approach, but inaccurate for small volumes; exact formulae based on the computation of integrals of probability distribution functions; an optimized Lawrence sign decomposition method, since the polytopes at hand are shown to be simple; Markov chain Monte Carlo algorithms using random walks based on the hit-and-run paradigm generalized to nonlinear convex bodies and relying on new methods for computing a ball enclosed; the latter is experimentally extended to non-convex bodies with very encouraging results. Our C++ software, based on CGAL and Eigen and available on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:5icHVeHT4IsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Discrete geometry for algebraic elimination",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-05148-1_4",
+            "Abstract": "Multivariate resultants provide efficient methods for eliminating variables in algebraic systems. The theory of toric (or sparse) elimination generalizes the results of the classical theory to polynomials described by their supports, thus exploiting their sparseness. This is based on a discrete geometric model of the polynomials and requires a wide range of geometric notions as well as algorithms. This survey introduces toric resultants and their matrices, and shows how they reduce system solving and variable elimination to a problem in linear algebra. We also report on some practical experience.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Counting Euclidean embeddings of rigid graphs",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1402.1484",
+            "Abstract": "A graph is called (generically) rigid in  if, for any choice of sufficiently generic edge lengths, it can be embedded in  in a finite number of distinct ways, modulo rigid transformations. Here we deal with the problem of determining the maximum number of planar Euclidean embeddings as a function of the number of the vertices. We obtain polynomial systems which totally capture the structure of a given graph, by exploiting distance geometry theory. Consequently, counting the number of Euclidean embeddings of a given rigid graph, reduces to the problem of counting roots of the corresponding polynomial system.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:4MWp96NkSFoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Foreword: Special issue on symbolic and algebraic computation: Foundations, algorithmics and applications: ISSAC 2011",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1016/j.jsc.2012.06.005",
+            "Abstract": "Foreword: Special issue on symbolic and algebraic computation: Foundations, algorithmics and \napplications: ISSAC 2011: Journal of Symbolic Computation: Vol 52, No null ACM Digital Library \nhome ACM home Google, Inc. (search) Advanced Search Browse About Sign in Register \nAdvanced Search Journals Magazines Proceedings Books SIGs Conferences People More \nSearch ACM Digital Library SearchSearch Advanced Search Journal of Symbolic Computation \nPeriodical Home Latest Issue Archive Authors Affiliations Award Winners More HomeBrowse \nby TitlePeriodicalsJournal of Symbolic ComputationVol. Foreword: Special issue on symbolic \nand algebraic computation: Foundations, algorithmics and applications: ISSAC 2011 article \nForeword: Special issue on symbolic and algebraic computation: Foundations, algorithmics \nand applications: ISSAC 2011 Share on Authors: Ioannis Z. Emiris Department of & , \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Academic Press, Inc."
+        },
+        {
+            "Title": "Modeling asset allocations and a new portfolio performance score",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s42521-021-00040-8",
+            "Abstract": "We discuss and extend a powerful, geometric framework to represent the set of portfolios, which identifies the space of asset allocations with the points lying in a convex polytope. Based on this viewpoint, we survey certain state-of-the-art tools from geometric and statistical computing to handle important and difficult problems in digital finance. Although our tools are quite general, in this paper, we focus on two specific questions. The first concerns crisis detection, which is of prime interest for the public in general and for policy makers in particular because of the significant impact that crises have on the economy. Certain features in stock markets lead to this type of anomaly detection: Given the assets\u2019 returns, we describe the relationship between portfolios\u2019 return and volatility by means of a copula, without making any assumption on investors\u2019 strategies. We examine a recent method relying on copulae to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:6_hjMsCP8ZoC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Single-lifting Macaulay-type formulae of generalized unmixed sparse resultants",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717111000356",
+            "Abstract": "Resultants are defined in the sparse (or toric) context in order to exploit the structure of the polynomials as expressed by their Newton polytopes. Since determinantal formulae are not always possible, the most efficient general method for computing resultants is rational formulae. This is made possible by Macaulay\u2019s famous determinantal formula in the dense homogeneous case, extended by D\u2019Andrea to the sparse case. However, the latter requires a lifting of the Newton polytopes, defined recursively on the dimension. Our main contribution is a single-lifting function of the Newton polytopes, which avoids recursion, and yields a simpler method for computing Macaulay-type formulae of sparse resultants. We focus on the case of generalized unmixed systems, where all Newton polytopes are scaled copies of each other, and sketch how our approach may extend to mixed systems of up to four polynomials, as well as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Randomized kd-trees for approximate nearest neighbor search",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=540218409113165726&hl=en&oi=scholarr",
+            "Abstract": "We implement randomized kd-trees in CGAL for approximate Nearest-Neighbor Search, based on the corresponding algorithms of the FLANN library. The package supports k nearest point searching. The input points are preprocessed into several tree data structures by modifying standard kd-trees. The trees adapt to the pointset by assigning higher probability in splitting along coordinates of high variance. The implementation is faster than CGAL kd-trees in high dimensions. Our feature extends the 4.3 CGAL dD Spatial Searching functionality and introduces a new splitting rule extending the Splitter base class. This report is a follow up of [EKKNTF12, Sect. 2].",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Predicting the implicit Newton polytope",
+            "Publication year": 2007,
+            "Publication url": "https://faculty.math.illinois.edu/~schenck/MFO/emiris.pdf",
+            "Abstract": "The problem is to study the Newton polytope of the implicit equation of a parameterized hypersurface without computing the equation itself, under the assumption of generic coefficients relative to the given supports. The motivation is that \u201capriori knowledge of the Newton polytope would greatly facilitate the subsequent computation of recovering the coefficients of the implicit equation\u201d[3]. Further applications may exist in approximate implicitization.In [3], the case of arbitrary implicit ideals is tackled, based on tropical geometry. In [1] a facet representation of the Newton polytope of parametric curves is described. Our work (jointly with Konaxis and Palios)[2] applies toric elimination in order to compute the implicit Newton polygon of a curve, in a vertex representation. Our tool is to examine mixed subdivisions of a polygon set or triangulations of point sets in the plane. We also determine the coefficients of certain extreme \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:3NQIlFlcGxIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Implicitization exploiting sparseness",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=A8iwJICZK4YC&oi=fnd&pg=PA281&dq=info:_hOefU8kc90J:scholar.google.com&ots=Pc6CuiZO30&sig=sJNTgOIR0wvtn47JZRcqALSzjrM",
+            "Abstract": "We review toric elimination theory in order to exploit sparseness in the implicitization problem. More specifically, we show how information on the support of the toric resultant, as well as degree bounds in terms of the mixed volume, can be used to predict the support of the implicit equation. The same approach also determines certain coefficients in this equation. We illustrate three implicitization methods, namely those based on resultant perturbations, the eigenvalue method and moving curves, which are accelerated by the knowledge of the implicit support.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "American Mathematical Society"
+        },
+        {
+            "Title": "On the bit complexity of solving bilinear polynomial systems",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2930889.2930919",
+            "Abstract": "We bound the Boolean complexity of computing isolating hyperboxes for all complex roots of systems of bilinear polynomials. The resultant of such systems admits a family of determinantal Sylvester-type formulas, which we make explicit by means of homological complexes. The computation of the determinant of the resultant matrix is a bottleneck for the overall complexity. We exploit the quasi-Toeplitz structure to reduce the problem to efficient matrix-vector products, corresponding to multivariate polynomial multiplication. For zero-dimensional systems, we arrive at a primitive element and a rational univariate representation of the roots. The overall bit complexity of our probabilistic algorithm is OB (n 4 D 4+ n 2 D 4 \u03c4), where n is the number of variables, D equals the bilinear Bezout bound, and \u03c4 is the maximum coefficient bitsize. Finally, a careful infinitesimal symbolic perturbation of the system allows us to treat \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:mlAyqtXpCwEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An empirical comparison of software for constructing arrangements of curved arcs (preliminary version)",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10859596692558505766&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:Ug5p-4gJ2f0C",
+            "Publisher": "Technical Report ECG-TR-361200-01, Tel-Aviv University, INRIA Sophia-Antipolis, MPI Saarbr\u00fccken, 2004.[4]"
+        },
+        {
+            "Title": "Geometric operations using sparse interpolation matrices",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1524070315000260",
+            "Abstract": "Based on the computation of a superset of the implicit support, implicitization of a parametrically given hypersurface is reduced to computing the nullspace of a numeric matrix. Our approach predicts the Newton polytope of the implicit equation by exploiting the sparseness of the given parametric equations and of the implicit polynomial, without being affected by the presence of any base points. In this work, we study how this interpolation matrix expresses the implicit equation as a matrix determinant, which is useful for certain operations such as ray shooting, and how it can be used to reduce some key geometric predicates on the hypersurface, namely membership and sidedness for given query points, to simple numerical operations on the matrix, without need to develop the implicit equation. We illustrate our results with examples based on our Maple implementation.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:xtoqd-5pKcoC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Autonomous and optimized ship routing",
+            "Publication year": 2021,
+            "Publication url": "https://onepetro.org/SNAMESOME/proceedings-abstract/SOME21/1-SOME21/D011S002R003/461286",
+            "Abstract": "We present state-of-the-art computational methods which are instrumental in autonomous maritime operations, and optimization of routing, scheduling as well as loading. Our aim is to survey mature algorithmic approaches developed within the Lab of Geometric & Algebraic Algorithms, towards exploiting intelligence and automation in modern shipping and, in particular, in various aspects of routing. We showcase our advances in two main axes:(a) geometric computing for collision avoidance in complex environments, thus allowing for semi-autonomous and fully autonomous navigation, and (b) optimization for routing under time constraints of the carrier ship, time windows of availability at the ports of call, and capacity constraints of various compartments within a vessel.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:WC9gN4BGCRcC",
+            "Publisher": "OnePetro"
+        },
+        {
+            "Title": "The assembly modes of rigid 11-bar linkages",
+            "Publication year": 2010,
+            "Publication url": "https://arxiv.org/abs/1010.6214",
+            "Abstract": "Designing an m-bar linkage with a maximal number of assembly modes is important in robot kinematics, and has further applications in structural biology and computational geometry. A related question concerns the number of assembly modes of rigid mechanisms as a function of their nodes n, which is uniquely defined given m. Rigid 11-bar linkages, where n=7, are the simplest planar linkages for which these questions were still open. It will be proven that the maximal number of assembly modes of such linkages is exactly 56. The rigidity of a linkage is captured by a polynomial system derived from distance, or Cayley-Menger, matrices. The upper bound on the number of assembly modes is obtained as the mixed volume of a 5x5 system. An 11-bar linkage admitting 56 configurations is constructed using stochastic optimisation methods. This yields a general lower bound of  on the number of assembly modes, slightly improving the current record of , while the best known upper bound is roughly . Our methods are straightforward and have been implemented in Maple. They are described in general terms illustrating the fact that they can be readily extended to other planar or spatial linkages. The main results have been reported in conference publication [EM11]. This version (2017) typesets correctly the last Figure 5 so as to include all 28 configurations modulo reflection.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:a0OBvERweLwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real algebraic numbers and polynomial systems of small degree",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397508006397",
+            "Abstract": "Based on precomputed Sturm\u2013Habicht sequences, discriminants and invariants, we classify, isolate with rational points, and compare the real roots of polynomials of degree up to 4. In particular, we express all isolating points as rational functions of the input polynomial coefficients. Although the roots are algebraic numbers and can be expressed by radicals, such representation involves some roots of complex numbers. This is inefficient, and hard to handle in applications in geometric computing and quantifier elimination. We also define rational isolating points between the roots of the quintic. We combine these results with a simple version of Rational Univariate Representation to isolate all common real roots of a bivariate system of rational polynomials of total degree \u22642 and to compute the multiplicity of these roots. We present our software within library synaps and perform experiments and comparisons with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:9c2xU6iGI7YC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Neural networks for cryptocurrency evaluation and price fluctuation forecasting",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-37110-4_10",
+            "Abstract": "Today, there is a growing number of digital assets, often built on questionable technical foundations. We design and implement neural networks in order to explore different aspects of a cryptocurrency affecting its performance, its stability as well as its daily price fluctuation. One characteristic feature of our approach is that we aim at a holistic view that would integrate all available information: First, financial information, including market capitalization and historical daily prices. Second, features related to the underlying blockchain from blockchain explorers like network activity: blockchains handle the supply and demand of a cryptocurrency. Lastly, we integrate software development metrics based on GitHub activity by the supporting team. We set two goals: First, to classify a given cryptocurrency by its performance, where stability and price increase are the positive features. Second, to forecast daily price \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:LdasjJ6CEcoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Beta-barrel Transmembrane Proteins: Geometric Modelling, Detection of Transmembrane Region, and Structural Properties",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1476927106000843",
+            "Abstract": "The location of the membrane lipid bilayer relative to a transmembrane protein structure is important in protein engineering. Since it is not present on the determined structures, it is essential to automatically define the membrane embedded protein region in order to test mutation effects or to design potential drugs. \u03b2-Barrel transmembrane proteins, present in nature as outer membrane proteins (OMPs), comprise one of the two transmembrane protein fold classes. Lately, the number of their determined structures has increased and this enables the implementation and evaluation of structure-based annotation methods and their more comprehensive study. In this paper, we propose two new algorithms for (i) the geometric modelling of \u03b2-barrels and (ii) the detection of the transmembrane region of a \u03b2-barrel transmembrane protein. The geometric modelling algorithm combines a non-linear least square minimization \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Near-Neighbor Preserving Dimension Reduction for Doubling Subsets of \u21131",
+            "Publication year": 2019,
+            "Publication url": "https://par.nsf.gov/servlets/purl/10210186#page=891",
+            "Abstract": "Randomized dimensionality reduction has been recognized as one of the fundamental techniques in handling high-dimensional data. Starting with the celebrated Johnson-Lindenstrauss Lemma, such reductions have been studied in depth for the Euclidean (\u21132) metric, but much less for the Manhattan (\u21131) metric. Our primary motivation is the approximate nearest neighbor problem in \u21131. We exploit its reduction to the decision-with-witness version, called approximate near neighbor, which incurs a roughly logarithmic overhead. In 2007, Indyk and Naor, in the context of approximate nearest neighbors, introduced the notion of nearest neighbor-preserving embeddings. These are randomized embeddings between two metric spaces with guaranteed bounded distortion only for the distances between a query point and a point set. Such embeddings are known to exist for both \u21132 and \u21131 metrics, as well as for doubling subsets of \u21132. The case that remained open were doubling subsets of \u21131. In this paper, we propose a dimension reduction by means of a near neighbor-preserving embedding for doubling subsets of \u21131. Our approach is to represent the pointset with a carefully chosen covering set, then randomly project the latter. We study two types of covering sets: c-approximate r-nets and randomly shifted grids, and we discuss the tradeoff between them in terms of preprocessing time and target dimension. We employ Cauchy variables: certain concentration bounds derived should be of independent interest.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:rHJHxKgnXwkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards an Open Curved Kernel",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:HtS1dXgVpQUC",
+            "Publisher": "ACM Press"
+        },
+        {
+            "Title": "Successive linear programs for computing all integral points in a Minkowski sum",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11573036_9",
+            "Abstract": "The computation of all integral points in Minkowski (or vector) sums of convex lattice polytopes of arbitrary dimension appears as a subproblem in algebraic variable elimination, parallel compiler code optimization, polyhedral combinatorics and multivariate polynomial multiplication. We use an existing approach that avoids the costly construction of the Minkowski sum by an incremental process of solving Linear Programming (LP) problems. Our main contribution is to exploit the similarities between LP problems in the tree of LP instances, using duality theory and the two-phase simplex algorithm. Our public domain implementation improves substantially upon the performance of the above mentioned approach and is faster than porta on certain input families; besides, the latter requires a description of the Minkowski sum which has high complexity. Memory consumption limits commercial or free software \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Compact Formulae in Sparse Elimination",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2930889.2930943",
+            "Abstract": "It has by now become a standard approach to use the theory of sparse (or toric) elimination, based on the Newton polytope of a polynomial, in order to reveal and exploit the structure of algebraic systems. This talk surveys compact formulae, including older and recent results, in sparse elimination. We start with root bounds and juxtapose two recent formulae: a generating function of the m-Bezout bound and a closed-form expression for the mixed volume by means of a matrix permanent. For the sparse resultant, a bevy of results have established determinantal or rational formulae for a large class of systems, starting with Macaulay. The discriminant is closely related to the resultant but admits no compact formula except for very simple cases. We offer a new determinantal formula for the discriminant of a sparse multilinear system arising in computing Nash equilibria. We introduce an alternative notion of compact \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:cWzG1nlazyYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multihomogeneous resultant formulae for systems with scaled support",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717111002021",
+            "Abstract": "Constructive methods for matrices of multihomogeneous (or multigraded) resultants for unmixed systems have been studied by Weyman, Zelevinsky, Sturmfels, Dickenstein and Emiris. We generalize these constructions to mixed systems, whose Newton polytopes are scaled copies of one polytope, thus taking a step towards systems with arbitrary supports. First, we specify matrices whose determinant equals the resultant and characterize the systems that admit such formulae. B\u00e9zout-type determinantal formulae do not exist, but we describe all possible Sylvester-type and hybrid formulae. We establish tight bounds for all corresponding degree vectors, and specify domains that will surely contain such vectors; the latter are new even for the unmixed case. Second, we make use of multiplication tables and strong duality theory to specify resultant matrices explicitly, for a general scaled system, thus including unmixed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:BqipwSGYUEgC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Symbolic computations in Volterra system identification",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1660749/",
+            "Abstract": "This paper is concerned with symbolic computations in Volterra system identification using higher order cumulants. An efficient method that implements the Leonov-Shiryaev theorem is introduced. The proposed method relies on the exploitation of recursive relations between cumulants. The method is applied on the problem of blind identification of Volterra-Hammerstein systems excited by stationary higher order white noise. It solves previously intractable instances",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Polytope Membership in High Dimension",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-96151-4_4",
+            "Abstract": "We study the fundamental problem of polytope membership aiming at convex polytopes in high dimension and with many facets, given as an intersection of halfspaces. Standard data-structures and brute force methods cannot scale, due to the curse of dimensionality. We design an efficient algorithm, by reduction to the approximate Nearest Neighbor (ANN) problem based on the construction of a Voronoi diagram with the polytope being one bounded cell. We thus trade exactness for efficiency so as to obtain complexity bounds polynomial in the dimension, by exploiting recent progress in the complexity of ANN search. We present a novel data structure for boundary queries based on a Newton-like iterative intersection procedure. We implement our algorithms and compare with brute-force approaches to show that they scale very well as the dimension and number of facets grow larger.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:sJsF-0ZLhtgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Symbolic and numeric methods for exploiting structure in constructing resultant matrices",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717102905201",
+            "Abstract": "Resultants characterize the existence of roots of systems of multivariate nonlinear polynomial equations, while their matrices reduce the computation of all common zeros to a problem in linear algebra. Sparse elimination theory has introduced the sparse (or toric) resultant, which takes into account the sparse structure of the polynomials. The construction of sparse resultant, or Newton, matrices is the critical step in the computation of the multivariate resultant and the solution of a nonlinear system. We reveal and exploit the quasi-Toeplitz structure of the Newton matrix, thus decreasing the time complexity of constructing such matrices by roughly one order of magnitude to achieve quasi-quadratic complexity in the matrix dimension. The space complexity is also decreased analogously. These results imply similar improvements in the complexity of computing the resultant polynomial itself and of solving zero \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Computing sparse projection operators",
+            "Publication year": 2001,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=h2cbCAAAQBAJ&oi=fnd&pg=PA121&dq=info:m6-wXMOeFjoJ:scholar.google.com&ots=6mgu3GXxYI&sig=MI43v_UsTTSmYOCxG4ObXBkUlmo",
+            "Abstract": "We produce a family of projection operators applying perturba-tions on sparse (or toric) resultants. This projection operators yield a general method for computing all isolated roots of algebraic systems, even in the presence of \u201cexcess\u201d components or other degenerate inputs. The complexity is simply exponential in the dimension and polynomial in the sparse resultant degree, thus capturing the polynomials' structure by Newton polytopes and mixed volumes. The main tool are linear perturbations, easily computed by the combinatorial construction of sparse resultant matrices and compatible with the above notion of sparsity. Our perturbation generalizes Canny's Generalized Characteristic Polynomial (GCP) for the homogeneous case, while it provides a simpler alternative to Rojas\u2019 toric GCP. We examine the practical usefulness of our approach through its implementation and its application to specific examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:DJbcl8HfkQkC",
+            "Publisher": "AMS, Contemp. Math."
+        },
+        {
+            "Title": "Sparse implicitization via interpolation",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-08635-4_3",
+            "Abstract": "The aim of our work is to explore recent methods for computing the Newton polytope of the implicit equation and their applicability to implicitization by interpolation. We implement interpolation by exact or numerical linear algebra following an exact phase which computes a superset of the monomials appearing in the implicit equation. These monomials are then suitably evaluated to build a numeric matrix, ideally of corank 1, whose kernel vector contains the coefficients of the implicit equation. We propose techniques for handling the case of higher corank. This yields an efficient, output-sensitive algorithm for computing the implicit equation. The method can be applied to polynomial or rational parameterizations of planar curves or (hyper)surfaces of any dimension including parameterizations with base points. We conclude with certain extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:ILKRHgRFtOwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A general solver based on sparse resultants",
+            "Publication year": 2012,
+            "Publication url": "https://arxiv.org/abs/1201.5810",
+            "Abstract": "Sparse (or toric) elimination exploits the structure of polynomials by measuring their complexity in terms of Newton polytopes instead of total degree. The sparse, or Newton, resultant generalizes the classical homogeneous resultant and its degree is a function of the mixed volumes of the Newton polytopes. We sketch the sparse resultant constructions of Canny and Emiris and show how they reduce the problem of root-finding to an eigenproblem. A novel method for achieving this reduction is presented which does not increase the dimension of the problem. Together with an implementation of the sparse resultant construction, it provides a general solver for polynomial systems. We discuss the overall implementation and illustrate its use by applying it to concrete problems from vision, robotics and structural biology. The high efficiency and accuracy of the solutions suggest that sparse elimination may be the method of choice for systems of moderate size.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algorithmes algebriques et geometriques",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3304901103926692946&hl=en&oi=scholarr",
+            "Abstract": "Th or me. Pour le syst me f1;:::; fn 2K x; x 1], le nombre de solutions communes isol es dans (K) n, comptant les multiplicit s, est born par le volume mixte VM (f1;:::; fn); l'galit tient si certains coe cients sont gn riques.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:PELIpwtuRlgC",
+            "Publisher": "U.Nice"
+        },
+        {
+            "Title": "The DMM bound: Multivariate (aggregate) separation bounds",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1837934.1837981",
+            "Abstract": "In this paper we derive aggregate separation bounds, named after Davenport-Mahler-Mignotte (DMM), on the isolated roots of polynomial systems, specifically on the minimum distance between any two such roots. The bounds exploit the structure of the system and the height of the sparse (or toric) resultant by means of mixed volume, as well as recent advances on aggregate root bounds for univariate polynomials, and are applicable to arbitrary positive dimensional systems. We improve upon Canny's gap theorem [7] by a factor of O (d n-1), where d bounds the degree of the polynomials, and n is the number of variables. One application is to the bitsize of the eigenvalues and eigenvectors of an integer matrix, which also yields a new proof that the problem is polynomial. We also compare against recent lower bounds on the absolute value of the root coordinates by Brownawell and Yap [5], obtained under the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spatio-temporal deep learning for day-ahead wind speed forecasting relying on WRF predictions",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s12667-021-00480-6",
+            "Abstract": "We focus on deep learning algorithms, improving upon the weather research and forecasting (WRF) model, and we show that the combination of these methods produces day-ahead wind speed predictions of high accuracy, with no need for previous-day measurements. We also show that previous-day data offer a significant enhancement in a short-term neural network for hour-ahead predictions, assuming that they are available on a daily basis. Our main contribution is the design and testing of original neural networks that capture both spatial and temporal characteristics of the wind, by combining convolutional (CNN) as well as recurrent (RNN) neural networks. The input predictions are obtained by a WRF model that we appropriately parameterize; we also specify a grid adapted to each park so as to capture its topography. Training uses historical data from five wind farms in Greece, and the 5-month testing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:jFemdcug13IC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Modeling of crisis periods in stock markets",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2103.13294",
+            "Abstract": "We exploit a recent computational framework to model and detect financial crises in stock markets, as well as shock events in cryptocurrency markets, which are characterized by a sudden or severe drop in prices. Our method manages to detect all past crises in the French industrial stock market starting with the crash of 1929, including financial crises after 1990 (e.g. dot-com bubble burst of 2000, stock market downturn of 2002), and all past crashes in the cryptocurrency market, namely in 2018, and also in 2020 due to covid-19. We leverage copulae clustering, based on the distance between probability distributions, in order to validate the reliability of the framework; we show that clusters contain copulae from similar market states such as normal states, or crises. Moreover, we propose a novel regression model that can detect successfully all past events using less than 10% of the information that the previous framework requires. We train our model by historical data on the industry assets, and we are able to detect all past shock events in the cryptocurrency market. Our tools provide the essential components of our software framework that offers fast and reliable detection, or even prediction, of shock events in stock and cryptocurrency markets of hundreds of assets.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:Br1UauaknNIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "High-dimensional visual similarity search: kd Generalized Randomized Forests",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2949035.2949042",
+            "Abstract": "We propose a new data-structure, the generalized randomized kd forest, or kd GeRaF, for approximate nearest neighbor searching in high dimensions. In particular, we introduce new randomization techniques to specify a set of independently constructed trees where search is performed simultaneously, hence increasing accuracy. We omit backtracking, and we optimize distance computations. We release public domain software GeRaF and we compare it to existing implementations of state-of-the-art methods. Experimental results on SIFT and GIST visual descriptors, indicate that our method is the method of choice in dimensions around 1,000, and probably up to 10,000, and datasets of cardinality up to a few hundred thousands or even one million. For instance, we handle a real dataset of 106 GIST images represented in 960 dimensions with a query time of less than 1 sec on average and 90 responses being \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:HIFyuExEbWQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Benchmarks and evaluation of experimental algebraic kernels",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.8886&rep=rep1&type=pdf",
+            "Abstract": "We present three projection based algorithms for real solving bivariate polynomial systems, as well as a detailed experimental analysis of their implementation in our maple algebraic toolbox. Our implementation can lead to an algebraic kernel in cgal because all necessary algebraic operations have been implemented. Finally, our experimental study includes comparative results with gbrs and three Synaps solvers (sturm, subdiv and newmac).",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the cross-sectional distribution of portfolio returns",
+            "Publication year": 2019,
+            "Publication url": "https://hal.inria.fr/hal-02398730/",
+            "Abstract": "The aim of this paper is to study the distribution of portfolio returns across portfolios, and for given asset returns. We focus on the most common type of investment, considering portfolios whose weights are non-negative and sum up to 1. We provide algorithms and formulas from computational geometry and the literature on splines to compute the exact values of the probability density function, and of the cumulative distribution function, at any point. We also provide closed form solutions for the computation of its first four moments, and an algorithm to compute the higher moments. All algorithms and formulas allow also for equal asset returns.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:ubry08Y2EpUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Calibration of parallel robots: on the Elimination of Pose\u2013Dependent Parameters",
+            "Publication year": 2006,
+            "Publication url": "https://www-sop.inria.fr/teams/hephaistos/PDF/eucomes2006.pdf",
+            "Abstract": "We motivate and study the use of the forward kinematic model in the calibration scheme of parallel robots. Classical methods uses this model based only on the internal sensors for parameters elimination. One aim of the paper is to demonstrate how, in this well-constrained case, the model has numerous different solutions, how selecting a solution can lead to critical difficulties and possibly erroneous results. We propose two kind of alternatives, one drawing upon the methods of computer algebra to explicit the relation between the set of sensors and the parameters, and another which minimize the residual errors of an over-constrained formulation of the forward kinematics. This propositions are substantiated by experiments with planar robots, which are easy to describe completely and offer a full understanding of the underlying modeling and behavior.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Separation bounds for polynomial systems",
+            "Publication year": 2015,
+            "Publication url": "https://hal.inria.fr/hal-01105276v4/document",
+            "Abstract": "We rely on aggregate separation bounds for univariate polynomials to introduce novel bounds for the isolated roots of zero-dimensional, as well as positive-dimensional and overdetermined, polynomial systems. We exploit the structure of the given system, as well as bounds on the height of the sparse (or toric) resultant, by means of mixed volume, thus establishing adaptive bounds. Our bounds improve Canny\u2019s gap theorem [9]. Moreover, they exploit sparseness. Our lower bounds are in general comparable to the lower bounds on the absolute value of the root coordinates by Brownawell and Yap [6] which, however, require the strong hypothesis of the existence of a zero-dimensional projection. In an effort to evaluate the quality of our bounds, we present polynomial systems whose root separation is asymptotically not far from our bounds.We apply our bounds to three important problems. First, we use them to estimate the bitsize of the eigenvalues and eigenvectors of an integer matrix; thus we provide yet another proof that the problem has polynomial bit complexity. Second, we bound the value of a positive polynomial over the simplex; we improve by at least one order of magnitude upon all existing bounds. Finally, we asymptotically bound the number of steps of any purely subdivision-based algorithm that isolates all real roots of a polynomial system.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:-mN3Mh-tlDkC",
+            "Publisher": "Technical report, INRIA"
+        },
+        {
+            "Title": "Combinatorics of 4-dimensional resultant polytopes",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2465506.2465937",
+            "Abstract": "The Newton polytope of the resultant, or resultant polytope, characterizes the resultant polynomial more precisely than total degree. The combinatorics of resultant polytopes are known in the Sylvester case [Gelfand et al. 90] and up to dimension 3 [Sturmfels 94]. We extend this work by studying the combinatorial characterization of 4-dimensional resultant polytopes, which show a greater diversity and involve computational and combinatorial challenges. In particular, our experiments, based on software respol for computing resultant polytopes, establish lower bounds on the maximal number of faces. By studying mixed subdivisions, we obtain tight upper bounds on the maximal number of facets and ridges, thus arriving at the following maximal f-vector:(22, 66, 66, 22), ie vector of face cardinalities. Certain general features emerge, such as the symmetry of the maximal f-vector, which are intriguing but still under \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "IOI\u201904: Solution of Polygon",
+            "Publication year": 2004,
+            "Publication url": "https://www.licejus.lt/~antanas2010/uzdaviniai/IOI/ioi2004/solutions/polygon.pdf",
+            "Abstract": "There is a pseudo-polynomial time algorithm for the latter ([1]), which we now sketch. If the input is the sequence of N edges, then the input size is O (N (log m+ log E)), where m is the maximum number of integer points on any edge, and E is the maximum absolute value of any coordinate defining a primitive edge vector, as defined below. The algorithm in [1] runs in O (tNm) time, where t=| P\u2229 Z2|.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real solving of bivariate polynomial systems",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11555964_13",
+            "Abstract": "We propose exact, complete and efficient methods for 2 problems: First, the real solving of systems of two bivariate rational polynomials of arbitrary degree. This means isolating all common real solutions in rational rectangles and calculating the respective multiplicities. Second, the computation of the sign of bivariate polynomials evaluated at two algebraic numbers of arbitrary degree. Our main motivation comes from nonlinear computational geometry and computer-aided design, where bivariate polynomials lie at the inner loop of many algorithms. The methods employed are based on Sturm-Habicht sequences, univariate resultants and rational univariate representation. We have implemented them very carefully, using advanced object-oriented programming techniques, so as to achieve high practical performance. The algorithms are integrated in the public-domain C++ software library synaps, and their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The Predicates for the exact Voronoi diagram of ellipses under The Euclidiean metric",
+            "Publication year": 2008,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218195908002763",
+            "Abstract": "This article examines the computation of the Delaunay graph and its dual Voronoi diagram of a set of ellipses in the Euclidean plane. We propose the first complete methods, under the exact computation paradigm, for the predicates of an incremental algorithm: \u03ba1 decides which one of two given ellipses is closest to a given exterior point; \u03ba2 decides the position of a query ellipse relative to an external bitangent line of two given ellipses; \u03ba3 decides the position of a query ellipse relative to a Voronoi circle of three given ellipses; \u03ba4 determines the type of conflict between a Voronoi edge, defined by four given ellipses, and a query ellipse. The article is restricted to non-intersecting ellipses, but the extension to arbitrary ones is possible.The ellipses are input in parametric representation, i.e., constructively in terms of their axes, center and rotation. For \u03ba1 and \u03ba2 we derive algebraic conditions optimal in terms of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:35r97b3x0nAC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Applications of fft and structured matrices",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/1882757.1882775",
+            "Abstract": "The subject of this chapter lies in the area of theoretical computer science, although it is closely related to algebraic and numerical computations for sciences, engineering, and electrical engineering. Our central theme is the dramatic acceleration of the most fundamental computations with integers, polynomials, and structured matrices by means of application of the fast Fourier transform (FFT). More precisely, we first apply the FFT to multiply a pair of integers, a pair of polynomials, and a structured matrix by a vector in nearly linear time, versus higher order, typically quadratic time required for the same operation in the classical algorithms. Then we extend this process to other fundamental operations by ultimately reducing them to multiplication. We state the complexity bounds under the random access machine (RAM) model of computation [1]. In most cases we assume the arithmetic model, that is, we assign a unit \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the multihomogeneous B\u00e9zout bound on the number of embeddings of minimally rigid graphs",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/article/10.1007/s00200-020-00447-7",
+            "Abstract": "Rigid graph theory is an active area with many open problems, especially regarding embeddings in  or other manifolds, and tight upper bounds on their number for a given number of vertices. Our premise is to relate the number of embeddings to that of solutions of a well-constrained algebraic system and exploit progress in the latter domain. In particular, the system\u2019s complex solutions naturally extend the notion of real embeddings, thus allowing us to employ bounds on complex roots. We focus on multihomogeneous B\u00e9zout (m-B\u00e9zout) bounds of algebraic systems since they are fast to compute and rather tight for systems exhibiting structure as in our case. We introduce two methods to relate such bounds to combinatorial properties of minimally rigid graphs in  and . The first relates the number of graph orientations to the m-B\u00e9zout bound, while the second leverages a matrix permanent formulation. Using these \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:nRpfm8aw39MC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Distributed routing in tree networks with few landmarks",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11922377_5",
+            "Abstract": "We consider the problem of finding a short path between any two nodes of a network when no global information is available, nor any oracle to help in routing. A mobile agent, situated in a starting node, has to walk to a target node traversing a path of minimum length. All information about adjacencies is distributed to certain nodes called landmarks. We wish to minimize the total memory requirements as well as keep the memory requirements per landmark to reasonable levels. We propose a landmark selection and information distribution scheme with overall memory requirement linear in the number of nodes, and constant memory consumption per non-landmark node. We prove that a navigation algorithm using this scheme attains a constant stretch factor overhead in tree topologies, compared to an optimal landmark-based routing algorithm that obeys certain restrictions. The flexibility of our approach \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Web-scale image clustering revisited",
+            "Publication year": 2015,
+            "Publication url": "http://openaccess.thecvf.com/content_iccv_2015/html/Avrithis_Web-Scale_Image_Clustering_ICCV_2015_paper.html",
+            "Abstract": "Large scale duplicate detection, clustering and mining of documents or images has been conventionally treated with seed detection via hashing, followed by seed growing heuristics using fast search. Principled clustering methods, especially kernelized and spectral ones, have higher complexity and are difficult to scale above millions. Under the assumption of documents or images embedded in Euclidean space, we revisit recent advances in approximate k-means variants, and borrow their best ingredients to introduce a new one, inverted-quantized k-means (IQ-means). Key underlying concepts are quantization of data points and multi-index based inverted search from centroids to cells. Its quantization is a form of hashing and analogous to seed detection, while its updates are analogous to seed growing, yet principled in the sense of distortion minimization. We further design a dynamic variant that is able to determine the number of clusters k in a single run at nearly zero additional cost. Combined with powerful deep learned representations, we achieve clustering of a 100 million image collection on a single machine in less than one hour.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:foquWX3nUaYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Comparing real algebraic numbers of small degree",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30140-0_58",
+            "Abstract": "We study polynomials of degree up to 4 over the rationals or a computable real subfield. Our motivation comes from the need to evaluate predicates in nonlinear computational geometry efficiently and exactly. We show a new method to compare real algebraic numbers by precomputing generalized Sturm sequences, thus avoiding iterative methods; the method, moreover handles all degenerate cases. Our first contribution is the determination of rational isolating points, as functions of the coefficients, between any pair of real roots. Our second contribution is to exploit invariants and Bezoutian subexpressions in writing the sequences, in order to reduce bit complexity. The degree of the tested quantities in the input coefficients is optimal for degree up to 3, and for degree 4 in certain cases. Our methods readily apply to real solving of pairs of quadratic equations, and to sign determination of polynomials over \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Exact Delaunay graph of smooth convex pseudo-circles: general predicates, and implementation for ellipses",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1629255.1629282",
+            "Abstract": "We examine the problem of computing exactly the Delaunay graph (and the dual Voronoi diagram) of a set of, possibly intersecting, smooth convex pseudo-circles in the Euclidean plane, given in parametric form. Pseudo-circles are (convex) sites, every pair of which has at most two intersecting points. The Delaunay graph is constructed incrementally. Our first contribution is to propose robust end efficient algorithms for all required predicates, thus generalizing our earlier algorithms for ellipses, and we analyze their algebraic complexity, under the exact computation paradigm. Second, we focus on InCircle, which is the hardest predicate, and express it by a simple sparse 5 X 5 polynomial system, which allows for an efficient implementation by means of successive Sylvester resultants and a new factorization lemma. The third contribution is our cgal-based c++ software for the case of ellipses, which is the first exact \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the complexity of real root isolation using Continued Fractions",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397507007591",
+            "Abstract": "We present algorithmic, complexity and implementation results concerning real root isolation of integer univariate polynomials using the continued fraction expansion of real algebraic numbers. One motivation is to explain the method\u2019s good performance in practice. We derive an expected complexity bound of O\u02dc B (d 6+ d 4 \u03c4 2), where d is the polynomial degree and \u03c4 bounds the coefficient bit size, using a standard bound on the expected bit size of the integers in the continued fraction expansion, thus matching the current worst-case complexity bound for real root isolation by exact methods (Sturm, Descartes and Bernstein subdivision). Moreover, using a homothetic transformation we improve the expected complexity bound to O\u02dc B (d 3 \u03c4). We compute the multiplicities within the same complexity and extend the algorithm to non-square-free polynomials. Finally, we present an open-source C++ implementation in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:ODE9OILHJdcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Approximating multidimensional subset sum and minkowski decomposition of polygons",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11786-017-0297-1.pdf",
+            "Abstract": "We consider the approximation of two NP-hard problems: Minkowski decomposition (MinkDecomp) of lattice polygons in the plane and the closely related problem of multidimensional subset sum (kD-SS) in arbitrary dimension. In kD-SS, a multiset S of k-dimensional vectors is given, along with a target vector t, and one must decide whether there exists a subset of S that sums up to t. We prove, through a gap-preserving reduction from Set Cover that, for general dimension k, the corresponding optimization problem kD-SS-opt is not in APX, although the classic 1D-SS-opt has a PTAS. Our approach relates kD-SS with the well studied closest vector problem. On the positive side, we present a  approximation algorithm for 2D-SS-opt, where n is the cardinality of the multiset and  bounds the additive error in terms of some property of the input. We state two variations of this algorithm, which are more suitable for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:WJVC3Jt7v1AC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "A comparative application of convex hull algorithms in two and three dimensions",
+            "Publication year": 2000,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Emiris/publication/2324973_A_Comparative_Application_of_Convex_Hull_Algorithms_in_Two_and_Three_Dimensions/links/546ce0f60cf26e95bc3ca835/A-Comparative-Application-of-Convex-Hull-Algorithms-in-Two-and-Three-Dimensions.pdf",
+            "Abstract": "The problem of computing the convex hull of a nite set of points arises often in practice and is a cornerstone of any geometric software library. The 2-and 3-dimensional cases are of special interest due to their direct correspondence with physical entities. Several algorithms have been designed and developped for general dimension but also for this case. The aim of this work is to apply existing implementations of general as well as speci c algorithms, namely quickhull, including those from general libraries such as Cgal and Leda, on real and articially constructed problems and compare their performance in terms of speed, accuracy, and robustness.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hybrid sparse resultant matrices for bivariate systems",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/384101.384106",
+            "Abstract": "Our main contribution is an explicit construction of square resultant matrices, which are submatrices of those introduced by Cattani, Dickenstein and Sturmfels [4]. The determinant is a nontrivial multiple of the sparse (or toric) resultant. The matrix is hybrid in that it contains a submatrix of Sylvester type and an additional row expressing the toric Jacobian. If we restrict attention to such matrices, the algorithm yields the smallest possible matrix in general. This is achieved by strongly exploiting the combinatorics of sparse elimination. The algorithm uses a new piecewise-linear lifting, defined for bivariate systems of 3 polynomials with Newton polygons being scaled copies of a single polygon. The major motivation comes from systems encountered in CAD. Our MAPLE implementation, applied to certain examples, illustrates our construction and compares with alternative matrices.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hybrid sparse resultant matrices for bivariate polynomials",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717102905249",
+            "Abstract": "We study systems of three bivariate polynomials whose Newton polygons are scaled copies of a single polygon. Our main contribution is to construct square resultant matrices, which are submatrices of those introduced by Cattaniet al. (1998), and whose determinants are nontrivial multiples of the sparse (or toric) resultant. The matrix is hybrid in that it contains a submatrix of Sylvester type and an additional row expressing the toric Jacobian. If we restrict our attention to matrices of (almost) Sylvester-type and systems as specified above, then the algorithm yields the smallest possible matrix in general. This is achieved by strongly exploiting the combinatorics of sparse elimination, namely by a new piecewise-linear lifting. The major motivation comes from systems encountered in geometric modeling. Our preliminary Maple implementation, applied to certain examples, illustrates our construction and compares it with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "The m-B\u00e9zout Bound and Distance Geometry",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-85165-1_2",
+            "Abstract": "We offer a closed-form bound on the m-B\u00e9zout bound for multi-homogeneous systems whose equations include two variable subsets of the same degree. Our bound is expectedly not tight, since computation of the m-B\u00e9zout number is P-hard by reduction to the permanent. On the upside, our bound is tighter than the existing closed-form bound derived from the permanent, which applies only to systems characterized by further structure.Our work is inspired by the application of the m-B\u00e9zout bound to counting Euclidean embeddings of distance graphs. Distance geometry and rigidity theory study graphs with a finite number of configurations, up to rigid transformations, which are prescribed by the edge lengths. Counting embeddings is an algebraic question once one constructs a system whose solutions correspond to the different embeddings. Surprisingly, the best asymptotic bound on the number of embeddings \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:AXkvAH5U_nMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Sparse Discriminants and Applications",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-6461-6_4",
+            "Abstract": "Polynomial algebra offers a standard, powerful, and robust approach to handle several important problems in geometric modelling and other areas. A key tool is the discriminant of a univariate polynomial, or of a well-constrained system of polynomial equations, which expresses the existence of multiple (or degenerate) roots. We describe discriminants in a general context, and relate them to an equally useful object, namely the resultant of an overconstrained polynomial system. We discuss several relevant applications in geometric modelling so as to motivate the use of such algebraic tools in further geometric problems. We focus on exploiting the sparseness of polynomials via the theory of Newton polytopes and sparse elimination.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:EYYDruWGBe4C",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "An output-sensitive algorithm for computing projections of resultant polytopes",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2261250.2261276",
+            "Abstract": "We develop an incremental algorithm to compute the Newton polytope of the resultant, aka resultant polytope, or its projection along a given direction. The resultant is fundamental in algebraic elimination and in implicitization of parametric hypersurfaces. Our algorithm exactly computes vertex-and halfspace-representations of the desired polytope using an oracle producing resultant vertices in a given direction. It is output-sensitive as it uses one oracle call per vertex. We overcome the bottleneck of determinantal predicates by hashing, thus accelerating execution from 18 to 100 times. We implement our algorithm using the experimental CGAL package triangulation. A variant of the algorithm computes successively tighter inner and outer approximations: when these polytopes have, respectively, 90% and 105% of the true volume, runtime is reduced up to 25 times. Our method computes instances of 5-, 6-or 7 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:LO7wyVUgiFcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exact Voronoi diagram of smooth convex pseudo-circles: General predicates, and implementation for ellipses",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167839613000587",
+            "Abstract": "We examine the problem of computing exactly the Voronoi diagram (via the dual Delaunay graph) of a set of, possibly intersecting, smooth convex pseudo-circles in the Euclidean plane, given in parametric form. Pseudo-circles are (convex) sites, every pair of which has at most two intersecting points. The Voronoi diagram is constructed incrementally. Our first contribution is to propose robust and efficient algorithms, under the exact computation paradigm, for all required predicates, thus generalizing earlier algorithms for non-intersecting ellipses. Second, we focus on InCircle, which is the hardest predicate, and express it by a simple sparse 5\u00d7 5 polynomial system, which allows for an efficient implementation by means of successive Sylvester resultants and a new factorization lemma. The third contribution is our cgal-based c++ software for the case of possibly intersecting ellipses, which is the first exact \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Products of Euclidean Metrics, Applied to Proximity Problems among Curves: Unified Treatment of Discrete Fr\u00e9chet and Dynamic Time Warping Distances",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3397518",
+            "Abstract": "Approximate Nearest Neighbor (ANN) search is a fundamental computational problem that has benefited from significant progress in the past couple of decades. However, most work has been devoted to pointsets, whereas complex shapes have not been sufficiently addressed. Here, we focus on distance functions between discretized curves in Euclidean space: They appear in a wide range of applications, from road segments and molecular backbones to time-series in general dimension. For \u2113p-products of Euclidean metrics, for any constant p, we propose simple and efficient data structures for ANN based on randomized projections: These data structures are of independent interest. Furthermore, they serve to solve proximity questions under a notion of distance between discretized curves, which generalizes both discrete Fr\u00e9chet and Dynamic Time Warping distance functions. These are two very popular and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:PaBasH6fAo0C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Interpolation of syzygies for implicit matrix representations",
+            "Publication year": 2016,
+            "Publication url": "https://hal.inria.fr/hal-01421866/",
+            "Abstract": "We examine matrix representations of curves and surfaces based on syzygies and constructed by interpolation through points. They are implicit representations of objects given as point clouds. The corresponding theory, including moving lines, curves and surfaces, has been developed for parametric models. Our contribution is to show how to compute the required syzygies by interpolation, when the geometric object is given by a point cloud whose sampling satisfies mild assumptions. We focus on planar and space curves, where the theory of syzygies allows us to design an exact algorithm yielding the optimal implicit expression. The method extends readily to surfaces without base points defined over triangular patches. Our Maple implementation has served to produce the examples in this paper and is available upon demand by the authors.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:r_AWSJRzSzQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The predicates of the Apollonius diagram: algorithmic analysis and implementation",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925772105000623",
+            "Abstract": "We study the predicates involved in an efficient dynamic algorithm for computing the Apollonius diagram in the plane, also known as the additively weighted Voronoi diagram. We present a complete algorithmic analysis of these predicates, some of which are reduced to simpler and more easily computed primitives. This gives rise to an exact and efficient implementation of the algorithm, that handles all special cases. Among our tools we distinguish an inversion transformation and an infinitesimal perturbation for handling degeneracies.The implementation of the predicates requires certain algebraic operations. In studying the latter, we aim at minimizing the algebraic degree of the predicates and the number of arithmetic operations; this twofold optimization corresponds to reducing bit complexity. The proposed algorithms are based on static Sturm sequences. Multivariate resultants provide a deeper understanding of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Approximate nearest neighbor queries among parallel segments",
+            "Publication year": 2010,
+            "Publication url": "http://users.uop.gr/~tmalamat/Papers/Segments10.pdf",
+            "Abstract": "We develop a data structure for answering efficiently approximate nearest neighbor queries over a set of parallel segments in three dimensions. We connect this problem to approximate nearest neighbor searching under weight constraints and approximate nearest neighbor searching on historical data in any dimension and we give efficient solutions for these as well.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Random polynomials and expected complexity of bisection methods for real solving",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1837934.1837980",
+            "Abstract": "Our probabilistic analysis sheds light to the following questions: Why do random polynomials seem to have few, and well separated real roots, on the average? Why do exact algorithms for real root isolation may perform comparatively well or even better than numerical ones?",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:bz8QjSJIRt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algebraic and numerical algorithm-Preface",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2752208515687283460&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:4xDN1ZYqzskC",
+            "Publisher": "ELSEVIER SCIENCE BV"
+        },
+        {
+            "Title": "Voronoi diagram and Delaunay triangulation",
+            "Publication year": 2015,
+            "Publication url": "https://eclass.uoa.gr/modules/document/file.php/D42/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B5%CF%82/2a.delaunay.pdf",
+            "Abstract": "Voronoi diagram and Delaunay triangulation Page 1 Voronoi diagram and Delaunay \ntriangulation Ioannis Emiris and Vissarion Fisikopoulos Dept. of Informatics & \nTelecommunications, University of Athens Computational Geometry, Spring 2018 Page 2 Outline \n1 Voronoi diagram 2 Delaunay triangulation 3 Properties Empty circle Complexity Min max angle \n4 Algorithms and complexity Incremental Delaunay Further algorithms 5 (Generalizations and \nRepresentation) Page 3 Outline 1 Voronoi diagram 2 Delaunay triangulation 3 Properties Empty \ncircle Complexity Min max angle 4 Algorithms and complexity Incremental Delaunay Further \nalgorithms 5 (Generalizations and Representation) Page 4 Example and definition Sites: P := \n{p1,...,pn} \u2282 R2 Page 5 Example and definition Sites: P := {p1,...,pn} \u2282 R2 Voronoi cell: q \u2208 V(pi \n) \u21d4 dist(q,pi ) \u2264 dist(q,pj ), \u2200pj \u2208 P,j = i Page 6 Example and definition Sites: P := {p1,...,pn} : \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:Bg7qf7VwUHIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Modeling asset allocation strategies and a new portfolio performance score",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2012.05088",
+            "Abstract": "We discuss and extend a powerful, geometric framework to represent the set of portfolios, which identifies the space of asset allocations with the points lying in a convex polytope. Based on this viewpoint, we survey certain state-of-the-art tools from geometric and statistical computing in order to handle important and difficult problems in digital finance. Although our tools are quite general, in this paper we focus on two specific questions. The first concerns crisis detection, which is of prime interest for the public in general and for policy makers in particular because of the significant impact that crises have on the economy. Certain features in stock markets lead to this type of anomaly detection: Given the assets' returns, we describe the relationship between portfolios' return and volatility by means of a copula, without making any assumption on investor strategies. We examine a recent method relying on copulae to construct an appropriate indicator that allows us to automate crisis detection. On real data, the indicator detects all past crashes in the cryptocurrency market, whereas from the DJ600-Europe index, from 1990 to 2008, the indicator identifies correctly 4 crises and issues one false positive for which we offer an explanation. Our second contribution is to introduce an original computational framework to model asset allocation strategies, which is of independent interest for digital finance and its applications. Our approach addresses the crucial question of evaluating portfolio management, and is relevant to individual managers as well as financial institutions. To evaluate portfolio performance, we provide a new portfolio score, based on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:CB2v5VPnA5kC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algebraic algorithms for structure determination in biological chemistry",
+            "Publication year": 2006,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.20703",
+            "Abstract": "Several problems in computational chemistry, structural molecular biology, and biological chemistry can be solved by symbolic\u2010numerical algorithms. We introduce suitable algebraic tools and then survey their usage in concrete applications. In particular, questions on molecular structure can be modeled by systems of polynomial equations, mainly by drawing on techniques from robot kinematics. Resultant\u2010based algorithms, including sparse resultants and their matrix formulae, are described in order to reduce the solving of polynomial systems to numerical linear algebra. As an illustration, we focus on computing all conformations of cyclic molecules and on matching pharmacophores under distance constraints; in both cases, the number of independent degrees of freedom is relatively small. We summarize some existing results as well as sketch some original work. Both lead to complete and accurate solutions for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Wiley Subscription Services, Inc., A Wiley Company"
+        },
+        {
+            "Title": "Special issue: 22nd European Workshop on Computational Geometry (EuroCG) in Delphi, Greece (March 27 to 29, 2006)",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:AHdEip9mkN0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Algebraic and Numerical Algorithms",
+            "Publication year": 2004,
+            "Publication url": "http://www-sop.inria.fr/galaad/personnel/Elias.Tsigaridas/papers/books/ept-crc.pdf",
+            "Abstract": "Arithmetic manipulation with matrices and polynomials is a common subject for algebraic (or symbolic) and numerical computing. Typical computational problems in these areas include the solution of a polynomial equation and linear and polynomial systems of equations, univariate and multivariate polynomial evaluation, interpolation, factorization and decompositions, rational interpolation, computing matrix factorization and decompositions, including various triangular and orthogonal factorizations such as LU, PLU, QR, QRP, QLP, CS, LR, Cholesky factorizations and eigenvalue and singular value decompositions, computation of the matrix inverses, determinants, Smith and Frobenius normal forms, ranks, characteristic and minimal polynomials, univariate and multivariate polynomial resultants, Newton\u2019s polytopes, and greatest common divisors and least common multiples as well as manipulation with truncated series and algebraic sets.Such problems can be solved based on the error-free algebraic (symbolic) computations with infinite precision. This demanding task is achieved in the present day advanced computer library GMP and computer algebra systems such as Maple and Mathematica by employing various nontrivial computational techniques such as the Euclidean algorithm and continuous fraction approximation, Hensel\u2019s and Newton\u2019s lifting, Chinese Remainder algorithm, elimination and resultant methods, and Gr\u00f6bner bases computation. The price for the achieved accuracy is the increase of the memory space and computer time supporting the computations.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:hMod-77fHWUC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "The offset to an algebraic curve and an application to conics",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11424758_71",
+            "Abstract": "Curve offsets are important objects in computer-aided design. We study the algebraic properties of the offset to an algebraic curve, thus obtaining a general formula for its degree. This is applied to computing the degree of the offset to conics. We also compute an implicit equation of the generalised offset to a conic by using sparse resultants and the knowledge of the degree of the implicit equation.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A parallel robot for ankle rehabilitation-evaluation and its design specifications",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4696826/",
+            "Abstract": "This paper investigates several robotic mechanisms for ankle function evaluation, measurement and physiotherapy. For the choice, design and operation of the mechanism the kinematics of the foot is described. This is based on a kinematics model of foot adopted from biomechanics literature, under the hypothesis that foot kinematics is similar to that of a 2R serial robot. A 3D scanner and an inertial sensor were used in order to fully specify the design framework by studying a larger sample of healthy subjects. Our experimental analysis confirms and enhances the 2R foot model, and leads us to the choice of the specific mechanism. We compute the required workspace and thus address the issues required for a complete and efficient design. We compare mechanisms based on serial and parallel robots, and choose a parallel tripod with an extra rotation axis for its simplicity, accuracy and generality. The robot must \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:WHdLCjDvYFkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Algebraic numbers and certified, filtered operations (construction, comparison) in geometric problems",
+            "Publication year": 2006,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.153.7016&rep=rep1&type=pdf",
+            "Abstract": "We present algorithmic, complexity and implementation results concerning real root isolation of integer polynomials using Sturm-Habicht sequences and the Bernstein subdivision solver. For both we give an asymptotically complexity bound of OB (d4\u03c42). Concerning the former we generalize the best known bound to non-square free polynomials and show that within the same complexity we can also compute the multiplicities of the roots. For the latter, we simplify the proof for the existing record bound and we extended to the non square-free case. We also consider algorithms for sign evaluation, comparison of real algebraic numbers and simultaneous inequalities (SI) and we improve the known bounds at least by a factor of d.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:738O_yMBCRsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Low-quality dimension reduction and high-dimensional approximate nearest neighbor",
+            "Publication year": 2015,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2015/5118/",
+            "Abstract": "The approximate nearest neighbor problem (epsilon-ANN) in Euclidean settings is a fundamental question, which has been addressed by two main approaches: Data-dependent space partitioning techniques perform well when the dimension is relatively low, but are affected by the curse of dimensionality. On the other hand, locality sensitive hashing has polynomial dependence in the dimension, sublinear query time with an exponent inversely proportional to (1+ epsilon)^ 2, and subquadratic space requirement. We generalize the Johnson-Lindenstrauss Lemma to define\" low-quality\" mappings to a Euclidean space of significantly lower dimension, such that they satisfy a requirement weaker than approximately preserving all distances or even preserving the nearest neighbor. This mapping guarantees, with high probability, that an approximate nearest neighbor lies among the k approximate nearest neighbors in the projected space. These can be efficiently retrieved while using only linear storage by a data structure, such as BBD-trees. Our overall algorithm, given n points in dimension d, achieves space usage in O (dn), preprocessing time in O (dn log n), and query time in O (dn^{rho} log n), where rho is proportional to 1-1/loglog n, for fixed epsilon in (0, 1). The dimension reduction is larger if one assumes that point sets possess some structure, namely bounded expansion rate. We implement our method and present experimental results in up to 500 dimensions and 10^ 6 points, which show that the practical performance is better than predicted by the theoretical analysis. In addition, we compare our approach with E2LSH.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:q3CdL3IzO_QC",
+            "Publisher": "Symposium on Computational Geometry"
+        },
+        {
+            "Title": "Nonlinear Computational Geometry",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-1-4419-0999-2.pdf",
+            "Abstract": "An original goal of algebraic geometry was to understand curves and surfaces in three dimensions. From these roots, algebraic geometry has grown into a theoretically deep and technically sophisticated field. Recently, questions from robotics, computer vision, computer-aided geometric design and molecular biology, together with the development of computational methods, have brought these original questions back to the forefront of research. The implicitization of parametric surfaces, the geometry of molecules, mechanical design and computer vision all lead to problems that are challenging from the perspective of computational algebraic geometry. In recent decades, computational geometry has developed as a discipline at the intersection of mathematics and computer science that provides effective and algorithmic methods for treating geometric problems. For natural reasons, the primary focus in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Implicitization of curves and (hyper) surfaces using predicted support",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397512009395",
+            "Abstract": "We reduce implicitization of rational planar parametric curves and (hyper)surfaces to linear algebra, by interpolating the coefficients of the implicit equation given a superset of its terms. For predicting these terms, we focus on methods that exploit input and output structure in the sense of sparse (or toric) elimination theory, namely by computing the Newton polytope of the implicit polynomial, via sparse resultant theory. Our algorithm works even in the presence of base points but, in this case, the implicit equation shall be obtained as a factor of the produced polynomial. We implement our methods in Maple, and some in Matlab as well, and study their numerical stability and efficiency on several classes of curves and surfaces. We apply our approach to approximate implicitization, and quantify the accuracy of the approximate output, which turns out to be satisfactory on all tested examples. In building a square or \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Separation bounds for polynomial systems",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717119300641",
+            "Abstract": "We rely on aggregate separation bounds for univariate polynomials to introduce novel worst-case separation bounds for the isolated roots of zero-dimensional, positive-dimensional, and overdetermined polynomial systems. We exploit the structure of the given system, as well as bounds on the height of the sparse (or toric) resultant, by means of mixed volume, thus establishing adaptive bounds. Our bounds improve upon Canny's Gap theorem (Canny, 1987). Moreover, they exploit sparseness and they apply without any assumptions on the input polynomial system. To evaluate the quality of the bounds, we present polynomial systems whose root separation is asymptotically not far from our bounds.We apply our bounds to three problems. First, we use them to estimate the bitsize of the eigenvalues and eigenvectors of an integer matrix; thus we provide a new proof that the problem has polynomial bit complexity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:6bLC7aUMtPcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multihomogeneous resultant matrices",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/780506.780513",
+            "Abstract": "Multihomogeneous structure in algebraic systems is the first step away from the classical theory of homogeneous equations towards fully exploiting arbitrary supports. We propose constructive methods for resultant matrices in the entire spectrum of resultant formulae, ranging from pure Sylvester to pure B\u00e9zout types, including hybrid matrices. Our approach makes heavy use of the combinatorics of multihomogeneous systems, inspired by and generalizing certain joint results by Zelevinsky, and Sturmfels or Weyman [15, 18]. One contribution is to provide conditions and algorithmic tools so as to classify and construct the smallest possible determinantal formulae for multihomogeneous resultants. We also examine the smallest Sylvester-type matrices, generically of full rank, which yield a multiple of the resultant. The last contribution is to characterize the systems that admit a purely B\u00e9zout-type matrix and show a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sparse elimination and applications",
+            "Publication year": 2000,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:YohjEiUPhakC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Yet another algorithm for generalized Vorono\u00ef Diagrams",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2245276.2245299",
+            "Abstract": "We design and implement an efficient algorithm for the computation of generalized Vorono\u00ef Diagrams (VD's) constrained to a given domain. Our framework is general and applicable to any VD-type where the distance field is given by a polynomial. We use the Bernstein form of polynomials to subdivide the domain and isolate bisector domains or domains that contain a Vorono\u00ef vertex. Efficiency is due to a filtering process, based on bounding the distance functions over the subdivided domains. The output is a polygonal description of each Vorono\u00ef cell up to any user-defined precision.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient random-walk methods for approximating polytope volume",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2582112.2582133",
+            "Abstract": "We experimentally study the fundamental problem of computing the volume of a convex polytope given as an intersection of linear inequalities. We implement and evaluate practical randomized algorithms for accurately approximating the polytope's volume in high dimensions (eg one hundred). To carry out this efficiently we experimentally correlate the effect of parameters, such as random walk length and number of sample points, on accuracy and runtime. Moreover, we exploit the problem's geometry by implementing an iterative rounding procedure, computing partial generations of random points and designing fast polytope boundary oracles. Our publicly available code is significantly faster than exact computation and more accurate than existing approximation methods. We provide volume approximations for the Birkhoff polytopes B11,\u2026, B15, whereas exact methods have only computed that of B10.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Univariate polynomial real root isolation: Continued fractions revisited",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11841036_72",
+            "Abstract": "We present algorithmic, complexity and implementation results concerning real root isolation of integer univariate polynomials using the continued fraction expansion of real numbers. We improve the previously known bound by a factor of d\u03c4, where d is the polynomial degree and \u03c4 bounds the coefficient bitsize, thus matching the current record complexity for real root isolation by exact methods. Namely, the complexity bound is  using a standard bound on the expected bitsize of the integers in the continued fraction expansion. We show how to compute the multiplicities within the same complexity and extend the algorithm to non square-free polynomials. Finally, we present an efficient open-source C++ implementation in the algebraic library synaps, and illustrate its efficiency as compared to other available software. We use polynomials with coefficient bitsize up to 8000 and degree up to 1000.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Multihomogeneous resultant formulae by means of complexes",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0747717103000865",
+            "Abstract": "The first step in the generalization of the classical theory of homogeneous equations to the case of arbitrary support is to consider algebraic systems with multihomogeneous structure. We propose constructive methods for resultant matrices in the entire spectrum of resultant formulae, ranging from pure Sylvester to pure B\u00e9zout types, and including matrices of hybrid type of these two. Our approach makes heavy use of the combinatorics of multihomogeneous systems, inspired by and generalizing certain joint results by Zelevinsky, and Sturmfels or Weyman (J. Algebra, 163 (1994) 115; J. Algebraic Geom., 3 (1994) 569). One contribution is to provide conditions and algorithmic tools so as to classify and construct the smallest possible determinantal formulae for multihomogeneous resultants. Whenever such formulae exist, we specify the underlying complexes so as to make the resultant matrix explicit. We also examine \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "On the space of Minkowski summands of a convex polytope",
+            "Publication year": 2016,
+            "Publication url": "https://www.eurocg2016.usi.ch/sites/default/files/paper_76.pdf",
+            "Abstract": "We present an algorithm for computing all Minkowski Decompositions (MinkDecomp) of a given convex, integral d-dimensional polytope, using the cone of combinatorially equivalent polytopes. An implementation is given in sage.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:IRz6iEL74y4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New upper bounds for the number of embeddings of minimally rigid graphs",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2010.10578",
+            "Abstract": "By definition, a rigid graph in  (or on a sphere) has a finite number of embeddings up to rigid motions for a given set of edge length constraints. These embeddings are related to the real solutions of an algebraic system. Naturally, the complex solutions of such systems extend the notion of rigidity to . A major open problem has been to obtain tight upper bounds on the number of embeddings in , for a given number  of vertices, which obviously also bound their number in . Moreover, in most known cases, the actual numbers of embeddings in  and  coincide. For decades, only the trivial bound of  was known on the number of embeddings. Recently, matrix permanent bounds have led to a small improvement for . This work improves upon the existing upper bounds for the number of embeddings in  and , by exploiting outdegree-constrained orientations on a graphical construction, where the proof iteratively eliminates vertices or vertex paths. For the most important cases of  and , the new bounds are  and , respectively. In general, the recent asymptotic bound mentioned above is improved by a factor of . Besides being the first substantial improvement upon a long-standing upper bound, our method is essentially the first general approach relying on combinatorial arguments rather than algebraic bounds.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:PYBJJbyH-FwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Molecular conformation search by distance matrix perturbations",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/article/10.1007/s10910-004-1466-4",
+            "Abstract": "Three-dimensional molecular structure is fundamental in chemical function identification and computer-aided drug design. The enumeration of a small number of feasible conformations provides a rigorous way to determine the optimal or a few acceptable conformations. Our contribution concerns a heuristic enhancement of a method based on distance geometry, typically in relation with experiments of the NMR type. Distance geometry has been approached by different viewpoints; ours is expected to help in several subtasks arising in the process that determines 3D structure from distance information. More precisely, the input to our algorithm consists of a set of approximate distances of varying precision; some are specified by the covalent structure and others by Nuclear Magnetic Resonance (NMR) experiments (or X-ray crystallography which, however, requires crystallization). The output is a valid tertiary structure \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ZK6y-cIAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Kluwer Academic Publishers-Plenum Publishers"
+        },
+        {
+            "Title": "Identification of foot kinematics parameters",
+            "Publication year": 2009,
+            "Publication url": "https://www.researchgate.net/profile/Ioannis-Emiris/publication/265046074_Identification_of_Foot_Kinematics_Parameters/links/546ce0eb0cf26e95bc3ca82a/Identification-of-Foot-Kinematics-Parameters.pdf",
+            "Abstract": "We present a novel and simple procedure for identifying the kinematics parameters of a human foot. This is important, among other uses, in tuning robotics physiotherapy devices. Foot kinematics at the ankle follows that of 2R serial manipulator but, since internal joint angles are not measurable, conventional calibration is not applicable. In our approach, each axis is moved while the other remains fixed: the end-effector traces a circular arc in space, hence identification reduces to fitting the data on a plane and, then, on a circle. We implemented Nonlinear and Linear fitting. The former employs iterative least-squares: for identifiability, small singular values of the Jacobian are zeroed, while observability analysis proves that accuracy increases when the data are distributed uniformly along the arc. The Linear method is based on fitting by Singular Value Decomposition and coordinate transformation of the data points. Our methods take all foot positions into account, thus improving upon previous work using specific foot-points in a single pose. Unlike other works, we avoid tracing many point-markers on the foot using expensive vision machinery. Our methods are robust and accurate even in special cases (perpendicular or parallel axes), whereas Linear is expectedly faster than Nonlinear fitting.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:f2IySw72cVMC",
+            "Publisher": "Manuscript"
+        },
+        {
+            "Title": "Efficient Sampling from Feasible Sets of SDPs and Volume Approximation",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2010.03817",
+            "Abstract": "We present algorithmic, complexity, and implementation results on the problem of sampling points from a spectrahedron, that is the feasible region of a semidefinite program. Our main tool is geometric random walks. We analyze the arithmetic and bit complexity of certain primitive geometric operations that are based on the algebraic properties of spectrahedra and the polynomial eigenvalue problem. This study leads to the implementation of a broad collection of random walks for sampling from spectrahedra that experimentally show faster mixing times than methods currently employed either in theoretical studies or in applications, including the popular family of Hit-and-Run walks. The different random walks offer a variety of advantages , thus allowing us to efficiently sample from general probability distributions, for example the family of log-concave distributions which arise in numerous applications. We focus on two major applications of independent interest: (i) approximate the volume of a spectrahedron, and (ii) compute the expectation of functions coming from robust optimal control. We exploit efficient linear algebra algorithms and implementations to address the aforemen-tioned computations in very high dimension. In particular, we provide a C++ open source implementation of our methods that scales efficiently, for the first time, up to dimension 200. We illustrate its efficiency on various data sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "ZK6y-cIAAAAJ:kw52XkFRtyQC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

@@ -1,0 +1,460 @@
+[{
+    "name": "\u039c\u03b9\u03c7\u03b1\u03ae\u03bb \u03a4\u03b1\u03c1\u03bf\u03c5\u03b4\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Michail Taroudakis",
+    "School-Department": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 9652,
+    "Scholar name": "Michael Taroudakis",
+    "Scholar id": "dvcyLcQAAAAJ",
+    "Affiliation": "Professor, University of Crete",
+    "Citedby": 695,
+    "Interests": [
+        "Wave Propagation",
+        "Imaging"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=dvcyLcQAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Variation of Acoustic Arrival Patterns in the Time Domain Due to Sound-Speed Perturbations",
+            "Publication year": 2005,
+            "Publication url": "http://thales.math.uoc.gr:1080/erevna/diplomatikes/Piperakis_MDE.pdf",
+            "Abstract": "The feasibility and efficiency of inversions in ocean acoustic travel-time tomography critically relies on the ability to accurately model and predict the reception of an acoustic source at a distant receiver in the time domain (arrival pattern), as well as its perturbations due to changes in the sound-speed distribution. The present work introduces an approximation method for wave-theoretic arrival-pattern predictions in general range-dependent ocean environments based on Born and Rytov approximations of the second order. The range-dependent ocean environment is considered as a perturbation of a range-independent reference state, for which the acoustic field of a point source in the frequency domain, ie the Greens function, is modelled using normal-mode theory. Then using the Born and Rytov approximations the perturbed Greens function, corresponding to the perturbed ocean environment, is expressed in terms of the unperturbed Greens function and the medium (sound-speed) perturbation for each frequency within the source bandwidth. Using the normal-mode representation for the unperturbed Greens function, closed-form expressions for the first and second Born and Rytov approximations are derived, generalizing previous results for Green\u2019s function perturbations in range-independent environments, and indicating that the effects of range dependence on the acoustic field in the time domain are of second order. To cope with the multi-modal nature of ocean acoustic propagation, a variation of the standard Rytov method is applied, proposed by J. Keller, according to which the Rytov approximation is applied to each modal component \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Acoustic signal characterization based on hidden Markov models with applications to geoacoustic inversions",
+            "Publication year": 2020,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/10.0002256",
+            "Abstract": "A probabilistic characterization scheme for acoustic signals with applications in acoustical oceanography is presented. This scheme aims at the definition of a set of stochastic observables that could characterize the signal. To this end, the signal is decomposed into several levels using the stationary wavelet packet transform. The extracted wavelet coefficients are then modeled by a hidden Markov model (HMM) with Gaussian emission distributions. The association of a signal with a representative HMM is performed utilizing the expectation-maximization algorithm. Eventually, the signal is characterized by the set of parameters that describe the HMM. The Kullback-Leibler divergence is employed as the similarity measure of two signals, comparing their corresponding HMMs. To validate the performance of the proposed characterization scheme, which is denoted as the probabilistic signal characterization scheme \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "A study of the eigenvalues of the \u2018Depth Problem\u00ef in shallow water acoustic propagation modelling over an elastic halfspace",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2039501985728034825&hl=en&oi=scholarr",
+            "Abstract": "The problem of determining the acoustic field due to a point monochromatic acoustic source in a shallow waveguide over an elastic half-space is usually solved by applying a series representation of the acoustic pressure in the water column, based on the eigenfunctions of a suitably defined \u201cdepth problem\u201d associated with the Helmholtz equation. The series representation using orthogonal functions is an effective and accurate means for the calculation of the acoustic field especially in cases of range-dependent environments, where integral representations are not easily applicable and the parabolic approximation is not accurate enough. Thus the calculation of the eigenvalues of the \u201cdepth problem\u201d is of primary importance.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Characterization of an underwater acoustic signal using the statistics of the wavelet subband coefficients",
+            "Publication year": 2006,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812772602_0016",
+            "Abstract": "A novel statistical scheme for the characterization of underwater acoustic signals is tested in a shallow water environment for the classification of the bottom properties. The scheme is using the statistics of the 1-D wavelet coefficients of the transformed signal. For geoacoustic inversions based on optimization procedures, an appropriate norm is defined, based on the Kullback-Leibler divergence (KLD), expressing the difference between two statistical distributions. Thus the similarity of two environments is determined by means of an appropriate norm expressing the difference between two acoustical signals. The performance of the proposed inversion method is studied using synthetic acoustic signals generated in a shallow water environment over a fluid bottom.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bottom geoacoustic inversion by matched field processing-a sensitivity study",
+            "Publication year": 2000,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/16/6/306/meta",
+            "Abstract": "The sensitivity of a Bartlett processor used as an objective function in a matched-field approach to bottom recognition in a shallow-water environment is investigated. The study addresses the varying response of the processor to changes in the values of geoacoustic parameters, in different frequencies and ranges from the source. It is shown that certain parameters are better estimated in low frequencies and shorter ranges. This observation led to the development of a two-stage algorithm which searches for certain sets of parameters in different frequencies and ranges. Thus, the complexity and dimensionality of the problem are reduced, improving the efficiency of a genetic algorithm search, both in terms of quality of the results and computational cost. The algorithm is applied to synthetic data of a benchmark exercise validating the conclusions of the study.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Application of inverse Abel techniques in in-line holographic microscopy",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0030401813001363",
+            "Abstract": "In this paper, we compare two well-established techniques, namely the BASEX and the Fourier\u2013Hankel, as regards their efficiency of retrieving the three-dimensional distribution of cylindrically symmetric objects in the presence of noise. This situation is commonly encountered in pump\u2013probe experiments where the refractive index profile of elongated structures, such as plasma strings or transient refractive index changes, is under study. We performed numerical experiments for a variety of objects, with respect to the spatial distribution and size, and for various statistical distributions and levels of noise. In this area of application, the BASEX can surpass the Fourier\u2013Hankel technique in respect of reconstruction quality, spatial resolution and robustness to noise especially after proper tuning of the basis set functions width.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:_kc_bZDykSQC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Denoising underwater acoustic signals for applications in acoustical oceanography",
+            "Publication year": 2017,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218396X17500151",
+            "Abstract": "A method for denoising underwater acoustic signals used in applications of acoustical oceanography is presented. The method has been introduced for imaging denoising and has been modified to be applied with acoustic signals. The method keeps the energy significant part of the raw signal and reduces the effects of noise by comparing overlapping signal windows and keeping components which resemble true signal energy. It is shown by means of characteristic experiments in connection with a statistical signal characterization scheme based on wavelet transform, that using the statistical features of the wavelet sub-band coefficients of the denoised signal, tomography or geoacoustic inversions lead to a reliable estimation of the parameters of a marine environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Inversion techniques for ocean acoustic tomography and bottom classification based on normal mode theory",
+            "Publication year": 2007,
+            "Publication url": "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-article-BWM8-0037-0025",
+            "Abstract": "EN The paper presents a short review of the modal representation and inversion techniques applied to problems of ocean acoustic tomography and geoacoustic inversion. The use of the modal inversion techniques is based on the assumption that the modal component of the acoustic field can be recognized in the recorded acoustic signals. The paper is referred to the main techniques that have been applied so far by the group of the Institute of Applied and Computational Mathematics at FORTH and address their benefits and drawbacks.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Associate Editors General Linear Acoustics",
+            "Publication year": 2012,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2012/00000098/00000006/art00018",
+            "Abstract": "Acta Acustica united with Acustica, published together with the European Acoustics Association (EAA), is an international, peer-reviewed journal on acoustics. It publishes original articles on all subjects in the field of acoustics, such as general linear acoustics, nonlinear acoustics, macrosonics, flow acoustics, atmospheric sound, underwater sound, ultrasonics, physical acoustics, structural acoustics, noise control, active control, environmental noise, building acoustics, room acoustics, acoustic materials, acoustic signal processing, computational and numerical acoustics, hearing, audiology and psychoacoustics, speech, musical acoustics, electroacoustics, auditory quality of systems. It reports on original scientific research in acoustics and on engineering applications. The journal considers scientific papers, technical and applied papers, book reviews, short communications, doctoral thesis abstracts, etc. In irregular \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Monitoring the sea environment using acoustics the role of the acoustical observatories",
+            "Publication year": 2013,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.425.2324&rep=rep1&type=pdf",
+            "Abstract": "The presentation deals with theoretical factors and technical specifications pertinent to the design of an acoustical observatory for the monitoring of the marine environment. Two types of observatories are mentioned, namely active and passive. Among the various cases of active observatories, the ones related to ocean acoustic tomography are presented in some detail and the inverse problem of retrieving information from measured acoustic data is explained. Some basic issues related to the type of measurements that should be made for optimal use of the acoustic field are also given with related references. Finally, the basic features of passive observatories are underlined without going into details.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Spanish Acoustical Society"
+        },
+        {
+            "Title": "Efficient semi-automatic adjoint generation and its application for implementing acoustic particle velocity in geoacoustic inversion",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5931778313231754600&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "University of Crete and Foundation for Research and Technology"
+        },
+        {
+            "Title": "On the use of Genetic Algorithms and a statistical characterization of the acoustic signal for tomographic and bottom geoacoustic inversions",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12969779288535976276&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Measurements of ambient noise in the sea using mobile low cost autonomous recorders",
+            "Publication year": 2019,
+            "Publication url": "https://www.ingentaconnect.com/contentone/ince/incecp/2019/00000259/00000002/art00093",
+            "Abstract": "The paper presents the instrumentation, configuration and the testing of mobile underwater listening stations aiming at the monitoring of the ambient noise in the marine environment. The testing of these stations has been performed in the framework of the European Commission funded project",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Institute of Noise Control Engineering"
+        },
+        {
+            "Title": "De-noising procedures for inverting underwater acoustic signals in applications of acoustical oceanography",
+            "Publication year": 2015,
+            "Publication url": "https://www.conforg.fr/euronoise2015/proceedings/data/articles/000624.pdf",
+            "Abstract": "Applications of ocean acoustic tomography and sea-bed classification using measurements of acoustic signals emitted from known sources are based on the extraction of specific features of the signal and their subsequent exploitation by post processing. The extraction of these features is sometimes very difficult to be done in a reliable way, due to the fact that the measurements are made in the presence of noise, which in some cases is a severe handicap for the exploitation of the measured signals. Although several inversion methods have been proposed to by-pass the noise problem, the issue is open to further research and de-noising strategies are in the process of being studied. In this paper we focus on a specific inversion method based on the statistical characterization of the acoustic signal [1] and compare a couple of alternative de-noising procedures in order that the statistical features of the signal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Ocean acoustic tomography",
+            "Publication year": 2002,
+            "Publication url": "http://www.math.uoc.gr/~taroud/Gdansk2002.pdf",
+            "Abstract": "The idea of using the sound to monitor the changes in the marine environment motivated the oceanographers to develop the concept of ocean acoustic tomography. Starting from the early 80\u2019s when the pioneers started to pave the way leading to the acoustical monitoring of the ocean change and coming to the beginning of the new millennium, several achievements in the field can be reported vindicating the scientists who believed in this new idea. This lecture note is an attempt to summarize the basic concepts of ocean acoustic tomography methods and address the main issues of this new area of underwater acoustics.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "G) IMACS",
+            "Publication year": 2006,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=IK_ICgAAQBAJ&oi=fnd&pg=PA167&dq=info:rkHMaiSRoHAJ:scholar.google.com&ots=_kYyd9CgQs&sig=i1uJRp71Y3idKEwOhhDFlnRp9Rc",
+            "Abstract": "A novel statistical scheme for the characterization of underwater acoustic signals is tested in a shallow water environment for the classification of the bottom properties. The scheme is using the statistics of the 1-D wavelet coefficients of the transformed signal. For geoacoustic inversions based on optimization procedures, an appropriate norm is defined, based on the Kullback-Leibler divergence (KLD), expressing the difference between two statistical distributions. Thus the similarity of two environments is determined by means of an appropriate norm expressing the difference between two acoustical signals. The performance of the proposed inversion method is studied using synthetic acoustic signals generated in a shallow water environment over a fluid bottom.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:35N4QoGY0k4C",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "A hybrid approach for estimating range-dependent properties of shallow water environments",
+            "Publication year": 2014,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.4899636",
+            "Abstract": "H hybrid approach based on statistical signal characterization and a linear inversion scheme for the estimation of range dependent sound speed profiles of compact support in shallow water is presented. The approach is appropriate for ocean acoustic tomography when there is a single receiver available, as the first stage of the method is based on the statistical characterization of a single reception using wavelet transform to associate the signal with a set of parameters describing the statistical features of its wavelet sub-band coefficients. A non-linear optimization algorithm is then applied to associate these features with range-dependent sound speed profile in the water column. This inversion method is restricted to cases where the range dependency is of compact support. At the second stage a linear inversion scheme based on modal arrivals identification and a first order perturbation formula to associate sound \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Classification of acoustic and seismic signals based on the statistics of their wavelet sub-band coefficients",
+            "Publication year": 2018,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.5068386",
+            "Abstract": "Statistical characterization of acoustic signals is a pre-processing technique aiming at the definition of signal observables, which can be used as input data in the formulation of inverse problems of acoustical oceanography aiming at the estimation of critical parameters of the marine environment. Statistical signal characterization is also a means to classify the signals and compare their properties without reference to any physical model that determines the signal observables. Thus, it can in principle be used for the comparison of the signals of any type, including seismic recordings, thus opening the area to many applications of geophysical monitoring, using signals of any type. The paper summarizes the first attempts to study the efficiency of a signal characterization method based on wavelet transform of the signal at various levels, followed by the statistical description of their sub-band coefficients. It is shown that A \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Tomographic and bottom geoacoustic inversions using Genetic Algorithms and a statistical characterization of the acoustic signal",
+            "Publication year": 2008,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.2932985",
+            "Abstract": "The paper deals with the problem of estimation of the parameters of the water column and/or the sea bed, using measurements of the acoustic field due to a known source at a certain point in the water column. Following the work by Taroudakis et al. (JASA 119, 1396\u20101405 (2006)) the acoustic signal is characterized using the statistics of the wavelet sub\u2010band coefficients, which obey a certain statistical law, described by an Alpha\u2010Stable distribution. Thus, the signal observables are the set of the parameters of the appropriate distributions at the various levels of the signal decomposition. In this work an inversion procedure based on a Genetic Algorithm and the statistical characterization of the acoustic signal, is described. The quality of a certain population of candidate model parameters (properties of the water columns and/or the sea\u2010bed) is evaluated using the Kullback\u2010Leibler divergence (KLD) of the wavelet sub \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Modelling of Underwater Noise Due to Ship Traffic in the Eastern Mediterranean Sea",
+            "Publication year": 2017,
+            "Publication url": "https://www.uaconferences.org/docs/2017_papers/905_UACE2017.pdf",
+            "Abstract": "A prediction model for shipping noise in the Eastern Mediterranean Sea is presented combining AIS data for ship locations/characteristics, environmental data and acoustic propagation codes. Taking into account typical acoustic emission characteristics of travelling ships, prevailing temperature and sound-speed distributions subject to seasonal variation, as well as the exact bathymetry in the area, range-dependent propagation calculations are carried out. Results for the geographical distribution of noise levels at various depths are produced and periodically updated on an hourly basis.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A comparison of processing techniques applied to time-frequency representation of acoustic signals intended for geoacoustic inversions",
+            "Publication year": 2020,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-03240244/document",
+            "Abstract": "The main goal of this work is to perform a comparison study of time-frequency representation techniques of acoustic signals. Time-frequency analysis is an essential tool for inverse problems of underwater acoustics that allows the exploitation of the information on the energy content of the signal simultaneously in the time and frequency domains. Several variations of time-frequency representation, aiming at increasing the Signal to Noise Ratio and the resolution of the time-frequency distribution, have been proposed. In this work we will compare two of these techniques namely the \u201cwarping\u201d, that resamples the original signal in a non-uniform manner that accounts for the dispersion, and the \u201creassignment\u201d, that sharpens the initial energy distribution of the acoustic field in the timefrequency domain. Both can be applied to spectrograms and scalograms in order to provide a better characterization of the modal structure of the acoustic field in comparison with the classical representations. Since mode identification is essential for inverse problems of acoustic oceanography, these techniques provide a significant improvement of the resolution of the signal \u201cobservables\u201d which are associated with the dispersion and the modal character of the waveguide. The comparison of these techniques will be based on both real and simulated acoustic signals and an initial assessment of their potential as signal processing tools in inverse problems of acoustical oceanography, including geoacoustic inversion, will be discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Time and frequency measurements using scaled laboratory experiments of shallow water acoustic propagation",
+            "Publication year": 2006,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-00093048/",
+            "Abstract": "Archive ouverte HAL - Time and frequency measurements using scaled laboratory \nexperiments of shallow water acoustic propagation Acc\u00e9der directement au contenu \nAcc\u00e9der directement \u00e0 la navigation Toggle navigation CCSD HAL HAL HALSHS TEL \nM\u00e9diHAL Liste des portails AUR\u00e9HAL API Data Documentation Episciences.org \nEpisciences.org Revues Documentation Sciencesconf.org Support hal Accueil D\u00e9p\u00f4t \nConsultation Les derniers d\u00e9p\u00f4ts Par type de publication Par discipline Par ann\u00e9e de \npublication Par structure de recherche Les portails de l'archive Recherche Documentation \nhal-00093048, version 1 Communication dans un congr\u00e8s Time and frequency \nmeasurements using scaled laboratory experiments of shallow water acoustic propagation P. \nPapadakis M. Taroudakis Patrick Sanchez 1 Jean-Pierre Sessarego 1 D\u00e9tails 1 LMA - \nLaboratoire de M\u00e9canique et d'Acoustique [Marseille] Type de : un : '\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "nc"
+        },
+        {
+            "Title": "On the use of the reassigned wavelet transform for mode identification",
+            "Publication year": 2004,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218396X04002237",
+            "Abstract": "This paper is concerned with the use of the reassigned wavelet transform for mode identification in shallow water acoustic propagation. Mode identification is important for inverse procedures in underwater acoustics. An efficient way to recognize the modal structure of the acoustic field when a single hydrophone is available is to refer to the time frequency analysis of the recorded signal using wavelet transform. However, the standard wavelet transform in some cases may result in an obscure representation of the dispersion curves. Thus, a reassigned process is proposed which brings important improvements in the time frequency representation of the signal. This is achieved by moving the calculation point of the scalogram in the center of gravity of the energy concentration, associated with each one of the propagating modes. This argument is supported by two illustrative examples corresponding to propagation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IMACS"
+        },
+        {
+            "Title": "Identifying modal arrivals in shallow water for bottom geoacoustic inversions",
+            "Publication year": 2000,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218396X00000224",
+            "Abstract": "A mode identification process that can be applied to broadband acoustic transmissions in the ocean is presented. The process is associated with a modal travel time inversion scheme for geoacoustic or tomographic inversions. The process is based on the assumption that a reference (background) environment is known and the identification process is based on information on the group (modal) velocities of the reference environment only. Using two characteristic examples corresponding to shallow water environments it is shown that the identification process works well at least for the lower order modes.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IMACS"
+        },
+        {
+            "Title": "Design of an Ocean Acoustic Observatory",
+            "Publication year": 2012,
+            "Publication url": "https://preprints.acmac.uoc.gr/189/1/acmac-0189.pdf",
+            "Abstract": "The paper deals with the design of an ocean acoustic observatory. The technological facts are linked to the theory of inverse problems in underwater acoustics which are briefly mentioned. The description of acoustical observatories is limited to cases related to ocean acoustic tomography and to ambient noise monitoring.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "HELINA"
+        },
+        {
+            "Title": "Encomium For Antonio P\u00e9rez L\u00f3pez",
+            "Publication year": 2017,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.4988287",
+            "Abstract": "EAA AWARD for contributions to the promotion of Acoustics in Europe",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Classification of shallow-water acoustic signals via alpha-Stable modeling of the one-dimensional wavelet coefficients",
+            "Publication year": 2006,
+            "Publication url": "https://asa.scitation.org/doi/full/10.1121/1.2165003",
+            "Abstract": "A novel statistical scheme is presented for the classification of shallow water acoustic signals according to the environmental parameters of the medium through which they have propagated. An efficient way to classify these signals is important for inverse procedures in underwater acoustics aiming at the recovery of the geoacoustic parameters of an oceanic environment, using measurements of the acoustic field due to an acoustic source. An important issue in this procedure is the determination of an efficient \u201cobservable\u201d of the acoustic signal (feature extraction), which characterizes the signal in connection with the recoverable parameters. The proposed method is based on a transformation of the acoustic signals via a one-dimensional (1D) wavelet decomposition and then by fitting the distribution of the subband coefficients using an appropriate function. We observe that statistical distributions with heavy algebraic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Scientific Papers-Underwater Sound-A non-linear inversion method for recovering the properties of a multi-layered elastic bottom: A laboratory experiment",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11944691028443576433&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Stuttgart: S. Hirzel, c2000-"
+        },
+        {
+            "Title": "Estimation of some geoacoustic parameters of a tank experiment by match field processing",
+            "Publication year": 2008,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.2934766",
+            "Abstract": "The work deals with an inversion procedure for the estimation of geometrical and environmental parameters of a simulated shallow water environment. Two of the most significant parameters in a shallow water environment affecting the acoustic field in long range acoustic propagation are the sound speed of the sediment and the depth of the water column. The accurate estimation of these parameters is perhaps the most important task in scaled laboratory experiments. Therefore, the calibration phase of such an experiment involves the estimation of these parameters, preferably using acoustical techniques, regardless the final scope of the experiment. The present work describes an inversion procedure based on standard match field processing. The acoustic signal used was a short gaussian shaped pulse and it was recorded at a certain distance from the source and for several depths in the water column. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "History of Russian Underwater Acoustics",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5276568621567727403&hl=en&oi=scholarr",
+            "Abstract": "Reading history and trying to analyze facts, initiatives and consequences of decisions made by historical figures, has always been an essential companion to my scientific studies although I had no educational framework in history. I was reading history because I needed to understand how the world evolves and how we can correct our way towards a better future. And the trend of learning history has always been reflected in my studies of the wonderful and mysterious world of underwater acoustics. May be this is why the book \u201cHistory of Russian Underwater Acoustics\u201d edited by Oleg Godin and Dave Palmer in its English version, drew my attention immediately after its publication.The book is a wonderful guide to the origins, the route and the development of underwater acoustics in the Soviet Union and Russia. It includes in 13 Chapters the major achievements of the Russian scientists in their attempts to understand \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:HDshCWvjkbEC",
+            "Publisher": "S. Hirzel Verlag"
+        },
+        {
+            "Title": "Statistical characterization of acoustic signals using 1D wavelet transforms with applications in acoustical oceanography",
+            "Publication year": 2018,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S2591728518500470",
+            "Abstract": "The paper summarizes the research carried out at the University of Crete and the Foundation for Research and Technology-HELLAS aiming at the statistical characterization of underwater acoustic signals and their subsequent use for geoacoustic inversions and applications in ocean acoustic tomography. In these applications, an acoustic signal recorded in the marine environment due to some source is used as the carrier of information on the physical parameters of the environment. Statistical characterization of acoustic signals is a pre-processing technique aiming at the definition of signal observables, to be used as input data of appropriately defined inverse problems aiming at the estimation of critical parameters of the marine environment. The statistical characterization scheme was introduced as a way to define signal observables especially in cases that typical observables such as ray arrivals or modal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Classification of acoustic signals using the statistics of the 1\u2010D wavelet transform coefficients",
+            "Publication year": 2005,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.4786929",
+            "Abstract": "The representation of an acoustic signal in terms of the wavelet sub\u2010band coefficients is studied using their statistical features. This type of representation is suggested as an alternative tool for tomographic or geoacoustic inversions. Using a set of representative shallow water environments, the variation of the statistical behavior of the sub\u2010band coefficients is associated with corresponding variations of the environmental parameters. Low frequency signals suitable for ocean acoustic tomography are simulated. It is shown that the statistics of the sub\u2010band coefficients are best described using non\u2010Gaussian heavy\u2010tailed distributions such as those of the alpha\u2010stable family. The variations of the distribution parameters are measured using special statistical similarity functions such as the Kullback\u2010Leibler divergence which has been adopted in the present study. The distances between the statistical parameters of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Inversions of statistical parameters of an acoustic signal in range-dependent environments with applications in ocean acoustic tomography",
+            "Publication year": 2013,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.4819119",
+            "Abstract": "The paper presents an application of a method for the characterization of underwater acoustic signals based on the statistics of the wavelet transform sub-band coefficients in range-dependent environments. As it was illustrated in previous work, this statistical characterization scheme is a very efficient tool for obtaining observables to be exploited in problems of ocean acoustic tomography and geoacoustic inversion, when range-independent environments are considered. Now the scheme is applied in range-dependent environments for the estimation of range-dependent features in shallow water. A simple denoising strategy, also presented in the paper, is shown to enhance the quality of the inversion results as it helps to keep the signal characterization to the energy a significant part of it. The results presented for typical test cases are encouraging and indicative of the potential of the method for the treatment of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Tomographic inversions in shallow water using modal travel time measurements",
+            "Publication year": 2001,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2001/00000087/00000006/art00003",
+            "Abstract": "The paper deals with an inversion approach based on modal travel time measurements for the estimation of water column and bottom properties in shallow water, by acoustic means. The modal structure of the acoustic field measured at a single hydrophone is defined on the basis of group velocity predictions at the central frequency of a broadband signal (tomographic signal). In the proposed approach, the assumption of good a-priori knowledge of the parameters to be recovered which is normally applied in modal-travel time inversion schemes, is waived and a relatively wide search space is considered. Following an identification process to assign modal arrivals to the peaks of the measured signal, a matching procedure is adopted based on the minimization of a cost function relating the travel time differences of the identified peaks with respect to the modal travel times for the same peaks. This procedure leads to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:roLk4NBRz8UC",
+            "Publisher": "S. Hirzel Verlag"
+        },
+        {
+            "Title": "Underwater acoustic signal characterization in the presence of noise",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7952140566398183907&hl=en&oi=scholarr",
+            "Abstract": "This paper deals with the problem of underwater signal characterization and subsequent estimation of the parameters of the water column and/or the sea bed, using measurements of the acoustic field due to a known source at a certain point in the water column. Following the works by Taroudakis et al.(JASA 119, 1396-1405 (2006)) the acoustic signal is characterized using the statistics of the wavelet sub-band coefficients, which obey a certain statistical law, described by an Alpha-Stable distribution. The inversion procedure is based on an optimization scheme, which may be associated with any suitable directive search within a prescribed search space. In our work a Genetic Algorithm has been used in connection with a Kullback-Leibler divergence (KLD) of the wavelet sub-band coefficient distributions which measures in an appropriate way the difference, between the measured and simulated acoustic signals \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Institute of Noise Control Engineering"
+        },
+        {
+            "Title": "VERSO UN AMBIENTE MARINO SILENZIOSO: IL RUOLO DEGLI OSSERVATORI ACUSTICI PASSIVI TOWARDS A SILENT MARINE ENVIRONMENT: THE ROLE OF PASSIVE ACOUSTIC OBSERVATORIES",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7518455027844259172&hl=en&oi=scholarr",
+            "Abstract": "Il suono \u00e8 ampiamente impiegato nelle osservazioni marine come strumento alternativo per ottenere informazioni su dati ambientali nella zona marina oggetto di monitoraggio. L\u2019idea originaria di utilizzare specifiche sorgenti sonore artificiali per inviare segnali nell\u2019ambiente marino ha dato origine alla tomografia acustica oceanica e numerosi metodi alternativi sono stati sviluppati per poter utilizzare le onde sonore come mezzo di raccolta di dati ambientali. Per contro vi \u00e8 la necessit\u00e0 di ridurre al minimo il rumore generato da sorgenti non naturali per preservare l\u2019ambiente marino e le sue caratteristiche acustiche. Per questo motivo, l\u2019idea di poter utilizzare misure ottenute sorgenti sonore occasionali o anche il rumore ambientale per l\u2019attuazione di analisi inverse sta costantemente guadagnando l\u2019attenzione dei ricercatori.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pilot experiments for monitoring ambient noise in Northern Crete",
+            "Publication year": 2018,
+            "Publication url": "https://www.euronoise2018.eu/docs/papers/463_Euronoise2018.pdf",
+            "Abstract": "In the framework of the QUIETMED project, pilot experiments for monitoring ambient noise were scheduled both at shallow and deep water depths. The first shallow water experiment took place May 24, 2017 in Northern Crete near the Iraklion port. A second experiment took place December 8, 2017 in the same location. At both experiments low-cost autonomous systems for underwater acoustic recordings have being used. These recorders were developed and manufactured at the laboratory of Underwater Acoustic Measurements of the Institute of Applied and Computational Mathematics of FORTH using custom made and off the shelf components. The systems were calibrated so that they can be used for measurements of ambient noise along with other potential applications. In this paper the systems components and their operation and features will be briefly descripted. Results of initial tests at the laboratory including calibration of the system in air at low frequencies will be presented. Finally results of the first two pilot experiments near Heraklion port will be presented and discussed. Comparing the ambient noise measured in the two experiments, the seasonal change between summer and winter of the ambient noise-at 1/3 octave bands-will be shown and discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:rO6llkc54NcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prof. Victor J. Sanchez-Morcillo",
+            "Publication year": 2014,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2014/00000100/00000001/art00023",
+            "Abstract": "Acta Acustica united with Acustica, published together with the European Acoustics Association (EAA), is an international, peer-reviewed journal on acoustics. It publishes original articles on all subjects in the field of acoustics, such as general linear acoustics, nonlinear acoustics, macrosonics, flow acoustics, atmospheric sound, underwater sound, ultrasonics, physical acoustics, structural acoustics, noise control, active control, environmental noise, building acoustics, room acoustics, acoustic materials, acoustic signal processing, computational and numerical acoustics, hearing, audiology and psychoacoustics, speech, musical acoustics, electroacoustics, auditory quality of systems. It reports on original scientific research in acoustics and on engineering applications. The journal considers scientific papers, technical and applied papers, book reviews, short communications, doctoral thesis abstracts, etc. In irregular \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A statistical geoacoustic inversion scheme based on a modified radial basis functions neural network",
+            "Publication year": 2007,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.2772232",
+            "Abstract": "This paper addresses the task of recovering the geoacoustic parameters of a shallow-water environment using measurements of the acoustic field due to a known source and a neural network based inversion process. First, a novel efficient \u201cobservable\u201d of the acoustic signal is proposed, which represents the signal in accordance with the recoverable parameters. Motivated by recent studies in non-Gaussian statistical theory, the observable is defined as a set of estimated model parameters of the alpha-stable distributions, which fit the marginal statistics of the wavelet subband coefficients, obtained after the transformation of the original signal via a one-dimensional wavelet decomposition. Following the modeling process to extract the observables as features, a radial basis functions neural network is employed to approximate the vector function that takes as input the observables and gives as output the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Acoustic methods of sea-bed reconstruction",
+            "Publication year": 2017,
+            "Publication url": "http://mail.sea-acustica.es/fileadmin/publicaciones/UAA_001.pdf",
+            "Abstract": "Acoustics plays a prominent role in the assessment of the sea-bed properties. Acoustic signals are efficient carriers of information on the medium through which they have propagated. By appropriate processing of the acoustic field due to some acoustic source measured in the marine environment, the properties of the sea-bed and/or the water column can be estimated. The estimation of the water column properties (mainly the sound speed profile but also the water currents) has been the main objective of Ocean Acoustic Tomography, whereas the recovery of the sea-bed parameters, a concept introduced in acoustical oceanography and the sea-bed exploration longer time ago, is the main objective of the geoacoustic inversion applications.This presentation concerns sea-bed reconstruction by acoustic means. This area is associated with numerous applications. Oil exploration, assessment of the rigidity of the sea-bed for off-shore constructions, geological surveys of the sea-bed, seismic studies, are among the applications associated with the use of acoustics for estimating the sound speed, the shear speed and the density of the sediment layers and the substrate, the acoustic attenuation, the location of the interfaces determining the sea-bed layers etc.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Sociedad Espa\u00f1ola de Ac\u00fastica"
+        },
+        {
+            "Title": "Signal characterization using Hidden Markov Models with applications in acoustical oceanography",
+            "Publication year": 2017,
+            "Publication url": "https://asa.scitation.org/doi/pdf/10.1121/1.4987276",
+            "Abstract": "The work presents a method for characterizing underwater acoustic signals using a Markov chain, with hidden variables, based on their wavelet transform. Initially, we assign to the signal a Hidden Markov Model (HMM) for which the conditional posterior probability density function seems to be the most representative using an Expectation-Maximization algorithm. Special techniques are applied to avoid over-fitting which in principle is not desirable for the sought applications. The features used for the assignment consist of two dimensional time series obtained by preprocessing of signal\u2019s wavelet packet coefficients. Subsequently, we use an approximation of the Kullback Leibler (KL) divergence as a similarity measure among the HMMs. The approximation is obtained by employing Monte-Carlo (MC) techniques simulating the significant sampling from the HMMs posterior distributions. This technique is used in cases \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Clicks from Cuvier\u2019s beaked whales, Ziphius cavirostris (L)",
+            "Publication year": 2002,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.1479149",
+            "Abstract": "Recordings of pulsed sounds (clicks) from Cuvier\u2019s beaked whales are presented. Such recordings have not been reported in the literature before. Spectrogram analysis of data collected off SW Crete (Greece) from 1998 to 2000 revealed numerous sequences of clicks. Click pulses had durations of about 1 ms and their energy content in the audible spectrum presented a narrow peak between 13 and 17 kHz. Sequences of 35\u2013105 clicks, with duration 15\u201344 s, were separated by short intersequence pauses of 3\u201310 s. Interclick intervals appeared fairly constant, primarily oscillating between 0.40 and 0.50 s. Characteristics of Cuvier\u2019s beaked whale clicks were consistent with echolocating cetaceans, suggesting that this species do echolocate.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "I Doctoral Thesis Abstracts",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3489043977853058991&hl=en&oi=scholarr",
+            "Abstract": "Protection against noise is one of the six essential requirements of the European Construction Product directive. In buildings, airborne sound insulation is used to define the acoustical quality between rooms. In order to develop wall structures with optimal sound insulation, an understanding of the physical origins of sound transmission is necessary. The purpose of this thesis was, firstly, to study and compare the validity of existing physical models to predict the sound insulation of wall structures, and, secondly, to study the benefits of the sound intensity measurement method for determining the sound insulation. To develop the kind of knowledge that is applicable to the improvement of real wall and door structures was the motive behind this study.Five main results are summarized in the following. I. It was possible to measure wall structures with a considerably, up to 22 dB, higher sound reduction index with the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fluctuations of the modal arrival times due to linear internal waves: Application to inversion",
+            "Publication year": 2006,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218396X06003104",
+            "Abstract": "It is well known that internal waves in the ocean are an important source of environmental variability which has serious effects in the structure of an acoustic field due to a known source. When measurements of the acoustic field form the input data for an inversion procedure aiming at the recovery of the environmental parameters, the information they carry on includes the internal wave effects. It is therefore natural to assume that neglecting the effects of the internal waves in an inversion procedure based on acoustic field measurements, errors are induced in the inversion. The paper deals with this problem and addresses the case of inversion schemes using travel time information of an acoustic signal. Using a statistical 2D model of the internal waves, based on the Garrett and Munk spectrum, the spatial and temporal evolution of the internal waves field as well as the fluctuations of the sound speed profile is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IMACS"
+        },
+        {
+            "Title": "Scaled laboratory experiments of shallow water acoustic propagation",
+            "Publication year": 2005,
+            "Publication url": "http://webistem.com/acoustics2008/acoustics2008/cd1/data/fa2005-budapest/paper/692-0.pdf",
+            "Abstract": "Laboratory experiments in underwater acoustics aim at the validation of theoretical acoustic propagation models in well controlled environments. Most of the experiments that have been conducted so far are related to local transmission-reflection phenomena which are encountered in problems of bottom reflectivity and bottom or material recognition. The experimental tank at the Laboratoire de Mecanique et d'Acoustique in Marseilles, provides an ideal environment for testing long range propagation codes. The tank is relatively long and the water depth is adjustable in order to simulate real propagation experiments in environments of variable depths. The purpose of this paper is to describe the experimental procedure for the realization of a long range propagation experiment in the tank using sources of appropriate frequency. The water bottom is simulated, using real sand with well known properties. The measured \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Statistical optimal filtering method for acoustical signal deblurring",
+            "Publication year": 2018,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/2.0000986",
+            "Abstract": "Acoustical signals in applications of acoustical oceanography, such as ocean acoustic tomography and sea-bed classification using acoustic signals emitted from known sources, are optimally exploited if they are noise free. The effect of blur in acoustic signals has not been well studied, although the blurring mechanism might introduce severe problems in the use of the acoustic signals for specific applications, especially, those using the full signal as the carrier of the relevant information. Deblurring of the signals in addition to denoising is therefore essential for the effective use of the signals. In our work, we apply a Statistical Optimal Filtering method that uses the Singular Value Decomposition of a first estimate of the blurring matrix and statistics to deblur the signal in an efficient and effective way and to quantify uncertainty for the recovered signal. In this talk, we will present the method and discuss its effectiveness \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:a0OBvERweLwC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Tomographic and bottom geoacoustic inversions using genetic algorithms and a statistical characterization of the acoustic signal",
+            "Publication year": 2009,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2009/00000095/00000005/art00005",
+            "Abstract": "The paper deals with the problem of estimating the parameters of the water column and/or the sea bed, using measurements of the acoustic field due to a known source at a certain point in a shallow water environment. Following the work by Taroudakis et al. (JASA 119 (2006) 1396\u20131405) the acoustic signal is characterized using the statistics of the wavelet sub-band coefficients, which obey a certain statistical law, described by an Alpha-Stable distribution. Thus, the signal observables are the set of the parameters of the appropriate distributions at the various levels of the signal decomposition. In this work an inversion procedure based on a Genetic Algorithm and the statistical characterization of the acoustic signal, is described. The quality of a certain population of candidate model parameters (properties of the water columns and/or the sea-bed) is evaluated using the Kullback-Leibler divergence (KLD) of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dvcyLcQAAAAJ:5nxA0vEk-isC",
+            "Publisher": "S. Hirzel Verlag"
+        },
+        {
+            "Title": "Inversion of acoustical data from the \u201cShallow Water 06\u201d experiment by statistical signal characterization",
+            "Publication year": 2014,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.4896412",
+            "Abstract": "This paper presents an application to validate an acoustic signal characterization scheme for ocean acoustic tomography and geoacoustic inversions proposed by Taroudakis, Tzagkarakis, and Tsakalides [J. Acoust. Soc. Am. 119, 1396\u20131405 (2006)] using data from an experiment at sea. The data were collected during the Shallow water '06 (SW06) experiment off the New Jersey Continental Shelf and the inversion results (sea-bed geoacoustic parameters and source range) are compared with those reported from the same data by Bonnel and Chapman [J. Acoust. Soc. Am. 130(2), EL101\u2013EL107 (2011)]. The comparison and the signal reconstruction using estimated values of the model parameters are satisfactory indicating that the new signal characterization method is useful for practical applications of acoustical oceanography.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Inverse problems in underwater acoustics",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=ARL5BwAAQBAJ&oi=fnd&pg=PR5&dq=info:B9XmwXWZgbUJ:scholar.google.com&ots=5RbJXmxXZO&sig=2bjCPFNJp7fqSctO3U55joPwxtw",
+            "Abstract": "Inverse problems have a long history in acoustics, optics, electromagnetics and geophysics, but only recently have the signals provided by ocean acoustic sensors become numerous and sophisticated enough to allow for realistic identification of the ocean parameters. Acoustic signals propagating for long distances in the water column and reflections of underwater sound from the ocean boundaries provide novel problems of interpretation and inversion. The chapters in this volume discuss some of the contemporary aspects of these problems. They provide recent and useful results for bottom recognition, inverse scattering in acoustic wave guides, and ocean acoustic tomography, as well as a discussion of some of the new algorithms, such as those related to matched-field processing, that have recently been used for inverting experimental data. Each chapter is by a noted expert in the field and represents the state of the art. The chapters have all been edited to provide a uniform format and level of presentation.",
+            "Abstract entirety": 1,
+            "Author pub id": "dvcyLcQAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer Science & Business Media"
+        }
+    ]
+}]

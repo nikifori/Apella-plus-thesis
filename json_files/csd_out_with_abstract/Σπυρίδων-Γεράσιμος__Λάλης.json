@@ -1,0 +1,1236 @@
+[{
+    "name": "\u03a3\u03c0\u03c5\u03c1\u03af\u03b4\u03c9\u03bd-\u0393\u03b5\u03c1\u03ac\u03c3\u03b9\u03bc\u03bf\u03c2  \u039b\u03ac\u03bb\u03b7\u03c2",
+    "romanize name": "Spyridon-Gerasimos  Lalis",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd & \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "uth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 17837,
+    "Scholar name": "Spyros Lalis",
+    "Scholar id": "1hCQK9oAAAAJ",
+    "Affiliation": "Associate Professor of Computer Science, University of Thessaly",
+    "Citedby": 1062,
+    "Interests": [
+        "Programming Languages",
+        "Operating Systems",
+        "Distributed Systems",
+        "Ubiquitous Computing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=1hCQK9oAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Edge and Cloud Provider Cost Minimization by Exploiting Extended Voltage and Frequency Margins",
+            "Publication year": 2018,
+            "Publication url": "https://ebooks.iospress.nl/doi/10.3233/978-1-61499-843-3-814",
+            "Abstract": "Energy costs contribute significantly to the total cost of operation for cloud and edge infrastructure providers. Both conventional (Voltage and Frequency Scaling) and more aggressive (undervolting, overclocking) techniques can be applied to reduce the energy footprint of the infrastructure and thus the cost of the operator. However, these techniques may affect the quality of service (QoS), potentially activating service level agreement (SLA) violation penalties for the provider. In this paper we model and study this tradeoff. We find that undervolting is the most effective of the three techniques in reducing infrastructure operation cost. We identify optimal operating points, and we study the effect of different parameters, such as the severity of SLA penalties, the length of the job and the existence of error protection mechanisms, on the optimal operating point and the extent of potential benefits.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ye4kPcJQO24C",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "IPLS: A Framework for Decentralized Federated Learning",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2101.01901",
+            "Abstract": "The proliferation of resourceful mobile devices that store rich, multidimensional and privacy-sensitive user data motivate the design of federated learning (FL), a machine-learning (ML) paradigm that enables mobile devices to produce an ML model without sharing their data. However, the majority of the existing FL frameworks rely on centralized entities. In this work, we introduce IPLS, a fully decentralized federated learning framework that is partially based on the interplanetary file system (IPFS). By using IPLS and connecting into the corresponding private IPFS network, any party can initiate the training process of an ML model or join an ongoing training process that has already been started by another party. IPLS scales with the number of participants, is robust against intermittent connectivity and dynamic participant departures/arrivals, requires minimal resources, and guarantees that the accuracy of the trained model quickly converges to that of a centralized FL framework with an accuracy drop of less than one per thousand.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Wearable systems for everyday use",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5777493235508830865&hl=en&oi=scholarr",
+            "Abstract": "You have just landed in Heraklion. As you leave the airport you are handed a CityPass, a small gadget hosting a map application for the city, which you touch with your ID-Key and put away in your pocket. A few seconds later your wristwatch beeps with a message:\" Welcome to Heraklion-the MapGuide can be controlled using your PDA or your wristwatch\".As you stroll downtown, you shoot several pictures, which are tagged with time and location information retrieved from the GPS on your wristwatch. Storage in the camera begins to run out, and the camera informs you that photos are now being stored in the Assistant in your backpack. At the same time, the Assistant silently uploads the photos to your home repository whenever you pass near a public network access point. You meet a friend at a caf\u00e9 and together you browse through the photo collection. You decide to have dinner at an old tavern displayed in one of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scriptable virtual onboard sensors for conducting post-deployment drills in wireless sensor networks",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7133623/",
+            "Abstract": "Wireless sensor networks (WSNs) can be extensively tested, before being deployed, using simulators and testbeds. However, it is equally important to be able to test a WSN system after it has been deployed, to verify that it will work as expected when certain conditions of interest apply. To this end, we present a script-based mechanism for letting nodes produce artificial sensor values, transparently to the application. The user can write and upload scripts, and activate/deactivate script execution for selected nodes and sensors, at any point in time, without changing the node firmware. Our implementation requires little memory and has negligible runtime overhead, thus can be adopted for resource-constrained nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "EasyHarvest: Supporting the deployment and management of sensing applications on smartphones",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6815169/",
+            "Abstract": "In this paper we present a first prototype of the EasyHarvest framework, which aims to simplify the deployment and controlled execution of large-scale sensing applications on smartphones. On the one hand, application owners submit to a server sensing tasks for distribution on smartphones, and collect the data produced by them in a simple manner. On the other hand, smartphone owners control the execution of sensing tasks on their devices through a single interface, without having to repeatedly download, install and configure individual sensing applications. The interaction between the smartphone and the server occurs in a transparent way, with tolerance to intermittent connectivity and support for disconnected operation.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic Vehicle Routing under Uncertain Travel Costs and Refueling Opportunities.",
+            "Publication year": 2019,
+            "Publication url": "https://www.scitepress.org/Papers/2019/76739/76739.pdf",
+            "Abstract": "We study the vehicle routing problem for a system where there is some uncertainty regarding both the cost of travel and the refueling opportunities. Travel cost stands for the energy spent by the vehicle to move between locations. Refueling opportunities are offered at known locations where the vehicle can harvest or re-gain some of the lost energy. The objective is to visit a set of predefined locations without exhausting the energy of the vehicle. We describe the problem in a formal way, and propose a heuristic algorithm for taking routing decisions at runtime. We evaluate the algorithm for a grid topology as a function of the number of locations to be visited and the autonomy degree of the vehicle, showing that the proposed algorithm achieves good results as long as the energy margins are not very tight.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Jaws: An open market-based framework for distributed computing over the internet",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44444-0_4",
+            "Abstract": "Harnessing the power of idle personal workstations remains a challenge for large scale distributed computing. In this paper, we present the Java Web-computing System (JaWS), which simplifies the connection of heterogeneous machines in a global computing grid as well as the development of applications that exploit this computing capacity. Machines are assigned to applications via a dynamic market-based mechanism that allows machine owners and clients to change their requirements even in the midst of a computation. The system takes care of the main communication issues offering basic programming primitives that can be extended to develop class hierarchies which in turn support distributed computing paradigms. Due to the object-oriented structuring of code, development becomes as simple as implementing a few methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Supporting distributed user interfaces in mobile and wearable device ensembles: the 2WEAR experience",
+            "Publication year": 2010,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_mobhci10.pdf",
+            "Abstract": "The 2WEAR project explored the concept of multi-device personal computing where different wearable, portable and fixed devices communicate with each other in an ad-hoc fashion. This paper summarizes the work done to support dynamic yet controlled system formation and dynamic distributed user interfaces, highlighting the most challenging issues. For an overview of 2WEAR the reader is referred to [6].",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Online inter-datacenter service migrations",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7875130/",
+            "Abstract": "Service migration between datacenters can reduce the network overhead within a cloud infrastructure; thereby, also improving the quality of service for the clients. Most of the algorithms in the literature assume that the client access pattern remains stable for a sufficiently long period so as to amortize such migrations. However, if such an assumption does not hold, these algorithms can take arbitrarily poor migration decisions that can substantially degrade system performance. In this paper, we approach the issue of performing service migrations for an unknown and dynamically changing client access pattern. We propose an online algorithm that minimizes the inter-datacenter network, taking into account the network load of migrating a service between two datacenters, as well as the fact that the client request pattern may change \u201cquickly\u201d, before such a migration is amortized. We provide a rigorous mathematical \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards automatic significance analysis for approximate computing",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7559543/",
+            "Abstract": "Several applications may trade-off output quality for energy efficiency by computing only an approximation of their output. Current approaches to software-based approximate computing often require the programmer to specify parts of the code or data structures that can be approximated. A largely unaddressed challenge is how to automate the analysis of the significance of code for the output quality. To this end, we propose a methodology and toolset for automatic significance analysis. We use interval arithmetic and algorithmic differentiation in our profile-driven yet mathematical approach to evaluate the significance of input and intermediate variables for the output of a computation. Our methodology effectively matches decisions of a domain expert in significance characterization for a set of benchmarks, and in some cases offers new insights. Evaluation of the software infrastructure on a multicore x86 platform \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Providing support for integrated scientific computing: metacomputing meets the grid and the semantic Web",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1558623/",
+            "Abstract": "In this paper, we present an integrated system architecture for metacomputing on top of distributed scientific resources via semantic-driven information management. Our approach is to consider both data and programs as objects of an application-specific ontology, describing them via corresponding metadata schemata that can be exploited to search for and to generate information in an efficient and automated way. Metacomputations are expressed in the form of workflows thereby enabling a flexible combination of data and program objects that can reside on different servers or grid resources. Workflow descriptions are associated with ontology concepts and can be activated as a side-effect of searching for information to produce new data on demand. We also report on the current status of an implementation that provides support for several aspects of this architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Counteracting discrimination against network traffic",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Jennifer-Rexford/publication/268372422_Counteracting_Discrimination_against_Network_Traffic/links/54ba92810cf253b50e2d0385/Counteracting-Discrimination-against-Network-Traffic.pdf",
+            "Abstract": "End users, edge networks, content providers, and service providers alike all need effective ways to counteract traffic discrimination\u2014the selective (mis) treatment of packets as they flow through the Internet. However, preventing discrimination, or even detecting ongoing discrimination, is difficult in practice. Instead, our solution (which we call surelinks) forces the discriminator to introduce more easily detectable loss and delay, and then moves traffic away from offending paths. Surelinks combine three techniques: encryption of aggregate traffic between edge nodes, multipath routing to circumvent performance problems, and stealth probing for accurate measurements in an adversarial setting. Experiments with our prototype system, implemented in the Click router, demonstrate that surelinks have practical overhead comparable to destination-based forwarding.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Tech. Rep. TR-794-07, Princeton University Computer Science"
+        },
+        {
+            "Title": "Node/Proxy portability: Designing for the two lives of your next WSAN middleware",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121216300036",
+            "Abstract": "Middleware for wireless sensor and actuator networks (WSANs) provides powerful programming abstractions which simplify application development. While it is highly desirable to reuse WSAN middleware across a wide range of hardware platforms, in practice, complex middleware may not fit in nodes with limited resources. As one possible solution, we propose the so-called proxy approach: the middleware is ported on a general purpose computer, from where the sensors and actuators of the resource-constrained nodes are accessed remotely yet in a way that is transparent to the application, which runs unmodified, as if it resided on the physical nodes. We provide design guidelines and a middleware transformation process for implementing the proxy approach in a structured way. We also present a concrete implementation of the proxy approach for our own middleware, along with a performance evaluation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:dshw04ExmUIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Runtime Support for a Dynamically Composable and Adaptive Wearable System.",
+            "Publication year": 2003,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_iswc03.pdf",
+            "Abstract": "We present a versatile personal system comprising wearable and portable devices communicating via shortrange radio. The system can be composed in an ad-hoc fashion, by bringing individual devices in proximity with each other. As a consequence it is possible for the user to build the desired system for a given task at hand in a straightforward way, via physical movement and without issuing any explicit configuration commands. System and applications adapt their behavior as a function of the resources provided by the devices that are part of the current system configuration. We give an overview of the runtime support provided to promote development in this highly dynamic setting, with particular focus on adaptive management of storage and user interface resources.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Supporting multitasking of pipelined computations on embedded parallel processor arrays",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5366909/",
+            "Abstract": "This paper presents software support that enables seamless task restructuring and load balancing of pipelined applications at runtime, making it possible to dynamically pick the stages that will be executed as separate tasks on distinct CPUs, depending on the currently available resources and the execution context. This functionality is integrated in a development and execution framework for pipelined applications targeted at reconfigurable (in terms of interconnections), heterogeneous (in terms of architecture and/or clock speed), distributed memory, embedded Parallel Processor Arrays (PPAs). The primary motivation for this work is to support the use of PPA on-chip architectures, which are currently considered as dedicated accelerators, in a multitasking execution context where the available processor cores are distributed among concurrently executing applications. As a proof-of-concept, we discuss the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving application availability in wireless sensor networks with energy-harvesting capability",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6589251/",
+            "Abstract": "We assume a wireless sensor and actuator network with nodes that can harvest energy from the environment, and an application deployed in this network, which is structured as a set of cooperating mobile components that can be placed on any node that provides the required sensor and actuator resources. We propose algorithms that take into account the energy consumption rate of agents as well as energy reserves and harvesting rate of nodes, and decide about the migration of agents in order to improve application availability. Initial evaluation results via simulation show that application availability can be greatly improved compared to having a static application placement.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Implementing replica placements: feasibility and cost minimization",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4228044/",
+            "Abstract": "Given two replication schemes X old  and X new , the replica transfer scheduling problem (RTSP) aims at reaching X new , starting from X old , with minimal implementation cost. In this paper we generalize the problem description to include special cases, where deadlocks can occur while in the process of implementing X new . We address this impediment by introducing artificial (dummy) transfers. We then prove that RTSP-decision is NP-complete and propose two kinds of heuristics. The first attempts to replace dummy transfers with valid ones, while the second minimizes the implementation cost. Experimental evaluation of the algorithms illustrates the merits of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NITOS BikesNet: Enabling Mobile Sensing Experiments through the OMF Framework in a city-wide environment",
+            "Publication year": 2014,
+            "Publication url": "https://nitlab.inf.uth.gr/NITlab/papers/BikesNet_IEEE_MDM_2014_presentation.pdf",
+            "Abstract": "Teensy 3.0 microprocessor board\u2713 32-bit ARM Cortex-M4 micro-processor.\u2713 128KB of Flash memory (program space) and 2KB of EEPROM memory (long-term).\u2713 Features 34 digital I/O pins, one SPI and 3 UART communication ports.\u2713 Can be configured to run at 96MHz, 48MHz, 24MHz or 2MHz.\u2713 Operates at 3.3 v.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ARION: A scalable architecture for a digital library of scientific Collections",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8874689382395503341&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System-and Application-level Support for Runtime Hardware Reconfiguration on SoC Platforms.",
+            "Publication year": 2006,
+            "Publication url": "https://www.usenix.org/legacy/event/usenix06/tech/full_papers/syrivelis/syrivelis.pdf",
+            "Abstract": "This paper discusses the design and implementation of a system-level mechanism and corresponding applicationlevel support that enables programs running on a reconfigurable SoC to modify the underlying FPGA at runtime. Applications may request the addition and/or removal of softcore devices at any point in time. Requests are handled in a coordinated way via a separate user-level process that fetches the configuration bistream from an exernal server. System reconfiguration is implemented via a fast suspend-resume mechanism with support for dynamic softcore device address management to achieve flexible device placement on the reconfigurable fabric. Even though our approach does not rely on advanced (and expensive) hardware that supports dynamic partial reconfiguration, the obtained functionality is sufficient for a wide range of application scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Soft actuation for home and office",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6597809/",
+            "Abstract": "Nowadays, most effort in the area of context-aware systems goes into applications that process sensor data to proactively drive actuators. We share the concerns raised about such fully automated operation. Most notably, due to imperfect context inferences, actuating decisions are often contrary to the user's actual desires. Thus we focus on what we refer to as soft actuation: issuing low-key, non-verbal hints to the user, prompting him to optionally perform specific actuating actions. An actuating action consists in reaching to a nearby object and performing a simple manual operation on it. In this paper we describe the concept of soft actuation, position it with respect to related work, and identify relevant research challenges.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploring the potential of context-aware dynamic CPU undervolting",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3457388.3458658",
+            "Abstract": "CPU operation at sub-nominal voltage levels has been researched to reduce the power and energy consumption of computer systems. While it is possible to determine a safe undervolting level for each application, typically only the most conservative setting is applied statically across all workloads. In this paper, we go a step further and investigate the gains that can be achieved by dynamically and transparently changing the level of CPU undervolting at runtime. To enable this functionality, we design and implement a novel, OS-level, context-aware dynamic undervolting mechanism, able to decide and apply voltage levels according to the specific tolerance of each workload that executes on a multicore CPU at a particular time. Our mechanism can further differentiate between the user-and kernel-level code executed within the same application thread, enabling the exploitation of differences in their undervolting \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Flexible deployment and enforcement of flight and privacy restrictions for drone applications",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9151558/",
+            "Abstract": "As drones gradually become a key component of next-generation cyber-physical systems, it is important to manage them in a flexible and efficient way. At the same time, it is crucial to enforce certain restrictions, which may not only concern no-fly zones but may also limit the usage of specific sensors, especially in urban areas. To this end, we propose an open system that enables the flexible deployment and controlled execution of drone applications. On the one hand, applications come in the form of independently executable software bundles that can be deployed on whichever drones are available and satisfy the corresponding resource and flight requirements. On the other hand, suitable mechanisms are used to monitor the execution of the applications at runtime in order to check conformance to the restrictions posed by the authorities, as well as to handle related violations in an automated way. In this paper, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FPGA Architectures for Approximate Dense SLAM Computing",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9473983/",
+            "Abstract": "Simultaneous Localization and Mapping (SLAM) is the problem of constructing and continuously updating a map of an unknown environment while keeping track of an agent's trajectory within this environment. SLAM is widely used in robotics, navigation and odometry for augmented and virtual reality. In particular, dense SLAM algorithms construct and update the map at pixel granularity at a high computational and energy cost especially when operating under real-time constraints. Dense SLAM algorithms can be approximated, however care must be taken to ensure that these approximations do not prevent the agent from navigating correctly in the environment. Our work introduces and evaluates a plethora of embedded MPSoC FPGA designs for KinectFusion (a well-known dense SLAM algorithm), featuring a variety of optimizations and approximations, to highlight the interplay between SLAM performance and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:tzM49s52ZIMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "GRAL: a grouping algorithm to optimize application placement in wireless embedded systems",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6012884/",
+            "Abstract": "Recent embedded middleware initiatives enable the structuring of an application as a set of collaborating agents deployed in the various sensing/actuating entities of the system. Of particular importance is the incurred cost due to agent communication which in terms depends on agent positions in the system. In this paper we present GRAL a grouping algorithm that migrates groups of agents with the aim of minimizing communication. The algorithm works in a distributed fashion based on knowledge available locally at each node and can be used both for one-shot initial application deployment and for the continuous updating of agent placement. Through simulation experiments under various scenarios we evaluate the algorithm, comparing the solution quality reached against the optimal obtained from exhaustive search.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A modular simulation environment for multiple UAVs with virtual WiFi and sensing capability",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8336766/",
+            "Abstract": "Experiments with real unmanned aerial vehicles (UAVs) need considerable preparation, raise safety concerns, often require official flight permissions by authorities, and can be very costly in case of hardware or software malfunctions. Therefore, simulation is an attractive alternative for performing first tests before going out in the field. This paper presents AeroLoop, a modular simulation environment that combines mature simulation and virtualization technologies into a single system for conducting application experiments with multiple virtual UAVs (vUAVs). Besides the flight behavior of each vUAV, AeroLoop supports simulated wireless communication between them. Also, each vUAV has a virtual camera sensor that can be used to take vertical snapshots during the flight. We discuss key design and implementation aspects of the AeroLoop system, and provide a functional evaluation of the main simulation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:Mojj43d5GZwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Harnessing the potential of mobile personal data repositories",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1174837/",
+            "Abstract": "In this paper we argue in favor of remote data access based on the principle of abstract data types. This paradigm has inherent advantages over the traditional file-oriented approach, especially when used in a ubiquitous computing environment, where data producers and consumers can be distributed and emerge dynamically. The 'datlet', a mobile storage device that implements the proposed approach, is presented in detail. We also discuss how a datlet can be embedded in everyday objects to create hybrid information objects, leading to an intuitive information manipulation model.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Flexible Distributed Computing Across End-Devices, the Edge and the Cloud",
+            "Publication year": 2018,
+            "Publication url": "https://ebooks.iospress.nl/volumearticle/48681",
+            "Abstract": "The emergence of the edge/fog computing paradigm has increased the programming complexity of applications so that they can work seamlessly in the new distributed and heterogeneous system landscape. In this paper, we investigate a structured dataflow approach which simplifies application development and offers great flexibility regarding the deployment of the application across end-devices, edge computing infrastructure and remote cloud systems. Our prototype is built on top of the Node-RED framework, with extensions in order to support the transparent deployment and distributed execution of application flows. We use a real-world application example to illustrate our approach as well as to explore the performance trade-offs for different deployment scenarios on a real distributed computing setup.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "An open market-based architecture for distributed computing",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45591-4_7",
+            "Abstract": "One of the c hallenges in large scale distributed computing is to utilize the thousands of idle personal computers. In this paper, we presen t a system that enables users to effortlessly and safely export their machines in a global market of processing capacity. Efficient resource allocation is performed based on statistical machine profiles and leases are used to promote dynamic task placement. The basic programming primitives of the system can be extended to develop class hierarchies which support different distributed computing paradigms. Due to the objectorien ted structuring of code, developing a distributed computation can be as simple as implementing a few methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Energy efficiency through significance-based computing",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6861903/",
+            "Abstract": "An extension of approximate computing, significance-based computing exploits applications' inherent error resiliency and offers a new structural paradigm that strategically relaxes full computational precision to provide significant energy savings with minimal performance degradation.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Active Replication for Centrally Coordinated Teams of Autonomous Vehicles",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804750/",
+            "Abstract": "Autonomous vehicles, drones in particular, are used to support a wide range of sensing and actuating missions. While these missions are typically coordinated by a human operator, it is attractive to automate this coordination through a computer program that retrieves information from the vehicles and issues commands to them according to the mission objectives. However, the fact that such a computer-driven system may interact with and affect the physical environment in a direct way, introduces several challenges. In particular, it is important to tolerate failures of the mission control computer as smoothly as possible, avoiding roll-backs that might lead to inconsistencies. To address this problem, we propose an active replication approach, ensuring that as long as at least one replica of the mission controller remains operational, the mission will progress in a consistent way and with full transparency for the mission \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Soft actuation: Smart home and office with human-in-the-loop",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7389262/",
+            "Abstract": "Considerable effort in the area of context-aware systems goes into applications that process sensor data to proactively drive actuators. However, there are concerns about such fully automated operation. Most notably, due to imperfect context inferences, actuating decisions can be contrary to the user's desires. In this article, the authors focus on what they refer to as soft actuation: issuing low-key, nonverbal hints prompting the user to optionally perform a simple manual operation on a nearby object. Soft actuation targets noncritical applications for the home or office. In the spirit of calm technology, special care is taken to respect the user's attention. The authors elaborate the interaction concept and present its experimental evaluation \"in the wild.\" The results are encouraging, given that users liked the soft-actuating system and accepted quite a few hints.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Rapid prototype development for studying human activity",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-13039-7_162",
+            "Abstract": "Recent years there is an extremely growing interest in the study of human motion. A large amount of scientific research projects deal with problems like monitoring human motion, gesture and posture recognition, fall detection etc. Wearable computers and electronic textiles have been successfully used for the study of human physiology, rehabilitation and ergonomics. We present a platform and a methodology for rapid prototype development of e-textile applications for human activity monitoring.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Coordination Strategies for Agent Migrations in Wireless Sensor Networks",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7384296/",
+            "Abstract": "Agent-based middleware platforms for wireless sensor networks (WSNs) have received a lot of attention during the last years, due to their great flexibility in re-programming, monitoring, handling, and optimizing the application as well as the whole system. Even though many algorithms have been proposed for the dynamic placement of agents within the WSN, they do not take into account the coordination aspects of such migrations. This not only may result in slow convergence but also in perpetual oscillations of agent migrations, degrading application and system performance. In this paper, we propose full-coordination, semi-coordination, and non-coordination agent migration strategies, and evaluate their convergence and network overhead. We also provide proofs that convergence is guaranteed when dynamic agent placement algorithms adopt our proposed strategies. Our results show that the semi \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Building a Network File System Protocol for Device Access over High Latency Links",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Francisco-Ballesteros-4/publication/237187142_Building_a_Network_File_System_Protocol_for_Device_Access_over_High_Latency_Links/links/0c960529e2999790bc000000/Building-a-Network-File-System-Protocol-for-Device-Access-over-High-Latency-Links.pdf",
+            "Abstract": "In the operating system we are currently building, the Octopus, each user has a single PC that is used to run applications. Other, possibly mobile, computers play the role of mere resource providers that can be attached to the PC in an adVhoc fashion. Independently of their nature, resources appear to be files, and are consequently accessed through the standard file interface. Given that many resources are contributed by machines located at a far distance from the PC, we needed a network file system protocol that operates over high latency links, and which is able to handle synthetic files in a satisfactory way. A further requirement was that legacy applications, designed for the original file system protocol, should continue working as transparently as possible, with minimal or no changes. This paper describes the file protocol we implemented for this purpose, called the Octopus protocol or Op, our experience while devel oping, deploying and using it, and the lessons we learned. It also includes a quantitative evaluation of the performance enhancement that can be achieved by using it.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Secure availability monitoring using stealth probes",
+            "Publication year": 2006,
+            "Publication url": "ftp://ftp.cs.princeton.edu/techreports/2006/769.pdf",
+            "Abstract": "IP routing protocols naively assume that routers are trusted, egregiously failing when routers become adversarial. Because of the significant power they give to adversaries, routers are an increasingly attractive target for subversion attacks. In this paper, we present the design, implementation, and evaluation of stealth probing, a secure path-availability monitor that prevents on-path adversaries from degrading user performance. Stealth probing selects data packets to serve as implicit probes that should be explicitly acknowledged. The probes are concealed, preventing adversaries from treating them preferentially. Secure monitoring enables failure recovery by signaling when networks should reroute traffic to alternate paths. Testbed measurements of our software prototype demonstrate that stealth probing has practical overhead comparable to destination-based forwarding.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Context-based storage management for wearable and portable devices",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-31967-2_17",
+            "Abstract": "In our information-rich world, managing the data we collect is becoming a significant bottleneck for users. This issue has triggered considerable research in so-called semantic file systems, relying on the attachment of meta-data to files. Such data is useful for dynamically arranging files in virtual directories, according to the user\u2019s request or task at hand. However, current research typically concerns the desktop and little work has been done taking into account mobile devices, which in addition to being generators of data themselves are now also capable of carrying significant amounts of information. In this paper we discuss how context information can be exploited to attach semantics to files residing on portable devices, and we show how such information can be used by the storage system itself to enhance data management while on the move. We also describe a storage framework which integrates \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An open framework for flexible plug-in privacy mechanisms in crowdsensing applications",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7917564/",
+            "Abstract": "Preserving user privacy is crucial for the wide adoption of crowdsensing and participatory sensing applications that rely on personal devices. Currently, each application comes with its own hardwired and possibly undocumented privacy support (if any), while the horizontal protection mechanisms provided by operating and runtime systems operate at a low level that can significantly harm application utility, or even render an application useless. To achieve greater flexibility, we propose a framework that decouples the privacy mechanism from the application logic so that it can be developed by another, perhaps more trusted party, and which allows the dynamic binding of different privacy mechanisms to the same application running on the user's mobile device. We describe a proof-of-concept implementation of the proposed framework for Android, where privacy mechanisms are independently developed as separate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Add some olives to your coffee: A java-based gui for the octopus system",
+            "Publication year": 2012,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/octopus_iwp9_12.pdf",
+            "Abstract": "Pretty soon many people will own a large number of smart devices with Internet capability through the wire or over the air. While having many gadgets can be great fun, the user will also be faced with the burden of managing a highly decentralized, uncoordinated, heterogeneous and dynamic device ecosystem. Currently, the problem is typically \u201csolved\u201d by letting the user act as a mediator between these devices. This approach, apart from not being much fun, cannot possibly scale to a large number of devices. As another, relatively recent option, data and applications can be placed in the cloud. However, the flexible exploitation of the hardware and software resources of other devices remains a challenge. The Octopus system [1, 2] tackles this problem by applying the principle of centralization (as the cloud paradigm) in conjunction with an open, simple and flexible resource sharing architecture. All applications run in a single computer, called the computer, while every other smart device connects to the computer over the network to provide special resources or act as interactive terminals for these applications. Like Octopus itself, the standard GUI terminal support for the Octopus is implemented on top of Inferno [3]. Even though Inferno has been ported on many platforms (eg, Linux, Windows, MacOSx, Plan9, Solaris and BSD), in practice only a few people will go through the installation process merely so that they can run an Octopus terminal. Moreover, for all practical purposes, one cannot expect that Inferno will or should be ported on all platforms. However, the Java runtime environment is being ported, aggressively, on all kinds of platforms and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated context aggregation and file annotation for PAN-based computing",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s00779-005-0061-4",
+            "Abstract": "This paper presents a method for automatically annotating files created on portable devices with contextual metadata. We achieve this through the combination of two system components. One is a context dissemination mechanism which allows devices in a personal area network (PAN) to maintain a shared aggregate contextual perception. The other is a storage management system that uses such context information to automatically decorate files created on personal devices with annotations. As a result, the user is able to flexibly browse and lookup files that were generated on the move, based on the contextual situation at the time of their creation. What is equally important is that the user is relieved from the cumbersome task of having to manually provide annotations in an explicit fashion. This is especially valuable when generating files on the move, using U/I-restricted portable devices.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "An area-based overlay architecture for scalable integration of sensor networks",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-11723-7_57",
+            "Abstract": "With many different sensor networks being deployed, there will be an increased need to facilitate their uniform and efficient access at a large, perhaps even global, scale. To this end, we present an overlay-based architecture for organizing and querying multiple sensor networks based on their geographical area. The nodes of the system, representing query processors and individual sensor network gateways, are organized in a hierarchy which is used for query forwarding and result delivery. The key features of our system are: (i) support for the dynamic addition and removal of query processors and sensor network gateways; (ii) automatic hierarchy construction and awareness of sensing capabilities based on explicit metadata information; and (iii) efficient query multiplexing and result de-multiplexing within the overlay. We present a first evaluation of the proposed architecture. Results indicate that our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "ARION: An advanced lightweight software system architecture for accessing scientific collections",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13422750061294959583&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On minimizing the resource consumption of cloud applications using process migrations",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731513001585",
+            "Abstract": "According to the pay-per-use model adopted in clouds, the more resources an application running in a cloud computing environment consumes, the greater the amount of money the owner of the corresponding application will be charged. Therefore, applying intelligent solutions to minimize the resource consumption is of great importance. In this paper, we study the problem of identifying an assignment scheme between the interacting components of an application, such as processes and virtual machines, and the computing nodes of a cloud system, such that the total amount of resources consumed by the respective application is minimized. Because centralized solutions are deemed unsuitable for large distributed systems or large-scale applications, we propose a fully distributed algorithm (called DRA) to overcome scalability issues. DRA takes decisions concerning the transition from one assignment scheme to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Graspable and resource-flexible applications for pervasive computing at home",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6525610/",
+            "Abstract": "We envision the home populated with regular objects that allow programmatic access to their sensors and actuators. The objects jointly form a pervasive computing platform, open for third-party independently developed applications. A challenge is how to support people in deploying and managing such applications. Today, the user perceives an application as an immaterial artifact, accessed through a screen-based interface of a general-purpose computing device. Contrary to that established paradigm, we propose to reify the pervasive computing application as a simple physical thing, called the \u201capplication pill.\u201d The pill can easily be grasped and operated: the user brings the pill home, switches it on, and checks if it works just by glancing at its on/off diode. As the application is destined for many homes, each featuring a different collection of objects, the user should be provided with high-level feedback on how \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:70eg2SAEIzsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Safe Optimistic Path Planning for Autonomous Drones under Dynamic Energy Costs",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9564911/",
+            "Abstract": "Unmanned aerial vehicles or so-called drones are already used in several applications to perform different sensing and monitoring missions. A central problem is to plan these missions so as to minimize the completion time. This planning must also consider the typically limited autonomy of drones and the need to change their batteries in order to support longer missions. The problem becomes even harder when multiple drones are involved and there is uncertainty about the energy that will be consumed to move between the points of interest in the target area. In this paper, we present a heuristic algorithm for tackling this problem in an online fashion, which takes into account the actual energy costs that occur during the mission in order to adapt the planned paths. The algorithm works in an optimistic way, assuming that the costs will not always be the worst possible. Still, it guarantees that all vehicles will always \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Discovery in a dynamically composable personal system",
+            "Publication year": 2003,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_hcii03.pdf",
+            "Abstract": "In this paper we describe a versatile personal system that is formed by combining several different wearable, portable and stationary computing elements via short-range radio. We investigate the role of discovery in this setting with particular focus on how it can be exploited, as a fundamental type of user-manipulated context, to support and control ad-hoc composition in a natural way.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:N5tVd3kTz84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Data, Computation and Knowledge Grid: the case of the ARION system",
+            "Publication year": 2003,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.9852",
+            "Abstract": "The ARION system provides basic e-services of search and retrieval of objects in scientific collections, such as, datasets, simulation models and tools necessary for statistical and/or visualization processing. These collections may represent application software of scientific areas, they reside in geographically disperse organizations and constitute the system content. The user may invoke on-line computations of scientific datasets when the latter are not found into the system. Thus, ARION provides the basic infrastructure for accessing and deriving scientific information in an open, distributed and federated system. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits",
+            "Publication year": 2016,
+            "Publication url": "https://pure.qub.ac.uk/en/publications/an-energy-efficient-and-error-resilient-server-ecosystem-exceedin",
+            "Abstract": "The explosive growth of Internet-connected devices will result in a flood of generated data, which will increase the demand for network bandwidth as well as compute power to process the generated data. Consequently, there is a need for more energy efficient servers to empower traditional centralized (Cloud) data-centers as well as emerging decentralized data-centers at the Edges of the Internet. In this paper, we present our approach, which aims at developing a new class of micro-servers\u2013the UniServer-that exceed the conservative energy and performance scaling boundaries by introducing novel mechanisms at all layers of the design stack. The main idea lies on the realization of the intrinsic hardware heterogeneity and the development of mechanisms that will automatically expose the unique varying capabilities of each hardware component and allow their operation at new extended operating points. Low overhead schemes are employed to monitor and predict the hardware behavior and report it to the system software, which is responsible for optimizing the system operation in terms of energy or performance, while guaranteeing non-disruptive operation under extended operating points. To efficiently manage any potential fault that may incur under extended margins, we aim at identifying critical/vulnerable software structures and developing low cost techniques for protecting them. This eventually, allows us to enhance the fault tolerance of the overall system software that is representative of any state of the art cloud data-center, since it adopts a virtualization environment as well as popular resource management packages. Our initial \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic Multiple Vehicle Routing under Energy Capacity Constraints*",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9294492/",
+            "Abstract": "The multiple vehicle routing problem (mVRP) concerns the scheduling of multiple vehicles so as to visit some locations of interest. We study a dynamic version of mVRP where the travel costs are not a priori known and may vary at runtime. Moreover, we introduce energy-related constraints which make the problem more complex. Vehicles have only finite energy reserves, which gradually diminish as they move between different locations, but can also gain some energy at specific depot locations. The objective is to visit all locations of interest as fast as possible without any vehicle exhausting its energy. We propose an online algorithm based on the Large Neighbourhood Search (LNS) heuristic. We evaluate the algorithm for different topologies and degrees of vehicle autonomy. Our results show that it achieves significantly better results than an offline algorithm that produces a safe schedule based on worst-case \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic offloading of application services to edge servers using docker swarm and microservices",
+            "Publication year": 2018,
+            "Publication url": "https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/48774/17432.pdf?sequence=1",
+            "Abstract": "The prevalence of the Internet of Things and mobile devices has introduced widespread availability of computational resources in close proximity to the end user. This has, in turn, led to the emergence of the edge computing paradigm, attempting to efficiently leverage these resources and further introducing computing devices in the form of micro-servers. As a result added challenges exist, pertaining to the heterogeneity of available devices as well as their optimal utilisation.In this research we attempt to address some of these challenges by utilizing the well established architecture of microservices and lightweight virtualization in the form of Docker containers. We present the prototype of a system that is built on top of Docker Swarm. It receives, as input, a microservices application and opportunistically exploits, based on a simple migration policy, nearby computing resources in order to increase its performance. We evaluate our system using a realistic test application and find that in a moderately dynamic environment it can provide a significant performance gain to the target application.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reducing the Mission Time of Drone Applications through Location-Aware Edge Computing",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9458891/",
+            "Abstract": "In data-driven applications, which go beyond simple data collection, drones may need to process sensor measurements at certain locations, during the mission. However, the onboard computing platforms typically have strong resource limitations, which may lead to significant delays and long mission times. To address this problem, we explore the potential of offloading heavyweight computations from the drone to nearby edge computing infrastructure. We discuss a concrete implementation for a service-oriented application software stack, which takes offloading decisions based on the expected service invocation time and the locations of the servers expected to be available in the mission area. We evaluate our implementation using an experimental setup that combines a hardware-in-the-loop and software-in-the-loop configuration. Our results show that the proposed approach can reduce the total mission time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:35r97b3x0nAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Algorithms for energy-driven agent placement in wireless embedded systems with memory constraints",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1569190X10002443",
+            "Abstract": "The agent programming paradigm provides an easy to use framework for coding embedded applications in a pervasive environment. Under this model, applications are structured as mobile agents that can be flexibly installed on the available nodes of the system. Typically, such system nodes have limitations concerning battery and memory resources. The agent placement problem (APP) we consider in this paper, consists of deciding which agents should be placed at which nodes, in order to maximize the lifetime of the first node that runs out of battery. Since wireless communication has been identified in the past as a primary source of energy consumption, APP essentially involves bringing communicating agents close to each other, thus reducing communication costs. Nevertheless, this cannot always be done due to memory constraints. In fact as more and more agents are installed at the nodes finding free \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Fault-tolerance support for mobile robotic applications",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8442098/",
+            "Abstract": "The advent of powerful yet also affordable mobile robotic platforms will spur a new generation of computer-driven applications that employ multiple mobile robots to perform a large variety of missions. This prospect has lead to the emergence of corresponding programming models that aim to ease the development of such applications, allowing a more straightforward exploitation of the resources that are available on these platforms. But fault-tolerance remains a challenging issue due to the inherent dynamics of such cyber-physical systems. Notably, some of the actions that are performed in the context of such executions cannot be easily undone, while in other cases it may be problematic to automatically redo certain actions without the explicit control of the application. The desired functionality cannot be achieved by applying traditional fault-tolerance schemes out-of-the-box; these need to be combined and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic Vehicle Routing Under Uncertain Energy Consumption and Energy Gain Opportunities",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-68028-2_7",
+            "Abstract": "The amount of energy that needs to be spent by a vehicle to travel between different locations, and the amount of energy that can be regained at certain locations, may not always be known in advance with certainty. In this case, the path that needs to be followed by the vehicle in order to visit some points of interest without exhausting its energy reserves, has to be determined in a dynamic way, via an online algorithm. To this end, we propose a heuristic which takes dynamic routing decisions based on the actually remaining energy of the vehicle and the estimated energy costs/gains of different path options. We evaluate the algorithm via simulations, showing that it always achieves better results than the statically optimal path-planning algorithm and close to optimal results as long as the energy storage capacity of the vehicle is not marginally sufficient to travel between locations where the vehicle can gain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "ARION: An advanced lightweight architecture for accessing scientific collections",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18429484548523321051&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NITOS BikesNet: enabling mobile sensing experiments through the OMF framework in a city-wide environment",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6916908/",
+            "Abstract": "In this paper we present the NITOS Bikes Net platform, a city-scale mobile sensing infrastructure that relies on bicycles of volunteer users. NITOS Bikes Net employs a custom-built embedded node that can be equipped with different types of sensors, and which can be easily mounted on a bicycle in order to opportunistically collect environmental and WiFi measurements in different parts of the city. Experimenters can remotely reserve and control the sensor nodes on bicycles as well as collect/visualize their measurements via the OMF/OML framework, which was extended in order to handle the intermittent connectivity and disconnected operation of the mobile nodes. We also provide a performance analysis of our node prototype in terms of sensing latency, end-to-end data transmission capability and power consumption, and report on a first experiment that was performed using NITOS Bikes Net in the city of Volos \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "OmniStore: Automating data management in a personal system comprising several portable devices",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1574119207000065",
+            "Abstract": "The ever growing amount of data generated and consumed on the move using portable devices gives rise to serious data management issues. The fact that each person may own and is likely to carry several such devices further aggravates this problem. On the other hand, new opportunities for achieving cleverer device interaction emerge due to the increased wireless networking capabilities of wearable and portable devices. This paper introduces OmniStore, a system that combines portable devices and infrastructure-based services to relieve the user from explicit and time consuming file management tasks. Our approach is to let devices communicate with each other as well as with a repository service, in an opportunistic and asynchronous fashion, to perform a variety of file movement and copying actions behind the scenes, which would have typically required considerable explicit user interaction.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Design and implementation of an extensible architecture for the efficient remote access of simple RFID-readers",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4394196/",
+            "Abstract": "This paper describes a software architecture for the remote monitoring of warehouses equipped with simple RFID reader devices. Its main design objective is to enable a flexible and efficient integration of resource constrained readers that may be implemented as low-cost embedded systems, while allowing higher-level middleware components to access them in a transparent way. The proposed design has been implemented in a Linux-based environment and is currently being tested in conjunction with early prototypes of simple RFID readers that are accessed over low-bandwidth.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An event-based framework for the specification and runtime checking of timing constraints in wireless sensor and actuator networks",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7396493/",
+            "Abstract": "Distributed monitoring and control applications running on top of wireless sensor and actuator networks need to be developed in a structured and flexible way. Such applications also have strict timing constraints, which need to be properly captured and tested at development time. But these constraints can still be violated at runtime, due to a number of reasons, such as an overly high processing load at some node, or the typically unpredictable and unreliable nature of the wireless medium. For this reason, once the system is deployed, it is important to keep track of its performance in order to detect any violation of timing specifications. To this end, we present a event-oriented component model and runtime system that aims on the one hand to simplify the development of distributed event-based applications, and on the other hand to monitor their behavior in order to detect timing errors. The developer writes the code \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Virtual sensor services for simulated mobile nodes",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7894115/",
+            "Abstract": "The faithful and flexible simulation of mobile robotic platforms with different application-specific sensing capabilities will become increasingly important in order to test a wide range of scenarios without having to run real missions. Current research focuses primarily on the mobility dynamics of such systems, and to this end a lot of work has already been done to support the simulation of various land, surface, underwater and aerial vehicles. We tackle a complementary aspect, namely that of sensing. More concretely, we propose to support virtual sensors via a service-oriented architecture, which cleanly separates a simulated vehicle from the logic that provides the (artificial) sensor values to it. The application running on the simulated vehicle has the illusion of accessing a real onboard sensor, but sensor data is provided by an independent software component, which can be flexibly placed on the same machine that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Java implementation of the graphical user interface of the Octopus distributed operating system",
+            "Publication year": 2012,
+            "Publication url": "https://core.ac.uk/download/pdf/132824615.pdf",
+            "Abstract": "With the expansion of the Internet and the widespread usage of a variety of computing devices that are constantly evolving, emerges the need to establish a pervasive computing environment to satisfy the ever evolving modern user\u2019s demands. That need arises from the fact that the users face decentralized, uncoordinated, heterogeneous, and highly dynamic, practically uncontrolled environments. Octopus [1, 2] is a system that aims to provide a single, homogeneous, ubiquitous computing environment by centralizing everything to a single personal computer. Other devices and services connect over the network, as terminal resource providers, to the central system. The aggregation of distributed resources in a unified, homogeneous environment, creates the illusion of a ubiquitous virtual computer which a major step into making pervasive computing a reality..The resources that can be added to the Octopus pervasive environment have to conform to a number of restrictions which are imposed mainly by the software technologies upon which the system is built. The goal of this project is to expand the set of candidate system software technologies, by bringing into play the Java platform. To achieve that goal, we have to implement an Octopus terminal in Java, in order to be able to expose Java supported devices into the Octopus \u201cecosystem\u201d.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A market-based protocol with leasing support for globally distributed computing",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/923243/",
+            "Abstract": "We have developed JaWS, a Java-based Web computing system, which enables users to effortlessly export their machines in a global market of processing capacity to host remote computations (S. Lalis and A. Karipidis, 2000). Leases are used to promote dynamic task placement as well as fair compensation for the host providers. The authors present an updated protocol used by hosts and applications to interact with the JaWS market, through which resource allocation takes place. Although this work is carried out in the context of JaWS, it can also be applied to other market-based resource allocation frameworks.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TeCoLa: A programming framework for dynamic and heterogeneous robotic teams",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2994374.2994397",
+            "Abstract": "Many pervasive computing applications can benefit from the advanced operational capability and diversity of sensing and actuation resources of modern robotic platforms. Even more powerful functionality can be achieved by combining robots with different mobility capabilities, some of which may already be deployed in the area of interest. However, the current programming frameworks make such flexible resource utilization a daunting task, as the application developer is responsible for the laborious and awkward management of the heterogeneity and transient availability of resources and services, which is done in a manual way. TeCoLa is a programming framework addressing the above issues. It supports structured services as first-class entities, which can appear/disappear dynamically, and are accessed in a transparent way. In addition, to ease the task of multi-robot programming, TeCoLa supports the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development Tools for Opportunistic Pervasive Computing",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5172927/",
+            "Abstract": "The goal of the POBICOS project is a platform that facilitates the development and deployment of pervasive computing applications destined for networked, cooperating objects. POBICOS object communities are heterogeneous in terms of the sensing, actuating, and computing resources contributed by each object. Moreover, it is assumed that an object community is formed without any master plan; for example, it may emerge as a by-product of acquiring everyday, POBICOS-enabled objects by a household. As a result, the target object community is, at least partially, unknown to the application programmer, and so a POBICOS application should be able to deliver its functionality on top of diverse object communities (we call this opportunistic computing). The POBICOS platform includes a middleware offering a programming model for opportunistic computing, as well as development and monitoring tools. This paper \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust Precision Landing for Autonomous Drones Combining Vision-based and Infrared Sensors",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9530091/",
+            "Abstract": "One of the challenges in drone-based systems is to support automated landing with a high precision that goes beyond the accuracy of standard off-the-shelf GPS. Various efforts have been made to support this, mainly using vision-based and infrared sensors. However, using a single sensor inevitably introduces a single point of failure. To address this problem, we combine a vision-based sensor that detects special visual markers with a sensor that tracks an infrared beacon. We also support a more cautious landing approach for the case where these sensors temporarily fail to detect their targets. We implement our solution in the context of a mature autopilot framework, through modular extensions that are transparent to the rest of the software stack. We evaluate these mechanisms by conducting field experiments using a custom drone, activating faults in the individual precision landing sensor subsystems in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using multicast transfers in the replica migration problem: Formulation and scheduling heuristics",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-03869-3_24",
+            "Abstract": "Performing replica migrations in the minimum possible time, also called the Replica Migration Problem (RMP), is crucial in distributed systems using replication. In this paper we tackle RMP when multicast transfers are available. We give a formal problem statement as a Mixed Integer Programming problem. It turns out that the problem is NP-hard. Therefore, we resolve to scheduling heuristics in order to find good solutions. Through simulations we identify different tradeoffs between performance and execution time and conclude on the most attractive approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Investigating the replica transfer scheduling problem",
+            "Publication year": 2006,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/rpm_pdcs06.pdf",
+            "Abstract": "The Replica Placement Problem (RPP) aims at selecting the nodes for duplicating data objects in order to optimize their access. Even though a lot of work already exists on RPP, the issue of implementing the resulting allocation scheme is typically overlooked. In this paper we introduce the Replica Transfer Scheduling Problem (RTSP), briefly stated as: given a network of servers with limited storage capacity, a set of data objects and two replication schemes old X and new X, find a schedule of object transfers and deletions for implementing new X based on old X with minimum communication cost. Given that this problem is NP-complete, we introduce several different heuristics to solve it, and evaluate them via simulations.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Advanced Middleware for eScience Applied to Environmental Integrated Systems",
+            "Publication year": 2005,
+            "Publication url": "https://www.igi-global.com/chapter/information-systems-sustainable-development/23450",
+            "Abstract": "An advanced eScience middleware system is designed and implemented (the middleware has been developed within the ARION project, IST-2000-25289, funded by EU 5th Framework Programme) to support search and retrieval of scientific information. It is capable of integrating collections of scientific datasets, including simulation models and associated tools for statistical analysis and dataset visualization. These collections represent application software in several scientific domains, they reside in geographically disperse organizations and constitute the system content. It also actively supports on-demand scientific data processing workflows. The system design makes use of two recently advancing technologies, the Semantic Web and the Grid, as well as state of the art distributed systems\u2019 technology. The systems\u2019 demonstration scenarios involve mainly environmental applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Single and group agent migration: Algorithms, bounds, and optimality issues",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6579595/",
+            "Abstract": "Recent embedded middleware platforms enable the structuring of an application as a set of collaborating agents deployed on various nodes of the underlying wireless sensor network (WSN). Of particular importance is the network cost incurred due to agent communication, which in turn depends on how the agents are placed within the WSN system. In this paper, we present two agent migration algorithms with the aim of minimizing the total network overhead. The first one takes independent single agent migration decisions, while the second one considers groups of agents for migration. Both algorithms work in a fully distributed fashion based on the knowledge available locally at each node, and can be used both for one-shot initial application deployment as well as for the continuous updating of agent placement. We also propose two methodologies to tackle the problem when WSN nodes have limited capacity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:lSLTfruPkqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A grid service-based infrastructure for accessing scientific collections: The case of the ARION system",
+            "Publication year": 2003,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/1094342003173008",
+            "Abstract": "The ARION system provides basic e-services of search and retrieval of objects in                scientific collections, such as datasets, simulation models and tools necessary for                statistical and/or visualization processing. These collections may represent                application software of scientific areas, they reside in geographically disperse                organizations and constitute the system content. The user may invoke on-line                computations of scientific datasets when the latter are not found into the system.                The underlying grid used consists of hardware and software resources in the various                participating organizations. ARION manages these resources providing a computing                framework that produces datasets required by the user. In addition, the system                offers semantic description of its content in terms of scientific ontologies and                metadata information. Thus, ARION \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Sage Publications"
+        },
+        {
+            "Title": "International Journal of High Performance",
+            "Publication year": 2003,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.134.8855&rep=rep1&type=pdf",
+            "Abstract": "The ARION system provides basic e-services of search and retrieval of objects in scientific collections, such as datasets, simulation models and tools necessary for statistical and/or visualization processing. These collections may represent application software of scientific areas, they reside in geographically disperse organizations and constitute the system content. The user may invoke on-line computations of scientific datasets when the latter are not found into the system. The underlying grid used consists of hardware and software resources in the various participating organizations. ARION manages these resources providing a computing framework that produces datasets required by the user. In addition, the system offers semantic description of its content in terms of scientific ontologies and metadata information. Thus, ARION provides the basic infrastructure for accessing and deriving scientific information in an open, distributed and federated system.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A programming model and runtime system for significance-aware energy-efficient computing",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2858788.2688546",
+            "Abstract": " We introduce a task-based programming model and runtime system that exploit the observation that not all parts of a program are equally significant for the accuracy of the end-result, in order to trade off the quality of program outputs for increased energy-efficiency. This is done in a structured and flexible way, allowing for easy exploitation of different points in the quality/energy space, without adversely affecting application performance. The runtime system can apply a number of different policies to decide whether it will execute less-significant tasks accurately or approximately. The experimental evaluation indicates that our system can achieve an energy reduction of up to 83% compared with a fully accurate execution and up to 35% compared with an approximate version employing loop perforation. At the same time, our approach always results in graceful quality degradation. ",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Rf jamming classification using relative speed estimation in vehicular wireless networks",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1812.11886",
+            "Abstract": "Wireless communications are vulnerable against radio frequency (RF) jamming which might be caused either intentionally or unintentionally. A particular subset of wireless networks, vehicular ad-hoc networks (VANET) which incorporate a series of safety-critical applications, may be a potential target of RF jamming with detrimental safety effects. To ensure secure communication and defend it against this type of attacks, an accurate detection scheme must be adopted. In this paper we introduce a detection scheme that is based on supervised learning. The machine-learning algorithms, KNearest Neighbors (KNN) and Random Forests (RF), utilize a series of features among which is the metric of the variations of relative speed (VRS) between the jammer and the receiver that is passively estimated from the combined value of the useful and the jamming signal at the receiver. To the best of our knowledge, this metric has never been utilized before in a machine-learning detection scheme in the literature. Through offline training and the proposed KNN-VRS, RF-VRS classification algorithms, we are able to efficiently detect various cases of Denial of Service Attacks (DoS) jamming attacks, differentiate them from cases of interference as well as foresee a potential danger successfully and act accordingly.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving the performance of styx based services over high latency links",
+            "Publication year": 2011,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.405.9432&rep=rep1&type=pdf",
+            "Abstract": "Today, latency is the main limiting factor for distributed systems over the Internet. WANs and wireless networks have achieved high throughput, but limitations on the speed of light put a strict boundary on latency. New protocols have to be deployed in order to reduce the effects of latency. At the same time, legacy systems and applications designed for the original protocols should continue working as transparently as possible, with minimal or no changes. The present work is centered on network file system protocols used both to control devices and access data files. These protocols are strongly affected by high latency. This is the case of Styx, a protocol currently used by Grid middleware for scientific workflows, supercomputer systems, embedded device controllers, and ubiquitous computing environments. This paper describes Op, a new file protocol we implemented to bridge Styx over high-latency links. The paper provides general guidelines to improve existing protocols, our experience while developing, deploying and using",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "P/S sockets: supporting publish/subscribe communication through the standard socket API",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2541608.2541609",
+            "Abstract": "While the address-oriented datagram and reliable stream services supported by the UDP and TCP protocols are the foundation of distributed computing, other forms of communication are increasingly being used to build contemporary systems and applications. A popular alternative to datagram-and stream-based communication is the Publish/Subscribe (P/S) paradigm, where message forwarding and reception is done based on a topic or content descriptions instead of an address. Several middleware systems have been built to support this form of communication, on top of the socket API. Taking a different approach, we discuss how P/S networking can be supported through the socket API, so that this can serve as a universal interface for supporting different communication abstractions. To this end we introduce a new address family and extend the semantics of selected socket primitives to support P/S functions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fast dynamic binary rewriting for flexible thread migration on shared-isa heterogeneous mpsocs",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6893207/",
+            "Abstract": "Heterogeneous MPSoCs where different types of cores share a baseline ISA but implement different operational accelerators combine programmability with flexible customization. They hold promise for high performance under power and area limitations. However, transparent binary execution and dynamic scheduling is hard on those platforms. The stateof-the-art approach for transparent accelerated execution is fault-and-migrate (FAM): when a thread executes an accelerating instruction unavailable on the host core, it is forcibly migrated to an accelerating core which implements the instruction natively. Unfortunately, this approach prohibits dynamic scheduling through flexible thread migration, which is essential to any asymmetric platform for efficient utilization of heterogeneous resources. We present two distinct binary-level techniques - Dynamic Binary Rewriting (DBR) and Dynamic Binary Translation (DBT \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A framework for evaluating software on reduced margins hardware",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8416495/",
+            "Abstract": "To improve power efficiency, researchers are experimenting with dynamically adjusting the voltage and frequency margins of systems to just above the minimum required for reliable operation. Traditionally, manufacturers did not allow reducing these margins. Consequently, existing studies use system simulators, or software fault-injection methodologies, which are slow, inaccurate and cannot be applied on realistic workloads. However recent CPUs allow the operation outside the nominal voltage/frequency envelope. We present eXtended Margins eXperiment Manager (XM 2 ) which enables the evaluation of software on systems operating outside their nominal margins. It supports both bare-metal and OS-controlled execution using an API to control the fault injection procedure and provides automatic management of experimental campaigns. XM 2  requires, on average, 5.6% extra lines of code and increases the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Increasing the profit of cloud providers through dram operation at reduced margins",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9139667/",
+            "Abstract": "Energy reduction is a key objective in cloud computing, and DRAM memories are responsible for an important amount of the energy consumption of data center nodes. Vendors adopt very conservative margins for DRAM operating parameters, such as the refresh rate and supply voltage, to guarantee correct operation even under the worst process variation and operating conditions. In this paper, we investigate the exploitation of DRAM margins to improve the energy efficiency of data center nodes, without triggering penalties due to service level agreement (SLA) violations. We introduce a model that captures the most important aspects of job management and system configuration. We also introduce RM-DRAM, a scheduling and node configuration policy that exploits the extended margins of DRAMs to reduce the operator\u2019s cost, considering the tradeoff between the cost of energy consumption and potential SLA \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:W5xh706n7nkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards dynamic and cooperative multi-device personal computing",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-72727-9_9",
+            "Abstract": "The significant technological advances in hardware miniaturisation and data communications change the landscape of computing in a profound way. A rich variety of sensing, storage and processing nodes will soon be embedded in artefacts and clothes worn by people. Numerous computing elements will be integrated in appliances, furniture, buildings, public spaces and vehicles. It now becomes possible to move beyond the physical but also mental boundaries of the desktop, and to develop novel forms of computing that will efficiently support people in their daily activities without constantly being in the center of their attention.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic Undervolting to Improve Energy Efficiency on Multicore X86 CPUs",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9123555/",
+            "Abstract": "Chip manufacturers introduce redundancy at various levels of CPU design to guarantee correct operation, even for worst-case combinations of non-idealities in process variation and system operating conditions. This redundancy is implemented partly in the form of voltage margins. However, for a wide range of real-world execution scenarios these margins are excessive and merely translate to increased power consumption, hindering the effort towards higher energy efficiency in both HPC and general purpose computing. Our study on the x86-64 Haswell and Skylake multicore microarchitectures reveals wide voltage margins, which vary across different microarchitectures, different chip parts of the same microarchitecture, and across different workloads. We find that it is necessary to quantify voltage margins using multi-threaded and multi-instance workloads, as characterization with single-threaded and single-instance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:_Ybze24A_UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Lessons from smartcampus: External experimenting with user-centric internet-of-things testbed",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/article/10.1007/s11277-014-2223-z",
+            "Abstract": "Creating Internet-of-Things (IoT) solutions that can be deployed at scale requires adequate experimentation environments. In the area of experimentation, two trends can be observed. First, there is a shift from lab-based, controlled experiments to experimenting \u201cin the wild\u201d: researchers tend to augment the users\u2019 natural environments and observe how people integrate a new solution into their everyday lives. Second, when a substantial investment in setting up an experimentation infrastructure has been made, it makes sense to open it to a wide community of researchers; the concept of Experimentation-as-a-Service (EaaS) is emerging along these lines. SmartCampus, an IoT testbed developed at the University of Surrey, fits the both trends very well. It involves real users in a natural setting, as IoT devices are deployed in the users\u2019 offices. Further, several user-centric experiments conducted in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:rO6llkc54NcC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Evaluating the transport layer of the ALFA framework for the Intel\u00ae Xeon Phi\u2122 Coprocessor",
+            "Publication year": 2015,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1742-6596/664/9/092021/meta",
+            "Abstract": "The ALFA framework supports the software development of major High Energy Physics experiments. As part of our research effort to optimize the transport layer of ALFA, we focus on profiling its data transfer performance for inter-node communication on the Intel Xeon Phi Coprocessor. In this article we present the collected performance measurements with the related analysis of the results. The optimization opportunities that are discovered, help us to formulate the future plans of enabling high performance data transfer for ALFA on the Intel Xeon Phi architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Leasing in a market for computing capacity",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/10722515_29",
+            "Abstract": "One of the challenges in large scale distributed computing is to utilize the thousands of idle personal computers connected to the Internet. In this paper, we present a system that enables users to effortlessly and safely export their machines in a global market of processing capacity. Efficient resource allocation is performed based on statistical machine profiles and leases are used to promote dynamic task placement. We show how leasing, as opposed to static resource allocation, yields a natural renegotiation process through which prioritized computations receive better quality of service and resource providers enjoy bigger profits.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic binary rewriting and migration for shared-ISA asymmetric, multicore processors: summary",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2287076.2287096",
+            "Abstract": "Asymmetric multicore processors have demonstrated strong potential for improving performance, power efficiency and area efficiency of computing systems [1, 2, 5, 6]. Disjoint ISA systems, such as AMD Fusion, ARM Tegra and the Cell broadband engine, are becoming widespread. Although disjoint-ISA systems have exhibited high performance, they are hard to program [6]. Single-ISA, performance heterogeneous systems [7, 10] are simpler to program, as the same code can run on any core in the system. However, that implies that certain threads will be unable to exploit performance enhancing features which are available on selected cores and exposed to the ISA, through specialized instructions. Shared-ISA asymmetric multicore architectures [9] provide programmability and code customization simultaneously. Shared-ISA architectures use a baseline ISA, which some performance enhanced (PE) cores extend \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A low-cost and simple-to-deploy peer-to-peer wireless network based on open source linux routers",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1386184/",
+            "Abstract": "In this paper we present our work towards deploying a community wireless network with ad hoc communication and routing between its elements. We describe our network model and implementation of wireless routers, while motivating decisions and pointing out open issues. The main advantage of our approach is the low deployment cost and inherent flexibility in terms of adapting the network configuration with little or no human intervention, which in turn can be exploited to support the dynamic addition, removal and mobility of network elements.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High-Throughput Sockets over RDMA for the Intel Xeon Phi Coprocessor",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-67630-2_6",
+            "Abstract": "In this paper we describe the design, implementation and performance of Trans4SCIF, a user-level socket-like transport library for the Intel Xeon Phi coprocessor. Trans4SCIF library is primarily intended for high-throughput applications. It uses RDMA transfers over the native SCIF support, in a way that is transparent for the application, which has the illusion of using conventional stream sockets. We also discuss the integration of Trans4SCIF with the ZeroMQ messaging library, used extensively by several applications running at CERN. We show that this can lead to a substantial, up to 3x, increase of application throughput compared to the default TCP/IP transport option.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Exploiting significance of computations for energy-constrained approximate computing",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s10766-016-0409-6",
+            "Abstract": "Approximate execution is a viable technique for environments with energy constraints, provided that applications are given the mechanisms to produce outputs of the highest possible quality within the available energy budget. This paper introduces a framework for energy-constrained execution with controlled and graceful quality loss. A simple programming model allows developers to structure the computation in different tasks, and to express the relative importance of these tasks for the quality of the end result. For non-significant tasks, the developer can also supply less costly, approximate versions. The target energy consumption for a given execution is specified when the application is launched. A significance-aware runtime system employs an application-specific analytical energy model to decide how many cores to use for the execution, the operating frequency for these cores, as well as the degree of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Network-based scientific computing",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-35407-1_1",
+            "Abstract": "Rapid advances in modern networking technologies and commodity high performance computing systems are leading the field of computing in a new paradigm referred to as network-based computing (NC). This paradigm views a large number of geographically distributed computer resources such as PCs, workstations, Symmetric Multi-processors (SMP) and Massively Parallel Processing (MPP) systems connected through a high speed network as a single meta-computer or computational grid [2]. In this paper, we focus on the Internet (WAN) and Intranet (LAN) based computational grids and their ability to support scalable and robust \u201cdeep\u201d computing. We present various implementations of the NC paradigm using commodity and customized software in the context of the existing PELLPACK problem solving environment [8], the ITPACK library as it has been implemented in the PELLPACK system, and a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Towards a dynamic data driven system for rapid adaptive interdisciplinary ocean forecasting",
+            "Publication year": 2004,
+            "Publication url": "https://www.academia.edu/download/46412019/kluwer_patrik_etal.pdf",
+            "Abstract": "The state of the ocean evolves and its dynamics involves transitions occurring on multiple scales. For efficient and rapid interdisciplinary forecasting, ocean observing and prediction systems must have the same behavior and adapt to the ever-changing dynamics. The present research aims to set the basis of a distributed system for real-time interdisciplinary ocean field and uncertainty forecasting with adaptive modeling and adaptive sampling. The scientific goal is to couple physical and biological oceanography with ocean acoustics. The technical goal is to build a dynamic system based on advanced infrastructures, distributed/Grid computing and efficient information retrieval and visualization interfaces. Importantly, the system combines a suite of modern legacy physical models, acoustic models and data assimilation schemes with new adaptive modeling and adaptive sampling software. The legacy systems are encapsulated at the binary level using software component methodologies. Measurement models are utilized to link the observed data to the dynamical model variables and structures. With adaptive sampling, the data acquisition is dynamic and aims to minimize the predicted uncertainties, maximize the sampling of key dynamics and maintain overall coverage. With adaptive modeling, model improvements are dynamic and aim to select the best model structures and parameters among different physical or biogeochemical parameterizations. This presentation outlines and illustrates the concept, architecture and components of such a Dynamic Data Driven Application System (DDDAS). Current technical and scientific progress is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distributed online algorithms for the agent migration problem in WSNs",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s11036-013-0452-0",
+            "Abstract": "The mobile agent paradigm has been adopted by several systems in the area of wireless sensor networks as it enables a flexible distribution and placement of application components on nodes, at runtime. Most agent placement and migration algorithms proposed in the literature, assume that the communication rates between agents remain stable for a sufficiently long time to amortize the migration costs. Then, the problem is that frequent changes in the application-level communication may lead to several non-beneficial agent migrations, which may actually increase the total network cost, instead of decreasing it. To tackle this problem, we propose two distributed algorithms that take migration decisions in an online fashion, trying to deal with fluctuations in agent communication. The first algorithm is more of theoretical value, as it assumes infinite storage to keep information about the message exchange \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Design and Evaluation of a Software Infrastructure for the Runtime Management of Reconfigurable Resources.",
+            "Publication year": 2007,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/reconfig_ersa07.pdf",
+            "Abstract": "In this paper we present a software-based mechanism that enables concurrently executing applications to deploy hardware accelerator modules on FPGA at runtime, properly managing requests under resource scarcity. We describe our implementation on a softcore system-on-chip platform, and present experimental results that show the importance of runtime reconfiguration and the policy used to group application requests.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "PipeIt: A Pipeline Programming Framework For Embedded Processor Array Systems-on-Chip.",
+            "Publication year": 2009,
+            "Publication url": "https://csl.e-ce.uth.gr/sites/default/files/2021-03/pipelines_esa09.pdf",
+            "Abstract": "This paper presents the PipeIt framework for developing pipelined applications targeted at tightly-coupled processor arrays on a chip. The framework includes a component programming and wiring model, a runtime environment, and a corresponding toolchain. It enables the programmer to develop applications in a high-level manner, structuring the code at the finest possible/meaningful level of granularity, without caring about how this will be deployed and executed. At runtime, the stages of the pipeline are distributed among the available processors. This arrangement can be changed dynamically when another PipeIt application needs to be executed concurrently. We discuss and demonstrate a complete embedded system prototype.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards a lightweight security solution for user-friendly management of distributed sensor networks",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-04190-7_10",
+            "Abstract": "Wirelessly networked sensors and actuators are a cornerstone of systems that try to introduce smartness in a wide range of outdoor and indoor environments. The robust and secure operation of such systems is of central importance and will definitely play a key role in terms of their adoption by organizations and individuals. However, the commonly applied security mechanisms based on current standards are either resource consuming, inconvenient to use, or both. In this paper, a generic, lightweight and user-friendly approach to implement secure network management and confidentiality in a Distributed Sensor Networks (DSNs) is proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Architectures for SLAM and Augmented Reality Computing",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9556428/",
+            "Abstract": "In the next few years, new demanding applications will be supported on mobile platforms by reconciling two conflicting requirements: high performance (often with real-time limitations) and low power consumption. The objective of the vipGPU project is to develop hardware and software technology to provide efficient support for two such application scenarios, namely (a) simultaneous localization and mapping (SLAM) in mobile robotics systems, and (b) virtual reality (VR) in portable devices to simulate serious games with emphasis on simulating surgical interventions and medical training in general. In this project, we aim at developing a new heterogeneous platform consisting of hardware accelerators for low power embedded systems optimized (at the hardware and software level) for the implementation of the two applications mentioned above.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:fEOibwPWpKIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A significance-driven programming framework for energy-constrained approximate computing",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2742854.2742857",
+            "Abstract": "Approximate execution is a viable technique for energy-constrained environments, provided that applications have the mechanisms to produce outputs of the highest possible quality within the given energy budget.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The tangible file system",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1203565/",
+            "Abstract": "The \"tangible file system\"/sup 1/ is a document management and access infrastructure for the ubiquitous computing era. It provides a transparent user interface which takes advantage of physical user actions for the purpose of directory management, data sharing and document location tracking. This is achieved by digitally augmenting both documents and document containers to detect the location of physical information and to trigger corresponding update actions in the electronic world. The system is built using the Datlet [9] architecture to allow any 'tool-objects' to be applied to 'data-objects', thereby enabling an even more natural user interaction based on affordances.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An energy-efficient and error-resilient server ecosystem exceeding conservative scaling limits",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8342175/",
+            "Abstract": "The explosive growth of Internet-connected devices will soon result in a flood of generated data, which will increase the demand for network bandwidth as well as compute power to process the generated data. Consequently, there is a need for more energy efficient servers to empower traditional centralized Cloud data-centers as well as emerging decentralized data-centers at the Edges of the Cloud. In this paper, we present our approach, which aims at developing a new class of micro-servers - the UniServer - that exceed the conservative energy and performance scaling boundaries by introducing novel mechanisms at all layers of the design stack. The main idea lies on the realization of the intrinsic hardware heterogeneity and the development of mechanisms that will automatically expose the unique varying capabilities of each hardware. Low overhead schemes are employed to monitor and predict the hardware \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Service-Based Approach for the Uniform Access of Wireless Sensor Networks and Custom Application Tasks Running on Sensor Nodes",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-61300-0_5",
+            "Abstract": "For reasons of convenience and interoperability, wireless sensor networks (WSNs) are typically accessed by remote client applications through well-defined service-oriented interfaces. In addition, significant flexibility can be gained by letting clients install and run custom, application-specific sensing and processing tasks directly on the nodes of the WSN. However, this raises the issue of how clients can interact with such tasks in parallel to the regular access of the WSN. We propose an approach for supporting both information flows simultaneously and in a uniform way, via an open web-based service interface that can be flexibly extended through appropriate XML descriptions which specify the format of the respective message exchanges. This allows clients to perform both the regular interactions with the WSN and the custom interactions with the application tasks that have been deployed on the sensor \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:5ugPr518TE4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Tournament Selection Algorithm for the Multiple Travelling Salesman Problem.",
+            "Publication year": 2020,
+            "Publication url": "https://www.scitepress.org/Papers/2020/95649/95649.pdf",
+            "Abstract": "The multiple Travelling Salesman Problem (mTSP) is a generalization of the classic TSP problem, where the cities in question are visited using a team of salesmen, each one following a different, complementary route. Several algorithms have been proposed to address this problem, based on different heuristics. In this paper, we propose a new algorithm that employs the generic tournament selection heuristic principle, hybridized with a large neighbourhood search method to iteratively evolve new solutions. We describe the proposed algorithm in detail, and compare it with a state-of-the-art algorithm for a wide range of public benchmarks. Our results show that the proposed heuristic manages to produce solutions of the same or better quality at a significantly lower runtime overhead. These improvements hold for Euclidean as well as for general topologies.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:-_dYPAW6P2MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A demonstration of the NITOS BikesNet framework",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6916947/",
+            "Abstract": "In this paper we present NITOS Bikes Net, a framework for mobile sensing in a city-wide environment offering experimentation capabilities. More Specifically, we present a custom-made and modular prototype device that can be easily mounted on volunteers' bicycles dedicated to collecting environmental measurements and available WiFi networks. In addition, we present our enhancements in OMF framework through which we remotely control the operation of the developed devices, whenever they experience back-end connection. Finally, we analyze an indicative demonstration experiment which illustrates the capabilities of the developed framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Agent placement in wireless embedded systems: memory space and energy optimizations",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5470786/",
+            "Abstract": "Embedded applications can be structured in terms of mobile agents that are flexibly installed on available nodes. In wireless systems, such nodes typically have limited battery and memory resources; therefore it is important to place agents judiciously. In this paper we tackle the problem of placing a newcomer agent in such a system. The problem has two main components. First, enough memory space must be found or created at some node to place the agent. Second, the placement should be energy efficient. We present heuristics for tackling these two goals in a stepwise fashion, as well as a branch and bound method for achieving both goals at the same time. Our algorithms are centralized assuming a single entry point through which agents are injected into the system, with adequate knowledge of the system state and enough resources to run the proposed algorithms. The algorithms are evaluated under \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Significance-aware program execution on unreliable hardware",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3058980",
+            "Abstract": "This article introduces a significance-centric programming model and runtime support that sets the supply voltage in a multicore CPU to sub-nominal values to reduce the energy footprint and provide mechanisms to control output quality. The developers specify the significance of application tasks respecting their contribution to the output quality and provide check and repair functions for handling faults. On a multicore system, we evaluate five benchmarks using an energy model that quantifies the energy reduction. When executing the least-significant tasks unreliably, our approach leads to 20% CPU energy reduction with respect to a reliable execution and has minimal quality degradation.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Op: Styx batching for high latency links",
+            "Publication year": 2007,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.220.2064&rep=rep1&type=pdf",
+            "Abstract": "We are designing an operating system based on Inferno, which central izes everything on a machine we call the PC. Terminals connect to it through the internet to export local devices and viewers and programs wrapped in Styx file servers. The problem this approach faces is that Styx behaves badly for high latency links, no matter what the bandwidth is because of the RPC roundVtrip time accumulation. We have implemented a new protocol, Op (Octopus Protocol), which reduces drastically the num ber of RPCs needed for the operations and so behaves well for high latency links. Furthermore, we have implemented a client and a server that can be used to interconnect different Styx islands in a transparent way, keeping all other software unaware of the new protocol. The ideas here could be used, for example, for the Plan 9 sources at Bell Labs, in order to make upgrades much faster across the internet.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A service infrastructure for e-Science: the case of the ARION system",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36189-8_14",
+            "Abstract": "The ARION system provides basic e-services of search and retrieval of objects in scientific collections, such as, data sets, simulation models and tools necessary for statistical and/or visualization processing. These collections may represent application software of scientific areas, they reside in geographically disperse organizations and constitute the system content. The user, as part of the retrieval mechanism, may dynamically invoke on-line computations of scientific data sets when the latter are not found into the system. Thus, ARION provides the basic infrastructure for accessing and producing scientific information in an open, distributed and federated system. More advanced e-services, which depend on the scientific content of the system, can be built upon this infrastructure, such as decision making and/or policy support using various information brokering techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Middleware mechanisms for agent mobility in wireless sensor and actuator networks",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-32778-0_3",
+            "Abstract": "This paper describes middleware-level support for agent mobility, targeted at hierarchically structured wireless sensor and actuator network applications. Agent mobility enables a dynamic deployment and adaptation of the application on top of the wireless network at runtime, while allowing the middleware to optimize the placement of agents, e.g., to reduce wireless network traffic, transparently to the application programmer. The paper presents the design of the mechanisms and protocols employed to instantiate agents on nodes and to move agents between nodes. It also gives an evaluation of a middleware prototype running on Imote2 nodes that communicate over ZigBee. The results show that our implementation is reasonably efficient and fast enough to support the envisioned functionality on top of a commodity multi-hop wireless technology. Our work is to a large extent platform-neutral, thus it can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:4DMP91E08xMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Spyrou Michalis",
+            "Publication year": 2017,
+            "Publication url": "https://core.ac.uk/download/pdf/132823569.pdf",
+            "Abstract": "Heterogeneous systems provide high computing performance, combining low cost and low power consumption. These systems include various computational resources with different architectures, such as CPUs, GPUs, DSPs or FPGAs. It is crucial to have full knowledge of these architectures, but also of the programming models used in order to increase the performance on a heterogeneous system.One way to achieve this goal, is the prediction of the execution time on the different computational resources, using statistical values which we collect with the use of hardware counters. The purpose of this thesis is to increase the performance of a heterogeneous system using the data we collected by training a statistical model which will predict the execution time. Further goal is to use this prediction model inside a run-time scheduler which will migrate the running application in order to decrease the execution time and increase the overall performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:uLbwQdceFCQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u0391\u03c0\u03bf\u03bc\u03b1\u03ba\u03c1\u03c5\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b1\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03c9\u03bd",
+            "Publication year": 2012,
+            "Publication url": "https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/42681/10411.pdf?sequence=1",
+            "Abstract": "\u03a4\u03bf \u03b4\u03b9\u03b1\u03c1\u03ba\u03ce\u03c2 \u03b5\u03be\u03b5\u03bb\u03b9\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03b5\u03b4\u03af\u03bf \u03c4\u03c9\u03bd \u03b1\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03c9\u03bd \u03b4\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03c9\u03bd (WSNs) \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03b9 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c3\u03b5 \u03c0\u03bf\u03bb\u03bb\u03bf\u03cd\u03c2 \u03c4\u03bf\u03bc\u03b5\u03af\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03c3\u03c4\u03c1\u03b1\u03c4\u03cc, \u03c4\u03b7\u03bd \u03b2\u03b9\u03bf\u03bc\u03b7\u03c7\u03b1\u03bd\u03af\u03b1, \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1, \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b7 \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03ae \u03c4\u03b1 \u03ad\u03be\u03c5\u03c0\u03bd\u03b1 \u03c3\u03c0\u03af\u03c4\u03b9\u03b1. \u03a9\u03c2 \u03b5\u03ba \u03c4\u03bf\u03cd\u03c4\u03bf\u03c5, \u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03c0\u03bf\u03bc\u03b1\u03ba\u03c1\u03c5\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b4\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd \u03b1\u03c5\u03c4\u03ce\u03bd, \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ae\u03c2 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03bc\u03b9\u03b1\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c3\u03c4\u03bf \u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03c0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03ba\u03cc\u03bc\u03b2\u03bf, \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc \u03b6\u03ae\u03c4\u03b7\u03bc\u03b1. \u039c\u03b9\u03b1 \u03c4\u03ad\u03c4\u03bf\u03b9\u03b1 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b9\u03b5\u03c5\u03ba\u03bf\u03bb\u03cd\u03bd\u03b5\u03b9 \u03c3\u03b5 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf \u03b2\u03b1\u03b8\u03bc\u03cc \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2 \u03c4\u03cc\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c5\u03bd\u03c4\u03ae\u03c1\u03b7\u03c3\u03b7, \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03c3\u03b4\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc \u03c4\u03c9\u03bd \u03c3\u03c4\u03cc\u03c7\u03c9\u03bd \u03b5\u03bd\u03cc\u03c2 WSN (\u03c0\u03c7 \u03b1\u03c0\u03cc \u03bc\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7 \u03b8\u03b5\u03c1\u03bc\u03bf\u03ba\u03c1\u03b1\u03c3\u03af\u03b1\u03c2 \u03c3\u03b5 \u03bc\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7 \u03ba\u03c1\u03b1\u03b4\u03b1\u03c3\u03bc\u03ce\u03bd). \u0391\u03c5\u03c4\u03ad\u03c2 \u03bf\u03b9 \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b5\u03c2, \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b7\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03be\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b5\u03c2 \u03ae \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ad\u03c6\u03b9\u03ba\u03c4\u03bf \u03bd\u03b1 \u03b3\u03af\u03bd\u03bf\u03c5\u03bd \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b2\u03bb\u03ac\u03c8\u03bf\u03c5\u03bd \u03c4\u03bf\u03bd \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 (\u03c0\u03c7 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b7 \u03c3\u03c5\u03bd\u03b8\u03b7\u03ba\u03ce\u03bd \u03c3\u03b5 \u03c6\u03c9\u03bb\u03b9\u03ac \u03c0\u03bf\u03c5\u03bb\u03b9\u03ce\u03bd).\u03a9\u03c3\u03c4\u03cc\u03c3\u03bf, \u03b7 \u03c5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03b5\u03bd\u03cc\u03c2 WSN \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03b5\u03b9 \u03b1\u03c1\u03ba\u03b5\u03c4\u03ac \u03b6\u03b7\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1, \u03c0\u03bf\u03c5 \u03c0\u03b7\u03b3\u03ac\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03bf\u03cd\u03c4\u03c9\u03c2 \u03ae \u03ac\u03bb\u03bb\u03c9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03c3\u03b5 \u03c0\u03cc\u03c1\u03bf\u03c5\u03c2 \u03ba\u03cc\u03bc\u03b2\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03be\u03b9\u03cc\u03c0\u03b9\u03c3\u03c4\u03b7 \u03c6\u03cd\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2. \u03a4\u03ad\u03c4\u03bf\u03b9\u03b1 \u03b6\u03b7\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03cc\u03c3\u03c4\u03b7 \u03c3\u03b5 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u03cd\u03c2, \u03b9\u03c3\u03c7\u03cd \u03ba\u03b1\u03b9 \u03bc\u03bd\u03ae\u03bc\u03b7, \u03cc\u03c0\u03c9\u03c2 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03b1\u03be\u03b9\u03bf\u03c0\u03b9\u03c3\u03c4\u03af\u03b1, \u03b5\u03c5\u03c1\u03c9\u03c3\u03c4\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1\u03c2 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Flow-Control Policies for Wireless Sequencer-Based Causal and Total Order Communication",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7396494/",
+            "Abstract": "Many embedded wireless systems can benefit from causal and totally ordered communication (CATOC) in order to achieve reliability and logical consistency at the application level. In this paper, we present a sequencer-based CATOC protocol designed to exploit the physical broadcast capability of wireless interfaces. Under ideal conditions, the propagation and delivery of an application message to the entire group costs only 2 packet transmissions, or just 1 transmission if the message originates from the sequencer. Furthermore, we propose different flow-control policies for reducing the number of collisions in case of contention, as well as to improve fairness among the members of the process group. We evaluate our implementation over an IEEE 802.15.4 network for different group sizes and application messaging rates, showing that the choice of the flow-control policy can radically affect protocol performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Coordinated broadcast-based request-reply and group management for tightly-coupled wireless systems",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7823868/",
+            "Abstract": "As the domain of cyber-physical systems continues to grow, an increasing number of tightly-coupled distributed applications will be implemented on top of wireless networking technologies. Some of these applications, including collaborative robotic teams, work in a coordinated fashion, whereby a distinguished node takes control decisions and sends commands to other nodes, which in turn perform the requested action/operation and send back a reply/acknowledgment. The implementation of such interactions via reliable point-to-point flows may lead to a significant performance degradation due to collisions, especially when the system operates close to the capacity of the communication channel. We propose a coordinated protocol which exploits the broadcast nature of the wireless medium in order to support this application-level interaction with a minimal number of message transmissions and predictable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:p2g8aNsByqUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast dynamic binary rewriting to support thread migration in shared-isa asymmetric multicores",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2446920.2446924",
+            "Abstract": "Asymmetric multicore processors have demonstrated a strong potential for improving performance and energy-efficiency. Shared-ISA asymmetric multicore processors overcome programmability problems in disjoint-ISA systems and enhance single-ISA architectures with instruction based asymmetry. In such a design, processors share a common, baseline ISA and performance enhanced (PE) cores extend the baseline ISA with instructions that accelerate performance-critical operations. To exploit asymmetry, the scheduler should be able to migrate threads based on their acceleration potential.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Formal model and scheduling heuristics for the replica migration problem",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85451-7_33",
+            "Abstract": "Replication of the most popular objects is often used in distributed data provision systems to reduce access time and improve availability. In fact, a given replica placement scheme may have to be redefined as object popularity changes. Given two replica placement schemes X  old  and X  new , the Replica Migration Problem (RMP) is to compute a schedule of replica transfers and deletions that lead from X  old  to X  new  in the shortest time possible. In this paper, we provide a rigorous problem formulation and prove that even for trivial cases RMP is intractable. We also propose a set of heuristics and evaluate them for different scenarios using simulations.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The impact of cpu voltage margins on power-constrained execution",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9296366/",
+            "Abstract": "CPUs typically operate at a voltage which is higher than what is strictly required, using voltage margins to account for process variability and anticipate any combination of adverse operating conditions. However, these worst-case scenarios occur rarely, if ever, thus the operating voltage is overly pessimistic resulting in excessive power dissipation which leads to decreased performance under power capping. In this paper, we investigate the impact of reducing voltage margins beyond the nominal level on the efficiency of CPU power capping mechanisms, for three commercial systems, two Applied Micro ARMv8 micro-servers (X-Gene2 and X-Gene3) and an Intel x86-64 (Xeon E3). We show that CPU power capping at reduced voltage margins compared with Intel's RAPL and Dynamic Frequency Scaling (DFS) mechanisms results in performance improvement by up to 64% and 24% on average, respectively. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:NJ774b8OgUMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A design pattern and programming framework for interactive metacomputing",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/10722581_5",
+            "Abstract": "This paper presents ADIOS, a system for the development of interactively controlled metacomputations. In ADIOS, coarse grain distributed computations, involving several different program components, are structured according to a distributed Model-View-Controller architecture. Design support is offered via interfaces and a base class, through which the fundamental behavior of program components is established within a concrete framework. In addition, appropriate communication mechanisms are provided to back up the data exchange between the various components. Consisting of only few Java classes, ADIOS is lightweight and promotes disciplined prototyping of metacomputations while allowing for the integration of legacy code.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:blknAaTinKkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Omnistore: A system for ubiquitous personal storage management",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1604803/",
+            "Abstract": "As personal area networking becomes a reality, the collective management of storage in portable devices such as mobile phones, cameras and music players will grow in importance. The increasing wireless communication capability of such devices makes it possible for them to interact with each other and implement more advanced storage functionality. This paper introduces OmniStore, a system which employs a unified data management approach that integrates portable and backend storage, but also exhibits self-organizing behavior through spontaneous device collaboration",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Extracting coarse-grained pipelined parallelism out of sequential applications for parallel processor arrays",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-00454-4_4",
+            "Abstract": "We present development and runtime support for building application specific data processing pipelines out of sequential code, and for executing them on a general purpose platform that features a reconfigurable Parallel Processor Array (PPA). Our approach is to let the programmer annotate the source of the application to indicate the desired pipeline stages and associated data flow, with little code restructuring. A pre-processor is then used to transform the annotated program into different code segments according to the indicated pipeline structure, generate the corresponding executable code, and produce a bundled application package containing all executables and deployment information for the target platform. There are special mechanisms for setting up the application-specific pipeline structure on the PPA and achieving integrated execution in the context of a general-purpose operating system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dependable global computing with JaWS++",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-28642-4_12",
+            "Abstract": "In this paper we propose a computational grid platform called JaWS++ that seeks to harvest the power of idle pools of workstations connected through the Internet and integrate them in a grid computing platform for the execution of embarrassingly parallel computations. The computations are developed in the portable Java programming language and an API is provided for application development. JaWS++ is a compromise between scavenging and reservation-based computational grids. Its service layer is composed by pools of workstations that are autonomously administered by different organizations. Each pool participates in JaWS++ under a well defined timetable to reduce unforeseen availability problems, increase dependability and favor batch work allocation and offline execution.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Ad-hoc composition in wearable and mobile computing",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1047671.1047708",
+            "Abstract": "Changing computing capabilities can be as easy as changing outfits.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:0EnyYjriUFMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "An Environmental Information Metadata Architecture for the Thetis Distributed Coastal Zone Management System",
+            "Publication year": 2001,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/thetis_JSAMS01.pdf",
+            "Abstract": "In this paper we present a metadata management architecture that facilitates resource discovery in an open, federated scientific information system. The architecture addresses metadata management issues including metadata generation, publication, and querying. This architecture is implemented as part of THETIS, a system for locating, retrieving, integrating, and visualizing scientific data for coastal zone management applications over the web.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:hMod-77fHWUC",
+            "Publisher": "GORDON & BREACH/HARWOOD ACADEMIC PUBLISHING"
+        },
+        {
+            "Title": "Exploring the Effects of Code Optimizations on CPU Frequency Margins",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-02465-9_42",
+            "Abstract": "Chip manufactures introduce redundancy at various levels of CPU design to guarantee correct operation even for worst-case combinations of non-idealities in process variation and system operation conditions. This redundancy is implemented partly in the form of voltage/frequency margins. However, for a wide range of real-world execution scenarios, these margins are excessive and translate to increased power and energy consumption. Among the various factors that affect the degree to which these margins are actually needed to avoid errors during program execution, the impact of compiler and source code optimizations has not been explored yet. In this work, we study the effect of such optimizations on the frequency margins and the energy efficiency of applications in the ARM Cortex-A53 processor.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Supporting adaptive operation in a dynamically composable personal system",
+            "Publication year": 2003,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_isads03.pdf",
+            "Abstract": "We are witnessing a proliferation of portable and wearable personal devices with increasing processing and networking capability. Objects, appliances and physical spaces are also being augmented with digital features, resulting in a ubiquitous infrastructure that can be controlled through computer technology. As we move beyond the physical\u2013and mental\u2013boundaries of the desktop, one of the key challenges becomes to combine the devices and artifacts that are available, whether carried by people or situated in a given environment, to support personal computing. Moreover, this must be done in a way that shields users from the technical intricacies of the computer so that they are able to focus on the task at hand without having to continuously deal with setting up and providing input to the system. In the 2WEAR project (http://2wear. ics. forth. gr) we explore the concept of a personal system that is formed by putting together computing elements in an ad-hoc fashion using short-range radio. Certain elements are embedded into wearable objects, such as a wristwatch and small computing modules that can be placed inside a wallet. Others have the form of more conventional portable computers, like PDAs and mobile phones. Also, there are stationary elements, some of which are visible, such as big screens and home appliances, while others are not directly perceivable by the user, such as network access points and backend servers. This setting deviates from the conventional computing paradigm in significant ways. What we usually refer to as \u201cthe personal computer\u201d is a collection of physically separate and possibly autonomous elements that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System Support for the In Situ Testing of Wireless Sensor Networks via Programmable Virtual Onboard Sensors",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7328716/",
+            "Abstract": "Wireless sensor networks (WSNs) can be extensively tested before they are deployed in the field. However, it is equally important to test a WSN after it has been deployed, to verify that it will work as expected in certain situations of interest, which are hard to reproduce in reality. In this paper, we introduce the mechanism of programmable virtual onboard sensors, for letting sensor nodes produce artificial sensor values as dictated by the user, transparently to the application. Virtual onboard sensors are programmed using a simple script-like language, which is interpreted at runtime on the wireless sensor nodes. The user can deploy sensor scripts in the WSN and activate the virtual sensor mode for selected nodes and sensors at any point in time, without changing the node firmware and without stopping the application that runs on the nodes. We also describe and evaluate an implementation of the virtual onboard \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Byzantine fault tolerance for centrally coordinated missions with unmanned vehicles",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3387902.3392622",
+            "Abstract": "Autonomous unmanned vehicles can support a wide range of missions, which are typically coordinated by a human operator. Automating these missions through a computer program can offer great advantages, but at the same time introduces several challenges. In particular, it becomes important to tolerate failures of the mission controller, including the most general type, namely Byzantine failures. To address this challenge, we propose an active replication approach adapted to the characteristics of this particular type of system. Our solution relies on signed messages and requires N= 2\u00d7 f+ 1 mission controller replicas to tolerate f Byzantine failures. We describe the system model and the mechanisms that need to be in place to achieve the desired functionality, and argue about the correctness of the proposed approach in an informal way. Also, we evaluate the overheads of a prototype implementation through \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introducing agent evictions to improve application placement in wireless distributed systems",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6337609/",
+            "Abstract": "With the development of mobile code frameworks for embedded systems, an application can be structured as a set of cooperating components (agents) that are placed on the nodes of the system in a flexible way. Reducing the network traffic caused by the application components is a crucial issue for the increase in the lifetime of wireless embedded systems, since it is widely known that the communication cost plays the most significant role in the energy consumption of embedded devices. To this end, most placement algorithms place or move an agent towards the center of gravity of the communication workload. However, if the target node does not have enough capacity, the attempt is usually aborted. In this paper, we introduce eviction-enabled algorithms that allow nodes to free capacity by forcing a locally hosted agent to move to another node, even at a loss, to accept a new and potentially more beneficial agent \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Octopus: Towards building distributed smart spaces by centralizing everything",
+            "Publication year": 2007,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/octopus_ucami07.pdf",
+            "Abstract": "The world changes fast: today, most users typically have access to several computers at work, at home and while in transit, all of them interconnected through Internet. This world is far from perfection: users face decentralized, uncoordinated, heterogeneous, and highly dynamic, practically uncontrolled environments. It is hard to develop and deploy applications for such a world. One of the aims of pervasive computing is to be able to build applications that could be used from anywhere, and than could exploit resources available anywhere. That is, today, it is difficult to use different resources smoothly, unless one sits in front of the computer where they were deployed. We argue that one way to solve this problem is to first apply centralization as a design principle, and then recognize the existence of other computers running their native OS\u2019s, importing their devices and controlling them from a central computer. Doing so it would be possible both, to easily build systems that can leverage on all the devices available to a given user, independently of its location, and to easily use those systems. Our preliminary work, derived from the Plan B OS, strongly suggests so. This paper describes the evolution of Plan B, called Octopus, designed along this principle.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "UCAMI"
+        },
+        {
+            "Title": "On deploying tree structured agent applications in networked embedded systems",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-15291-7_46",
+            "Abstract": "Given an application structured as a set of communicating mobile agents and a set of wireless nodes with sensing/actuating capabilities and agent hosting capacity constraints, the problem of deploying the application consists of placing all the agents on appropriate nodes without violating the constraints. This paper describes distributed algorithms that perform agent migrations until a \u201cgood\u201d mapping is reached, the optimization target being the communication cost due to agent-level message exchanges. All algorithms are evaluated using simulation experiments and the most promising approaches are identified.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Unified service-oriented access for WSNs and dynamically deployed application tasks",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7471369/",
+            "Abstract": "For good reasons of interoperability and flexibility, wireless sensor networks (WSNs) are accessed by remote clients via service-oriented interfaces. At the same time, it can be useful to let clients deploy custom sensing and processing tasks directly on the sensor nodes. However, this raises the issue of how the remote client application can interact with such a task, in parallel to conventional access of the WSN. We propose an approach for adopting a unified web-based interface for both information flows. This way, WSN clients do not have to deal with different interface technologies. Moreover, the gateway of the WSN can handle both flows using the same protocol translation engine. The paper presents our design, briefly discusses a first prototype implementation, and shows an indicative usage example.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:UxriW0iASnsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Storage for peer-to-peer personal computing systems",
+            "Publication year": 2002,
+            "Publication url": "http://research.cs.ncl.ac.uk/cabernet/www.laas.research.ec.org/cabernet/workshops/radicals/2002/Papers/Karypidis.pdf",
+            "Abstract": "Computing is currently undergoing yet another paradigm shift. Following the mainframe and the workstation era, we are now witnessing a transition towards ubiquitous computing. This transition foreseen more than a decade ago [7], is now being extensively researched [8],[5].In the foreseen environment, computers and computing elements will be embedded in objects we use casually and integrated into public infrastructure such as buildings, roads and vehicles. Naturally, this will dramatically impact the the nature of personal computing. The personal computer will grow out of its box and evolve into a polymorphic, dynamic and pervasive personal computing system. Parts of this system will be carried or worn by the user, while other parts will be provided by the surrounding infrastructure, along with services hosted on the Internet.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Simulation and digital twin support for managed drone applications",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9213676/",
+            "Abstract": "As drone technology passes one milestone after the other, drones are used in an ever-increasing number of applications and are now considered as an integral part of the future smart city infrastructure. At the same time, the inherent safety and privacy risks associated with drone-based applications call for appropriate testing and monitoring tools. In this paper, we present a simulation environment and digital twin support for a platform that allows the managed execution of drone-based applications on top of a shared drone infrastructure. On the one hand, the simulation environment makes it possible to perform a wide range of tests regarding the operation of both the platform itself and the applications that run on top of it, before deploying them in the real world. On the other hand, after deployment, a digital twin of the drone is used to detect deviations of the application from the expected behavior, which, in turn, can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Significance-Driven Programming Framework for Energy-Constrained Approximate Computing",
+            "Publication year": 2015,
+            "Publication url": "https://pureadmin.qub.ac.uk/ws/files/17173230/main.pdf",
+            "Abstract": "Approximate execution is a viable technique for energy-constrained environments, provided that applications have the mechanisms to produce outputs of the highest possible quality within the given energy budget.We introduce a framework for energy-constrained execution with controlled and graceful quality loss. A simple programming model allows users to express the relative importance of computations for the quality of the end result, as well as minimum quality requirements. The significance-aware runtime system uses an application-specific analytical energy model to identify the degree of concurrency and approximation that maximizes quality while meeting user-specified energy constraints. Evaluation on a dual-socket 8-core server shows that the proposed framework predicts the optimal configuration with high accuracy, enabling energy-constrained executions that result in significantly higher quality compared to loop perforation, a compiler approximation technique.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Decentralized resource acquisition from autonomous markets in a QoS-capable environment",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167923699000779",
+            "Abstract": "We present a protocol for acquiring multiple resources that are traded through autonomous markets. Further, we describe the protocol's application to and implementation in a prototype system that supports prioritized end-to-end QoS for applications invoking services over an ATM switch. The corresponding network and server resources are allocated to applications via auctions that are performed independently of each other. Finally, we investigate the effects of market autonomy and protocol design in the performance of the system by discussing results of experiments for alternative system configurations and workloads.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:HDshCWvjkbEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Exploiting co-location history for efficient service selection in ubiquitous computing systems",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1541001/",
+            "Abstract": "As the ubiquitous computing vision materializes, the number and diversity of digital elements in our environment increases. Computing capability comes in various forms and is embedded in different physical objects, ranging from miniature devices such as human implants and tiny sensor particles, to large constructions such as vehicles and entire buildings. The number of possible interactions among such elements, some of which may be invisible or offer similar functionality, is growing fast so that it becomes increasingly hard to combine or select between them. Mechanisms are thus required for intelligent matchmaking that will achieve controlled system behavior, yet without requiring the user to continuously input desirable options in an explicit manner. In this paper we argue that information about the co-location relationship of computing elements is quite valuable in this respect and can be exploited to guide \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scalable and Adaptive Polling Protocol for ConcurrentWireless Sensor Data Flows",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8480129/",
+            "Abstract": "The uncoordinated transmission of sensor measure- ments to a collector over simple wireless technologies can lead to severely degraded performance when operating close to channel capacity. In this case, it can be far more effective to let the collector poll the sensor nodes to retrieve their data. We propose a coordinated protocol that exploits the broadcast ca- pability of the wireless channel to eliminate contention between nodes and to minimize the number of packet transmissions performed at each poll. Furthermore, to let the protocol follow the dynamic changes in the sensor data generation rate, we propose an application-agnostic method for estimating the data generation rate of each node locally, and extend the protocol so that the collector dynamically adjusts the polling rate accordingly. Our method is based on a Kalman filter tuned for stable data generation rates, which is controlled via simple signals \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8752811/",
+            "Abstract": "Energy efficiency is a major concern for cloud computing, with CPUs accounting a significant fraction of datacenter nodes power consumption. CPU manufacturers introduce voltage margins to guarantee correct operation. However, these are unnecessarily wide for real-world execution scenarios, and translate to increased power consumption. In this paper, we investigate how such margins can be exploited by infrastructure operators, by selectively undervolting nodes, at the controlled risk of inducing failures and activating service-level agreement (SLA) violation penalties. We model the problem in a formal way, capturing the most important aspects that drive VM management and system configuration decisions. Then, we introduce XM-VFS policy that reduces infrastructure operator costs by reducing voltage margins, and compare it with the state-of-the-art which employs dynamic voltage-frequency scaling (DVFS \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1hCQK9oAAAAJ:WqliGbK-hY8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tangible applications for regular objects: An end-user model for pervasive computing at home",
+            "Publication year": 2010,
+            "Publication url": "https://www.researchgate.net/profile/Giorgis-Georgakoudis/publication/260284497_Tangible_Applications_for_Regular_Objects_An_End-User_Model_for_Pervasive_Computing_at_Home/links/548dfe1c0cf2d1800d8420b2/Tangible-Applications-for-Regular-Objects-An-End-User-Model-for-Pervasive-Computing-at-Home.pdf",
+            "Abstract": "This paper describes an end-user model for a domestic pervasive computing platform formed by regular home objects. The platform does not rely on pre-planned infrastructure; instead, it exploits objects that are already available in the home and exposes their joint sensing, actuating and computing capabilities to home automation applications. We advocate an incremental process of the platform formation and introduce tangible, object-like artifacts for representing important platform functions. One of those artifacts, the application pill, is a tiny object with a minimal user interface, used to carry the application, as well as to start and stop its execution and provide hints about its operational status. We also emphasize streamlining the user\u2019s interaction with the platform. The user engages any UI-capable object of his choice to configure applications, while applications issue notifications and alerts exploiting whichever available objects can be used for that purpose. Finally, the paper briefly describes an actual implementation of the presented end-user model.",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Implementation and evaluation of agent mobility for wireless networks of home objects",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4222564730537216060&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1hCQK9oAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

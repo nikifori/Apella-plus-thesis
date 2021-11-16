@@ -1,0 +1,1352 @@
+[{
+    "name": "Vasilios Katos",
+    "romanize name": "Vasilios Katos",
+    "School-Department": "Computing & Informatics",
+    "University": "Bournemouth College",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 949,
+    "Scholar name": "Vasilios Katos",
+    "Scholar id": "MkuiHIAAAAAJ",
+    "Affiliation": "Professor, Bournemouth University",
+    "Citedby": 1614,
+    "Interests": [
+        "Digital Forensics",
+        "Incident Response",
+        "Cyber Threat Intelligence"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=MkuiHIAAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Cryptographic key management in delay tolerant networks: A survey",
+            "Publication year": 2017,
+            "Publication url": "https://www.mdpi.com/205488",
+            "Abstract": "Since their appearance at the dawn of the second millennium, Delay or Disruption Tolerant Networks (DTNs) have gradually evolved, spurring the development of a variety of methods and protocols for making them more secure and resilient. In this context, perhaps, the most challenging problem to deal with is that of cryptographic key management. To the best of our knowledge, the work at hand is the first to survey the relevant literature and classify the various so far proposed key management approaches in such a restricted and harsh environment. Towards this goal, we have grouped the surveyed key management methods into three major categories depending on whether the particular method copes with (a) security initialization,(b) key establishment, and (c) key revocation. We have attempted to provide a concise but fairly complete evaluation of the proposed up-to-date methods in a generalized way with the aim of offering a central reference point for future research. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "On-scene triage open source forensic tool chests: Are they effective?",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1742287613000315",
+            "Abstract": "Considering that a triage related task may essentially make-or-break a digital investigation and the fact that a number of triage tools are freely available online but there is currently no mature framework for practically testing and evaluating them, in this paper we put three open source triage tools to the test. In an attempt to identify common issues, strengths and limitations we evaluate them both in terms of efficiency and compliance to published forensic principles. Our results show that due to the increased complexity and wide variety of system configurations, the triage tools should be made more adaptable, either dynamically or manually (depending on the case and context) instead of maintaining a monolithic functionality.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Resurrecting anti-virtualization and anti-debugging: Unhooking your hooks",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X20330284",
+            "Abstract": "Dynamic malware analysis involves the debugging of the associated binary files and the monitoring of changes in sandboxed environments. This allows the investigator to manipulate the code execution path and environment to develop an understanding of the malware\u2019s internal workings, aims and modus operandi. However, the malware may incorporate anti-virtual environment (VM) and anti-debugging countermeasures (e.g. determining whether the malware is being executed in a VM, or using a debugger prior to payload execution). In essence, the malware needs to adopt a \u201cdefence in depth\u201d paradigm. Beyond the malicious uses, software vendors seeking to preserve the intellectual property rights of their products often resort to similar methods to deter competitors from gaining intelligence from the binaries or prevent customers from using their products without unauthorization. In this work, we illustrate how \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "IEEE 802.11 ax spatial reuse improvement: An interference-based channel-access algorithm",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8700302/",
+            "Abstract": "Wi-Fi is the dominant way of connecting indoor mobile devices to the Internet. The main reason behind the huge adoption of this technology is the simplicity of the IEEE 802.11 protocols, which offer low-cost ownership and maintenance combined with the ability to provide high data rates to end users. The increasing demand in traffic volumes leads to the continuous deployment of access points (APs), resulting in densification of the IEEE 802.11 networks. This densification, instead of enhancing the efficiency of wireless local area networks (WLANs), degrades their overall performance due to cochannel interference between overlapped basic services sets (OBSSs). One of the main goals of the IEEE 802.11ax amendment now under development is to address the WLAN densification problem by improving spatial reuse (SR).",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:SP6oXDckpogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient intrusion detection in ad-hoc networks",
+            "Publication year": 2019,
+            "Publication url": "https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/icscsr19.15",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems (IDS) for ad-hoc networks via the prism of IPv6-enabled Wireless Sensor Actuator Networks. These networks consist of highly constrained devices able to communicate wirelessly in an ad-hoc fashion, thus following mesh networks. Current state-of-the-art (IDS) have been developed taking into consideration regular computer networks, and as such they do not efficiently addresses the paradigm of ad-hoc networks. In this work we firstly identify a trade-off between the communication and energy overheads of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of successfully identifying attacks. In order to fine tune this trade-off, we model such networks as Random Geometric Graphs; a rigorous approach that allows us to capture underlying structural properties of the network. We then introduce a novel IDS architectural approach by having only a subset of the nodes acting as IDS agents. These nodes are able to efficiently detect attacks at the networking layer in a collaborative manner by monitoring locally available network information provided by IoT routing protocols such as RPL. Our detailed experimental evaluation demonstrates significant performance gains in terms of communication overhead and energy dissipation while maintaining high detection rates. We also show that the performance of our IDS in ad-hoc networks does not rely on the size of the network but on fundamental underling network properties, such as the network topology and the average degree of the nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Machine Learning Approach to Dataset Imputation for Software Vulnerabilities",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-59000-0_3",
+            "Abstract": "This paper proposes a supervised machine learning approach for the imputation of missing categorical values in a dataset where the majority of samples are incomplete. Twelve models have been designed that can predict nine of the twelve Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK) tactic categories using only the Common Attack Pattern Enumeration and Classification (CAPEC). The proposed method has been evaluated on a test dataset consisting of 867 unseen samples, with the classification accuracy ranging from 99.88% to 100%. These models were employed to generate a more complete dataset with no missing ATT&CK tactic features.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Modelling corporate wireless security and privacy",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0963868705000429",
+            "Abstract": "As corporations adopt wireless technologies then both privacy and security landscapes change dramatically, causing a reassessment of how the wireless systems can be secured and at the same time ensuring privacy obligations to their customers, staff and shareholders are met. This paper explores the relationship between wireless security and privacy issues, and develops the foundation for metrics with which to develop and examine appropriate policies. The challenge is to get consistent and supportive security and privacy policies. In addition, the adoption of a wireless infrastructure will result in richer sets of information flows, requiring additional resources to achieve the same level of security as in a wired infrastructure. Richer sets of information are also likely to have a negative impact on privacy.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:qjMakFHDy7sC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Symmetric cryptography in computer communications",
+            "Publication year": 2011,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:abG-DnoFyZgC",
+            "Publisher": "LAP Lambert Academic Publishing"
+        },
+        {
+            "Title": "Requirements for a forensically ready cloud storage service",
+            "Publication year": 2011,
+            "Publication url": "https://www.igi-global.com/article/international-journal-digital-crime-forensics/58406",
+            "Abstract": "This paper examines the feasibility of developing a forensic acquisition tool in a distributed file system. Using GFS and KFS distributed file systems as vehicles and through representative scenarios and examples, the authors develop forensic acquisition processes and examine both the requirements of the tool and the distributed file system must meet in order to facilitate the acquisition. The authors conclude that cloud storage has features that can be leveraged to perform acquisition (such as redundancy and replication triggers) but also maintains a complexity, which is higher than traditional storage systems leading to a need for forensic-readiness-by-design.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Illegal IPTV in the European Union: Research on online business models infringing intellectual property rights-Phase 3",
+            "Publication year": 2019,
+            "Publication url": "http://eprints.bournemouth.ac.uk/33079/1/2019_Illegal_IPTV_in_the_European_Union_Full_en.pdf",
+            "Abstract": "BackgroundIn 2018, the European Union Intellectual Property Office (EUIPO), through the European Observatory on Infringements of Intellectual Property Rights, commissioned a research study on IPTV crime in Europe. The purpose of the research study was to enhance the level of understanding about the ways illegal internet protocol television (IPTV) is carried out, how the business models around this phenomenon work, and thereby provide a basis for subsequent identification of possible responses to tackle the challenge of the phenomenon more effectively. The research study was commissioned to the Centre for Intellectual Property Policy and Management (CIPPM) of Bournemouth University, which set up a team of researchers in law, economics and computer science (1). The research team was assisted by an expert group including rights holders, law enforcement representatives, regulatory authorities, civil society groups and digital security companies (2).The present report is carried out as an interdisciplinary study, surveying legal, technical and economic aspects of illegal IPTV. It is the first major study that reviews the existing literature, the legislative framework and case-law in the EU and provides structural analysis of existing business models with regard to unauthorised delivery of television content over the internet. In addition, the study provides the first assessment results of the magnitude of illegal PTV across the EU in terms of active users and unlawful revenue obtained from infringing activities.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "European Union Intellectual Property Office"
+        },
+        {
+            "Title": "Blockchains as Enablers for Auditing Cooperative Circular Economy Networks",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8514985/",
+            "Abstract": "Implementing a circular economy business model which is profitable for businesses operating physical assets, while at the same time does not conflict with strategic goals of environmental policies can be a complex and risky undertaking for a single entity, especially if the asset operator is a small-to-medium enterprise (SMEs). To mitigate this, a collaborative circular economy business model is proposed, where the circular economy cycle is materialized by assets transitioning between asset operators on a demanddriven approach. Demand itself is partially based on the asset's state, which is described by its circular properties (location, condition, availability). The asset state and its transition between operators can be monitored by auditors and governmental regulators to ensure asset integrity and compliance with environmental targets. This common view of asset state between all parties can be enabled by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Digital forensic investigations: a new frontier for Informing Systems",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-7908-2148-2_42",
+            "Abstract": "Digital forensic investigators experience a need for support in their everyday struggle to overcome boundary problems associated with cyber crime investigations. Traditional methods are socio-culturally and physically localised and dependent on strict and historically prescriptive political management. The new internet-worked cyber-world creates unprecedented difficulties for digital forensic investigations. This is directly linked with the inherently complex uncertainties and ambiguities related to a constant need for framing and re-framing of problem spaces under investigation. As such, in this paper we propose the recruitment of the discipline of Informing Systems in the context of digital discovery. Early findings of such an exercise indicate that informing systems approaches can assist the investigation process by offering means for structuring uncertainty. As it is accepted that uncertainty is an inherent \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Physica-Verlag HD"
+        },
+        {
+            "Title": "Systems analysis: exploring the spectrum of diversity",
+            "Publication year": 2007,
+            "Publication url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1159&context=ecis2007",
+            "Abstract": "Complex problem spaces, such as those addressed by knowledge management or systems analysis projects, call for complex methods of inquiry. A phenomenon in contextual analysis means that there is a need to go beyond consensus and recognized \u2018best practice\u2019. As part of a complex method, for contextual analysis, inter-analysis may be conducted, in which individuals explore one another\u2019s perspectives by discussing individually-created narratives. The purpose is not to seek consensus, but to focus on diversity in viewpoints among participants. In this paper, the authors present an approach in which multiple modelling of problem experiences can bring about shifts of perspectives, create new insights and help deepened understandings to emerge. Techniques are presented that support participants to keep an overview of diversity of in-depth inquiries, while not suffocating under information overload due to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reengineering the user: privacy concerns about personal data on smartphones",
+            "Publication year": 2015,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/ICS-10-2014-0071/full/html",
+            "Abstract": " \u2013 This paper aims to discuss the privacy and security concerns that have risen from the permissions model in the Android operating system, along with two shortcomings that have not been adequately addressed.  \u2013 The impact of the applications\u2019 evolutionary increment of permission requests from both the user\u2019s and the developer\u2019s point of view is studied, and finally, a series of remedies against the erosion of users\u2019 privacy is proposed.  \u2013 The results of this work indicate that, even though providing access to personal data of smartphone users is by definition neither problematic nor unlawful, today\u2019s smartphone operating systems do not provide an adequate level of protection for the user\u2019s personal data. However, there are several ideas that can significantly improve the situation and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "Improving digital forensics through data mining",
+            "Publication year": 2014,
+            "Publication url": "https://www.academia.edu/download/52112099/immm_2014_3_20_50098.pdf",
+            "Abstract": "In this paper, we reflect upon the challenges a forensic analyst faces when dealing with a complex investigation and develop an approach for handling and analyzing large amounts of data. As traditional digital forensic analysis tools fail to identify hidden relationships in complex modus operandi of perpetrators, in this paper, we employ data mining techniques in the digital forensics domain. We consider as a vehicle the Enron scandal, which is recognized to be the biggest audit failure in the US corporate history. In particular, we focus on the textual analysis of the electronic messages sent by Enron employees, using clustering techniques. Our goal is to produce a methodology that could be applied by other researchers, who work on projects that involve email analysis. Preliminary findings show that it is possible to use clustering techniques in order to effectively identify malicious collaborative activities.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The security and privacy impact of criminalising the distribution of hacking tools",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S136137230870112X",
+            "Abstract": "Furnell and Katos scrutinise the effect of changes to the Computer Misuse Act on privacy.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Diversity Networks in Digital Investigations.",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=0b0QAwAAQBAJ&oi=fnd&pg=PA63&dq=info:5Zin2oYMWrUJ:scholar.google.com&ots=np2pi6SgFW&sig=lH21Vk8T8R4MVN6zdzugLiZ5bXQ",
+            "Abstract": "This paper is built upon the need that digital forensic investigators are required in many cases to investigate, understand and report on all kind of cyber-crime including novel security breaches which have not been performed in the past. When an investigator is faced with the challenge to explore a new threat, we argue that the inquiry dynamics do not differ from an organisational employee challenged to perform innovation. This is notjust about challenging one\u2019s own assumptions; not just challenging the assumptions of one\u2019s colleagues but creating a dialogue among colleagues about the processes of questioning assumptions in order to uncover a richer appreciation of the uncertainties of the problem-space to be the subject of inquiry. This paper draws upon the approach of diversity networks which is used to support inquiry into complex problem spaces including the necessary requirement for innovation, and it is shown how this paradigm could be adopted by the forensic investigator to shed light on the uncertainty aspects of a cyber crime scene.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real time DDoS detection using fuzzy estimators",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167404812000922",
+            "Abstract": "We propose a method for DDoS detection by constructing a fuzzy estimator on the mean packet inter arrival times. We divided the problem into two challenges, the first being the actual detection of the DDoS event taking place and the second being the identification of the offending IP addresses. We have imposed strict real time constraints for the first challenge and more relaxed constraints for the identification of addresses. Through empirical evaluation we confirmed that the detection can be completed within improved real time limits and that by using fuzzy estimators instead of crisp statistical descriptors we can avoid the shortcomings posed by assumptions on the model distribution of the traffic. In addition we managed to obtain results under a 3 sec detection window.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Human-centered specification exemplars for critical infrastructure environments",
+            "Publication year": 2016,
+            "Publication url": "https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/HCI2016.93",
+            "Abstract": "Specification models of critical infrastructure focus on parts of a larger environment. However, to consider the security of critical infrastructure systems, we need approaches for modelling the sum of these parts; these include people and activities, as well as technology. This paper present human-centered specification exemplars that capture the nuances associated with interactions between people, technology, and critical infrastructure environments. We describe requirements each exemplar needs to satisfy, and present preliminary results developing and evaluating them.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the assessment of completeness and timeliness of actionable cyber threat intelligence artefacts",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-59000-0_5",
+            "Abstract": "In this paper we propose an approach for hunting adversarial tactics, techniques and procedures by leveraging information described in structured cyber threat intelligence models. We focused on the properties of timeliness and completeness of cyber threat intelligence indicators to drive the discovery of tactics, techniques and procedures placed highly on the so-called Pyramid of Pain.We used the unit 42 playbooks dataset to evaluate the proposed approach and illustrate the limitations and opportunities of a systematic intelligence sharing process for high pain tactics, techniques and procedures discovery. We applied the Levenshtein Distance in order to present a metric between the attack vectors constructed from the kill chain phases for completeness and timeliness.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A joint temporal-spatial ensemble model for short-term traffic prediction",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925231221009322",
+            "Abstract": "In this paper, we address the problem of short-term traffic flow prediction since accurate prediction of short-term traffic flow facilitates timely traffic management and rapid response. We advocate deep machine learning approach and propose a novel ensemble model, named ALLSCP, that considers both temporal and spatial characteristics of traffic conditions. Specifically, we consider (1) short-, medium-and long-term temporal traffic evolution,(2) global and local spatial traffic patterns and (3) the correlation of temporal-spatial features in our predictions. We use real-world traffic data from two locations (ie, Los Angeles and London) with frequent fluctuations (due to proneness to traffic accidents and/or congestion) to train and test our model. For each location, we consider road segments with and without junctions (ie, linear vs intersection). We compare our model against well-known existing machine/deep learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Diffusion Behaviour of Cryptographic Primitives in Feistel Networks.",
+            "Publication year": 2004,
+            "Publication url": "http://www.public.asu.edu/~candan/papers/WOSIS2004.pdf#page=90",
+            "Abstract": "The concept of product encryption is resident in the majority of symmetric block ciphers. Along with product encryption, two properties were also defined by Shannon, namely diffusion and confusion. In a product cipher such as a Feistel Network (FN), or generally a Substitution Permutation Network (SPN), diffusion is dependent upon two types of primitives, the nonlinear transformation and the swapping scheme. Different approaches to diffusion analysis considered either the topology of a FN, or the nonlinear transformation. This paper describes a metric for diffusion in a way suitable for investigating the behaviour of the underlying primitives of a FN.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using human factor approaches to an organisation\u2019s bring your own device scheme",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-58460-7_28",
+            "Abstract": "Bring Your Own Device (BYOD) is an emerging trend that is being adopted by an increasing number of organisations due to the benefits it provides in terms of cost efficiency, employee productivity, and staff morale. However, organisations who could benefit from implementing BYOD remain sceptical, due to the increasing threats and vulnerabilities introduced by mobile technology, which are amplified due to the human element (insider threats, non-security savvy employees). In this context, this paper investigates the application of human factor techniques to the BYOD scheme of an anonymised, real-life organisation (referred to as \u201cGlobex\u201d). Questionnaires and Interactive Management are two Human Factor methods used in this case study to help determine areas for improvement. Results from the experiment highlight an issue with employee satisfaction towards their employers\u2019 BYOD scheme, which could \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A framework for anonymizing GSM calls over a smartphone VoIP network",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30436-1_46",
+            "Abstract": "The proposed framework describes a service for users that gives them the ability to make gsm calls from their smartphones without revealing their identity. The principle to achieve that is simple: instead of using your cell phone to make a call, pick somebody else\u2019s phone to do so. We proposed an infrastructure of smartphones, sip registrars and sip proxies to provide caller anonymity. We developed a testbed where a smartphone registers on a SIP registrar and can start GSM conversation through another smartphone acting as a GSM gateway, by using a SIP proxy. Empirical evaluation revealed no significant QoS degradation.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Towards a Threat Intelligence Informed Digital Forensics Readiness Framework",
+            "Publication year": 2017,
+            "Publication url": "http://eprints.bournemouth.ac.uk/30391/",
+            "Abstract": "Digital Forensic Readiness (DFR) has received little attention by the research community, when compared to the core digital forensic investigation processes. DFR was primarily about logging of security events to be leveraged by the forensic analysis phase. However, the increasing number of security incidents and the overwhelming volumes of data produced mandate the development of more effective and efficient DFR approaches. We propose a DFR framework focusing on the prioritisation, triaging and selection of Indicators of Compromise (IoC) to be used in investigations of security incidents. A core component of the framework is the contextualisation of the IoCs to the underlying organisation, which can be achieved with the use of clustering and classification algoriihms and a local IoC database.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Encrypted and covert DNS queries for botnets: Challenges and countermeasures",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S016740481831321X",
+            "Abstract": "There is a continuous increase in the sophistication that modern malware exercise in order to bypass the deployed security mechanisms. A typical approach to evade the identification and potential take down of a botnet command and control server is domain fluxing through the use of Domain Generation Algorithms (DGAs). These algorithms produce a vast amount of domain names that the infected device tries to communicate with to find the C&C server, yet only a small fragment of them is actually registered. This allows the botmaster to pivot the control and make the work of seizing the botnet control rather difficult.Current state of the art and practice considers that the DNS queries performed by a compromised device are transparent to the network administrator and therefore can be monitored, analysed, and blocked. In this work, we showcase that the latter is a strong assumption as malware could efficiently hide \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Age and Gender as Cyber Attribution Features in Keystroke Dynamic-Based User Classification Processes",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/1055040",
+            "Abstract": "Keystroke dynamics are used to authenticate users, to reveal some of their inherent or acquired characteristics and to assess their mental and physical states. The most common features utilized are the time intervals that the keys remain pressed and the time intervals that are required to use two consecutive keys. This paper examines which of these features are the most important and how utilization of these features can lead to better classification results. To achieve this, an existing dataset consisting of 387 logfiles is used, five classifiers are exploited and users are classified by gender and age. The results, while demonstrating the application of these two characteristics jointly on classifiers with high accuracy, answer the question of which keystroke dynamics features are more appropriate for classification with common classifiers. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Keystroke forensics: are you typing on a desktop or a laptop?",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2490257.2490272",
+            "Abstract": "In this paper we investigate the potential of leveraging keystroke analysis-primarily used in user authentication-to user profiling and identification for forensic investigations. As such, the keystroke forensics approach proposed in this paper will support user profiling through integration with the offender profiling domain. Early findings show that it was possible to identify with significant probability the conditions and means a user is performing typing operations.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A framework for designing cloud forensic-enabled services (CFeS)",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s00766-018-0289-y",
+            "Abstract": " Cloud computing is used by consumers to access cloud services. Malicious actors exploit vulnerabilities of cloud services to attack consumers. The link between these two assumptions is the cloud service. Although cloud forensics assists in the direction of investigating and solving cloud-based cyber-crimes, in many cases the design and implementation of cloud services fall back. Software designers and engineers should focus their attention on the design and implementation of cloud services that can be investigated in a forensic sound manner. This paper presents a methodology that aims on assisting designers to design cloud forensic-enabled services. The methodology supports the design of cloud services by implementing a number of steps to make the services cloud forensic enabled. It consists of a set of cloud forensic constraints, a modeling language expressed through a conceptual model and a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "SSD: New challenges for digital forensics",
+            "Publication year": 2011,
+            "Publication url": "https://portal.research.lu.se/portal/en/publications/ssd-new-challenges-for-digital-forensics(c7010748-2e3a-439e-8107-07576b317d0f).html",
+            "Abstract": "ICT changes continuously and we are used to look at IT in a slightly dif-ferent way every year. Things are developed and manufactured to be smaller and faster but few changes are truly technologically revolutionary. Some changes creep up on us as they arrive under cover of previously known technology. Solid State Disks (SSD) is such a technology. The use of SSD is simple enough and for many purposes it can be used as if it was a normal hard disc but many times faster and with a very much lower power consumption. But, SSD is not an evolution of hard disc technology, it is a completely new technology which imitates the behav-iour of a hard disc. There are major underpinning differences which have serious consequences for security and for digital forensic. Due to how the SSDs work it is not always certain that deleted data are purged from the disc. On the other hand SSD\u201f s can sometimes purge data all by themselves even if they are not connected to any interface with only the power on. This means that normal guidelines aimed at hard discs for how to preserve digital forensic evidence are not just inappropri-ate but could if followed result in potential evidence being lost, destroyed or deemed unvalid as evidence. This paper gives an overview of some of the princi-pal and unexpected challenges that SSDs have brought with them for Digital Fo-rensics investigations.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "ItAIS"
+        },
+        {
+            "Title": "A Location-Aware Authentication Model to Handle Uncertainty in IoT",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8939230/",
+            "Abstract": "The process of authentication for location-aware services is more challenging over the Internet of Things (IoT) than before due to a number of inherent IoT characteristics like dynamism and heterogeneity. Authentication in such an environment is no longer dependent only upon credentials but rather needs more spatio-temporal parameters (i.e. Time, Location) to be considered. Moreover, big data produced by IoT enabling technologies like wireless sensors, RFID tags and mobile phones introduce new challenges in terms of real-time authentication. This work defines one of the neglected challenges in IoT called uncertainty in authentication. Considering this challenge is important because IoT has a number of characteristics that amplify uncertainty in authentication. Moreover, using existing access control models does not result in flexible and resilient solution to handle uncertainty. Therefore, this work introduces an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The ubiquitous mobile and location-awareness time bomb",
+            "Publication year": 2005,
+            "Publication url": "https://www.researchgate.net/profile/Vasilios-Katos/publication/236135216_The_Ubiquitous_Mobile_and_Location-Awareness_Time_Bomb/links/0c96051646745734a5000000/The-Ubiquitous-Mobile-and-Location-Awareness-Time-Bomb.pdf",
+            "Abstract": "Get The Cutter Edge free: www. cutter. com automatic processing of data, it has become increasingly important to consider privacy in terms of protection of personal data. In the 1980s, the OECD developed a set of guidelines governing the protection of privacy, yet at the same time enabling a free flow of information to support economic activity [10]. These guidelines identify the balance between privacy needs and the economic needs to use, store, and transmit personal data to conduct transactions and support commerce. In addition to being a response to privacy concerns, the guidelines aimed to get some harmonization in national privacy legislation for member countries, while recognizing that national laws, policies, and philosophies may be different in applying such legislation. In regard to applying privacy protection law at a national level, the guidelines identify basic principles in the following areas:",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "CUTTER INFORMATION CORP."
+        },
+        {
+            "Title": "Information Sharing Models for Early Warning Systems of Cybersecurity Intelligence",
+            "Publication year": 2020,
+            "Publication url": "https://www.theseus.fi/handle/10024/345638",
+            "Abstract": "An Early Warning System (EWS) for cybersecurity intelligence will provide the capability to share information to provide up to date information to all constituents involved in the EWS. The development of EWSs will be rooted in a comprehensive review of information sharing and trust models from within the cyber domain as well as models from other domains. This article is the result of a qualitative multiple-case study analysis. It consists of theory development by systematic reviews of academic articles, seven case studies, and cross-case conclusions, from which a set of system requirements and features were established to support a model that promotes information sharing among partners, while also meeting regulatory requirements. Moreover, the final analysis includes the requirements for information sharing within and between partners across organisational boundaries as derived from multisector analysis. The study consists of a comprehensive review of information sharing and trust models from within the cyber domain (n > 50), as well as models from other domains, such as healthcare, maritime and critical infrastructure protection.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Procon"
+        },
+        {
+            "Title": "Towards indeterminacy-tolerant access control in iot",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-10543-3_4",
+            "Abstract": "The ultimate goal of any access control system is to assign precisely the necessary level of access (i.e., no more and no less) to each subject. Meeting this goal is challenging in an environment that is inherently scalable, heterogeneous and dynamic as the Internet of Things (IoT). This holds true as the volume, velocity and variety of data produced by wireless sensors, RFID tags and other enabling technologies in IoT introduce new challenges for data access. Traditional access control methods that rely on static, pre-defined access policies do not offer flexibility in dealing with the new challenges of the dynamic environment of IoT, which has been extensively studied in the relevant literature. This work, defines and studies the indeterminacy challenge for access control in the context of IoT, which to the best of our knowledge has not been studied in the relevant literature. The current access control models, even \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:_B80troHkn4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "On the Security Controls of Portable Computing Devices in Healthcare Environments.",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Fyrhmm3xfigC&oi=fnd&pg=PA161&dq=info:HQevE2N772oJ:scholar.google.com&ots=6S7tPqFkg1&sig=cV2TOlD_Mr9XyDVII_bOgk9JA3Y",
+            "Abstract": "This paper reports on the findings ofa study relating to the use of portable computing devices in hospitals. The investigation used as a vehicle a recently purpose developed mobile computing infrastructure, but the findings and conclusions have been generalized and could be applied to most healthcare contexts. The two main factors relating to the higher risk of the introduction of a wireless network infrastructure are the uncontrolled boundaries of the corporate (wireless) network, and the elimination of the physical security assumption concerning the mobile computing devices. The methodology adopted in this paper considers the new risks attributed to the threat vectors capable of exploiting vulnerabilities of a mobile network and proposes policy controls and considerations in order to diversify the risks ofthese threats being successful.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Addressing the human factor in information systems security",
+            "Publication year": 2009,
+            "Publication url": "https://portal.research.lu.se/portal/en/publications/addressing-the-human-factor-in-information-systems-security(8b87a962-e019-40fd-9c90-05d2cb54ac4c).html",
+            "Abstract": "In this paper the historically persistent mismatch between the information systems development and security paradigms is revisited. By considering the human activity systems as a point of reference rather than a variable in information systems security, we investigate the necessity for a change in the information systems security agenda, accepting that a viable system would be more user-centric by accommodating and balancing human processes rather then entertaining an expectation of a one sided change of behaviour of the end user. This is done by drawing upon well established information systems methodologies and research.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Athens University of Economics and Business"
+        },
+        {
+            "Title": "Exploring confusion in product ciphers through regression analysis",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020025506003021",
+            "Abstract": "This paper investigates the modelling of confusion in product encryption by statistical means, to support understanding of the avalanche effect of the continuous application of an encryption step or round. To facilitate the modelling, a metric for confusion is proposed and its appropriateness and properties verified against broadly accepted theoretical assumptions. The regression analysis showed that confusion can be approximated by well-known econometrics functions.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:maZDTaKrznsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On the detection of pod slurping attacks",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167404810000052",
+            "Abstract": "Time is recognised to be a dimension of paramount importance in computer forensics. In this paper, we report on the potential of identifying past pod slurping type of attacks by constructing a synthetic metric based on information contained in filesystem timestamps. More specifically, by inferring the transfer rate of a file from last access timestamps and correlating that to the characteristic transfer rate capabilities of a suspicious USB found in the Windows registry, one could assess the probability of having suffered an unauthorised copy of files. Preliminary findings indicate that file transfer rates can be associated with the make and model of the USB storage device and give supporting information to the forensic analyst to identify file leakages.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Developing contextual understanding of information security risks",
+            "Publication year": 2014,
+            "Publication url": "https://portal.research.lu.se/portal/en/publications/developing-contextual-understanding-of-information-security-risks(0454ef67-fc9c-4838-b63e-9cd5f6ae8627).html",
+            "Abstract": "Given the uncertainty and complexity of security risk analyses, there is a great need of tools for contextual inquiry supporting assessment of risk with multi-value scales according to different stakeholders\u2019 point of view. Such tools can be used at individual level to help develop the understanding of a problem space. At the collective level, they can be used as a mean of communication to support the discussion, comparison and exploration of different understandings. The exploration of multiple perspectives of contextual understanding avoids entrapment in various types of reductionism and eliminates tendencies towards a deterministic reasoning and the pursuit of one optimum solution. A critical challenge is first developing a large spectrum of alternatives and then managing how the differences and similarities between alternatives will be handled to efficiently support decisions in information systems security (ISS). To address the aforementioned challenges, this paper seeks to explore the potential relevance of cognitive maps use in an ISS context to support the exploration of individual understanding leading to richer elaboration of problem spaces.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Centre for Security, Communications and Network Research, Plymouth University, UK"
+        },
+        {
+            "Title": "Cybercrime and Cloud Forensics: Applications for Investigation Processes: Applications for Investigation Processes",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=JMKeBQAAQBAJ&oi=fnd&pg=PR1&dq=info:qybclpake7cJ:scholar.google.com&ots=hjAVszV-Hn&sig=hqjoPy4ar-_o7-u4rzrDSo3bsow",
+            "Abstract": "While cloud computing continues to transform developments in information technology services, these advancements have contributed to a rise in cyber attacks; producing an urgent need to extend the applications of investigation processes. Cybercrime and Cloud Forensics: Applications for Investigation Processes presents a collection of research and case studies of applications for investigation processes in cloud computing environments. This reference source brings together the perspectives of cloud customers, security architects, and law enforcement agencies in the developing area of cloud forensics.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Blockchain-based electronic patient records for regulated circular healthcare jurisdictions",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8514954/",
+            "Abstract": "Circular, data-driven healthcare is increasingly being considered as an effective model to provide efficient, cost-effective and sustainable healthcare services in the future. Central to this model is the service-dominant \u201cbuilding-block\u201d-type provision of care services to patients, paired with the collaboration of healthcare providers through a common infrastructure. This combination enables the forming of a decentralized, holistic care cycle. Sharing of patient medical informationis pivotal towards reaching this goal; however, preserving medical record integrity and privacy, while at the same time allowing provider interoperability are often conflicting requirements. Blockchains and Smart Contracts can provide the underlying technology to support the decentralized care cycle by addressing patient privacy and medical record integrity, while simultaneously offering efficient interoperability between providers. To demonstrate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "\u201cWater, Water, Every Where\u201d: Nuances for a Water Industry Critical Infrastructure Specification Exemplar",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-33331-1_20",
+            "Abstract": "The water infrastructure is critical to human life, but little attention has been paid to the nuances of the water industry. Without such attention, evaluating security innovation in this domain without compromising the productivity goals when delivering water services is difficult. This paper proposes four nuances that need to be incorporated into a representative specification exemplar for the water industry; these provided input to the exemplar based on a fictional water company.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Hacia una herramienta de formaci\u00f3n por ordenador para la ense\u00f1anza de la Criptograf\u00eda",
+            "Publication year": 2004,
+            "Publication url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2065012",
+            "Abstract": "este art\u00edculo aborda los requisitos que debe tener una herramienta especializada de aprendizaje por ordenador para de la ense\u00f1anza de la criptograf\u00eda. Se ha considerado un entorno de e-learning por ordenador en el que se ha adoptado un enfoque basado en problemas con juegos de rol para escenarios relacionados con la criptograf\u00eda. Se presenta en este art\u00edculo un conjunto de escenarios para analizar los requisitos e identificar los atributos del entorno de e-learning especializado que puede dar soporte a la simulaci\u00f3n de la actividad criptogr\u00e1fica a nivel de protocolo. Estos atributos a su vez forman la base de un conjunto de herramientas para escenarios de comunicaci\u00f3n con diferentes de juegos de rol con presencia de adversarios. La actividad de juegos de rol ayuda a apreciar mejor la necesidad de la criptograf\u00eda ya entender las diferencias t\u00e9cnicas criptogr\u00e1ficas. La actividad de juegos de rol es especialmente apropiada para posibilitar un entendimiento de los fallos de protocolo.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Asociaci\u00f3n de T\u00e9cnicos de Inform\u00e1tica, ATI"
+        },
+        {
+            "Title": "Detecting Data Leakage from Pod Slurping Based Attacks on a Windows XP Platform.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12393881441670243500&hl=en&oi=scholarr",
+            "Abstract": "Time is recognised to be a dimension of paramount importance in computer forensics. In this paper, we report on the potential of identifying past pod slurping type of attacks by constructing a synthetic metric based on information contained in filesystem timestamps. More specifically, by inferring the transfer rate of a file from last access timestamps and correlating that to the characteristic transfer rate capabilities of a suspicious USB found in the Windows registry, one could assess the probability of having suffered an unauthorised copy of files. Preliminary findings indicate that file transfer rates can be associated with the make and model of the USB storage device and give supporting information to the forensic analyst to identify file leakages.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "You can run but you cannot hide from memory: Extracting IM evidence of Android apps",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8024571/",
+            "Abstract": "Smartphones have become a vital part of our business and everyday life, as they constitute the primary communication vector. Android dominates the smartphone market (86.2%) and has become pervasive, running in `smart' devices such as tablets, TV, watches, etc. Nowadays, instant messaging applications have become popular amongst smartphone users and since 2016 are the main way of messaging communication. Consequently, their inclusion in any forensics analysis is necessary as they constitute a source of valuable data, which might be used as (admissible) evidence. Often, their examination involves the extraction and analysis of the applications' databases that reside in the device's internal or external memory. The downfall of this method is the fact that databases can be tampered or erased, therefore the evidence might be accidentally or maliciously modified. In this paper, a methodology for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Opportunistic key management in delay tolerant networks",
+            "Publication year": 2017,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJICS.2017.085136",
+            "Abstract": "Key management is considered to be a challenging task in delay tolerant networks (DTNs) operating in environments with adverse communication conditions such as space, due to the practical limitations and constraints prohibiting effective closed-loop communications. In this paper, we propose opportunistic key management as a more suitable solution for key management in networks requiring opportunistic behaviour. We show that opportunistic key management is better exploited and utilised when used in conjunction with routing decisions by security aware DTN nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "A Machine Learning Approach to Dataset Imputation for Software Vulnerabilities",
+            "Publication year": 2020,
+            "Publication url": "http://eprints.bournemouth.ac.uk/34258/",
+            "Abstract": "This paper proposes a supervised machine learning approach for the imputation of missing categorical values from the majority of samples in a dataset. Twelve models have been designed that are able to predict nine of the twelve ATT&CK tactic categories using only one feature, namely the Common Attack Pattern Enumeration and Classification (CAPEC). The proposed method has been evaluated on a 867 sample unseen test set with classification accuracy in the range of 99.88%- 100%. Using these models, a more complete dataset has been generated with no missing values for the ATT&CK tactic feature.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data Recovery Strategies for Cloud Environments",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/data-recovery-strategies-cloud-environments/73965",
+            "Abstract": "Data acquisition and data recovery are essential to any e-discovery or digital forensic process. However, these two aspects seem to be considerably difficult in a cloud-computing environment. The very nature of the Cloud raises a number of technical and organizational challenges, which renders traditional approaches and tools inapplicable. Resource pooling, rapid elasticity, and geographical distribution of data are only a small part of the Cloud\u2019s features that hinder the forensic investigation. At the same time, there is significant absence of forensic readiness in cloud computing policy framework. In this chapter, the authors discuss the challenges pertaining to data acquisition in a cloud environment and discuss possible directions for meeting these challenges by presenting representative cases and sketching acquisition process and scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Loneliness, life satisfaction, problematic internet use and security behaviours: re-examining the relationships when working from home during COVID-19",
+            "Publication year": 2021,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/0144929X.2021.1973107",
+            "Abstract": "Working remotely from home within lockdown conditions can have implications on wellbeing and how people perceive and interact with technology to coordinate, communicate and collaborate with others. Previous research has shown relationships amongst life satisfaction, loneliness and problematic internet use and, also, between the latter and cyber security behaviours. We re-examine these relationships during the UK COVID-19 lockdown through an online survey completed by 299 participants working from home. The survey included demographics and work conditions questions and also the Satisfaction With Life Scale (SWLS), UCLA-3 Loneliness Scale, Problematic Internet Use Questionnaire-Short Form-6 (PIUQ-SF-6), and Security Behavior Intentions Scale (SeBIS). Structural equation modelling revealed that most notably, loneliness positively predicted problematic internet use, life satisfaction negatively \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Managing IS Security and Privacy",
+            "Publication year": 2012,
+            "Publication url": "https://www.igi-global.com/chapter/content/61005",
+            "Abstract": "BackgroundA thorough overview on the economics of privacy is maintained by Acquisti (2008). The 1970s was a decade marked by economists and their aspirations to develop an economic model to \u201cdecrypt\u201d the market forces. Although Hirshleifer (1971) introduced the value of information in relation to privacy in the early 1970s, economics tools were ported to the privacy domain in the late 1970s and early 1980s (eg, Posner, 1978; Stigler, 1980). However in the 1980s the concept of information sharing and the Internet were showing signs of potential, only to be interrupted by the Morris Worm in 1988 (Seeley, 1989), and security was added into the agenda. Initially this was done in the expense of privacy. For the following years information security received substantial attention\u2014if the members of the private sector were to invest in electronic communications and technologies, trust needed to be restored.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "The Sequence-to-Sequence Architecture with An Embedded Module for Long-Term Traffic Speed Forecasting with Missing Data.",
+            "Publication year": 2021,
+            "Publication url": "http://eprints.bournemouth.ac.uk/35723/",
+            "Abstract": "Traffic forecasting plays a crucial role in Intelligent Transportation Systems (ITSs), which is proposed to provide traffic status in advance for road users to avoid traffic congestion or other traffic incidents and for authorities to optimise the strategies of traffic management. In this paper, we develop a novel deep learning framework, based on the Sequence-to-Sequence ar- chitecture with an embedded module, for long-term traffic speed forecasting with missing data and providing high forecasting accuracy. The embedded module uses Graph Convolution Neural Network for the local spatial dependency analysis by conducting convolutional operation on the k \u2212 hop neighbourhood matrix, while utilises Transformer for the global spatial dependency analysis by implementing the attention mechanism that assigns individual weights to neighbour detectors for contributing to the targeted detector. The sequence-to-sequence architecture is built to analyse temporal dependencies of the spatially-fused time series from the embedded module. To evaluate the proposed model against existing well-known ones, the real traffic speed dataset with missing data and frequent traffic incidents is used to train and test the models. The experimental results indicate that our proposed framework achieves the most accuracy forecasting, even obtaining more than 80% accuracy for forecasting two hours in advance.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:WqliGbK-hY8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Interoperability challenges in the cybersecurity information sharing ecosystem",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/658334",
+            "Abstract": "Threat intelligence helps businesses and organisations make the right decisions in their fight against cyber threats, and strategically design their digital defences for an optimised and up-to-date security situation. Combined with advanced security analysis, threat intelligence helps reduce the time between the detection of an attack and its containment. This is achieved by continuously providing information, accompanied by data, on existing and emerging cyber threats and vulnerabilities affecting corporate networks. This paper addresses challenges that organisations are bound to face when they decide to invest in effective and interoperable cybersecurity information sharing and categorises them in a layered model. Based on this, it provides an evaluation of existing sources that share cybersecurity information. The aim of this research is to help organisations improve their cyber threat information exchange capabilities, to enhance their security posture and be more prepared against emerging threats. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Actionable threat intelligence for digital forensics readiness",
+            "Publication year": 2019,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/ICS-09-2018-0110/full/html",
+            "Abstract": "The purpose of this paper is to formulate a novel model for enhancing the effectiveness of existing digital forensic readiness (DFR) schemes by leveraging the capabilities of cyber threat information sharing.This paper uses a quantitative methodology to identify the most popular cyber threat intelligence (CTI) elements and introduces a lightweight approach to correlate those with potential forensic value, resulting in the quick and accurate triaging and identification of patterns of malicious activities.While threat intelligence exchange steadily becomes a common practice for the prevention or detection of security incidents, the proposed approach highlights its usefulness for the digital forensics (DF) domain.The proposed model can help organizations to improve their DFR posture, and thus minimize the time and cost of cybercrime incidents.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:dshw04ExmUIC",
+            "Publisher": "Emerald Publishing Limited"
+        },
+        {
+            "Title": "Network intrusion detection: Evaluating cluster, discriminant, and logit analysis",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020025507001156",
+            "Abstract": "This paper evaluates the statistical methodologies of cluster analysis, discriminant analysis, and Logit analysis used in the examination of intrusion detection data. The research is based on a sample of 1200 random observations for 42 variables of the KDD-99 database, that contains \u2018normal\u2019 and \u2018bad\u2019 connections. The results indicate that Logit analysis is more effective than cluster or discriminant analysis in intrusion detection. Specifically, according to the Kappa statistic that makes full use of all the information contained in a confusion matrix, Logit analysis (K = 0.629) has been ranked first, with second discriminant analysis (K = 0.583), and third cluster analysis (K = 0.460).",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Malevolent app pairs: an android permission overpassing scheme",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2903150.2911706",
+            "Abstract": "Portable smart devices potentially store a wealth of information of personal data, making them attractive targets for data exfiltration attacks. Permission based schemes are core security controls for reducing privacy and security risks. In this paper we demonstrate that current permission schemes cannot effectively mitigate risks posed by covert channels. We show that a pair of apps with different permission settings may collude in order to effectively create a state where a union of their permissions is obtained, giving opportunities for leaking sensitive data, whilst keeping the leak potentially unnoticed. We then propose a solution for such attacks.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Privacy challenges for location aware technologies",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-31166-1_22",
+            "Abstract": "Location aware capabilities can supply context and location sensitive information and support enabling users to be contactable and locatable within a wider mobile environment. These location awareness attributes can also be used to monitor user activities and movement through space and time. This paper explores location aware technologies and the resulting changing privacy and security landscapes for such mobile systems. The paper argues that the real challenge of meeting privacy obligations will be how to limit the joining-up or collaboration between the different monitoring technologies. However, this joining up capability is the very nature of information systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Automated Mortality Prediction in Critically-ill Patients with Thrombosis using Machine Learning",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9288135/",
+            "Abstract": "Venous thromboembolism (VTE) is the third most common cardiovascular condition. Some high risk patients diagnosed with VTE need immediate treatment and monitoring in intensive care units (ICU) as the mortality rate is high. Most of the published predictive models for ICU mortality give information on in-hospital mortality using data recorded in the first day of ICU admission. The purpose of the current study is to predict in-hospital and after-discharge mortality in patients with VTE admitted to ICU using a machine learning (ML) framework. We studied 2,468 patients from the Medical Information Mart for Intensive Care (MIMIC-III) database, admitted to ICU with a diagnosis of VTE. We formed ML classification tasks for early and late mortality prediction. In total, 1,471 features were extracted for each patient, grouped in seven categories each representing a different type of medical assessment. We used an automated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:eMMeJKvmdy0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A framework for access control with inference constraints",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6032355/",
+            "Abstract": "In this paper we present an approach for investigating the feasibility of reducing inference control to access control, as the latter is a more desirable means of preventing unauthorized access to sensitive data. Access control is preferable over inference control in terms of efficiency, but it fails to offer confidentiality in the presence of inference channels. We argue that during the design phase of a data schema and the definition of user roles, inference channels should be considered. An approach is introduced that can be integrated into a risk assessment exercise to assist in determining the roles and/or attributes that lower the risks associated with information disclosure from inference. The residual risk from the remaining inference channels could be treated by well known inference control mechanisms.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Ideal-cities-a trustworthy and sustainable framework for circular smart cities",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804760/",
+            "Abstract": "Reflecting upon the sustainability challenges cities will be facing in the near future and the recent technological developments allowing cities to become \"smart\", we introduce IDEAL-CITIES; a framework aiming to provide an architecture for cyber-physical systems to deliver a data-driven Circular Economy model in a city context. In the IDEAL-CITIES ecosystem, the city's finite resources as well as citizens will form the pool of intelligent assets in order to contribute to high utilization through crowdsourcing and real-time decision making and planning. We describe two use cases as a vehicle to demonstrate how a smart city can serve the Circular Economy paradigm.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:XiSMed-E-HIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Uncertainty-Aware Authentication Model for IoT",
+            "Publication year": 2019,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15850471918099968232&hl=en&oi=scholarr",
+            "Abstract": "Handling the process of authentication for the hundred million of computer embedded devices in Internet of Things (IoT) is not achievable without considering inherent IoT characteristics like scalability, heterogeneity, dependency and dynamism. In one hand, traditional and emerging access control models cannot handle indeterminate data access scenarios in IoT by applying deterministic access policies. On the other hand, moving towards resilient access control paradigms needs new attitudes and current manual risk analysis methods that rely on vulnerability calculations do not fit in IoT. This holds true as considering vulnerability as the key player in risk assessment is no longer efficient way to tackle with indeterminate access scenarios due to complicated dependency and scalability of IoT environment. Moreover, most of the IoT devices are not patchable so by discovering new vulnerabilities the vulnerable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A method for forensic artefact collection, analysis and incident response in environments running session initiation protocol and session description protocol",
+            "Publication year": 2014,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2014.065737",
+            "Abstract": "In this paper, we perform an analysis of SIP, a popular voice over IP (VoIP) protocol and propose a framework for capturing and analysing volatile VoIP data in order to determine forensic readiness requirements for effectively identifying an attacker. The analysis was performed on real attack data and the findings were encouraging. It seems that if appropriate forensic readiness processes and controls are in place, a wealth of evidence can be obtained. The type of the end user equipment of the internal users, the private IP, the software that is used can help build a reliable baseline information database. On the other hand the private IP addresses of the potential attacker even during the presence of NAT services, as well as and the attack tools employed by the malicious parties are logged for further analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "R2BN: An Adaptive Model for Keystroke-Dynamics-Based Educational Level Classification",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8476215/",
+            "Abstract": "Over the past decade, keystroke-based pattern recognition techniques, as a forensic tool for behavioral biometrics, have gained increasing attention. Although a number of machine learning-based approaches have been proposed, they are limited in terms of their capability to recognize and profile a set of an individual's characteristics. In addition, up to today, their focus was primarily gender and age, which seem to be more appropriate for commercial applications (such as developing commercial software), leaving out from research other characteristics, such as the educational level. Educational level is an acquired user characteristic, which can improve targeted advertising, as well as provide valuable information in a digital forensic investigation, when it is known. In this context, this paper proposes a novel machine learning model, the randomized radial basis function network, which recognizes and profiles the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Surveillance, privacy and the law of requisite variety",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-19348-4_10",
+            "Abstract": "In both the academic literature and in the media there have been concerns expressed about the level of surveillance technologies used to facilitate security and its effect upon privacy. Government policies in the USA and the UK are continuing to increase surveillance technologies to counteract perceived terrorist threats. Reflecting upon Ashby\u2019s Law of Requisite Variety, the authors conclude that these policies will not meet espoused ends and investigate an alternative strategy for policy making. The authors develop a methodology by drawing on an isomorphy of concepts from the discipline of Macroeconomics. This proposal is achieved by considering security and privacy as economic goods, where surveillance is seen as security technologies serving ID management and privacy is considered as being supported by ID assurance solutions. As the means of exploring the relationship between surveillance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Contextual dependencies in information systems security",
+            "Publication year": 2013,
+            "Publication url": "https://portal.research.lu.se/portal/en/publications/contextual-dependencies-in-information-systems-security(dab447fe-8d5d-4ae6-aaad-b835e3c0cf04).html",
+            "Abstract": "This paper addresses the contextual dependencies related to the use of information systems security and criticizes the predominance of technical and formalized paradigm in the development and implementation of IS security policies and procedures. The underlying epistemology of our research lies in the interpretative paradigm. It explores the patterns of how the contextual use of information systems security is involved according to a business/organizational practice perspective. It elicits the detailed processes and practices that constitute the pragmatic perspective in developing information security activities.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Security concerns in co-operative intelligent transportation systems",
+            "Publication year": 2017,
+            "Publication url": "http://fysarakis.com/uploads/2/0/6/3/20637656/Chapter_C-ITS_Security.pdf",
+            "Abstract": "The intelligence being built into modern vehicles significantly improves passenger safety and comfort, and this trend is expected to intensify in the coming years. Smart, eventually self-driving, vehicles are expected to form an important segment of the Internet of Things (IoT)\u2013enabled word, introducing new modes of transportation and new types of services. This merge of the ubiquitous smart systems with the smart vehicle environment is often referred to as Co-operative Intelligent Transportation System (CITS). Nevertheless, the above enhancements give rise to significant security and privacy concerns. Remote attacks have already been reported in production vehicles, even though their capabilities and features are very limited compared to future models. The significantly enlarged attack surface, the complexity of interactions and the variety of threat actors, necessitate the introduction of appropriate mechanisms, to ensure the vehicular platforms and the associated applications are secure enough for users to rely upon. In this chapter, we summarize the threats, requirements and challenges in securing vehicular networks, examining both Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) interactions. Moreover, a holistic approach for intrusion detection, prevention and mitigation for C-ITS ecosystems is presented, considering said deployments as an important part of the cyber-physical systems that are essential to protect. Pointers to important elements that future research should consider are provided, to maximize the effectiveness and benefits of such security frameworks, thus enabling the faster adoption of the future trends that will \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the complexity of collaborative cyber crime investigations",
+            "Publication year": 2009,
+            "Publication url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/digiteeslr6&section=29",
+            "Abstract": "Carrying out blackmail by using a computer, for example, is a particularly popular category of computer crime which involves the coordination of law enforcement and investigatory groups on an international level. A representative case was that involving three Russian individuals who extorted up to 4 million US dollars from United Kingdom based on-line casinos and bookmakers.'The criminals were taken into custody in September 2004 following the successful joint efforts of the National High Tech Crime Unit in the UK, Interpol, the FBI, Russia's Interior Ministry and the Prosecutor General's office. The authors propose in this article that the Electronic Discovery Reference Model (EDRM), which is a useful framework for systemic thinking, can used to support the need for collaboration during the investigation process.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Language-independent gender identification through keystroke analysis",
+            "Publication year": 2015,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/ICS-05-2014-0032/full/html",
+            "Abstract": " \u2013 The purpose of this paper is to investigate the feasibility of identifying the gender of an author by measuring the keystroke duration when typing a message.  \u2013 Three classifiers were constructed and tested. The authors empirically evaluated the effectiveness of the classifiers by using empirical data. The authors used primary data as well as a publicly available dataset containing keystrokes from a different language to validate the language independence assumption.  \u2013 The results of this paper indicate that it is possible to identify the gender of an author by analyzing keystroke durations with a probability of success in the region of 70 per cent.  \u2013 The proposed approach was validated with a limited number of participants and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:hMod-77fHWUC",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "Quis custodiet ipsos custodies?",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Frank-Stowell/publication/264037522_Quis_Custodiet_Ipsos_Custodies/links/57d18ede08ae601b39a2034e/Quis-Custodiet-Ipsos-Custodies.pdf",
+            "Abstract": "This paper is about the relationship between information and security and the effect that it has upon individual privacy and freedom. The popular conception is that security is there to \u201cprotect\u201d us and because of that it is welcomed by most or at worst not resisted. Security systems include those installed to protect us when travelling through to the security systems that protect our credit card transactions. The recent surveillance report suggests that the UK is the most spied upon nation in the world. So what happens to the information collected on each of us and what is it used for? This paper will explore the argument that information is a commodity increasingly controlled for the benefit of those who have power and that security, in its many forms, is an instrument to enable population control. In the paper we propose a means of assessing the optimum level of security which we argue will still provide protection without eroding our privacy and freedom. The proposal is suggested to contribute to the notion of an \u201cinverse\u201d panopticon as a means of protecting privacy and freedom.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "UK Systems Society"
+        },
+        {
+            "Title": "Detection of Advanced Web Bots by Combining Web Logs with Mouse Behavioural Biometrics",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3447815",
+            "Abstract": "Web bots vary in sophistication based on their purpose, ranging from simple automated scripts to advanced web bots that have a browser fingerprint, support the main browser functionalities, and exhibit a humanlike behaviour. Advanced web bots are especially appealing to malicious web bot creators, due to their browserlike fingerprint and humanlike behaviour that reduce their detectability. This work proposes a web bot detection framework that comprises two detection modules: (i) a detection module that utilises web logs, and (ii) a detection module that leverages mouse movements. The framework combines the results of each module in a novel way to capture the different temporal characteristics of the web logs and the mouse movements, as well as the spatial characteristics of the mouse movements. We assess its effectiveness on web bots of two levels of evasiveness: (a) moderate web bots that have a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:SdhP9T11ey4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Web Bot Detection Evasion Using Generative Adversarial Networks",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9527915/",
+            "Abstract": "Web bots are programs that can be used to browse the web and perform automated actions. These actions can be benign, such as web indexing and website monitoring, or malicious, such as unauthorised content scraping and scalping. To detect bots, web servers consider bots\u2019 fingerprint and behaviour, with research showing that techniques that examine the visitor\u2019s mouse movements can be very effective. In this work, we showcase that web bots can leverage the latest advances in machine learning to evade detection based on their mouse movements and touchscreen trajectories (for the case of mobile web bots). More specifically, the proposed web bots utilise Generative Adversarial Networks (GANs) to generate images of trajectories similar to those of humans, which can then be used by bots to evade detection. We show that, even if the web server is aware of the attack method, web bots can generate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:ye4kPcJQO24C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards A Computer-Based Training Tool for Education in Cryptography",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8504414078935217332&hl=en&oi=scholarr",
+            "Abstract": "This paper discusses the requirements of a computer based learning tool specialised in supporting education in the discipline of cryptography. In order to consider a computer based e-learning environment, a roleplaying, problem-based approach to cryptography related scenarios was adopted. A number of scenarios presented in this paper were used for analysing the requirements and for identifying attributes of the specialised e-learning environment that can support simulation of cryptographic activity on a protocol level. These attributes in turn would form the basis of a tool set to role-play different scenarios of communicating within the presence of adversaries. The role-play activity helps to develop an appreciation of the need for cryptography and an understanding of different cryptographic techniques. The role-play activity is particularly appropriate for enabling an understanding of protocol failures.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Socio-Technical perspective on threat intelligence informed digital forensic readiness",
+            "Publication year": 2017,
+            "Publication url": "https://www.igi-global.com/article/a-socio-technical-perspective-on-threat-intelligence-informed-digital-forensic-readiness/193642",
+            "Abstract": "In this article, a DFR framework is proposed focusing on the prioritization, triaging and selection of Indicators of Compromise (IoC) to be used when investigating of security incidents. A core component of the framework is the contextualization of the IoCs to the underlying organization, which can be achieved with the use of clustering and classification algorithms and a local IoC database.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Unravelling ariadne\u2019s thread: Exploring the threats of decentralised dns",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9123760/",
+            "Abstract": "The current landscape of the core Internet technologies shows considerable centralisation with the big tech companies controlling the vast majority of traffic and services. This situation has sparked a wide range of decentralisation initiatives with blockchain technology being among the most prominent and successful innovations. At the same time, over the past years there have been considerable attempts to address the security and privacy issues affecting the Domain Name System (DNS). To this end, it is claimed that Blockchain-based DNS may solve many of the limitations of traditional DNS. However, such an alternative comes with its own security concerns and issues, as any introduction and adoption of a new technology typically does - let alone a disruptive one. In this work we present the emerging threat landscape of blockchain-based DNS and we empirically validate the threats with real-world data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An integrated model for online transactions: illuminating the black box",
+            "Publication year": 2012,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/09685221211247299/full/html",
+            "Abstract": "The purpose of this paper is to develop a model for online transactions, integrating the social influence approach, the trust\u2010risk framework, and the theory of reasoned action, and to test it in a non US/UK context such as Greece.Structural equation modeling was used to survey data from 376 household respondents from two residential departments of the city of Thessaloniki in Greece in order to examine causal inferences.The results of the model, where the trust\u2010risk\u2010subjective norms framework mediated the impact of information privacy on actual transactions, indicated that the individual's attitude toward using technology, through the intention to submit individual information, resulted in positive actual transaction outcomes.Cross\u2010section data were used for testing the model. However, for properly investigating causality time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "DHP Framework: Digital Health Passports Using Blockchain--Use case on international tourism during the COVID-19 pandemic",
+            "Publication year": 2020,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200508922M/abstract",
+            "Abstract": "In order to contain the COVID-19 pandemic, several countries enforced extended social distancing measures for several weeks, effectively pausing the majority of economic activities. In an effort to resume economic activity safely, several Digital Contact Tracing applications and protocols have been introduced with success. However, DCT is a reactive method, as it aims to break existing chains of disease transmission in a population. Therefore DCT is not suitable for proactively preventing the spread of a disease; an approach that relevant to certain use cases, such as international tourism, where individuals travel across borders. In this work, we first identify the limitations characterising DCT related to privacy issues, unwillingness of the public to use DCT mobile apps due to privacy concerns, lack of interoperability among different DCT applications and protocols, and the assumption that there is limited, local \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A cyber-crime investigation framework",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0920548907000888",
+            "Abstract": "Epistemic uncertainty is an unavoidable attribute which is present in criminal investigations and could affect negatively the effectiveness of the process. A cyber-crime investigation involves a potentially large number of individuals and groups who need to communicate, share and make decisions across many levels and boundaries. This paper presents an approach adopting elements of the Strategic Systems Thinking Framework (SST) by which conflicting information due to the unavoidable uncertainty can be captured and processed, in support of the investigation process. A formal description of this approach is proposed as a basis for developing a cyber-crime investigation support system.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A novel security architecture for a space-data DTN",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30630-3_31",
+            "Abstract": "In this paper we reflect upon the challenges and constraints of a DTN infrastructure handling space data and propose a suitable security architecture for offering security services. The security requirements are expressed in terms of architecture components and supporting security processes. The architecture is provided as a point of reference for validating and evaluating future security controls and processes suitable for space data DTN environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Considering the role of academic qualifications for IT security professionals",
+            "Publication year": 2005,
+            "Publication url": "https://ro.ecu.edu.au/ecuworks/2733/",
+            "Abstract": "\"Considering the role of academic qualifications for IT security profes\" by Steven Furnell, Vasilis \nKatos et al. Home Search Browse Collections My Account About DC Network Digital Commons \nNetwork\u2122 Skip to main content Research Online Edith Cowan University My Account FAQ \nAbout Contact Us Home Home > ECU Works Pre 2011 > 2733 ECU Publications Pre. Title \nConsidering the role of academic qualifications for IT security professionals Authors Steven \nFurnell, Edith Cowan University Vasilis Katos Nathan Clarke Document Type Conference \nProceeding Faculty Faculty of Computing, Health and Science School School of Computer and \nInformation Science RAS ID 2740 Comments Furnell, S., Katos, V., & Clarke, N. (2005). \nConsidering the role of academic qualifications for IT security professionals. Proceedings of \nthe 1st Colloquium for Information Systems Security Education - Asia Pacific (CISSE-AP). This . \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An interdisciplinary approach to forensic it and forensic psychology education",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-73269-5_9",
+            "Abstract": "In WISE 4, Armstrong [1] presented a multidisciplinary view in computer forensics education. The view was primarily focusing solely on the education of computer forensics students, which was indeed along the lines of multidisciplinarity. However, this view does not involve integration between the different disciplines. In this paper, the scope of the approach is extended in order to allow a two- or three-way relationship between the disciplines of Computing, Psychology and Law and thus create an interdisciplinary perspective. It is shown how the study material was integrated and developed to suit the three disciplines.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Towards a framework for detecting advanced Web bots",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3339252.3339267",
+            "Abstract": "Automated programs (bots) are responsible for a large percentage of website traffic. These bots can either be used for benign purposes, such as Web indexing, Website monitoring (validation of hyperlinks and HTML code), feed fetching Web content and data extraction for commercial use or for malicious ones, including, but not limited to, content scraping, vulnerability scanning, account takeover, distributed denial of service attacks, marketing fraud, carding and spam. To ensure their security, Web servers try to identify bot sessions and apply special rules to them, such as throttling their requests or delivering different content. The methods currently used for the identification of bots are based either purely on rule-based bot detection techniques or a combination of rule-based and machine learning techniques. While current research has developed highly adequate methods for Web bot detection, these methods' \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Practical password harvesting from volatile memory",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33448-1_3",
+            "Abstract": "In this paper we challenge the widely accepted approach where a first responder does not capture the RAM of a computer system if found to be powered off at a crime scene. We investigate the presence of confidential data in RAM such as user passwords. Our findings show that even if the computer is switched off but not removed from the mains, the data are preserved. In fact, when a process is terminated but the computer is still operating, the respective data are more likely to be lost. Therefore capturing the memory could be as critical on a switched off system as on a running one.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "User Attribution through Keystroke Dynamics-Based Author Age Estimation",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-64758-2_4",
+            "Abstract": "Keystroke dynamics analysis has often been used in user authentication. In this work, it is used to classify users according to their age. The authors have extended their previous research in which they managed to identify the age group that a user belongs to with an accuracy of 66.1%. The main changes made were the use of a larger dataset, which resulted from a new volunteer recording phase, the exploitation of more keystroke dynamics features, and the use of a procedure for selecting those features that can best distinguish users according to their age. Five machine learning models were used for the classification, and their performance in relation to the number of features involved was tested. As a result of these changes in the research method, an improvement in the performance of the proposed system has been achieved. The accuracy of the improved system is 89.7%.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Uncertainty-aware authentication model for fog computing in IoT",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8795332/",
+            "Abstract": "Since the term \u201cFog Computing\u201d has been coined by Cisco Systems in 2012, security and privacy issues of this promising paradigm are still open challenges. Among various security challenges, Access Control is a crucial concern for all cloud computing-like systems (e.g. Fog computing, Mobile edge computing) in the IoT era. Therefore, assigning the precise level of access in such an inherently scalable, heterogeneous and dynamic environment is not easy to perform. This work defines the uncertainty challenge for authentication phase of the access control in fog computing because on one hand fog has a number of characteristics that amplify uncertainty in authentication and on the other hand applying traditional access control models does not result in a flexible and resilient solution. Therefore, we have proposed a novel prediction model based on the extension of Attribute Based Access Control (ABAC) model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient Intrusion Detection in P2P IoT Networks",
+            "Publication year": 2019,
+            "Publication url": "http://eprints.bournemouth.ac.uk/32527/",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems for Ad-Hoc networks via the prism of IPv6- enabled Wireless Sensor Networks. These networks consist of highly constrained devices organised in mesh networks following ad-hoc architectures, and as such carry specific characteristics that are not efficiently addressed by current state-of-the-art. In this work we first identify a trade-off between the communication and energy overhead of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of successfully identifying attacks. In order to fine tune this trade-off, we first model such networks with the use of Random Geometric Graphs as this is a rigorous approach that allows us to capture underlying structural properties of the network. We then introduce a novel architectural approach for IDS by having only a subset of the nodes acting as IDS agents. These nodes are able to efficiently detect attacks at the networking layer in a collaborative manner by monitoring locally available network information provided by IoT routing protocols such as RPL. Our detailed experimental evaluation demonstrates significant performance gains in terms of communication overhead and energy dissipation while maintaining high detection rates.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated key exchange protocol evaluation in delay tolerant networks",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167404816300098",
+            "Abstract": "Cryptographic key exchange is considered to be a challenging problem in Delay Tolerant Networks (DTNs) operating in deep space environments. The difficulties and challenges are attributed to the peculiarities and constraints of the harsh communication conditions that DTNs typically operate in, rather than the actual features of the underlying key management cryptographic protocols and solutions. In this paper we propose a framework for evaluation of key exchange protocols in a DTN setting. Our contribution is twofold as the proposed framework can be used as a decision making tool for automated evaluation of various communication scenarios with regards to routing decisions and as part of a method for protocol evaluation in DTNs.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Four valued logic: supporting complexity in knowledge sharing processes",
+            "Publication year": 2006,
+            "Publication url": "https://www.researchgate.net/profile/Maria-Do-Rosario-Cabrita/publication/277575795_Managerial_Perceptions_of_Linking_Intellectual_Capital_and_Strategy/links/556d996808aeab7772238431/Managerial-Perceptions-of-Linking-Intellectual-Capital-and-Strategy.pdf#page=51",
+            "Abstract": "An essential problem of \u2018knowledge management\u2019is the impossibility of codifying \u2018knowledge\u2019which is embedded in human agents. It can never be straightforward for members of an organization to share what they know with one another. Such a process might be facilitated, but would be difficult to \u2018manage\u2019. In recognition of this, organizations have sought ways to support knowledge sharing processes, ranging from document-based repositories to on-going mentor/trainee relationships. From day to day, all individuals will need to make choices relating to their organizational roles. A need to recognize the element of choice and judgment available to an individual requires an ability to distinguish and discriminate between different categories of argument or assertion. When attempting to deal with problems, people are capable of using multi-valued logic in a process of creating assertions. It follows, therefore, that any support mechanism based only on bi-valued logic might serve to constrain and inhibit exercise of judgment. Using four-valued logic, it is possible to codify, not knowledge, but categories of argument/assertion. By this means, improved support may be provided for a knowledge-sharing environment, ie with a purpose to support knowledge management processes. In this paper, the authors draw on previous research in contextual analysis, complex methods of inquiry and paraconsistent logic in order to develop these ideas. A model of four-valued logic is described and applied for the purpose of categorising arguments.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An integrated model for online transactuions: methodological issues and challenges",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.584.5309&rep=rep1&type=pdf",
+            "Abstract": "The purpose of this paper is to present a theoretical model that is based on the overall framework of the technology acceptance models and the concern for information privacy models, to better understand the linkages between the determinants of online transactions in information systems research. Emphasising on the methodological issues used in IS research, the proposed integrated model is focusing on the mediating variables, or the so-called \u2018black box\u2019, referring to the relationships between the primary independent and dependent variables, in online transactions. As such in this paper we attempt to fuse acknowledged technology acceptance models with information security and privacy models by proposing a general model which will enable the empirical validation and study of the factors that influence the users\u2019 attitudes toward online transactions. The factors are represented in the model by variables (independent or mediating) and the analysis is proposed to be based on statistical techniques such as structural equation modelling. Since at this current stage the model is formed on a theoretical basis, we consider all mediating variables to be contained in a black box. Challenges such as the number of sub-boxes included in the linear causal process in a black box and what should be included in a sub-box are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Interdisciplinary Approach to Forensic IT and Forensic Psychology Education",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=768510356818457791&hl=en&oi=scholarr",
+            "Abstract": "In WISE 4, Armstrong [1] presented a multidisciplinary view in computer forensics education. The view was primarily focusing solely on the education of computer forensics students, which was indeed along the lines of multidisciplinarity. However, this view does not involve integration between the different disciplines. In this paper, the scope of the approach is extended in order to allow a two-or three-way relationship between the disciplines of Computing, Psychology and Law and thus create an interdisciplinary perspective. It is shown how the study material was integrated and developed to suit the three disciplines.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Sphinx enigma in critical VoIP infrastructures: Human or botnet?",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6623704/",
+            "Abstract": "Sphinx was a monster in Greek mythology devouring those who could not solve her riddle. In VoIP, a new service in the role of Sphinx provides protection against SPIT (Spam over Internet Telephony) by discriminating human callers from botnets. The VoIP Sphinx tool uses audio CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) that are controlled by an anti-SPIT policy mechanism. The design of the Sphinx service has been formally verified for the absence of side-effects in the VoIP services (robustness), as well as for its DoS-resistance. We describe the principles and innovations of Sphinx, together with experimental results from pilot use cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Common phases of computer forensics investigation models",
+            "Publication year": 2018,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "System Administration, Networking, and Security Institute (SANS) Digital Forensics and Incident Response"
+        },
+        {
+            "Title": "TRAWL: Protection against rogue sites for the masses",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7956527/",
+            "Abstract": "The number of smartphones reached 3.4 billion in the third quarter of 2016 [1]. These devices facilitate our daily lives and have become the primary way of accessing the web. Although all desktop browsers filter rogue websites, their mobile counterparts often do not filter them at all, exposing their users to websites serving malware or hosting phishing attacks. In this paper we revisit the anti-phishing filtering mechanism which is offered in the most popular web browsers of Android, iOS and Windows Phone. Our results show that mobile users are still unprotected against phishing attacks, as most of the browsers are unable to filter phishing URLs. Thus, we implement and evaluate TRAWL (TRAnsparent Web protection for alL), as a cost effective security control that provides DNS and URL filtering using several blacklists.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Macroeconomics of privacy and security for identity management and surveillance",
+            "Publication year": 2013,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/03684921311295538/full/html",
+            "Abstract": "The purpose of this paper is to develop an approach for investigating the impact of surveillance technologies used to facilitate security and its effect upon privacy.The authors develop a methodology by drawing on an isomorphy of concepts from the discipline of Macroeconomics. This proposal is achieved by considering security and privacy as economic goods, where surveillance is seen as security technologies serving identity (ID) management and privacy is considered as being supported by ID assurance solutions.Reflecting upon Ashby's Law of Requisite Variety, the authors conclude that surveillance policies will not meet espoused ends and investigate an alternative strategy for policy making.The result of this exercise suggests that the proposed methodology could be a valuable tool for decision making at a strategic and aggregate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "A partial equilibrium view on security and privacy",
+            "Publication year": 2008,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/09685220810862760/full/html",
+            "Abstract": "This paper aims to propose a tool to help policy makers understand the dynamic relationships between security and privacy on a strategic (macro) level.The methodology is ported from the discipline of Macroeconomics, and applied to the information security and privacy domain. The methodology adopted is the so\u2010called \u201ccross methodology\u201d which claims ownership of the well\u2010known supply/demand market equilibrium exercise.Early evaluation reveals that this is a potentially very effective tool in understanding societal behaviour and position towards information security and privacy and therefore makes this a suitable tool for investigating and exploring scenarios that can assist in policy making.Up to date, research on the economics of security and privacy has been primarily focusing on a micro level. The main contribution of this paper is a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "Cyber-Physical Smart Grid Security Tool for Education and Training Purposes",
+            "Publication year": 2017,
+            "Publication url": "http://eprints.bournemouth.ac.uk/30154/",
+            "Abstract": "Cyber security education is now an essential piece of information to understand the current challenges in utilizing the technology in a secure manner. In this paper, we highlight the need of improving the human factors role and cyber security awareness in better securing the systems. We discuss a simulation tool called CPSA that can be used for education and training purposes to understand the impact of cyber-attacks on the physical power system, and overall system monitoring. The tool supports attacks modeling, different communication network topologies, simulation of bad data and malicious command received over the insecure network. This tool is helpful for students and researchers\u2019 education to better understand the logics and prepare them with skills to evaluate the future cyber-physical system security. The tool can also be used for training purpose to the technical and non-technical staff at power utility.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:f2IySw72cVMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unearthing malicious campaigns and actors from the blockchain DNS ecosystem",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0140366421003236",
+            "Abstract": "Blockchain DNS has emerged as an alternative solution to traditional DNS to address many of its inherent drawbacks. In this regard, a blockchain DNS approach is decentralised, resilient, provides high availability, and prevents censorship. Unfortunately, despite these desirable features, the major blockchain DNS solutions to date, Namecoin and Emercoin have been repeatedly reported for malicious abuse, ranging from malware distribution to phishing. In this work, we perform a longitudinal analysis of both these chains trying to identify and quantify the penetration of malicious actors in their ecosystems. To this end, we apply a haircut blacklisting policy and the intelligence collected from various engines to perform a taint analysis on the metadata existing in these blockchains, aiming to identify malicious acts through the merge of identifying information. Our analysis provides an automated validation methodology \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Assessing forensic readiness.",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=sBjHAwAAQBAJ&oi=fnd&pg=PA107&dq=info:wIFOWLnUnfUJ:scholar.google.com&ots=JubwCcoCz-&sig=5ufNfW-3QcYpc50GlkHyMRjTR1k",
+            "Abstract": "In this paper we argue that optimization in terms of forensic readiness should be performed in a controlled and structured manner, taking under consideration the current situation an organization is in. We reflect upon well known practices relating to process maturity and investigate the feasibility and appropriateness of adopting such approaches in order to express forensic readiness. Levels of forensic readiness are defined by using a 0 to 5 scale. By using a fictitious example of an organization\u2019s website, which suffers a security breach, we examine how forensically ready the organization is. From this exercise we conjecture that an organization cannot develop or adopt solely generic forensic readiness assessment practices, but there is a need for tailoring.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel mechanism for anonymizing Global System for Mobile Communications calls using a resource\u2010based Session Initiation Protocol community network",
+            "Publication year": 2015,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sec.995",
+            "Abstract": "Considering the widespread adoption of smartphones in mobile communications and the well\u2010established resource sharing use in the networking community, we present a novel mechanism to achieve anonymity in the Global System for Mobile Communications (GSM). We propose a Voice over Internet Protocol infrastructure using the Session Initiation Protocol (SIP) where a smartphone registers on a SIP registrar and can start GSM conversation through another smartphone acting as a GSM gateway, by using a SIP intermediate without an extra cost. The testbed that we developed for empirical evaluation revealed no significant quality of service degradation. Copyright \u00a9 2014 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DHP Framework: Digital Health Passports Using Blockchain--Use case on international tourism during the COVID-19 pandemic",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2005.08922",
+            "Abstract": "In order to contain the COVID-19 pandemic, several countries enforced extended social distancing measures for several weeks, effectively pausing the majority of economic activities. In an effort to resume economic activity safely, several Digital Contact Tracing applications and protocols have been introduced with success. However, DCT is a reactive method, as it aims to break existing chains of disease transmission in a population. Therefore DCT is not suitable for proactively preventing the spread of a disease; an approach that relevant to certain use cases, such as international tourism, where individuals travel across borders. In this work, we first identify the limitations characterising DCT related to privacy issues, unwillingness of the public to use DCT mobile apps due to privacy concerns, lack of interoperability among different DCT applications and protocols, and the assumption that there is limited, local mobility in the population. We then discuss the concept of a Health Passport as a means of verifying that individuals are disease risk-free and how it could be used to resume the international tourism sector. Following, we present the DHP Framework that uses a private blockchain and Proof of Authority for issuing Digital Health Passports. The framework provides a distributed infrastructure supporting the issuance of DHPs by foreign health systems and their verification by relevant stakeholders, such as airline companies and border control authorities. We discuss the attributes of the system in terms of its usability and performance, security and privacy. Finally, we conclude by identifying future extensions of our work on formal security and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Education in Cyber Physical Systems Security: The Case of Connected Autonomous Vehicles",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9454086/",
+            "Abstract": "The automotive industry is a dynamic industry that is constantly evolving and changing with the advancements of technology. As cars become more technology dependent, the threat landscape and likelihood of a cyber-attack becomes greater and inherently larger as issues arise. With the introduction to automation and increased use of embedded systems and infotainment systems, modern cars have become a pillar piece of the Internet of Things network.This research details an in-depth study into the vulnerabilities and risks surrounding the current and future state of the automotive industry, highlights the most safety-critical components of the modern car, providing a holistic threat landscape to improve security awareness and posture regarding automotive security. It also demonstrates the utilisation of this analysis with the integration of an education package built on top of a hardware module based on a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:5awf1xo2G04C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Security Modules for Access Control in Mobile Applications",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/52112106/Security_Modules_for_Access_Control_in_M20170311-9401-1607p3e.pdf",
+            "Abstract": "A critical issue for the wide acceptance of mobile applications relies mainly on the protection of the data residing in mobile devices. In this paper we propose an access control solution for the enhancement of trust in wireless network environments. Taking into account the inherent problems of mobile devices with wireless communication capabilities and the adoption of an integrated access control approach that exploits different types of certificates based on public key technologies, we propose the use of security modules for storing sensitive security data on mobile devices. In addition, we distinguish between fixed and removable security modules, where in combination with the certificate types a flexible and effective access control mechanism can be employed, with the ability to support a variety of application and user operation scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Authenticated key exchange (ake) in delay tolerant networks",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30436-1_5",
+            "Abstract": "Key exchange is considered to be a challenging problem in Delay Tolerant Networks (DTNs) operating in space environments. In this paper we investigate the options for integrating key exchange protocols with the Bundle Protocol. We demonstrate this by using a one-pass key establishment protocol. In doing so, we also highlight the peculiarities, issues and opportunities a DTN network maintains, which heavily influences the underlying security solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the Assessment of Completeness and Timeliness of Actionable Cyber Threat Intelligence Artefacts",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=zdX-DwAAQBAJ&oi=fnd&pg=PA51&dq=info:1j_hlUQj5z8J:scholar.google.com&ots=P4etiEr07C&sig=cYNeg9ovRfDR-Yz4d1p56DncHVE",
+            "Abstract": "In this paper we propose an approach for hunting adversarial tactics, techniques and procedures by leveraging information described in structured cyber threat intelligence models. We focused on the properties of timeliness and completeness of cyber threat intelligence indicators to drive the discovery of tactics, techniques and procedures placed highly on the so-called Pyramid of Pain. We used the unit 42 playbooks dataset to evaluate the proposed approach and illustrate the limitations and opportunities of a systematic intelligence sharing process for high pain tactics, techniques and procedures discovery. We applied the Levenshtein Distance in order to present a metric between the attack vectors constructed from the kill chain phases for completeness and timeliness.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "An Architecture for Resilient Intrusion Detection in IoT Networks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9148868/",
+            "Abstract": "We introduce a lightweight architecture of Intrusion Detection Systems (IDS) for ad-hoc IoT networks. Current state-of-the-art IDS have been designed based on assumptions holding from conventional computer networks, and therefore, do not properly address the nature of IoT networks. In this work, we first identify the correlation between the communication overheads and the placement of an IDS (as captured by proper placement of active IDS agents in the network). We model such networks as Random Geometric Graphs. We then introduce a novel IDS architectural approach by having only a minimum subset of the nodes acting as IDS agents. These nodes are able to monitor the network and detect attacks at the networking layer in a collaborative manner by monitoring 1-hop network information provided by routing protocols such as RPL. Conducted experiments show that our proposed IDS architecture is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Novel Security Protocol Enhancement on Distributed Multicasting for Video on Demand",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=t9zOAwAAQBAJ&oi=fnd&pg=PA129&dq=info:rTZe4zWvU2oJ:scholar.google.com&ots=FdNlNDN_ml&sig=61pCVjWFiUu8xVetWmTycr6elQ0",
+            "Abstract": "In this paper, we propose a new security protocol enhancement for LEMP, which is a novel application-layer protocol, specifically designed for data streaming applications with large client sets, offering distributed multicasting with minimal overhead, while being robust to client and network failures or losses, typical for wireless environments. This security enhancement is based upon a Kerberos variation, being efficient both in terms of computational load for the diverse nature of participating clients as well as in terms of communication overhead.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Lulu. com"
+        },
+        {
+            "Title": "Privacy-preserving, user-centric VoIP CAPTCHA challenges: An integrated solution in the SIP environment",
+            "Publication year": 2016,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/ICS-07-2014-0046/full/html",
+            "Abstract": " \u2013 This work aims to argue that it is possible to address discrimination issues that naturally arise in contemporary audio CAPTCHA challenges and potentially enhance the effectiveness of audio CAPTCHA systems by adapting the challenges to the user characteristics.  \u2013 A prototype has been designed, called PrivCAPTCHA, to offer privacy-preserving, user-centric CAPTCHA challenges. Anonymous credential proofs are integrated into the Session Initiation Protocol (SIP) protocol and the approach is evaluated in a real-world Voice over Internet Protocol (VoIP) environment.  \u2013 The results of this work indicate that it is possible to create VoIP CAPTCHA services offering privacy-preserving, user-centric challenges while maintaining sufficient efficiency \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Emerald Group Publishing Limited"
+        },
+        {
+            "Title": "Dealing with epistemic uncertainty in the SST framework",
+            "Publication year": 2006,
+            "Publication url": "https://www.researchgate.net/profile/Peter-Bednar/publication/292715398_Dealing_with_epistemic_uncertainty_in_the_SST_framework_creativity_and_innovation/links/56b4635808ae61c48058cb98/Dealing-with-epistemic-uncertainty-in-the-SST-framework-creativity-and-innovation.pdf",
+            "Abstract": "Epistemic uncertainty has been suggested to be fundamental to human experience. The authors of this paper believe that people need to exercise creativity in their conjectures, drawing upon knowledge and experience, in order to generate solutions to both instrumental and epistemic problems, and encourage higher orders of learning.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving forensic triage efficiency through cyber threat intelligence",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/501596",
+            "Abstract": "The complication of information technology and the proliferation of heterogeneous security devices that produce increased volumes of data coupled with the ever-changing threat landscape challenges have an adverse impact on the efficiency of information security controls and digital forensics, as well as incident response approaches. Cyber Threat Intelligence (CTI) and forensic preparedness are the two parts of the so-called managed security services that defendants can employ to repel, mitigate or investigate security incidents. Despite their success, there is no known effort that has combined these two approaches to enhance Digital Forensic Readiness (DFR) and thus decrease the time and cost of incident response and investigation. This paper builds upon and extends a DFR model that utilises actionable CTI to improve the maturity levels of DFR. The effectiveness and applicability of this model are evaluated through a series of experiments that employ malware-related network data simulating real-world attack scenarios. To this extent, the model manages to identify the root causes of information security incidents with high accuracy (90.73%), precision (96.17%) and recall (93.61%), while managing to decrease significantly the volume of data digital forensic investigators need to examine. The contribution of this paper is twofold. First, it indicates that CTI can be employed by digital forensics processes. Second, it demonstrates and evaluates an efficient mechanism that enhances operational DFR. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "IDEAL-CITIES: A Trustworthy and Sustainable Framework for Circular Smart Cities",
+            "Publication year": 2019,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190711042M/abstract",
+            "Abstract": "Reflecting upon the sustainability challenges cities will be facing in the near future and the recent technological developments allowing cities to become\" smart\", we introduce IDEAL-CITIES; a framework aiming to provide an architecture for cyber-physical systems to deliver a data-driven Circular Economy model in a city context. In the IDEAL-CITIES ecosystem, the city's finite resources as well as citizens will form the pool of intelligent assets in order to contribute to high utilization through crowdsourcing and real-time decision making and planning. We describe two use cases as a vehicle to demonstrate how a smart city can serve the Circular Economy paradigm.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:D_sINldO8mEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exoinformation space audits: an information richness view of privacy and security obligations",
+            "Publication year": 2007,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/15536548.2007.10855820",
+            "Abstract": "The privacy-security challenge for corporations is multifaceted and complex with privacy and security demands seemingly pulling in conflicting directions. In addition, the automated and often unconscious and unintentional flow of data, which Brunk (2002) describes as exoinformation, makes the traditional auditing function inadequate to fully capture the security and privacy aspects facing most corporations. This paper draws upon an existing theoretical model of privacy and security, based on the concept of information richness, to develop a practical framework for wider information audit. The proposed information space audit, a supplement to existing information audits, provides guidance on how to manage the rich set of exoinformation data that is typically unplanned and automatically collected. Collating and combining information from different sources provides further scope to reduce information collection \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "An Ensemble Model for Short-Term Traffic Prediction in Smart City Transportation System",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9014061/",
+            "Abstract": "Smart city visions aim to offer citizens with intelligent services in various aspects of life. The services envisioned have been significantly enhanced with the proliferation of Internet-of-Things (IoT) technology offering real-time and ubiquitous monitoring capability. In this paper, we focus on the short-term traffic flow prediction problem based on real-world traffic data as one critical component of a smart city. In contrast to long-term traffic prediction, accurate prediction of short-term traffic flow facilitates timely traffic management and rapid response. We develop and study a novel ensemble model (EM) based on long short term memory (LSTM), deep autoencoder (DAE) and convolutional neural network (CNN) models. Our approach takes into account both temporal and spatial characteristics of the traffic conditions. We evaluate our proposal against well-known existing prediction models. We use two real traffic data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Contextual dependencies in information security systems",
+            "Publication year": 2013,
+            "Publication url": "https://researchportal.port.ac.uk/portal/en/publications/contextual-dependencies-in-information-security-systems(9135a3a2-2ea6-4aa0-8e7d-f6f1fda4c1ec).html",
+            "Abstract": "This paper addresses the contextual dependencies related to the use of information systems security and criticizes the predominance of technical and formalized paradigm in the development and implementation of IS security policies and procedures. The underlying epistemology of our research lies in the interpretative paradigm. It explores the patterns of how the contextual use of information systems security is involved according to a business/organizational practice perspective. It elicits the detailed processes and practices that constitute the pragmatic perspective in developing information security activities.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "AIS Electronic Library (AISeL)"
+        },
+        {
+            "Title": "Towards a forensically ready cloud storage service.",
+            "Publication year": 2011,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=k6pGAwAAQBAJ&oi=fnd&pg=PA93&dq=info:34Ls5T2YqUcJ:scholar.google.com&ots=NPXVAixJh8&sig=KAknUgfu4JK8FZFkLUriiMm1-7s",
+            "Abstract": "In this paper we examine the feasibility of developing a forensic acquisition tool in a distributed file system. Using GFS as a vehicle and through representative scenarios we develop forensic acquisition processes and examine both the requirements of the tool and the distributed file system must meet in order to facilitate the acquisition. We conclude that cloud storage has features that could be leveraged to perform acquisition (such as redundancy and replication triggers) but also maintains a complexity, which is higher than traditional storage systems leading to a need for forensic-readiness-by-design.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Information assurance and forensic readiness",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-11631-5_17",
+            "Abstract": "Egalitarianism and justice are amongst the core attributes of a democratic regime and should be also secured in an e-democratic setting. As such, the rise of computer related offenses pose a threat to the fundamental aspects of e-democracy and e-governance. Digital forensics are a key component for protecting and enabling the underlying (e-)democratic values and therefore forensic readiness should be considered in an e-democratic setting. This position paper commences from the observation that the density of compliance and potential litigation activities is monotonically increasing in modern organizations, as rules, legislative regulations and policies are being constantly added to the corporate environment. Forensic practices seem to be departing from the niche of law enforcement and are becoming a business function and infrastructural component, posing new challenges to the security \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Cyber-crime investigations: Complex collaborative decision making",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4651702/",
+            "Abstract": "This paper reports on the challenges computer forensic investigators face in relation to collaborative decision making, communication and coordination.The opportunities, operational environment and modus operandi of a cyber criminal are considered and used to develop the requirements in terms of both skill sets and procedural support a forensics investigator should have in order to respond to the respective threat vectors. As such, we show how a published framework for systemic thinking can be fit for purpose for supporting the collaborative enquiry and decision-making process.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mitigating circumstances in cybercrime: A position paper",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7363338/",
+            "Abstract": "This paper argues the need for considering mitigating circumstances in cybercrime. Mitigating circumstances are conditions which moderate the culpability of an offender of a committed offence. Our argument is based on several observations. The cyberspace introduces a new family of communication and interaction styles and designs which could facilitate, make available, deceive, and in some cases persuade, a user to commit an offence. User's lack of awareness could be a valid mitigation when using software features introduced without a proper management of change and enough precautionary mechanisms, e.g. warning messages. The cyber behaviour of users may not be necessarily a reflection of their real character and intention. Their irrational and unconscious actions may result from their immersed and prolonged presence in a particular cyber context. Hence, the consideration of the cyberspace design \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "1st international workshop on search and mining terrorist online content & advances in data science for cyber security and risk on the web",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3018661.3022760",
+            "Abstract": "The deliberate misuse of technical infrastructure (including the Web and social media) for cyber deviant and cybercriminal behaviour, ranging from the spreading of extremist and terrorism-related material to online fraud and cyber security attacks, is on the rise. This workshop aims to better understand such phenomena and develop methods for tackling them in an effective and efficient manner. The workshop brings together interdisciplinary researchers and experts in Web search, security informatics, social media analysis, machine learning, and digital forensics, with particular interests in cyber security. The workshop programme includes refereed papers, invited talks and a panel discussion for better understanding the current landscape, as well as the future of data mining for detecting cyber deviance.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "GreenSQL",
+            "Publication year": 2012,
+            "Publication url": "https://researchportal.port.ac.uk/portal/en/publications/greensql(669c09f2-eb08-4ab0-8785-20e330975258).html",
+            "Abstract": "GreenSQL - Portsmouth Research Portal Skip to content Portsmouth Research Portal University \nof Portsmouth Researchers Faculties & groups Projects Funding Outputs Datasets Activities \nPrizes Impact Media Student theses Equipment Home > Outputs > GreenSQL GreenSQL \nResearch output: Contribution to specialist publication \u203a Article Dr Stavros Shiaeles Vasilios Katos \nSchool of Computing Original language English Journal Hakin9 Publication status Published - \nJul 2012 Links URL: https://hakin9.org/download/hakin9-072012-greensql/ Related information \nRelations Get citation (various referencing formats) ID: 26790843 About The Portsmouth \nResearch Portal links to our live database of research information (Pure) About Useful \nwebsites University research home page Research & Innovation Services Graduate School \nContact E:pure@port.ac.uk Twitter:uopresearch Key information Pure login Library support \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A critical review of 7 years of Mobile Device Forensics",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1742287613001096",
+            "Abstract": "Mobile Device Forensics (MF) is an interdisciplinary field consisting of techniques applied to a wide range of computing devices, including smartphones and satellite navigation systems. Over the last few years, a significant amount of research has been conducted, concerning various mobile device platforms, data acquisition schemes, and information extraction methods. This work provides a comprehensive overview of the field, by presenting a detailed assessment of the actions and methodologies taken throughout the last seven years. A multilevel chronological categorization of the most significant studies is given in order to provide a quick but complete way of observing the trends within the field. This categorization chart also serves as an analytic progress report, with regards to the evolution of MF. Moreover, since standardization efforts in this area are still in their infancy, this synopsis of research helps set the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Age detection through keystroke dynamics from user authentication failures",
+            "Publication year": 2017,
+            "Publication url": "https://www.igi-global.com/article/age-detection-through-keystroke-dynamics-from-user-authentication-failures/173780",
+            "Abstract": "In this paper an incident response approach is proposed for handling detections of authentication failures in systems that employ dynamic biometric authentication and more specifically keystroke user recognition. The main component of the approach is a multi layer perceptron focusing on the age classification of a user. Empirical findings show that the classifier can detect the age of the subject with a probability that is far from the uniform random distribution, making the proposed method suitable for providing supporting yet circumstantial evidence during e-discovery.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "From synergy to symbiosis: new directions in security and privacy?",
+            "Publication year": 2009,
+            "Publication url": "https://www.igi-global.com/article/synergy-symbiosis-new-directions-security/4023",
+            "Abstract": "The objective of this article reflects upon the isomorphic relationship between ideas across disciplines. In this instance we are considering the value of a well established methodology, cross methodology, adopted from macroeconomics and ideas from political science. The cross methodology is used as a means of considering if the relationship between data collected for security proposes and individual privacy. We argue that this relationship is moving towards a symbiotic relationship and away from a synergistic one. In the article we present a model which we transform using system thinking and applying it within the context of security and privacy at the strategic level. The article is about the relationship between security, information and control and the effect that increased surveillance has upon individual privacy and freedom.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "MAIT: Malware Analysis and Intelligence Tool",
+            "Publication year": 2021,
+            "Publication url": "https://isij.eu/system/files/5024_malware_analysis_intelligence_tool.pdf",
+            "Abstract": "Malware is the instrument that delivers the decisive blow in cyber-attacks. A first-time presented malware or an updated malware can remain undetected and stealth until the attackers achieve their objectives. Information about malware and its use needs to be shared with other entities that are protecting their infrastructure from the same or similar threats. Malware intelligence can be critical in a rapidly changing threat landscape, allowing entities to respond to incidents in a successful and timely manner. We introduce the Malware Analysis and Intelligence Tool, a tool that uses state-of-the-art malware analysers (static and dynamic), combined with open-source malware databases to provide a malware signature and an intelligence report that is collected from publicly available cyber threat intelligence sources. The tool can be used to obtain chronological data for a malicious file, related vulnerabilities, and towards providing attribution and techniques, tactics and procedures when used in attacks from Advanced Persistent Threat groups.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "ProCon Ltd."
+        },
+        {
+            "Title": "Cyber insurance: recent advances, good practices & challenges",
+            "Publication year": 2016,
+            "Publication url": "http://eprints.bournemouth.ac.uk/29207/",
+            "Abstract": "The aim of this ENISA report is to raise awareness for the most impact to market advances, by shortly identifying the most significant cyber insurance developments for the past four years \u2013 during 2012 to 2016 \u2013 and to capture the good practices and challenges during the early stages of the cyber insurance lifecycle, i.e. before an actual policy is signed, laying the ground for future work in the area.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "European Union Agency For Network and Information Security (ENISA)"
+        },
+        {
+            "Title": "Which IoT protocol? Comparing standardized approaches over a common M2M application",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7842383/",
+            "Abstract": "Computing devices already permeate working and living environments, while researchers and engineers aim to exploit the potential of pervasive systems in order to introduce new types of services and address inveterate and emerging problems. This process will lead us eventually to the era of urban computing and the Internet of Things (IoT). However, the long-promised improvements require overcoming some significant obstacles introduced by these technological advancements. One such obstacle is the lack of interoperable solutions, to facilitate the use, monitoring and management of the plethora of devices and their services. While seamless machine-to-machine (M2M) and human-to-machine (H2M) interactions are a necessity for secure and truly ubiquitous computing, the current status quo is that of a segregated and incompatible assortment of devices. The resource-constraints of the platforms integrated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:lSLTfruPkqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Non-interactive zero knowledge proofs for the authentication of iot devices in reduced connectivity environments",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1570870519304895",
+            "Abstract": "Current authentication protocols seek to establish authenticated sessions over insecure channels while maintaining a small footprint considering the energy consumption and computational overheads. Traditional authentication schemes must store a form of authentication data on the devices, putting this data at risk. Approaches based on purely public/private key infrastructure come with additional computation and maintenance costs. This work proposes a novel non-interactive zero-knowledge (NIZKP) authentication protocol that incorporates the limiting factors in IoT communication devices and sensors. Our protocol considers the inherent network instability and replaces the ZKP NP-hard problem using the Merkle tree structure for the creation of the authentication challenge. A series of simulations evaluate the performance of NIZKP against traditional ZKP approaches based on graph isomorphism. A set of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Dealing with Internet risks",
+            "Publication year": 2001,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.254&rep=rep1&type=pdf",
+            "Abstract": "This paper discusses the attitude of both e-businesses and ecustomers or perspective e-partners towards the risks which are born by using the Internet as the communication channel. The risks are highly correlated and shape the trust of an e-customer towards an e-business. Starting from the organization's attitude towards risks, a number of criteria that influence the customer's trust are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MobileTrust: Secure knowledge integration in VANETs",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3364181",
+            "Abstract": "Vehicular Ad hoc NETworks (VANET) are becoming popular due to the emergence of the Internet of Things and ambient intelligence applications. In such networks, secure resource sharing functionality is accomplished by incorporating trust schemes. Current solutions adopt peer-to-peer technologies that can cover the large operational area. However, these systems fail to capture some inherent properties of VANETs, such as fast and ephemeral interaction, making robust trust evaluation of crowdsourcing challenging. In this article, we propose MobileTrust\u2014a hybrid trust-based system for secure resource sharing in VANETs. The proposal is a breakthrough in centralized trust computing that utilizes cloud and upcoming 5G technologies to provide robust trust establishment with global scalability. The ad hoc communication is energy-efficient and protects the system against threats that are not countered by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A Revised Forensic Process for Aligning the Investigation Process with the Design of Forensic-Enabled Cloud Services",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-37545-4_11",
+            "Abstract": "The design and implementation of cloud services, without taking under consideration the forensic requirements and the investigation process, makes the acquisition and examination of data, complex and demanding. The evidence gathered from the cloud may not become acceptable and admissible in the court. A literature gap in supporting software engineers so as to elicit and model forensic-related requirements exists. In order to fill the gap, software engineers should develop cloud services in a forensically sound manner. In this paper, a brief description of the cloud forensic-enabled framework is presented (adding some new elements) so as to understand the role of the design of forensic-enabled cloud services in a cloud forensic investigation. A validation of the forensic requirements is also produced by aligning the stages of cloud forensic investigation process with the framework\u2019s forensic requirements. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A randomness test for block ciphers",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0096300304000530",
+            "Abstract": "This paper describes a randomness test which can be used to measure the cryptographic strength of a block cipher or its underlying cryptographic primitive(s). Cryptographic strength in the context of this paper is related to the ability of the round function to produce a random output which in turn is defined as the distance between a theoretical calculation and an experimental measure. The measurements are based on the diffusion characteristic of the cipher. Potentially, the test for randomness proposed in this paper could be used as a distinguisher based on diffusion.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Pairing a Circular Economy and the 5G-Enabled Internet of Things: Creating a Class of? Looping Smart Assets?",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9106811/",
+            "Abstract": "The increase in the world's population has led to a massive rise in human consumption of the planet's natural resources, well beyond their replacement rate. Traditional recycling concepts and methods are not enough to counter such effects. In this context, a circular economy (CE), that is, a restorative and regenerative by-design economy, can reform today's \"take-make-dispose\" economic model. On the other hand, the Internet of Things (IoT) continues to gradually transform our everyday lives, allowing for the introduction of novel types of services while enhancing legacy ones. Taking this as our motivation, in this article we analyze the CE/IoT interplay, indicating innovative ways in which this interaction can drastically affect products and services, their underlying business models, and the associated ecosystems. Moreover, we present an IoT architecture that enables smart object integration into the IoT ecosystem \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "WARDOG: Awareness detection watchbog for Botnet infection on the host device",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8715790/",
+            "Abstract": "Botnets constitute nowadays one of the most dangerous security threats worldwide. High volumes of infected machines are controlled by a malicious entity and perform coordinated cyber-attacks. The problem will become even worse in the era of the Internet of Things (IoT) as the number of insecure devices is going to be exponentially increased. This paper presents WARDOG - an awareness and digital forensic system that informs the end-user of the botnet's infection, exposes the botnet infrastructure, and captures verifiable data that can be utilized in a court of law. The responsible authority gathers all information and automatically generates a unitary documentation for the case. The document contains undisputed forensic information, tracking all involved parties and their role in the attack. The deployed security mechanisms and the overall administration setting ensures non-repudiation of performed actions and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "User-centric, Privacy-Preserving Adaptation for VoIP CAPTCHA Challenges.",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=YxfHAwAAQBAJ&oi=fnd&pg=PA139&dq=info:_v2yerTpsVYJ:scholar.google.com&ots=jlQJdsdPI5&sig=pb6EKtZziuMcj9k9mpRCajo8xzg",
+            "Abstract": "The effectiveness of CAPTCHA challenges largely depends on being simultaneously easier to solve for humans and harder to solve for bots. In this work we argue that it is possible to enhance the effectiveness of audio CAPTCHA challenges by adapting the challenge to the users\u2019 characteristics. We propose a method for achieving this adaptation while protecting users\u2019 privacy. Moreover, our approach allows us to address discrimination issues that naturally arise in contemporary audio CAPTCHA challenges. Utilizing modern cryptographic techniques we design a privacy-preserving system, called PrivCAPTCHA, which offers customized CAPTCHA challenges.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A location privacy extension for DVB-RCS",
+            "Publication year": 2011,
+            "Publication url": "https://www.researchgate.net/profile/Vasilios-Katos/publication/228998735_A_location_privacy_extension_for_DVB-RCS/links/0deec5155a994a96bd000000/A-location-privacy-extension-for-DVB-RCS.pdf",
+            "Abstract": "In this paper we studied the DVB-RCS (Return Channel through Satellite) standard from a privacy perspective and proposed an approach to incorporate a location privacy enhancing mechanism into the standard. Offering location based privacy in DVB-RCS communication is a challenge as the location of a satellite terminal must be revealed to the network operator of the DVB-RCS network for technical and administrative reasons. We proposed an approach of cloaking the location by intentionally compromising its accuracy whilst maintaining the operability and integrity of the communications system. In addition we implemented a proof of concept technique utilizing the theoretical findings of this work on a real DVB-RCS system, presenting the methodology along with the tools used and the experimental results.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:4DMP91E08xMC",
+            "Publisher": "SPOLECNOST PRO RADIOELEKTRONICKE INZENYRSTVI"
+        },
+        {
+            "Title": "Dealing with Complexity in Knowledge Sharing Processes\u2019",
+            "Publication year": 2007,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=bNh6symFJToC&oi=fnd&pg=PA101&dq=info:YUl6G12YpLgJ:scholar.google.com&ots=YxU732jL-7&sig=ooPtSKwg7YCR0BiIYObGM58jiqo",
+            "Abstract": "In a context of complex problem spaces, human individuals need support to carry out in-depth inquiry, generating many, diverse possibilities, without suffering from information overload. In earlier work, we have demonstrated the potential of a model of four-valued logic to provide support in a knowledge sharing environment by codifying, not knowledge, but categories of argument/assertion. In this paper, we extend the application of our model to a second order. In the first application, individually-created narratives are categorised according to four-valued logic: assertions of positive belief in alternatives, negative belief in alternatives, possibility of alternatives or ignorance of any alternative. A second order is illustrated through an example in which all assertions of positive or optimistic possible belief are considered by participants. The model is applied in order to identify clusters of narratives which appear to have characteristics in common, by creation of diversity networks. In this way, a more focused agenda for debate can be supported to emerge.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:aqlVkmm33-oC",
+            "Publisher": "ACI Academic Conferences International"
+        },
+        {
+            "Title": "secciones t\u00e9cnicas",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Alfonso-Gonzalez-8/publication/291970733_Breve_historia_de_la_prensa_espanola_especializada_en_tecnologias_de_la_informacion/links/56a7c15508ae860e02558683/Breve-historia-de-la-prensa-espanola-especializada-en-tecnologias-de-la-informacion.pdf",
+            "Abstract": "Como parte de la prensa especializada cumple una funci\u00f3n social que va m\u00e1s all\u00e1 de la estrictamente informativa, ya que contribuye al progreso tecnol\u00f3gico e industrial, incentiva el consumo de productos tecnol\u00f3gicos, interviene en el proceso de actualizaci\u00f3n de conocimientos t\u00e9cnicos y profesionales, contribuye al establecimiento de un di\u00e1logo social a trav\u00e9s de la difusi\u00f3n de los adelantos tecnol\u00f3gicos y desarrolla una funci\u00f3n mediadora entre los profesionales del sector y el p\u00fablico consumidor de tecnolog\u00eda. Por todo ello se considera oportuno establecer una primera aproximaci\u00f3n a la evoluci\u00f3n de la prensa espa\u00f1ola especializada en TI.2. Los antecedentes A inicios de los a\u00f1os 60 el parque inform\u00e1tico espa\u00f1ol contaba con tres grandes ordenadores que se repart\u00edan RENFE, la Junta de Energ\u00eda Nuclear y Sevillana de Electricidad. Durante estos a\u00f1os las publicaciones peri\u00f3dicas que informaban de la realidad de una tecnolog\u00eda emergente como la inform\u00e1tica eran las revistas sobre electr\u00f3nica1, ciertas publicaciones acad\u00e9micas2 y revistas de empresa3. Una menci\u00f3n a parte merecen las",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "From intrusion detection to attacker attribution: A comprehensive survey of unsupervised methods",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8410366/",
+            "Abstract": "Over the last five years there has been an increase in the frequency and diversity of network attacks. This holds true, as more and more organizations admit compromises on a daily basis. Many misuse and anomaly based intrusion detection systems (IDSs) that rely on either signatures, supervised or statistical methods have been proposed in the literature, but their trustworthiness is debatable. Moreover, as this paper uncovers, the current IDSs are based on obsolete attack classes that do not reflect the current attack trends. For these reasons, this paper provides a comprehensive overview of unsupervised and hybrid methods for intrusion detection, discussing their potential in the domain. We also present and highlight the importance of feature engineering techniques that have been proposed for intrusion detection. Furthermore, we discuss that current IDSs should evolve from simple detection to correlation and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Innovation management through the use of diversity networks",
+            "Publication year": 2008,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJKL.2008.022056",
+            "Abstract": "A methodology for innovation and analysis in a context of complex problem spaces is presented, introducing the idea of a diversity network. The methodology draws upon a framework which puts 'complexification' into systemic practice. Such an application helps individual participants to outline their narratives, create and agree upon categories, and use these to classify their narratives. Clusters of narratives, reflecting innovation through diversity networks of opinion and competences, are encouraged to emerge in analytical practice. This approach can be applied to promote creativity and sharing in a knowledge management context.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Economics of personal data management: Fair personal information trades",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-11631-5_14",
+            "Abstract": "Individuals today have no control over the way their personal information is being used even though they are the ones to suffer the consequences of any unwanted uses of their information. We propose addressing this externality through the creation of a market for personal information, where licenses to access individuals\u2019 personal information will be voluntarily traded. Through this market, satisfactory compensation to the information owner is provided, whilst personal information remains under the owner\u2019s control. Using cryptographic tools and micropayments we propose and develop a prototype for personal information trades where the above principles are implemented and tested.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Analysis of the security and privacy risks and challenges in smart cities\u2019 traffic light system",
+            "Publication year": 2021,
+            "Publication url": "https://digital-library.theiet.org/content/conferences/10.1049/icp.2021.0940",
+            "Abstract": "Currently, the IoT network is the fastest growing network in the world that brings the smart cities revolution. The increase in the smart cities development poses several security and privacy risks. With the acceleration of times, we can now hastily observe the lack of privacy in our life. The major security and privacy issues occur because of either non-consideration of its security and privacy aspects or having inappropriate controls in place. Many of these issues could be resolved by applying advanced IoT-enabled solutions. This paper presents security and privacy risks and challenges against issues within traffic lights system, which is a complex and critical smart cities system. The paper also addresses a proposed secure and privacy-aware system for future traffic light system.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Differential malware forensics",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1742287613000923",
+            "Abstract": "In this paper we present a malware forensics framework for assessing and reporting on the modus operandi of a malware within a specific organizational context. The proposed framework addresses the limitations existing dynamic malware analysis approaches exhibit. More specifically we extended the functionality of the cuckoo sandbox malware analysis tool in order to automate the process of correlating and investigating the analysis results that multiple executions of a suspect binary on distinct and specific system configurations can produce. In contrast to standard malware analysis methods that assess the potential damage a malware may cause in general, this approach enables the analyst to identify contingent behavioral changes when the malware is executed and answer questions relating to the malware's activities within a specific environment. By doing this, the analyst is in the position to report on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "from synergy to symbiosis",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4938307007577566670&hl=en&oi=scholarr",
+            "Abstract": "Copyright\u00a9 2009, IGI Global. Copying or distributing in print or electronic forms without written permission of IGI Global is prohibited. implications of the growing level and apparent need of increased security and its impact upon individual privacy and by referring to Foucault\u2019s notion of power-knowledge and Bentham\u2019s idea of the Panopticon we establish the context upon which the concerns expressed are based. introDuCtionThere is a popular conception that security is there to \u201cprotect\u201d us and because of that it is welcomed by most or at worst not resisted. Taking the human race as a natural system and one which owes its avoidance of entropy to its ability to absorb ideas and information from its environment it can be thought of in systems terms as an open system. The thinking behind security systems, we argue, is based on the assumption that human society is a closed system and by exercising control over its boundaries those within will be protected (or controlled?). The assumption being made here is that there is a relationship between the well-being of the citizen and security. For some this relationship might be described as being synergistic in as much as one gains benefit from the other; there is an unconscious or conscious cooperation in terms of their own goals. But the question we raise in this article is at what happens if that relationship breaks down and is seen as not one of protection but an invasion of privacy? What happens when security is no longer seen as a system of protection but as a control system? In other words at what point does the synergistic relationship based upon shared goals and aspirations become one based not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Systems Quality: Trends and Practices",
+            "Publication year": 2016,
+            "Publication url": "https://pure.solent.ac.uk/en/publications/systems-quality-trends-and-practices",
+            "Abstract": "Systems Quality: Trends and Practices \u2014 Solent University Skip to main navigation Skip to \nsearch Skip to main content Solent University Logo Home Profiles Projects Research output \nPress / Media Search by expertise, name or affiliation Systems Quality: Trends and Practices \nMargaret Ross (Editor) Creative and Digital Industries Research and Innovation Hub Research \noutput: Book/Report \u203a Book \u203a peer-review Overview Fingerprint Abstract British Computer \nSociety Software Quality Management (SQM) conference proceedings editors K Phalp. V Katos, \nS Meacham, M Ross, G Staples Original language English Place of Publication Southampton \nPublisher Southampton Solent University ISBN (Print) 978-0-9932889-2-0 Publication status \nPublished - 2016 Publication series Name British Computer Society Software Quality \nManagement (SQM) conference proceedings Fingerprint Dive into the research topics of 'Quality'\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Southampton Solent University"
+        },
+        {
+            "Title": "On the user acceptance of graphical passwords.",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=YxfHAwAAQBAJ&oi=fnd&pg=PA150&dq=info:KyU_xV2fgSQJ:scholar.google.com&ots=jlQJdsdPI7&sig=tqI51Re6k4mKzVkz3he2AAjlGFY",
+            "Abstract": "In this paper we investigate options for improving the user acceptance of graphical passwords. We conducted a survey with a dual purpose. Firstly, we explored the users\u2019 reluctance to adopt graphical passwords. Secondly, we treated the graphical password authentication process as a biometric. By doing this, we proposed a distance metric to compare the user authentication response with the right answer. Although we inherited some drawbacks of biometric authentication, we established that this tradeoff in security can result in higher user acceptance and therefore can be used in contexts and environments with flexible security policies.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploring the protection of private browsing in desktop browsers",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167404817300597",
+            "Abstract": "Desktop browsers have introduced private browsing mode, a security control which aims to protect users' data that are generated during a private browsing session by not storing them in the filesystem. As the Internet becomes ubiquitous, the existence of this security control is beneficial to users, since privacy violations are increasing, while users tend to be more concerned about their privacy when browsing the web in a post-Snowden era. In this context, this work examines the protection that is offered by the private browsing mode of the most popular desktop browsers in Windows (i.e., Chrome, Firefox, IE and Opera). Our experiments uncover occasions in which even if users browse the web with a private session, privacy violations exist contrary to what is documented by the browser. To raise the bar of privacy protection that is offered by web browsers, we propose the use of a virtual filesystem as the storage \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:rO6llkc54NcC",
+            "Publisher": "Elsevier Advanced Technology"
+        },
+        {
+            "Title": "Big data security analysis approach using computational intelligence techniques in R for desktop users",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7849907/",
+            "Abstract": "Big Data security analysis is commonly used for the analysis of large volume security data from an organisational perspective, requiring powerful IT infrastructure and expensive data analysis tools. Therefore, it can be considered to be inaccessible to the vast majority of desktop users and is difficult to apply to their rapidly growing data sets for security analysis. A number of commercial companies offer a desktop-oriented big data security analysis solution; however, most of them are prohibitive to ordinary desktop users with respect to cost and IT processing power. This paper presents an intuitive and inexpensive big data security analysis approach using Computational Intelligence (CI) techniques for Windows desktop users, where the combination of Windows batch programming, EmEditor and R are used for the security analysis. The simulation is performed on a real dataset with more than 10 million observations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Trust Models for Access Control",
+            "Publication year": 2001,
+            "Publication url": "https://www.academia.edu/download/34276825/v2n3.117-124.pdf",
+            "Abstract": "This paper using the concept of a trust model aims at providing practical value to distributed security. It describes a method to derive authentication and authorisation requirements from the reduction of trust inherently associated with the number of participating entities placed in a communication path between two parties. It demonstrates how a traditional approach to understanding the trust relationships between interacting entities can be applied directly to the definition and design of secure e-business architectures. By applying these principles, the business and social impact of a security architecture which optimizes the provided level of security, performance of the architecture and the investment associated with that security architecture can be realized.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An architecture for blockchain over edge-enabled IoT for smart circular cities",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804728/",
+            "Abstract": "Circular Economy is a novel economic model, where every 'asset' is not wasted but reused and upscaled. The Internet of Things-IoT paradigm can underpin the transition to a Circular Economy by enabling fine-grained and continuous asset tracking. However, there are issues related to security and privacy of IoT devices that generate and handle sensitive and personal data. The use of Blockchain technology provides an answer to this issue, however, its application raises issues related to the highly-constrained nature of these networks. In this paper, Edge Computing is presented as a solution to this issue, providing a way in which Blockchain and Edge Computing can be used together to address the constrained nature of IoT. Furthermore, we present the challenges that this combination poses and the opportunities that it brings. We propose an architecture that decreases the IoT devices requirements for memory \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:738O_yMBCRsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A framework for password harvesting from volatile memory",
+            "Publication year": 2012,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2012.048411",
+            "Abstract": "In this paper, we challenge the widely accepted approach where a first responder does not capture the RAM of a computer system if found to be powered off at a crime scene. We investigate the presence of confidential data in RAM such as user passwords. Our findings show that even if the computer is switched off but not removed from the mains, the data are preserved. In fact, when a process is terminated but the computer is still operating, the respective data are more likely to be lost. Therefore, capturing the memory could be as critical on a switched off system as on a running one.",
+            "Abstract entirety": 1,
+            "Author pub id": "MkuiHIAAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Inderscience Publishers Ltd"
+        },
+        {
+            "Title": "An architecture for resilient intrusion detection in ad-hoc networks",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2214212619311160",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems (IDS) for ad-hoc networks via the prism of IPv6-enabled Wireless Sensor Actuator Networks. These networks consist of highly constrained devices able to communicate wirelessly in an ad-hoc fashion, thus following the architecture of ad-hoc networks. Current state-of-the-art (IDS) has been developed taking into consideration the architecture of conventional computer networks, and as such they do not efficiently address the paradigm of ad-hoc networks, that is highly relevant in emergent networks, such as the Internet of Things (IoT). In this context, the network properties of resilience and redundancy have not been studied yet. In this work, we firstly identify a trade-off between the communication overhead and energy consumption of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "MkuiHIAAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Elsevier"
+        }
+    ]
+}]

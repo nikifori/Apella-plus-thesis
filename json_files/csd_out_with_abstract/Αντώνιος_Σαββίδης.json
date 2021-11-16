@@ -1,0 +1,1073 @@
+[{
+    "name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b9\u03bf\u03c2 \u03a3\u03b1\u03b2\u03b2\u03af\u03b4\u03b7\u03c2",
+    "romanize name": "Antonios Savvidis",
+    "School-Department": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 10816,
+    "Scholar name": "Anthony Savidis",
+    "Scholar id": "m0b5D28AAAAJ",
+    "Affiliation": "Professor, Computer Science Department, University of Crete (csd.uoc.gr) & ICS-FORTH (ics.forth.gr)",
+    "Citedby": 2504,
+    "Interests": [
+        "Programming Languages",
+        "Software Engineering",
+        "Development Environments"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=m0b5D28AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Mixing Geometrically Diverse Window Managers",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41939-3_70",
+            "Abstract": "Compositing is currently the prevalent rendering paradigm for window managers. It applies off-screen drawing of managed windows with final image composition by the window manager itself. In this context, a compositing system is presented, enabling the concurrent presence of multiple window managers, being arbitrarily nested while facilitating switch managers on-the-fly. Two distinct managers are implemented, 2d desktop and custom 3d book, that can be freely combined into nested hierarchies. To allow such nesting two extensions are introduced. Firstly, the compositing process is turned to a rendering pipeline with window managers directly in-the-loop, with an imaging model combining diverse geometries. Secondly, to facilitate focus control in such geometric spaces, a cascaded pointing translation process is implemented, enabling geometric mapping of pointing events across nested window \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Interactive object graphs for debuggers with improved visualization, inspection and configuration features",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-24028-7_24",
+            "Abstract": "Debugging as a process involves the examination of the runtime state of objects in order to identify potential defects and the way they are actually propagated among objects (infection). Interactive tools improved the overall conduct of the process by enabling users more efficiently and effectively track down state faults. But as systems grow, the runtime state of programs explodes to encompass a huge number of objects. The later requires state inspection following runtime object associations, thus involving graph views. Existing graph visualizers are not popular because they are mostly visualization than interaction oriented, implementing general-purpose graph drawing algorithms. The latter explains why prominent development environments still adopt traditional tree views. We introduce a debugging assistant with a visualization technique designed to better fit the task of defect detection in runtime object \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An integrated platform for the management of mobile location-aware information systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-79576-6_8",
+            "Abstract": "We present an integrated platform comprising a set of authoring and management tools for mobile location-aware information systems. The development of the platform was targeted in supporting large-scale systems with very crowded use sessions, at the scale of hundreds of simultaneous visitors, addressing information delivery for exhibits with proximity down to a couple few meters. The key platform features are: (i) spatial content editing with mixed-mode administration, either mobile (on-site with a PDA) or non-mobile (off-site, using a PC); (ii) system-initiated location-triggered information delivery combined with free user-initiated data exploration; (iii) applicable both indoors and outdoors; (iv) very efficient device renting processes through barcode readers; and (v) multiple location sensing technologies, prioritized according to precision trust (includes WLAN, GPS, and infrared beacons). Currently, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Developing Inclusive e-Training.",
+            "Publication year": 2009,
+            "Publication url": "https://www.researchgate.net/profile/Constantine-Stephanidis/publication/319328605_Developing_Inclusive_e-Training/links/5e9d3914299bf13079aa3f6c/Developing-Inclusive-e-Training.pdf",
+            "Abstract": "The requirement for universal access to software applications and services relates to the employment of appropriate development strategies so as to accomplish accessibility and increased interaction quality at deployment time. Effectively, universal access to e-learning is the outcome of the application of appropriate design and implementation methods in the context of e-learning systems. This Chapter reports consolidated development experience from the construction of training applications for hand-motor impaired users and for people with cognitive disabilities. In this context, the primary emphasis is put on the reporting of the design and implementation aspects, so as to accommodate the inclusive system characteristics, rather than on the typical e-learning software engineering approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unified user interface design: designing universally accessible interactions",
+            "Publication year": 2004,
+            "Publication url": "https://academic.oup.com/iwc/article-abstract/16/2/243/723601",
+            "Abstract": "Designing universally accessible user interfaces means designing for diversity in end-users and contexts of use, and implies making alternative design decisions, at various levels of the interaction design, inherently leading to diversity in the final design outcomes. Towards this end, a design method leading to the construction of a single interface design instance is inappropriate, as it cannot accommodate for diversity of the resulting dialogue artifacts. Therefore, there is a need for a systematic process in which alternative design decisions for different design parameters may be supported. The outcome of such a design process realizes a design space populated with appropriate designed dialogue patterns, along with their associated design parameters (e.g. user- and usage-context-attribute values). This paper discusses the Unified Interface Design Method, a process-oriented design method enabling the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Interacting with the disappearing computer: evaluation of the Voyager development framework",
+            "Publication year": 2003,
+            "Publication url": "https://www.ics.forth.gr/files/publications/technical_reports/2003_TR331_AS-CS.pdf",
+            "Abstract": "We have developed a programming framework named Voyager, for making interactive applications with dynamically composed User Interfaces, consisting of remote input/output elements hosted by environment devices. This framework reflects our perspective of the disappearing computer concept as an infrastructure enabling mobile uses to exploit on the fly any available proximate devices for the purposes of interaction. The evaluation of such a demanding development instrument requires appropriate methods and techniques to validate its appropriateness and usability both as a programming tool, but also with respect to the eventual interactive quality of the applications that can be implemented. In this context, the detailed evaluation process is described, carried out in the context of the 2WEAR Project, employing techniques for software evaluation, process improvement assessment and usability evaluation.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:dshw04ExmUIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Player-defined configurable soft dialogues: an extensible input system for tabletop games",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1936652.1936719",
+            "Abstract": "We present a reusable input system for tabletop games relying on player-defined soft dialogues with touch-based input, minimizing the input device management needs of tabletop games. Dialogues are defined in XML files, including graphical appearance, hot zones, and commands posted to the game. Soft dialogues can be interactively moved on the game terrain, and support animation-based show/hide. Their implementation contact side with the game system concerns:(i) registration of the necessary handlers for commands posted by dialogues;(ii) invocation of the dialogues display function in the game rendering loop; and (iii) request for opening dialogues using logical ids.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Developing inclusive e-learning and e-entertainment to effectively accommodate learning difficulties",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s10209-006-0059-3",
+            "Abstract": "The real-life training of people with learning difficulties is a highly challenging and demanding process that can be effectively improved with the deployment of special-purpose software instruments. This paper discusses the development and evaluation of two inclusive training applications and two games for people with learning difficulties. Namely, the four developed systems are: (a) a cashier training applications; (b) a sewing training applications; (c) an accessible pong game; and (d) an accessible action game. The main objective of the work was to investigate the hypothesis that computer games, as pleasant, motivating and highly engaging interactive experiences, can have a significant role on improving the training of people with learning difficulties, such as attention deficit disorder or Asperger syndrome. The obtained results are very positive and encouraging, and have led to the identification of new \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "An accessible multimodal pong game space",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-71025-7_26",
+            "Abstract": "King Pong is an accessible remake of the classic Pong game, supporting a spatially localized audio environment and force feedback (transforming sound into haptic feedback). It may be played either by one player and the computer as opponent, or by two players. In the two-player mode, the opponents can share the same computer, or alternatively play the game over the network. King Pong also supports recording (logging) and playback of game play activities with time stamps for off-line analysis and evaluation. The game is fully configurable, regarding the auditory grid, the behavior of the force feedback, the graphical appearance and various sound effects. Moreover, different levels of difficulty are supported, affecting speed and the game arena (i.e., circular top-bottom sides). This paper reports the design methodology regarding the spatial auditory grid, as well as the use of force feedback, and discusses \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A process-oriented interactive design environment for automatic user-interface adaptation",
+            "Publication year": 2006,
+            "Publication url": "https://ics.forth.gr/files/publications/antona/2006/Antona_et_al_2006.pdf",
+            "Abstract": "The increased importance of user-interface design methodologies, techniques, and tools in the context of the development and evolution of the Information Society has been widely recognized in recent years in the light of the profound impact that interactive technologies are progressively acquiring on individuals\u2019 lives and activities and of the difficulty in developing usable and attractive interactive products and services (eg, Winograd, 2001; Winograd, Bennett, De Young, & Hartfield, 1996). As the Information Society develops further, the issue of user-interface design becomes even more prominent when considering the notions of universal access (Stephanidis, 2001b) and universal usability (Shneiderman, 2000), aiming at the provision of access to anyone, from anywhere and at anytime, through a variety of computing platforms and devices, to diverse products and services. Design for Universal Access in the Information Society has been defined in recent research efforts as design for diversity (Stephanidis, 2001b), and methods, techniques, and codes of practice have been proposed that enable to proactively take into account and appropriately address diversity of users, contexts of use, and technological platforms in the design of interactive artifacts. One of the main concepts proposed in such a context is that of intelligent user-interface adaptation (Stephanidis, 2001b). In a Universal Access perspective, adaptation needs to be \u201cdesigned into\u201d the system rather than decided upon and implemented a posteriori, implying that the outcome of the design process is not a \u201csingular\u201d design but a design space populated with appropriate alternatives \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Norwood, NJ: Ablex Pub. Corp., 1989-"
+        },
+        {
+            "Title": "Rapid integration of software engineering techniques",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/b136153.pdf",
+            "Abstract": "RISE 2004 was an international forum for researchers and practitioners interested in integrated and practical software engineering approaches that are part of a methodological framework and which apply to both new and evolving applications, technologies and systems. The ERCIM (European Research Consortium for Informatics and Mathematics) RISE working group selected application areas such as the Web, mobility, high availability approaches, embedded approaches and user interfaces in specific industry sectors comprising finance, telecommunications, transportation (avionics, the automotive industry) and e-government. Considered research issues in these areas pertain to the following software engineering domains:\u2013software/system architectures\u2013reuse\u2013testing\u2013model transformation/model-driven engineering\u2013requirements engineering\u2013lightweight formal methods\u2013ASE toolsAll papers submitted to this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "The I-GET UIMS for Unified User Interface Implementation",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12430354722352027064&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Lawrence Erlbaum Associates"
+        },
+        {
+            "Title": "An experiment on teaching coordination in a globally distributed software engineering class",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6816788/",
+            "Abstract": "The importance of planning and management skills in software development is very difficult to convey in software engineering courses. We present the synopsis of an assignment whose purpose is to demonstrate the significance of such skills, including effective communication, team coordination and collaboration, and overall project planning. The assignment is organized in the context of a distributed software engineering course carried out in collaboration with 12 universities in South America, Europe and Africa. The assignment is a globally distributed contest issued before most development activities related to the course's software project are performed, aiming at favoring the collaboration between students prior to project development. The contest does not involve any programming, and is not related to the project development activities. Instead, it consists of making teams in different countries compete in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:p2g8aNsByqUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Game Development as a Serious Game with Live-Programming and Time-Travel Mechanics",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-89394-1_14",
+            "Abstract": "Serious games for programming provide players with some type of algorithmic mechanics to accomplish game challenges. Such mechanics maybe formally algorithmic, or in some cases not theoretically linked to strict programming constructs, although still characterized as programming-related games. We discuss a serious game with visual programming where the primary mission is the development of a simple 2d game. Its primary novelty is the lack of separate build and run cycles. There is only one game mode, with gameplay and game development being inseparable, where every game object can be clicked, live-programmed, and live-edited during play. Additionally, time may be freely rewind and replayed, undoing or redoing internally all related user actions and game state updates. During such time travels, it is allowed to drop the entire history onwards, from any given point in time, and continue \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:hkOj_22Ku90C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Distributed interface bits: dynamic dialogue composition from ambient computing resources",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/article/10.1007/s00779-004-0327-2",
+            "Abstract": "This paper discusses a particular issue in the context of disappearing computing, namely, user mobility. Mobile users may carry with them a variety of wireless gadgets while being immersed in a physical environment encompassing numerous computing devices. In such a situation, it is most likely that the number and type of devices may dynamically vary during interactions. The Voyager development framework supports the implementation of ambient dialogues, i.e., dynamically distributed user Interfaces, which exploit, on-the-fly, the wireless devices available at a given point in time. This paper describes the Voyager implementation, focusing on: device discovery and registry architecture, device-embedded software implementation, ambient dialogue style and corresponding software toolkit development, and a method for dynamic interface adaptation, ensuring dialogue state persistence. Additionally, this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Universal Design in Human-Computer Interaction",
+            "Publication year": 2001,
+            "Publication url": "https://www.researchgate.net/profile/Demosthenes-Akoumianakis/publication/319543747_Universal_Design_in_Human-Computer_Interaction/links/5aba987c0f7e9bad209bbcea/Universal-Design-in-Human-Computer-Interaction.pdf",
+            "Abstract": "In the past, accessibility in Human-Computer Interaction (HCI) was primarily concerned with the selection of suitable equipment to enable alternative computer access for people with disabilities. As a result, it was mainly considered as an afterthought and reflected a reactive approach, whereby Assistive Technology solutions addressed problems introduced by a previous generation of technology (Savidis and Stephanidis, 1995; Stephanidis, 1995; Akoumianakis and Stephanidis, 1999). This reactive approach entails primarily adaptations. Adaptations facilitate access to the interface via suitable mechanisms, such as filtering, dedicated interaction techniques, such as scanning and specialised input/output devices (eg, braille displays, switches, eye-gaze systems). Typically, the result of adaptations includes the reconfiguration of the physical layer of interaction, and when necessary, the translation of the visual interface manifestation to an alternative modality. For example, access to a Graphical User Interface (GUI) by a blind user requires \u201cfiltering\u201d of the contents of the screen, using appropriate software (eg, screen reader), so as to present them in an alternative modality (eg, tactile, audio).Despite the short term benefits that such a posteriori adaptations may bring about, it is important to mention that there are serious shortcomings which render this approach inadequate in the long run. Some of these shortcomings have been identified in the relevant HCI literature. For the purposes of this article, it is important to add the following: First of all, adaptations introduce a programmingintensive approach towards accessibility, which increases the cost of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unified User Interface Development: New Challenges and Oppurtunities",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6486854498984521708&hl=en&oi=scholarr",
+            "Abstract": "This chapter discusses the unified user interface development paradigm as an effective software engineering recipe for user interfaces that can be automatically adapted to individual end users and contexts of use. The distinctive procedural, representational, and programming properties of this development discipline are highlighted, qualifying it as a plausible and cost-effective approach towards the goal of developing automatic user interface personalization. The method conveys a fundamentally new perspective into the development of user interfaces, emphasizing a principled, systematic and evolutionary approach towards coping with diversity, by progressively encapsulating and coordinating in an extensible development structure all alternative interaction artifacts. Finally, the consolidated experience in applying the unified user interface development paradigm in the emerging field of ambient intelligence is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:isC4tDSrTZIC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Supporting virtual interaction objects with polymorphic platform bindings in a user interface programming language",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11423331_2",
+            "Abstract": "Today, there are numerous software patterns for the software engineering of User Interfaces through interaction object classes that can be automatically retargeted to different graphical environments. Such methods are usually deployed in implementing multi-platform User Interface libraries, delivering Application Programming Interfaces (APIs) typically split in two layers: (a) the top layer, encompassing the platform independent programming elements available to client programmers; and (b) the bottom layer, delivering the platform specific bindings, implemented differently for each distinct graphical environment. While multi-platform interaction objects primarily constitute programming generalizations of graphical interaction elements, virtual interaction objects play the role of abstractions defined above any particular physical realization or dialogue metaphor. In this context, a sub-set of a User Interface \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Applying the unified user interface design method in health telematics",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11424628_12",
+            "Abstract": "This Chapter presents an application of the Unified User Interface Design method in the context of Health Telematics. Towards this end, the Chapter first outlines the fundamental objectives, conceptual framework, design process and outcomes of the Unified User Interface design method. Subsequently, the Chapter presents selected fragments of an experimental case study based on: (i) introducing into the MediBridge C-Care scenario elements of user, context of use and interaction platform diversity, and (ii) conducting the Unified User Interface Design process for such a scenario and delivering its outcomes through the use of a support tool.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Collaborative Visual Programming Workspace for Blockly",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9127253/",
+            "Abstract": "The increasing need for programming tasks performed by non-programmers has resulted in various end-user development tools. In this context, visual programming is currently the prevalent paradigm. However, comprehensive collaboration facilities are missing, although necessary, especially in the domains such as teaching and learning. In this paper, we present an integrated workspace supporting collaborative visual programming. Our system allows end-users to easily cooperate on shared visual programming projects. Peer roles, access and edit privileges for project items are supported. Additional features include: personal project items, toggling live syncing during editing and viewing peer action history. Finally, the workspace\u2019s supported collaboration models are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:eq2jaN3J8jMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Meta C++: an extension layer for multi-stage generative metaprogramming.",
+            "Publication year": 2019,
+            "Publication url": "http://www.jot.fm/issues/issue_2019_01/article1.pdf",
+            "Abstract": "Generative metaprogramming is a powerful mechanism for reuse through code manipulation, adaptation and composition. Its practicing is complex, involving development demands similar to any actual system. In C++, metaprogramming is currently practiced with templates, requiring a functional programming style that is in contrast to the imperative object-oriented nature of the main language. Thus, metaprograms bear little resemblance to normal programs, and involve different programming approaches in their development, effectively disabling any possibility for design or code reuse between them. In this paper, we propose MetaC++, an extension layer supporting multi-stage generative metaprogramming for C++, offering the full-range of language constructs for implementing compile-time metaprograms and allowing them to share development practices with normal programs. We present its design and implementation, and outline the importance of such an extension to C++ through a number of advanced application scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improved Model-Driven Engineering of User-Interfaces with Generative Macros",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-07437-5_14",
+            "Abstract": "Model-driven engineering entails various modeling, abstraction and specialization levels for user-interface development. We focus on model-driven tools generating user-interface code, either entire or partial, providing a tangible basis for programmers to introduce custom refinements and extensions. The latter introduces two maintenance issues: (i) once the generated code is modified the source-to-model extraction path, if supported, is broken; and (ii) if the model is updated, code regeneration overwrites custom changes. To address these issues we proposed an alternative path: (i) instead of directly generating code, the model driven tool generates source fragments in the form of abstract syntax trees (ASTs) as XML files; (ii) the application deploys compile-time metaprogramming to manipulate, generate and insert code on-demand from such ASTs, using calls similar to macro invocations. The latter leads \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Interacting with the Disappearing Computer: Interaction Style, Design method, and Development Toolkit",
+            "Publication year": 2002,
+            "Publication url": "https://projects.ics.forth.gr/hci/files/publications/technical_reports/2002_TR317_AS-CS.pdf",
+            "Abstract": "In the context of disappearing computing, the user is engaged in mobile interaction sessions, with wearable machinery, while the software should be able to dynamically utilize distributed remote I/O resources, for the purpose of interaction, that are engaged (ie come and go)\u201conthe-fly\u201d. The technical purpose of this work is to provide the development infrastructure for crafting interfaces that support such disappearing computing behaviour. More specifically, the results of this work concern:(a) an interaction style that is particularly suited to the mobile, distributed and wearable nature of interactive applications;(b) a systematic design method, enabling designers to formulate easily dialogues with concrete interface elements, assuming dynamic engagement through discovery, and optimal utilisation of I/O resources \u201con-the-fly\u201d;(c) an implementation library in the form of an interface toolkit, through which programmers can implement fully working interfaces, that hide all dynamic remote I/O resource management details; and (d) a set of run-time utility components, such as an application manager, being the necessary accompanying run-time instrumentation for dynamic distributed I/O control supporting multiple concurrent applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Tech. Rep. 317, ICS-FORTH, Heraklion, Crete, Greece"
+        },
+        {
+            "Title": "Electronic Educational Books for Blind Students.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12011038634541557140&hl=en&oi=scholarr",
+            "Abstract": "This Chapter introduces the concept of electronic books and the way that they can be used to provide accessible educational textbooks to blind students. First, an overview of available electronic book formats and related reading applications is provided. Then, a novel software platform for developing and interacting with multimodal interactive electronic textbooks is presented. The platform, named Starlight, comprises two sub-systems: the \u2018Writer\u2019, facilitating the authoring of electronic textbooks; and the \u2018Reader\u2019, enabling multimodal interaction with the created electronic textbooks. The Chapter further discusses the competitive features of the supplied functionality compared to existing electronic books and consolidates the key design findings, elaborating on prominent design issues, design rational, and respective solutions, highlighting strengths and weaknesses, and outlining directions for future work.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sharable Personal Automations for Ambient Assisted Living",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3056540.3056560",
+            "Abstract": "The population of elderly people and disabled has exponentially increased thanks to advances of medicine which allow people to live longer and healthier than the previous generations. In this context, Ambient Assisted Living (AAL) applications which promotes independent living is more necessary than ever. Also, the Internet of Things (IoT) proliferates as the dominant technological paradigm for the open deployment of networked smart objects in the environment, including physical things, smart devices and entire applications. In our work, a primary objective was the delivery of an AAL framework on the top of smart objects which uses the full range of IoT technologies. Very early, it became evident that the demand of personalized applications in the context of AAL is very intense. This is mainly due to the highly individualized and fluid nature of the required applications. Along these lines, we focus in providing an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:5ugPr518TE4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A framework for adaptive game presenters with emotions and social comments",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1155/2012/929814",
+            "Abstract": "More and more games today try to adjust their gameplay to fit individual players; however, little work has been carried out in the same direction towards game presenter characters. Game commentary should take into account players' personalities along with game progress in order to achieve social player-adapted comment delivery that boosts the overall gameplay, engages the players, and stimulates the audience. In our work, we discuss a framework for implementing artificial game presenter characters that are based on game actions and players' social profiles in order to deliver knowledgeable, socially oriented comments. Moreover, the presented framework supports emotional facial expressions for the presenters, allowing them to convey their emotions and thus be more expressive than the majority of the commentary systems today. We prove our concept by developing a presenter character for multiplayer \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:a0OBvERweLwC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Supporting cross-language exception handling when extending applications with embedded languages",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-24124-6_8",
+            "Abstract": "Software applications increasingly deploy scripting embedded languages for extensibility, letting introduce custom extensions on top of the original application components. This results in two language layers, the one in which the application is implemented and the embedded language itself in which the extensions are written. During runtime, active calls amongst these two layers may be naturally intermixed, posing challenges for intuitive cross-language exception handling. At present, besides all .NET languages which cooperate by relying on a common language infrastructure, cross-language exception handling is not supported by existing embedded languages like Python, Perl, Ruby and Lua. We discuss the requirements for cross-exception handling and we show how they are accommodated via small-scale amendments in the embedded language API and runtime.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Unified user interface development: the software engineering of universally accessible interactions",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1007/s10209-004-0096-8",
+            "Abstract": "In the information society, the notion of \u201ccomputing-platform\u201d encompasses, apart from traditional desktop computers, a wide range of devices, such as public-use terminals, phones, TVs, car consoles, and a variety of home appliances. Today, such computing platforms are mainly delivered with embedded operating systems (such as Windows CE, Embedded/ Personal Java, and Psion Symbian), while their operational capabilities and supplied services are controlled through software. The broad use of such computing platforms in everyday life puts virtually anyone in the position of using interactive software applications in order to carry out a variety of tasks in a variety of contexts of use. Therefore, traditional development processes, targeted towards the elusive \u201caverage case\u201d, become clearly inappropriate for the purposes of addressing the new demands for user- and usage-context diversity and for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Rapid Integration of Software Engineering Techniques: Second International Workshop, RISE 2005, Heraklion, Crete, Greece, September 8-9, 2005, Revised Selected Papers",
+            "Publication year": 2006,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=tgAICAAAQBAJ&oi=fnd&pg=PA1&dq=info:mvMaaTF6KT8J:scholar.google.com&ots=q23n6xFj_X&sig=6G7HzmDbEcAbvQjz01lEirxSV-8",
+            "Abstract": "RISE 2005 (http://rise2005. ics. forth. gr/) was the second annual inter-national workshop of the ERCIM (European Research Consortium for Informatics and Mathematics-http://www. ercim. org/) Working Group on Rapid Integration of Software Engineering techniques (RISE-http://rise. uni. lu/). RISE is an international forum for researchers and practitioners interested in the advancement and rapid application of novel, integrated, or practical software engineering approaches being part of a methodological framework, which apply to the development of new or evolving applications and systems. RISE provides an opportunity to present and discuss the latest research results and ideas in the rapid and effective integration of software engineering techniques. Target application domains of interest to RISE include:\u2022 Web-based software systems\u2022 Mobile communication systems\u2022 High-availability or mission-critical systems\u2022 Resilient business and grid applications\u2022 Ambient intelligence environments\u2022 Embedded systems and applications\u2022 User interface development\u2022 Development environments\u2022 Electronic entertainment\u2022 Enterprise computing and applications In particular, RISE 2005 focused on an open and inclusive set of key software engineering domains, which formed the focal point of the workshop, including, but not limited to:\u2022 Software and system architectures\u2022 Software reuse\u2022 Software testing\u2022 Software model checking\u2022 Model-driven design and testing techniques\u2022 Model transformation\u2022 Requirements engineering\u2022 Lightweight or practice-oriented formal methods\u2022 Software processes and software metrics\u2022 Automated software engineering\u2022 Design \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:u9iWguZQMMsC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Wearable systems for everyday use",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5777493235508830865&hl=en&oi=scholarr",
+            "Abstract": "You have just landed in Heraklion. As you leave the airport you are handed a CityPass, a small gadget hosting a map application for the city, which you touch with your ID-Key and put away in your pocket. A few seconds later your wristwatch beeps with a message:\" Welcome to Heraklion-the MapGuide can be controlled using your PDA or your wristwatch\".As you stroll downtown, you shoot several pictures, which are tagged with time and location information retrieved from the GPS on your wristwatch. Storage in the camera begins to run out, and the camera informs you that photos are now being stored in the Assistant in your backpack. At the same time, the Assistant silently uploads the photos to your home repository whenever you pass near a public network access point. You meet a friend at a caf\u00e9 and together you browse through the photo collection. You decide to have dinner at an old tavern displayed in one of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development requirements for implementing unified user interfaces",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7943447745737261718&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structured tiles: directed subgraphs of recurring path patterns in board games",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1690388.1690462",
+            "Abstract": "Tiles have been widely used in 2d games as highly recurring primitive small-sized elements used to structure large terrains. In many categories of board games repeating path-patterns are commonly used. In this context, we propose the notion of structured tiles as a systematic way to capture and such express recurring path-patterns. They constitute reusable building blocks of a far larger-scale compared to primitive tiles, embodying both geometric (for terrain formation) and path structure (for game play) information. Technically, structured tiles are subgraphs whose vertices are polygonal areas of a respective tile image. Through structured tiles, terrain composition is essentially graph assembling enabling to perform semantic checking like node connectivity and reachability, or other tests concerning graphs. Finally, common mechanics like plausible path computation, path selection by players, and in-path movement \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Rapid visual design with semantics encoding through 3d CRC cards",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1409720.1409751",
+            "Abstract": "Physical CRC cards (Classes--Responsibilities-Collaborators) is a well-known method for rapid software-design prototyping. It is commonly applied with numeric heuristics to encode design semantics and denote architectural relationships through card coloring, size variations and spatial grouping. Existing CRC design tools are weak in terms of interactivity and visualization, focusing mainly on form-based specification and documentation. We present Flying Circus, a tool for rapid and exploratory software-design prototyping via CRC cards, offering facilities such as: interactive 3d visualizations with zooming, panning and rotational design inspection, 3d card manipulators, and immersive navigation via stereoscopic views. Our tool is accompanied with specific encoding strategies to represent design semantics and exploit spatial memory and visual pattern matching, while emphasizing highly interactive software \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unified design of universally accessible games",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73283-9_67",
+            "Abstract": "This paper describes how the Unified Design method, originally conceived as a means for developing universally accessible user interfaces, can be adapted and applied to the development of universally accessible games. The basic steps for applying the method are presented and explained through illustrative examples. Furthermore, the key differentiations between designing turn-based strategy games and action games are highlighted and the related impact to the application of the design method is explained.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An accessible twoplayer multi-modal board game",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18338432977193031605&hl=en&oi=scholarr",
+            "Abstract": "A multi-modal chess game has been designed and implemented for play between any two players, including people with disabilities (sight-impaired, blind and hand-motor impaired), either locally on the same computer, or remotely over the Internet.Most computer games are quite demanding in terms of the motor and sensor skills needed for interaction control, while they require specific, usually quite complex, input devices and techniques. This fact renders computer games virtually inaccessible to people with disabilities, and in particular to blind people and those with severe motor impairments of the upper limbs. From a technical point of view, two main approaches can be adopted in order to address the accessibility issue:",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A decision-making specification language for verifiable user-interface adaptation logic",
+            "Publication year": 2005,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218194005002646",
+            "Abstract": "In automatic user interface adaptation, developers pursue the delivery of best-fit user interfaces according to the runtime-supplied profiles of individual end users and usage contexts. Software engineering of automatic interface adaptability entails: (a) storage and processing of user and usage-context profiles; (b) design and implementation of alternative interface components, to optimally support the various user activities and interface operations for different users and usage contexts; and (c) runtime decision-making, to choose on the fly the most appropriate alternative interface components, given the particular user and context profile. In automatic interface adaptation, the decision making process plays a key role in optimal on-the-fly interface assembly, engaging consolidated design wisdom in a computable form. A verifiable language has been designed and implemented which is particularly suited for the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:0EnyYjriUFMC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Developing inclusive e-learning systems",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s10209-006-0024-1",
+            "Abstract": "The requirement for e-inclusion relates to the employment of appropriate development strategies for software applications and services so as to accomplish accessibility and increased interaction quality at deployment time. Inclusive e-learning is the outcome from the application of e-inclusion design and implementation methods in the context of e-learning systems. This paper reports consolidated development experience from the construction of the following e-learning systems: (a) training applications for hand-motor impaired users and for people with cognitive disabilities; (b) learner-adapted courseware and (c) a universally accessible educational computer game. In this context, the primary emphasis is placed on the reporting of the design and implementation aspects to accommodate the inclusive system characteristics, rather than on the typical e-learning software engineering approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Towards dynamic and cooperative multi-device personal computing",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-72727-9_9",
+            "Abstract": "The significant technological advances in hardware miniaturisation and data communications change the landscape of computing in a profound way. A rich variety of sensing, storage and processing nodes will soon be embedded in artefacts and clothes worn by people. Numerous computing elements will be integrated in appliances, furniture, buildings, public spaces and vehicles. It now becomes possible to move beyond the physical but also mental boundaries of the desktop, and to develop novel forms of computing that will efficiently support people in their daily activities without constantly being in the center of their attention.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Staged model-driven generators: Shifting responsibility for code emission to embedded metaprograms",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7018508/",
+            "Abstract": "We focus on MDE tools generating source code, entire or partial, providing a basis for programmers to introduce custom system refinements and extensions. The latter may introduce two maintenance issues once code is freely edited: (i) if source tags are affected model reconstruction is broken; and (ii) code inserted without special tags is overwritten on regeneration. Additionally, little progress has been made in combining sources whose code originates from multiple generative tools. To address these issues we propose an alternative path. Instead of generating code MDE tools generate source fragments as abstract syntax trees (ASTs). Then, programmers deploy metaprogramming to manipulate, combine and insert code on-demand from ASTs with calls resembling macro invocations. The latter shifts responsibility for source code emission from MDE tools to embedded metaprograms and enables programmers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:WbkHhVStYXYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A survey of metaprogramming languages",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3354584",
+            "Abstract": "Metaprogramming is the process of writing computer programs that treat programs as data, enabling them to analyze or transform existing programs or generate new ones. While the concept of metaprogramming has existed for several decades, activities focusing on metaprogramming have been increasing rapidly over the past few years, with most languages offering some metaprogramming support and the amount of metacode being developed growing exponentially. In this article, we introduce a taxonomy of metaprogramming languages and present a survey of metaprogramming languages and systems based on the taxonomy. Our classification is based on the metaprogramming model adopted by the language, the phase of the metaprogram evaluation, the metaprogram source location, and the relation between the metalanguage and the object language.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:JoZmwDi-zQgC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Supporting distributed user interfaces in mobile and wearable device ensembles: the 2WEAR experience",
+            "Publication year": 2010,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_mobhci10.pdf",
+            "Abstract": "The 2WEAR project explored the concept of multi-device personal computing where different wearable, portable and fixed devices communicate with each other in an ad-hoc fashion. This paper summarizes the work done to support dynamic yet controlled system formation and dynamic distributed user interfaces, highlighting the most challenging issues. For an overview of 2WEAR the reader is referred to [6].",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "KING PONG towards the inclusion of impaired users in computer games",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Constantine-Stephanidis/publication/220572477_KING_PONG_Towards_the_Inclusion_of_Impaired_Users_in_Computer_Games/links/599c277daca272dff1290b83/KING-PONG-Towards-the-Inclusion-of-Impaired-Users-in-Computer-Games.pdf",
+            "Abstract": "KING PONG, a fully accessible remake of the classic Pong game, has been developed to foster the inclusion of people with disabilities to computer game entertainment. It constitutes a research prototype of innovative display and interaction techniques that are suitable for visually and physically impaired people as well as able-bodied users, thus promoting interaction and gaming between diverse user groups.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Implementation of Live Reverse Debugging in LLDB",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2105.12819",
+            "Abstract": "Debugging is an essential process with a large share of the development effort, being a relentless quest for offensive code through tracing, inspection and iterative running sessions. Probably every developer has been in a situation with a clear wish to rewind time just for a while, only to retry some actions alternatively, instead of restarting the entire session. Well, the genie to fulfill such a wish is known as a reverse debugger. Their inherent technical complexity makes them very hard to implement, while the imposed execution overhead turns them to less preferable for adoption. There are only a few available, most being off-line tools, working on recorded, previously run, sessions. We consider live reverse debuggers both challenging and promising, since they can fit into existing forward debuggers, and we developed the first live reverse debugger on top of LLDB, discussing in detail our implementation approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Personal applications in the internet of things through visual end-user programming",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-49275-8_71",
+            "Abstract": "The Internet of Things is based on ecosystems of networked devices, referred to as smart objects, effectively    enabling the blending of physical things with digital artifacts in an unprecedented way. In principle, endless    automations may be introduced in the context of daily life exploring the numerous opportunities offered by the    deployment and utilization of such smart objects. However, in practice the demands for such automations are highly    personalized and fluid effectively minimizing the chances for building commercially successful general\u2010purpose    applications. In this context our vision is to empower end\u2010users with the appropriate tools enabling to easily and    quickly craft, test and modify the automations they need. In this chapter we initially discuss a few possible future    scenarios for automations relying on smart objects. Then, we elaborate on the visual tools we currently develop,    followed by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:bnK-pcrLprsC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An integrated implementation framework for compile\u2010time metaprogramming",
+            "Publication year": 2015,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2241",
+            "Abstract": "Compile\u2010time metaprograms are programs executed during the compilation of a source file, usually targeting to update its source code. Even though metaprograms are essentially programs, they are typically treated as exceptional cases without sharing common practices and development tools. Toward this direction, we identify a set of primary requirements related to language implementation, metaprogramming features, software engineering support, and programming environments and elaborate on addressing these requirements in the implementation of a metaprogramming language. In particular, we introduce the notion of integrated compile\u2010time metaprograms, as coherent programs assembled from specific metacode fragments present in the source code. We show the expressiveness of this programming model and illustrate its advantages through various metaprogram scenarios. Additionally, we present \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Interface development toolkits for non-visual and switch-based interaction",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=971874581308977651&hl=en&oi=scholarr",
+            "Abstract": "Commercial user interface development toolkits do not provide support for interaction techniques alternative to mouse/keyboard based graphical interaction. Two toolkits, the HAWK toolkit for non-visual interaction and the SCANLIB toolkit for switch-based interaction have been developed at ICS-FORTH.The HAWK toolkit provides a set of standard non-visual interaction objects and interaction techniques that have been specifically designed to support high quality non-visual interaction. HAWK is appropriate for developing not only interfaces targeted to blind users, but also interfaces for a variety of situations in which dialogues not relying on visual communication and standard input devices are required (eg, driving, telephone-based applications, home control auditory interaction). A key notion in HAWK is that of a container interaction object. In the HAWK toolkit there is a single generic container class that does not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The PALIO framework for adaptive information services",
+            "Publication year": 2004,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=zRSsGC8ecAwC&oi=fnd&pg=PA69&dq=info:lTwvgQJgHAAJ:scholar.google.com&ots=ejLr8Ev7CP&sig=3Mn7ixL2heAauFliHp49yfpjjLY",
+            "Abstract": "In recent years, the concept of adaptation has been investigated with the perspective of providing built-in accessibility and high interaction quality in applications and services in the emerging information society [Stephanidis 2001a; Stephanidis 2001b]. Adaptation characterizes software products that automatically configure their parameters according to the given attributes of individual users (eg, mental, motor and sensory characteristics, requirements and preferences) and to the particular context of use (eg, hardware and software platform, environment of use).",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:WF5omc3nYNoC",
+            "Publisher": "John Wiley & Sons, Ltd., Chichester, UK"
+        },
+        {
+            "Title": "Supporting compile-time debugging and precise error reporting in meta-programs",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30561-0_12",
+            "Abstract": "Compile-time meta-programming is an advanced language feature enabling to mix programs with definitions that are executed at compile-time and may generate source code to be put in their place. Such definitions are called meta-programs and their actual evaluation constitutes a compilation stage. As meta-programs are also programs, programmers should be supported in handling compile-time and runtime errors, something introducing challenges to the entire tool chain along two lines. Firstly, the source point of a compile error may well be the outcome of a series of compilation stages, thus never appearing within the original program. Effectively, the latter requires a compiler to track down the error chain across all involved stages so as to provide a meaningful, descriptive and precise error report. Secondly, every compilation stage is instantiated by the execution of the respective staged program. Thus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Artificial game presenter avatars",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1690388.1690478",
+            "Abstract": "We propose artificial game presenter avatars embodying affective behavior to draw player-adapted social feedback during gameplay and introducing extra challenges to players called mini games, such as hangman and random card selection. The avatar's AI was designed as an extension of the traditional sense-think-act loop of game characters to address the need for emotional reflection and adaptive reaction. We provide a cartoon-like 2d delivery for our avatar, however, one could support alternative approaches for rendering and animation.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "More dynamic imperative languages",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1117303.1117305",
+            "Abstract": "We pursue entirely dynamic constructs for imperative object-oriented programming languages by shifting responsibilities from compile-time handling to runtime management. This accounts to the full range of language elements, going beyond statically defined: types, classes, inheritance, and function / operator overloading. The accommodation of the dynamic features in a language named Delta is discussed whose design emphasizes a minimal set of special-purpose language constructs. We demonstrate the way polymorphic higher-order functions, and polymorphic software patterns are directly programmable in a dynamic language context.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:RHpTSmoSYBkC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Universal access in the information society: methods, tools, and interaction technologies",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/article/10.1007/s102090100008",
+            "Abstract": " Accessibility and high quality of interaction with products, applications, and services by anyone, anywhere, and at any time are fundamental requirements for universal access in the emerging Information Society. This paper discusses these requirements, and their relation to the concept of automated adaptation of user interfaces. An example application is presented, showing how adaptation can be used to accommodate the requirements of different user categories and contexts of use. This application is then used as a vehicle for discussing a new engineering paradigm appropriate for the development of adaptation-based user interfaces. Finally, the paper investigates issues concerning the interaction technologies required for universal access.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Integrated implementation of dynamic untyped object\u2010based operator overloading",
+            "Publication year": 2011,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.1025",
+            "Abstract": "Operator overloading, a popular mechanism in the C++ language, is a form of ad hoc polymorphism on operator functions, allowing alternative implementations for different argument types. Classless languages with untyped objects are languages that lack classes and treat all objects as compliant to a common Object type. Languages in this category are flexible, dynamic, and easy\u2010to\u2010use, with popular examples being JavaScript, Lua, and ActionScript (the latter being hybrid by also offering classes). This paper presents an integrated implementation of untyped operator overloading which enable users to handle dynamically the full range of operators on objects. The focus is on features not supported by other languages, such as (i) arithmetic and relational operators allowing to separately handle caller lhs and rhs positions; (ii) an assignment operator with an untyped analogy of type casting; (iii) a slot access \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:ZHo1McVdvXMC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Abstract Interaction Objects in User Interface Programming Languages.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17996214832392112897&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Nested Compositing Window Managers",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-07437-5_15",
+            "Abstract": "Compositing is currently the prevalent rendering paradigm for window managers. It applies off-screen drawing of managed windows with final image composition by the window manager itself. In this context, a compositing system is presented, enabling the concurrent presence of multiple window managers, being arbitrarily nested while facilitating switch managers on-the-fly. Two distinct managers are implemented, 2d desktop and custom 3d book, that can be freely combined into nested hierarchies. To allow such nesting two extensions are introduced. Firstly, the compositing process is turned to a rendering pipeline with window managers directly in-the-loop, with an imaging model combining diverse geometries. Secondly, to facilitate focus control in such geometric spaces, a cascaded pointing translation process is implemented, enabling geometric mapping of pointing events across nested window \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:SP6oXDckpogC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Universally accessible UIs: the unified user interface development",
+            "Publication year": 2001,
+            "Publication url": "https://ics.forth.gr/files/CHI_Tutorial.pdf",
+            "Abstract": "Universally Accessible UIs: The Unified User Interface Development Tutorial agenda \u25c6Introduction \nto Unified User Interfaces In Page 1 ICS-FORTH Slide 1 Universally Accessible UIs: The \nUnified User Interface Development Constantine Stephanidis, Anthony Savidis, \nDemosthenes Akoumianakis Human-Computer Interaction and Assistive Technology \nLaboratory @ ICS-FORTH ICS-FORTH Slide 2 Stephanidis, Savidis & Akoumianakis \nTutorial agenda \u25c6Introduction to Unified User Interfaces \u25c6 Unified User Interface \nDevelopment \u25c6 Universal Access and the Web \u25c6 Challenges and Future Work ICS-FORTH \nSlide 3 Stephanidis, Savidis & Akoumianakis Introduction to Unified User Interfaces - \nagenda \u25c6Universal access \u25c6 Coping with diversity \u25c6 Technical approaches \u25c6 Automatic \nuser interface adaptation \u25c6 The concept of Unified User Interfaces ICS-FORTH Slide 4 \nStephanidis, Savidis & Akoumianakis Society \u2022 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Application invariants: Design by Contract augmented with deployment correctness logic",
+            "Publication year": 2006,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.695",
+            "Abstract": "Design by Contract is a method for the development of robust object\u2010oriented software, introducing class invariants as conditions corresponding to the design axioms that should be satisfied by every valid instance of a class. Additionally, the method states formally the way client programs should correctly utilize supplier classes, so that the composition of correct programs may be accomplished. However, the contextual correctness of supplier instances within client programs, only reflected in the client\u2010specific semantics for supplier\u2010class deployment, cannot be expressed through Design by Contract. For instance, supplier instances satisfying the supplier class invariant may not constitute plausible supplier instances in the context of a particular client program. In this context, we introduce application invariants as an extension to Design by Contract, for hosting the contextual\u2010correctness logic for supplier instances \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:CHSYGLWDkRkC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Dynamic software assembly for automatic deployment-oriented adaptation",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1571066105001507",
+            "Abstract": "The notion of software adaptation considered in this paper relates to the capability of making software systems adjustable to varying deployment requirements. In this context we seek for the necessary runtime infrastructure to allow software systems adapt on the fly to the particular execution requirements. The primary assumption is that the constituent components of a software system may have to be provided with alternative incarnations, each potentially addressing varying deployment needs. In this context, adaptation is treated as a runtime function of the system itself, realising a component and assembly process, since the deployment-specific parameters are only known upon execution start-up.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:dhFuZR0502QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Designing universally accessible games",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1486508.1486516",
+            "Abstract": "Today, computer games are one of the major sources of entertainment. Computer games are usually far more demanding than typical interactive applications in terms of motor and sensory skills needed for interaction control, due to special-purpose input devices, complicated interaction techniques, and the primary emphasis on visual control and attention. This renders computer games inaccessible to a large percentage of people with disabilities. This article introduces the concept of universally accessible games, that is, games proactively designed to optimally fit and adapt to individual gamer characteristics and to be concurrently played among people with diverse abilities, without requiring particular adjustments or modifications. The concept is elaborated and tested through four case studies: a web-based chess game (UA-Chess), an action game (Access Invaders), a universally inaccessible game (Game Over \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:UebtZRa9Y70C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Games with Wireless Dynamically Changing Input/Output Units.(2004, April)",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15566301904440885633&hl=en&oi=scholarr",
+            "Abstract": "In the context of the European Information Society Technology Project 2WEAR the Voyager development framework has been developed to implement interactive pervasive applications with dynamically composed User Interfaces. The focus of the work is on pervasive games using handheld devices.Our work considers the following scenario: a user carries a very small processing unit, eg the size of a credit card, with an embedded operating system (eg Linux) and wireless short-range radio networking (eg BlueTooth\u2122). Additionally, the user may optionally collect any number of wearable wireless gadgets. Once the processing unit is switched on, the system boots and seeks in-range devices capable of hosting interaction. When such devices are detected, they are appropriately employed to support interaction. If at some point some devices move out of range (ie are lost), the system attempts to use the remaining \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unified user interface development",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/772072.772139",
+            "Abstract": "Unified user interface development | The human-computer interaction handbook ACM Digital \nLibrary home ACM home Google, Inc. (search) Advanced Search Browse About Sign in Register \nAdvanced Search Journals Magazines Proceedings Books SIGs Conferences People More Search \nACM Digital Library SearchSearch Advanced Search Browse Browse Digital Library Collections \nMore HomeBrowse by TitleBooksThe human-computer interaction handbook: fundamentals, \nevolving technologies and emerging applicationsUnified user interface development chapter \nUnified user interface development Share on Authors: Constantine Stephanidis Department \nof Computer Science, University of Crete and Institute of Computer Science, Foundation \nfor Research and Technology--Hellas, Greece Department of Computer Science, \nUniversity of Crete and Institute of Computer Science, Foundation for Research and --, , of '\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cognitive and learning difficulties and how they affect access to IT systems",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s10209-006-0058-4",
+            "Abstract": "In October 2005, the IBM Human Ability and Accessibility Center and T.J. Watson Research Center hosted a symposium on \u201ccognitive and learning difficulties and how they affect access to IT systems\u201d. The central premise of the symposium was the recognition that cognitive and learning difficulties have a profound impact on a person\u2019s ability to interact with information technology (IT) systems, but that little support is currently being offered by those systems. By bringing together internationally renowned experts from a variety of different, but complementary, research fields, the symposium aimed to provide a complete overview of the issues related to this topic. This paper summarises the discussions and findings of the symposium.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Rapidly implementing languages to compile as C++ without crafting a compiler",
+            "Publication year": 2007,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.818",
+            "Abstract": "We present a heuristic implementation method for programming languages that is appropriate when the following requirements or conditions are met: (a) there is a need for very rapid development of a language with significant performance demands, while exploiting a comprehensive host language and/or library; (b) need of customized runtime execution environment supporting of execution tracing and visualization instruments; (c) the facilitation of hybrid code exists, such as mixing with the native language, and there is the potential for allowing multiple languages to be deployed concurrently in the same program. This may account for a wide range of domain\u2010specific languages such as learning\u2010oriented, scripting, assembly style, data manipulation, rule\u2010based, or event languages. The proposed technique is presented for the C++ language, supporting the development of languages whose source programs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:70eg2SAEIzsC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Adaptable pluggable multimodal input with extensible accessible soft dialogues for games",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1501750.1501786",
+            "Abstract": "We propose a game input system with two-level multimodality: an action may be performed via a number of virtual input devices, while the latter may be associated to a number of physical input devices that can be plugged or unplugged on-the-fly. Our input system includes a mode manager, capable to dynamically judge if the offered game commands are not possible via the available physical input devices. In such situations, the mode manager automatically activates interactive graphical panels providing all game commands, supporting pointing and switch-based input, the latter accessible by hand-motor impaired users. We refer to such panels as soft input dialogues, offering an automatic, extensible, and adaptable intermediate input layer among the game system and the input devices. Our input system supports pluggability, enabling locally or remotely connected devices to be utilized on-the-fly, a feature \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Complete Block-Level Visual Debugger for Blockly",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-27928-8_43",
+            "Abstract": " Blockly is a visual programming editor by Google, being open-source multi-platform and multi-language, while offering jigsaw-style program blocks. It is very popular and currently adopted by an increasing number of visual development solutions. However, as with similar earlier tools, it lacks a full-scale debugger. We present a complete visual debugger for Blockly, working over blocks, supporting the full range of debugging features as with typical source-level debuggers. To support all tracing functions we make no amendments to the underlying JavaScript engine, supporting all debugging operations through code instrumentation inserting invocations to a busy-wait debugger service loop. The latter affects only the source code that is output by Blockly.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:PELIpwtuRlgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Design for All: Computer assisted design of user interface adaptation",
+            "Publication year": 2006,
+            "Publication url": "https://projects.ics.forth.gr/files/publications/antona/2006/2006_DfA_CS-MA-AS.pdf",
+            "Abstract": "3.1 Unified User Interfaces 3.2 Unified User Interface design 3.2. 1 Polymorphic Task Hierarchies 3.2. 2 The design process 3.2. 3 Design Outcomes 3.2. 4 Applications and support tools 4 Computer-based assistance for conducting Unified User Interface design 5 Practicing Unified User Interface design: Case studies using MENTOR 5.1 The shopping cart case study",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "There is more to PCG than Meets the Eye: NPC AI, Dynamic Camera, PVS and Lightmaps",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1808.00328",
+            "Abstract": "Procedural content generation (PCG) concerns all sorts of algorithms and tools which automatically produce game content, without requiring manual authoring by game artists. Besides generating com-plex static meshes, the PCG core usually encompasses geometrical information about the game world that can be useful in supporting other critical subsystems of the game engine. We discuss our experi-ence from the development of the iOS game title named \"Fallen God: Escape Underworld\", and show how our PCG produced extra metadata regarding the game world, in particular: (i) an annotated dun-geon graph to support path finding for NPC AI to attack or avoid the player (working for bipeds, birds, insects and serpents); (ii) a quantized voxel space to allow discrete A* for the dynamic camera system to work in the continuous 3d space; (iii) dungeon portals to support a dynamic PVS; and (iv) procedural ambient occlusion and tessellation of a separate set of simplified meshes to support very-fast and high-quality light mapping.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Consolidating diverse user profiles based on the profile models of adaptive systems",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2607023.2610284",
+            "Abstract": "Profile-based adaptivity is an important ingredient of interactive systems. Today, although users keep many profiles in different applications, adaptive systems still request them explicitly. While lingua franca methods on profiles are suggested, unless standardized, they are hardly deployed by different vendors. We present an approach to consolidate diverse user profiles based on a profile model that is supplied as input. The latter is instantiated in our Gandalf system, where user profiles from various sources are aggregated, merged and mapped to any given model, by also preserving private user attributes. No common models for profiles are assumed, neither any shared models across adaptive systems are prescribed. Our method uses a thesaurus service, while it proposes lightweight rules for structure matching and conflict resolution to accompany the input profile model. Gandalf is under implementation as a web \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Designing with varying design parameters: The Unified Design process",
+            "Publication year": 2001,
+            "Publication url": "https://www.ics.forth.gr/hci/files/ch12001/savidis.pdf",
+            "Abstract": "Designing on the basis of varying design parameters means that alternative design artifacts may need to be employed for different parameter values. In such situations, the potentially broad range of different parameter values renders impractical the production of distinct design versions. Consequently, there is a need for a design process which is capable of managing diversity within the design act itself. This paper presents the unified design process, which addresses systematically the management of design alternatives, by providing a framework for unifying diverging design decisions, based on the fundamental notion of design polymorphism. The Unified Design Method has been recently proposed and applied in the field of Human-Computer Interaction (HCI) for the purpose of achieving universal access, and in particular for the design of interfaces capable of self-adapting to individual users and usage-contexts. The discussion in this paper will be based on the findings of recent research and development work, while some important issues for future research will be also addressed.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Support for language independent browsing of aggregate values by debugger backends.",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.159.5144&rep=rep1&type=pdf",
+            "Abstract": "The debugger backend is a lower-level language subsystem enabling to control and inspect a program\u2019s execution (debuggee), while the frontend is a higher-level API for backend functionality aiming to support debugger user-interfaces. Existing debugger backends allow retrieve aggregate contents, but are language technology dependent, limiting the chances for producing debugger user-interfaces for other types of languages. For instance, it is common to use reserved type identifiers, like pointer, class, void and enumerated, restricting applicability to languages with no equivalent types. Moreover, in all known backends the aggregate nature of a value is implied by its type, requiring the debugger user-interface developer interpret it according to the language. For example, in Java Debugger Interface an object reference is always assumed to be an aggregate, while in GDB Internals gaining the contents of a memory address requires interpret the pointer type. We resolve such issues by implementing a backend component relying on encoding of aggregates in a language-agnostic way, with no explicit or implicit type information. Our backend supports incremental retrieval of contents, reducing the performance overhead observed in other libraries, like MS Visual Studio Debugger Visualizer Library, serializing entire objects. Our method has been implemented in the backend of the Delta language Debug Architecture (DDA), deployed by the Disco command-line debugger and the Zen graphical debugger, publicly available (details at the end).",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New ERCIM Working Group on'Smart Environments and Systems for Ambient Intelligence'",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6444214514912090489&hl=en&oi=scholarr",
+            "Abstract": "The recently formed Working Group SESAMI focuses on research towards distributing, embedding, coordinating and interactively delivering computing intelligence, while putting people and social contexts at the centre of design considerations. This will result in smart surrounding environments and ubiquitous intelligence.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:Mojj43d5GZwC",
+            "Publisher": "EUROPEAN RESEARCH CONSORTIUM INFORMATICS & MATHEMATICS"
+        },
+        {
+            "Title": "Translating declarative control elements to imperative using'l-value redefinition graphs'",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2103.03309",
+            "Abstract": "We focus on control constructs that allow programmers define actions to be performed when respective conditions are met without requiring the explicit evaluation and testing of conditions as part of an imperative algorithm. Such elements are commonly referred as declarative, not theoretically related to declarative languages. We introduce declarative constructs in the C++ language, presenting the translation method to standard C++. The innovative feature of our method is the accommodation of l-values involving arbitrary pointer / array expressions and objects, supporting immediate runtime evaluation upon content update even if such l-values bind to variant storage locations at runtime. To accomplish this we define 'l-value redefinition graphs', capturing storage binding dependencies among variables, being the floor-plan of our code generation and runtime management approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Yeti: yet another automatic interface composer",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2774225.2774843",
+            "Abstract": "As applications become larger, building their UI is getting harder. While a lot of research focuses on new ways of building UIs, little work focuses on reusing existing UI components to automatically compose large-scale interfaces. This paper introduces Yeti, an automatic UI composer for desktop and android applications written in Java, that adopts a task-driven discipline where task hierarchy denotes component containment and control. We propose the notion of globally unique task identifiers to avoid task naming confusions across components and repositories. To enable applications set mandatory control aspects for the retrieved UI components, we introduce required APIs as part of task definitions. Yeti emphasizes the composition of reusable coarse-grained UI components rather than automatic UI creation from scratch, so no lower-level specifications are deployed. Retrieved and composed components can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A case study in unified user interface development: The AVANTI web browser",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5808523254343932124&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Implementing reusable exception handling patterns with compile-time metaprogramming",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33176-3_1",
+            "Abstract": "We investigate in depth the adoption of compile-time metaprogramming to implement exception handling patterns. It is based on logic that is executed at compile-time and outputs source fragments which substitute the meta-code before compilation. Exception patterns are realized as metafunctions capable to transparently generate the invocation details and the appropriate exception handling layout. This way, programmers are relieved from underlying exception handling details, while the handling patterns can be standardized and directly reused. Pattern libraries of directly editable code are enabled, while the adoption of compile-time metaprogramming allows configuring the pattern deployment within the original client source based on application requirements. We examine key exception handling scenarios and we implement them as configurable and reusable pattern libraries in an existing meta \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Engineering universal access: unified user interfaces",
+            "Publication year": 2001,
+            "Publication url": "https://www.ics.forth.gr/proj/at-hci/CS/files/uahci_2001.pdf",
+            "Abstract": "Anthony Savidis has a B. Sc. in Computer Science, an M. Sc. in Information Systems and Software Engineering, and a Ph. D. in User Interface Development Tools. He is a member of the Human-Computer Interaction and Assistive Technology Laboratory at the Institute of Computer Science, Foundation for Research and Technology\u2013Hellas since 1989, and has been involved in various European collaborative Research and Development projects including: HELIOS-HANDYNET, RACE IPSNI R1066, TIDE GUIB TP103, TIDE GUIB-II TP215, TIDE ACCESS TP1001, and ACTS AVANTI AC042. He is the chief designer/developer of the HOMER UIMS for building Dual User Interfaces, the COMONKIT interface toolkit for Rooms-based non-visual interfaces, the PIM tool for open toolkit integration, and the I-GET UIMS for implementing Unified User Interfaces, the SCANLIB switch-based augmented Windows library, and the HAWK non-visual toolkit supporting open metaphor realisation. His research interest focus on interface implementation languages, development processes and architectures, and interface toolkits for diverse users and computing platforms.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "FastScanner: An accessibility tool for motor impaired users",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-27817-7_118",
+            "Abstract": "People with motor impairments often face difficulties in accessing interactive applications and services. This paper presents a tool, named FastScanner that enables motor-impaired users to work with any application running in Microsoft Windows, without the need of a posteriori modification, through the use of binary switches as an alternative to traditional input devices. Evaluation of the tool has shown that it facilitates effective and efficient interaction.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An Informal Proof on the Contradictory Role of Finalizers in a Garbage Collection Context",
+            "Publication year": 2006,
+            "Publication url": "ftp://139.91.151.43/tech-reports/2006/2006.TR381_Finalizers_and_Garbage_Collection.pdf",
+            "Abstract": "Garbage collection in OOP languages provides facilities to hook code that is executed upon object finalization. Semantically, the point in time that finalizer code is executed is not determined by the application logic, but by the garbage collection system. This fact renders a potential mismatch, since application-specific code, ie the finalizer implementation, normally affecting program state and control flow, is called automatically at a point in time that is indifferent to the application semantics. Although an analogous situation is observed in event-based systems, since event processors are called-back asynchronously by the underlying system, there is a fundamental difference: while event generation is essentially nondeterministic, originated from external event sources, object destruction is a semantic action that is always decided by applications. In summary, the mismatch is that although applications decide if and when destruction occurs, the garbage collector is responsible to commit the relevant code. We prove that this mismatch is due to the contradictory presence of finalizers in a garbage collection context.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introductory teaching of imperative programming through an anthropomorphic computation model",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1083431.1083462",
+            "Abstract": "The introduction to imperative programming for computer science students that possess little or no programming knowledge, involves many teaching challenges to effectively deliver concepts such as algorithm, computation, program variable and program instruction. In this process, students are required to record and assimilate many new concepts and to manipulate symbols and rules having no evident real-world analogy. In this context, we have designed a programming language called Flip (i.e. Front-end language for introduction to programming) having a runtime model that reflects a real-world computation metaphor we call the \"computational servant\". All Flip instructions and definitions are documented as well-defined \"bureaucratic-style\" activities performed by the servant, involving typical office objects like pencil, notebook, eraser, clips, rolling paper and post-it labels. The key metaphoric characteristic of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:35N4QoGY0k4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "An Integrated Approach to Source Level Debugging and Compile Error Reporting in Metaprograms.",
+            "Publication year": 2013,
+            "Publication url": "http://www.jot.fm/issues/issue_2013_08/article2.pdf",
+            "Abstract": "Metaprogramming is an advanced language feature enabling to mix programs with definitions that may be executed either at compiletime or at runtime to generate source code to be put in their place. Such definitions are called metaprograms and their actual evaluation constitutes a compilation stage. As metaprograms are also programs, programmers should be supported in handling compile-time and runtime errors, something introducing challenges to the entire tool chain along two lines. Firstly, the source point of a compile error may well be the outcome of a series of compilation stages, thus never appearing within the original program. Effectively, the latter requires a compiler to track down the error chain across all involved stages so as to provide a meaningful, descriptive and precise error report. Secondly, every compilation stage is instantiated by the execution of the respective staged program. Thus, typical full-fledged source-level debugging for any particular stage should be facilitated during the compilation process. Existing implementations suffer in both terms, overall providing poor error messages, while lacking the required support for debugging metaprograms of any staging depth. In this paper, we outline the implementation of a compile-time metaprogramming system offering all aforementioned facilities. Then, we detail the required amendments to the compilation process and the necessary interaction between the compiler and the tool-chain (IDE). Finally, we discuss how similar functionality could be achieved in systems offering runtime metaprogramming.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The PALIO Framework for Adaptive Information Services",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12211338273426888209&hl=en&oi=scholarr",
+            "Abstract": "In recent years, the concept of adaptation has been investigated with the perspective of providing built-in accessibility and high interaction quality in applications and services in the emerging information society [Stephanidis 2001a; Stephanidis 2001b]. Adaptation characterizes software products that automatically configure their parameters according to the given attributes of individual users (eg, mental, motor and sensory characteristics, requirements and preferences) and to the particular context of use (eg, hardware and software platform, environment of use).",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Wiley"
+        },
+        {
+            "Title": "A Unified Software Architecture for User Interface Adaptation.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15930801829445371630&hl=en&oi=scholarr",
+            "Abstract": "Today, software products support interactive behaviors that are biased toward the typical, or average able-bodied user, familiar with the notion of the desktop and the typical input and output peripherals of the personal computer. 1 is has been the result of software developers\u2019 assumptions regarding the target user groups, the technological means at their disposal, and the types of tasks supported by computers. us, the focus has been on \u201cknowledgeable\u201d workers, capable and willing to use technology in the work environment, to experience productivity gains and performance improvements. e progressive evolution of the information society has invalidated (at least some of) the assumptions in the previous scenario. e fusion between information technologies, telecommunications, and consumer electronics has introduced radical changes to traditional markets and complemented the business demand with a strong \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Decision-Making Specification Language for User Interface Adaptation.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1119870623571606350&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Software refactoring process for adaptive user-interface composition",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1822018.1822023",
+            "Abstract": "Adaptive user-interface composition is the ability of a software system to:(a) compose its user-interface at runtime according to a given deployment profile; and (b) to possibly drop running components and activate better alternatives in their place in response to deployment profile modifications. While adaptive behavior has gained interest for a wide range of software products and services, its support is very demanding requiring adoption of user-interface architectural patterns from the early software design stages. While previous research addressed the issue of engineering adaptive systems from scratch, there is an important methodological gap since we lack processes to reform existing non-adaptive systems towards adaptive behavior. We present a stepwise transformation process of user-interface software by incrementally upgrading relevant class structures towards adaptive composition by treating adaptive \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Enhanced Form of Dynamic Untyped Object-Based Inheritance.",
+            "Publication year": 2008,
+            "Publication url": "http://www.jot.fm/issues/issue_2008_05/article2.pdf",
+            "Abstract": "We present an enhanced form of untyped object-based inheritance for classless languages, as implemented in our Delta language, comparing to the prevalent practices of delegation and embedding. Through a case scenario we reveal a design flaw of delegation that damages polymorphism and extensibility. Then, we show why embedding is impractical for object-based uninheritance (undoing inheritance on individual objects) and non-monotonic object evolution (dynamically adding or removing object members). We introduce dynamic object trees, adopting the metaphoric notions of inheritance from class-based languages, without compromising the compositional flexibility of untyped inheritance. We implement inherit and uninherit as library functions, discussing how our member lookup algorithm preserves monotonicity. Finally, we show that if prototypes are prototypical objects they may break their own invariant. To this end, we propose class objects as a more precise metaphor, implementing in the Delta language a function for dynamic mixin composition of class objects.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Continuity of interaction in nomadic interfaces through migration and dynamic utilization of I/O resources",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/article/10.1007/s10209-002-0025-7",
+            "Abstract": "The concept of ubiquitous computing reflects an infrastructure in which users are engaged in mobile interaction sessions within environments composed of dynamically varying computational resources. In this paradigm, applications are required to continuously follow end users and provide high-quality interaction while migrating among different computing devices and dynamically utilizing the available input/output (I/O) resources of each device. In the context of such interaction scenarios, the principle of continuity, which emphasizes the uninterrupted sequence of dialogue activities, is put forward as a key design goal. This paper presents an application experiment demonstrating interface migration, distributed I/O control, and dynamic I/O reconfiguration. The adopted dialogue design approach is discussed, along with the identified interaction design requirements, from the perspective of dialogue continuity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Dual educational electronic textbooks: the starlight platform",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1296843.1296863",
+            "Abstract": "This paper presents a novel software platform for developing and interacting with multimodal interactive electronic textbooks that provide a Dual User Interface, ie, an interface concurrently accessible by visually impaired and sighted persons. The platform, named Starlight, comprises two sub-systems:(a) the\" Writer\", facilitating the authoring of electronic textbooks, encompassing various categories of interactive exercises (Q&A, multiple choice, fill in the blanks, etc.); and (b) the\" Reader\", enabling multimodal interaction with the created electronic textbooks, supporting various features like searching, book-marking, replay of sentences/paragraphs, user annotations/comments, activity recording, and context-sensitive help. An iterative, user-centered design process was adopted, involving from the very early stages students and educators, resulting in the creation of eight textbooks for the primary and high school that are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development Requirements for Implementing Unified",
+            "Publication year": 2019,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=OA6IDwAAQBAJ&oi=fnd&pg=PA441&dq=info:iwNAYL9a-5EJ:scholar.google.com&ots=Sr42SteRp9&sig=PuxisVcq6dFs3ErQFy-YlDGf0Uo",
+            "Abstract": "This chapterdescribes asetofrequirements forthedevelopmentof Unified User| nterfaces. Therequirements fall into two main clusters:(i) supporting new interaction metaphors; and (ii) manipulating interaction primitives and alternative dialogue components. These clusters are subsequently mapped onto a set of implementation mechanisms and related functional properties, which should be embedded within user interface tools in orderto facilitate the development of Unified User| nter-faces. For each mechanism, we provide a review of the support offered by existing user interface software tools. The analysis identifies strong and weakpoints in existing user interface development tools and points out several future research areas, where additional findings are required in order to provide comprehensive support for the development of Unified User Interfaces.In chapter 19 of this volume, a unified user interface has been defined as an interactive system, which encapsulates alternative (user-and use-adapted) interactive behaviors into a single software implementation. By implication, a unified user interface exhibits the following properties:(a) it encompasses alternative implemented dialogue patterns, depicting alternatives within the design space;(b) it possesses the capability to automatically select the most suitable dialogue pattern based on user-and context-oriented information (ie, task-, user-, and use-specific); and (c) it realizes physical dialogue patterns in ways that are not bound to particular interaction platforms (eg, by \u201clinking\u201d to, rather than directly \u201ccalling\u201d an interaction platform). Moreover, as already pointed out, these properties depict \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:Y5dfb0dijaUC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Adaptation of interactive courseware.",
+            "Publication year": 2001,
+            "Publication url": "https://projects.ics.forth.gr/files/publications/antona/2001/2001_HCII_MA-AS-CS.pdf",
+            "Abstract": "This paper focuses on the notion of content and interaction adaptation in web-based courseware. The adopted perspective is that adaptation should continuously deliver, at any time during the use of the system, the most appropriate interactive learning content to each individual learner. To this purpose, the paper briefly discusses the concept of adaptation in educational applications from the wider perspective of universal access to Information Society Technologies, and discusses some aspects of a proposed architectural framework suitable for supporting content and interaction adaptation in such a context.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:u_35RYKgDlwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic imperative languages for runtime extensible semantics and polymorphic meta-programming",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11751113_9",
+            "Abstract": "Dynamically typed languages imply runtime resolution for type matching, setting-up an effectible ground for type-polymorphic functions. In statically typed object-oriented languages, operator overloading signifies the capability to statically extend the language semantics in the target program context. We show how the same can be accomplished dynamically in the Delta dynamic language, through simple member-function naming contracts. Additionally, we provide a software-pattern for dynamically extensible function semantics, something that cannot be accommodated with static function overloading. We demonstrate how meta-programming, i.e. crafting of parametric program capsules solving generic problems known as meta-algorithms or meta-components, become truly polymorphic, i.e. can accept an open set of parameter values, as far as those dynamically bind to eligible elements compliant to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Multi-Stage JavaScript",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1807.01611",
+            "Abstract": "Multi-stage languages support generative metaprogramming via macros evaluated in a process preceding the actual interpretation or compilation of the program in which they are used. Macros update the source of their hosting program by emitting code that takes their place in the file, while their code may also be produced, fully or partially, by nested macros. All macros at the same nesting belong to the same stage, with the outer stage collecting the macros affect-ing only the main program. We extended JavaScript with staging annotations and implemented them in Spider Monkey, emitting pure JavaScript code as the final outcome of stage computation. We discuss how the original Spider Monkey system is minimally affected with extensions in the syntax, parser and internal AST structures, and the addition of an unparser, a staging loop, some library functions and a debugger backend component for AST inspection. Since stages have a generative metaprogramming role we do not foresee any interplay with the browser DOM, and thus there is no reason to repeat their evalua-tion on every page load. Hence, such JavaScript extensions are meant only for development-time, emitting pure JavaScript code that can be run in any browser. Finally, to enable debugging stages in any browser we implemented a pure JavaScript client, communicating with the extended Spider Monkey, and offering the necessary AST display and unparsing that a browser debugger does not provide.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An integrated development framework for tabletop computer games",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2702109.2633423",
+            "Abstract": "We have implemented an integrated development framework for tabletop computer games focusing on the aspects of terrain composition and input management. To support multiple game genres and varying board setups we propose a generic terrain structure based on a directed graph where each game node is represented by a graph node in the underlying structure. To capture and express the repeating path-patterns commonly found in tabletop games we also utilize reusable building blocks called structured tiles. Structured tiles combine information about graphical representation, geometry as well as path structure, essentially constituting sub-graphs of a respective tile image. In this sense, the terrain is composed by assembling sub-graphs and the resulting complete graph can be used to perform semantic terrain analysis like node connectivity and reachability checks. Finally structured tiles can be used to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:738O_yMBCRsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Automated user interface engineering with a pattern reflecting programming language",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s10515-006-7740-x",
+            "Abstract": "The development of the user interface concerns all aspects of a software system that are targeted to the interactive delivery of its functionality and data. Today, user interface development accounts for a large proportion of the overall software implementation, while the programming process involves various recurring software patterns. Based on the identification of key commonly occurring user interface programming patterns, we have designed and implemented a user interface programming language with built-in constructs to directly support those software patterns, offering declarative programming features such as: precondition-based actions, unidirectional constraints and data-content monitors. Initially, we introduce the deployment syntax and semantics of the novel programming elements, relying upon subject interaction scenarios. Then we reveal the most demanding implementation aspects of the code \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Tile Dreamer: Game Tiles Made Easy",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73279-2_42",
+            "Abstract": "The Tile Dreamer is an integrated tool for creating and managing tiles, being two dimensional recurring constituent components of commonly deployed in structuring tile-based game terrains. The application consists of four basic subsystems: (a) the main tile editor for constructing tiles; (b) the bitmap ripper, automatically computing the least number of tiles for any given bitmap; (c) the connectivity checker, to test how tiles actually fit together to form larger regions; and (d) the tile bitmap builder, to put together a final set of tiles as a single bitmap. We discuss how the design of game tiles through the Tile Dreamer tool becomes easier and more efficient.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Smart Automations for Everybody: When IoT Meets Visual Programming",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3423423.3423470",
+            "Abstract": "The Internet of Things introduced pervasive deployment in the environment of a variety of network connected smart objects. In this context, people's daily lives could benefit by using smart objects which can offer them an environment of automations on their everyday activities. However, in practice, the demands for such automations are so highly personalized and fluid resulting in a respective digital market that is either inexistent or marginal. Our vision in this PhD thesis is to provide end-users with the necessary tools enabling them to easily and quickly craft, test and change the automations they desire. The latter implies end-users to directly manipulate smart objects in a developer perspective, ranging from parameterizing and linking together, to actually programming the control and coordination of a set of smart objects. In this paper, we firstly discuss the background of such tools. Then, we analyze the research \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:WqliGbK-hY8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Access invaders: Developing a universally accessible action game",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11788713_58",
+            "Abstract": "This paper depicts the notion of Universally Accessible Games and presents the development of a related action game entitled Access Invaders. The design of the game\u2019s user interface which accommodates concurrently the needs of people with diverse abilities is described, along with the approach followed to adapt the game logic and content to achieve accessibility. In this context, the concept of Parallel Game Universes is introduced and suggested as a solution for the creation of multiplayer universally accessible action games.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Self model-driven engineering through metaprograms",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2491845.2491872",
+            "Abstract": "In this paper we focus on generative model-driven engineering (MDE) tools and explore the notion of incorporating their deployment directly within the program source through metaprogramming. Our approach is based on the following principles:(i) the MDE tool is invoked as part of the metaprogram evaluation;(ii) instead of generating code, the MDE tool generates source fragments as abstract syntax trees (ASTs);(iii) the generated source fragments are directly inserted into the main program source through generator macros of the metaprogram; and (iv) the resulting program that incorporates both model code and custom application code can be normally compiled to produce the final application. Using this methodology, the metaprogram practically operates as an interactive editor for the program itself. We assess the validity of our approach with proof-of-concept case studies where all MDE deployment is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Programmer-Centric and Task-Optimized Object Graph Visualizer for Debuggers",
+            "Publication year": 2014,
+            "Publication url": "https://www.igi-global.com/chapter/a-programmer-centric-and-task-optimized-object-graph-visualizer-for-debuggers/78728",
+            "Abstract": "Today, existing graph visualizers are not popular for debugging purposes because they are mostly visualization-oriented, rather than task-oriented, implementing general-purpose graph drawing algorithms. The latter explains why prominent integrated development environments still adopt traditional tree views. The authors introduce a debugging assistant with a visualization technique designed to better fit the actual task of defect detection in runtime object networks, while supporting advanced inspection and configuration features. Its design has been centered on the study of the actual programmer needs in the context of the debugging task, emphasizing: 1.) visualization style inspired by a social networking metaphor enabling easily identify who deploys objects (clients) and whom objects deploy (servers); 2.) inspection features to easily review object contents and associations and to search content patterns \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:XiSMed-E-HIC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "The implementation of generic smart pointers for advanced defensive programming",
+            "Publication year": 2004,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.600",
+            "Abstract": "Smart pointers denote a well\u2010known technique for collective resource ownership, e.g. sharing dynamic object instances, while usually supporting automatic garbage collection based on reference counting. The original method has been retargeted to serve as a generic defensive programming method for \u2018exhaustive tracking\u2019 of erroneous pointer use in C++. Automatic bug tracking is supported in a unified manner both for pointers to heap memory, i.e. free storage, as well as for pointers to stack or global memory, i.e. auto or static storage. Overall, the presented technique (a) offers a simple contract for memory allocation and use; (b) supports type and indirection depth genericity; (c) implements most operators supported for built\u2010in pointers with embedded bug defense; (d) offers an alternative way of employing a garbage collection facility for memory leak detection; and (e) provides an appropriate collection of utility \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Automatic Hierarchical Scanning for Windows Applications.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9494520688695354158&hl=en&oi=scholarr",
+            "Abstract": "People with motor impairments often face difficulties in accessing interactive applications and services. This Chapter provides a review of scanning approaches and presents a scanning method-automatic hierarchical scanning-that enables motor-impaired users to work with any application running in Microsoft Windows, without the need of a posteriori modification, through the use of binary switches as an alternative to traditional input devices (ie, keyboard, mouse).The hierarchical scanning method provides access to all the interactive interface elements of a window, based on their place in the hierarchy, by dynamically retrieving the window hierarchical structure. The main advantage of this technique in comparison to other scanning approaches is that it ensures rapid interaction, avoiding the time-consuming sequential access to all the interactive interface elements. Issues related to hierarchical scanning are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Software Requirements for Inclusive User Interfaces.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14896377239593468501&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Training through Entertainment for Learning Difficulties.",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4367104021161072662&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The unified user interface design method",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13716481752766288672&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic Imperative Languages for Runtime Extensible",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9435526169210886776&hl=en&oi=scholarr",
+            "Abstract": "Dynamically typed languages imply runtime resolution for type matching, setting-up an effectible ground for type-polymorphic functions. In statically typed object-oriented languages, operator overloading signifies the capability to statically extend the language semantics in the target program con-text. We show how the same can be accomplished dynamically in the Delta dynamic language, through simple member-function naming contracts. Addition-ally, we provide a software-pattern for dynamically extensible function semantics, something that cannot be accommodated with static function overloading. We demonstrate how meta-programming, ie crafting of parametric program capsules solving generic problems known as meta-algorithms or meta-components, be-come truly polymorphic, ie can accept an open set of parameter values, as far as those dynamically bind to eligible elements compliant to the meta-program design contract. In Delta, inheritance is dynamically supported as a runtime function, without any compile-time semantics, while all member function calls are resolved through late binding. We employ those features to show how Delta supports the imperative programming of polymorphic higher-order functions, such as generic function composers or the map function.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:ye4kPcJQO24C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "AVANTI: a universally accessible web browser.",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8217307503614364913&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design Method",
+            "Publication year": 2019,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=OA6IDwAAQBAJ&oi=fnd&pg=PA417&dq=info:6KESCXUrSiEJ:scholar.google.com&ots=Sr42SteRpb&sig=L-4yhiuwpWgWVnPJie0zhknOmds",
+            "Abstract": "This chapter describes the Unified User Interface design method. This new user interface design method has been developed to enable the \u201cfusion\u201d of different design alternatives, resulting from the consideration of differing end-user attributes and contexts of use, into a single unified form, as well as to provide a design structure which can be easily translated into a targetimplementation by user interface developers. The Unified User Interface design method is elaborated here in terms of its primary objective, underlying process, techniques used, representation, and overall contribu-tions to Human-Computer Interaction design.In its short history, human\u2013computer interaction (HCI) has accumulated a substantial body of knowledge that provides insight into the design of user interfaces. There is an abundance of design techniques that differ with regard to at least two dimensions, namely (a) the underlying science base and (b) the type, range, and scope of design outcomes, as well as the feedback they offer into the (re) design process. Regarding the science base, there are techniques, such the hierarchical task decomposition (P. Johnson, H. Johnson, Waddington, & Shouls, 1988), which are influenced by the human factors evaluation view of information-processing psychology, and others, such as goals, operators, methods, and selection rules\u2014GOMS (Card, PT Moran, & Newell, 1983), task-action grammar\u2014TAG (Payne, 1984), the user-action notation\u2014UAN (Hartson, Siochi, & Hix, 1990), and so on, that adopt the methodological perspectives and assumptions of cognitive science. More recently, less formal techniques, such as inspection \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:eMMeJKvmdy0C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "UA-Chess: A universally accessible board game",
+            "Publication year": 2005,
+            "Publication url": "https://www.academia.edu/download/43518035/UA-Chess_A_Universally_Accessible_Board_20160308-3697-edpcm1.pdf",
+            "Abstract": "UA-Chess is a fully-functional chess game that can be played through a standard Web browser. Its distinctive characteristic is that it is designed to be Universally Accessible, ie, it can be concurrently played by people with different abilities and preferences, including people with disabilities (eg, low-vision, blind and hand-motor impaired). UA-Chess allows for two-player games over the Internet, as well as games with two opponents sharing the same computer, where the game\u2019s user interface (input and output) is adapted to the active player\u2019s profile. The paper first introduces the notions of computer and game accessibility, along with background information and related approaches. Then, software implementation is described. Finally, the paper discusses how accessibility is supported in UA-Chess for different user categories through the game\u2019s interface, its adaptation capabilities and the available alternative input and output modalities.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Runtime Support for a Dynamically Composable and Adaptive Wearable System.",
+            "Publication year": 2003,
+            "Publication url": "http://inf-server.inf.uth.gr/~lalis/papers/2wear_iswc03.pdf",
+            "Abstract": "We present a versatile personal system comprising wearable and portable devices communicating via shortrange radio. The system can be composed in an ad-hoc fashion, by bringing individual devices in proximity with each other. As a consequence it is possible for the user to build the desired system for a given task at hand in a straightforward way, via physical movement and without issuing any explicit configuration commands. System and applications adapt their behavior as a function of the resources provided by the devices that are part of the current system configuration. We give an overview of the runtime support provided to promote development in this highly dynamic setting, with particular focus on adaptive management of storage and user interface resources.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Developing adaptive interfaces for the web",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9792550449669716255&hl=en&oi=scholarr",
+            "Abstract": "The advent of the World Wide Web as a global communication infrastructure enables concurrent access to heterogeneous and distributed information sources through a wide variety of media (hypertext, graphics, animation, audio, video, and so on) and access devices. This evolution has brought about fundamental changes in the way computer-mediated human activities are conceived, designed, developed, and experienced, giving rise to the progressive emergence of the information society. This dynamic evolution is characterized by several dimensions of diversity that become evident when considering the broad range of user characteristics, as well as the changing nature of human activities; the variety of contexts of use; the increasing availability and diversification of information, knowledge sources, and services; the proliferation of diverse technological platforms; and so on. In this context, the\" typical\" computer user can no longer be identified: Information artifacts are used by diverse user groups, including people with different cultural, educational, training, and employment background; novice and experienced computer users; children and older adults; and people with different types of disabilities. Existing computer-mediated human activities undergo fundamental changes and a wide variety of new ones appear, such as access to online information, e-communication, digital libraries, e-business, online health services, e-learning, online communities, online public and administrative services, e-democracy, telework and telepresence, online entertainment, and so on. Similarly, the context of use is changing. The\" traditional\" use of computers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An adaptable circular meta-ide for a dynamic programming language",
+            "Publication year": 2007,
+            "Publication url": "https://projects.ics.forth.gr/hci/files/plang/sparrow.pdf",
+            "Abstract": "Integrated Development Environments (IDEs) are amongst the most popular programming tools, significantly judging the usability, acceptance and popularity of programming languages. Recent trends, reflected in widely used IDEs such as Visual Studio and Eclipse, besides the typical multi-language support, emphasize openness through extensibility and deployment by exposing intrinsic APIs. In this context, we discuss the development of the Sparrow IDE for the Delta dynamic object-based language, supporting some new features that we consider beneficial to programmers:(a) dynamic adaptations and configurations through rules and profiles;(b) extensibility both vertically-replacing or modifying functionality, and horizontally-introducing functionality;(c) circular development-write programs using the IDE which extend and manage the IDE itself; and (d) customized extensibility and deployment to build application-oriented development environments, thus treating Sparrow as a meta-IDE.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Visual end-user programming of personalized AAL in the Internet of Things",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-56997-0_13",
+            "Abstract": "Ambient Assisted Living (AAL) promotes independent living, while the Internet of Things (IoT) proliferates as the dominant technology for the deployment of pervasive smart objects. In this work, we focus on the delivery of an AAL framework utilizing IoT technologies, while addressing the demand for very customized automations due to the diverse and fluid (can change over time) user requirements. The latter turns the idea of a general-purpose application suite to fit all users mostly unrealistic and suboptimal. Driven by the popularity of visual programming tools, especially for children, we focused in directly enabling end-users, including carers, family or friends, even the elderly/disabled themselves, to easily craft and modify custom automations. In this paper we firstly discuss scenarios of highly personalized AAL automations through smart objects, and then elaborate on the capabilities of the visual tools we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Immersive 3d Visualizations for Software-Design Prototyping and Inspection",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-89639-5_84",
+            "Abstract": "In software design, physical CRC cards (Classes \u2013 Responsibilities - Collaborators) is a well-known method for rapid software-design prototyping, heavily relying on visualization and metaphors. The method is commonly applied with heuristics for encoding design semantics or denoting architectural relationships, such as card coloring, size variations and spatial grouping. Existing software-design tools are very weak in terms of interactivity, immersion and visualization, focusing primarily on detailed specification and documentation. We present a tool for visual prototyping of software designs based on CRC cards offering: 3d visualizations with zooming and panning, rotational inspection and 3d manipulators, with optional immersive navigation through stereoscopic views. The tool is accompanied with key encoding strategies to represent design semantics, exploiting spatial memory and visual pattern \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:rO6llkc54NcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Encapsulating intelligent interactive behaviour in unified user interface artefacts",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8160793/",
+            "Abstract": "Intelligence at the level of the user interface is currently being supported through a number of prevalent strands, including adaptive user interfaces, model-based user interface development and interface agents. Moreover, the term intelligent user interface typically implies the notion of dynamically enhancing the interaction with a single implemented artefact to suit different usage patterns, user groups, or contexts of use. This article extends this notion and describes how unified design artefacts can support the development of accessible and high quality user interfaces exhibiting the characteristics of multiple metaphor environments. To this effect, the article outlines the principles of unified user interface development and discusses how it can be used to advance Intelligent Interface Technology to account for diverse user requirements and interaction contexts.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:qjMakFHDy7sC",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Ad-hoc composition in wearable and mobile computing",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1047671.1047708",
+            "Abstract": "Changing computing capabilities can be as easy as changing outfits.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:hFOr9nPyWt4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Inclusive development: Software engineering requirements for universally accessible interactions",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8156002/",
+            "Abstract": "The notion of \u2018universal access\u2019 reflects the concept of an Information Society in which potentially anyone (i.e. any user) will interact with computing machines, at anytime and anyplace (i.e. in any context of use) and for virtually anything (i.e. for any task). Towards reaching a successful and cost effective realization of this vision, it is critical to ensure that the future interface development tools provide all the necessary instrumentation to support inclusive design, i.e. facilitate inclusive development. In the meantime, it is crucial that both tool developers and interface developers acquire awareness regarding the key development features they should pursue when investigating for the most appropriate software engineering support in addressing such a largely demanding development goal (i.e. universally accessible interactions). This paper discusses a corpus of key development requirements for building universally \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:Zph67rFs4hoC",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Software Refactoring Process to Accommodate User-Interface Adaptivity in Existing Applications",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8154868/",
+            "Abstract": "Adaptive user-interfaces are capable of: (a) composing themselves at runtime according to a given deployment profile typically encompassing user and usage-context information and (b) possibly dropping user-interface components and activate better alternatives in their place in response to dynamic profile modifications. While adaptive behavior increasingly gains interest for a wide range of software products and services, its support is very demanding requiring adoption of user-interface architectural patterns from the very early software design phases. While previous research addressed the issue of engineering adaptive interactive applications right from scratch, there is an important methodological gap as we lack processes for the systematic evolution of existing non-adaptive applications to adaptive ones. We present a stepwise transformation process of the user-interface source code by incrementally \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "m0b5D28AAAAJ:P5F9QuxV20EC",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Aspects for Stages: Cross Cutting Concerns for Metaprograms.",
+            "Publication year": 2014,
+            "Publication url": "http://www.jot.fm/issues/issue_2014_03/article1",
+            "Abstract": "In multi-stage languages the program code is finalized though a sequence of transformations defined in the program itself, a process known as staging, with stages also referred as metaprograms. Since stages are essentially programs, they may also require application of aspectoriented methods to handle crosscutting concerns, something not considered or supported in existing aspect systems. We introduce aspect-oriented support for multi-stage languages by identifying three aspect types for the staging pipeline, namely pre-, in-and post-staging. We discuss their implementation in a language supporting compile-time metaprogramming, where aspects are realized as batches of AST transformation metaprograms, accompanied by an AOP-specific library. We also provide example scenarios where the proposed aspect types may be used in practice. Finally, we show how full-scale source-level aspect debugging is facilitated during the program compilation process.",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:UxriW0iASnsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The unified user interface software architecture",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7670938486742465939&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "m0b5D28AAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Lawrence Erlbaum Associates Mahwah, NJ"
+        }
+    ]
+}]

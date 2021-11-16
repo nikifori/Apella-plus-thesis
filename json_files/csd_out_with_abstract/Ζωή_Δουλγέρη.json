@@ -1,0 +1,1218 @@
+[{
+    "name": "\u0396\u03c9\u03ae \u0394\u03bf\u03c5\u03bb\u03b3\u03ad\u03c1\u03b7",
+    "romanize name": "Zoi Doulgeri",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7 & \u039c\u03b7\u03c7 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "auth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18259,
+    "Scholar name": "Zoe Doulgeri",
+    "Scholar id": "ubUmUrcAAAAJ",
+    "Affiliation": "Aristotle University of Thessaloniki",
+    "Citedby": 2326,
+    "Interests": [
+        "Robotic control",
+        "pHRI",
+        "Grasping",
+        "Motion generation"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=ubUmUrcAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Robot joint position tracking with an approximator-free prescribed performance controller",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5983072/",
+            "Abstract": "This work addresses the problem of joint position tracking with prescribed performance guarantees and proposes a novel controller able to guarantee i) predefined minimum speed of convergence, maximum steady state error and over shoot concerning the position tracking error and ii) uniformly ultimate boundedness of the system state. Neither the robot dynamic model nor any approximation structures are utilized in the control law. Control gain lower bounds are dependent on some prior robot knowledge but gain tuning is simplified since the only concern is to adopt those values that lead to reasonable input torques. Simulation results of a 3 dof spatial robotic manipulator are given to confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Slippage detection generalizing to grasping of unknown objects using machine learning with novel features",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8258901/",
+            "Abstract": "Real-time grasp stability is based on successful slippage detection. In this work, we consider slippage detection as a binary problem (slip, stable) and we propose a novel set of temporal and frequential features, extracted from force norm profiles and collected during reliable ground truth labeling processes, finally employed within the machine learning classification techniques. Classification performance of the proposed scheme, with respect to its success and generalization ability, is assessed systematically utilizing different performance metrics that clarify class predictions as opposed to most of the reported works. We show that our proposed feature extraction method improves classification performance over the commonly used feature sets, even when trained with one surface, and generalizes successfully to unseen ones. The trained classifier is tested on a completely new task and object, for real-time slippage \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A neuro-adaptive controller for the force/position tracking of a robot manipulator under model uncertainties in compliance and friction",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4124977/",
+            "Abstract": "In this work, we consider the force and position trajectory tracking for a robot manipulator in compliant contact with a surface in the presence of unknown stiffness and dynamic friction. A novel neuro-adaptive controller is proposed that exploits the approximation capabilities of the linear in the weights neural networks and the uniform ultimate boundedness of force and position error is proved. Simulation results illustrate the performance of the proposed controller",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamics, Contact Motion and Control of Dual Arm Object Manipulation With Soft Rolling Fingertips",
+            "Publication year": 2002,
+            "Publication url": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2002/303/294440",
+            "Abstract": "In this paper a detailed derivation is made of the kinematics and dynamics of a pair of robotic fingers manipulating a rectangular object with soft fingertips that are allowed to roll along the object surface. The whole system is confined to the horizontal plane. Two contact motion models for the soft area contact are considered and it is shown that they significantly affect contact mode and type of finger rolling constraints. A discussion on contact forces and a grasp analysis at object\u2019s equilibrium is made. Last, simple feedback control solutions that have been proposed for stabilizing the grasping and regulating the object\u2019s posture are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Force/position tracking of a robot in compliant contact with unknown stiffness and surface kinematics",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4209741/",
+            "Abstract": "This work deals with the problem of force/position trajectory tracking under uncertainties arising from surface position and orientation. A robotic finger with a soft hemispherical tip of uncertain compliance parameter is considered in contact with a rigid flat surface. A novel adaptive controller is designed using online estimates of the unknown parameters and is proved to achieve force and position tracking by ensuring the convergence of the estimated normal to the surface direction to its actual value. The performance of the proposed controller is demonstrated by a simulation example.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model free force/position robot control with prescribed performance",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5547697/",
+            "Abstract": "In this paper, we consider the force/position tracking problem for a robot in compliant contact with a kinematically known planar surface. We propose a novel controller that achieves predefined performance indices regarding the transient and steady state response of the robot force/position tracking errors and ensures no loss of contact of the robot-end effector. The proposed controller is model free in the sense that it does not incorporate any information regarding either the robot dynamic model or the force deformation model. Moreover, the controller gains are easily selected since the only concern is to adjust them to yield reasonable input torques. Simulation results on a 3-DOF robot confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A passive robot controller aiding human coaching for kinematic behavior modifications",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0736584518303910",
+            "Abstract": "Precise programming of robots for industrial tasks is inflexible to variations and time-consuming. Teaching a kinematic behavior by demonstration and encoding it with dynamical systems that are robust with respect to perturbations, is proposed in order to address this issue. Given a kinematic behavior encoded by Dynamic Movement Primitives (DMP), this work proposes a passive control scheme for assisting kinesthetic modifications of the learned behavior in task variations. It employs the utilization of penetrable spherical Virtual Fixtures (VFs) around the DMP\u2019s virtual evolution that follows the teacher\u2019s motion. The controller enables the user to haptically \u2018inspect\u2019 the spatial properties of the learned behavior in SE(3) and significantly modify it at any required segment, while facilitating the following of already learned segments. A demonstration within the VFs could signify that the kinematic behavior is taught \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:evX43VCCuoAC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "An impedance control modification guaranteeing compliance strictly within preselected spatial limits",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7353673/",
+            "Abstract": "In this work a modification of a Cartesian impedance controller is presented. The proposed controller guarantees compliance of the operated manipulator strictly within preselected spatial limits. Specifically, by introducing a nonlinear stiffness term into the control design, the manipulator is prevented from colliding with an explicitly defined hard boundary, like a human being or a fragile object. When operating in spatial regions sufficiently away from the boundary the manipulator behaves as if it were operated via a linear stiffness impedance controller, thus preserving in these regions its compliance and convergence characteristics. A comparative simulation with a linear stiffness impedance controller is performed to verify and clarify the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Progressive automation of repetitive tasks involving both translation and rotation",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-00232-9_6",
+            "Abstract": "Progressive automation aims at quick and easy programming of repetitive tasks by means of kinesthetic demonstration from an operator. In this paper we address the general case, where the operator demonstrates a task involving motion of both the robot\u2019s wrist position and its orientation, so that the robot progressively transitions from manual into autonomous operation based on the agreement level between consecutive demonstrations. Utilizing unit quaternions, we propose a method that combines dynamic movement primitives for encoding the task space motion with variable stiffness control for continuous role allocation, enabling an operator to easily program task by demonstration. We verify experimentally that a pick and place task with changes in the position and the orientation can be programmed with the proposed method in less than a minute.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A novel DMP formulation for global and frame independent spatial scaling in the task space",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9223500/",
+            "Abstract": "In this work we study the DMP spatial scaling in the Cartesian space. The DMP framework is claimed to have the ability to generalize learnt trajectories to new initial and goal positions, maintaining the desired kinematic pattern. However we show that the existing formulations present problems in trajectory spatial scaling when used in the Cartesian space for a wide variety of tasks and examine their cause. We then propose a novel formulation alleviating these problems. Trajectory generalization analysis, is performed by deriving the trajectory tracking dynamics. The proposed formulation is compared with the existing ones through simulations and experiments on a KUKA LWR 4+ robot.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ipzZ9siozwsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An adaptive law for slope identification and force position regulation using motion variables",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1642242/",
+            "Abstract": "This work proposes an adaptive control law for the force position regulation problem under surface kinematic uncertainties. A compliant contact with friction is considered. The control law achieves exact regulation of force and position along the surface tangent by identifying the surface slope. The asymptotic stability of the closed loop system equilibrium point is proved in a local sense and is demonstrated by a simulation example",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Guaranteeing prescribed performance and contact maintenance via an approximation free robot force/position controller",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109811005401",
+            "Abstract": "In this paper, we consider the problem of force/position tracking for a robot with revolute joints in compliant contact with a kinematically known planar surface. A novel controller is designed capable of guaranteeing, for an a priori known nonsingular initial robot condition, (i) certain predefined minimum speed of response, maximum steady state error as well as overshoot concerning the force/position tracking errors, (ii) contact maintenance and (iii) bounded closed loop signals. No information regarding either the robot dynamic model or the force deformation model is required and no approximation structures are utilized to estimate them. As the tracking performance is a priori guaranteed irrespectively of the control gains selection, the only concern is to adopt those values that lead to reasonable input torques. Finally, a comparative simulation study on a 6-DOF robot illustrates the performance of the proposed controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Modeling and dual arm manipulation of a flexible object",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1308069/",
+            "Abstract": "This paper discusses the problem of modeling a flexible object manipulated by a dual arm system with rolling contacts. The dynamic model of the flexible object is simplified by considering as flexible coordinates the maximum deformation at each contact and assuming that the mass transfer due to deformation can be modeled by two aggregated masses that are deformation dependent and move with the maximum deformation velocity. The overall system kinematics and dynamics are derived. Simple feedback control solutions for stable grasp and regulation of the object's position and orientation proposed for rigid object control are used and shown to achieve the desired state. Simulation results are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A control method for time-variant RCM constraint in hands-on RAMIS procedures",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9480162/",
+            "Abstract": "In robot assisted minimally invasive surgery long instruments are inserted inside the patient\u2019s body through tiny incisions in the patient\u2019s skin. During surgery, it is important to constraint the motion of the instrument not to stress the incision wall to avoid injuring the patient. Hence the incision point is desired to act like a remote center of motion (RCM). The breathing or/and heartbeat function means that the incision point is time-varying. With a general purpose manipulator such desired RCM should be actively imposed by the control function. In this work, we propose a control scheme that achieves this objective for hands-on procedures in which the robot is directly manipulated by the surgeon. The proposed control scheme is proved to satisfy the moving RCM constraint while the controlled robot is passive under the exertion of a human generalized force. Simulation and experimental results are given utilizing a KUKA \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:p__nRnzSRKYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On rolling contact motion by robotic fingers via prescribed performance control",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6631137/",
+            "Abstract": "Dexterity in robot hand object manipulation is irrevocably connected with achieving and maintaining rolling motion and contact at the fingertips. The problem of controlling a robotic fingertip for contact rolling is in this work addressed via the generation of a rolling motion trajectory and the application of a prescribed performance controller that can guarantee contact maintenance and a predefined fast convergence of the rolling tracking error to zero under any contact conditions. A simulation of a five degrees of freedom robot show excellent contact rolling performance even at cases of low friction while alternative controllers lead to contact sliding.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A reversible dynamic movement primitive formulation",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9562059/",
+            "Abstract": "In this work, a novel Dynamic Movement Primitive (DMP) formulation is proposed which supports reversibility, i.e. backwards reproduction of a learned trajectory. Apart from sharing all favourable properties of the original DMP, decoupling the teaching of position and velocity profiles and bidirectional drivability along the encoded path are also supported. Original DMP have been extensively used for encoding and reproducing a desired motion pattern in several robotic applications. However, they lack reversibility, which is a useful and expedient property that can be leveraged in many scenarios. The proposed formulation is analyzed theoretically and its practical usefulness is showcased in an assembly by insertion experimental scenario.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:zLWjf1WUPmwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A position/force control for a robot finger with soft tip and uncertain kinematics",
+            "Publication year": 2002,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.10027",
+            "Abstract": "We consider the position and force regulation problem for a soft tip robot finger in contact with a rigid surface under kinematic and dynamic parametric uncertainties. The reproducing force is assumed to be related to the displacement through a nonlinear function whose characteristics are unknown, but both the actual displacement and force can be directly measured. Kinematic uncertainties concern the rigid surface orientation and the contact point location. Kinematic parameters involved in the contact point location concern the length from the last joint to the contact point and the rest of the link lengths in the general case. An adaptive controller with a composite update parameter law is proposed, and the asymptotic stability of the force and estimated position errors under dynamic and kinematic uncertainties is shown for the planar case. Simulation results for a three\u2010degrees\u2010of\u2010freedom planar robotic finger are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Wiley Subscription Services, Inc., A Wiley Company"
+        },
+        {
+            "Title": "Force/position/rolling control for spherical tip robotic fingers",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7353472/",
+            "Abstract": "The rolling motion of a soft robotic fingertip is in this paper explicitly included in the control objectives together with the force/position regulation targets. A model based control law is proposed to linearize and decouple the system with respect to the force/position and sliding dynamics based on an appropriately defined task Jacobian. The controller is validated by simulations including rolling on a stationary surface and graspless manipulation of a flat object.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human-guided desired RCM constraint manipulation with applications in robotic surgery: A torque level control approach.",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9143738/",
+            "Abstract": "In robot assisted minimally invasive surgery long and slender tools are used, which are inserted inside the patient\u2019s body through tiny incisions in the patient\u2019s skin via a trocar. If a general purpose manipulator is used, the trocar is not rigidly attached to the environment. An active approach is therefore needed to constrain its motion so that the wall of the incision is not stressed. In hands-on manipulation, a human exerts forces on the robot\u2019s end-effector in order to change the position of the tool tip. In these hands-on operations, it is difficult for a human to know which generalized forces, exerted at the manipulators end-effector, would not affect the constraint while achieving the desired tip positioning. We address this problem by proposing a control input at the torque level which ensures the satisfaction of the desired constraint, under the exertion of a human generalized guiding force, while achieving a desired tool tip \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Kinematic control of redundant robots with guaranteed joint limit avoidance",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889016000130",
+            "Abstract": "A novel approach for addressing the inverse differential kinematics of redundant manipulators in the presence of hard joint position constraints is presented. A prescribed performance signal for joint limit avoidance guarantees is proposed that can be utilized with both planned and on-line generated trajectories. In the first case, it is a null space velocity for the primary task velocity mapping while in the second case, it modifies the generated reference by acting on the whole velocity space producing a feasible path to the target. Experimental results utilizing a 7DOF KUKA LWR4+ arm demonstrate the performance of the proposed kinematic controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Prescribed performance adaptive control for robot force/position tracking",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5281169/",
+            "Abstract": "In this paper, we propose an adaptive control law that achieves prescribed performance indices regarding the transient and steady state response of the robot force/position tracking errors and ensures no loss of contact of the robot end effector. A compliant contact with a planar surface is assumed and the control objective is satisfied under parametric uncertainties in the robot dynamics and the force deformation model. Simulation results confirm the theoretical findings and compare the proposed controller with a conventional one.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robot force/position tracking on a surface of unknown orientation",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-78317-6_26",
+            "Abstract": "The problem of robot force and position trajectory tracking is revisited in the case of an uncertain mapping of a surface into the robot space; then, although it is possible to define the desired trajectories with respect to the constraint surface, the lack of knowledge of the constraint direction in the robot space, means that the position and force control subspaces are uncertain. Such a case arises when for example the surface is misplaced. A novel adaptive controller is proposed using estimates of the constraint surface normal direction that converge to the actual value; the controller drives the actual force and position errors to zero given a persistently excited desired velocity on the surface. The performance of the proposed controller is demonstrated by a simulation example.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Robot finger control for rolling on curved surfaces",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7535888/",
+            "Abstract": "In this work the problem of designing a low complexity state feedback controller which enforces the domination of the rolling motion of a spherical robotic fingertip upon a curved surface is considered. Fingertip rolling is essential for robot object fine positioning and manipulation and should be explicitly considered as a control objective. The prescribed performance control methodology is employed. Under the designed controller, the sliding and spinning regime of the robot tip motion is quickly suppressed, a desired position and normal force is reached with prespecified transient and steady state behavior while contact maintenance is guaranteed. Simulations validate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stable pinching by controlling finger relative orientation of robotic fingers with rolling soft tips",
+            "Publication year": 2018,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/stable-pinching-by-controlling-finger-relative-orientation-of-robotic-fingers-with-rolling-soft-tips/D2726275B9DC0995A98E7CB9039DD5B0",
+            "Abstract": "There is a large gap between reality and grasp models that are currently available because of the static analysis that characterizes these approaches. This work attempts to fill this need by proposing a control law that, starting from an initial contact state which does not necessarily correspond to an equilibrium, achieves dynamically a stable grasp and a relative finger orientation in the case of pinching an object with arbitrary shape via rolling soft fingertips. Controlling relative finger orientation may improve grasping force manipulability and allow the appropriate shaping of the composite object consisted of the distal links and the object, for facilitating subsequent tasks. The proposed controller utilizes only finger proprioceptive measurements and is not based on the system model. Simulation and experimental results demonstrate the performance of the proposed controller with objects of different shapes.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Human-robot collaborative object transfer using human motion prediction based on dynamic movement primitives",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8796249/",
+            "Abstract": "This work focuses on the prediction of the human's motion in a collaborative human-robot object transfer with the aim of assisting the human and minimizing his/her effort. The desired pattern of motion is learned from a human demonstration and is encoded with a DMP (Dynamic Movement Primitive). During the object transfer to unknown targets, a model reference with a DMP-based control input and an EKF-based (Extended Kalman Filter) observer for predicting the target and temporal scaling is used. Global boundedness under the emergence of bounded forces with bounded energy is proved. The object dynamics are assumed known. The validation of the proposed approach is performed through experiments using a Kuka LWR4+ robot equipped with an ATI sensor at its end-effector.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:-_dYPAW6P2MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Teaching robotics through an e-learning environment that allowsthe application of e-tutoring guidelines and supports telelab operations.",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13659095528946414016&hl=en&oi=scholarr",
+            "Abstract": "The work that is presented in this paper has investigated the feasibility and the benefits ofdesigning and delivering a course on RoboticsDynamics to a virtual class of students bycombining the application of the guidelines of good practice for delivering courses to such classes with the remote use of physicallaboratory facilities. As a virtual class is defined the class which is formed by studentsspatially distributed to places that are located at different countries and teaching isconducted by the use of a synchronous e-learning environment. According to the opinion of many researchers the application of the e-learning guidelines in delivering the same course content make the students to learn better than in a conventional way of course delivery. The additional inclusion of the execution of lab exercises in the same session with that of the theory and the tutorials introduces another new change in the conventional way of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Neuro-adaptive force/position control with prescribed performance and guaranteed contact maintenance",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5593885/",
+            "Abstract": "In this paper, we address unresolved issues in robot force/position tracking including the concurrent satisfaction of contact maintenance, lack of overshoot, desired speed of response, as well as accuracy level. The control objective is satisfied under uncertainties in the force deformation model and disturbances acting at the joints. The unknown nonlinearities that arise owing to the uncertainties in the force deformation model are approximated by a neural network linear in the weights and it is proven that the neural network approximation holds for all time irrespective of the magnitude of the modeling error, the disturbances, and the controller gains. Thus, the controller gains are easily selected, and potentially large neural network approximation errors as well as disturbances can be tolerated. Simulation results on a 6-DOF robot confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Progressive automation with dmp synchronization and variable stiffness control",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8411480/",
+            "Abstract": "Progressive automation is a method that allows the operator to demonstrate a task a few times until the robot gradually learns to execute it autonomously. In this letter, we combine a novel structure of dynamic movement primitives (DMP) with variable stiffness control, to allow synchronization with the demonstrated motion during the operator's intervention. This structure enables the DMP to speed up or slow down depending on the human demonstration. In addition, we present a variable stiffness controller to change the role of the robot between the follower and the leader based on the tracking error of the robot from the proposed DMP and on the guidance forces. The proposed variable stiffness controller is proved to be passive using energy tanks. The effectiveness of the proposed method is demonstrated experimentally.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:W5xh706n7nkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Kinesthetic guidance utilizing dmp synchronization and assistive virtual fixtures for progressive automation",
+            "Publication year": 2020,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/kinesthetic-guidance-utilizing-dmp-synchronization-and-assistive-virtual-fixtures-for-progressive-automation/7FDFDDABFBCEF8D08C4D2B81D96C9566",
+            "Abstract": "The progressive automation framework allows the seamless transition of a robot from kinesthetic guidance to autonomous operation mode during programming by demonstration of discrete motion tasks. This is achieved by the synergetic action of dynamic movement primitives (DMPs), virtual fixtures, and variable impedance control. The proposed DMPs encode the demonstrated trajectory and synchronize with the current demonstration from the user so that the reference generated motion follows the human\u2019s demonstration. The proposed virtual fixtures assist the user in repeating the learned kinematic behavior but allow penetration so that the user can make modifications to the learned trajectory if needed. The tracking error in combination with the interaction forces and torques is used by a variable stiffness strategy to adjust the progressive automation level and transition the leading role between the human and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:z_wVstp3MssC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Reaching for redundant arms with human-like motion and compliance properties",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889014001390",
+            "Abstract": "This work proposes a redundant arm torque controller for reaching, guaranteeing desired completion time and accuracy requirements without the need for trajectory planning and prior knowledge of robot dynamics. The proposed controller is designed based on the prescribed performance control methodology and it is a reaching regulator in which the target pose for the hand acts as an attractor for the arm. It provides configuration consistency in return motions and hand and joint velocity smoothness. Its use in an admittance control scheme given measurements or estimates of external forces is also proposed providing active compliance capabilities in robot\u2013environment interactions. Simulation studies for a 5dof human arm-like robot and experiments with a 7dof arm are performed to verify the approach and demonstrate the proposed controller\u2019s performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:IWHjjKOFINEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Equilibrium conditions of a polygonal object when grasped by soft-rolling contacts",
+            "Publication year": 2008,
+            "Publication url": "https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/130/2/021011/455803",
+            "Abstract": "In this paper, we study two soft spherical fingertips grasping a rigid polygonal object as a kinematically constrained system. We assume that the contact locations of the soft fingertips are not fixed on the object but are able to move due to rolling constraints. A contact motion model is proposed for soft-rolling fingertips based on previously reported experimental findings on the rolling distance for a variety of soft materials. The equilibrium conditions are derived from the system dynamics and depend on the deformation and on the kind of soft material with regard to the fingertip\u2019s rolling distance characteristics. Also, a discussion on contact forces and a grasp analysis at object\u2019s equilibrium is made. It is shown that using the model of point contact with friction in soft-rolling contacts is not adequate for describing the real system with fingertips of low or medium stiffness characteristics. In general, the equilibrium conditions of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "American Society of Mechanical Engineers Digital Collection"
+        },
+        {
+            "Title": "A model-free controller for guaranteed prescribed performance tracking of both robot joint positions and velocities",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7377028/",
+            "Abstract": "The problem of robot joint position and velocity tracking with prescribed performance guarantees is considered. The proposed controller is able to guarantee a prescribed transient and steady state behavior for the position and the velocity tracking errors without utilizing either the robot dynamic model or any approximation structures. Its performance is demonstrated and assessed via experiments with a KUKA LWR4+ arm.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Real-time event detection in time-series classification based on amplitude rejection",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8466266/",
+            "Abstract": "Classification methods are widely used in several types of applications and a lot of research works report highly accurate results on their ability to predict in unseen data. However, results are usually based on strong assumptions related to data preprocessing that might not hold in real world applications. The training set in practice can significantly differ to that of testing, especially when the classification process is carried out in real-time and the required preprocessing is not applicable without prior knowledge on the testing signals such as its length and amplitude. Sampling methods like sliding or additive window are usually employed, but not always resolve the problem that in many cases results in false positives. This work proposes an algorithm for real-time classification of signals with unknown length, based on a feature transformation that enables the classifier only when the signal's amplitude is within the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:_Ybze24A_UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Performance analysis of a soft tip robotic finger controlled by a parallel force/position regulator under kinematic uncertainties",
+            "Publication year": 2007,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-cta_20050526",
+            "Abstract": "The performance of a modified parallel control scheme is examined under surface kinematic uncertainties using nonlinear stability analysis. The controlled system is a robotic finger with a soft hemispherical fingertip of significant radius in contact with an unknown surface. Analysis of the control system performance shows that force converges to the desired value, whereas position errors stay close to zero and in some cases can even vanish despite uncertainties. Simulation results support the theoretical findings and illustrate the performance of the proposed controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "A robust controller for stable 3D pinching using tactile sensing",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9511836/",
+            "Abstract": "This letter proposes a controller for stable grasping of unknown-shaped objects by two robotic fingers with tactile fingertips. The grasp is stabilised by rolling the fingertips on the contact surface and applying a desired grasping force to reach an equilibrium state. The validation is both in simulation and on a fully-actuated robot hand (the Shadow Modular Grasper) fitted with custom-built optical tactile sensors (based on the BRL TacTip). The controller requires the orientations of the contact surfaces, which are estimated by regressing a deep convolutional neural network over the tactile images. Overall, the grasp system is demonstrated to achieve stable equilibrium poses on various objects ranging in shape and softness, with the system being robust to perturbations and measurement errors. This approach also has promise to extend beyond grasping to stable in-hand object manipulation with multiple fingers.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:4MWp96NkSFoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Regressor-free prescribed performance robot tracking",
+            "Publication year": 2013,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/regressorfree-prescribed-performance-robot-tracking/08948D0BF4722C126B2CCFC006BF9901",
+            "Abstract": "Fast and robust tracking against unknown disturbances is required in many modern complex robotic structures and applications, for which knowledge of the full exact nonlinear system is unreasonable to assume. This paper proposes a regressor-free nonlinear controller of low complexity which ensures prescribed performance position error tracking subject to unknown endogenous and exogenous bounded dynamics assuming that joint position and velocity measurements are available. It is theoretically shown and demonstrated by a simulation study that the proposed controller can guarantee tracking of the desired joint position trajectory with a priori determined accuracy, overshoot and speed of response. Preliminary experimental results to a simplified system are promising for validating the controller to more complex structures.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Prescribed performance tracking of a variable stiffness actuated robot",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7051223/",
+            "Abstract": "This paper is concerned with the design of a state feedback control scheme for variable stiffness actuated (VSA) robots, which guarantees prescribed performance of the tracking errors despite the low range of mechanical stiffness. The controller does not assume knowledge of the actual system dynamics nor does it utilize approximating structures (e.g., neural networks and fuzzy systems) to acquire such knowledge, leading to a low complexity design. Simulation studies, incorporating a model validated on data from an actual variable stiffness actuator (VSA) at a multi-degrees-of-freedom robot, are performed. Comparison with a gain scheduling solution reveals the superiority of the proposed scheme with respect to performance and robustness.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Nonlinear manipulation control of a compliant object by dual fingers",
+            "Publication year": 2006,
+            "Publication url": "https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/128/3/473/471416",
+            "Abstract": "This paper refers to the control of the position and contact forces of a compliant rectangular object grasped by a pair of robot fingers for the planar case, using input-output feedback linearization techniques. Point contact with friction is assumed and the linearizing control is designed for the case of controlling the object position and grasping force and then extended to include the constraint forces and the object orientation. In the last case, an appropriate output transformation is proposed to avoid the singularity of the decoupling matrix and apply the method successfully. This work considers the planar case and provides simulation results that confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prescribed performance regulation for robot manipulators",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015306972",
+            "Abstract": "A new controller for the joint position regulation of robot manipulators is proposed that achieves prescribed performance indices regarding the response of the joint position error. The control input incorporates a transformed error that ensures prescribed error performance which is not affected by constant disturbances and control gains. Control parameter selection is significantly simplified and is merely confined in achieving admissible input torques. A simulation example of a two degree of freedom robot is used to illustrate the theoretical results and compare the proposed controller with conventional control schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:dhFuZR0502QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Picking up flexible pieces out of a bundle",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1019486/",
+            "Abstract": "The paper describes a robotic-arm gripper with soft-tipped fingers to perform human-like grasps of flexible material pieces out of an unordered bundle. The primary purpose is to achieve the stability and robustness of a human-like grasp with a simple and cost-effective gripper. The work has been stimulated by the handling problem present in the fur-tanning industry.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human-robot collaborative object transfer using human motion prediction based on Cartesian pose Dynamic Movement Primitives",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2104.03155",
+            "Abstract": "In this work, the problem of human-robot collaborative object transfer to unknown target poses is addressed. The desired pattern of the end-effector pose trajectory to a known target pose is encoded using DMPs (Dynamic Movement Primitives). During transportation of the object to new unknown targets, a DMP-based reference model and an EKF (Extended Kalman Filter) for estimating the target pose and time duration of the human's intended motion is proposed. A stability analysis of the overall scheme is provided. Experiments using a Kuka LWR4+ robot equipped with an ATI sensor at its end-effector validate its efficacy with respect to the required human effort and compare it with an admittance control scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards progressive automation of repetitive tasks through physical human-robot interaction",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-89327-3_12",
+            "Abstract": "In this paper, a novel method is developed that enables quick and easy programming in repetitive industrial tasks, through kinesthetic demonstration from the operator. The robot learns the task cycle with the assistance of haptic cues and progressively transitions from manual into autonomous operation using a novel variable stiffness control strategy and assistive virtual fixtures. The training process, requires a small amount of iterations, decreasing dramatically the typical robotic programming time. In the experimental evaluation, an operator is able to program a pick and place task in less than a minute, without requiring any interaction with a user interface or pre-programming of the task sequence.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Toward an Intuitive and Iterative 6D Virtual Guide Programming Framework for Assisted Human-Robot Comanipulation",
+            "Publication year": 2020,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10211180336621727790&hl=en&oi=scholarr",
+            "Abstract": "In human-robot comanipulation, virtual guides are an important tool used to assist the human worker as they constrain the movement of the robot to improve the task accuracy and to avoid undesirable effects, such as collisions with the environment. Consequently, the physical effort and cognitive overload are reduced during accomplishment of comanipulative tasks. However, the construction of virtual guides often requires expert knowledge and modeling of the task, which restricts the usefulness of virtual guides to scenarios with fixed constraints. Moreover, few approaches have addressed the implementation of virtual guides enforcing orientation constraints and, when done, these approaches have treated translation and orientation separately, and consequently there is no synchronization of the translational and rotational motions. To overcome these challenges and enhance the programming flexibility of virtual \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:vDijr-p_gm4C",
+            "Publisher": "CAMBRIDGE UNIV PRESS"
+        },
+        {
+            "Title": "Adaptive control of robot contact tasks with on-line learning of planar surfaces",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109809003173",
+            "Abstract": "In robot constrained motion problems on planar surfaces with frictional contacts, uncertainties on the contacted surface not only affect the control system performance but also distort control targets. The surface normal direction cosines are in this case uncertain parameters that are involved in both the control law and the control targets. This work proposes an adaptive learning controller that uses force and joint position/velocity measurements to simultaneously learn the surface orientation and achieve the desired goal. Simulation examples for a 6 dof robot are used to illustrate the theoretical results and the performance of the proposed controller in practical cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "On the stability of robot kinesthetic guidance in the presence of active constraints",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8550131/",
+            "Abstract": "The stability of a robot subject to active constraints under the exertion of a human force is analyzed. Artificial potentials that are used to create a barrier on constraint surfaces are revisited and the robot's stability in the presence of active constraints is examined in terms of output passivity and state boundedness. It is shown that under input forces of finite energy the state is bounded and hence the motion is confined within the constraint region. However, the quality of response depends on the type of input and may include undesirable transients for physical human robot interaction (pHRI) applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamics and control of a set of dual fingers with soft tips",
+            "Publication year": 2000,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/dynamics-and-control-of-a-set-of-dual-fingers-with-soft-tips/76A58C6111C0418A4DE1B2532F1B5E62",
+            "Abstract": "This paper attempts firstly to derive a mathematical model of the dynamics of a set of dual fingers with soft and deformable tips which grasps and manipulates a rigid object with some dexterity. To gain a physical insight into the problem, consideration is restricted to the case that the motion of the whole system is confined to a horizontal plane. Secondly on the basis of the derived model it is shown that the rotation of the object can be indirectly controlled by the change of positions of the center points of both contact areas on the object. Then, each of the center points of contact areas can be positioned by inclining the last link of each corresponding finger against the object. It is further shown that, when both forces of pressing the object becomes almost equal, the equation of motion of the object in terms of rotational angles assumes the form of a harmonic oscillator with a forcing term, which can be regulated coordinately \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Guaranteed active constraints enforcement on point cloud-approximated regions for surgical applications",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8793953/",
+            "Abstract": "In this work, a passive physical human-robot interaction (pHRI) controller is proposed to intraoperatively ensure that sensitive tissues will not be damaged by the robot's tool. The proposed scheme uses the point cloud of the restricted region's surface as constraint definition and Artificial Potential fields for constraint enforcement. The controller is proven to be passive with respect to the interaction force and to guarantee constraint satisfaction in all cases. The proposed methodology is experimentally validated by the kinesthetic guidance of a KUKA LWR4+ robot's end-effector driving a virtual slave KUKA in the vicinity of a 3D point-cloud of a kidney and its adjacent vessels.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:35r97b3x0nAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance tracking for flexible joint robots with unknown dynamics and elasticity",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6224642/",
+            "Abstract": "In this paper a novel type of tracking controller for flexible joint robots is proposed. Joint elasticity is considered unknown and may be time varying. Robot and motor dynamics are also considered unknown. The controller guarantees link position performance specifications that have been a-priori set utilizing full state feedback. Simulation on a two link flexible joint robot validate the efficiency of the proposed control approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A human inspired stable object load transfer for robots in hand-over tasks",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7353417/",
+            "Abstract": "A human-inspired hand-over control strategy is proposed for the haptic interaction of two dual-fingered hands for the planar case. It is based on a grasp controller for an unknown object which achieves, via fingertip rolling, a stable grasp and a real object mass estimation. Object load transfer is receiver initiated, follows human evidence and involves awareness of the other hand's state based solely on local proprioceptive measurements. Simulation results illustrate the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Grasping control of rolling manipulations with deformable fingertips",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1206485/",
+            "Abstract": "This paper deals with the problem of stable grasping in rolling manipulations with soft deformable fingertips in two-dimensional space and without the effect of gravity. Two rolling distance models for the soft-area contact motion and their effect on contact kinematics are considered. The modeling of contact forces in soft-area contacts is discussed and an analysis of a stable grasp is made. A simple feedback controller for stabilizing the grasp is proposed and tested in simulation. The control law is based on the object's equilibrium conditions and is designed so that it drives the system at rest by achieving a desired value for the normal contact forces and appropriate tangential forces to balance the moments created by the contact offset.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Contact stability analysis of a one degree-of-freedom robot using hybrid system stability theory",
+            "Publication year": 2005,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/contact-stability-analysis-of-a-one-degreeoffreedom-robot-using-hybrid-system-stability-theory/49B13769BD09213116C238979D47F697",
+            "Abstract": "In this work, the elementary task of controlling the contact of a one degree-of-freedom (dof) robot with a compliant surface is modeled as a switched system. A position controller is used for the free motion and a force controller for the contact task and the goal is to stabilize the robot in contact with the spring-like environment while exerting a desired force. As the robot makes or breaks contact, the control law switches accordingly and the aim is to examine the system's stability using ideas from hybrid stability theory. By considering typical candidate Lyapunov functions for each of the two discrete system states, conditions on feedback gains are derived that guarantee Lyapunov stability of the hybrid task. It is shown that conditions can be decoupled with respect to the discrete state only when the more general hybrid stability theorems are used.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "PID type robot joint position regulation with prescribed performance guaranties",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5509676/",
+            "Abstract": "This paper proposes a PID type regulator that achieves not only the global asymptotic convergence of the robot joint velocities and position errors to zero but it also guarantees a prescribed performance for the position error transient that is independent of system constants and control parameters. The proportional term of the control input uses a transformed error (TP) which incorporates the desired performance function; given sufficiently high proportional and damping gains, the proposed TPID controller ensures the position error's prescribed performance irrespective of constant disturbances and choice of control gains. Control parameter selection is merely confined in achieving admissible input torques. Simulation results for a three dof spatial robot confirm the theoretical analysis and illustrate the robustness of the prescribed performance regulator in case of time-variant bounded disturbances.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Smooth reaching and human-like compliance in physical interactions for redundant arms",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-02675-6_12",
+            "Abstract": "This work collectively addresses human-like smoothness and compliance to external contact force in reaching tasks of redundant robotic arms, enhancing human safety potential and facilitating physical human-robot interaction. A model based prescribed performance control algorithm is proposed, producing smooth, repeatable reaching movements for the arm and a compliant behavior to an external contact by shaping the reaching target superimposing the position output from a human-like impedance model. Simulation results for a 5dof human-arm like robot demonstrate the performance of the proposed controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Dynamical system based robotic motion generation with obstacle avoidance",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7812711/",
+            "Abstract": "The problem of real-time motion generation to a target with obstacle avoidance is considered. A second-order dynamical system having the target as a unique globally asymptotically stable equilibrium is modified in the presence of obstacles by an additive signal whose design is based on the prescribed performance control methodology. It is proved that obstacle avoidance and dynamical system stability are guaranteed and that the target remains asymptotically stable. Simulations are utilized to reveal the cases where the proposed scheme outperforms the modulated dynamical system and the constrained optimization priority framework. Experimental results further validate the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A kinematic controller for human-robot handshaking using internal motion adaptation",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7139986/",
+            "Abstract": "This work proposes a kinematic control method for human-robot handshake motions achieving fast motion synchronization given a preset internal robot handshake motion and a compliance level that reflects the robot's level of passiveness. The proposed method combines a non-linear dynamic system having an attractive limit cycle with an admittance controller and an adaptation mechanism so that interaction forces are minimized and a consensus oscillation is achieved between the engaging participants. The proposed method is validated by experimenting with a KUKA LWR4+ 7dof arm under various scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:BqipwSGYUEgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive control for frictional robot contact tasks on uncertain surface slopes",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4602184/",
+            "Abstract": "In robot constrained motion problems with frictional contacts, uncertainties on the contacted surface slope distort control targets and affect the control system performance. The surface normal direction cosines are in this case uncertain parameters that are involved in both the control law and the control targets. This work proposes an adaptive controller that achieves the desired goal given a persistently excited tip velocity magnitude on the surface by achieving the convergence of the estimated direction parameters to their actual values. The controller requires measurements of total force and joint variables. A simulation example for a 6 d.o.f. robot is used to illustrate the theoretical results.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A controller for stable grasping and desired finger shaping without contact sensing",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6907389/",
+            "Abstract": "This paper proposes a controller for the stable grasp of an arbitrary-shaped object on the horizontal plane by two robotic fingers with rigid hemispherical fingertips. The controller stabilizes the grasp with optimal force angles and desired finger shaping determined through the choice of a control constant without requiring the utilization of any contact information regarding contact locations and contact angles or any estimates of them. Simulation results demonstrate the performance of the proposed controller and show its clear advantages with respect to other known control schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed contact establishment of a robot with a planar surface under position and stiffness uncertainties",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889017308266",
+            "Abstract": "Robot arms that operate in unstructured and dynamic environments often need to establish contact with a planar surface, while avoiding the appearance of excessive contact forces. This is a difficult task given that exact knowledge of the robot or the environment model parameters is not available. In this paper a novel, continuous in time, controller is designed, capable of establishing and maintaining contact of the robot with a planar surface of unknown stiffness and position. The proposed control scheme guarantees that the resulted contact force, normal to the surface, is a priori bounded by user-defined bounds, while imposing prescribed transient and steady-state performance attributes on the post-contact position and orientation error response. All remaining closed-loop signals are also kept bounded. The controller is validated via experimental studies performed on a KUKA LWR 4+ robot. Additionally, a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:JQOojiI6XY0C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Development, integration and evaluation of a web-based virtual robot task simulator in the teaching of robotics",
+            "Publication year": 2009,
+            "Publication url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7424518",
+            "Abstract": "A web-based virtual robot task simulator has been developed and used in the teaching of robotics through lab demonstrations and a set of lab assignments. The simulator allows a high degree of real time interaction with a virtual robot that can be commanded to perform a number of pick and place operations on virtual objects replicating an existing industrial robot manipulator. A unique characteristic of the system is that, apart from using high level robot motion commands like the real robot, it allows a simplified graphical input of target positions and orientations to define a gripper path. It also encourages interaction and collaborative problem solving. Empirical evidence shows that the effectiveness of the learning program is increased by the enhanced motivation and interest of the students and through their improved learning capabilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Instituto de Relaciones Internacionales\" Daza de Valdes\""
+        },
+        {
+            "Title": "A controller to achieve robotic soft fingertip rolling and position/force regulation using motion variables",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7068697/",
+            "Abstract": "In this paper we are concerned with the problem of fine positioning of a soft robotic fingertip on a flat rigid surface by evoking a rolling motion while regulating force. A simple control law is proposed that uses a reference rolling trajectory that is state dependent. The non-linear asymptotic stability of the system equilibrium is proved. Computer simulation for a planar revolute robotic finger with 3 d.o.f has been performed in order to verify the effectiveness of the control law.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic movement primitives for moving goals with temporal scaling adaptation",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9196765/",
+            "Abstract": "In this work, we propose an augmentation to the Dynamic Movement Primitives (DMP) framework which allows the system to generalize to moving goals without the use of any known or approximation model for estimating the goal\u2019s motion. We aim to maintain the demonstrated velocity levels during the execution to the moving goal, generating motion profiles appropriate for human robot collaboration. The proposed method employs a modified version of a DMP, learned by a demonstration to a static goal, with adaptive temporal scaling in order to achieve reaching of the moving goal with the learned kinematic pattern. Only the current position and velocity of the goal are required. The goal\u2019s reaching error and its derivative is proved to converge to zero via contraction analysis. The theoretical results are verified by simulations and experiments on a KUKA LWR4+ robot.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Controller to Impose a RCM for Hands-on Robotic-Assisted Minimally Invasive Surgery",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9422795/",
+            "Abstract": "In Robotic-Assisted Minimally Invasive Surgery a long and thin instrument attached to the robotic arm enters the human body through a tiny incision. To ensure that no injury occurs when the surgeon is manipulating the instrument, the incision point must be a remote center of motion (RCM) for the instrument. For this purpose, a novel target admittance model is designed in the joint space for hands-on procedures that can be applied in all commercially available general-purpose manipulators with six or more degrees of freedom. It is proved that the joint reference trajectories generated by the proposed target admittance model under the exertion of a human force are stable and satisfy the RCM constraint. The measurements of the human force and the robot\u2019s forward kinematic model are only required. Its use spans all hands-on surgical procedures. The proposed model can be easily extended to achieve additional \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:ML0RJ9NH7IQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A machine learning framework for real-time identification of successful snap-fit assemblies",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804377/",
+            "Abstract": "Snap-fit assemblies are widely used in the manufacturing of several product types, allowing part joining, while the parts remain unprocessed. The locking mechanism of a snap-fit is usually done within the object structure, not allowing visual identification of the successful process completion. Humans consider the forces developed between the two parts or the snapping sound, as an indication of success. This is difficult to realize in robotic assembly, and the process success is usually identified at a product quality control stage. The aim of this article is to migrate the human ability to identify a successful snap assembly to autonomous robotic assembly, via a machine learning framework, enabled by human-robot collaboration for rich data collection and labeling. The proposed framework allows learning while minimizing complexity, cost, and time. A generic feature set is proposed, which can produce good \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance control for robot joint trajectory tracking under parametric and model uncertainties",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5164728/",
+            "Abstract": "This work proposes a control law for the robot joint trajectory tracking in free space that achieves a prescribed performance of the joint position error under parametric uncertainties; the control law is extended for the case of bounded disturbances. A performance function incorporating predefined performance indices is used to produce a transformed error that is injected in the controller. Furthermore, asymptotic stability of the velocity error in case of zero disturbances and uniformly ultimate boundedness in an arbitrarily small region for bounded disturbances is achieved. Simulation results confirm the theoretical findings and compare the proposed controller with a conventional one.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A passivity based control signal guaranteeing joint limit avoidance in redundant robots",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7535862/",
+            "Abstract": "In this work we propose a torque control signal that guarantees joint limit avoidance of a redundant arm. Its design is based on the prescribed performance control methodology that enables guarantees on the satisfaction of inequality constraints regarding the system output. It is proved that the proposed signal preserves the passivity of closed loop robot dynamics with respect to joint velocities thus allowing its use with any passive control law designed to attract the robot towards a task goal. Experimental results with a KUKA LWR4+ for a task involving the tip's position motion along a linear path confirm theoretical findings and demonstrate the proposed signal's performance in two scenarios of a feasible and an unfeasible path.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving simulation project efficiency using web technology",
+            "Publication year": 2002,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/0037549702078009004",
+            "Abstract": "It is argued that Web technology may support all the actors involved in and all the stages carried out during a simulation project. To demonstrate this, a prototype manufacturing system simulator has been designed upon recognizing that in any simulation project, many people with different views are involved. The explicit expression of the simulation participants\u2019 roles, knowledge, views, and opinions during the initial stage of a simulation project is important, while the identification and resolution of possible conflicts between their views and opinions are crucial for the success of the project. The blackboard model is employed for modeling the communication between the simulation participants. The use of such a simulation environment has an immediate effect on the project lead time, the project monitoring ability, the collection and dissemination of the information gathered and generated during the simulation project \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Sage Publications"
+        },
+        {
+            "Title": "Force/position tracking for a robotic finger in compliant contact with a surface using neuro-adaptive control",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4776881/",
+            "Abstract": "In this work, the problem of force/position tracking for a robotic finger in compliant contact with a surface under non-parametric uncertainties is considered. In particular, structural uncertainties are assumed to characterize the compliance model as well as the robot dynamic model. A novel neuro-adaptive controller is proposed that exploits the approximation capabilities of the linear in the weights neural networks and the uniform ultimate boundedness of force and position error is proved. Simulation results illustrate the performance of the proposed controller",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A pHRI Framework for Modifying a Robot's Kinematic Behaviour via Varying Stiffness and Dynamical System Synchronization",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8442577/",
+            "Abstract": "In this work, we propose a robot control framework for modifying a desired robot kinematic behavior encoded in dynamical movement primitives (DMP) by physically interacting with the robot during its autonomous operation. The proposed method is based on variable stiffness and DMP time synchronization with the user during the interaction. The overall controlled system is proved to be stable. After the user stops interacting with the robot, the robot motion continues according to the learned kinematic behavior until it reaches the final task goal. At the next execution cycle a new DMP can been learned to generate the modified trajectory. In this way, explicit robot programming and separation of learning and execution stages is eliminated. The proposed approach is implemented and evaluated on a 7-degree-of-freedom KUKA LWR4.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:NJ774b8OgUMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Total Singulation With Modular Reinforcement Learning",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9363569/",
+            "Abstract": "Prehensile robotic grasping of a target object in clutter is challenging because, in such conditions, the target touches other objects, resulting to the lack of collision free grasp affordances. To address this problem, we propose a modular reinforcement learning method which uses continuous actions to totally singulate the target object from its surrounding clutter. A high level policy selects between pushing primitives, which are learned separately. Prior knowledge is effectively incorporated into learning, through action primitives and feature selection, increasing sample efficiency. Experiments demonstrate that the proposed method considerably outperforms the state-of-the-art methods in the singulation task. Furthermore, although training is performed in simulation the learned policy is robustly transferred to a real environment without a significant drop in success rate. Finally, singulation tasks in different environments \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A gripper for grasping non-rigid material pieces out of a bundle",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/895288/",
+            "Abstract": "This paper deals with the concept, design, construction and experimental results of a gripper dedicated to the grasping of nonrigid material pieces out of a bundle. Based on a number of functional requirements a gripper is proposed with two passively rotating fingers and its performance is assessed experimentally in the case of grasping furs.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stability of active constraints enforcement in sensitive regions defined by point-clouds for robotic surgical procedures",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8796278/",
+            "Abstract": "Robotic minimally invasive surgery provides images from the intraoperative field including organs and sensitive anatomic structures whose protection from non-voluntary destruction is imperative. To assist the surgeon, control methods that discourage motions towards these sensitive areas are advocated in the related literature. In this work, an active constraint controller is proposed and is proved to guarantee that sensitive/forbidden areas defined by a point cloud are never violated by the tool tip while the closed loop system remains passive and its state bounded under the exertion of a human guiding force. Experimental results are given utilizing a KUKA LWR4+ kinesthetically guided in a virtual surgical environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:fEOibwPWpKIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Progressive Automation of Periodic Movements",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=cO7RDwAAQBAJ&oi=fnd&pg=PA58&dq=info:9FV8L1E89Y4J:scholar.google.com&ots=5xI9nVMye3&sig=lB5i57h1vzimndn7GfQkXZV-PBw",
+            "Abstract": "This paper presents the extension of the progressive automation framework for periodic movements, where an operator kinesthetically demonstrates a movement and the robotic manipulator progressively takes the lead until it is able to execute the task autonomously. The basic frequency of the periodic movement in the operational space is determined using adaptive frequency oscillators with Fourier approximation. The multi-dimensionality issue of the demonstrated movement is handled by using a common canonical system and the attractor landscape is learned online with periodic Dynamic Movement Primitives. Based on the robot\u2019s tracking error and the operator\u2019s applied force, we continuously adjust the adaptation rate of the frequency and the waveform learning during the demonstration, as well as the target stiffness of the robot, while progressive automation is achieved. In this way, we enable the operator to intervene and demonstrate either small modifications or entirely new tasks and seamless transition between guided and autonomous operation of the robot, without distinguishing among a learning and a reproduction phase. The proposed method is verified experimentally with an operator demonstrating periodic tasks in the freespace and in contact with the environment for wiping a surface.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "A simple controller for a variable stiffness joint with uncertain dynamics and prescribed performance guarantees",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6385859/",
+            "Abstract": "In this paper a simple tracking controller for a variable stiffness joint is proposed. System dynamics is considered unknown. The controller guarantees link and stiffness motor position performance specifications that have been apriori set, utilizing full state feedback. Simulation results on the previously published CompAct-VSA joint validate the efficiency of the proposed control approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint position tracking with prescribed performance of uncertain robotic manipulators using only joint position measurements",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7402423/",
+            "Abstract": "We consider joint position tracking of a desired reference trajectory for a n-dof robotic manipulator, utilizing only joint position measurements. The proposed controller is structurally and computationally simple and achieves prescribed transient and steady state performance bounds on the joint position tracking error. Knowledge of the actual robot dynamics is not required. Furthermore, no approximating structures (i.e., neural networks, fuzzy systems) are utilized to compensate for the absence of such knowledge. The performance of the controller designed is demonstrated via simulations and experiments conducted on a KUKA LWR4+ robotic manipulator.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:u_35RYKgDlwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Effect of workstation loading on the objective of the systems\u2019s entry policy in FMS",
+            "Publication year": 2003,
+            "Publication url": "https://www.emerald.com/insight/content/doi/10.1108/09576060310463235/full/html",
+            "Abstract": "This paper attempts to reveal the interrelationships between the workstation loading and system entry policies and in particular to investigate the adverse or positive effects of workstation loading on the objective which the entry policy is trying to achieve. This analysis is made through a computer simulation study of an existing flexible assembly plant for printed circuit boards. Dynamic performance indicators are defined and are shown to be crucial in revealing the effect of workstation loading. The analysis of the simulation results shows that in general, the workstation policy is beneficial when it takes into account an important local system parameter which is not considered by the entry policy, and furthermore, when it is able to attain at least the value of the dynamic performance indicator dictated by system entry policy.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "MCB UP Ltd"
+        },
+        {
+            "Title": "An adaptive force regulator for a robot in compliant contact with an unknown surface",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1570519/",
+            "Abstract": "This paper refers to the problem of force regulation for a robot finger with soft tip in contact with a rigid surface with unknown geometrical characteristics. A simple adaptive controller is employed in order to cope with surface kinematic uncertainties and the asymptotic stability of the force error is shown for the spatial case. Simulation results demonstrate the controller performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:70eg2SAEIzsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A regulator for smooth target reaching with user-prescribed performance for redundant arms",
+            "Publication year": 2013,
+            "Publication url": "http://ikee.lib.auth.gr/record/276781",
+            "Abstract": "A novel regulator for target reaching within a preset desired time for redundant manipulators is proposed that achieves smooth natural motions and configuration repeatability. The recently developed prescribed performance control methodology that permits the incorporation of performance specifications in the control strategy is exploited. Simulation results for a 5d of human arm-like robot show that reaching motions produced by the proposed regulator are characterized by straight line paths, bell-shaped velocity profiles as well as path and joint configuration repeatability in return movements outperforming a well-known alternative control solution.Subject: Robotics",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:yB1At4FlUx8C",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Robot contact tasks in the presence of control target distortions",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889009002103",
+            "Abstract": "This work refers to the problem of controlling robot motion and force in frictional contacts under environmental errors and particularly orientation errors that distort the desired control targets and control subspaces. The proposed method uses online estimates of the surface normal (tangent) direction to dynamically modify the control target and control space decomposition. It is proved that these estimates converge to the actual value even though the elasticity and friction parameters are unknown. The proposed control solution is demonstrated through simulation examples in three-dimensional robot motion tasks contacting both planar and curved surfaces.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Guaranteeing field of view constraints in visual servoing tasks under uncertain dynamics",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896317313976",
+            "Abstract": "The problem of visual servoing, while guaranteeing the a priori satisfaction of field-of-view constraints, which are always present in vision sensors, is considered in this paper. Contrary to the current state-of-the-art, which provides solutions at the kinematic level, a torque controller is designed, following the Prescribed Performance Control methodology, capable of additionally imposing a priori specified transient and steady-state performance attributes on the image feature coordinate errors. No information regarding the actual system dynamics is required and no approximation structures (i.e., neural networks, fuzzy systems etc.) are incorporated to acquire such knowledge. The proposed visual servo controller involves very few and simple calculations, making its implementation on embedded control platforms straightforward. Simulation studies clarify and verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A human inspired handover policy using gaussian mixture models and haptic cues",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10514-018-9705-x",
+            "Abstract": "A handover strategy is proposed that aims at natural and fluent robot to human object handovers. For the approaching phase, a globally asymptotically stable dynamical system (DS) is utilized, trained from human demonstrations and exploiting the existence of mirroring in the human wrist motion. The DS operates in the robot task space thus achieving independence with respect to the robot platform, encapsulating the position and orientation of the human wrist within a single DS. It is proven that the motion generated by such a DS, having as target the current wrist pose of the receiver\u2019s hand, is bounded and converges to the previously unknown handover location. Haptic cues based on load estimates at the robot giver ensure full object load transfer before grip release. The proposed strategy is validated with simulations and experiments in real settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Force/position tracking for a robotic manipulator in compliant contact with a surface using neuro-adaptive control",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109807000945",
+            "Abstract": "The problem of force/position tracking for a robotic manipulator in compliant contact with a surface under non-parametric uncertainties is considered. In particular, structural uncertainties are assumed to characterize the compliance and surface friction models, as well as the robot dynamic model. A novel neuro-adaptive controller is proposed, that exploits the approximation capabilities of the linear in the weights neural networks, guaranteeing the uniform ultimate boundedness of force and position error with respect to arbitrarily small sets, plus the boundedness of all signals in the closed loop. Simulations highlight the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "A robot hand-over control scheme for human-like haptic interaction",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6961583/",
+            "Abstract": "A robot hand-over control scheme is proposed achieving human-like haptic interaction during object load transfer from a giver to a receiver hand for the planar case. It is assumed that the object has parallel surfaces and unknown mass. The giver initiates the hand-over process while the receiver estimates the transferred object mass adapting its grip force accordingly in a three stage process. The control laws are based on a dynamically stable grasp controller which is modified for the hand-over task. A stable load transfer is securely achieved as shown by the theoretical analysis and illustrated by the simulation results.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force/position regulation for a robot in compliant contact using adaptive surface slope identification",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4639445/",
+            "Abstract": "This work proposes a control law for the force position regulation problem under surface kinematic uncertainties. A compliant contact with friction is considered. The control law achieves exact regulation of force and position along the surface tangent by identifying the uncertain surface slope without any force, tactile and/or vision sensory requirements. The asymptotic stability of the closed loop system equilibrium point is proved in a local sense and is demonstrated by a simulation example.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A passive phri controller for assisting the user in partially known tasks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8995640/",
+            "Abstract": "In this article, a passive physical human-robot interaction (pHRI) controller is proposed to enhance pHRI performance in terms of precision, cognitive load, and user effort, in cases partial knowledge of the task is available. Partial knowledge refers to a subspace of SE(3) determined by the desired task, generally mixing both position and orientation variables, and is mathematically approximated by parametric expressions. The proposed scheme, which utilizes the notion of virtual constraints and the prescribed performance control methodology, is proved to be passive with respect to the interaction force, while guaranteeing constraint satisfaction in all cases. The control scheme is experimentally validated and compared with a dissipative control scheme utilizing a KUKA LWR4+ robot in a master-slave task; experiments also include an application to a robotic assembly case.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Rolling contact motion generation and control of robotic fingers",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10846-015-0255-6.pdf",
+            "Abstract": "Dexterity in human hand is connected with the fingertip rolling ability. In this work we consider rolling motion of spherical robotic fingertips as one of the control objectives together with the set point position control and force trajectory tracking. The generation of a rolling motion trajectory is proposed and a control solution is designed which achieves prescribed transient and steady state tracking behavior. The proposed control law is structurally and computationally simple and does not utilize the dynamics of the robot model or its approximation. A simulation of a five degrees of freedom robot show excellent contact rolling performance even at cases of adverse friction conditions while alternative controllers lead to contact sliding. Experiments with a KUKA LWR4 + are performed to validate the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "An adaptive law for slope identification, position tracking and force regulation for a robot in compliant contact with an unknown surface",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4433936/",
+            "Abstract": "This work deals with the problem of force regulation and position trajectory tracking for a robot in compliant contact under kinematic uncertainties. A robotic finger with a soft hemispherical tip of uncertain compliance is considered in contact with a rigid flat surface of unknown position and orientation. A novel adaptive controller is proposed and is proved to achieve the convergence of force and position errors to zero by identifying the slope given a persistently excited desired velocity. The performance of the proposed controller is demonstrated by a simulation example.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robot force/position tracking with guaranteed prescribed performance",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5152277/",
+            "Abstract": "A control law is proposed that achieves predefined performance indices regarding the speed of response, the steady state and the allowed overshoot of the robot force/position tracking errors, ensuring no loss of contact of the robot end effector. The controller incorporates a transformed error, which includes the performance indices. The control objective is satisfied under parametric uncertainties in the robot dynamics and the elasticity model constant. Simulation results confirm the theoretical findings and compare the proposed controller with a conventional one.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "RAMCIP-a service robot for MCI patients at home",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8594214/",
+            "Abstract": "This video features RAMCIP, a new service robot developed to provide proactive and discreet assistance to elderly with Mild Cognitive Impairments (MCI), supporting their daily activities at home. Starting with a thorough analysis of needs and requirements of the target population, the RAMCIP robot was developed as an integrated ensemble of advanced H/W and S/W components, realizing the robot skills of perception, cognition, safe navigation, grasping, manipulation, and human-robot communication, ample to operate in real, rather challenging domestic environments. The RAMCIP use-cases include proactive assistance provision to user's cooking, eating and medication activities, through discreet user monitoring and robot interventions by reminders and robotic manipulations., RAMCIP can bring the medicine, recognize fallen objects and electric appliance that has been forgotten turned on. It also recognizes \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:tKAzc9rXhukC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Object stable grasping control by dual robotic fingers with soft rolling contacts",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1014768/",
+            "Abstract": "The control of object stable grasping and pose regulation by two robotic fingers with soft rolling contacts is considered. The motion of the dual fingers is confined to the horizontal plane and is not affected by the gravity force. A simple feedback control law is proposed with the task to achieve a desired normal contact force and appropriate tangential forces to ensure a dynamically stable grasp. The nonlinear asymptotic stability of the closed loop system is proved. Simulation results for two 3-DOF fingers manipulating a rectangular object from an initial state to a final stable grasp configuration demonstrate the effectiveness of the controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A variable admittance controller for human-robot manipulation of large inertia objects",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9515392/",
+            "Abstract": "In this work, the problem of cooperative human-robot manipulation of an object with large inertia is addressed, considering the availability of a kinematically controlled industrial robot. In particular, a variable admittance control scheme is proposed, where the damping is adjusted based on the power transmitted from the human to the robot, with the aim of minimizing the energy injected by the human while also allowing her/him to have control over the task. The proposed approach is evaluated via a human-in-the-loop setup and compared to a generic variable damping state-of-the-art method. The proposed approach is shown to achieve significant reduction of the human\u2019s effort and minimization of unintended overshoots and oscillations, which may deteriorate the user\u2019s feeling of control over the task.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:vbGhcppDl1QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robot control for task performance and enhanced safety under impact",
+            "Publication year": 2015,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/frobt.2015.00034/full",
+            "Abstract": "A control law combining motion performance quality and low stiffness reaction to unintended contacts is proposed in this work. It achieves prescribed performance evolution of the position error under disturbances up to a level related to model uncertainties and responds compliantly and with low stiffness to significant disturbances arising from impact forces. The controller employs a velocity reference signal in a model-based control law utilizing a nonlinear time-dependent term which embeds prescribed performance specifications and vanishes in case of significant disturbances. Simulation results with a three degrees of freedom (DOF) robot illustrate the motion performance and self-regulation of the output stiffness achieved by this controller under an external force, and highlights its advantages with respect to constant and switched impedance schemes. Experiments with a KUKA LWR4+ demonstrate its performance under impact with a human while following a desired trajectory.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Contact task stability and maintenance with a compliant surface using a switched one dof robot model",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1642318/",
+            "Abstract": "This work refers to the control of the contact of a simple one degree-of-freedom (dof) robot with a compliant surface using ideas from hybrid stability theory. The robot is modeled as a switched system. A position controller is used for the free motion and a force controller for the contact task. The goal is to stabilize the robot in contact with the environment and exert a desired force. The surface is modeled by an unknown, nonlinear elasticity function. By considering typical candidate Lyapunov functions for each of the two discrete system states, conditions on feedback gains are derived that guarantee Lyapunov asymptotic stability of the hybrid task. A sufficient condition that ensures that the robot will remain in contact with the surface is derived involving the system's velocity at the time of contact",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Grasping flat objects by exploiting non-convexity of the object and support surface",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8461192/",
+            "Abstract": "In this paper we propose a grasp strategy which exploits environmental contact for grasping domestic flat objects placed or hinged on support surfaces. The proposed grasp strategy considers the non-convex geometry of the object-surface combination, as this appears in objects like plates on tables or handles on cupboards. Following the fact that state-of-the-art grasp planners fail to produce candidate grasps for flat objects due to the environmental constraint of the support surface, this work utilizes compliant interaction of the hand with the support surface, inspired by human grasp strategies.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:uLbwQdceFCQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Split Deep Q-Learning for Robust Object Singulation*",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9196647/",
+            "Abstract": "Extracting a known target object from a pile of other objects in a cluttered environment is a challenging robotic manipulation task encountered in many robotic applications. In such conditions, the target object touches or is covered by adjacent obstacle objects, thus rendering traditional grasping techniques ineffective. In this paper, we propose a pushing policy aiming at singulating the target object from its surrounding clutter, by means of lateral pushing movements of both the neighboring objects and the target object until sufficient \u2019grasping room\u2019 has been achieved. To achieve the above goal we employ reinforcement learning and particularly Deep Qlearning (DQN) to learn optimal push policies by trial and error. A novel Split DQN is proposed to improve the learning rate and increase the modularity of the algorithm. Experiments show that although learning is performed in a simulated environment the transfer of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A position/force control for a soft tip robot finger under kinematic uncertainties",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/845334/",
+            "Abstract": "We consider the position and force regulation problem for a soft tip robot finger in contact with a rigid surface under kinematic uncertainties concerning the contact point location and the direction of free movement. The reproducing force is related to the displacement through a non-linear function whose characteristics are unknown but both the actual displacement and force can be directly measured. An adaptive controller is proposed and the asymptotic stability of the force error and estimated position error under dynamic and kinematic uncertainties is shown for the planar case. Simulation results for a 3-degrees-of-freedom planar robotic finger are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Progressive Automation of Periodic Movements.",
+            "Publication year": 2019,
+            "Publication url": "https://www.researchgate.net/profile/Fotios-Dimeas/publication/339392686_Progressive_Automation_of_Periodic_Movements/links/60826540907dcf667bb9b041/Progressive-Automation-of-Periodic-Movements.pdf",
+            "Abstract": "This paper presents the extension of the progressive automation framework for periodic movements, where an operator kinesthetically demonstrates a movement and the robotic manipulator progressively takes the lead until it is able to execute the task autonomously. The basic frequency of the periodic movement in the operational space is determined using adaptive frequency oscillators with Fourier approximation. The multi-dimensionality issue of the demonstrated movement is handled by using a common canonical system and the attractor landscape is learned online with periodic Dynamic Movement Primitives. Based on the robot\u2019s tracking error and the operator\u2019s applied force, we continuously adjust the adaptation rate of the frequency and the waveform learning during the demonstration, as well as the target stiffness of the robot, while progressive automation is achieved. In this way, we enable the operator to intervene and demonstrate either small modifications or entirely new tasks and seamless transition between guided and autonomous operation of the robot, without distinguishing among a learning and a reproduction phase. The proposed method is verified experimentally with an operator demonstrating periodic tasks in the freespace and in contact with the environment for wiping a surface.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A prescribed performance referential control for human-like reaching movement of redundant arms",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016336266",
+            "Abstract": "A novel and low-complexity dynamical approach for controlling reaching movements of redundant manipulators is proposed achieving preset performance attributes on the task space error. The iCub platform is used to compare its performance against a multi-referential solution. Simulation results for a 4 degrees of freedom (dof) planar robot are also provided comparing the proposed approach to another velocity based controller. The proposed scheme is shown to exhibit quasi-straight line paths and bell-shaped velocity profiles as well as path and joint configuration consistency in cyclic movements outperforming alternative solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A control scheme for haptic inspection and partial modification of kinematic behaviors",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9341594/",
+            "Abstract": "Over the last decades, Learning from Demonstration (LfD) has become a widely accepted solution for the problem of robot programming. According to LfD, the kinematic behavior is \"taught\" to the robot, based on a set of motion demonstrations performed by the human-teacher. The demonstrations can be either captured via kinesthetic teaching or external sensors, e.g., a camera. In this work, a controller for providing haptic cues of the robot\u2019s kinematic behavior to the human-teacher is proposed. Guidance is provided in procedures of kinesthetic coaching during inspection and partial modification of encoded motions. The proposed controller is based on an artificial potential field, designed to adjust the intensity of the haptic communication automatically according to the human intentions. The control scheme is proved to be passive with respect to robot\u2019s velocity and its effectiveness is experimentally evaluated in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:uWiczbcajpAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Feedback control for object manipulation by a pair of soft tip fingers",
+            "Publication year": 2002,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/feedback-control-for-object-manipulation-by-a-pair-of-soft-tip-fingers/EDE4D84BC4D7FB66668937BA17E86BD9",
+            "Abstract": "This paper discusses the problem of stable grasping and object manipulation by a pair of robot fingers when fingertips are covered with soft compressible material and fingers are allowed to incline their last link against the object surface. The area contact between the fingertips and the rigid object surface leads to nonholonomic constraints even for the planar case; however, the variational principle can be applied and the equation of motion is derived as a set of nonlinear differential equations with extra terms of Langrange multipliers incorporating the constraints. The proposed feedback controller is a linear combination of simple feedback control signals each designed for realizing grasp stabilization, regulation of object rotation and regulation of object position respectively. The controller is shown to achieve asymptotic convergence to the desired state at a stable grasping configuration. Simulation results are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Model-free robot joint position regulation and tracking with prescribed performance guarantees",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889011002028",
+            "Abstract": "The problem of robot joint position control with prescribed performance guarantees is considered; the control objective is the error evolution within prescribed performance bounds in both problems of regulation and tracking. The proposed controllers do not utilize either the robot dynamic model or any approximation structures and are composed by simple PID or PD controllers enhanced by a proportional term of a transformed error through a transformation related gain. Under a sufficient condition for the damping gain, the proposed controllers are able to guarantee (i) predefined minimum speed of convergence, maximum steady state error and overshoot concerning the position error and (ii) uniformly ultimate boundedness (UUB) of the velocity error. The use of the integral term reduces residual errors allowing the proof of asymptotic convergence of both velocity and position errors to zero for the regulation problem \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:qjMakFHDy7sC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Towards achieving rolling contact motion in a spherical robotic fingertip",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7158904/",
+            "Abstract": "Dexterity in human hand is connected with the fingertip rolling ability. Controlling the rolling motion of a spherical robot's tip upon a contacted surface is in this work addressed by solving the control of a wheel's rolling motion, moving upon the robot tip's line path. A model free prescribed performance controller of low complexity is proposed guaranteeing the wheel's rolling under any surface friction conditions. The stability of the closed loop system is proved while simulation results verify the achievement of the wheel's rolling motion towards a desired target location.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force/position regulation for a robotic finger in compliant contact with an unknown surface",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1466995/",
+            "Abstract": "In this paper we are concerned with the problem of force and position regulation of a soft robotic finger in contact with a flat unknown surface. A type of parallel control scheme with gravity compensation is applied. Using nonlinear stability theory it is shown that the proposed controller achieves exact force regulation. It is further shown that position errors may stay close to zero and in some cases can even vanish even in the presence of uncertainties. Simulation results support theoretical findings",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robot task space PID type regulation with prescribed performance guaranties",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5651180/",
+            "Abstract": "A prescribed performance regulator for the generalized position of the robot arm endpoint in the task space is proposed. The control input which incorporates a transformed error guarantees a prescribed performance regarding the response of the endpoint generalized position error. The use of two different forms of this transformed error will be presented and compared. Mathematical proof of the controller's success in fulfilling the desired goals is given. A simulation of a three degrees of freedom robot is used to confirm the theoretical findings for both cases of the transformed error.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force/position control self-tuned to unknown surface slopes using motion variables",
+            "Publication year": 2008,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/forceposition-control-selftuned-to-unknown-surface-slopes-using-motion-variables/84B2B15B539B5364FFE5F572FBDCA25F",
+            "Abstract": "This work considers the problem of force/position regulation for a robotic finger in compliant contact with an unknown curved surface resulting in uncertain force and position control subspaces. The proposed controller is an adaptive control scheme of a simple structure that achieves the desired target by the on-line tuning of the position and force control actions to their corresponding actual subspaces at the desired point using motion state feedback. The local asymptotic stability of the system equilibrium point is proved and an estimate of the region of attraction is given. The controller performance is illustrated by a simulation example.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Constrained visual servoing under uncertain dynamics",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00207179.2018.1428362",
+            "Abstract": "In visual servoing, limitations in the field of view of the vision sensors are either ignored or treated at the kinematic level. The former can easily jeopardise task success, while the latter reduces the maximum achievable robotic motion speeds. In this work, the aforementioned literature gap is filled by designing and rigorously analysing a torque controller that guarantees prescribed transient and steady-state performance attributes on the image feature coordinate errors, while respecting the field-of-view constraints. No path planning and no information regarding the actual system dynamics are required. In addition, no approximation structures (i.e. neural networks, fuzzy systems, etc.) are utilised to acquire such knowledge. The proposed visual servo controller is static, involving very few and simple calculations to produce the control signal, making its implementation on embedded control platforms straightforward \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "On Prescribed Contact Establishment",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S240589631731443X",
+            "Abstract": "In this paper, the problem of establishing contact of robots with a planar surface having unknown stiffness and position is considered. Given a free-space controller that achieves tracking of a position and orientation reference trajectory, a novel, continuous on time controller is designed, capable of establishing and maintaining contact. Additionally, the proposed control scheme guarantees the satisfaction of certain pre-defined bounds regarding the maximum overshoot, the minimum convergence rate and the maximum steady-state error for the contact force, the position, and the orientation tracking errors. Moreover, all remaining closed-loop signals are kept bounded. Simulation studies on a 6-DOF robot, clarify and verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A fast robot deployment strategy for successful snap assembly",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8066070/",
+            "Abstract": "The snap assembly of two small parts in a semi-structured environment is considered. This work proposes a task-based variable impedance solution strategy that allows one arm/hand robotic system to extract assembly haptic cues via pHRI and subsequently achieve autonomously the desired objective with extrinsic dexterity. A wavelet pattern is extracted from the estimated force derivatives during a cooperative human - robot assembly and is utilized to confirm a successful assembly during the autonomous operation of a robot. The KUKA LWR4+ and the Barrett BS8 hand are used under compliant motion demonstrating the concept solution for two different assemblies.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A web telerobotic system to teach industrial robot path planning and control",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1629222/",
+            "Abstract": "This paper presents the development of a Web telerobotic system and its use as a supplement to the teaching of robotics through a set of experimental tasks related to real industrial robot processes. Using an intuitive interface and a simplified workspace to guarantee operability and safety, the system allows a high degree of real-time interaction with an industrial robot. The system is evaluated on a comparative basis by assessing the performance of a local and a remote student group. Using t-test statistics, one can see that both groups perform equally well, given the appropriate familiarization time",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Pick-and-place in dynamic environments with a mobile dual-arm robot equipped with distributed distance sensors",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9555672/",
+            "Abstract": "Mobile bimanual manipulation in a dynamic and uncertain environment requires the continuous and fast adjustment of the robot motion for the satisfaction of the constraints imposed by the task, the robot itself and the environment. We formulate the pick-and-place task as a sequence of mobile manipulation tasks with a combination of relative, global and local targets. Distributed distance sensors on the robot are utilized to sense the surroundings and facilitate collision avoidance with dynamic and static obstacles. We propose an approach to kinematically control the robot by solving a priority constrained optimization problem online. Experimental results on the YuMi bimanual robot mounted on the Ridgeback mobile platform validate the performance of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:EYYDruWGBe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A physical Human Robot Interaction architecture for flexible joint robots",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6961582/",
+            "Abstract": "In this work a physical Human Robot Interaction (pHRI) architecture for flexible joint robot is proposed. At its core, a prescribed performance tracking controller is designed at the operational space, to guarantee fast, accurate and robust position tracking. Assuming that a sensing and interpretation task of the human touch is accomplished, a position reference shaping signal reflecting the desired robot reaction is produced. Simulation studies are performed to clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A control scheme with a novel DMP-robot coupling achieving compliance and tracking accuracy under unknown task dynamics and model uncertainties",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8978727/",
+            "Abstract": "A control scheme consisting of a novel coupling of a DMP based virtual reference with a low stiffness controlled robot is proposed. The overall system is proved to achieve superior tracking of a DMP encoded trajectory and accurate target reaching with respect to the conventional scheme under the presence of constant and periodic disturbances owing to unknown task dynamics and robot model uncertainties. It further preserves the desired compliance under contact forces that may arise in human interventions and collisions. Results in simulations and experiments validate the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stable grasping control under gravity by dual robotic fingers with soft rolling contacts",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1043997/",
+            "Abstract": "In this paper dealing with the problem of stable grasping of a rigid and rectangular object with two robotic fingers with soft tips, we consider the case of rolling fingertips under a soft contact motion model which leads to non-holonomic constraints even for the planar case while taking into consideration the gravity effect. The analytical hand-object system kinematics and dynamics are derived and a feedback controller is proposed. The controller compensates finger gravity and superimposes control signals that realize a stable grasp configuration and compensate for the object gravity forces while driving the object at the upright position. The controller is shown to achieve asymptotic convergence to the desired upright object position at a stable grasp configuration. Simulation results are presented confirming the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Bimanual assembly of two parts with relative motion generation and task related optimization",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8593928/",
+            "Abstract": "Bimanual assembly of two parts require that a relative target pose is reached prior to the joining operation. Rather than utilizing one arm as a fixture for holding one of the parts while the other performs the assembly, motion generation in the relative end-effector frame is proposed that involves both arms. The proposed approach considers bimanual motion in a dynamic and uncertain environment addressing avoidance of collision with obstacles as well as the robot itself and the environment. Moreover, configurations that optimize the motion and force capabilities for the sucessful and efficient completion of the task are taken into account. A task priority strategy is adopted achieving online performance. Experimental results on the YuMi bimanual robot using the Stack-Of- Tasks hierarchical solver validate the performance of the proposed approach in a folding assembly task.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Operational space prescribed tracking performance and compliance in flexible joint robots",
+            "Publication year": 2015,
+            "Publication url": "https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/137/7/074503/473940",
+            "Abstract": "In this work, an admittance control scheme is proposed utilizing a highly robust prescribed performance position tracking controller for flexible joint robots which is designed at the operational space. The proposed control scheme achieves the desired impedance to the external contact force as well as superior position tracking in free motion without any robot model knowledge, as opposed to the torque based impedance controllers. Comparative simulation results on a three degrees-of-freedom (3DOF) flexible joint manipulator, illustrate the efficiency of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "American Society of Mechanical Engineers"
+        },
+        {
+            "Title": "Blind force/position control on unknown planar surfaces",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/document/4839290/",
+            "Abstract": "In robot contact tasks on planar surfaces with frictional contacts, kinematic uncertainties of the contacted surface affect the control system performance and distort control targets. An adaptive controller that uses force and joint position/velocity measurements to simultaneously learn the surface orientation and achieve the desired goal is proposed. Simulation examples are used to illustrate the theoretical results and the performance of the proposed controller in practical cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:mB3voiENLucC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Teaching engineering courses by mixing lectures with simulation, telelab exercises and group work",
+            "Publication year": 2006,
+            "Publication url": "http://www.wseas.us/e-library/conferences/2006elounda1/papers/537-422.pdf",
+            "Abstract": "Recent research results propose a series of recommendations on how to develop courses which can be taught to multicultural virtual classes over the Internet with the purpose of enhancing the learning process. According to these recommendations, learning is enhanced if synchronous lectures, feedback quizzes, simulations and tele-lab operations are combined during teaching sessions. Current state of the art technology of e-learning software seems to be able to support all these activities with the exception of that of the simulation and tele-lab operations. In this work, it is demonstrated that it is quite feasible to design courses which involve all the above mentioned activities by using the provided services of the current state of the art e-learning environments and adding custom made software modules for the simulation and tele-lab operations. Two experimental courses were developed, namely one in Robotics and the other in Satellite Communications in which the feasibility of combining all the mentioned above activities was first investigated. The courses were delivered to an international and multicultural class of students who were spatially located to different places in Europe and communicating over the Internet by a current state of the art synchronous e-learning environment. Based on interviews and questionnaires, students\u2019 and tutors\u2019 evaluation of the extend to which the considered activities are realizable and improve the learning. process was recorded and is reported in this paper.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "WBtTN $ ts 7kR 8R",
+            "Publication year": 2000,
+            "Publication url": "https://www.researchgate.net/profile/Zoe-Doulgeri/publication/221399097_On_the_stability_of_T-S_fuzzy_control_for_non-linear_systems/links/0046351ac82bc412e8000000/On-the-stability-of-T-S-fuzzy-control-for-non-linear-systems.pdf",
+            "Abstract": "This work concerns the stability analysis of a non-linear system controlled by a fuzzy TS control law. It is shown that the closed loop system is in general expressed by a TS fuzzy system composed of rules with affine linear systems in their consequent parts. The stability of affine TS systems is then investigated for a special case using as an example the regulation problem of a single link robot arm. Stability conditions are derived using the indirect and direct Lyapunov method and simulation results are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:tzM49s52ZIMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sinc-based dynamic movement primitives for encoding point-to-point kinematic behaviors",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8594479/",
+            "Abstract": "This work proposes the utilization of sinc functions as kernels of Dynamic Movement Primitives (DMP) models for encoding point-to-point kinematic behaviors. The proposed method presents a number of advantages with respect to the state of the art, as it (i) involves a simple learning technique, (ii) provides a method to determine the minimum required number of basis functions, based on the frequency content of the demonstrated motion and (iii) provides the ability to pre-define the reproduction accuracy of the learned behavior. The ability of the proposed model to accurately reproduce the behavior is demonstrated through simulations and experiments. Comparisons with the Gaussian-based DMP model show the proposed method's superiority in terms of computational complexity of learning and accuracy for a specific number of kernels.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force position control for a robot finger with a soft tip and kinematic uncertainties",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889006001916",
+            "Abstract": "We consider the problem of force and position regulation for a robot finger with a soft tip in contact with a surface with unknown geometrical characteristics. An adaptive controller is proposed, and the asymptotic convergence of the applied force error and the estimated position error of the tip to zero is shown for the spatial case. Simulation results demonstrate the controller performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A correct formulation for the orientation dynamic movement primitives for robot control in the cartesian space",
+            "Publication year": 2020,
+            "Publication url": "http://proceedings.mlr.press/v100/koutras20a.html",
+            "Abstract": "Dynamic movement primitives (DMP) are an efficient way for learning and reproducing complex robot behaviors. A singularity free DMP formulation for orientation in the Cartesian space is proposed by Ude et al.[1] and has been largely adopted by the research community. In this work, we demonstrate the undesired oscillatory behavior that may arise when controlling the robot\u2019s orientation with this formulation, producing a motion pattern highly deviant from the desired and highlight its source. A correct formulation is then proposed that alleviates such problems while guaranteeing generation of orientation parameters that lie in SO (3). We further show that all aspects and advantages of DMP including ease of learning, temporal and spatial scaling and the ability to include coupling terms are maintained in the proposed formulation. Simulations and experiments with robot control in SO (3) are performed to demonstrate the performance of the proposed formulation and compare it with the previously adopted one.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "PMLR"
+        },
+        {
+            "Title": "Manipulation of a Whole Surgical Tool Within Safe Regions Utilizing Barrier Artificial Potentials",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-31635-8_193",
+            "Abstract": "Active constraint enforcement in robotic-assisted surgery is critical for reducing the intra-operative risk of unintentionally damaging sensitive tissues by the surgical instrument. This work considers surgical instruments which can be circumscribed by a geometric capsule and forbidden regions which can be approximated by point clouds in order to produce a repulsive wrench by the control action to guarantee manipulation within safe regions. This work details the control scheme which is based on barrier artificial potentials when considering the whole tool extending our previous results on the tool point. A proof of the control system\u2019s passivity and non constraint violation is provided together with experimental results using a 7-dof KUKA LWR4+ manipulator as a master device in a virtual surgical scene in order to demonstrate the effectiveness of the proposed scheme. ",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:VLnqNzywnoUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Regressor-free robot joint position tracking with prescribed performance guarantees",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6181643/",
+            "Abstract": "Fast and robust tracking against unknown disturbances is required in many modern complex robotic structures and applications for which knowledge of the full exact nonlinear system is unreasonable to assume. This paper proposes a regressor-free nonlinear controller of low complexity which ensures prescribed performance position error tracking subject to unknown endogenous and exogenous bounded dynamics assuming that joint position and velocity measurements are available. It is theoretically shown and demonstrated by a simulation study that the proposed controller can guarantee tracking of the desired joint position trajectory with a priori determined accuracy, overshoot and speed of response. Preliminary experimental results to a simplified system are promising for validating the controller to more complex structures.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Progressive automation of periodic tasks on planar surfaces of unknown pose with hybrid force/position control",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9341374/",
+            "Abstract": "This paper presents a teaching by demonstration method for contact tasks with periodic movement on planar surfaces of unknown pose. To learn the motion on the plane, we utilize frequency oscillators with periodic movement primitives and we propose modified adaptation rules along with an extraction method of the task\u2019s fundamental frequency by automatically discarding near-zero frequency components. Additionally, we utilize an online estimate of the normal vector to the plane, so that the robot is able to quickly adapt to rotated hinged surfaces such as a window or a door. Using the framework of progressive automation for compliance adaptation, the robot transitions seamlessly and bi-directionally between hand guidance and autonomous operation within few repetitions of the task. While the level of automation increases, a hybrid force/position controller is progressively engaged for the autonomous operation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:epqYDVWIO7EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stable pinching by a pair of robot fingers with soft tips under the effect of gravity",
+            "Publication year": 2002,
+            "Publication url": "https://www.cambridge.org/core/journals/robotica/article/stable-pinching-by-a-pair-of-robot-fingers-with-soft-tips-under-the-effect-of-gravity/F9EC2C6939BC4512C882FCEC5E64C6E2",
+            "Abstract": "This paper analyses lumped-parameter dynamics of a pair of robot fingers with soft and deformable tips pinching a rigid object under the effect of a gravity force. The dynamics of the system in which area contacts between the finger-tips and the surfaces of the object arise are compared with those of a pair of rigid robot fingers with rigid contacts with an object, with or without effect of the gravity. It is then shown that there exists a sensory feedback from measurement of finger joint angles and the rotational angle of the object to command inputs to joint actuators, and this feedback connection from sensing to action realizes secure grasping of the object in a dynamic sense and regulation of the object posture. It is further shown that there are various types of other feedback connections from sensing to action, which can be used in combination of feedback signals for stable grasping and posture control of the object for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Equilibrium conditions of a rigid object grasped by elastic rolling contacts",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1307245/",
+            "Abstract": "This work refers to a planar system of two spherical elastic fingertips grasping a rigid polygonal object under rolling contact constraints at equilibrium. A contact motion model is proposed for elastic-rolling fingertips based on previously reported experimental findings on the rolling distance for a variety of soft materials. The equilibrium conditions are derived from the system dynamics and depend on the deformation and on the kind of elastic material with regard to the fingertip's rolling distance characteristics. Equilibrium conditions of the three contacted bodies (elastic fingertips-object) show that in general no-collinear interaction forces act on the object's surface and they correspond to the equilibrium of an \"internal object\" hold by two point contacts with friction.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Task-based Variation of Active Compliance of Arm/Hand robots in Physical Human Robot Interactions",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-22416-9_28",
+            "Abstract": "In this work a control strategy combining admittance control with haptic cues is proposed for varying robot arm-hand target impedances in tasks involving physical Human Robot Interaction (pHRI). External force and robot state measurements are employed to initiate task phase transitions which further involve switching to appropriate target impedances. Three tasks typical for domestic robot assistance are demonstrated experimentally showing safe and natural interactions.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Active control of rolling manoeuvres of a robotic finger with hemispherical tip",
+            "Publication year": 2010,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0219843610002039",
+            "Abstract": "In this paper we are concerned with the problem of sensory motor coordination of a robotic finger in order to evoke rolling maneuvers in a force-positioning task on a flat rigid surface. We use two different approaches to modeling the reaction of the soft fingertip with the contacted surface. Firstly, we assume that the environment imposes a purely kinematic rolling constraint on the end-effector motion in the tangent direction of the contacted surface. This implies no energy transfer or dissipation between the fingertip and the environment due to frictional forces. On the other hand, we assume that it is feasible for the fingertip to slip in which case pure rolling motion could be disturbed. The two different models are subsequently used to show by simulation that control laws, which have been designed on a rolling constraint dynamic model for frictional forces, fail to perform rolling in various environments. An extra control \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Prescribed performance tracking for flexible joint robots with unknown dynamics and variable elasticity",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109813000435",
+            "Abstract": "In this paper, we consider the design of tracking controllers for flexible joint robots with unknown and possibly variable elasticity, achieving pre-set performance attributes on the link position error. The developed full state feedback controller, is realized without incorporating knowledge relative to the actual system nonlinearities. Furthermore, no approximators are employed to acquire such information. Comparative simulation results on a 2-d.o.f. flexible joint manipulator, illustrate the efficiency of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Human-inspired robotic grasping of flat objects",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889018303415",
+            "Abstract": "In this paper, we propose a human-inspired framework for grasping domestic flat objects placed on planar support surfaces. In particular, three grasp strategies are proposed which aim to pinch small flat objects from different scenes. The framework uses representations of the robotic hand, the support surface and the target object which encapsulate rough information for the scene. Furthermore, the strategies exploit the environmental constraint of the support surface by establishing compliant contact with it, which leads to increased robustness against object geometry uncertainties as well as pose estimation errors possibly introduced by the perception system. This is inspired by how humans perform relative grasping tasks with object pose and geometry uncertainties by using compliant contact with the support surfaces. Finally, the strategy selection is determined by a decision making procedure which uses the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "On the stability of TS fuzzy control for non-linear systems",
+            "Publication year": 2000,
+            "Publication url": "https://upcommons.upc.edu/handle/2099/3571",
+            "Abstract": "This work concerns the stability analysis of a non-linear system controlled by a fuzzy T-S control law. It is shown that the closed loop system is in general expressed by a T-S fuzzy system composed of rules with affine linear systems in their consequent parts. The stability of affine T-S systems is then investigated for a special case using as an example the regulation problem of a single link robot arm. Stability conditions are derived using the indirect and direct Lyapunov method and simulation results are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Universitat Polit\u00e8cnica de Catalunya. Secci\u00f3 de Matem\u00e0tiques i Inform\u00e0tica"
+        },
+        {
+            "Title": "Stability of a contact task for a robotic arm modelled as a switched system",
+            "Publication year": 2007,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-cta_20060191",
+            "Abstract": "The task of stabilising an n-degree-of-freedom (dof) robot arm moving from free space to contact with a compliant surface is considered. A proportional derivative position controller with gravity compensation is used for the free motion and a parallel force/position controller for the contact task. The goal is to stabilise the robot in contact with the environment, exert a desired force and place the end-effector at a desired position. The robot is modelled as a switched system, and its stability is examined using hybrid stability theory by considering typical candidate Lyapunov functions for each of the two discrete system states. The stability analysis reveals that extra conditions involving control gains and control targets should be satisfied in order to guarantee asymptotic stability of the switched task in a Lyapunov sense. The system performance and robustness is illustrated by the simulation of a 3-dof planar robot.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Operational space robot control for motion performance and safe interaction under Unintentional Contacts",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7810319/",
+            "Abstract": "A control law achieving motion performance of quality and compliant reaction to unintended contacts for robot manipulators is proposed in this work. It achieves prescribed performance evolution of the position error under disturbance forces up to a tunable level of magnitude. Beyond this level, it deviates from the desired trajectory complying to what is now interpreted as unintentional contact force, thus achieving enhanced safety by decreasing interaction forces. The controller is a passivity model based controller utilizing an artificial potential that induces vanishing vector fields. Simulation results with a three degrees of freedom (DOF) robot under the control of the proposed scheme, verify theoretical findings and illustrate motion performance and compliance under an external force of short duration in comparison with a switched impedance scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubUmUrcAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Learning by demonstration for constrained tasks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9223579/",
+            "Abstract": "In many industrial applications robot\u2019s motion has to be subjected to spatial constraints imposed by the geometry of the task, e.g. motion of the end-effector on a surface. Current learning by demonstration methods encode the motion either in the Cartesian space of the end-effector, or in the configuration space of the robot. In those cases, the spatial generalization of the motion does not guarantee that the motion will in any case respect the spatial constraints of the task, as no knowledge of those constraints is exploited. In this work, a novel approach for encoding a kinematic behavior is proposed, which takes advantage of such a knowledge and guarantees that the motion will, in any case, satisfy the spatial constraints and the motion pattern will not be distorted. The proposed approach is compared with respect to its ability for spatial generalization, to two different dynamical system based approaches implemented on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubUmUrcAAAAJ:EkHepimYqZsC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

@@ -1,0 +1,1344 @@
+[{
+    "name": " Thrasyvoulos Pappas",
+    "romanize name": " Thrasyvoulos Pappas",
+    "School-Department": " Electrical Engineering and Computer Science",
+    "University": "Northwestern University",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 1911,
+    "Scholar name": "Thrasyvoulos Pappas",
+    "Scholar id": "FdtIIgkAAAAJ",
+    "Affiliation": "Electrical Engineering and Computer Science, Northwestern University",
+    "Citedby": 6496,
+    "Interests": [
+        "Image processing",
+        "signal processing",
+        "computer vision",
+        "human perception"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=FdtIIgkAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Roughness in sound and vision",
+            "Publication year": 2009,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7240/72400B/Roughness-in-sound-and-vision/10.1117/12.817164.short",
+            "Abstract": "In three experiments the perceived roughness of visual and of auditory materials was investigated. In Experiment 1, the roughness of frequency-modulated tones was determined using a paired-comparison paradigm. It was found that using this paradigm similar results in comparison to literature were found. In Experiment 2, the perceived visual roughness of textures drawn from the CUReT database was determined. It was found that participants could systematically judge the roughness of the textures. In Experiment 3 the perceived pleasantness for the textures used in Experiment 2 was determined. It was found that two groups of participants could be distinguished. One group found rough textures unpleasant and smooth textures pleasant. The other group found rough textures pleasant and smooth textures unpleasant. Although for the latter groups the relation between relative roughness and perceived \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:blknAaTinKkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Mimicking human texture classification",
+            "Publication year": 2005,
+            "Publication url": "https://research.utwente.nl/en/publications/mimicking-human-texture-classification",
+            "Abstract": "In an attempt to mimic human (colorful) texture classification by a clustering algorithm three lines of research have been encountered, in which as test set 180 texture images (both their color and gray-scale equivalent) were drawn from the OuTex and VisTex databases. First, a k-means algorithm was applied with three feature vectors, based on color/gray values, four texture features, and their combination. Second, 18 participants clustered the images using a newly developed card sorting program. The mutual agreement between the participants was 57% and 56% and between the algorithm and the participants it was 47% and 45%, for respectively color and gray-scale texture images. Third, in a benchmark, 30 participants judged the algorithms\u2019 clusters with gray-scale textures as more homogeneous then those with colored textures. However, a high interpersonal variability was present for both the color and the gray-scale clusters. So, despite the promising results, it is questionable whether average human texture classification can be mimicked (if it exists at all).",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:Ri6SYOTghG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spatiotemporal algorithm for joint video segmentation and foreground detection",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071724/",
+            "Abstract": "We present a novel algorithm for segmenting video sequences into objects with smooth surfaces. The segmentation of image planes in the video is modeled as a spatial Gibbs-Markov random field, and the probability density distributions of temporal changes are modeled by a Mixture of Gaussians approach. The intensity of each spatiotemporal volume is modeled as a slowly varying function distorted by white Gaussian noise. Starting from an initial spatial segmentation, the pixels are classified using the temporal probabilistic model and moving objects in the video are detected. This classification is updated by Markov random field constraints to achieve smoothness and spatial continuity. The temporal model is updated using the segmentation information and local statistics of the image frame. Experimental results show the performance of our algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Structural similarity quality metrics in a coding context: exploring the space of realistic distortions",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4560230/",
+            "Abstract": "Perceptual image quality metrics have explicitly accounted for human visual system (HVS) sensitivity to subband noise by estimating just noticeable distortion (JND) thresholds. A recently proposed class of quality metrics, known as structural similarity metrics (SSIM), models perception implicitly by taking into account the fact that the HVS is adapted for extracting structural information from images. We evaluate SSIM metrics and compare their performance to traditional approaches in the context of realistic distortions that arise from compression and error concealment in video compression/transmission applications. In order to better explore this space of distortions, we propose models for simulating typical distortions encountered in such applications. We compare specific SSIM implementations both in the image space and the wavelet domain; these include the complex wavelet SSIM (CWSSIM), a translation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A robust and efficient algorithm for bilevel document block classification",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/959248/",
+            "Abstract": "We present a robust and computationally efficient algorithm for the classification of blocks of bilevel machine-printed documents into text and halftone categories. It uses a simple mask that makes use of the different correlation properties between the text and halftone regions, and has comparable or better performance than more sophisticated and computationally intensive spectral analysis techniques. The proposed algorithm is a key component of a document recognition system that segments a document into regions, classifies them into text, halftone, line-art, etc., and then analyzes the regions to obtain a document interpretation. The input data are unusually challenging: multilingual, unoriented (e.g., upside down), and range from ideal (machine-generated) images to very low quality (e.g., copied and faxed) images. We test the proposed algorithm on the University of Washington database and demonstrate its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint source coding and transmission power management for energy efficient wireless video communications",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1013849/",
+            "Abstract": "We consider a situation where a video sequence is to be compressed and transmitted over a wireless channel. Our goal is to limit the amount of distortion in the received video sequence, while minimizing transmission energy. To accomplish this goal, we consider error resilience and concealment techniques at the source coding level, and transmission power management at the physical layer. We jointly consider these approaches in a novel framework. In this setting, we formulate and solve an optimization problem that corresponds to minimizing the energy required to transmit video under distortion and delay constraints. Experimental results show that simultaneously adjusting the source coding and transmission power is more energy efficient than considering these factors separately.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The rough side of texture: texture analysis through the lens of HVEI",
+            "Publication year": 2013,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8651/86510P/The-rough-side-of-texture--texture-analysis-through-the/10.1117/12.2012991.short",
+            "Abstract": "We take a look at texture analysis research over the past 25 years, from the persective of the Human Vision and Electronic Imaging conference. We consider advances in the understanding of human perception of textures and the development of texture analysis algorithms for practical applications. We cover perceptual models and algorithms for image halftoning, texture discrimination, texture segmentation, texture analysis/synthesis, perceptually and structurally lossless compression, content-based retrieval, and sense substitution.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Building structural similarity database for metric learning",
+            "Publication year": 2015,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9394/93940N/Building-structural-similarity-database-for-metric-learning/10.1117/12.2079392.short",
+            "Abstract": "We propose a new approach for constructing databases for training and testing similarity metrics for structurally lossless image compression. Our focus is on structural texture similarity (STSIM) metrics and the matched-texture compression (MTC) approach. We first discuss the metric requirements for structurally lossless compression, which differ from those of other applications such as image retrieval, classification, and understanding. We identify \u201cinterchangeability\u201d as the key requirement for metric performance, and partition the domain of \u201cidentical\u201d textures into three regions, of \u201chighest,\u201d \u201chigh,\u201d and \u201cgood\u201d similarity. We design two subjective tests for data collection, the first relies on ViSiProG to build a database of \u201cidentical\u201d clusters, and the second builds a database of image pairs with the \u201chighest,\u201d \u201chigh,\u201d \u201cgood,\u201d and \u201cbad\u201d similarity labels. The data for the subjective tests is generated during the MTC encoding \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:35r97b3x0nAC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Image reconstruction from a Manhattan grid via piecewise plane fitting and Gaussian Markov random fields",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6467296/",
+            "Abstract": "This paper builds upon previous work for image reconstruction problems in which samples are taken on evenly spaced rows and columns, i.e., a Manhattan grid. A new reconstruction method is proposed that uses three steps to interpolate the interior of each block under the model that an image can be decomposed into piecewise planar regions plus noise. First, the K-planes algorithm is developed in order to fit several planes to the observed pixel values on the border. Second, one of theK planes is assigned to each pixel of the block interior, by a process of partitioning the block with polygons, thereby creating a piecewise planar approximation. Third, the interior pixels are interpolated by modeling them as a Gauss Markov random field whose mean is the piecewise planar approximation just obtained. The new method is shown to improve significantly upon previous methods, especially in the preservation of \u201csoft \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:UxriW0iASnsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-based digital halftoning",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1215228/",
+            "Abstract": "Digital halftoning is the process of generating a pattern of pixels with a limited number of colors that, when seen by the human eye, is perceived as a continuous-tone image. Digital halftoning is used to display continuous-tone images in media in which the direct rendition of the tones is impossible. The most common example of such media is ink or toner on paper, and the most common rendering devices for such media are, of course, printers. Halftoning works because the eye acts as a spatial low-pass filter that blurs the rendered pixel pattern, so that it is perceived as a continuous-tone image. Although all halftoning methods rely at least implicitly, on some understanding of the properties of human vision and the display device, the goal of model-based halftoning techniques is to exploit explicit models of the display device and the human visual system (HVS) to maximize the quality of the displayed images. Based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "New York, NY: Institute of Electrical & Electronic Engineers, c1991-"
+        },
+        {
+            "Title": "Packetization schemes for forward error correction in internet video streaming",
+            "Publication year": 2003,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.2218&rep=rep1&type=pdf",
+            "Abstract": "In this work, our focus is on video streaming applications with relatively strict delay constraints; for such applications, forward error correction (FEC) is the preferred channel coding technique to recover from packet losses. Moreover, since video packets are usually of different importance, optimal bit allocation across video packets results in different packets receiving unequal error protection (UEP). For Internet video, cross-packet FEC in addition to source packets can be performed by generating parity packets [1]. Alternatively, a source packet can be partitioned into different transport packets to achieve prioritized protection, which has been studied for scalable video in [2]. In this paper, we compare the performance of these two packetization schemes applied to single-layer video. The comparison is carried out in a joint source-channel coding (JSCC) framework, where error resilient source coding and FEC are jointly designed. We show that either packetization scheme may be optimal depending on the packet loss rate.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:hC7cP41nSMkC",
+            "Publisher": "The University; 1998"
+        },
+        {
+            "Title": "Design of benchmark imagery for validating facility annotation algorithms",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6049340/",
+            "Abstract": "The design of benchmark imagery for validation of image an notation algorithms is considered. Emphasis is placed on imagery that contains industrial facilities, such as chemical re fineries. An application-level facility ontology is used as a means to define salient objects in the benchmark imagery. Instrinsic and extrinsic scene factors important for comprehensive validation are listed, and variability in the benchmarks discussed. Finally, the pros and cons of three forms of bench mark imagery: real, composite and synthetic, are delineated.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint source-channel coding and power adaptation for energy efficient wireless video communications",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0923596505000123",
+            "Abstract": "We consider efficiently transmitting video over a hybrid wireless/wire-line network by optimally allocating resources across multiple protocol layers. Specifically, we present a framework of joint source-channel coding and power adaptation, where error resilient source coding, channel coding, and transmission power adaptation are jointly designed to optimize video quality given constraints on the total transmission energy and delay for each video frame. In particular, we consider the combination of two types of channel coding\u2014inter-packet coding (at the transport layer) to provide protection against packet dropping in the wire-line network and intra-packet coding (at the link layer) to provide protection against bit errors in the wireless link. In both cases, we allow the coding rate to be adaptive to provide unequal error protection at both the packet and frame level. In addition to both types of channel coding, we also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Structural similarity metrics for texture analysis and retrieval",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5413897/",
+            "Abstract": "The development of objective texture similarity metrics for image analysis applications differs from that of traditional image quality metrics because substantial point-by-point deviations are possible for textures that according to human judgment are essentially identical. Thus, structural similarity metrics (SSIM) attempt to incorporate \u00bfstructural\u00bf information in image comparisons. The recently proposed structural texture similarity metric (STSIM) relies entirely on local image statistics. We extend this idea further by including a broader set of local image statistics, basing the selection on metric performance as compared to subjective evaluations. We utilize both intra- and inter-subband correlations, and also incorporate information about the color composition of the textures into the similarity metrics. The performance of the proposed metrics is compared to PSNR, SSIM, and STSIM on the basis of subjective evaluations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Rate-distortion optimized product code forward error correction for video transmission over IP-based wireless networks",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1327246/",
+            "Abstract": "The problem of encoding and transmitting a video sequence over an IP-based wireless network, consisting of both wired and wireless links, is addressed. To combat the different types of packet loss in the heterogeneous network, the use of a product code forward error correction (FEC) scheme capable of providing unequal error protection is considered. At the transport layer, Reed-Solomon (RS) coding is used to provide inter-packet protection. In addition, rate-compatible punctured convolutional (RCPC) coding is used at the link layer to provide unequal intra-packet protection. Optimal bit allocation is performed in a rate-distortion optimized joint source-channel coding and power allocation framework to achieve the best video quality. Simulation results illustrate the advantage of the proposed product code FEC scheme over previously studied approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Subjective similarity evaluation for scenic bilevel images",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6853577/",
+            "Abstract": "In order to provide ground truth for subjectively comparing compression methods for scenic bilevel images, as well as for judging objective similarity metrics, this paper describes the subjective similarity rating of a collection of distorted scenic bilevel images. Unlike text, line drawings, and silhouettes, scenic bilevel images contain natural scenes, e.g., landscapes and portraits. Seven scenic images were each distorted in forty-four ways, including random bit flipping, dilation, erosion and lossy compression. To produce subjective similarity ratings, the distorted images were each viewed by 77 subjects. These are then used to compare the performance of four compression algorithms and to assess how well percentage error and SmSIM work as bilevel image similarity metrics. These subjective ratings can also provide ground truth for future tests of objective bilevel image similarity metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scalable video coding and packet scheduling for multiuser video transmission over wireless networks",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14333307533217121939&hl=en&oi=scholarr",
+            "Abstract": "Wireless video transmission is prone to potentially low data rates and unpredictable degradations due to timevarying channel conditions. Such degradations are difficult to overcome using conventional video coding techniques. Scalable video coding offers a flexible bitstream that can be dynamically adapted to fit the prevailing channel conditions. Advances in scalable video compression techniques, such as the newly adopted scalable extension of H. 264/AVC, as well as recent advances in wireless access technologies offer possibilities for tackling this challenge. In this paper, a content-aware scheduling and resource allocation scheme is proposed, that uses a gradient-based scheduling framework in conjunction with scalable video coding techniques to provide multiple high quality video streams over a range of operating conditions to multiple users. Simulation results show that the proposed scheme performs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Channel modeling and its effect on the end-to-end distortion in wireless video communications",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1421807/",
+            "Abstract": "A major limitation faced by a mobile user is their dependence on a limited battery supply. For wireless video communications, joint source coding and transmission power management (JSCPM) has recently been considered as a means of efficiently allocating transmission energy. In order to reduce complexity, the design of many of these adaptive resource allocation algorithms utilizes simplified channel models that do not account for the burstiness of the channel. We analyze the effects of such channel model simplifications on the end-to-end distortion. We present a channel model that is based on information theoretic considerations, which captures the bursty nature of wireless channels and accounts for packet lengths when calculating the probability of loss. Given the source coding and transmission parameters derived using a simplified channel model, our goal is to analyze how the end-to-end distortion is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceiving graphical and pictorial information via hearing and touch",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7544538/",
+            "Abstract": "We propose a dynamic interactive system for conveying visual information via hearing and touch to blind and visually impaired people. The system is implemented with a touch screen that allows the user to actively explore a two-dimensional layout consisting of one or more objects with the finger while listening to auditory feedback. Sound is used as the primary source of information for object localization, identification, and shape, while touch is used for pointing and kinesthetic feedback. A static overlay of raised-dot tactile patterns can also be added. The head-related transfer function is used for rendering sound directionality, and variations of sound intensity or other features are used for rendering proximity. The main focus is on conveying the shape of an object, but the rendering of a simple scene layout, that consists of objects in a linear arrangement, each with a distinct tapping sound, is also considered and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:ipzZ9siozwsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Proceedings of SPIE: Human Vision and Electronic Imaging XIII: Introduction",
+            "Publication year": 2008,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/proceedings-of-spie-human-vision-and-electronic-imaging-xiii-intr",
+            "Abstract": "Proceedings of SPIE: Human Vision and Electronic Imaging XIII: Introduction \u2014 \nNorthwestern Scholars Skip to main navigation Skip to search Skip to main content \nNorthwestern Scholars Logo Help & FAQ Home Experts Organizations Research Output \nGrants Core Facilities Search by expertise, name or affiliation Proceedings of SPIE: Human \nVision and Electronic Imaging XIII: Introduction Bernice E. Rogowitz, Thrasyvoulos N. \nPappas Electrical and Computer Engineering Research output: Contribution to journal \u203a \nEditorial \u203a peer-review Overview Fingerprint Original language English (US) Article number \n680601 Pages (from-to) xi Journal Proceedings of SPIE - The International Society for \nOptical Engineering Volume 6806 DOIs https://doi.org/10.1117/12.792498 State Published - \n2008 Event Human Vision and Electronic Imaging XIII - San Jose, CA, United States \nDuration: Jan 28 2008 \u2192 Jan 31 2008 ASJC Scopus /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:WZBGuue-350C",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Human Skin Gloss Perception Based on Texture Statistics",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9366334/",
+            "Abstract": "We propose objective, image-based techniques for quantitative evaluation of facial skin gloss that is consistent with human judgments. We use polarization photography to obtain separate images of surface and subsurface reflections, and rely on psychophysical studies to uncover and separate the influence of the two components on skin gloss perception. We capture images of facial skin at two levels, macro-scale (whole face) and meso-scale (skin patch), before and after cleansing. To generate a broad range of skin appearances for each subject, we apply photometric image transformations to the surface and subsurface reflection images. We then use linear regression to link statistics of the surface and subsurface reflections to the perceived gloss obtained in our empirical studies. The focus of this paper is on within-subject gloss perception, that is, on visual differences among images of the same subject. Our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:HIFyuExEbWQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Geospatial image mining for nuclear proliferation detection: Challenges and new opportunities",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5649811/",
+            "Abstract": "With increasing understanding and availability of nuclear technologies, and increasing persuasion of nuclear technologies by several new countries, it is increasingly becoming important to monitor the nuclear proliferation activities. There is a great need for developing technologies to automatically or semi-automatically detect nuclear proliferation activities using remote sensing. Images acquired from earth observation satellites is an important source of information in detecting proliferation activities. High-resolution remote sensing images are highly useful in verifying the correctness, as well as completeness of any nuclear program. DOE national laboratories are interested in detecting nuclear proliferation by developing advanced geospatial image mining algorithms. In this paper we describe the current understanding of geospatial image mining techniques and enumerate key gaps and identify future research \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:tYavs44e6CUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using structural similarity quality metrics to evaluate image compression techniques",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4217219/",
+            "Abstract": "Perceptual image quality metrics have explicitly accounted for perceptual characteristics of the human visual system (HVS) by modeling sensitivity to subband noise as the just-noticeable threshold of distortion. While such metrics can successfully account for contrast and luminance masking, they are quite sensitive to spatial shifts, intensity shifts, contrast changes, and scale changes. In contrast, the recently proposed structural similarity (SSIM) metrics account for perception more implicitly with the assumption that the HVS is adapted for extracting structural information (relative spatial covariance) from images. As such, they have the potential to be much more effective in quantifying suprathreshold compression artifacts than traditional perceptual metrics, as such artifacts tend to distort the structure of an image. We use a (perceptually) weighted variation of the complex wavelet SSIM (CWSSIM) to evaluate standard \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4737935860115549353&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:IUKN3-7HHlwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structural similarity quality metrics in a coding context: exploring the space of realistic distortions [6057-22]",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15444226852777372150&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:9pM33mqn1YgC",
+            "Publisher": "International Society for Optical Engineering; 1999"
+        },
+        {
+            "Title": "MAP interpolation of an ising image block",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-17795-9_17",
+            "Abstract": "This paper considers the problem of finding the set of MAP reconstructions of an  block conditioned on a boundary configuration consisting of 1 or 2 alternating runs of black and white in a uniform Ising model with no external field. It shows that when the boundary contains a single run, the set of minimum odd bond reconstructions are described by simple paths connecting the endpoints of either the black or white run. When the boundary consists of 2 runs, the set of minimum odd bond reconstructions are formed in one or more of the following ways: by simple paths connecting the endpoints of the two black runs; by simple paths connecting the two white runs; or by three simple paths connecting one of the boundary odd bonds to each of the other three. The paper provides a closed form solution for determining all minimum odd bond reconstructions for a 2-run boundary.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:FAceZFleit8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "MPEG-4 outer-inner lip FAP interpolation",
+            "Publication year": 2005,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5685/0000/MPEG-4-outer-inner-lip-FAP-interpolation/10.1117/12.596789.short",
+            "Abstract": "This paper presents a novel inner-outer lip facial animation parameters (FAPs) interpolation within the framework of the MPEG-4 standard to allow for interpolation and realistic animation that can be accomplished at very low bit rates. The proposed technique applies Maximum a posteriori (MAP) estimation to interpolate the inner lip FAPs given outer lip FAPs, or vice versa. The vectors of the lip FAPs along with the first order and the second order temporal derivatives over frames and the conditional probabilities of these vectors are modeled as Gaussian distributions. As a result, the MAP estimate of the inner lip FAPs can be obtained as a linear transformation of the outer lip FAPs, or vice versa. When data obtained from the training process are stored in the receiver, the inner (or outer) lip FAPs can be interpolated from the outer (or inner) lip FAPs, which are all that needs to be transmitted. Thus, without any increase \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Resource allocation for downlink multiuser video transmission over wireless lossy networks",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4599190/",
+            "Abstract": " Demand for multimedia services, such as video streaming over wireless networks, has grown dramatically in recent years. The downlink transmission of multiple video sequences to multiple users over a shared resource-limited wireless channel, however, is a daunting task. Among the many challenges in this area are the time-varying channel conditions, limited available resources, such as bandwidth and power, and the different transmission requirements of different video content. This work takes into account the time-varying nature of the wireless channels, as well as the importance of individual video packets, to develop a cross-layer resource allocation and packet scheduling scheme for multiuser video streaming over lossy wireless packet access networks. Assuming that accurate channel feedback is not available at the scheduler, random channel losses combined with complex error concealment at the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive image segmentation based on color and texture",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1039087/",
+            "Abstract": "We propose an image segmentation algorithm that is based on spatially adaptive color and texture features. The features are first developed independently, and then combined to obtain an overall segmentation. Texture feature estimation requires a finite neighborhood which limits the spatial resolution of texture segmentation, while color segmentation provides accurate and precise edge localization. We combine a previously proposed adaptive clustering algorithm for color segmentation with a simple but effective texture segmentation approach to obtain an overall image segmentation. Our focus is in the domain of photographic images with an essentially unlimited range of topics. The images are assumed to be of relatively low resolution and may be degraded or compressed.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Proceedings of SPIE: Human Vision and Electronic Imaging XVIII",
+            "Publication year": 2013,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/proceedings-of-spie-human-vision-and-electronic-imaging-xviii",
+            "Abstract": "Proceedings of SPIE: Human Vision and Electronic Imaging XVIII \u2014 Northwestern Scholars \nSkip to main navigation Skip to search Skip to main content Northwestern Scholars Logo Help & \nFAQ Home Experts Organizations Research Output Grants Core Facilities Search by expertise, \nname or affiliation Proceedings of SPIE: Human Vision and Electronic Imaging XVIII Bernice E. \nRogowlitz (Editor), Thrasyvoulos N Pappas (Editor), Huib De Ridder (Editor) Electrical and \nComputer Engineering Research output: Book/Report \u203a Book Overview Original language \nEnglish (US) Publisher SPIE Number of pages 544 Volume 8651 ISBN (Print) 978-0819494245 \nState Published - 2013 Publication series Name Proceedings of SPIE - The International \nSociety for Optical Engineering Publisher SPIE ISSN (Print) 0277-786X Cite this APA Author \nBIBTEX Harvard Standard RIS Vancouver Rogowlitz, BE, Pappas, TN, & De Ridder, H. (.\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:9c2xU6iGI7YC",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Rate-distortion optimal skeleton-based shape coding",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/958665/",
+            "Abstract": "We present a new shape-coding approach, which decouples the shape information into two independent data sets, the skeleton and the distance of the boundary from the skeleton. The major benefit of this approach is that it allows a more flexible trade-off between accuracy of the approximation and bit-allocation cost, and thus, provides the possibility of better performance in the operational rate-distortion (ORD) optimal sense than other reported techniques. The characteristics of these data sets are studied and various approximation approaches are applied on each of them to reach an ORD optimal result. We apply, for example, polygonal approximation on both the skeleton and distance data. We demonstrate that the resulting approach outperforms existing ORD optimal approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A perceptual approach for semantic image retrieval",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1660368/",
+            "Abstract": "The rapid growth of digital imaging technology and the accumulation of large collections of digital images has created the need for efficient and intelligent schemes for image classification and retrieval. Since humans are the ultimate users of most retrieval systems, it is important to organize the contents semantically, according to meaningful categories. We propose a novel approach for assigning semantic labels to image segments, which together segment layout information can lead to content-based image classification and retrieval. The proposed approach relies on a perceptually based, spatially adaptive, color-texture segmentation scheme. We derive segment-wide features (color and spatial texture). These features serve as medium level descriptors that can effectively bridge the \"semantic gap\" between low and high level descriptors. The segment classification into semantic categories is based on linear \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Variance-aware distortion estimation for wireless video communications",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1246905/",
+            "Abstract": "The problem of encoding and transmitting a video sequence over a wireless channel is considered. Our objective is to minimize the end-to-end distortion while using a limited amount of transmission energy and delay. In our approach, we jointly adapt the source-coding parameters and transmission power per packet. We introduce the concept of \"variance-aware distortion estimation\" (VADE), and present a framework for controlling both the expected value and the variance of the end-to-end distortion. This framework is based on knowledge of how the video is compressed, the probability of packet loss, and the concealment strategy. To the best of our knowledge, this paper is the first to address the trade-off between the mean and variance of the end-to-end distortion. Experimental results demonstrate the potential of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Acoustic-tactile rendering of visual information",
+            "Publication year": 2012,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8291/82910M/Acoustic-tactile-rendering-of-visual-information/10.1117/12.916166.short",
+            "Abstract": "In previous work, we have proposed a dynamic, interactive system for conveying visual information via hearing and touch. The system is implemented with a touch screen that allows the user to interrogate a two-dimensional (2-D) object layout by active finger scanning while listening to spatialized auditory feedback. Sound is used as the primary source of information for object localization and identification, while touch is used both for pointing and for kinesthetic feedback. Our previous work considered shape and size perception of simple objects via hearing and touch. The focus of this paper is on the perception of a 2-D layout of simple objects with identical size and shape. We consider the selection and rendition of sounds for object identification and localization. We rely on the head-related transfer function for rendering sound directionality, and consider variations of sound intensity and tempo as two alternative \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:abG-DnoFyZgC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Image segmentation by spatially adaptive color and texture features",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1247135/",
+            "Abstract": "An image segmentation algorithm that is based on spatially adaptive color and texture features is presented. The proposed algorithm is based on a previously proposed algorithm but introduces a number of new elements. We use a new set of texture features based on a steerable filter decomposition. The steerable filters combined with a new spatial texture segmentation scheme provide a finer and more robust segmentation into texture classes. The proposed algorithm includes an elaborate border estimation procedure, which extends the idea of Pappas (1992) adaptive clustering segmentation algorithm to color texture. The performance of the proposed algorithm is demonstrated in the domain of photographic images, including low resolution compressed images.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Visual Signal Analysis: Focus on Texture Similarity (Presentation Recording)",
+            "Publication year": 2015,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9598/959802/Visual-Signal-Analysis-Focus-on-Texture-Similarity-Presentation-Recording/10.1117/12.2193656.short",
+            "Abstract": " ",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Energy efficient video summarization and transmission over a slow fading wireless channel",
+            "Publication year": 2005,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5685/0000/Energy-efficient-video-summarization-and-transmission-over-a-slow-fading/10.1117/12.587669.short",
+            "Abstract": "With the deployment of 2.5G/3G cellular network infrastructure and large number of camera equipped cell phones, the demand for video enabled applications are high. However, for an uplink wireless channel, both the bandwidth and battery energy capability are limited in a mobile phone for the video communication. These technical problems need to be effectively addressed before the practical and affordable video applications can be made available to consumers. In this paper we investigate the energy efficient video communication solution through joint video summarization and transmission adaptation over a slow fading channel. Coding and modulation schemes, as well as packet transmission strategy are optimized and adapted to the unique packet arrival and delay characteristics of the video summaries. Operational energy efficiency -- summary distortion performance is characterized under an optimal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:f2IySw72cVMC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Content-aware resource allocation for scalable video transmission to multiple users over a wireless network",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4217214/",
+            "Abstract": "Wireless video transmission is prone to unpredictable degradations due to time-varying channel conditions. Such degradations are difficult to overcome using conventional video coding techniques. Scalable video coding offers a flexible bitstream that can be dynamically adapted to fit the prevailing channel conditions. Within a scalable video coding framework, we develop simple packet prioritization strategies, which, when combined with a reasonable error concealment scheme and a content-aware resource allocation technique, provide for robust video transmission over time-varying channels. The packet prioritization as well as the calculation of the content-aware scheduling metric can be performed offline and signaled to the wireless scheduler.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Introduction to the issue on visual media quality assessment",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4799309/",
+            "Abstract": "The 12 papers in this special issue cover various aspects of visual media quality assessment.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Quality metrics for measuring end-to-end distortion in packet-switched video communication systems",
+            "Publication year": 2004,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5292/0000/Quality-metrics-for-measuring-end-to-end-distortion-in-packet/10.1117/12.548321.short",
+            "Abstract": "A critical component of any video transmission system is an objective metric for evaluating the quality of the video signal as it is seen by the end-user. In packet-based communication systems, such as a wireless channel or the Internet, the quality of the received signal is affected by both signal compression and packet losses. Due to the probabilistic nature of the channel, the distortion in the reconstructed signal is a random variable. In addition, the quality of the reconstructed signal depends on the error concealment strategy. A common approach is to use the expected mean squared error of the end-to-end distortion as the performance metric. It can be shown that this approach leads to unpredictable perceptual artifacts. A better approach is to account for both the mean and the variance of the end-to-end distortion. We explore the perceptual benefits of this approach. By accounting for the variance of the distortion \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Improved side matching for matched-texture coding",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7018377/",
+            "Abstract": "Matched-texture coding (MTC) exploits the redundancy of textured regions in natural images in order to achieve low-encoding-rate structurally lossless compression. A key element of MTC identifying large image blocks that can be replaced with previously encoded blocks that have similar structure. The side matching (SM) approach attempts to do this by matching the upper and left boundary (side) of a target block with the corresponding boundary of the candidate block, and then, among the best side matches, selecting the one that best matches the target block. We explore the effectiveness of, and interplay between, three SM criteria in order to increase the number and quality of matches and to reduce the computational complexity. The criteria are mean-squared-error, log variance ratio, and partial implementations of STSIM-2, a recently proposed structural texture similarity metric. We propose a hierarchical \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:2KloaMYe4IUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Generalized k-level cutset sampling and reconstruction",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7471963/",
+            "Abstract": "We propose a family of cutset sampling schemes and a generalized k-level image reconstruction approach formulated under a minimum mean squared error (MMSE) framework. The k-level reconstruction approach is a direct generalization of the recently proposed pattern-based approach, and can be applied to periodic samples either on a cutset or on a grid. Our experimental results indicate that the generalization of the k-level reconstruction approach results in only a small performance loss. For rectangular cutsets, we show that the proposed approach outperforms the cutset-MRF approach as well as two inpainting approaches. Moreover, we show that combining the cutset sampling with an additional point sample inside the periodic structure outperforms k-level reconstruction from cutset sampling and point sampling under comparable sampling densities.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DNA computing from a signal processing viewpoint",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1328093/",
+            "Abstract": "In this article, an analysis of Adleman's experiment and a review of DNA computing applications from a signal-processing point of view are provided. In addition, certain key parts of DNA computing are emphasized, such as the code word design, to which the application of signal processing theory and techniques can offer significant advantages. The goal of this article is to introduce to the signal processing community a new unexplored area of research.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceiving graphical and pictorial information via touch and hearing",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5946940/",
+            "Abstract": "With the ever increasing availability of the Internet and electronic media rich in graphical and pictorial information - for communication, commerce, entertainment, art, education - it has been hard for the visually impaired community to keep up. We propose a non-invasive system that can be used to convey graphical and pictorial information via touch and hearing. The main idea is that the user actively explores a two-dimensional layout consisting of one or more objects on a touch screen with the finger while listening to auditory feedback. We have demonstrated the efficacy of the proposed approach in a range of tasks, from basic shape identification to perceiving a scene with several objects. The proposed approach is also expected to contribute to research in virtual reality, immersive environments, and medicine.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mathematical and Perceptual Models for Image and Video Segmentation",
+            "Publication year": 2009,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/mathematical-and-perceptual-models-for-image-and-video-segmentati",
+            "Abstract": "Mathematical and Perceptual Models for Image and Video Segmentation \u2014 Northwestern \nScholars Skip to main navigation Skip to search Skip to main content Northwestern \nScholars Logo Help & FAQ Home Experts Organizations Research Output Grants Core \nFacilities Search by expertise, name or affiliation Mathematical and Perceptual Models for \nImage and Video Segmentation Thrasyvoulos N. Pappas Electrical and Computer \nEngineering Research output: Contribution to journal \u203a Article \u203a peer-review Overview \nOriginal language English Pages (from-to) 9-13 Journal IEEE Multimedia Communications \nTechnical Committee E-Letter Volume 4 State Published - Jul 2009 Cite this APA Author \nBIBTEX Harvard Standard RIS Vancouver Pappas, TN (2009). Mathematical and \nPerceptual Models for Image and Video Segmentation. IEEE Multimedia Communications \nTechnical Committee E-Letter, 4, 9-13. Pappas, N. / for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:S16KYo8Pm5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Human vision and electronic imaging XI(16-18 January 2006, San Jose, California, USA)",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=710342402983768118&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Hierarchical Lossy Bilevel Image Compression Based on Cutset Sampling",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9307275/",
+            "Abstract": "We consider lossy compression of a broad class of bilevel images that satisfy the smoothness criterion, namely, images in which the black and white regions are separated by smooth or piecewise smooth boundaries, and especially lossy compression of complex bilevel images in this class. We propose a new hierarchical compression approach that extends the previously proposed fixed-grid lossy cutset coding (LCC) technique by adapting the grid size to local image detail. LCC was claimed to have the best rate-distortion performance of any lossy compression technique in the given image class, but cannot take advantage of detail variations across an image. The key advantages of the hierarchical LCC (HLCC) is that, by adapting to local detail, it provides constant quality controlled by a single parameter (distortion threshold), independent of image content, and better overall visual quality and rate-distortion \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:_5tno0g5mFcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mixed visual reference frames: perceiving non-retino-centric visual quantities in a retino-centric frame",
+            "Publication year": 2005,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.3996&rep=rep1&type=pdf",
+            "Abstract": "It is a useful competence to see motion relative to the head or to the external world, although those quantities are not directly given on the retina. The same holds for judgement of the shape of an object. We argue that the required transformations can be and are done independent of the associated direction transformations. This creates perceptual channels with retinal apertures but non-retinocentric motion-or shapesensitivity.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:URolC5Kub84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structure-preserving properties of bilevel image compression [6806-41]",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10493461164655938070&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:olpn-zPbct0C",
+            "Publisher": "International Society for Optical Engineering; 1999"
+        },
+        {
+            "Title": "2018 IEEE 13th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP): Chairs' Welcome",
+            "Publication year": 2018,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/2018-ieee-13th-image-video-and-multidimensional-signal-processing",
+            "Abstract": "2018 IEEE 13th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP): \nChairs' Welcome \u2014 Northwestern Scholars Skip to main navigation Skip to search Skip to main \ncontent Northwestern Scholars Logo Help & FAQ Home Experts Organizations Research Output \nGrants Core Facilities Search by expertise, name or affiliation 2018 IEEE 13th Image, Video, \nand Multidimensional Signal Processing Workshop (IVMSP): Chairs' Welcome Yiannis \nKompatsiaris, Thrasyvoulos N. Pappas, Vasileios Mezaris, Alessandro Foi, Brendt Wohlberg \nElectrical and Computer Engineering Research output: Contribution to journal \u203a Editorial \u203a \npeer-review Overview Fingerprint Original language English (US) Article number 8448910 \nJournal 2018 IEEE 13th Image, Video, and Multidimensional Signal Processing Workshop, \nIVMSP 2018 - Proceedings DOIs https://doi.org/10.1109/IVMSPW.State Published - Aug 27 13th '\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:hCrLmN-GePgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "TRANSACTIONS PAPERS-Power-Aware Coding and Transmission Techniques-Joint Source Coding and Transmission Power Management for Energy Efficient Wireless Video Communications",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1747576821331938888&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "New York, NY: Institute of Electrical and Electronics Engineers, 1991-"
+        },
+        {
+            "Title": "Image analysis and compression: Renewed focus on texture",
+            "Publication year": 2010,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7543/75430N/Image-analysis-and-compression-renewed-focus-on-texture/10.1117/12.851682.short",
+            "Abstract": "We argue that a key to further advances in the fields of image analysis and compression is a better understanding of texture. We review a number of applications that critically depend on texture analysis, including image and video compression, content-based retrieval, visual to tactile image conversion, and multimodal interfaces. We introduce the idea of \"structurally lossless\" compression of visual data that allows significant differences between the original and decoded images, which may be perceptible when they are viewed side-by-side, but do not affect the overall quality of the image. We then discuss the development of objective texture similarity metrics, which allow substantial point-by-point deviations between textures that according to human judgment are essentially identical.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:k_IJM867U9cC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Joint source coding and packet marking for video transmission over Diffserv networks",
+            "Publication year": 2002,
+            "Publication url": "https://ivpl.northwestern.edu/wp-content/uploads/2019/02/download-1-1.pdf",
+            "Abstract": "We consider transmission of video for real-time display over a network offering differentiated services. In such a network, the probability of loss for each video packet is determined by the service class assigned to it. Using information about the error concealment strategy at the decoder and the QoS status of the network, we jointly consider the selection of source coding parameters and packet classification. A minimum cost approach is presented in which the goal is to minimize the cost to transmit a video sequence, while achieving a desired level of video quality, as measured by the expected distortion of the received video sequence. An approach for minimizing the distortion subject to a cost constraint is also discussed. A solution approach based on Lagrangian relaxation and deterministic dynamic programming is presented. Experimental results demonstrate the advantage of simultaneously adapting the source coding and priority assignment.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Joint Source Channel Coding for Efficient Energy Utilization in Wireless Video Communication",
+            "Publication year": 2001,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/joint-source-channel-coding-for-efficient-energy-utilization-in-w",
+            "Abstract": "Joint Source Channel Coding for Efficient Energy Utilization in Wireless Video Communication \n\u2014 Northwestern Scholars Skip to main navigation Skip to search Skip to main content \nNorthwestern Scholars Logo Help & FAQ Home Experts Organizations Research Output Grants \nCore Facilities Search by expertise, name or affiliation Joint Source Channel Coding for \nEfficient Energy Utilization in Wireless Video Communication C. Luna, Y. Eisenburg, T. Pappas, \nRandall Berry, A. Katsaggelos Electrical and Computer Engineering Research output: Chapter \nin Book/Report/Conference proceeding \u203a Conference contribution Overview Original language \nEnglish Title of host publication Proceedings of 35th Asilomar Conference on Signals, Systems, \nand Computers State Published - 2001 Event Proceedings of 35th Asilomar Conference \non Signals, Systems, and Computers - Pacific Grove, CA Duration: Nov 1 2001 \u2192 \u2026 of on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:SpbeaW3--B0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Proceedings of SPIE: Human Vision and Electronic Imaging XX",
+            "Publication year": 2015,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/proceedings-of-spie-human-vision-and-electronic-imaging-xx",
+            "Abstract": "Proceedings of SPIE: Human Vision and Electronic Imaging XX \u2014 Northwestern Scholars Skip \nto main navigation Skip to search Skip to main content Northwestern Scholars Logo Help & \nFAQ Home Experts Organizations Research Output Grants Core Facilities Search by expertise, \nname or affiliation Proceedings of SPIE: Human Vision and Electronic Imaging XX Bernice E. \nRogowitz (Editor), Thrasyvoulos N Pappas (Editor), Huib De Ridder (Editor) Electrical and \nComputer Engineering Research output: Book/Report \u203a Book Overview Original language \nEnglish (US) Publisher SPIE Number of pages 586 Volume 9394 ISBN (Print) 978-1628414844 \nState Published - 2015 Publication series Name Proceedings of SPIE - The International \nSociety for Optical Engineering Publisher SPIE ISSN (Print) 0277-786X Cite this APA Author \nBIBTEX Harvard Standard RIS Vancouver Rogowitz, BE, Pappas, TN, & De Ridder, H. (Eds.(\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:dBIO0h50nwkC",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Image spam hunter",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4517972/",
+            "Abstract": "Spammers are constantly creating sophisticated new weapons in their arms race with anti-spam technology, the latest of which is image-based spam. The newest image-based spam uses simple image processing technologies to vary the content of individual messages, e.g. by changing foreground colors, backgrounds, font types, or even rotating and adding artifacts to the images. Thus, they pose great challenges to conventional spam filters. In this paper, we propose a system using a probabilistic boosting tree to determine whether an incoming image is a spam or not based on global image features, i.e. color and gradient orientation histograms. The system identifies spam without the need for OCR and is robust in the face of the kinds of variation found in current spam images. Evaluation results show the system correctly classifies 90% of spam images while mislabeling only 0.86% of non-spam images as spam.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A novel cost-distortion optimization framework for video streaming over differentiated services networks",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1247239/",
+            "Abstract": "This paper presents a novel framework for streaming video over a Differentiated Services (DiffServ) network that jointly considers video source coding, packet classification and error concealment within the scope of cost-distortion optimization. Our formulation incorporates the random network delay for each packet into the calculation of the probability of packet loss and manages the end-to-end packet delay by selecting the encoding parameters and packet priority. We formulate two approaches to evaluate the performance of the proposed framework: a minimum distortion approach and a minimum cost approach, in which the encoding mode and priority class for each packet are optimally selected so as to minimize the total distortion subject to cost constraints, or to minimize the total cost subject to end-to-end distortion constraints. Simulation results demonstrate the advantage of jointly adapting the source coding \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Audio display system",
+            "Publication year": 2012,
+            "Publication url": "https://patents.google.com/patent/US20120124470A1/en",
+            "Abstract": "An audio display system includes a pointing device configured to address locations within an interaction field, a sound system adapted to communicate with the pointing device, and\u2014an object mapping unit adapted to communicate with the sound system. The object mapping unit is configured to generate a map identifying locations within the interaction field that correspond to a representation of an object to be displayed such that the interaction field is segmented into an exterior region and an interior region of the representation of the object. The sound system is configured to provide an object-locating sound when the pointing device addresses a location in the exterior region so as to guide a user to further address the interaction field at least one of closer to or further away from the interior region of the object.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A content-aware scheduling scheme for video streaming to multiple users over wireless networks",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071687/",
+            "Abstract": "There is a rapidly growing interest in high speed data transmission over digital cellular networks. This interest is fueled mainly by the need to provide multimedia content to mobile users. In this paper, we present a packet scheduling scheme that can be used for real-time streaming of pre-encoded video over downlink packet access wireless networks. We consider a gradient-based scheduling scheme in which user data rates are dynamically adjusted based on their channel quality as well as the gradients of a utility function. The utility functions are designed by taking into account the distortion of the received video. They allow for content-aware packet scheduling both within and across multiple users. Simulation results show that the gradient-based scheduling framework, when combined with the distortion-aware utility functions, significantly outperforms conventional content-independent packet scheduling schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Learning perception",
+            "Publication year": 2005,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/learning-perception",
+            "Abstract": "Learning Perception \u2014 Northwestern Scholars Skip to main navigation Skip to search Skip to \nmain content Northwestern Scholars Logo Help & FAQ Home Experts Organizations Research \nOutput Grants Core Facilities Search by expertise, name or affiliation Learning Perception \nThrasyvoulos N. Pappas, Junqing Chen, Dejan Depalov Electrical and Computer Engineering \nResearch output: Contribution to journal \u203a Article \u203a peer-review Overview Original language \nEnglish Pages (from-to) 18-20 Journal OE Magazine DOIs https://doi.org/10.1117/2.5200510.\nState Published - Oct 30 2005 Access to Document 10.1117/2.5200510.Cite this APA Author \nBIBTEX Harvard Standard RIS Vancouver Pappas, TN, Chen, J., & Depalov, D. (2005). Learning \nPerception. OE Magazine, 18-20. https://doi.org/10.1117/2.5200510.Pappas, Thrasyvoulos \nN. ; Chen, Junqing ; Depalov, Dejan. / Learning Perception. In: OE Magazine. 2005 ; . -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:HbR8gkJAVGIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging XIV",
+            "Publication year": 2009,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2009SPIE.7240E....R/abstract",
+            "Abstract": "Human Vision and Electronic Imaging XIV - NASA/ADS Now on home page ads icon ads \nEnable full ADS view NASA/ADS Human Vision and Electronic Imaging XIV Rogowitz, \nBernice E. ; Pappas, Thrasyvoulos N. Abstract Publication: Human Vision and Electronic \nImaging XIV Pub Date: February 2009 Bibcode: 2009SPIE.7240E....R No Sources Found \u00a9 \nThe SAO/NASA Astrophysics Data System adshelp[at]cfa.harvard.edu The ADS is operated \nby the Smithsonian Astrophysical Observatory under NASA Cooperative Agreement \nNNX16AC86A NASA logo Smithsonian logo Resources About ADS ADS Help What's New \nCareers@ADS Social @adsabs ADS Blog Project Switch to full ADS Is ADS down? (or is it \njust me...) Smithsonian Institution Smithsonian Privacy Notice Smithsonian Terms of Use \nSmithsonian Astrophysical Observatory NASA \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:mlAyqtXpCwEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Analysis of segment statistics for semantic classification of natural images",
+            "Publication year": 2007,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6492/64920D/Analysis-of-segment-statistics-for-semantic-classification-of-natural-images/10.1117/12.716237.short",
+            "Abstract": "A major challenge facing content-based image retrieval is bridging the gap between low-level image primitives and high-level semantics. We have proposed a new approach for semantic image classification that utilizes the adaptive perceptual color-texture segmentation algorithm by Chen et al., which segments natural scenes into perceptually uniform regions.  The color composition and spatial texture features of the regions are used as medium level descriptors, based on which the segments are classified into semantic categories.  The segment features consist of spatial texture orientation information and color composition in terms of a limited  number of spatially adapted dominant colors.  The feature selection and the performance of the classification algorithms are based on the segment statistics. We investigate the dependence of the segment statistics on the segmentation algorithm.  For this, we compare the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Cutset sampling and reconstruction of images",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6115843/",
+            "Abstract": "This paper presents a new approach to sampling images in which samples are taken on a cutset with respect to a graphical image model. The cutsets considered are Manhattan grids, for example every Nth row and column of the image. Cutset sampling is motivated mainly by applications with physical constraints, e.g. a ship taking water samples along its path, but also by the fact that dense sampling along lines might permit better reconstruction of edges than conventional sampling at the same density. The main challenge in cutset sampling lies in the reconstruction of the unsampled blocks. As a first investigation, this paper uses segmentation followed by linear estimation. First, the ACA method [1] is modified to segment the cutset, followed by a binary Markov random field (MRF) inspired segmentation of the unsampled blocks. Finally, block interiors are estimated from the pixels on their boundaries, as well as their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint source-channel coding and power allocation for energy efficient wireless video communications",
+            "Publication year": 2003,
+            "Publication url": "http://users.eecs.northwestern.edu/~fzhai/publications/jsccpa.pdf",
+            "Abstract": "We consider an energy-efficient video streaming system where source coding, channel coding, and transmission power allocation are jointly designed to compensate for channel errors. Our focus is on streaming applications with relatively strict delay constraints; for such applications, forward error correction (FEC) is the preferred channel coding technique to recover from packet losses. We propose a framework of joint source-channel coding and power allocation (JSCCPA), where resources such as bandwidth and transmission power are optimally allocated to provide unequal error protection (UEP) for achieving the best video quality. An efficient algorithm based on Lagrangian relaxation and dynamic programming is proposed to solve the constrained optimization problem. Simulation results illustrate the advantage of the proposed framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "The University; 1998"
+        },
+        {
+            "Title": "Motion-compensated wavelet video coding using adaptive mode selection",
+            "Publication year": 2004,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5308/0000/Motion-compensated-wavelet-video-coding-using-adaptive-mode-selection/10.1117/12.532675.short",
+            "Abstract": "A motion-compensated wavelet video coder is presented that uses adaptive mode selection (AMS) for each macroblock (MB). The block-based motion estimation is performed in the spatial domain, and an embedded zerotree wavelet coder (EZW) is employed to encode the residue frame. In contrast to other motion-compensated wavelet video coders, where all the MBs are forced to be in INTER mode, we construct the residue frame by combining the prediction residual of the INTER MBs with the coding residual of the INTRA and INTER_ENCODE MBs. Different from INTER MBs that are not coded, the INTRA and INTER_ENCODE MBs are encoded separately by a DCT coder. By adaptively selecting the quantizers of the INTRA and INTER_ENCODE coded MBs, our goal is to equalize the characteristics of the residue frame in order to improve the overall coding efficiency of the wavelet coder. The mode selection is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:KxtntwgDAa4C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Image quality assessment",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780123744579000214",
+            "Abstract": "This chapter examines objective criteria for the evaluation of image quality as perceived by an average human observer. The focus is on image fidelity, i.e., how close an image is to a given original or reference image. This paradigm of image quality assessment (QA) is also known as full reference image QA. Three classes of image QA algorithms that correlate with visual perception significantly better are discussed\u2014human vision based metrics, Structural SIMilarity (SSIM) metrics, and information theoretic metrics. Each of these techniques approaches the image QA problem from a different perspective and using different first principles. In addition to these QA techniques, this chapter also highlights the similarities, dissimilarities, and interplay between these seemingly diverse techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "A hybrid Markov random field model for bilevel cutset reconstruction",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7533015/",
+            "Abstract": "We propose a hybrid Markov random field (MRF) model and a two stage cutset-MRF approach for reconstructing bilevel images from cutsets. We show that the proposed approach leads to substantial improvements over previous cutset-MRF approaches in terms of both reconstruction error and visual quality (continuity of reconstructed segments and preservation of image structure). The proposed approach approaches the performance of pattern-based approaches without the additional memory requirements and training overhead. We also show that it outperforms inpainting approaches adapted to bilevel cutset reconstruction.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Roughness vs. contrast in natural textures",
+            "Publication year": 2014,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9014/90140C/Roughness-vs-contrast-in-natural-textures/10.1117/12.2047135.short",
+            "Abstract": "We investigate the effect of contrast enhancement on the subjective roughness of visual textures. Our analysis is based on subjective experiments with seventeen images from the CUReT database in three variants: original, synthesized textures, and contrast-enhanced synthesized textures. In Experiment 1, participants were asked to adjust the contrast of a synthesized image so that it became similar in roughness to the original image. A new adaptive procedure that extends the staircase paradigm was used for efficient placement of the stimuli. In Experiment 2, the subjective roughness and the subjective contrast of the original, synthesized, and contrastenhanced synthesized images were determined using a pairwise comparison paradigm. The results of the two experiments show that although contrast enhancement of a synthesized image results in a similar subjective roughness as the original, the subjective \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:UHK10RUVsp4C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Error Concealment and Information Recovery-Joint Source Coding and Packet Classification for Real-Time Video Transmission Over Differentiated Services Networks",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6259304027222426063&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Piscataway, NJ: Institute of Electrical and Electronic Engineers, Inc., c1999-"
+        },
+        {
+            "Title": "Human vision and electronic imaging",
+            "Publication year": 2001,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-10/issue-1/0000/Human-vision-and-electronic-imaging/10.1117/1.1336802.short",
+            "Abstract": "The field of electronic imaging has made incredible strides over the past decade producing systems with higher signal quality, complex data formats, sophisticated operations for analyzing and visualizing information, advanced interfaces, and richer image environments. Since electronic imaging systems and applications are designed for human users, the success of these systems depends on the degree to which they match the features of human vision and cognition. This paper reviews the interplay between human vision and electronic imaging, describing how the methods, models and experiments in human vision have influenced the development of imaging systems, and how imaging technologies and applications have raised new research questions for the vision community. Using the past decade of papers from the IS&T/SPIE Conference on Human Vision and Electronic Imaging as a lens, we trace a path up \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:aqlVkmm33-oC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Content-aware resource allocation and packet scheduling for video transmission over wireless networks",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4205057/",
+            "Abstract": "A cross-layer packet scheduling scheme that streams pre-encoded video over wireless downlink packet access networks to multiple users is presented. The scheme can be used with the emerging wireless standards such as HSDPA and IEEE 802.16. A gradient based scheduling scheme is used in which user data rates are dynamically adjusted based on channel quality as well as the gradients of a utility function. The user utilities are designed as a function of the distortion of the received video. This enables distortion-aware packet scheduling both within and across multiple users. The utility takes into account decoder error concealment, an important component in deciding the received quality of the video. We consider both simple and complex error concealment techniques. Simulation results show that the gradient based scheduling framework combined with the content-aware utility functions provides a viable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DNA-based matching of digital signals",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1327177/",
+            "Abstract": "Adleman with his pioneering work set the stage for the new field of bio-computing research (Science, vol.266, p.1021-1024, 1994). His main idea was to use actual chemistry to solve problems that are either unsolvable by conventional computers, or require an enormous amount of computation. The main focus of our research is to consider the application of molecular computing to the domain of digital signal processing (DSP). In this paper, we consider matching problems that arise in signal processing applications and are amenable to a DNA-based solution. Digital data are encoded in DNA sequences using a sophisticated codeword set that satisfies the noise tolerance constraint (NTC) that we introduce. NTC, one of the main contributions of our work, takes into account the presence of noise in digital signals by exploiting the annealing between non-perfect complementary sequences. We propose an algorithm to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Auditory feedback from tactile interrogation of two dimensional scene for visually impaired.",
+            "Publication year": 2011,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.3588359",
+            "Abstract": "With the ever increasing availability of the internet and electronic media rich in graphical and pictorial information (for communication, commerce, entertainment, art, and education), it has been hard for the visually impaired community to keep up. We propose a non\u2010invasive system that can be used to convey graphical and pictorial information via hearing and touch. The main idea is that the user actively explores a two\u2010dimensional layout on a touch screen (with or without tactile overlay) with the finger while listening to spatially conditioned auditory feedback with unique sound assigned and each region representing an object. The proposed approach was successful in a range of tasks, from basic shape identification to perceiving a scene with several objects. While this can represent a revolution for the visually impaired population, sighted can also benefit from the technology in situations they are unable to utilize \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:dshw04ExmUIC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Digital halftoning",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1215227/",
+            "Abstract": "PCs, and the Internet have had a dramatic impact on the generation and dissemination of information in our society. In a few short decades, we have moved from a model in which the ability to generate and publish high-quality printed material was limited to a relatively small group of individuals, to a model in which these capabilities are broadly available to everyone. The development of digital halftoning algorithms has been a key enabler of this transformation, especially with respect to the ability to print images.Digital halftoning refers to the process of rendering continuous-tone images with printing or display devices that can only directly represent a relatively small number of different output levels. To represent each level of gray, the halftoning algorithm generates a pattern of textures that, when perceived by the human viewer, has the appearance of a constant gray value. These patterns are locally modulated to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:fEOibwPWpKIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Matched-texture coding for structurally lossless compression",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6467047/",
+            "Abstract": "We propose a new texture-based compression approach that relies on new texture similarity metrics and is able to exploit texture redundancies for significant compression gains without loss of visual quality, even though there may visible differences with the original image (structurally lossless). Existing techniques rely on point-by-point metrics that cannot account for the stochastic and repetitive nature of textures. The main idea is to encode selected blocks of textures - as well as smooth blocks and blocks containing boundaries between smooth and/or textured regions - by pointing to previously occurring (already encoded) blocks of similar textures, blocks that are not encoded in this way, are encoded by a baseline method, such as JPEG. Experimental results with natural images demonstrate the advantages of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "5G Enabled Energy Innovation: Advanced Wireless Networks for Science, Workshop Report",
+            "Publication year": 2020,
+            "Publication url": "https://www.osti.gov/biblio/1606538",
+            "Abstract": "Rapidly expanding, new telecommunications infrastructure based on 5G technologies will disrupt and transform how we design, build, operate, and optimize scientific infrastructure and the experiments and services enabled by that infrastructure, from continental-scale sensor networks to centralized scientific user facilities, from intelligent Internet of Things devices to supercomputers. Concurrently, 5G will introduce, or exacerbate, challenges related to protecting infrastructure and associated scientific data as well as to fully leveraging opportunities related to expanded infrastructure scale and complexity. The US Department of Energy (DOE) Office of Science operates scientific infrastructure, supporting some of the nation\u2019s most advanced intellectual discoveries, spanning the country and including 30 world-class user facilities from supercomputers to accelerators. Along with field experiments and remote observatories, every aspect of DOE\u2019s scientific enterprise will be affected by 5G, which amounts to a complete renovation of the underpinnings of the nation\u2019s information infrastructure. In this report we explore the scientific opportunities and new research challenges associated with 5G, ranging from scalability to heterogeneity to cybersecurity. The rapid commercial deployment of 5G opens the opportunity to rethink and reinvent DOE\u2019s scientific infrastructure and experimentation, from intelligent sensor networks at unprecedented scales to a digital continuum (\u00a7 3) of cyberinfrastructure spanning low-power sensors, more\u00bb",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:DUooU5lO8OsC",
+            "Publisher": "USDOE Office of Science (SC)(United States)"
+        },
+        {
+            "Title": "An adaptive clustering and chrominance-based merging approach for image segmentation and abstraction",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5651905/",
+            "Abstract": "We present a novel, computationally efficient approach for natural image segmentation that uses the adaptive clustering algorithm (ACA) to obtain an initial segmentation and chrominance-based region merging to consolidate regions of perceptually uniform texture. The combination of ACA and chrominance-based merging preserves salient edges and smooths out noise and edges within textured regions. It can thus be used for image abstraction. Experimental results with natural images indicate the effectiveness of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Lossy cutset coding of bilevel images based on Markov random fields",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6725607/",
+            "Abstract": "An effective, low complexity method for lossy compression of scenic bilevel images, called lossy cutset coding, is proposed based on a Markov random field model. It operates by losslessly encoding pixels in a square grid of lines, which is a cutset with respect to a Markov random field model, and preserves key structural information, such as borders between black and white regions. Relying on the Markov random field model, the decoder takes a MAP approach to reconstructing the interior of each grid block from the pixels on its boundary, thereby creating a piecewise smooth image that is consistent with the encoded grid pixels. The MAP rule, which reduces to finding the block interiors with fewest black-white transitions, is directly implementable for the most commonly occurring block boundaries, thereby avoiding the need for brute force or iterative solutions. Experimental results demonstrate that the new method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:JQOojiI6XY0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging: Classical, Vision, & X-Ray Optics",
+            "Publication year": 2001,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/human-vision-and-electronic-imaging-classical-vision-amp-x-ray-op",
+            "Abstract": "Human Vision and Electronic Imaging: Classical, Vision, & X-Ray Optics \u2014 Northwestern \nScholars Skip to main navigation Skip to search Skip to main content Northwestern Scholars \nLogo Help & FAQ Home Experts Organizations Research Output Grants Core Facilities Search \nby expertise, name or affiliation Human Vision and Electronic Imaging: Classical, Vision, & X-Ray \nOptics Bernice E. Rogowitz, Thrasyvoulos N. Pappas, Jan P. Allebach Electrical and Computer \nEngineering Research output: Chapter in Book/Report/Conference proceeding \u203a Chapter \nOverview Original language English Title of host publication Handbook of Optics Subtitle of host \npublication Classical, Vision, & X-Ray Optics Editors Michael Bass Publisher OSA/McGraw-Hill \nPages 17.1-17.14 Volume III State Published - 2001 Cite this APA Author BIBTEX Harvard \nStandard RIS Vancouver Rogowitz, BE, Pappas, TN, & Allebach, JP (2001). Human \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:M7yex6snE4oC",
+            "Publisher": "OSA/McGraw-Hill"
+        },
+        {
+            "Title": "Adaptive perceptual color-texture image segmentation",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1510687/",
+            "Abstract": "We propose a new approach for image segmentation that is based on low-level features for color and texture. It is aimed at segmentation of natural scenes, in which the color and texture of each segment does not typically exhibit uniform statistical characteristics. The proposed approach combines knowledge of human perception with an understanding of signal characteristics in order to segment natural scenes into perceptually/semantically uniform regions. The proposed approach is based on two types of spatially adaptive low-level features. The first describes the local color composition in terms of spatially adaptive dominant colors, and the second describes the spatial characteristics of the grayscale component of the texture. Together, they provide a simple and effective characterization of texture that the proposed algorithm uses to obtain robust and, at the same time, accurate and precise segmentations. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dates Ahead",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8350351/",
+            "Abstract": "[Dates Ahead] Page 1 132 Please send calendar submissions to: Dates Ahead, Att: Jessica \nWelsh, E-mail: j.welsh@ieee.org DATES AHEAD IEEE SIgnal ProcESSIng MagazInE | May \n2018 | Please send calendar submissions to: Dates Ahead, Att: Jessica Welsh, E-mail: j.welsh@ieee.org \nDATES AHEAD 2018 june Ieee Data Science Workshop 4\u20136 June, Lausanne, Switzerland. \nGeneral Chairs: Olivier Verscheure and Pascal Frossard URL: http://2018.ieeedatascience.org/ \n13th Ieee Image, Video, and Multidimensional Signal Processing (IVMSP) 10\u201312 June, Zagori, \nGreece. General Chairs: Yiannis Kompatsiaris and Thrasyvoulos N. Pappas URL: \nhttp://ivmsp2018.org/ 20th Ieee Statistical Signal Processing Workshop (SSP) 10\u201313 June, \nFreiburg, Germany. General Chair: Peter Schreier URL: https://ssp2018.org/ 19th Ieee \nInternational Workshop on Signal Processing Advances in Wireless Communications (SPAWC, \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:ClCfbGk0d_YC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal source coding and transmission power management using a min-max expected distortion approach",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1038079/",
+            "Abstract": "We consider the problem of compressing a video sequence for transmission over a wireless channel. In our approach we jointly consider error resilience and concealment techniques, at the source coding level, and transmission power management at the physical layer. We formulate a minimum-maximum distortion problem, where our goal is to either (i) minimize the total transmission energy for a given maximum expected distortion, or (ii) minimize the maximum expected distortion at the receiver for a given maximum transmission energy. Experimental results show that simultaneously adjusting the source coding and transmission power is more energy efficient than considering these factors separately.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual feature selection for semantic image classification",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4107181/",
+            "Abstract": "Content-based image retrieval has become an indispensable tool for managing the rapidly growing collections of digital images. The goal is to organize the contents semantically, according to meaningful categories. In recent papers we introduced a new approach for semantic image classification that relies on the adaptive perceptual color-texture segmentation algorithm proposed by Chen et al. This algorithm combines knowledge of human perception and signal characteristics to segment natural scenes into perceptually uniform regions. The resulting segments can be classified into semantic categories using region-wide features as medium level descriptors. Such descriptors are the key to bridging the gap between low-level image primitives and high-level image semantics. The segment classification is based on linear discriminant analysis techniques. In this paper, we examine the classification performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Technical Program Chairs\u2019 Overview",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8462144/",
+            "Abstract": "Presents the introductory welcome message from the conference proceedings. May include the conference officers' congratulations to all involved with the conference event and publication of the proceedings record.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:e_rmSamDkqQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging X",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=987708403631119008&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:PVjk1bu6vJQC",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Structural texture similarity metrics for retrieval applications",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4711975/",
+            "Abstract": "Traditional image similarity metrics compare two images on a point-by-point basis. On the other hand, structural similarity metrics (SSIM) attempt to base image similarity on \"structural\" information. We evaluate the performance of SSIM metrics in the context of texture similarity, and propose new metrics that incorporate the best features of SSIM and eliminate the most serious drawbacks. We show that the proposed new texture similarity metrics outperform SSIM and its variations, as well as PSNR and other traditional metrics. We demonstrate the advantages of the new metrics on a carefully selected set of 39 texture pairs and comparisons with informal subjective test results.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "VAPOR: Variance-aware per-pixel optimal resource allocation",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1576802/",
+            "Abstract": "Characterizing the video quality seen by an end-user is a critical component of any video transmission system. In packet-based communication systems, such as wireless channels or the Internet, packet delivery is not guaranteed. Therefore, from the point-of-view of the transmitter, the distortion at the receiver is a random variable. Traditional approaches have primarily focused on minimizing the expected value of the end-to-end distortion. This paper explores the benefits of accounting for not only the mean, but also the variance of the end-to-end distortion when allocating limited source and channel resources. By accounting for the variance of the distortion, the proposed approach increases the reliability of the system by making it more likely that what the end-user sees, closely resembles the mean end-to-end distortion calculated at the transmitter. Experimental results demonstrate that variance-aware resource \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Effective and efficient subjective testing of texture similarity metrics",
+            "Publication year": 2015,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=josaa-32-2-329",
+            "Abstract": "The development and testing of objective texture similarity metrics that agree with human judgments of texture similarity require, in general, extensive subjective tests. The effectiveness and efficiency of such tests depend on a careful analysis of the abilities of human perception and the application requirements. The focus of this paper is on defining performance requirements and testing procedures for objective texture similarity metrics. We identify three operating domains for evaluating the performance of a similarity metric: the ability to retrieve \u201cidentical\u201d textures; the top of the similarity scale, where a monotonic relationship between metric values and subjective scores is desired; and the ability to distinguish between perceptually similar and dissimilar textures. Each domain has different performance goals and requires different testing procedures. For the third domain, we propose ViSiProG, a new Visual Similarity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Subjective evaluation of spatial resolution and quantization noise tradeoffs",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4749266/",
+            "Abstract": "Most full-reference fidelity/quality metrics compare the original image to a distorted image at the same resolution assuming a fixed viewing condition. However, in many applications, such as video streaming, due to the diversity of channel capacities and display devices, the viewing distance and the spatiotemporal resolution of the displayed signal may be adapted in order to optimize the perceived signal quality. For example, at low bitrate coding applications an observer may prefer to reduce the resolution or increase the viewing distance to reduce the visibility of the compression artifacts. The tradeoff between resolution/viewing conditions and visibility of compression artifacts requires new approaches for the evaluation of image quality that account for both image distortions and image size. In order to better understand such tradeoffs, we conducted subjective tests using two representative still image coders, JPEG \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Minimizing transmission energy in wireless video communications",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/959206/",
+            "Abstract": "A key constraint in mobile communications is the reliance on a battery with a limited energy supply. Efficiently utilizing the available energy is therefore an important design consideration. We consider a situation where a video sequence is to be compressed and transmitted over a wireless channel. The goal is to limit the amount of distortion in the received video sequence while using the minimum required transmission energy. To accomplish this goal, we consider error resilience and concealment techniques, at the source coding level, as well as the dynamic allocation of physical layer communication resources. We consider these approaches jointly in a novel framework. We formulate an optimization problem that corresponds to minimizing the energy required to transmit a video frame with an acceptable level of distortion. We present methods for solving this problem and other extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "2004 index continued 2004 index continued",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1359152/",
+            "Abstract": "This index covers all technical items - papers, correspondence, reviews, etc. - that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation, year, month, and inclusive pagination. The Subject Index contains entries describing the item under all appropriate subject headings, plus the first author's name, the publication abbreviation, month, and year, and inclusive pages. Note that the item title is found only under he primary entry in the Author Index.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hierarchical bilevel image compression based on cutset sampling",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6467410/",
+            "Abstract": "We propose a hierarchical lossy bilevel image compression method that relies on adaptive cutset sampling (along lines of a rectangular grid with variable block size) and Markov Random Field based reconstruction. It is an efficient encoding scheme that preserves image structure by using a coarser grid in smooth areas of the image and a finer grid in areas with more detail. Experimental results demonstrate that the proposed method performs as well as or better than the fixed-grid approach, and outperforms other lossy bilevel compression methods in its rate-distortion performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimal sensor selection for video-based target tracking in a wireless sensor network",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1421762/",
+            "Abstract": "The use of wireless sensor networks for target tracking is an active area of research. Imaging sensors that obtain video-rate images of a scene can have a significant impact in such networks, as they can measure vital information on the identity, position, and velocity of moving targets. Since wireless networks must operate under stringent energy constraints, it is important to identify the optimal set of imagers to be used in a tracking scenario such that the network lifetime is maximized. We formulate this problem as one of maximizing the information utility gained from a set of sensors subject to a constraint on the average energy consumption in the network. We use an unscented Kalman filter framework to solve the tracking and data fusion problem with multiple imaging sensors in a computationally efficient manner, and use a lookahead algorithm to optimize the sensor selection based on the predicted trajectory of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "3D surface registration using Z-SIFT",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6115864/",
+            "Abstract": "We present a Z-SIFT based 3D surface registration algorithm that utilizes the depth information enhanced SIFT features to make initial alignment and the 2D feature weighted Iterative Closest Point (ICP) algorithm to realize accurate registration. The combination of SIFT features and depth information extracts faithful corresponding points between the 2D images and provides good coarse alignment for the 3D surfaces. The 2D feature weighted ICP also outperforms the naive ICP algorithm in terms of speed and accuracy. We use this approach in the context of multiple view alignment for 3D scanners. Experimental results with real objects and human faces indicate the effectiveness of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:eflP2zaiRacC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Influence of Texture Structure on the Perception of Color Composition",
+            "Publication year": 2020,
+            "Publication url": "https://www.ingentaconnect.com/content/ist/ei/2020/00002020/00000011/art00016",
+            "Abstract": "The authors explore the influence of the structure of a texture image on the perception of its color composition through a series of psychophysical studies. They estimate the color composition of a texture by extracting its dominant colors and the associated percentages. They then synthesize new textures with the same color composition but different geometric structural patterns. They conduct empirical studies in the form of two-alternative forced choice tests to determine the influence of two structural factors, pattern scale and shape, on the perceived amount of target color. The results of their studies indicate that (a) participants are able to consistently assess differences in color composition for textures of similar shape and scale, and (b) the perception of color composition is nonveridical. Pattern scale and shape have a strong influence on perceived color composition: the larger the scale, the higher the perceived \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:6ZxmRoH8BuwC",
+            "Publisher": "Society for Imaging Science and Technology"
+        },
+        {
+            "Title": "Structural texture similarity metrics for image analysis and retrieval",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6476011/",
+            "Abstract": "We develop new metrics for texture similarity that accounts for human visual perception and the stochastic nature of textures. The metrics rely entirely on local image statistics and allow substantial point-by-point deviations between textures that according to human judgment are essentially identical. The proposed metrics extend the ideas of structural similarity and are guided by research in texture analysis-synthesis. They are implemented using a steerable filter decomposition and incorporate a concise set of subband statistics, computed globally or in sliding windows. We conduct systematic tests to investigate metric performance in the context of \u201cknown-item search,\u201d the retrieval of textures that are \u201cidentical\u201d to the query texture. This eliminates the need for cumbersome subjective tests, thus enabling comparisons with human performance on a large database. Our experimental results indicate that the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:uLbwQdceFCQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual color and spatial texture features for segmentation",
+            "Publication year": 2003,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5007/0000/Perceptual-color-and-spatial-texture-features-for-segmentation/10.1117/12.485528.short",
+            "Abstract": "We develop spatially adaptive, low-level, color and spatial texture features based on perceptual principles about the processing of texture and color information. We then propose an algorithm that combines these features to obtain image segmentations that convey semantic information that can be used for content-based retrieval. Our focus is images of natural scenes. The color texture features are based on the estimation of spatially adaptive dominant colors, which on one hand, reflect the fact that the human visual system cannot simultaneously perceive a large number of colors, and on the other, the fact that image colors are spatially varying. The spatially adaptive dominant colors are obtained using a previously developed adaptive clustering algorithm for color segmentation. The spatial texture features are based on a steerable filter decomposition, which offers an efficient and flexible approximation of early \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:hkOj_22Ku90C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "An efficient rate-distortion optimal shape coding approach utilizing a skeleton-based decomposition",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1233561/",
+            "Abstract": "In this paper, we present a new shape-coding approach, which decouples the shape information into two independent signal data sets; the skeleton and the boundary distance from the skeleton. The major benefit of this approach is that it allows for a more flexible tradeoff between approximation error and bit budget. Curves of arbitrary order can be utilized for approximating both the skeleton and distance signals. For a given bit budget for a video frame, we solve the problem of choosing the number and location of the control points for all skeleton and distance signals of all boundaries within a frame, so that the overall distortion is minimized. An operational rate-distortion (ORD) optimal approach using Lagrangian relaxation and a four-dimensional direct acyclic graph (DAG) shortest path algorithm is developed for solving the problem. To reduce the computational complexity from O(N/sup 5/) to O(N/sup 3/), where N \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An integrated joint source-channel coding framework for video transmission over packet lossy networks",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1421618/",
+            "Abstract": "The problem of application-layer error control for real-time video transmission over packet lossy networks is commonly addressed by joint source-channel coding (JSCC). The traditional JSCC approaches solve this problem in a sequential manner, where source coding and channel coding are not fully integrated. In this paper, we present an integrated joint source-channel coding (IJSCC) framework, where error resilient source coding, channel coding and error concealment are jointly considered in an integrated manner. We show through both analysis and simulations the advantages of the proposed IJSCC approach, in comparison to a sequential JSCC approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual criteria for image quality evaluation",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.40.364&rep=rep1&type=pdf",
+            "Abstract": "Recent advances in digital imaging technology, computational speed, storage capacity, and networking have resulted in the proliferation of digital images, both still and video. As the digital images are captured, stored, transmitted, and displayed in di erent devices, there is a need to maintain image quality. In this chapter we examine objective criteria for the evaluation of image quality that are based on models of visual perception. An image is a two (or three) dimensional reproduction of the real world with an additional dimension for moving images. In this chapter we are only interested in images that are intended to be seen by humans. Such images could include a number of di erent imaging modalities, eg infrared, x-ray images, CAT scans, etc., as long as the ultimate destination is the human eye. The tasks could vary from looking at a photograph or watching a movie to reading text and trying to detect a target or a medical condition. However, the problem of image quality changes fundamentally when the ultimate user or interpreter of an image is not the human eye. For example, a typical quality metric for a range1 image is a maximum (percent) deviation from the true value. On the other hand, the human eye's sensitivity to luminance variations depends on a number of factors, including light level, spatial frequency, and signal content.Even though we use the term image quality, we are primarily interested in image delity, ie how close an image is to a given original or reference image. It is very hard to develop objective metrics that evaluate image quality without a reference image, even though the human visual system is very good at doing that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Rate-distortion optimized hybrid error control for real-time packetized video transmission",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1556623/",
+            "Abstract": "The problem of application-layer error control for real-time video transmission over packet lossy networks is commonly addressed via joint source-channel coding (JSCC), where source coding and forward error correction (FEC) are jointly designed to compensate for packet losses. In this paper, we consider hybrid application-layer error correction consisting of FEC and retransmissions. The study is carried out in an integrated joint source-channel coding (IJSCC) framework, where error resilient source coding, channel coding, and error concealment are jointly considered in order to achieve the best video delivery quality. We first show the advantage of the proposed IJSCC framework as compared to a sequential JSCC approach, where error resilient source coding and channel coding are not fully integrated. In the IJSCC framework, we also study the performance of different error control scenarios, such as pure FEC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Lossy compression of bilevel images based on Markov random fields",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4379170/",
+            "Abstract": "A new method for lossy compression of bilevel images based on Markov random fields (MRFs) is proposed. It preserves key structural information about the image, and then reconstructs the smoothest image that is consistent with this information. The smoother the original image, the lower the required bit rate, and conversely, the lower the bit rate, the smoother the approximation provided by the decoded image. The main idea is that as long as the key structural information is preserved, then any smooth contours consistent with this information will provide an acceptable reconstructed image. The use of MRFs in the decoding stage is the key to efficient compression. Experimental results demonstrate that the new technique outperforms existing lossy compression techniques, and provides substantially lower rates than lossless techniques (JBIG) with little loss in perceived image quality.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive user interfaces for relating high-level concepts to low-level photographic parameters",
+            "Publication year": 2011,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7865/78650A/Adaptive-user-interfaces-for-relating-high-level-concepts-to-low/10.1117/12.879072.short",
+            "Abstract": "Common controls for photographic editing can be difficult to use and have a significant learning curve. Often, a user does not know a direct mapping from a high-level concept (such as \"soft\") to the available parameters or controls. In addition, many concepts are subjective in nature, and the appropriate mapping may vary from user to user. To overcome these problems, we propose a system that can quickly learn a mapping from a high-level subjective concept onto low- level image controls using machine learning techniques. To learn such a concept, the system shows the user a series of training images that are generated by modifying a seed image along different dimensions (e.g., color, sharpness), and collects the user ratings of how well each training image matches the concept. Since it is known precisely how each modified example is different from the original, the system can determine the correlation between \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:XiVPGOgt02cC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Image Quality Assessment",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12312050976341579805&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An optimal shape encoding scheme using skeleton decomposition",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1203254/",
+            "Abstract": "This paper presents an operational rate-distortion (ORD) optimal approach for skeleton-based boundary encoding. The boundary information is first decomposed into skeleton and distance signals, by which a more efficient representation of the original boundary results. Curves of arbitrary order are utilized for approximating the skeleton and distance signals. For a given bit budget for a video frame, we solve the problem of choosing the number and location of the control points for all skeleton and distance signals and for all boundaries within a frame, so that the overall distortion is minimized. The problem is solved with the use of Lagrangian relaxation and a shortest path algorithm in a 4D directed acyclic graph (DAG) we propose. By defining a path selection pattern, we reduce the computational complexity of the 4D DAG shortest path algorithm from O(N/sup -5/) to O(N/sup -4/), where N is the number of admissible \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Subband analysis and synthesis of real-world textures for objective and subjective determination of roughness",
+            "Publication year": 2010,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7527/75270N/Subband-analysis-and-synthesis-of-real-world-textures-for-objective/10.1117/12.849107.short",
+            "Abstract": "In a previous study we investigated the roughness of real world textures taken from the CUReT database. We showed that people could systematically judge the subjective roughness of these textures. However, we did not determine which objective factors relate to these perceptual judgments of roughness. In the present study we take the first step in this direction using a subband decomposition of the CUReT textures. This subband decomposition is used to predict the subjective roughness judgments of the previous study. We also generated synthetic textures with uniformly distributed white noise of the same variance in each subband, and conducted a perceptual experiment to determine the perceived roughness of both the original and synthesized texture images. The participants were asked to rank-order the images based on the degree of perceived roughness. It was found that the synthesis method produces \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Assessing gloss perception of human facial skin across subject",
+            "Publication year": 2018,
+            "Publication url": "https://www.ingentaconnect.com/content/ist/ei/2018/00002018/00000014/art00013",
+            "Abstract": "We propose novel techniques for the evaluation of perceived facial gloss across subjects with varying surface reflections. Given a database of facial skin images from multiple subjects, ordered according to perceived gloss within each subject, we propose a head-tail (least and most glossy image of each subject) selective comparison approach for ordering the entire database. We conducted a two-alternative forced-choice empirical study to compare the facial gloss across subjects within each group. Using the gloss scores of selected candidates and the gloss range of a reference subject, we fit each within-subject gloss range to a global gloss range and quantized the scores into distinct gloss levels. We then conducted another empirical study to validate the quantized gloss levels. The results show that in 90% of the cases, the levels are consistent with human judgments. Based on the database with quantized gloss \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:5qfkUJPXOUwC",
+            "Publisher": "Society for Imaging Science and Technology"
+        },
+        {
+            "Title": "Spatial resolution and quantization noise tradeoffs for scalable image compression",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1660500/",
+            "Abstract": "Most full-reference quality metrics compare the original image to a distorted image at the same level of resolution assuming a fixed viewing distance. In video streaming applications, however, the transmitted or received signal may differ from the original in compression as well as spatiotemporal resolution. For example, at low bitrate coding applications the compressed image may be too distorted, and hence the observer may prefer to reduce the resolution or increase the viewing distance in order to reduce the visibility of the compression artifacts. The selection of the best tradeoff between resolution/viewing distance and visibility of compression artifacts requires a quality metric that accounts for both image distortions and image size. Such tradeoffs are not reflected in existing quality metrics, which ignore the signal visibility and only measure the visibility of compression distortions, which decrease with image size. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "irsroB pt i an",
+            "Publication year": 2005,
+            "Publication url": "http://www.eecs.northwestern.edu/~pappas/papers/pappas_oe05.pdf",
+            "Abstract": "ignal processing systems are still a long way from matching the performance of the human visual system (HVS). This could be intimidating or discouraging, but human performance also can provide inspiration and a performance goal for scientists and engineers working in the field. Many image-and videoprocessing algorithms rely, at least implicitly, on the properties of human vision. Image halftoning (displaying continuous-tone images using a limited number of colors), for example, would not be possible without the ability of the eye to act as a spatial lowpass filter. Movies would be perceived as a sequence of still-frame images were it not for the ability of the eye to act as a temporal lowpass filter. There has been a lot of progress recently in incorporating explicit HVS models in image processing algorithms to maximize system performance. We can achieve\" perceptually lossless\" compression of images and video \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:5ugPr518TE4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structural texture similarity metric based on intra-class variances",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7025399/",
+            "Abstract": "Traditional point-by-point image similarity metrics, such as the \u2113 2 -norm, are not always consistent with human perception, especially in textured regions. We consider the problem of identifying textures that are perceptually identical to a query texture; this is important for image retrieval, compression, and restoration applications. Recently proposed structural texture similarity (STSIM) metrics assign high similarity scores to such perceptually identical textured patches, even though they may have significant pixel-wise deviations. We use an STSIM approach that compares a set of statistical patch descriptors through a weighted distance, and, given a dataset of labeled texture images partitioned into classes of perceptually identical patches, we calculate the weights as the variances of each statistic centered around the mean of its class. Experimental results demonstrate that the proposed approach outperforms existing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:W5xh706n7nkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Subjective and objective texture similarity for image compression",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6288145/",
+            "Abstract": "We focus on the evaluation of texture similarity metrics for structurally lossless or nearly structurally lossless image compression. By structurally lossless we mean that the original and compressed images, while they may have visible differences in a side-by-side comparison, they have similar quality so that one cannot tell which is the original. This is particularly important for textured regions, which can have significant point-by-point differences, even though to the human eye they appear to be the same. As in traditional metrics, texture similarity metrics are expected to provide a monotonic relationship between measured and perceived distortion. To evaluate metric performance according to this criterion, we introduce a systematic approach for generating synthetic texture distortions that model variations that occur in natural textures. Based on such distortions, we conducted subjective experiments with a variety of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual similarity metrics for retrieval of natural textures",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5293277/",
+            "Abstract": "We investigate perceptual similarity metrics for the content-based retrieval of natural textures. The goal is to find perceptually similar textures that may have significant differences on a point-by-point basis. The evaluation of such metrics typically requires extensive and cumbersome subjective tests. The focus of this paper is on the recovery of textures that are \"identical\" to the query texture, in the sense that they are pieces of the same texture. This is important in content-based image retrieval (CBIR), where one may want to find images that contain a particular texture, as well as in some near-threshold coding applications. The advantage of evaluating metric performance in the context of retrieving identical textures is that the ground truth is known, and therefore no subjective tests are required. We can thus compare the performance of different metrics on large sets of textures, and derive meaningful statistical results.We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "How can DNA computing be applied to digital signal processing?",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1359142/",
+            "Abstract": "Although digital signals have been used as inputs in some DNA computing applications, there has been a small research regarding the application of DNA computing principles in solving DSP problems. This article offers a first step towards filling this gap and thus strengthening the ties between biology and signal processing. By focusing the attention of the article to a specific domain, the author believes that many new exciting applications of DNA computation can be discovered. A short overview of molecular biology and tools commonly used in DNA computing is also provided for presentation purposes. This article offers the signal processing community some future directions regarding the unexplored area of research in biocomputing technology.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Effects of contrast adjustment on visual gloss of natural textures",
+            "Publication year": 2015,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9394/93940F/Effects-of-contrast-adjustment-on-visual-gloss-of-natural-textures/10.1117/12.2078256.short",
+            "Abstract": "We propose a novel subband-based S-curve transformation for increasing the perceived contrast of images, and use it to explore the relation between perceived gloss and perceived contrast of natural textures. The proposed transformation makes minimal assumptions on lighting conditions and does not require prior knowledge of surface geometry. Through a series of subjective experiments with both complex real-world textures and synthesized Lambertian surfaces, we show that there is a strong and robust correlation between perceived contrast and perceived gloss, regardless of the composition of the texture. We also show that contrast modification of an image with near-frontal illumination can compensate for the change in perceived gloss due to an oblique illumination (of the same texture at the same viewing angle).",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:evX43VCCuoAC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Structure-preserving properties of bilevel image compression",
+            "Publication year": 2008,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6806/680617/Structure-preserving-properties-of-bilevel-image-compression/10.1117/12.784165.short",
+            "Abstract": "We discuss a new approach for lossy compression of bilevel images based on Markov random fields (MRFs). The goal is to preserve key structural information about the image, and then reconstruct the smoothest image that is consistent with this information. The image is compressed by losslessly coding the pixels in a square grid of lines and adding bits when needed to preserve structural information. The decoder uses the MRF model to reconstruct the interior of each block bounded by the grid, based on the pixels on its boundary, plus the extra bits provided for certain blocks. The idea is that, as long as the key structural information is preserved, then the smooth contours of the block having highest probability with respect to the MRF provides acceptable reconstructions. We propose and consider objective criteria for both encoding and evaluating the quality and structure preserving properties of the coded bilevel \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Transmission energy minimization in wireless video streaming applications",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/986902/",
+            "Abstract": "Transmitter energy is a valuable resource in wireless networks. Transmitter power management can have an impact on battery life for mobile users, link level QoS and network capacity. We consider efficient use of transmitter energy in a streaming application.. We formulate an optimization problem that corresponds to minimising the transmission energy required to achieve an acceptable level of distortion subject to a delay constraint. By considering jointly the selection of coding parameters and transmitter power, we can formulate an optimal policy. We present results illustrating the advantages of jointly considering these two variables.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Third International Symposium on Information Processing in Sensor Networks, IPSN 2004: Preface",
+            "Publication year": 2004,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/third-international-symposium-on-information-processing-in-sensor",
+            "Abstract": "Third International Symposium on Information Processing in Sensor Networks, IPSN 2004: \nPreface \u2014 Northwestern Scholars Skip to main navigation Skip to search Skip to main content \nNorthwestern Scholars Logo Help & FAQ Home Experts Organizations Research Output Grants \nCore Facilities Search by expertise, name or affiliation Third International Symposium on \nInformation Processing in Sensor Networks, IPSN 2004: Preface Thrasos Pappas, Jennifer Hou \nElectrical and Computer Engineering Research output: Chapter in Book/Report/Conference \nproceeding \u203a Conference contribution Overview Fingerprint Original language English (US) \nTitle of host publication Third International Symposium on Information Processing in Sensor \nNetworks, IPSN 2004 State Published - Jan 1 2004 Event Third International Symposium on \nInformation Processing in Sensor Networks, IPSN 2004 - Berkeley, CA., United States : 26 /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:xtoqd-5pKcoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Perceptually based techniques for semantic image classification and retrieval",
+            "Publication year": 2006,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6057/60570Z/Perceptually-based-techniques-for-semantic-image-classification-and-retrieval/10.1117/12.660612.short",
+            "Abstract": "The accumulation of large collections of digital images has created the need for efficient and intelligent schemes for content-based image retrieval. Our goal is to organize the contents semantically, according to meaningful categories. We present a new approach for semantic classification that utilizes a recently proposed color-texture segmentation algorithm (by Chen et al.), which combines knowledge of human perception and signal characteristics to segment natural scenes into perceptually uniform regions. The color and texture features of these regions are used as medium level descriptors, based on which we extract semantic labels, first at the segment and then at the scene level. The segment features consist of spatial texture orientation information and color composition in terms of a limited number of locally adapted dominant colors. The focus of this paper is on region classification. We use a hierarchical \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:mB3voiENLucC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Structural texture similarity for material recognition",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8803648/",
+            "Abstract": "We propose a new direct approach for material recognition under diverse illumination and viewing conditions based on visual texture. We apply K-means clustering to feature vectors that consist of steerable filter subband statistics and dominant colors of each texture image in order to obtain a small number of exemplars characterizing each material. We then use structural texture similarity metrics and color composition metrics to compare a query texture to the exemplars for material classification. Experimental results using the CUReT database establish the importance of color and demonstrate that five exemplars per texture provide performance comparable to the state of the art.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:0izLItjtcgwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A new subjective procedure for evaluation and development of texture similarity metrics",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5970366/",
+            "Abstract": "In order to facilitate the development of objective texture similarity metrics and to evaluate their performance, one needs a large texture database accurately labeled with perceived similarities between images. We propose ViSiProG, a new Visual Similarity by Progressive Grouping procedure for conducting subjective experiments that organizes a texture database into clusters of visually similar images. The grouping is based on visual blending, and greatly simplifies pairwise labeling. ViSiProG collects subjective data in an efficient and effective manner, so that a relatively large database of textures can be accommodated. Experimental results and comparisons with structural texture similarity metrics demonstrate both the effectiveness of the proposed subjective testing procedure and the performance of the metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human vision and electronic imaging",
+            "Publication year": 2000,
+            "Publication url": "http://ndl.ethernet.edu.et/bitstream/123456789/26099/1/2249.pdf#page=417",
+            "Abstract": "The field of electronic imaging has made incredible strides over the past decade as increased computational speed, bandwidth, and storage capacity have made it possible to perform image computations at interactive speeds. This means larger images, with more spatial, temporal, and chromatic resolution, can be captured, compressed, transmitted, stored, rendered, printed, and displayed. It also means that workstations and PCs can accommodate more complex image and data formats, more complex operations for analyzing and visualizing information, more advanced interfaces, and richer image environments, such as virtual reality. This, in turn, means that image technology can now be practically used in an expanding world of applications, including video, home photography, internet catalogues, digital libraries, art, and scientific data analysis. These advances in technology have been greatly influenced by research in human perception and cognition, and in turn, have stimulated new research into the vision, perception, and cognition of the human observer. Some important topics include spatial, temporal, and color vision, attentive and pre-attentive vision, pattern recognition, visual organization, object perception, language, and memory. The study of the interaction between human vision and electronic imaging is one of the key growth areas in imaging science. Its scope ranges from printing and display technologies to image processing algorithms for image rendering and compression, to applications involving interpretation, analysis, visualization, search, design, and aesthetics. Different electronic imaging applications call on different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:IRz6iEL74y4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Image analysis: Focus on texture similarity",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6553582/",
+            "Abstract": "Texture is an important visual attribute both for human perception and image analysis systems. We review recently proposed texture similarity metrics and applications that critically depend on such metrics, with emphasis on image and video compression and content-based retrieval. Our focus is on natural textures and structural texture similarity metrics (STSIMs). We examine the relation of STSIMs to existing models of texture perception, texture analysis/synthesis, and texture segmentation. We emphasize the importance of signal characteristics and models of human perception, both for algorithm development and testing/validation.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptually-tuned multiscale color-texture segmentation",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1419450/",
+            "Abstract": "We present a perceptually-tuned multiscale image segmentation algorithm that is based on spatially adaptive color and texture features. The proposed algorithm extends a previously proposed approach to include multiple texture scales. The determination of the multiscale texture features is based on perceptual considerations. We also examine the perceptual tuning of the algorithm and how it is affected by the presence of different texture scales. The multiscale extension is necessary for segmenting higher resolution images and is particularly effective in segmenting objects shown in different perspectives. The performance of the proposed algorithm is demonstrated in the domain of photographic images.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spatiotemporal algorithm for background subtraction",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4217267/",
+            "Abstract": "Background modeling and subtraction is a fundamental task in many computer vision and video processing applications. We present a novel probabilistic background modeling and subtraction method that exploits spatial and temporal dependencies between pixels. By using an initial clustering of the background scene, we model each pixel by a mixture of spatiotemporal Gaussian distributions, where each distribution represents locally a region in the neighborhood of the pixel. By extracting the local properties around each pixel, the proposed method obtains accurate models of dynamic backgrounds that are highly effective in detecting foreground objects. Experimental results for indoor and outdoor surveillance videos in comparison with other multimodal methods demonstrate the performance advantages of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "New Challenges for Image Processing Research",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6069670/",
+            "Abstract": "One of my goals has been to embrace new areas of research while maintaining a solid signal processing foundation. Advances in technology and emerging applications open up new opportunities and challenges for the image and video processing community. It is our duty to identify new areas of research in which signal processing can have a significant impact and to bring them under the transactions umbrella. Since such areas are increasingly multidisciplinary, it is critical to broaden the perspective of the transactions by putting more emphasis on topics such as human perception, acquisition and display devices, as well as interactivity and human\u2013computer interfaces. I am thus excited to introduce this issue\u2019s Overview article on computational photography,\u201cComputational Cameras: Convergence of Optics and Processing,\u201d by Changyin Zhou and Shree Nayar. Computational photography has been one of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:-FonjvnnhkoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Preprocessing of compressed digital video based on perceptual quality metrics",
+            "Publication year": 2003,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5007/0000/Preprocessing-of-compressed-digital-video-based-on-perceptual-quality-metrics/10.1117/12.485524.short",
+            "Abstract": "The objective of pre-processing is to eliminate information of least visual significance prior to encoding, in order to achieve best overall performance of a video compression system. We formulate the pre-processing problem in an operational rate-distortion framework, with the aim of maximizing the visual quality of the compressed video, as well as the coding efficiency of the system. Rather than filtering the original video, our novel approach consists of filtering the motion compensated error signal. This offers a significant computational advantage over other pre-filtering methods without sacrificing effectiveness. The proposed method selects the parameters of a pre-filter in conjunction with the selection of the quantization scales of the encoder. We incorporate a perceptual quality metric in the optimization process, in order to maximize the visual quality of the compressed video for given rate constraints.  Our approach \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:_xSYboBqXhAC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Energy efficient wireless video communications for the digital set-top box",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1039878/",
+            "Abstract": "In the future, digital set-top boxes may serve as the primary access point for wireless home networks, enabling mobile users to use videoconferencing as well as streaming applications on hand-held devices. In this scenario, an important issue that must be addressed is the limited energy supply of a mobile device. This is of course a relevant issue for any wireless device. We focus on methods for efficiently utilizing transmission energy in wireless video communications. We present a general framework for the problem of minimizing the transmission energy required to provide an acceptable level of video quality. We discuss two special cases in which communication resources are adjusted simultaneously with the source coding parameters in order to provide (i) packet loss adaptation and (ii) transmission rate adaptation.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:NhqRSupF_l8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Determining the influence of image-based cues on human skin gloss perception",
+            "Publication year": 2017,
+            "Publication url": "https://www.ingentaconnect.com/contentone/ist/ei/2017/00002017/00000014/art00026",
+            "Abstract": "We explore the influence of surface and subsurface reflections on skin gloss perception. We rely on multimodal photography to separate the surface and subsurface reflection images. Since the original data consists of a limited number of images (25 subjects, front and side view, before and after skin cleansing), we apply different transformations to surface and subsurface reflection images, in order to generate a broad range of appearance of skin images. We conducted two empirical studies with the expanded set of data, at both the macro-scale level (whole face) and the meso-scale level (local skin patch). We found that increasing the contrast of surface reflection results in higher gloss perception, while a decrease in the amount of subsurface reflection (lower average lightness, darker complexion) results in higher gloss perception; however, the differential effect of subsurface reflection on gloss diminishes as the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:g3aElNc5_aQC",
+            "Publisher": "Society for Imaging Science and Technology"
+        },
+        {
+            "Title": "An adaptive lighting correction method for matched-texture coding",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6853950/",
+            "Abstract": "Matched-Texture Coding is a novel image coder that utilizes the self-similarity of natural images that include textures, in order to achieve structurally lossless compression. The key to a high compression ratio is replacing large image blocks with previously encoded blocks with similar structure. Adjusting the lighting of the replaced block is critical for eliminating illumination artifacts and increasing the number of matches. We propose a new adaptive lighting correction method that is based on the Poisson equation with incomplete boundary conditions. In order to fully exploit the benefits of the adaptive Poisson lighting correction, we also propose modifications of the side-matching (SM) algorithm and structural texture similarity metric. We show that the resulting matched-texture algorithm achieves better coding performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Advances in efficient resource allocation for packet-based real-time video transmission",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1369704/",
+            "Abstract": "Multimedia applications involving the transmission of video over communication networks are rapidly increasing in popularity. Such applications can greatly benefit from adapting video coding parameters to network conditions as well as adapting network parameters to better support the application requirements. These two dimensions can both be viewed as allocating source and network resources to improve video quality. We highlight recent advances in optimal resource allocation for real-time video communications over unreliable and resource constrained communication channels. More specifically, we focus on point-to-point coding and delivery schemes in which the sequences are encoded on the fly. We present a high-level framework for resource-distortion optimization. The framework can be used for jointly considering factors across network layers, including source coding, channel resource allocation, and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A rate-distortion optimized error control scheme for scalable video streaming over the internet",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1221569/",
+            "Abstract": "Video streaming over the Internet is a challenging task due, in part to the wide range of bandwidth variations caused by network congestion. To deal with this challenge, we propose an optimal error control scheme for scalable video transmission over the Internet. The three major components of error controlerror resilience, forward error correction (FEC), and error concealment- are considered in the proposed framework. Rate-distortion (R-D) optimization is carried out to determine the encoding mode for each packet and the channel coding rates, in order to minimize the overall expected end-to-end distortion. Our simulation study demonstrates that the proposed approach is robust to the wide range channel bandwidth variations and greatly outperforms the classical R-D optimization scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Subjective Image Quality tradeoffs between spatial resolution and quantization noise",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4107190/",
+            "Abstract": "The importance of tradeoffs between spatial resolution and quantization noise has been examined in our previous work. Subjective experiments indicate that as the bitrate decreases, human observers generally prefer to reduce image resolution in order to maintain image quality, but the amount of distortion they are willing to accept increases with decreasing resolution. In this paper, we conducted further experiments with several images, different encoders, and a finer set of bitrates to determine the preferred resolution at each bit rate, and also the resolution at which there are no visible coding artifacts. Analysis of the subjective results using a wavelet-based perceptual quality metric verifies our earlier conclusion that human observers tend to reduce resolution in order to maintain image quality, but are willing to accept more artifacts as image size decreases.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Classifying paintings by artistic genre: An analysis of features & classifiers",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5293271/",
+            "Abstract": "This paper describes an approach to automatically classify digital pictures of paintings by artistic genre. While the task of artistic classification is often entrusted to human experts, recent advances in machine learning and multimedia feature extraction has made this task easier to automate. Automatic classification is useful for organizing large digital collections, for automatic artistic recommendation, and even for mobile capture and identification by consumers. Our evaluation uses variable resolution painting data gathered across Internet sources rather than solely using professional high-resolution data. Consequently, we believe this solution better addresses the task of classifying consumer-quality digital captures than other existing approaches. We include a comparison to existing feature extraction and classification methods as well as an analysis of our own approach across classifiers and feature vectors.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging XIII: 28-31 January 2008, San Jose, California, USA",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3137996899686045716&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:WJVC3Jt7v1AC",
+            "Publisher": "SPIE"
+        },
+        {
+            "Title": "Perceptual dimensions for a dynamic tactile display",
+            "Publication year": 2009,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7240/72400K/Perceptual-dimensions-for-a-dynamic-tactile-display/10.1117/12.817182.short",
+            "Abstract": "We propose a new approach for converting graphical and pictorial information into tactile patterns that can be displayed in a static or dynamic tactile device. The key components of the proposed approach are (1) an algorithm that segments a scene into perceptually uniform segments; (2) a procedure for generating perceptually distinct tactile patterns; and (3) a mapping of the visual textures of the segments into tactile textures that convey similar concepts. We used existing digital halftoning and other techniques to generate a wide variety of tactile textures. We then conducted formal and informal subjective tests with sighted (but visually blocked) and visually-impaired subjects to determine the ability of human tactile perception to perceive differences among them. In addition to generating perceptually distinguishable tactile patterns, our goal is to identify significant dimensions of tactile texture perception, which will \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Perceptual coders and perceptual metrics",
+            "Publication year": 2001,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4299/0000/Perceptual-coders-and-perceptual-metrics/10.1117/12.429485.short",
+            "Abstract": "We examine perceptual metrics and use them to evaluate the quality of still image coders. We show that mean-squared- error based metrics fail to predict image quality when one compares artifacts generated by different types of image coders. We consider three different types of coders: JPEG, the Safranek-Johnston perceptual subband coder (PIC), and the Said-Pearlman SPIHT algorithm with perceptually weighted subband quantization, based on the Watson et al. visual thresholds. We show that incorporating perceptual weighting in the SPIHT algorithm results in significant improvement in visual quality. The metrics we consider are based on the same image decompositions as the corresponding compression algorithms. Such metrics are computationally efficient and considerably simpler than more elaborate metrics. However, since each of the metrics is used for the optimization of a coder, one expects that they \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Pattern-based k-level cutset reconstruction",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7351423/",
+            "Abstract": "We propose a pattern-based approach for reconstructing k-level images from cutsets. We construct a database of k-level cutset block patterns and use it for reconstruction based on fuzzy pattern retrieval and Markov random field (MRF) energy minimization. The proposed approach outperforms previously proposed cutset-MRF approaches as well as inpainting approaches. When integrated into a lossy bilevel image coding scheme that utilizes cutsets, the proposed approach outperforms the state of the art with comparable constraints.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:VLnqNzywnoUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint source coding and data rate adaptation for energy efficient wireless video streaming",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1254586/",
+            "Abstract": "Rapid growth in wireless networks is fueling demand for video services from mobile users. While the problem of transmitting video over unreliable channels has received some attention, the wireless network environment poses challenges such as transmission power management that have received little attention previously in connection with video. Transmission power management affects battery life in mobile devices, interference to other users, and network capacity. We consider energy efficient transmission of a video sequence under delay and quality constraints. The selection of source coding parameters is considered jointly with transmitter power and rate adaptation, and packet transmission scheduling. The goal is to transmit a video frame using the minimal required transmission energy under delay and quality constraints. Experimental results are presented that illustrate the advantages of the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Local radius index-a new texture similarity feature",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6637888/",
+            "Abstract": "We develop a new type of statistical texture image feature, called a Local Radius Index (LRI), which can be used to quantify texture similarity based on human perception. Image similarity metrics based on LRI can be applied to image compression, identical texture retrieval and other related applications. LRI extracts texture features by using simple pixel value comparisons in space domain. Better performance can be achieved when LRI is combined with complementary texture features, e.g., Local Binary Patterns (LBP) and the proposed Subband Contrast Distribution. Compared with Structural Texture Similarity Metrics (STSIM), the LRI-based metrics achieve better retrieval performance with much less computation. Applied to the recently developed structurally lossless image coder, Matched Texture Coding, LRI enables similar performance while significantly accelerating the encoding.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint source coding and packet classification for real-time video transmission over differentiated services networks",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1468156/",
+            "Abstract": "Differentiated Services (DiffServ) is one of the leading architectures for providing quality of service in the Internet. We propose a scheme for real-time video transmission over a DiffServ network that jointly considers video source coding, packet classification, and error concealment within a framework of cost-distortion optimization. The selections of encoding parameters and packet classification are both used to manage end-to-end delay variations and packet losses within the network. We present two dual formulations of the proposed scheme: the minimum distortion problem, in which the objective is to minimize the end-to-end distortion subject to cost and delay constraints, and the minimum cost problem, which minimizes the total cost subject to end-to-end distortion and delay constraints. A solution to these problems using Lagrangian relaxation and dynamic programming is given. Simulation results demonstrate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Structural similarity quality metrics in a coding context: exploring the space of realistic distortions",
+            "Publication year": 2006,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6057/60570U/Structural-similarity-quality-metrics-in-a-coding-context--exploring/10.1117/12.660611.short",
+            "Abstract": "Perceptual image quality metrics have explicitly accounted for human visual system (HVS) sensitivity to subband noise by estimating thresholds above which distortion is just-noticeable. A recently proposed class of quality metrics, known as structural similarity (SSIM), models perception implicitly by taking into account the fact that the HVS is adapted for extracting structural information (relative spatial covariance) from images. We compare specific SSIM implementations both in the image space and the wavelet domain. We also evaluate the effectiveness of the complex wavelet SSIM (CWSSIM), a translation-insensitive SSIM implementation, in the context of realistic distortions that arise from compression and error concealment in video transmission applications. In order to better explore the space of distortions, we propose models for typical distortions encountered in video compression/transmission applications \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Rate control initialization algorithm for scalable video coding",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6116467/",
+            "Abstract": "We present a high-accuracy shape acquisition approach that uses a combined Gray code and phase-shifting structured light projection. The Gray code pattern coarsely divides the projected plane into local regions, whereas phase-shifting precisely determines the pixel-accurate index for each point on the plane. The combination of the two codifications greatly decreases the number of patterns as compared to Gray code alone. It also retains high resolution without the required phase unwrapping step in the phase-shifting algorithm, which is time consuming. Most importantly, it works for multiple objects or discontinuous surfaces without using markers, as employed by the phase-shifting method. Experimental results with real objects and human faces indicate the effectiveness of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:P5F9QuxV20EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptual tuning of low-level color and texture features for image segmentation",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1399595/",
+            "Abstract": "We perform subjective tests to determine the key parameters of low-level texture and color features for a previously proposed image segmentation algorithm. The parameters include thresholds for texture classification and feature similarity, as well as the window size for texture estimation. The subjective tests use small isolated patches of textures that correspond to homogeneous texture and color distributions. The goal is to determine what information such small image patches convey to human observers, and to relate those to image statistics. We show that this perceptual tuning of the segmentation algorithm leads to significant performance improvements.",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:u_35RYKgDlwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perceptually based techniques for image segmentation and semantic classification",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4064624/",
+            "Abstract": "We present a new approach for semantic image analysis that combines knowledge of human perception with an understanding of signal characteristics to segment natural scenes into perceptually uniform regions, and then uses the region statistics to extract semantic information. Applications include content-based image retrieval and region of interest extraction for efficient compression/transmission over heterogeneous networks",
+            "Abstract entirety": 1,
+            "Author pub id": "FdtIIgkAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hybrid light coding for fast and high-accuracy shape acquisition",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6116468/",
+            "Abstract": "In this paper we propose a novel rate control initialization algorithm for real-time H.264/scalable video coding. In particular, a two-step approach is proposed. First, the initial quantization parameter (QP) for each layer is determined by means of a parametric rate-quantization (R-Q) modeling that depends on the layer identifier (base or enhancement) and on the type of scalability (spatial or quality). Second, an intra-frame QP refinement method that allows for adapting the initial QP value when needed is carried out over the three first coded frames in order to take into consideration both the buffer control and the spatio-temporal complexity of the scene. The experimental results show that the proposed R-Q modeling for initial QP estimation, in combination with the intra-frame QP refinement method, provide a good performance in terms of visual quality and buffer control, achieving remarkably similar results to those \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Human Vision and Electronic Imaging 2017",
+            "Publication year": 2017,
+            "Publication url": "https://www.ingentaconnect.com/content/ist/ei/2018/00002018/00000014/art00001",
+            "Abstract": "Prof. Karol Myszkowski is a senior researcher at the Max Planck Institut Informatik, Saarbruecken, Germany. In the period from 1986 till 1992 he worked for Integra, Inc. a Japan-based, company specialized in developing rendering and global illumination software. He received his PhD (1991) in computer science from Warsaw University of Technology (Poland). In 2011 he was awarded with a lifetime professor title by the President of Poland. His research interests include global illumination and rendering, perception issues in graphics, high dynamic range imaging, and stereo 3D. He co-authored the book High Dynamic Range Imaging, and participated in various committees and editorial boards. He also co-chaired Rendering Symposium in 2001, ACM Symposium on Applied Perception in Graphics and Visualization in 2008, Spring Conference on Computer Graphics 2008, and Graphicon 2012.Discussion: Human \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:KUbvn5osdkgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detection, classification, and collaborative tracking of multiple targets using video sensors",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36978-3_36",
+            "Abstract": "The study of collaborative, distributed, real-time sensor networks is an emerging research area. Such networks are expected to play an essential role in a number of applications such as, surveillance and tracking of vehicles in the battlefield of the future. This paper proposes an approach to detect and classify multiple targets, and collaboratively track their position and velocity utilizing video cameras. Arbitrarily placed cameras collaboratively perform self-calibration and provide complete battlefield coverage. If some of the cameras are equipped with a GPS system, they are able to metrically reconstruct the scene and determine the absolute coordinates of the tracked targets. A background subtraction scheme combined with a Markov random field based approach is used to detect the target even when it becomes stationary. Targets are continuously tracked using a distributed Kalman filter approach. As the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "FdtIIgkAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        }
+    ]
+}]

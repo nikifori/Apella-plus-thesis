@@ -1,0 +1,1066 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5",
+    "romanize name": "Georgios Oikonomou",
+    "School-Department": "\u03a6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2",
+    "University": "upatras",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18334,
+    "Scholar name": "George Economou",
+    "Scholar id": "j9XzkygAAAAJ",
+    "Affiliation": "Professor, Physics Department, Univesity of Patras",
+    "Citedby": 2328,
+    "Interests": [
+        "computer vision",
+        "image processing",
+        "pattern recognition",
+        "biometric recognition",
+        "signal processing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=j9XzkygAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Cloud detection and classification with the use of whole-sky ground-based images",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-29172-2_49",
+            "Abstract": "A simple whole sky imaging system, based on a commercial digital camera with a fish-eye lens and a hemispheric dome, is used for the automatic estimation of total cloud coverage and classification. For the first time, a multi color criterion is applied on sky images, in order to improve the accuracy in detection of broken and overcast clouds under large solar zenith angles. The performance of the cloud detection algorithm is successfully compared with ground based weather observations. A simple method is presented for the detection of raindrops standing on the perimeter of hemispheric dome. Based on previous works on cloud classification, an improved k-Nearest-Neighbor algorithm is presented. The successful detection percentage of the classifier ranges between 78% and 95% for seven cloud types.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "From Text to Signatures: Knowledge Transfer for Efficient Deep Feature Learning in Offline Signature Verification",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417421014652",
+            "Abstract": "Handwritten signature is a common biometric trait, widely used for confirming the presence or the consent of a person. Offline Signature Verification (OSV) is the task of verifying the signer using static signature images captured after the finish of signing process, with many applications especially in the domain of forensics. Deep Convolutional Neural Networks (CNNs) can generate efficient feature representations, but their training is data-intensive. Since limited training data is an intrinsic problem of an OSV system\u2019s development, this work focuses on addressing the problem of learning informative features by employing prior knowledge from a similar task in a domain with an abundance of training data. In particular, we demonstrate that an appropriate pre-training of a CNN model in the task of handwritten text-based writer identification task, can dramatically improve the efficiency of the CNN in the OSV task \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Off-Line Signature Verification Using Two Step Transitional Features.",
+            "Publication year": 2011,
+            "Publication url": "http://www.mva-org.jp/Proceedings/2011CD/papers/09-17.pdf",
+            "Abstract": "In this work, a new approach for off-line signature recognition and verification is presented and described. A subset of the line, concave and convex family of curvature features is used to represent the signatures. Two major constraints are applied to the feature extraction algorithm in order to model the two step transitional probabilities of the signature pixels. Segmentation of the signature trace is enabled using a window which is centred upon the centre of mass of the thinned image. Partitioning of the image leads to a multidimensional feature vector which provides useful spatial details of the acquired handwritten image. The classification protocol followed in this work relies on a hard margin support vector machine. Our method was applied to two databases, the first taken from the literature while the second created by the authors. In order to provide comparable results for the first stage signature verification system, we have applied an already published feature extraction method while keeping the same classification protocol. Primary evaluation schemes on both corpuses provide very encouraging verification results for the Average Error.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Analyzing Functional Brain Connectivity by Means of Commute Times",
+            "Publication year": 2012,
+            "Publication url": "http://ikee.lib.auth.gr/record/129410",
+            "Abstract": "There is growing interest in studying the association of functional connectivity patterns with particular cognitive tasks. The ability of graphs to encapsulate relational data has been exploited in many related studies, where functional networks (sketched by different neural synchrony estimators) are characterized by a rich repertoire of graph-related metrics. We introduce commute times (CTs) as an alternative way to capture the true interplay between the nodes of a functional connectivity graph (FCG). CT is a measure of the time taken for a random walk to setout and return between a pair of nodes on a graph. Its computation is considered here as a robust and accurate integration, over the FCG, of the individual pairwise measurements of functional coupling. To demonstrate the benefits from our approach, we attempted the characterization of time evolving connectivity patterns derived from EEG signals recorded while \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:EkHepimYqZsC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Combining self-organizing neural nets with multivariate statistics for efficient color image retrieval",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314206000245",
+            "Abstract": "An efficient novel strategy for color-based image retrieval is introduced. It is a hybrid approach combining a data compression scheme based on self-organizing neural networks with a nonparametric statistical test for comparing vectorial distributions. First, the color content in each image is summarized by representative RGB-vectors extracted using the Neural-Gas network. The similarity between two images is then assessed as commonality between the corresponding representative color distributions and quantified using the multivariate Wald\u2013Wolfowitz test. Experimental results drawn from the application to a diverse collection of color images show a significantly improved performance (approximately 10\u201315% higher) relative to both the popular, simplistic approach of color histogram and the sophisticated, computationally demanding technique of Earth Mover\u2019s Distance.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Image database organization based on membership values and connectivity graph",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4604445/",
+            "Abstract": "A fast, simple and low complexity technique for image database organization is presented. The basic idea is to reveal the connectivity relations of the database obtain information of the database structure and facilitate the clustering process. This is achieved by randomly selecting a certain number of prototype data and using appropriately the membership values of the rest data points to the selected prototypes. The clustering is easily performed in the final step by using graph theory methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:BqipwSGYUEgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Offline handwritten signature modeling and verification based on archetypal analysis",
+            "Publication year": 2017,
+            "Publication url": "http://openaccess.thecvf.com/content_iccv_2017/html/Zois_Offline_Handwritten_Signature_ICCV_2017_paper.html",
+            "Abstract": "The handwritten signature is perhaps the most accustomed way for the acknowledgement of the consent of an individual or the authentication of the identity of a person in numerous transactions. In addition, the authenticity of a questioned offline or static handwritten signature still poses a case of interest, especially in forensic related applications. A common approach in offline signature verification system is to apply several predetermined image analysis models. Consequently, any offline signature sample which originates from either authentic persons or forgers, utilizes a fixed feature extraction base. In this proposed study, the feature space and the corresponding projection values depend on the training samples only; thus the proposed method can be found useful in forensic cases. In order to do so, we reenter a groundbreaking unsupervised learning method named archetypal analysis, which is connected to effective data analysis approaches such as sparse coding. Due to the fact that until recently there was no efficient implementation publicly available, archetypal analysis had only few cases of use. However, a fast optimization scheme using an active set strategy is now available. The main goal of this work is to introduce archetypal analysis for offline signature verification. The output of the archetypal analysis of few reference samples is a set of archetypes which are used to form the base of the feature space. Then, given a set of archetypes and a signature sample under examination archetypal analysis and average pooling provides the corresponding features. The promising performance of the proposed approach is demonstrated with the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cloud detection and classification with the use of whole-sky ground-based images",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169809512001342",
+            "Abstract": "A simple whole sky imaging system, based on a commercial digital camera with a fish-eye lens and a hemispheric dome, is used for the automatic estimation of total cloud coverage and classification. For the first time, a multi color criterion is applied on sky images, in order to improve the accuracy in detection of broken and overcast clouds under large solar zenith angles. The performance of the cloud detection algorithm is successfully compared with ground based weather observations. A simple method is presented for the detection of raindrops standing on the perimeter of hemispheric dome. Based on previous works on cloud classification, an improved k-Nearest-Neighbor algorithm is presented, based not only on statistical color and textural features, but taking also into account the solar zenith angle, the cloud coverage, the visible fraction of solar disk and the existence of raindrops in sky images. The successful \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Hierarchical dictionary learning and sparse coding for static signature verification",
+            "Publication year": 2018,
+            "Publication url": "http://openaccess.thecvf.com/content_cvpr_2018_workshops/w11/html/Zois_Hierarchical_Dictionary_Learning_CVPR_2018_paper.html",
+            "Abstract": "An assortment of review papers as well as newly quoted literature clearly indicates that the modeling and subsequent verification of static or offline signatures still poses an active field of scientific interest. Usually, the most important link in the chain of designing signature verification systems (SV's) is the feature extraction one, in which any static signature image is projected and measured onto a feature space. Feature extraction methods are divided in two main categories. The first one, inspired by different computer vision applications, includes handcrafted features. That is features manually engineered by scientists to be optimal for certain type of information extraction-summarization from signature images. Typical examples of this kind include global-local and/or grid-texture oriented features. The second feature category addresses signature modeling and verification with the use of dedicated features, usually learned directly from raw signature image data. Typical representatives include Deep Learning (DL) as well as Bag of Visual Words (BoW) or Histogram of Templates (HOT). Quite recently also sparse representation (SR) methods which include dictionary learning and coding have been introduced for signature modeling and verification with promising results. In this paper, we propose an extension of the classic SR conceptual framework by introducing the idea of embedding the atoms of a dictionary in a directed tree. For the purpose of this work, this is demonstrated by employing an l0 tree-structured sparse regularization norm which has been found to be useful in in a number of cases. We examine the efficiency of the proposed method by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient modeling of visual saliency based on local sparse representation and the use of hamming distance",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314215000223",
+            "Abstract": "Modeling of visual saliency is an important domain of research in computer vision, given the significant role of attention mechanisms during neural processing of visual information. This work presents a new approach for the construction of image representations of salient locations, generally known as saliency maps. The developed method is based on an efficient comparison scheme for the local sparse representations deriving from non-overlapping image patches. The sparse coding stage is implemented via an overcomplete dictionary trained with a soft-competitive bio-inspired algorithm and the use of natural images. The resulting local sparse codes are pairwise compared using the Hamming distance as a gauge of their co-activation. The calculated distances are used to quantify the saliency strength for each individual patch, and then, the saliency values are non-linearly filtered to form the final map. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:D_sINldO8mEC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Combining graph connectivity & dominant set clustering for video summarization",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-009-0277-9",
+            "Abstract": "The paper presents an automatic video summarization technique based on graph theory methodology and the dominant sets clustering algorithm. The large size of the video data set is handled by exploiting the connectivity information of prototype frames that are extracted from a down-sampled version of the original video sequence. The connectivity information for the prototypes which is obtained from the whole set of data improves video representation and reveals its structure. Automatic selection of the optimal number of clusters and hereafter keyframes is accomplished at a next step through the dominant set clustering algorithm. The method is free of user-specified modeling parameters and is evaluated in terms of several metrics that quantify its content representational ability. Comparison of the proposed summarization technique to the Open Video storyboard, the Adaptive clustering algorithm and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Efficient Visual Information Retrieval using Orthogonal MSTs",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4127497/",
+            "Abstract": "The notion of interpoint-distance-based graphs has in the past, guided the extension of distributional order-measures to multivariate observations. The concept of minimal spanning tree (MST) was introduced as the key pattern for generalizing the univariate two-sample problem to multivariate observations. Here, the multivariate Wald-Wolfowitz test is further quantified using the enhanced representations of orthogonal MSTs. Their advantages are investigated by comparing the similarity between color distributions in the feature space, using a standard feature extraction technique borrowed computer vision. To demonstrate the performance of the proposed scheme, the application on a diverse collection of images has been systematically studied in a query-by-example visual information retrieval task. Experimental results show that a powerful measure of similarity can emerge from the statistical comparison of their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A generic scheme for color image retrieval based on the multivariate Wald-Wolfowitz test",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1423981/",
+            "Abstract": "In this study, a conceptually simple, yet flexible and extendable strategy to contrast two different color images is introduced. The proposed approach is based on the multivariate Wald-Wolfowitz test, a nonparametric test that assesses the commonality between two different sets of multivariate observations. It provides an aggregate gauge of the match between color images, taking into consideration all the (selected) low-level characteristics, while alleviating correspondence issues. We show that a powerful measure of similarity between two color images can emerge from the statistical comparison of their representations in a properly formed feature space. For the sake of simplicity, the RGB-space is selected as the feature space, while we are experimenting with different ways to represent the images within this space. By altering the feature-extraction implementation, complementary ways to portray the image content \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "HEp-2 cells classification using locally aggregated features mapped in the dissimilarity space",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6701591/",
+            "Abstract": "Indirect Immunofluorescence (IIF) followed by manual evaluation of the acquired slides from specialized personnel is the preferred laboratory technique used for the detection of Antinucleolar Antibodies (ANAs) in patient serum. In this procedure, several limitations appear and thus several automatic techniques have been proposed for the task of ANA detection. In this paper we propose a system for automatic classification of HEp-2 staining patterns, inspired by a recently proposed method for aggregating local image (SIFT) features into a compact and fixed length representation. More specifically we present a novel framework in which aggregated features are mapped into feature vectors in the dissimilarity space where the dimensionality of the descriptors is \u201cnaturally reduced\u201d. The final descriptor is low dimensional, while evaluation on a recently published dataset yields state of the art results.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Online signature verification based on signatures turning angle representation using longest common subsequence matching",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10032-012-0193-9.pdf",
+            "Abstract": "Online signature verification has been intensively investigated in several directions, such as the selected feature(s), similarity estimation and classification method. Local feature approaches combined with elastic distance metrics have the most successful performance so far. The Turning Angle Sequence (TAS) feature has not been extensively explored for signature verification, while the fusion of TASs of different scales, the Turning Angle Scale Space (TASS) is a new approach in this field. In this paper, we study the signatures TAS and TASS representations and their application to online signature verification. In the matching stage, a variation of the longest common sub-sequence matching technique has been employed. Experimental results using varying TAS(S) representation parameters on two publicly available signature databases, the SVC2004 and SUSIG, show the improved performance of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "A graph theory approach for automatic segmentation of color images",
+            "Publication year": 2001,
+            "Publication url": "https://www.academia.edu/download/32503827/VLUBb.pdf",
+            "Abstract": "A hybrid split and merge segmentation method for color images is presented in this work. It combines edge and region information to merge adjacent regions produced in the initial watershed-based segmentation stage. A novel technique is introduced to simplify the Region Adjacency Graph (RAG) structure and speed-up the merging process along with a merging termination criterion for automatic segmentation. The robustness of the proposed method has been experimentally verified and compared to other previously reported merging approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Gait based recognition via fusing information from Euclidean and Riemannian manifolds",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167865516302781",
+            "Abstract": "Gait is a particular periodical type of human motion with several unique characteristics for every person. In this work we focus on the problem of pose based gait recognition. The contribution of the proposed work is threefold. First we represent every gait sequence according to both the deviation of the poses from an appropriate global model, as well as the intra-sequence pose variability. Secondly, we propose a method which allows us to fuse information from feature representations from both Euclidean and Riemannian spaces by mapping data in a Reproducing Kernel Hilbert Space (RKHS). Classification is then performed using a kernelized version of the SRC algorithm. Third we present a new publicly available dataset for pose based gait recognition captured with Kinect V2. Experimental evaluation reveals state-of-the-art performance in both recognition and verification tasks and a capacity for real-time operation.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Semantic mapping of image databases using perceptual similarity",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4279151/",
+            "Abstract": "Semantic mapping of image databases is explored based on a human-centered approach for judging visual similarity. The management is pursued using a standard psychophysical experiment followed by a well-suited data analysis methodology. The end-result is a cognitive discriminative biplot, which is a visualization of the intrinsic organization of the image database best reflecting the user's perception. The discriminating power of the introduced biplot constitutes it an appealing tool for image retrieval and a flexible interface for visual data mining tasks.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Local Manifold Regularization for Knowledge Transfer in Convolutional Neural Networks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9284400/",
+            "Abstract": "In this work we present a method for local manifold-based regularization, as a mechanism for knowledge transfer during training of Convolutional Neural Networks. The proposed method aims at regularizing local features produced in intermediate layers of a \u201cstudent\u201d CNN through an appropriate loss function that encourages the model to adapt such that the local features to exhibit similar geometrical characteristics to those of an \u201cinstructor\u201d model, at corresponding layers. To that purpose we formulate a computationally efficient function, loosely encoding the neighboring information in the feature space of the involved feature sets. Experimental evaluation demonstrates the effectiveness of the proposed scheme under various scenarios involving knowledge-transfer, even for difficult tasks where it proves more efficient than the established technique of knowledge distillation. We demonstrate that the presented \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:vDijr-p_gm4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Analyzing functional brain connectivity by means of commute times: a new approach and its application to track event-related dynamics",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6145618/",
+            "Abstract": "There is growing interest in studying the association of functional connectivity patterns with particular cognitive tasks. The ability of graphs to encapsulate relational data has been exploited in many related studies, where functional networks (sketched by different neural synchrony estimators) are characterized by a rich repertoire of graph-related metrics. We introduce commute times (CTs) as an alternative way to capture the true interplay between the nodes of a functional connectivity graph (FCG). CT is a measure of the time taken for a random walk to setout and return between a pair of nodes on a graph. Its computation is considered here as a robust and accurate integration, over the FCG, of the individual pairwise measurements of functional coupling. To demonstrate the benefits from our approach, we attempted the characterization of time evolving connectivity patterns derived from EEG signals recorded while \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the perceptual organization of image databases using cognitive discriminative biplots",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1155/2007/68165.pdf",
+            "Abstract": "A human-centered approach to image database organization is presented in this study. The management of a generic image database is pursued using a standard psychophysical experimental procedure followed by a well-suited data analysis methodology that is based on simple geometrical concepts. The end result is a cognitive discriminative biplot, which is a visualization of the intrinsic organization of the image database best reflecting the user's perception. The discriminating power of the introduced cognitive biplot constitutes an appealing tool for image retrieval and a flexible interface for visual data mining tasks. These ideas were evaluated in two ways. First, the separability of semantically distinct image classes was measured according to their reduced representations on the biplot. Then, a nearest-neighbor retrieval scheme was run on the emerged low-dimensional terrain to measure the suitability \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "An Application of Pattern Recognition techniques for the Analysis of Geoelectrical Signals in relation to the earthquake activity of Western Greece",
+            "Publication year": 2006,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.496.4849&rep=rep1&type=pdf",
+            "Abstract": "A pattern recognition based approach is used in this study to examine single-channel Long Term Geoelectric Potential difference (LTGP) data recorded during the 1998-2003 period in Western Greece. Seeking a schema that automatically discovers data features containing information possibly related to seismic activity, patterns in LTGP data recorded during small (72-hour) consecutive time segments are examined, and pattern recognition methods are used to link them to seismic information of co-occurring seismic events, such as epicenter and depth.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pose-based human action recognition via sparse representation in dissimilarity space",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1047320313000485",
+            "Abstract": "Human actions can be considered as a sequence of body poses over time, usually represented by coordinates corresponding to human skeleton models. Recently, a variety of low-cost devices have been released, able to produce markerless real time pose estimation. Nevertheless, limitations of the incorporated RGB-D sensors can produce inaccuracies, necessitating the utilization of alternative representation and classification schemes in order to boost performance. In this context, we propose a method for action recognition where skeletal data are initially processed in order to obtain robust and invariant pose representations and then vectors of dissimilarities to a set of prototype actions are computed. The task of recognition is performed in the dissimilarity space using sparse representation. A new publicly available dataset is introduced in this paper, created for evaluation purposes. The proposed method was \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:u_35RYKgDlwC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Color edge detection using the minimal spanning tree",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320304003644",
+            "Abstract": "In this study, the edge detection task in vector-valued images is examined as a clustering problem. Using samples within a data window, the minimal spanning tree (MST) provides the ordering of multivariate observations and facilitates the identification of similar classes. The edge detector parameters like edge strength, type and orientation are subsequently determined from the clustered data. Experiments and comparisons are performed, revealing the enhanced performance of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Poset description of grid features and application to off-line signature verification",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6980996/",
+            "Abstract": "This work introduces a novel representation for the off-line handwritten signature by measuring its structural characteristics with a set of partially ordered grid features. Thirty-two binary symbols are delineated within the five-by-five pixel window and considered to be the alphabet of a probabilistic source. Subsequently and for practical purposes the whole set is appropriately organized into subsets of four symbols each. The new arrangement is used to detect the presence of simple or compound symbols in the signature image. The utilization of the partially ordered set or poset notion, intuitively arranges the binary feature extraction masks into first order chains, creating in this way a first order probabilistic description of the signature's structure that is characteristic of the motoric signature generating process. In order to estimate these probabilities, the first order searching strategy is limited to pixels neighbors having \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Edge detection of multispectral images using nonparametric local density estimation",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/40328466/Edge_Detection_of_Multispectral_Images_u20151124-28614-61sa4h.pdf",
+            "Abstract": "Detection of edges in multispectral images has been a challenging task in the research community over the past few years. In this work, a novel vector-based approach is adopted for edge detection in multichannel remotely sensed images. The discontinuity between homogeneous regions in the image is detected using the image density value estimated at the mean vector of the sliding window. The proposed algorithm is nonparametric, computationally simple to implement, providing us with dimensionality reduction in the multivariate feature space.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Geodesic distance and MST based image segmentation",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7080012/",
+            "Abstract": "In this work, a new approach is proposed for the integration of spatial proximity information in graph based segmentation algorithms. This is done by means of the geodesic distance. Distance calculation and the implementation of the method are carried out using the minimal spanning tree (MST), constructed on a watershed image partition. Distance, defined over the MST edges, presents a measure of both spatial and feature coherence. It is incorporated in MST based color image segmentation applications, by means of a new density feature, which is computed with spatial locality restrictions.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Muscle type and gender recognition utilising high-level textural representation in musculoskeletal ultrasonography",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S030156291930078X",
+            "Abstract": "Human assistive technology and computer-aided diagnosis is an emerging field in the area of medical imaging. Following the recent advances in this domain, a study for integrating machine learning techniques in musculoskeletal ultrasonography images was conducted. The goal of this attempt was to investigate how feature extraction techniques, that capture higher-level information, perform in identifying human characteristics. The potential success of these techniques could lead to significant improvement of the current assessment methods\u2014as the gray-scale image analysis\u2014for distinguishing healthy and pathologic conditions, that are heavily dependent on the image-acquisition system. The contribution of this work is threefold. First, a new privately held data set of 74 healthy patients was presented. This data set included musculoskeletal ultrasound images from four muscles of the human body, namely the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:evX43VCCuoAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Distributional-based texture classification using non-parametric statistics",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s10044-007-0083-9",
+            "Abstract": "Texture classification is an important problem in image analysis. In the present study, an efficient strategy for classifying texture images is introduced and examined within a distributional-statistical framework. Our approach incorporates the multivariate Wald\u2013Wolfowitz test (WW-test), a non-parametric statistical test that measures the similarity between two different sets of multivariate data, which is utilized here for comparing texture distributions. By summarizing the texture information using standard feature extraction methodologies, the similarity measure provides a comprehensive estimate of the match between different images based on graph theory. The proposed \u201cdistributional metric\u201d is shown to handle efficiently the texture-space dimensionality and the limited sample size drawn from a given image. The experimental results, from the application on a typical texture database, clearly demonstrate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Parsimonious coding and verification of offline handwritten signatures",
+            "Publication year": 2017,
+            "Publication url": "https://openaccess.thecvf.com/content_cvpr_2017_workshops/w6/html/Zois_Parsimonious_Coding_and_CVPR_2017_paper.html",
+            "Abstract": "A common practice for addressing the problem of verifying the presence, or the consent of a person in many transactions is to utilize the handwritten signature. Among others, the offline or static signature is a valuable tool in forensic related studies. Thus, the importance of verifying static handwritten signatures still poses a challenging task. Throughout the literature, gray-level images, composed of handwritten signature traces are subjected to numerous processing stages; their outcome is the mapping of any input signature image in a so-called corresponding feature space. Pattern recognition techniques utilize this feature space, usually as a binary verification problem. In this work, sparse dictionary learning and coding are for the first time employed as a means to provide a feature space for offline signature verification, which intuitively adapts to a small set of randomly selected genuine reference samples, thus making it attractable for forensic cases. In this context, the K-SVD dictionary learning algorithm is employed in order to create a writer oriented lexicon. For any signature sample, sparse representation with the use of the writer's lexicon and the Orthogonal Matching Pursuit algorithm generates a weight matrix; features are then extracted by applying simple average pooling to the generated sparse codes. The performance of the proposed scheme is demonstrated using the popular CEDAR, MCYT75 and GPDS300 signature datasets, delivering state of the art results.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Grid-based feature distributions for off-line signature verification",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/document/6180290/",
+            "Abstract": "In this work, a feature extraction method is presented for handwritten signature verification. The proposed algorithm models the handwritten elements of a signature trace by probabilistically counting the distribution of fixed two- and three-step pixel paths, conditioned that they are confined within predetermined Chebyshev distances of two and three, respectively. This representation correlates the pixel transitions along the signature trace, with the writing style of an individual. Various partitions of the signature image into a group of sub-images were applied in order to define the overall dimensionality of the feature. In order to evaluate the classification efficiency of the introduced method, a number of verification strategies are implemented by making use of two internationally accepted and one domestic datasets. In all schemes, similarity scores and hard margin support vector machines (SVMs) are combined or \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:hC7cP41nSMkC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Hyperspectral image fusion using 2-D principal component analysis",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6064682/",
+            "Abstract": "In this work, a novel fusion scheme for efficient representation of a hyperspectral dataset in an informative color image is proposed using 2D-PCA. The fusion approach is based on partitioning the hyperspectral dataset into subgroups of bands, and image covariance matrix is directly applied on the 2D matrices of each spectral band. The resulting image representation offers the ability to effectively discriminate information, providing advanced performance in terms of multiband representation. Experimental results, provided on two hyperspectral dataset acquired by CHRIS sensor and the AVIRIS instrument, demonstrate the advantage of the proposed work.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:lSLTfruPkqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Local focus-tolerant image descriptors for classification of biological particles",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6701589/",
+            "Abstract": "In this work we present a new approach to the extraction of features robust to focal mismatches, for the classification of biological particles characterized by 3 dimensional structures. We use SIFT descriptors in order to encode local gradient, fused with features derived from an introduced adaptive filterbank of Gabor filters. We have evaluated the proposed technique using a dataset consisting of 174 images of pollen grains from 29 species, acquired with a low-cost optical microscope in arbitrary focal planes. The proposed descriptor efficiently captures discriminative information by encoding the local inner and outer structure of the transparent pollens in a focus-tolerant manner, achieving approximately 74.5% classification accuracy, demonstrating that local scale invariant features can be robust even under challenging conditions.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:XiSMed-E-HIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multivariate angle scale descriptor of shape retrieval",
+            "Publication year": 2011,
+            "Publication url": "https://www.eurasip.org/Proceedings/Ext/SPAMEC2011/papers/SPAMEC_2011_VI_2.pdf",
+            "Abstract": "Boundary based shape descriptors have been widely used in image retrieval problems. A plethora of contour-based descriptors regarding the shape as a 1-D signal sequences, can be found in literature. Centroid Contour Distance\u2013CCD-as well as Angle Code Histogram (ACH) are well known and extensively used descriptors. In this paper the Angle Scale Descriptor-ASD-is introduced which is based on the angle sequences as they are computed at different scales. It is a multivariate approach where each feature vector consists of angle values produced across by the different scales and includes information from fine to coarser scales. This descriptor provides information for shape boundary which could be efficiently combined with other descriptors. In the present paper, improvement of the Angle Code when using the multi-scale representation will be shown, as well as the enhancement of the overall retrieval process when fusing the ASD with CCD descriptors that provide complementary shape information.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Geoelectric field signal investigation using multidimensional techniques and its possible relation to earthquakes in Western Greece",
+            "Publication year": 2006,
+            "Publication url": "https://www.researchgate.net/profile/George-Economou-3/publication/228398746_Geoelectric_field_signal_investigation_using_multidimensional_techniques_and_its_possible_relation_to_earthquakes_in_Western_Greece/links/0046351974211b0ae5000000/Geoelectric-field-signal-investigation-using-multidimensional-techniques-and-its-possible-relation-to-earthquakes-in-Western-Greece.pdf",
+            "Abstract": "In this study, time series similarity and multidimensional scaling (MDS) techniques are used to examine recordings of the geoelectric potential difference, 10-days prior to significant seismic events in the area of Western Greece. The data have been collected during a five-year experimental investigation, at the earthquake prediction section of the University of Patras Seismological Laboratory (UPSL). The presence of similar patterns in the recorded time series data of the geoelectric field, ten days before the occurrence of seven significant earthquakes in the seismic area of Patras city, is investigated. Certain interesting clustering tendencies are detected in the MDS-plot of the projected time sequences data, indicating the existence of a possible correlation between the geoelectric signal structure and the impeding seismic activity. An explanation of the above results is also provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Geometric Regularization of Local Activations for Knowledge Transfer in Convolutional Neural Networks",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/2078-2489/12/8/333",
+            "Abstract": "In this work, we propose a mechanism for knowledge transfer between Convolutional Neural Networks via the geometric regularization of local features produced by the activations of convolutional layers. We formulate appropriate loss functions, driving a \u201cstudent\u201d model to adapt such that its local features exhibit similar geometrical characteristics to those of an \u201cinstructor\u201d model, at corresponding layers. The investigated functions, inspired by manifold-to-manifold distance measures, are designed to compare the neighboring information inside the feature space of the involved activations without any restrictions in the features\u2019 dimensionality, thus enabling knowledge transfer between different architectures. Experimental evidence demonstrates that the proposed technique is effective in different settings, including knowledge-transfer to smaller models, transfer between different deep architectures and harnessing knowledge from external data, producing models with increased accuracy compared to a typical training. Furthermore, results indicate that the presented method can work synergistically with methods such as knowledge distillation, further increasing the accuracy of the trained models. Finally, experiments on training with limited data show that a combined regularization scheme can achieve the same generalization as a non-regularized training with 50% of the data in the CIFAR-10 classification task.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Graph Based Re-ranking Method with Application to Handwritten Digits",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6981110/",
+            "Abstract": "In this paper a new perspective is provided on the re-ranking problem, which is essential in pattern recognition and computer vision tasks. Items are efficiently organized using the minimal spanning tree (MST) and the orthogonal-MST graph and their similarity is calculated through an appropriate graph traversal method. The graph is augmented consecutively providing alternative paths, however not escaping the data manifold. The introduced method exploits the structure of the underlined manifold and is successfully applied (but not limited) to handwritten digits image database.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the Qualitative Calculation of LED's Optical Bandwidth",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12548982209614643054&hl=en&oi=scholarr",
+            "Abstract": "The output spectrum purity of LED's emitted optical bandwidth is an important characteristic of operation. The importance of this purity depends on the application. Light emitting diodes (LED) are usually the alternative optoelectronic devices for optical communications with moderate bandwidth efficiency and bit rates, compared to semiconductor lasers. Laser applications dominate the long distance communication networks. However LED seems to be a very good solution, especially in very short distance communication networks, where Plastic Optical Fibers,(POF) are used as the optical transmission medium. Optical pulses with different wavelengths travel with different velocities in optical fibers. Hence the larger the bandwidth the most the dispersion of pulses in the communication link. The quantitative calculation of LED's optical bandwidth relies in a very advanced theoretical approach. This paper investigates a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "University of Petras press"
+        },
+        {
+            "Title": "Computer-based image analysis system designed to differentiate between low-grade and high-grade laryngeal cancer cases.",
+            "Publication year": 2013,
+            "Publication url": "https://europepmc.org/article/med/24282906",
+            "Abstract": "OBJECTIVE: To design a pattern recognition (PR) system for discriminating between low-and high-grade laryngeal cancer cases, employing immunohistochemically stained, for p63 expression, histopathology images. STUDY DESIGN: The PR system was designed to assist in the physician's diagnosis for improving patient survival. The material comprised 55 verified cases of laryngeal cancer, 21 of low-grade and 34 of high-grade malignancy. Histopathology images were first processed for automatically segmenting p63 expressed nuclei. Fifty-two features were next extracted from the segmented nuclei, concerning nuclei texture, shape, and physical topology in the image. Those features and the Probabilistic Neural Network classifier were used to design the PR system on the multiprocessors of the Nvidia 580 GTX graphics processing unit (GPU) card using the Compute Unified Device Architecture parallel programming model and C++ programming language. RESULTS: PR system performance in classifying laryngeal cancer cases as low grade and high grade was 85.7% and 94.1%, respectively. The system's overall accuracy was 90.9%, using 7 features, and its estimated accuracy to\" unseen\" by the system cases was 80%. CONCLUSION: Optimum system design was feasible after employing parallel processing techniques and GPU technology. The proposed system was structured so as to function in a clinical environment, as a research tool, and with the capability of being redesigned on site when new verified cases are added to its repository.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Color-based image retrieval using vector quantization and multivariate graph matching",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1529806/",
+            "Abstract": "A novel strategy for color-based image retrieval is introduced. Initially, a vector quantization technique is adopted, based on the application of self-organizing neural networks. The color content in each image is summarized by representative RGB-vectors extracted using the Neural-Gas network, an efficient way to extract faithful representations from multivariate distributions. The similarity between two images is then assessed as commonality between the corresponding representative color distributions and quantified using the multivariate Wald-Wolfowitz test, a nonparametric statistical test dealing with the \"multivariate two-sample problem\". Experimental results drawn from a diverse collection of color images show a significantly improved performance relative to the popular approach of color histogram.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Long range correlation of preceded pixels relations and application to off-line signature verification",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/document/7847560/",
+            "Abstract": "Lately, off-line signature verification systems have been reintroduced based on the idea of modelling the signature images with various relations among their pixels. In this paper, a modified version of the partially ordered set feature extraction procedure is presented by enabling distant range interactions between preceded relations of pixel groups. In this way, the spatial diversity of correlation that exists among signature features can be exploited. The motive behind this approach is related to our belief that the particular idiosyncratic writing style characteristics of each individual will be present over the whole length of the signature. Experiments involve the well-known Center of Excellence for Document Analysis and Recognition (CEDAR) and Ministerio de Ciencia y Tecnologia (MCYT) datasets in two popular writer dependent training modes: In the first mode, genuine and simulated forgeries were utilized, while in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "A local binary pattern classification approach for cloud types derived from all-sky imagers",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2018.1530807",
+            "Abstract": "Cloud classification from ground-based observations is a challenging task that attracts increasing attention, favoured by the development of all-sky imaging equipment. In this work, we propose a new method for cloud type classification from all-sky images. Appropriate versions of two descriptors, Regional Local Binary Pattern (R-LBP) and Four Patch-Local Binary Pattern (FP-LBP), are employed on the images in order to extract not only global but also local textural information from the observed cloud type patterns. In the classification stage, a linear Support Vector Machine (SVM) scheme and Linear Discriminant Analysis (LDA) classifiers are adopted for the assignment of the corresponding cloud type label. Our method is evaluated against two state-of-the-art methods and their datasets consisting of 5000 and 2500 images, respectively. According to the results, the proposed method outperforms the previous ones \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "3D shape clustering with Nonnegative Least Squares coding and fusion on multilayer graphs",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-020-09668-x",
+            "Abstract": "The well-known method of spectral clustering for 3D shape datasets is revisited. The graph construction by NNLS (Nonnegative Least Squares) coding technique is at the core of our method. Using graph-based encoding techniques and well-known shape descriptors, a framework is presented here which is applied to 3D shape clustering. Provided a shape database, a graph is first constructed. Weights in the graph are calculated so as to approximate each shape as a sparse linear combination of the remaining dataset objects. This framework is further enhanced by using the multilayer graphs process combining NNLS with L2graph. The L2graph is a sparse similarity graph, which conveys complementary information to NNLS coding. A criterion for the complementary action of the two graphs in terms of graph distance is also presented. Experimental results conducted on SHREC10, SHREC11 and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:epqYDVWIO7EC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Key frame extraction in video sequences: a vantage points approach",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4412909/",
+            "Abstract": "In this work, the idea of key frames extraction from single shots in video sequences is presented. The method is implemented by an efficient two-step algorithm, which is classified neither to clustering nor to temporal variations based techniques. In the first step, an MST (minimal spanning tree) graph is constructed, where each node is associated to a single frame of the shot. In the second step, extracts key frames based on the principle of their maximum spread, are extracted. The number of the selected key frames is controlled by an adaptively defined threshold, while the validity of the results is evaluated by the fidelity measure.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Biometric identification based on the eye movements and graph matching techniques",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167865512000062",
+            "Abstract": "The last few years a growing research interest has aroused in the field of biometrics, concerning the use of brain dependent characteristics generally known as behavioral features. Human eyes, often referred as the gates to the soul, can possibly comprise a rich source of idiosyncratic information which may be used for the recognition of an individual\u2019s identity. In this paper an innovative experiment and a novel processing approach for the human eye movements is implemented, ultimately aiming at the biometric segregation of individual persons. In our experiment, the subjects observe face images while their eye movements are being monitored, providing information about each participant\u2019s attention spots. The implemented method treats eye trajectories as 2-D distributions of points on the image plane. The efficiency of graph objects in the representation of structural information motivated us on the utilization of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:aqlVkmm33-oC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Local manifold distance based on neighborhood graph reordering",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320315004653",
+            "Abstract": "In this paper we consider the problem of estimating pair-wise signals\u05f3 dissimilarities through the comparison of the underlying local manifold structures. Aiming to confront with issues such as high geometrical complexity and significant overlap that characterize local manifold structures, we propose a novel dissimilarity measure which is based on the reordering of a neighborhood graph using a permutation of its nodes. In order to quantify the diversity between two manifolds, the dissimilarity function utilizes a measure of reordering efficiency, computed on each of the corresponding neighborhood graphs, using a permutation derived from the solution of an optimization problem on the opposite graph. We study the properties of the proposed measure, demonstrating its efficiency in a variety of applications, using both 1D and 2D signals. Additionally, by exploiting the links to previous findings from the field of random \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Image similarity based on a distributional\" metric\" for multivariate data",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.2713&rep=rep1&type=pdf",
+            "Abstract": "The problem of image similarity has become a challenging task in the field of computer vision through the last two decades. The assessment of (dis) similarity between color (or multichannel, in general) images or parts of images has been studied on several image processing application domains such as image indexing and retrieval, classification and unsupervised segmentation (Rubner et al., 2001). The basic operations that need to be carried out in order to estimate the similarity between two color images are three-fold (Stricker & Orengo, 1995): first, choose an appropriate color space for image representation; then, extract a signature for each image (using, commonly, low-level features) to construct a theoretically valid distribution; finally, establish pairwise comparisons based on these signatures. Each signature constitutes the content description of a corresponding image. It is summarized based on pixel attributes and provides a representation of the image in a multidimensional feature space. There, a proper (dis) similarity measure is defined in order to act as a general rule for comparing any given pair of images. In these directions, several (dis) similarity measures have been developed and used as empirical estimates of the distribution of image features, confirming that distribution-based measures exhibit excellent performance in all areas (Rubner et al., 2001). In the context of visual image similarity, we make use of a nonparametric test from the field of multivariate statistics that deals with the \u201cMultivariate Two-Sample Problem\u201d, originally presented by Friedman and Rafsky (1979). The specific test is a multivariate extension of the classical \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:HDshCWvjkbEC",
+            "Publisher": "INTECH Open Access Publisher"
+        },
+        {
+            "Title": "Automated Off-Line Writer Verification Using Short Sentences and Grid Features.",
+            "Publication year": 2011,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.232.4372&rep=rep1&type=pdf#page=26",
+            "Abstract": "This work presents a feature extraction method for writer verification based on their handwriting. Motivation for this work comes from the need of enchancing modern eras security applications, mainly focused towards real or near to real time processing, by implementing methods similar to those used in signature verification. In this context, we have employed a full sentence written in two languages with stable and predefined content. The novelty of this paper focuses to the feature extraction algorithm which models the connected pixel distribution along predetermined curvature and line paths of a handwritten image. The efficiency of the proposed method is evaluated with a combination of a first stage similarity score and a continuous SVM output distribution. The experimental benchmarking of the new method along with others, state of the art techniques found in the literature, relies on the ROC curves and the Equal Error Rate estimation. The produced results support a first hand proof of concept that our proposed feature extraction method has a powerful discriminative nature.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unsupervised music segmentation via multi-scale processing of compressive features' representation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6622772/",
+            "Abstract": "We present an automated method for unsupervised detection of structural boundaries in musical recordings. The proposed method utilizes a compressed representation of features capturing timbre and chroma, in an 1-D time series derived via PCA. Time delay embedding and multi-scale comparison using the Wald-Wolfowitz statistical test are incorporated in order to calculate a Self Dissimilarity Matrix. A novelty curve is estimated by convolving an appropriate kernel along the main diagonal of the matrix, while the structural boundaries are located on the local maxima of the derived curve. We evaluate the proposed method on a popular dataset, using two different ground truth annotations. We demonstrate that the 1-D compressed representation of features contains enough information in order to detect boundaries with high precision, outperforming several methods from the literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An advanced method for classifying atmospheric circulation types based on prototypes connectivity graph",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169809512001901",
+            "Abstract": "Classification of weather maps at various isobaric levels as a methodological tool is used in several problems related to meteorology, climatology, atmospheric pollution and to other fields for many years. Initially the classification was performed manually. The criteria used by the person performing the classification are features of isobars or isopleths of geopotential height, depending on the type of maps to be classified. Although manual classifications integrate the perceptual experience and other unquantifiable qualities of the meteorology specialists involved, these are typically subjective and time consuming. Furthermore, during the last years different approaches of automated methods for atmospheric circulation classification have been proposed, which present automated and so-called objective classifications. In this paper a new method of atmospheric circulation classification of isobaric maps is presented. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Fusion of directional transitional features for off-line signature verification",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6117515/",
+            "Abstract": "In this work, a feature extraction method for off-line signature recognition and verification is proposed, described and validated. This approach is based on the exploitation of the relative pixel distribution over predetermined two and three-step paths along the signature trace. The proposed procedure can be regarded as a model for estimating the transitional probabilities of the signature stroke, arcs and angles. Partitioning the signature image with respect to its center of gravity is applied to the two-step part of the feature extraction algorithm, while an enhanced three-step algorithm utilizes the entire signature image. Fusion at feature level generates a multidimensional vector which encodes the spatial details of each writer. The classifier model is composed of the combination of a first stage similarity score along with a continuous SVM output. Results based on the estimation of the EER on domestic signature datasets \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Points of interest extraction using pairwise clustering and spatial features",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071604/",
+            "Abstract": "In this work, the idea of local features extraction from image data based on points of interest, is revised. The method is based on a nonparametric pairwise clustering algorithm and the application of Hubert's test statistic. The clustering algorithm iteratively partitions the input image data until it finally converges to 2 classes. On the other hand the use of Hubert's test guarantees that the 2 classes in the feature space are associated with a well organized structure in the image plane. Both algorithms utilize the dissimilarity matrix of the input data. The validity of the approach is demonstrated by applying the method to an image retrieval system.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Semantic Information in Gating Patterns of Dynamic Convolutional Neural Networks",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9555567/",
+            "Abstract": "Dynamic Convolutional Neural Networks are an emerging class of models characterized by their ability to dynamically adjust inference complexity at run-time, by identifying parts of the model with minimal contribution to the result and skipping the corresponding computations. A prominent such category includes models that generate binary gating signals indicating whether specific convolutional kernels need to be computed or can be omitted based on the characteristics of each processed datum. These signals are usually generated by branches of the same model which are typically learned simultaneously to the main task, with their main objective being to enable good performance with parsimony of computations. We argue that such objective incentivizes the model to implicitly optimize and utilize kernels in class/concept \u2013specific groups, hence ascribing semantic information to the gating signals. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "HEp-2 cell classification using descriptors fused into the dissimilarity space into the dissimilarity space",
+            "Publication year": 2014,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213014600069",
+            "Abstract": "Autoimmune diseases are strictly connected with the presence of autoantibodies in patient serum. Detection of Antinucleolar Antibodies (ANAs) in patient serum is performed using a laboratory technique named Indirect Immunofluorescence (IIF) followed by manual evaluation on the acquired slides from specialized personnel. In this procedure, several limitations appear and several automatic techniques have been proposed for the task of ANA detection. In this work we present a method achieving state-of-the-art performance on a publicly available dataset. More precisely, two powerful and rotation invariant descriptors are incorporated into a two stage classification scheme where the feature vectors are represented and fused in the dissimilarity space. Then, in a second level dissimilarity vectors are classified using a linear SVM classifier. Evaluation on the HEp-2 cell contest dataset yields a 70.16% performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Off-Line Signature Verification based on Ordered Grid Features: An Evaluation.",
+            "Publication year": 2013,
+            "Publication url": "https://www.researchgate.net/profile/Charles-Berger-3/publication/260074664_Proceedings_of_the_2nd_ICDAR_International_Workshop_on_Automated_Forensic_Handwriting_Analysis/links/5415f17b0cf2bb7347db43b2/Proceedings-of-the-2nd-ICDAR-International-Workshop-on-Automated-Forensic-Handwriting-Analysis.pdf#page=36",
+            "Abstract": "A novel offline signature modeling is introduced and evaluated which attempts to advance a grid based feature extraction method uniting it with the use of an ordered powerset. Specifically, this work represents the pixel distribution of the signature trace by modeling specific predetermined paths having Chebyshev distance of two, as being members of alphabet subsets-events. In addition, it is proposed here that these events, partitioned in groups, are further explored and processed within an ordered set context. As a proof of concept, this study progresses by counting the events\u2019 first order appearance (in respect to inclusion) at a specific powerset, along with their corresponding distribution. These are considered to be the features which will be employed in a signature verification problem. The verification strategy relies on a support vector machine based classifier and the equal error rate figure. Using the new scheme verification results were derived for both the GPDS300 and a proprietary data set, while the proposed technique proved quite efficient in the handling of skilled forgeries as well.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Region oriented compression of color images using fuzzy inference and fast merging",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320301001303",
+            "Abstract": "A new region based lossy compression scheme for color images is proposed. The segmentation method belongs to the split and merge category. Splitting is carried out using the watershed transform. In the merging stage, a fuzzy color preserving rule-based system and a novel one-dimensional graph structure are introduced to provide accurate results with reduced computational complexity. The compression part is based on the Shape Adaptive DCT with \u0394DC correction method. The quantization matrices used have been designed according to the properties of the employed transform. Promising perceptual results for the low bit rate range compared to previously reported compression methods have also been reported.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "3D Shape Classification Using Collaborative Representation based Projections",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1711.04875",
+            "Abstract": "A novel 3D shape classification scheme, based on collaborative representation learning, is investigated in this work. A data-driven feature-extraction procedure, taking the form of a simple projection operator, is in the core of our methodology. Provided a shape database, a graph encapsulating the structural relationships among all the available shapes, is first constructed and then employed in defining low-dimensional sparse projections. The recently introduced method of CRPs (collaborative representation based projections), which is based on L2-Graph, is the first variant that is included towards this end. A second algorithm, that particularizes the CRPs to shape descriptors that are inherently nonnegative, is also introduced as potential alternative. In both cases, the weights in the graph reflecting the database structure are calculated so as to approximate each shape as a sparse linear combination of the remaining dataset objects. By way of solving a generalized eigenanalysis problem, a linear matrix operator is designed that will act as the feature extractor. Two popular, inherently high dimensional descriptors, namely ShapeDNA and Global Point Signature (GPS), are employed in our experimentations with SHREC10, SHREC11 and SCHREC 15 datasets, where shape recognition is cast as a multi-class classification problem that is tackled by means of an SVM (support vector machine) acting within the reduced dimensional space of the crafted projections. The results are very promising and outperform state of the art methods, providing evidence about the highly discriminative nature of the introduced 3D shape representations.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:5awf1xo2G04C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A similarity measure for color image retrieval and indexing based on the multivariate two sample problem",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7079774/",
+            "Abstract": "In this work, a similarity measure in the feature space is proposed for color retrieval and indexing based on the \u201cMultivariate Two-Sample Problem\u201d. Color information is extracted via random selection of image pixels from high-density regions. The proposed scheme has a global nature due to its randomness and is easy to implement. It makes uses of the minimal spanning tree (MST) structure and properties, providing the retrieval results with a statistical measure of their significance level. The main advantages of our proposal are its computational efficiency and the fact that it is generally applicable to natural image collections.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Compressed domain image indexing and retrieval based on the minimal spanning tree",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1521721/",
+            "Abstract": "In this paper, a method for content-based retrieval of JPEG images is presented, utilizing features directly from the discrete cosine transform (DCT) domain. Image indexing is achieved by extracting color and texture feature vectors, using an efficient technique applied on the DCT coefficients. Similarity between the query- and database-images is provided based on a statistical graph matching approach. The proposed measure makes use of the Wald-Wolfowitz test, a nonparametric test that assesses the commonality between two different sets of multivariate observations. Experimental results demonstrate the enhanced performance of our approach, compared to previously reported methods",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A New Approach to Investigate the existence of patterns in Geoelectrical Signals related to Seismicity of Western Greece, using supervised pattern recognition.",
+            "Publication year": 2006,
+            "Publication url": "http://www.wseas.us/e-library/conferences/2006prague/papers/514-198.pdf",
+            "Abstract": "In this study, a supervised pattern recognition technique is used to examine Long Term Geoelectric Potential difference (LTGP) data recorded during the 1993-1997 period in Western Greece. It presents initial results from an attempt towards automated discovery of similarities between LTGP data recorded during periods of similar seismic activity. In particular, we investigate whether patterns exist in LTGP data recorded during time periods of significant seismic events with geographically adjacent earthquake epicenters. Signals recorded in such periods are grouped together and comparisons are made to properties of other groups. Certain interesting properties of signal groups are detected, indicating the existence of a possible correlation between the geoelectric signal structure and the epicenter location of earthquakes. An explanation of the above results is also provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Color image segmentation using Laplacian eigenmaps",
+            "Publication year": 2009,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-18/issue-2/023004/Color-image-segmentation-using-Laplacian-eigenmaps/10.1117/1.3122369.short",
+            "Abstract": "The novel technique of Laplacian eigenmaps (LE) is studied as a means of improving the clustering-based segmentation of color images. Taking advantage of the ability of the LE algorithm to learn the actual manifold of the multivariate data, a computationally efficient scheme is introduced. After embedding the local image characteristics, extracted from overlapping regions, in a high-dimensional feature space, the skeleton of the intrinsically low-dimensional manifold is constructed using spectral graph theory. Using the LE-based dimensionality reduction technique, a low-dimensional map is computed in which the variations of the local image characteristics are presented in the context of global image variation. The nonlinear projections on this map serve as inputs to the Fuzzy C-Means (FCM) algorithm, boosting its clustering performance significantly. The final segmentation is produced by a simple labeling \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "An application study of manifold learning-ranking techniques in face recognition",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4412912/",
+            "Abstract": "Locally linear embedding (LLE), isometric mapping (Isomap) are two relatively new nonlinear dimensionality reduction algorithms also used in face recognition applications. Their main aim is to create a low-dimensional embeddings of the original high-dimensional data, laying the face data points on a 'face manifold'. In this work in order to test their performance we applied LLE and Isomap in two face databases together with principal component analysis (PCA), their linear counterpart, varying as parameters the (i) number embedding dimensions and (ii) the number of neighbours. Furthermore, at the final stage we used a data ranking algorithm, which ranks the data with respect to the intrinsic manifold structure and its geometric properties. Experimental results indicate the superiority of the data ranking algorithm on face manifolds against the classical Euclidean distance measure.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hep-2 cells classification via sparse representation of textural features fused into dissimilarity space",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320313003981",
+            "Abstract": "Autoimmune diseases are proven to be connected with the occurrence of autoantibodies in patient serum. Antinuclear autoantibodies (ANAs) identification can be accomplished in a laboratory using indirect immunofluorescence (IIF) imaging. In this paper a system for automatic classification of staining patterns on HEp-2 fluorescence images is proposed. Our method utilizes two descriptors in order to encode gradient and textural characteristics of the depicted patterns. Along with distribution of SIFT features, we propose the new GoC-LBP descriptor based on co-occurrences of uniform Local Binary Patterns along directions dictated by the orientation of local gradient. At a second stage, the descriptors are fused while creating a dissimilarity representation of an image. A powerful classification scheme is incorporated, utilizing a discriminative sparse representation-based scheme for the classification. Experiments \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:UxriW0iASnsC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Hep-2 cells classification via fusion of morphological and textural features",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6399750/",
+            "Abstract": "Autoimmune diseases are proven to be connected with the occurrence of autoantibodies in patient serum. Antinuclear autoantibodies (ANAs) identification can be accomplished in a laboratory using indirect immunofluorescence (IIF) imaging. ANAs are characterized by specific \u201cvisual\u201d patterns on a humane epithelial cell line (HEp-2). The identification stage is usually done by trained and highly qualified physicians through visual inspection of slides using a fluorescence microscope. The presence of subjectivity in the identification process, the interobserver variability, the increasing demand of highly specialized personnel, suggest that a realization of an automatic classification system is of great significance for the field of autoimmune diseases diagnosis. Moreover CAD systems can be used in a collaborative scheme in order to augment the physicians' capabilities. In this paper a system for automatic classification \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Video summarization by a graph-theoretic FCM based algorithm",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4604478/",
+            "Abstract": "In this work, we propose a unified approach for video summarization based on the analysis of the video structure. The method originates from a data learning technique that uses the membership values produced by an over-partitioning mode of the FCM algorithm to find the connection strength between the resulting set of prototype centers. The final clustering stage is implemented by using the minimal spanning tree produced by the connectivity matrix. Based on the MST edge weights value, the clusters are derived straightforwardly and without supervision. The algorithm is finalized by the detection of video shots and the selection of key frames from each one. The method is evaluated by using objective and subjective criteria and its applicability to elongated video data set structures is very satisfactory.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust face recognition and retrieval using neural-network-based quantization of gabor jets and statistical graph matching",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4410335/",
+            "Abstract": "This paper proposes a novel distributional-based approach towards the face retrieval problem. Face features are initially extracted in the frequency domain via Gabor filtering, producing a large number of Gabor jets. The Neural-Gas vector quantizer is used to extract representative samples of the multivariable face distribution. In this way, only a small amount of Gabor jet signatures is utilized. Each face image is then represented as a distribution of a few signatures in the frequency space, containing all the important information. The similarity between two images is finally assessed by comparing the corresponding distributions directly in the frequency space using the multivariate Waid-Wolfowitz test (WW-test), a non- parametric statistical test dealing with the multivariate \"Two-Sample Problem\". Experimental results drawn from a standard collection of face-images show a significantly improved performance relative to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Writer independent offline signature verification based on asymmetric pixel relations and unrelated training-testing datasets",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417419300636",
+            "Abstract": "Offline writer independent (WI) signature verification is conceivably a challenging task in the domain of handwritten biometrics. This work addresses it by introducing a feature extraction scheme that relies on the detection of first order transitions between asymmetrical lattice arrangements of simple pixel structures. The experiments are conducted with a decision stumps committee, accompanied with boosting feature selection, by employing only unrelated or blind training and testing datasets, all derived from four widely used signature databases. In addition, a fifth signature dataset which contains disguised signatures, originating from a signature verification contest, is also used for testing purposes. The impact of the preprocessing stage per dataset is exploited by allowing various pruning levels of the raw binary signature. In addition to standard training protocols, we introduce the use of the applicability domain (AD \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Face recognition via local sparse coding",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6126426/",
+            "Abstract": "In this paper the face recognition problem is addressed in a part-based sparse approach through the comparison of respective facial regions between different images. To this purpose, a sparse coding procedure is applied to non-overlapping patches derived from frontal-face images, in order to extract local facial information. An adequate measure is introduced, incorporating the resulted sparse representation along with the Hamming distance, in order to express pairwise similarities between faces. Finally, a simple Nearest Neighbor classifier is employed to determine the identity of each facial image. In addition, a new criterion is presented for the rejection of outliers. The emerged face recognition scheme is evaluated using publicly available facial image databases, and the results are compared with those of other well-established recognition methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "3D shape classification with NNLS coding and optimal projections technique",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-019-08152-5",
+            "Abstract": "Using graph-based encoding techniques and well-known shape descriptors a framework is presented here which is checked for 3D shape classification performance. A data-driven feature extraction procedure, taking the form of a simple projection operator, is in the core of our framework. Provided a shape database, a graph encapsulating the structural relationships among all the available shapes is first constructed and then is employed to define low-dimensional sparse projections. The weights in the graph, reflecting the database structure, are calculated so as to approximate each shape as a sparse linear combination of the remaining dataset objects. NNLS (nonnegative least squares) coding method is employed and fully exploited in this stage. Sparse coding with L2graph is also included in the framework. By way of solving a generalized eigenanalysis problem, a linear matrix operator is designed by means of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Gait-based gender recognition using pose information for real time applications",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6622766/",
+            "Abstract": "Biological cues inherent in human motion play an important role in the context of social communication. While recognizing the gender of other people is important for humans, security, advertisement and population statistics systems could also benefit from such kind of information. In this work for first time we propose a method suitable for real time gait based gender recognition relying on poses estimated from depth images. We provide evidence that pose based representation estimated by depth images could greatly benefit the problem of gait analysis. Given a gait sequence, in every frame the dynamics of gait motion are encoded using an angular representation. In particular several skeletal primitives are expressed as two Euler angles that cast votes into aggregated histograms. These histograms are then normalized, concatenated and projected onto a PCA basis in order to form the final sequence descriptor. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:SP6oXDckpogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A semi-analytical macroscopic MAC layer model for LTE uplink",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6208726/",
+            "Abstract": "This paper proposes a semi-analytical medium access control (MAC) layer model for the macroscopic analysis of long term evolution (LTE) uplink. The model takes into consideration the expected number of retransmissions arising from channel disturbances and the number of allocated resources so that to satisfy a required packet delay budget. The former is computed in terms of the mean bit error probability while the latter is calculated through a high order Markov chain incorporating cell traffic load conditions. The proposed model can be used as a macroscopic planning decision tool that poses the working limits of MAC schedulers for different packet delay budget requirements, in terms of the mean number of allocated resources, MAC packet length and maximum retransmission attempts according to the channel conditions. In this context, based on measured data, we investigate the impact of the MAC packet \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fusion in phase space for shape retrieval",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7074055/",
+            "Abstract": "2-D shape recognition and content-based image retrieval using the boundary information as a 1-D time series is a common way of addressing the shape-matching problem. A significant factor for successful object identification is insensitivity to basic shape deformations, such as scaling, shifting, rotation, partial distortions etc. In this paper, a method for handling the time series boundary information as a set of feature vectors in the reconstructed phase space is proposed. Besides enhanced discrimination, projection in phase space facilitates the fusion of several boundary descriptors as well. Optimal information extraction from the multivariate time series is achieved by proper embedding dimension and time-lag parameter selection. Centroid contour distance (CCD) and Angle Sequence (AS), capturing both local and global shape information in a circular manner, are the descriptors employed in the fusion stage \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On-line signature recognition via fusion of dynamic features into dissimilarity space",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6781921/",
+            "Abstract": "In this paper a method for on-line signature recognition that combines dynamic features, fused into dissimilarity space, with a powerful collaborative sparse representation-based classification scheme is proposed. Dissimilarity vectors are formed in two stages. Initially, a number of informative dynamic features are extracted and stored in sequences. Afterwards, pairwise dissimilarities among feature sequences, computed using the DTW algorithm, are used to construct the new representation. Based on collaborative sparse representation principles, a new embedding space is defined where classification can be implemented efficiently. According to this scheme, signatures are represented in terms of their position inside the data structure, resulting in high-level performance without utilizing optimal feature selection procedures. The proposed framework has been evaluated using the SUSIG and the SVC2004 on-line \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Microscopy image analysis of p63 immunohistochemically stained laryngeal cancer lesions for predicting patient 5-year survival",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00405-015-3747-x.pdf",
+            "Abstract": "The aim of the present study was to design a microscopy image analysis (MIA) system for predicting the 5-year survival of patients with laryngeal squamous cell carcinoma, employing histopathology images of lesions, which had been immunohistochemically (IHC) stained for p63 expression. Biopsy materials from 42 patients, with verified laryngeal cancer and follow-up, were selected from the archives of the University Hospital of Patras, Greece. Twenty six patients had survived more than 5 years and 16 less than 5 years after the first diagnosis. Histopathology images were IHC stained for p63 expression. Images were first processed by a segmentation method for isolating the p63-expressed nuclei. Seventy-seven features were evaluated regarding texture, shape, and physical topology of nuclei, p63 staining, and patient-specific data. Those features, the probabilistic neural network classifier, the leave-one \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Sequential motif profiles and topological plots for offline signature verification",
+            "Publication year": 2020,
+            "Publication url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.html",
+            "Abstract": "In spite of the overwhelming high-tech marvels and applications that rule our digital lives, the use of the handwritten signature is still recognized worldwide in government, personal and legal entities to be the most important behavioral biometric trait. A number of notable research approaches provide advanced results up to a certain point which allow us to assert with confidence that the performance attained by signature verification (SV) systems is comparable to those provided by any other biometric modality. Up to now, the mainstream trend for offline SV is shared between standard-or handcrafted-feature extraction methods and popular machine learning techniques, with typical examples ranging from sparse representation to Deep Learning. Recent progress in graph mining algorithms provide us with the prospect to re-evaluate the opportunity of utilizing graph representations by exploring corresponding graph features for offline SV. In this paper, inspired by the recent use of image visibility graphs for mapping images into networks, we introduce for the first time in offline SV literature their use as a parameter free, agnostic representation for exploring global as well as local information. Global properties of the sparsely located content of the shape of the signature image are encoded with topological information of the whole graph. In addition, local pixel patches are encoded by sequential visibility motifs-subgraphs of size four, to a low six dimensional motif profile vector. A number of pooling functions operate on the motif codes in a spatial pyramid context in order to create the final feature vector. The effectiveness of the proposed method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:zLWjf1WUPmwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Event based offline signature modeling using grid source probabilistic coding",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41190-8_9",
+            "Abstract": "A new offline handwritten signature modeling is introduced that confluences disciplines from grid feature extraction and information theory. The proposed scheme advances further a previously reported feature extraction technique which exploits pixel transitions along the signature trace over predetermined two pixel paths. In this new work the feature components, partitioned in groups, are considered as events of a grid based discrete space probabilistic source. Based on the 16-ary FCB2 feature, a set of 87 orthogonal event schemes, organized in tetrads, is identified. Next an entropy rule is drawn in order to declare the most appropriate tetrad scheme for representing a writer\u2019s signature. When skilled forgery is encountered verification results derived on both the GPDS300 dataset and a proprietary one, indicate enhanced EER rates compared to other approaches, including the previous reference of FCB2 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Computer based correlation of the texture of P63 expressed nuclei with histological tumour grade, in laryngeal carcinomas",
+            "Publication year": 2014,
+            "Publication url": "https://www.hindawi.com/journals/acp/2014/963076/",
+            "Abstract": "Background. P63 immunostaining has been considered as potential prognostic factor in laryngeal cancer. Considering that P63 is mainly nuclear stain, a possible correlation between the texture of P63-stained nuclei and the tumor\u2019s grade could be of value to diagnosis, since this may be related to biologic information imprinted as texture on P63 expressed nuclei. Objective. To investigate the association between P63 stained nuclei and histologic grade in laryngeal tumor lesions. Methods. Biopsy specimens from laryngeal tumour lesions of 55 patients diagnosed with laryngeal squamous cell carcinomas were immunohistochemically (IHC) stained for P63 expression. Four images were digitized from each patient\u2019s IHC specimens. P63 positively expressed nuclei were identified, the percentage of P63 expressed nuclei was computed, and 118 textural, morphological, shape, and architectural features were calculated from each one of the 55 laryngeal lesions. Data were split into the low grade (21 grade I lesions) and high grade (34 grade II and grade III lesions) classes for statistical analysis. Results. With advancing grade, P63 expression decreased, P63 stained nuclei appeared of lower image intensity, more inhomogeneous, of higher local contrast, contained smaller randomly distributed dissimilar structures and had irregular shape. Conclusion. P63 expressed nuclei contain important information related to histologic grade.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:geHnlv5EZngC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "A fuzzy region dissimilarity measure using feature space information",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028282/",
+            "Abstract": "An inter-region color dissimilarity measure is proposed that utilizes the basic principles of region based segmentation and fuzzy clustering techniques. This method operates on the features associated to the initial image partitioning produced by watershed analysis. The subtractive clustering algorithm is employed to estimate the number of clusters and the fuzzy c-means classification method follows. The membership values assigned to each region along with a fuzzy (dis)similarity measure are used to estimate the cost between the regions. The process is completed using the shortest spanning tree merging algorithm. The proposed method is also compared to other related approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A region dissimilarity relation that combines feature-space and spatial information for color image segmentation",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1386425/",
+            "Abstract": "This paper proposes a methodology that incorporates principles from cluster analysis and graph representation to achieve efficient image segmentation results. More specifically, a feature-based, inter-region dissimilarity relation is considered here in order to determine the dissimilarity matrix in a graph-based segmentation scheme. The calculation of the dissimilarity function between adjacent elementary image regions is based on the proximity of each region's feature vector to the main clusters that are formed by the image samples in the feature space. In contrast to typical segmentation approaches of the literature, the global feature space information is included in the spatial graph representation that was derived from the initial Watershed partitioning. A region grouping process is applied next to form the final segmentation results. The proposed approach was also compared to approaches that use feature-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "HEp-2 cells classification using morphological features and a bundle of local gradient descriptors",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6973544/",
+            "Abstract": "A system for automatic classification of staining patterns in IIF imaging is presented. A full pipeline of pre-processing, feature extraction and classification stages is designed in order to overcome specific challenges posed by the nature of the data. In the preprocessing stage the images are subjected to normalization and de-noising using a sparse representation-based technique. A set morphological features, extracted using multi-level thresholding, is combined with a bundle of local gradient descriptors, selected so as to encode textural and structural information of the fluorescent patterns in multiple scales. The proposed method was evaluated using a dataset with over 10K images achieving over 90 percent of classification accuracy.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Offline signature verification and quality characterization using poset-oriented grid features",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320316000133",
+            "Abstract": "This paper proposes a novel grid-based template matching scheme for off-line signature analysis and verification. At the heart of the new method lies the efficient encoding of the signature\u05f3s fine geometric structure by grid templates, appropriately partitioned in subsets. Features represent the detection of ordered transitions using lattice shaped probing structures shaped on 5\u00d75 pixel window binary masks. The verification performance of the method is evaluated on four different signature datasets producing state of the art results. Additionally, quality characterization of genuine signatures by means of complexity, stability and overall complexity-quality is also carried out. It is shown that both complexity and overall complexity measures correlate strongly with the corresponding opinions expressed by four forensic handwriting experts using the Spearman ranking test. Examination of the verification results provides \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:HE397vMXCloC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "An algorithmic investigation of power spectrum features applied to geoelectric field signals and seismicity information",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/1710523.1710566",
+            "Abstract": "This work focuses on the automated extraction and selection of features, applied to geoelectric signals recorded over four years of data acquisition. Characteristics of the signal are extracted using 24-hour period signal segments. As an initial step towards a complete pattern recognition schema, the process seeks signal characteristics that may be correlated to seismic activity. Low and high magnitude seismic information is used to bias the feature selection process towards this goal. Some results produced by this investigation are also demonstrated.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improvement of image retrieval by fusing different descriptors",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4279183/",
+            "Abstract": "A method for optimized image similarity measurement based on fusion of image descriptors is introduced. Descriptors of every kind can be used. The method is based on the nonparametric Wald - Wolfowitz (WW) statistical test, and the corresponding similarity measure, which is very well suited for that purpose. A simple addition of the above WW based similarity measures is the fusion rule proposed here. Experimental results in image retrieval task are very promising.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A machine vision based method for atmospheric circulation classification",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5201149/",
+            "Abstract": "Weather maps refer to meteorological data that characterize the atmospheric circulation in a region. The classification of weather maps into categories becomes an important task for understanding regional climate. Towards this goal, manual and semiautomatic techniques have been used, requiring manpower and supervision. In this paper, we propose a machine vision based method for the classification of weather maps into distinct classes. The chain code descriptor is applied to extract the feature of isobaric lines and we introduce the double-side chain code (DSCC) histogram for feature representation. Handling DSCC histograms as multidimensional vectors, the k-nearest neighbors (k-NN) algorithm classifies the objects to an appropriate number of classes, based on closest training set in the feature space. This method provides an automated and more dasiaobjectivepsila classification scheme, applying \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detecting edges using density value",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/document/1363655/",
+            "Abstract": "An edge detection algorithm that is based on local, nonparametric estimation of the image density is presented. The degree of bimodality within an image window and hence edge strength is inferred by the sampled density value. The method is applicable to vector valued images.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Time domain modeling and characterization of polymer optical fibers",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1266455/",
+            "Abstract": "Polymer optical fibers (POFs) are of great interest the last decade, replacing glass fibers, in high-speed optical communication networks for short and medium distance applications. The characterization of POF as a transmission medium is of great importance when designing such optical networks. Based on a generalized impulse response model of multimode media, we developed a method for time bandpass response evaluation of a graded index polymer optical fiber (GIPOF). This model can be used to derive the response (in both time and frequency domains) of any arbitrary light source with given optical pulse characteristics.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Charting of geoelectric potential signal dynamics via geometrical techniques and its possible relation to significant earthquakes in Western Greece",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S009830040700221X",
+            "Abstract": "An exploratory data analysis (EDA) framework was developed in order to investigate the presence of possible correlations in the long-term geoelectric potential (LTGP) signal, prior to significant seismic events in Western Greece. Experimental data, which had been collected continuously within a 6-year period (1998\u20132003) at the earthquake signal-acquisition center of the University of Patras Seismological Laboratory (UPSL), were studied. The multidimensional scaling (MDS) technique was used to detect putative clustering tendencies in the ensemble of time-series (TS) segments that could indicate the existence of a possible correlation between the geoelectric signal structure and the impending seismic activity. The end result is a 2-dimensional point diagram with the geometry reflecting important signal characteristics, directly related with the underlying seismic events. In addition, the \u201cappending technique\u201d, a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Advanced leaf image retrieval via Multidimensional Embedding Sequence Similarity (MESS) method",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s10044-011-0254-6",
+            "Abstract": "A novel method for shape analysis and similarity measurement is introduced based on a time series matching approach. It applies to shapes represented through one-dimensional signals and has as objectives to utilize efficiently the provided information and to optimize the shape matching process. The new technique is tested on boundaries from leaf images, after their conversion into 1D sequences using either the Centroid Contour Distance (CCD) or the Angle code (AC) measurements. In the core of the new method lies the \u2018time delay\u2019-based transformation of a given 1D sequence to an ensemble of vectors embedded in a multivariate phase space. The resulting point set is considered as representative of the leaf identity. Inter-leaf comparisons are carried out in a pairwise fashion by employing the multidimensional, Wald\u2013Wolfowitz, statistical test for the \u2018two-sample problem\u2019, which implicitly performs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Human eye movements as a trait for biometrical identification",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6374580/",
+            "Abstract": "This research work proposes an innovative processing scheme for the exploitation of eye movement dynamics on the field of biometrical identification. As the mechanisms that derive eye movements highly depend on each person's idiosyncrasies, cues that reflect at a certain extent individual characteristics may be captured and subsequently deployed for the implementation of a robust identification system. Our methodology involves the employment of a non - parametric statistical test, the multivariate Wald - Wolfowitz test (WW-test), in order to compare the distributions of saccadic velocity and acceleration features, which are extracted while a person fixates on visual stimuli. In the evaluation section we use two publicly available datasets that supply recorded eye movements from a number of subjects during the observation of a moving spot on a computer screen. The resulting identification rates exhibit the efficacy \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A comprehensive study of sparse representation techniques for offline signature verification",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8636226/",
+            "Abstract": "In this paper, a feature extraction method for offline signature verification is presented that harnesses the power of sparse representation (SR) in order to deliver state-of-the-art verification performance in several signature datasets like CEDAR, MCYT-75, GPDS, and UTSIG. Beyond the accuracy improvements, several major parameters associated with SR; such as selected configuration, dictionary size, sparsity level, and positivity priors are investigated. Besides, it is evinced that second-order statistics of the sparse codes is a powerful pooling function for the formation of the global signature descriptor. Also, a thorough evaluation of the effects of preprocessing is introduced by an automated algorithm in order to select the optimum thinning level. Finally, a segmentation strategy which employs a special form of spatial pyramid tailored to the problem of SR is presented along with the enhancing of the produced \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:2KloaMYe4IUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Attention-aware generative adversarial networks (ATA-GANs)",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8448850/",
+            "Abstract": "In this work, we present a novel approach for training Generative Adversarial Networks (GANs). Using the attention maps produced by a Teacher Network we are able to improve the quality of the generated images as well as perform weakly supervised object localization on the generated images. To this end, we generate images of HEp-2 cells captured with Indirect Imunofluoresence (IIF) and study the ability of our network to perform a weakly localization of the cell. First, we demonstrate that whilst GANs can learn the mapping between the input domain and the target distribution efficiently, the discriminator network is not able to detect the regions of interest. Second, we present a novel attention transfer mechanism which allows us to enforce the discriminator to put emphasis on the regions of interest via transfer learning. Third, we show that this leads to more realistic images, as the discriminator learns to put \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Long term geo-electric potential signal analysis using the Teager Huang transform",
+            "Publication year": 2011,
+            "Publication url": "https://www.actapress.com/Abstract.aspx?paperId=451637",
+            "Abstract": "LONG TERM GEO-ELECTRIC POTENTIAL SIGNAL ANALYSIS USING THE TEAGER HUANG \nTRANSFORM Konstantina Barkoula*, Apostolos Ifantis, George Economou* Department of \nElectrical Engineering, Control System and Signal Processing Laboratory, Technological \nEducational Institute of Patras *Department of Physics, Electronics Laboratory, University of \nPatras, M. Alexandrou 1 Koukouli, Patras, Greece *Campus of University of Patras, Rion, 26500, \nGreece ifantisa@teipat.gr economou@physics.upatras.gr kbarkoula@gmail.com ABSTRACT \nThe long term geo-electric potential (LTGP) signals measured in a variety of experiment \ncontexts have shown strong indications on their precursor nature to major earthquake events. \nMeasurements of LTGP signals in Western Greece have been collected for more than twenty \nyears. The measured signals are processed in several ways to extract features with a direct . \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Weather maps classification over Greek domain based on isobaric line patterns",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s00704-013-0870-8",
+            "Abstract": "The paper presents a semi-supervised weather classification method based on 850-hPa isobaric level maps. A preprocessing step is employed, where isolines of geopotential height are extracted from weather map images via an image processing procedure. \u0391 feature extraction stage follows where two techniques are applied. The first technique implements phase space reconstruction, and yields multidimensional delay distributions. The second technique is based on chain code representation of signals, from which histogram features are derived. Similarity measures are used to compare multidimensional data and the k-means algorithm is applied in the final stage. The method is applied over the area of Greece, and the resulting catalogues are compared to a subjective classification for this area. Numerical experiments with datasets derived from the European Meteorological Bulletin archives exhibit an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Springer Vienna"
+        },
+        {
+            "Title": "A local spectral distribution approach to face recognition",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314212000318",
+            "Abstract": "This work presents a novel face recognition approach that utilizes the whole manifold structure of the face\u2019s local spectral distribution. Local spectral features are extracted using Gabor wavelets, encoding at every image pixel the visual appearance of the surrounding patch by the vector of filter responses. The above representation provides a robust and discriminative statistical image description in the spatial frequency domain transform space. Parameterized by angle and scale, the manifold structure of the produced multidimensional point set contains both local and holistic information about the face image. In order to reduce redundancy and code efficiently the formed multivariate distribution, a neural vector quantizer is employed. The ensemble of the selected code vectors constitutes the spectral signature of a face image in the high-dimensional face space. The similarity between two face images is assessed by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "A framework for gait-based recognition using Kinect",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167865515001920",
+            "Abstract": "Gait analysis has gained new impetus over the past few years. This is mostly due to the launch of low cost depth cameras accompanied with real time pose estimation algorithms. In this work we focus on the problem of human gait recognition. In particular, we propose a modification of a framework originally designed for the task of action recognition and apply it to gait recognition. The new scheme allows us to achieve complex representations of gait sequences and thus express efficiently the dynamic characteristics of human walking sequences. The representational power of the suggested model is evaluated on a publicly available dataset where we achieved up to 93.29% identification rate, 3.1% EER on the verification task and 99.11% gender recognition rate.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:bnK-pcrLprsC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Collaborative sparse representation in dissimilarity space for classification of visual information",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41914-0_49",
+            "Abstract": "In this work we perform a thorough evaluation of the most popular CR-based classification scheme, the SRC, on the task of classification in dissimilarity space. We examine the performance utilizing a large set of public domain dissimilarity datasets mainly derived from classification problems relevant to visual information. We show that CR-based methods can exhibit remarkable performance in challenging situations characterized by extreme non-metric and non-Euclidean behavior, as well as limited number of available training samples per class. Furthermore, we investigate the structural qualities of a dataset necessitating the use of such classifiers. We demonstrate that CR-based methods have a clear advantage on dissimilarity data stemming from extended objects, manifold structures or a combination of these qualities. We also show that the induced sparsity during CR, is of great significance to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Segmentation of color images using multiscale clustering and graph theoretic region synthesis",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1396158/",
+            "Abstract": "A multiresolution color image segmentation approach is presented that incorporates the main principles of region-based segmentation and cluster-analysis approaches. The contribution of This work may be divided into two parts. In the first part, a multiscale dissimilarity measure is proposed that makes use of a feature transformation operation to measure the interregion relations with respect to their proximity to the main clusters of the image. As a part of this process, an original approach is also presented to generate a multiscale representation of the image information using nonparametric clustering. In the second part, a graph theoretic algorithm is proposed to synthesize regions and produce the final segmentation results. The latter algorithm emerged from a brief analysis of fuzzy similarity relations in the context of clustering algorithms. This analysis indicates that the segmentation methods in general may be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Color image edge detection based on nonparametric density estimation",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/959197/",
+            "Abstract": "A novel computationally efficient adaptive algorithm to accomplish edge detection in multidimensional and color images is presented. It is a statistical approach, based on local, non-parametric kernel density estimation. The location of the edge discontinuity coincides with the image density function minimum and it is determined by appropriate resampling of the locally defined probability space. The operator is radially symmetric and can be easily adapted to cope with signals of any dimensionality.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "OFFLINE SIGNATURE VERIFICATION BASED ON PROBABILISTIC REPRESENTATION OF GRID EVENTS",
+            "Publication year": 2014,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=iv-2CgAAQBAJ&oi=fnd&pg=PA81&dq=info:0m7D_9BdQZ8J:scholar.google.com&ots=E_0D6CCd1O&sig=DBMJv_FyfYrQzvbiY9bBn7-lRPY",
+            "Abstract": "In an era dominated by all forms of digital information the handwritten signature still continues to serve as an accepted trait for individuals to validate their identity in several application areas. The operation of the signing process is usually twofold. On the one hand, it is a way to provide evidence of deliberative consent of a writer by signing at the bottom of a document. On the other hand it can be used as a way to proclaim the writers presence and uniqueness. 1 An immense anthology of research papers and broad reviews provide the basic principles that an Automated Signature Verification System (ASVS) follows. 2, 3 In short, it is an ensemble of algorithms mainly from the research areas of image processing and pattern recognition. Both online and offline ASVS have to confront the fact that the motoric process and the intention of the writer during the signature generation phase are subject to natural variations which are described under the term inter-writer variability. 1, 4 Offline feature extraction is one of the most challenging tasks when ASVS are designed. A growing feature extraction philosophy models the signature by applying either a coarse or a fine grid onto the image. 5\u201311 Then, signature representation are derived by appropriately modeling accumulated signature\u2019s image grid feature distributions. It is important to note that the informative content of the grid features depends on its coarseness or fineness. The principal endeavor of this work is to advance the background concepts of a grid based feature which exploits signature pixel transition distributions12 by mutating and evolving its descriptive and informative content. In order to do \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Color image segmentation using multiscale fuzzy c-means and graph theoretic merging",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1247130/",
+            "Abstract": "A multiresolution color image segmentation method is presented that incorporates the main principles of region-based and cluster analysis approaches. A multiscale dissimilarity measure in the feature space is proposed that makes use of nonparametric cluster validity analysis and fuzzy C-Means clustering. Detected clusters are utilized to assign membership functions to the image regions. In addition, a graph theoretic merging algorithm is presented that uses the formulation of fuzzy similarity relations to produce the final segmentation results. The efficiency of the resulting scheme is also experimentally indicated.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:W5xh706n7nkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using kinect for assesing the state of Multiple Sclerosis patients",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7015936/",
+            "Abstract": "In this work a prototype video-based system for assessing the state of patients with Multiple sclerosis is proposed. In particular we introduce an automated system for capturing and analyzing gait sequences from patients performing the well known 2-minute walking test. The contribution of this work is twofold. First we provide a computerized approach for performing the 2-minute walk test and showing that there is a great correlation between the estimated by the system walking distance and the distance measured by the physicians (Pearson's Rho= 0.7292, p<;0.001). Second we present some preliminary results indicating that extracted gait style information is able to differentiate between healthy controls (HC) and Multiple Sclerosis patients even when the Extended Disability Status Scale (EDSS) is low. In order to exploit style information we first incorporated a view invariant representation of the skeleton. Then we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust classification of texture images using distributional-based multivariate analysis",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Spiros-Fotopoulos/publication/221787121_Robust_Classification_of_Texture_Images_using_Distributional-based_Multivariate_Analysis/links/09e41508f955af352f000000/Robust-Classification-of-Texture-Images-using-Distributional-based-Multivariate-Analysis.pdf",
+            "Abstract": "Classification of texture images has been recognized as an important task in the field of image analysis and computer vision through the last few decades. A plethora of research papers have appeared in the literature trying to cope with effective ways to extract faithful distributions that accurately represent the inner content and attributes of texture images. An issue of great importance is, also, the incorporation of a valid similarity measure that can successfully estimate how close these distributions are with respect to some pre-classified texture categories. The basic operations that need to be carried out in order to estimate the similarity between texture images and thereafter assess the classification problem are (a) choose an appropriate feature space for texture representation,(b) construct a theoretically valid distribution in the texture feature space, ie the texture signature, which provide a representation of the texture image in a multivariate feature space,(c) perform pairwise comparisons between corresponding texture signatures that constitute the consequent content distributions of the texture images and (d) choose an experimentally valid classifier for the subsequent evaluation.The scope of this chapter is the survey of a recently introduced methodology for distributional-based classification of texture images (Pothos et al., 2007), its enhancement via the incorporation of a self-organizing module and its adaptation so as to work in multivariate feature spaces. The original approach is based on an efficient strategy for analyzing texture patterns within a distributional framework and the use of a statistical distributional measure for comparing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:hMod-77fHWUC",
+            "Publisher": "INTECH Open Access Publisher"
+        },
+        {
+            "Title": "Multivariate image similarity in the compressed domain using statistical graph matching",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320306001622",
+            "Abstract": "We address the problem of image similarity in the compressed domain, using a multivariate statistical test for comparing color distributions. Our approach is based on the multivariate Wald\u2013Wolfowitz test, a nonparametric test that assesses the commonality between two different sets of multivariate observations. Using some pre-selected feature attributes, the similarity measure provides a comprehensive estimate of the match between different images based on graph theory and the notion of minimal spanning tree (MST). Feature extraction is directly provided from the JPEG discrete cosine transform (DCT) domain, without involving full decompression or inverse DCT. Based on the zig-zag scheme, a novel selection technique is introduced that guarantees image's enhanced invariance to geometric transformations. To demonstrate the performance of the proposed method, the application on a diverse collection of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "A spectral distribution approach to fingerprint verification",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5201072/",
+            "Abstract": "A generic, transform-domain image classification method is presented and applied to the fingerprint verification problem. At first, the image is decomposed by a bank of Gabor filters and, at every pixel, its spectral information is extracted in vectorial form. In order to reduce redundancy, a neural-based vector quantizer is used to select representative samples that encode the multivariable fingerprint spectral distribution. Similarity between image distributions, utilized as a distance measure by the classification task, is then assessed in pairwise form by means of a non-parametric statistical test between the corresponding code-vectors. The presented multi-scale vectorial representation allows the inclusion of higher order dependencies among image pixels that describe in a unique way individual features of fingerprint images.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Texture retrieval based on a non-parametric measure for multivariate distributions",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1282280.1282353",
+            "Abstract": "In the present study, an efficient strategy for retrieving texture images from large texture databases is introduced and studied within a distributional-statistical framework. Our approach incorporates the multivariate Wald-Wolfowitz test (WW-test), a non-parametric statistical test that measures the similarity between two different sets of multivariate data, which is utilized here for comparing texture distributions. By summarizing the texture information using standard feature extraction methodologies, the similarity measure provides a comprehensive estimate of the match between different images based on graph theory. The proposed\" distributional metric\" is shown to handle efficiently the texture space dimensionality and the limited sample size drawn from a given image. The experimental results, from the application on a typical texture database, clearly demonstrate the effectiveness of our approach over other texture \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sky Image forecasting with Generative Adversarial Networks for cloud coverage prediction",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8900774/",
+            "Abstract": "This work focuses on the problem of sky image prediction using Generative Adversarial Networks (GANs). Sky images observation is used for cloud coverage short-term forecasting and therefore by predicting the future frames of a sky image sequence, a better estimate of the available solar resource for renewables could be achieved. For this purpose, a Deep Convolutional Neural Network (CNN) topology is trained with an Adversarial loss in order to produce realistic future frames of the input image sequences. The prediction of future frames is incurred by two different approaches. In the first approach, a network is receiving 4 frames and predicting the next frame and in the second approach, given a sequence of 8 input images a network is predicting the next 8 frames. In order to evaluate the quality of the generated images, a criterion based on cloud coverage is proposed. This cloud coverage metric provides an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:nrtMV_XWKgEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low-level visual saliency with application on aerial imagery",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6472772/",
+            "Abstract": "In this letter, a method for the construction of low-level saliency maps is presented in tandem with their evaluation on a set of aerial images. One of the key inspirations for the current research lies on the observation that, usually, the most significant man-made structures in a wide-field aerial image resemble the low-level features that can be detected with a bottom-up saliency map. Aerial photography comprises, hence, a natural domain of application for a method that computationally models low-level saliency. With the employment of mechanisms analogous to the neural functions that drive human attention, we propose a bioinspired framework based on sparse coding for the extraction of information about saliency. The suggested algorithm is then evaluated on a novel data set that has been constructed with the utilization of aerial images and the corresponding manually designed ground truth binary maps of salient \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:maZDTaKrznsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dictionary based color image retrieval",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1047320308000503",
+            "Abstract": "In this work the normalized dictionary distance (NDD) is presented and investigated. NDD is a similarity metric based on the dictionary of a sequence acquired from a data compressor. A dictionary gives significant information about the structure of the sequence it has been extracted from. We examine the performance of this new distance measure for color image retrieval tasks, by focusing on three parameters: the transformation of the 2D image to a 1D string, the color to character correspondence, and the image size. We demonstrate that NDD can outperform standard (dis)similarity measures based on color histograms or color distributions.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "A fuzzy dissimilarity function for region based segmentation of color images",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218001401000861",
+            "Abstract": "In this paper a novel Fuzzy Rule Based Dissimilarity Function is presented, to determine the hierarchical merging sequence in a region based segmentation scheme. The proposed technique, based on distinct region features and fuzzy logic principles, is designed to cope with the problems inherent in the segmentation task that the traditional merging cost functions cannot overcome. It combines the global (color) and local (spatial) information of the image to compare two adjacent regions in the rgb space. The validity of the approach has been subjectively and objectively verified for several types of color images such as head and shoulders, natural and texture images.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Handwritten signature verification via deep sparse coding architecture",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8448687/",
+            "Abstract": "The use of a person's signature is considered as one of the most commonly used biometric methods for recognition, either as a standalone feature or as part of multimodal systems. Based on the inter-writer variability, handwritten signatures have been accepted as a personal trait in many transactions to verify the consent or the author's presence. The main challenges for handwritten signature verification are the limited amount of available data for each writer and the intra-writer variability. Sparse Representation (i.e. dictionary learning and sparse coding) achieved state of the art results at handwritten signature verification, using only a small set of genuine reference samples of the writer. The extension of Sparse Representation to an efficient multi-layer architecture is Deep Sparse Coding. Deep Sparse Coding architecture connects multiple layers of Sparse Representation with a sparse-to-dense module in order to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:35r97b3x0nAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A histogram based multichannel filter",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7075549/",
+            "Abstract": "A multidimensional filtering technique is proposed using fuzzy logic ideas and based on local statistics. The local multivariate histogram of the mutlichannel image is computed using the Parzen estimation technique. The maximum and minimum of the histogram are used as parameters, to describe the signal shape. The method is organized around a fuzzy control system. Experimental results, in true color images, show that the proposed technique suppresses different types of noise and preserve the image details better than other popular techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the definition of shape parts: a dominant sets approach",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10044-018-0679-2",
+            "Abstract": "In the present paper, a novel graph-based approach to the shape decomposition problem is addressed. The shape is appropriately transformed into a visibility graph enriched with local neighborhood information. A two-step diffusion process is then applied to the visibility graph that efficiently enhances the information provided, thus leading to a more robust and meaningful graph construction. Inspired by the notion of a clique as a strict cluster definition, the dominant sets algorithm is invoked, slightly modified to comport with the specific problem of defining shape parts. The cluster cohesiveness and a node participation vector are two important outputs of the proposed graph partitioning method. Opposed to most of the existing techniques, the final number of the clusters is determined automatically, by estimating the cluster cohesiveness on a random network generation process. Experimental results on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Segmentation of color images using a hierarchical fuzzy region merging technique",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7075539/",
+            "Abstract": "A novel hierarchical clustering method is presented in this work. It operates as a part of a split and merge segmentation scheme. The proposed technique incorporates the use of several color features to compare clusters in the RGB space and the flexibility of the fuzzy reasoning approach to accomplish satisfactory segmentation results. The boundary values of the fuzzy sets have been determined by means of a genetic algorithm optimization approach. The segmentation results evaluated subjectively and objectively were compared to a straightforward product cost function.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Representation and Verification of Offline Signatures with Dictionary Learning and Parsimonious Coding",
+            "Publication year": 2018,
+            "Publication url": "https://www.researchgate.net/profile/Dimitrios-Tsourounis/publication/326416503_Representation_and_Verification_of_Offline_Signatures_with_Dictionary_Learning_and_Parsimonious_Coding/links/5f89a24c299bf1b53e2c1b3b/Representation-and-Verification-of-Offline-Signatures-with-Dictionary-Learning-and-Parsimonious-Coding.pdf",
+            "Abstract": "In this work, a method for offline signature verification is presented that harnesses the power of sparse representation in order to deliver state-of-the-art verification performance in several signature datasets like CEDAR, MCYT-75, GPDS and UTSIG. Beyond the accuracy improvements, several major parameters associated with sparse representation; such as selected formulation, dictionary size, sparsity level and positivity priors are investigated. Besides, it is evinced that 2nd order statistics can be a powerful pooling function for the formation of the global signature descriptor. Also, a thorough evaluation of the effects of preprocessing is introduced by an automated algorithm in order to select the optimum thinning level. Finally, a segmentation strategy which employs a special form of spatial pyramid tailored to the problem of sparse representation is presented along with the enhancing of the produced descriptor on meaningful areas of the signature as emerged from the BRISK key-point detection mechanism. The obtained state-of-the-art results on the most challenging signature datasets provide a strong indication towards the benefits of learned features, even in WD scenarios with only a few available reference samples.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:uWiczbcajpAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Analysis of a differential fiber Bragg grating self-demodulation technique",
+            "Publication year": 2000,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4185/41851T/Analysis-of-a-differential-fiber-Bragg--grating-self-demodulation/10.1117/12.2302208.short",
+            "Abstract": "A differential demodulation technique capable of accommodating dynamic, high strain and high rate events is presented. The sensor system, based on a single fiber Bragg grating and a pulse modulated white light source, demodulates the first derivative of the strain signal. From model simulation, noise-limited resolution and dynamic range have been determined as functions of tunable system parameters.",
+            "Abstract entirety": 1,
+            "Author pub id": "j9XzkygAAAAJ:70eg2SAEIzsC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "HEp-2 cell classification with vector of hierarchically aggregated residuals",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320316304009",
+            "Abstract": "The presence of Antinuclear Autoantibodies (ANA) in human serum is connected with several autoimmune diseases. Indirect Immunofluorescence (IIF) imaging of human epithelial type-2 cells (HEp-2) is the dominant protocol used for the identification of ANA. However, due to limitations in the processes, several attempts have been made to automate the procedure of HEp-2 cell classification. In this work, we focus on the task of HEp-2 cell classification and we propose a novel method for local feature encoding that allows us to generalize the concept of residual encoding in sparse vectors. More specifically, our method hierarchically aggregates the residual of the feature vectors\u2019 sparse representation leading to a Vector of Hierarchically Aggregated Residuals (VHAR). Using SIFT descriptors computed on a dense grid and multiple scales, as well as considering spatial information our method achieves 78.0 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "j9XzkygAAAAJ:_B80troHkn4C",
+            "Publisher": "Pergamon"
+        }
+    ]
+}]

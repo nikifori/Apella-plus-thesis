@@ -1,0 +1,618 @@
+[{
+    "name": "\u0386\u03bd\u03bd\u03b1 \u03a6\u03b9\u03bb\u03af\u03c0\u03c0\u03bf\u03c5",
+    "romanize name": "Anna Filippou",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "University of Cyprus",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 6899,
+    "Scholar name": "Anna Philippou",
+    "Scholar id": "Yk7t7mEAAAAJ",
+    "Affiliation": "University of Cyprus",
+    "Citedby": 1027,
+    "Scholar url": "https://scholar.google.com/citations?user=Yk7t7mEAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Risk modeling and analysis of interdependencies of critical infrastructures using colored timed petri nets",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-20376-8_54",
+            "Abstract": "Petri Nets (PNs) and their variations are a graphical, mathematical language that can be used for the specification, analysis and verification of discrete event systems, including Critical Infrastructures (CIs). Colored PNs are an extension of classical PNs that are suitable for modeling and analyzing complex interconnected CIs. Timed PNs are another extension of PNs that support timing constraints and events. In this work we present a novel Risk Assessment methodology based on Timed Colored PNs for modeling and analyzing CIs with interdependencies, time-critical events and cascading effects.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Journal of Logical and Algebraic Methods in Programming",
+            "Publication year": 2021,
+            "Publication url": "https://www.researchgate.net/profile/Kyriaki-Psara-2/publication/354577580_Reversible_computation_in_nets_with_bonds/links/61602628ae47db4e57a648fc/Reversible-computation-in-nets-with-bonds.pdf",
+            "Abstract": "Reversible computation is an unconventional form of computing that uses reversible operations, that is, operations that can be easily and exactly reversed, or undone. Its study originates in the 1960\u2019s when it was observed that maintaining physical reversibility avoids the dissipation of heat [19]. Thus, the design of reversible logic gates and circuits can help to reduce the overall energy dissipation of computation and lead to low-power computing. Subsequently, motivation for studying reversibility has stemmed from a wide variety of applications, which naturally embed reversible behaviour. These include biological processes where computation may be carried out in forward or backward direction [31, 18], and the field of system reliability where reversibility can be used as a means of recovering from failures [14, 20]. One line of work in the study of reversible computation has been the investigation of its theoretical foundations [1]. During the last few years a number of formal models have been developed aiming to provide understanding of the basic principles of reversibility along with its costs and limitations, and to explore how it can be used to support the solution of complex problems. In the context of concurrent and distributed computation this study has led to the definition of different forms of reversibility: While in the sequential setting reversibility is generally understood as the ability to execute past actions in the exact inverse order in which they have occurred, a process commonly referred to as backtracking, in a concurrent scenario it can be argued that reversal of actions can take place in a more liberal fashion. The main alternatives proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Modeling and analysis of power-aware systems",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36577-X_29",
+            "Abstract": "The paper describes a formal approach for designing and reasoning about power-constrained, timed systems. The framework is based on process algebra, a formalism that has been developed to describe and analyze communicating concurrent systems. The proposed extension allows the modeling of probabilistic resource failures, priorities of resource usages, and power consumption by resources within the same formalism. Thus, it is possible to model alternative power-consumption behaviors and analyze tradeoffs in their timing and other characteristics. This paper describes the modeling and analysis techniques, and illustrates them with examples, including a dynamic voltage-scaling algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Di\u00e1logoP-A Language and a Graphical Tool for Formally Defining GDPR Purposes",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-50316-1_40",
+            "Abstract": "The notion of processing purpose, as set out in the EU General Data Protection Regulation (GDPR), comprises a crucial part of a software system\u2019s privacy policy. Processing purposes are meant to characterize the usage of personal data within a system. In this work, we propose a formal type language for defining purposes as the communication exchanges between a system\u2019s entities, based on session types enhanced with privacy notions. In order to provide software engineers with the means to easily define processing purposes, we encode the formal language syntax to a UML-based domain model and we present Di\u00e1logoP, a tool that supports the graphical model definition and subsequently translates it into formal language definitions.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Synchronous parallel composition in a process calculus for ecological models",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-10882-7_25",
+            "Abstract": "In this paper we extend PALPS, a process calculus proposed for the spatially-explicit, individual-based modeling of ecological systems, with a synchronous parallel operator. The semantics of the resulting calculus, S-PALPS, is defined at the level of populations as opposed to the level of individuals as was the case with PALPS, thus, allowing a considerable reduction in a system\u2019s state space. Furthermore, we provide a translation of the calculus into the model checker PRISM for simulation and analysis. We apply our framework to model and study the population dynamics of the Eleonora\u2019s falcon in the Mediterranean sea.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Process Ordering in a Process Calculus for Spatially-Explicit Ecological Models",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1803.01366",
+            "Abstract": "In this paper we extend PALPS, a process calculus proposed for the spatially-explicit individual-based modeling of ecological systems, with the notion of a policy. A policy is an entity for specifying orderings between the different activities within a system. It is defined externally to a PALPS model as a partial order which prescribes the precedence order between the activities of the individu- als of which the model is comprised. The motivation for introducing policies is twofold: one the one hand, policies can help to reduce the state-space of a model, on the other hand, they are useful for exploring the behavior of an ecosystem under different assumptions on the ordering of events within the system. To take account of policies, we refine the semantics of PALPS via a transition relation which prunes away executions that do not respect the defined policy. Furthermore, we propose a translation of PALPS into the probabilistic model checker PRISM . We illustrate our framework by applying PRISM on PALPS models with policies for conducting simulation and reachability analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hiding resources that can fail: An axiomatic perspective",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020019001002125",
+            "Abstract": "In earlier work, we presented a process algebra, PACSR, that uses a notion of resource failure to capture probabilistic behavior in reactive systems. PACSR also supports an operator for resource hiding. In this paper, we carefully consider the interaction between these two features from an axiomatic perspective. For this purpose, we introduce a subset of PACSR, called \u201cPACSR-lite\u201d, that allows us to isolate the semantic issues surrounding resource hiding in a probabilistic setting, and provide a sound and complete axiomatization of strong bisimulation for this fragment.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A process calculus for dynamic networks",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-21461-5_14",
+            "Abstract": "In this paper we propose a process calculus framework for dynamic networks in which the network topology may change as computation proceeds. The proposed calculus allows one to abstract away from neighborhood-discovery computations and it contains features for broadcasting at multiple transmission ranges and for viewing networks at different levels of abstraction. We develop a theory of confluence for the calculus and we use the machinery developed towards the verification of a leader-election algorithm for mobile ad hoc networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A network game with attackers and a defender",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-007-9109-3",
+            "Abstract": " Consider an information network with threats called attackers; each attacker uses a probability distribution to choose a node of the network to damage. Opponent to the attackers is a protector entity called defender; the defender scans and cleans from attacks some part of the network (in particular, a link), which it chooses independently using its own probability distribution. Each attacker wishes to maximize the probability of escaping its cleaning by the defender; towards a conflicting objective, the defender aims at maximizing the expected number of attackers it catches.  We model this network security scenario as a non-cooperative strategic game on graphs. We are interested in its associated Nash equilibria, where no network entity can unilaterally increase its local objective. We obtain the following results:                       \u2022                                              We obtain an algebraic characterization of \u2026 We obtain an algebraic characterization of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Selfish routing in the presence of network uncertainty",
+            "Publication year": 2009,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0129626409000122",
+            "Abstract": "We study the problem of selfish routing in the presence of incomplete network information. Our model consists of a number of users who wish to route their traffic on a network of m parallel links with the objective of minimizing their latency. However, in doing so, they face the challenge of lack of precise information on the capacity of the network links. This uncertainty is modeled via a set of probability distributions over all the possibilities, one for each user. The resulting model is an amalgamation of the KP-model of [14] and the congestion games with user-specific functions of [22]. We embark on a study of Nash equilibria and the price of anarchy in this new model. In particular, we propose polynomial-time algorithms (w.r.t. our model's parameters) for computing some special cases of pure Nash equilibria and we show that negative results of [22], for the non-existence of pure Nash equilibria in the case of three users \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:8k81kl-MbHgC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Weak Bisimulation for Probabilistic Systems\u22c6",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=T6RqCQAAQBAJ&oi=fnd&pg=PA334&dq=info:FpX7zyKbf8MJ:scholar.google.com&ots=lccM546i7p&sig=C6KskdGdombBJSXcphAfc8L2w44",
+            "Abstract": "In this paper, we introduce weak bisimulation in the framework of Labeled Concurrent Markov Chains, that is, probabilistic transition systems which exhibit both probabilistic and nondeterministic behavior. By resolving the nondeterminism present, these models can be decomposed into a possibly infinite number of computation trees. We show that in order to compute weak bisimulation it is sufficient to restrict attention to only a finite number of these computations. Finally, we present an algorithm for deciding weak bisimulation which has polynomial-time complexity in the number of states of the transition system.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "The price of defense and fractional matchings",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11947950_13",
+            "Abstract": "Consider a network vulnerable to security attacks and equipped with defense mechanisms. How much is the loss in the provided security guarantees due to the selfish nature of attacks and defenses? The Price of Defense was recently introduced in [7] as a worst-case measure, over all associated Nash equilibria, of this loss. In the particular strategic game considered in [7], there are two classes of confronting randomized players on a graph G(V, E): \u03bdattackers, each choosing vertices and wishing to minimize the probability of being caught, and a single defender, who chooses edges and gains the expected number of attackers it catches.In this work, we continue the study of the Price of Defense. We obtain the following results:\u2013 The Price of Defense is at least ; this implies that the Perfect Matching Nash equilibria considered in [7] are optimal with respect to the Price of Defense, so that the lower \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The price of defense",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11821069_62",
+            "Abstract": "We consider a strategic game with two classes of confronting randomized players on a graph G(V, E): \u03bd attackers, each choosing vertices and wishing to minimize the probability of being caught, and a defender, who chooses edges and gains the expected number of attackers it catches. The Price of Defense is the worst-case ratio, over all Nash equilibria, of the optimal gain of the defender over its gain at a Nash equilibrium. We provide a comprehensive collection of trade-offs between the Price of Defense and the computational efficiency of Nash equilibria.\u2013 Through reduction to a Two-Players, Constant-Sum Game, we prove that a Nash equilibrium can be computed in polynomial time. The reduction does not provide any apparent guarantees on the Price of Defense.\u2013 To obtain such, we analyze several structured Nash equilibria:\u2013 In a Matching Nash equilibrium, the support of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Reversible computation in nets with bonds",
+            "Publication year": 2022,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S235222082100081X",
+            "Abstract": "Reversible computation is a form of computing that allows operations to be executed in both the forward as well as the backward direction. In this paper we propose an approach inspired by Petri nets for the modelling of reversible behaviour. Specifically, we introduce machinery and associated semantics to support the three main forms of reversibility namely, backtracking, causal reversing, and out-of-causal-order reversing in a type of nets where tokens are persistent, distinguished from each other by an identity, and can be connected to each other with the use of bonds. Our formalism is influenced by applications in biochemistry but the methodology can be applied to a wide range of problems that feature reversibility. In particular, we demonstrate the applicability of our approach with a model of the ERK signalling pathway, an example that inherently features reversible behaviour.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Reversibility in chemical reactions",
+            "Publication year": 2020,
+            "Publication url": "https://library.oapen.org/bitstream/handle/20.500.12657/39589/2020_Book_ReversibleComputationExtending.pdf?sequence=1#page=164",
+            "Abstract": "In this chapter we give an overview of techniques for the modelling and reasoning about reversibility of systems, including outof-causal-order reversibility, as it appears in chemical reactions. We consider the autoprotolysis of water reaction, and model it with the Calculus of Covalent Bonding, the Bonding Calculus, and Reversing Petri Nets. This exercise demonstrates that the formalisms, developed for expressing advanced forms of reversibility, are able to model autoprotolysis of water very accurately. Characteristics and expressiveness of the three formalisms are discussed and illustrated.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A graph-theoretic network security game",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11600930_98",
+            "Abstract": "Consider a network vulnerable to viral infection. The system security software can guarantee safety only to a limited part of the network. We model this practical network scenario as a non-cooperative multi-player game on a graph, with two kinds of players, a set of attackers and a protector player, representing the viruses and the system security software, respectively. Each attacker player chooses a node of the graph (or a set of them, via a probability distribution) to infect. The protector player chooses independently, in a basic case of the problem, a simple path or an edge of the graph (or a set of them, via a probability distribution) and cleans this part of the network from attackers. Each attacker wishes to maximize the probability of escaping its cleaning by the protector. In contrast, the protector aims at maximizing the expected number of cleaned attackers. We call the two games obtained from the two basic cases \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Reversible Computation in Cyclic Petri Nets",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2010.04000",
+            "Abstract": "Petri nets are a mathematical language for modeling and reasoning about distributed systems. In this paper we propose an approach to Petri nets for embedding reversibility, i.e., the ability of reversing an executed sequence of operations at any point during operation. Specifically, we introduce machinery and associated semantics to support the three main forms of reversibility namely, backtracking, causal reversing, and out-of-causal-order reversing in a variation of cyclic Petri nets where tokens are persistent and are distinguished from each other by an identity. Our formalism is influenced by applications in biochemistry but the methodology can be applied to a wide range of problems that feature reversibility. In particular, we demonstrate the applicability of our approach with a model of the ERK signalling pathway, an example that inherently features reversible behavior.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design of the HyperSurface Networking Aspects",
+            "Publication year": 2020,
+            "Publication url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003043805-5/design-hypersurface-networking-aspects-dimitrios-kouzapas-taqua-khairy-nouman-ashraf-ileana-papailiou-anna-philippou-andreas-pitsillides-konstantinos-michail-anastasis-kounoudes",
+            "Abstract": "This chapter introduces the design and implementation specifics of the HyperSurface (HSF) Gateway. The controller interconnection forms the HSF Controller Network (CN) that must be characterized by scalability and robustness. The use of these simulations focused mostly on developing alternative deadlock-free designs and scenarios, rather than extracting useful measurements. In the context of our analysis, we employed the model checker tool UPPAAL to exhaustively check the state space of particular HSF-CN designs. Formal evaluation as part of the design process complements the use of simulation testing software, since it can be easily deployed to exhaustively check all the possible execution interleaving. In this section we present work in progress regarding the employment of feedback in the design of a beam steering application using the HSF paradigm. The chapter assesses the performance of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "A graph-theoretic network security game",
+            "Publication year": 2008,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJAACS.2008.021488",
+            "Abstract": "Consider a network vulnerable to viral infection, where the security software can guarantee safety only to a limited part of it. We model this practical network scenario as a non-cooperative multi-player game on a graph, with two kinds of players, a set of attackers and a protector player, representing the viruses and the system security software, respectively. We are interested in the associated Nash equilibria, where no network entity can unilaterally improve its local objective. We obtain the following results: for certain families of graphs, mixed Nash equilibria can be computed in polynomially time. These families include, among others, regular graphs, graphs with perfect matchings and trees. The corresponding price of anarchy for any mixed Nash equilibria of the game is upper and lower bounded by a linear function of the number of vertices of the graph. (We define the price of anarchy to reflect the utility of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Pads: An approach to modeling resource demand and supply for the formal analysis of hierarchical scheduling",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0304397511007134",
+            "Abstract": "As real-time embedded systems become more complex, resource partitioning is increasingly used to guarantee real-time performance. Recently, several compositional frameworks of resource partitioning have been proposed using real-time scheduling theory with various notions of real-time tasks running under restricted resource supply environments. However, these real-time scheduling-based approaches are limited in their expressiveness in that, although capable of describing resource-demand tasks, they are unable to model resource supply. This paper describes a process algebraic framework PADSfor reasoning about resource demand and resource supply inspired by the timed process algebra ACSR. In ACSR, real-time tasks are specified by enunciating their consumption needs for resources. To also accommodate resource-supply processes in PADS, given a resource c p u, we write c p u\u00af to denote the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Type Checking Purpose-Based Privacy Policies in the -Calculus",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-33612-1_8",
+            "Abstract": "In this paper we propose a formal framework for studying privacy preserving policies based on the notion of purpose. Our framework employs the -calculus with groups accompanied by a type system for capturing privacy requirements. It also incorporates a privacy policy language which captures how different entities within a system, which are distinguished by their roles, may access sensitive information and the purposes for which they are allowed to process the data. We show that a system respects a policy if the typing of the system is compatible with the policy. We illustrate our methodology via analysis of privacy-aware services of a health-care system.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Privacy by typing in the -calculus",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1710.06494",
+            "Abstract": "In this paper we propose a formal framework for studying privacy in information systems. The proposal follows a two-axes schema where the first axis considers privacy as a taxonomy of rights and the second axis involves the ways an information system stores and manipulates information. We develop a correspondence between the above schema and an associated model of computation. In particular, we propose the \\Pcalc, a calculus based on the -calculus with groups extended with constructs for reasoning about private data. The privacy requirements of an information system are captured via a privacy policy language. The correspondence between the privacy model and the \\Pcalc semantics is established using a type system for the calculus and a satisfiability definition between types and privacy policies. We deploy a type preservation theorem to show that a system respects a policy and it is safe if the typing of the system satisfies the policy. We illustrate our methodology via analysis of two use cases: a privacy-aware scheme for electronic traffic pricing and a privacy-preserving technique for speed-limit enforcement.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A process algebraic framework for modeling resource demand and supply",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-15297-9_15",
+            "Abstract": "As real-time embedded systems become more complex, resource partitioning is increasingly used to guarantee real-time performance. Recently, several compositional frameworks of resource partitioning have been proposed using real-time scheduling theory with various notions of real-time tasks running under restricted resource supply environments. However, these real-time scheduling-based approaches are limited in their expressiveness in that, although capable of describing resource-demand tasks, they are unable to model resource supply. This paper describes a process algebraic framework for reasoning about resource demand and supply inspired by the timed process algebra ACSR. In ACSR, real-time tasks are specified by enunciating their consumption needs for resources. To also accommodate resource-supply processes we define PADS where, given a resource CPU, the complimented resource \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the application of formal methods for specifying and verifying distributed protocols",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4579656/",
+            "Abstract": "In this paper we consider the frameworks of Process Algebra and I/O Automata and we apply both towards the verification of a distributed leader-election protocol. Based on the two experiences we evaluate the approaches and draw initial conclusions with respect to their relative capabilities, strengths and usability.To the best of our knowledge, this is the first hands-on evaluation of the two models, and we view it as the cornerstone for a wider investigation of the strengths and weaknesses of the two methodologies in specifying and verifying (distributed) protocols.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hiding Resources that Can Fail",
+            "Publication year": 2001,
+            "Publication url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1152&context=cis_papers",
+            "Abstract": "In earlier work, we presented a process algebra, PACSR, that uses resource failures to capture probabilistic behavior in reactive systems. In this paper, we explore the effects of resource failures in the situation where resources may be hidden from the environment. For this purpose, we introduce a subset of PACSR, called\" PACSR-lite,\" that allows us to isolate the issues surrounding resource hiding, and we provide a sound and complete axiomatization of strong bisimulation for this fragment.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The probabilistic model checker of P 2 ACSR",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4630268133761285468&hl=en&oi=scholarr",
+            "Abstract": "In this paper we describe the probabilistic model checking tool for P 2 ACSR which provides automatic property checking for L pr",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "TR"
+        },
+        {
+            "Title": "Verification techniques for distributed algorithms",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11945529_13",
+            "Abstract": "A value-passing, asynchronous process calculus and its associated theory of confluence are considered as a basis for establishing the correctness of distributed algorithms. In particular, we present an asynchronous version of value-passing CCS and we develop its theory of confluence. We show techniques for demonstrating confluence of complex processes in a compositional manner and we study properties of confluent systems that can prove useful for their verification. These results give rise to a methodology for system verification which we illustrate by proving the correctness of two distributed leader-election algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Network uncertainty in selfish routing",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1639342/",
+            "Abstract": "We study the problem of selfish routing in the presence of incomplete network information. Our model consists of a number of users who wish to route their traffic on a network of m parallel links with the objective of minimizing their latency. However, in doing so, they face the challenge of lack of precise information on the capacity of the network links. This uncertainty is modelled via a set of probability distributions over all the possibilities, one for each user. The resulting model is an amalgamation of the KP-model of (E. Koutsoupias and C. H. Papadimitriou, 1999) and the congestion games with user-specific functions of (I. Milchtaich, 1996). We embark on a study of Nash equilibria and the price of anarchy in this new model. In particular, we propose polynomial-time algorithms for computing some special cases of pure Nash equilibria and we show that negative results of (I. Milchtaich, 1996), for the non-existence of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Price of Defense",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-020-00783-7",
+            "Abstract": "We consider a game on a graph with two confronting classes of randomized players: attackers, who choose vertices and seek to minimize the probability of getting caught, and a single defender, who chooses edges and seeks to maximize the expected number of attackers it catches. In a Nash equilibrium, no player has an incentive to unilaterally deviate from her randomized strategy. The Price of Defense is the worst-case ratio, over all Nash equilibria, of over the expected utility of the defender at a Nash equilibrium.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Synchronous parallel composition in a process calculus for ecological modelsAAA",
+            "Publication year": 2014,
+            "Publication url": "http://gnosis.library.ucy.ac.cy/handle/7/55065",
+            "Abstract": "In this paper we extend PALPS, a process calculus proposed for the spatially-explicit, individual-based modeling of ecological systems, with a synchronous parallel operator. The semantics of the resulting calculus, S-PALPS, is defined at the level of populations as opposed to the level of individuals as was the case with PALPS, thus, allowing a considerable reduction in a system\u2019s state space. Furthermore, we provide a translation of the calculus into the model checker PRISM for simulation and analysis. We apply our framework to model and study the population dynamics of the Eleonora\u2019s falcon in the Mediterranean sea. \u00a9 Springer International Publishing Switzerland 2014.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Network game with attacker and protector entities",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11602613_30",
+            "Abstract": "Consider an information network with harmful procedures called attackers (e.g., viruses); each attacker uses a probability distribution to choose a node of the network to damage. Opponent to the attackers is the system protector scanning and cleaning from attackers some part of the network (e.g., an edge or a path), which it chooses independently using another probability distribution. Each attacker wishes to maximize the probability of escaping its cleaning by the system protector; towards a conflicting objective, the system protector aims at maximizing the expected number of cleaned attackers.We model this network scenario as a non-cooperative strategic game on graphs. We focus on the special case where the protector chooses a single edge. We are interested in the associated Nash equilibria, where no network entity can unilaterally improve its local objective. We obtain the following results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Tools and Algorithms for the Construction and Analysis of Systems",
+            "Publication year": 2009,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2009LNCS.5505.....K/abstract",
+            "Abstract": "Tools and Algorithms for the Construction and Analysis of Systems - NASA/ADS Now on home \npage ads icon ads Enable full ADS view NASA/ADS Tools and Algorithms for the Construction \nand Analysis of Systems Kowalewski, Stefan ; Philippou, Anna Abstract Publication: Lecture \nNotes in Computer Science Pub Date: 2009 DOI: 10.1007/978-3-642-00768-2 Bibcode: \n2009LNCS......K Keywords: Computer Science; Algorithm Analysis and Problem Complexity; \nSoftware Engineering; Software Engineering/Programming and Operating Systems; Logics \nand Meanings of Programs; Programming Techniques full text sources Publisher | \u00a9 The \nSAO/NASA Astrophysics Data System adshelp[at]cfa.harvard.edu The ADS is operated by the \nSmithsonian Astrophysical Observatory under NASA Cooperative Agreement NNX16AC86A \nNASA logo Smithsonian logo Resources About ADS ADS Help What's New Careers@ADS @? \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Controlling reversibility in reversing petri nets with application to wireless communications",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-21500-2_15",
+            "Abstract": "Petri nets are a formalism for modelling and reasoning about the behaviour of distributed systems. Recently, a reversible approach to Petri nets, Reversing Petri Nets (RPN), has been proposed, allowing transitions to be reversed spontaneously in or out of causal order. In this work we propose an approach for controlling the reversal of actions of an RPN, by associating transitions with conditions whose satisfaction/violation allows the execution of transitions in the forward/reversed direction, respectively. We illustrate the framework with a model of a novel, distributed algorithm for antenna selection in distributed antenna arrays.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Formal methods for specifying and verifying distributed algorithms process algebra vs I/O automata",
+            "Publication year": 2008,
+            "Publication url": "https://www.cs.ucy.ac.cy/proodos/tr-07-04.pdf",
+            "Abstract": "This paper embarks on a comparative study between two well-developed theories for formally specifying and verifying concurrent systems. Specifically, we consider the frameworks of Process Algebra and I/O Automata and we apply both towards the verification of a distributed leaderelection algorithm. Based on the two experiences we contrast the approaches and draw initial conclusions with respect to their relative capabilities and strengths.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A process calculus for spatially-explicit ecological models",
+            "Publication year": 2012,
+            "Publication url": "https://arxiv.org/abs/1211.4091",
+            "Abstract": "We propose PALPS, a Process Algebra with Locations for Population Systems. PALPS allows us to produce spatially-explicit, individual-based models and to reason about their behavior. Our calculus has two levels: at the first level we may define the behavior of an individual of a population while, at the second level, we may specify a system as the collection of individuals of various species located in space, moving through their life cycle while changing their location, if they so wish, and interacting with each other in various ways such as preying on each other. Furthermore, we propose a probabilistic temporal logic for reasoning about the behavior of PALPS processes. We illustrate our framework via models of dispersal in metapopulations.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards fault adaptive routing in metasurface controller networks",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1383762119305107",
+            "Abstract": "HyperSurfaces (HSFs) comprise structurally reconfigurable metasurfaces whose electromagnetic properties can be changed via a software interface, using an embedded miniaturized network of controllers, enabling novel capabilities in wireless communications, including 5G applications. Resource constraints associated with a hardware testbed of this breakthrough technology, currently under development, necessitate an interconnect architecture of a Network of Controllers (CN) that is distinct from, yet reminiscent to, those of conventional Network-on-Chip (NoC) architectures. To meet the purposes of our HSF testbed, we rationalize the construction of an irregular topology where its controllers are interconnected in a Manhattan-like geometry, with the flow of control directives conducted in a handshaking mode, and routing operated by an XY-YX algorithm that is agnostic of the CN connectivity, determined following \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:u_35RYKgDlwC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Encoding Reversing Petri Nets in Answer Set Programming",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-52482-1_17",
+            "Abstract": " Reversing Petri nets (RPNs) have been proposed as a reversible approach to Petri nets, which allows the transitions of a net to be reversed. This work presents an approach towards an implementation of RPNs to support their simulation and analysis. Specifically, we define how to model RPNs in Answer Set Programming (ASP), a declarative programming framework with competitive solvers. We highlight how the methodology can be used to reason about the behavior of RPN models.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Process-Algebraic Analysis of Timing and Schedulability Properties",
+            "Publication year": 2006,
+            "Publication url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1382&context=cis_papers",
+            "Abstract": "In this chapter, we present an overview of how timing information can be embedded in process-algebraic frameworks. We concentrate on the case of discrete-time modeling. We begin by discussing design approaches that have been adopted in different formalisms to model time and time passage, and how the resulting mechanisms interact with one another and with standard untimed process-algebraic operators. We proceed to give an overview of ACSR, a timed process algebra developed for modeling and reasoning about timed, resource-constrained systems. In doing this, ACSR adopts the notion of a resource as a first-class entity, and it replaces maximal progress, employed by other timed process algebras, by the notion of resource-constrained progress. ACSR associates resource-usage with time passage, and implements appropriate semantic rules to ensure that progress in the system is enforced as far as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A process calculus for spatially-explicit ecological models",
+            "Publication year": 2010,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.8442&rep=rep1&type=pdf#page=92",
+            "Abstract": "In this paper we propose PALPS, a Process Algebra with Locations for Population Systems. PALPS allows us to produce spatially-explicit, individual-based models and to reason about their behavior. Our calculus has two levels: at the first level we may define the behavior of an individual of a population while, at the second level, we may specify a system as the collection of individuals of various populations located in space, moving through their life cycle, traveling autonomously in space and interacting with each other in various ways such as preying on each other. We describe the syntax and the semantics of PALPS and we illustrate its applicability via simple examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tools and Algorithms for the Construction and Analysis of Systems: 15th International Conference, TACAS 2009, Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, York, UK, March 22-29, 2009, Proceedings",
+            "Publication year": 2009,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=_j5uCQAAQBAJ&oi=fnd&pg=PR2&dq=info:xTisJVtie0UJ:scholar.google.com&ots=-WZg2FJKrW&sig=Pf33Uzeflxl1awoD-j_Bp2C_Ktw",
+            "Abstract": "This book constitutes the refereed proceedings of the 15th International Conference on Tools and Algorithms for the Construction and Analysis of Systems, TACAS 2009, held in York, UK, in March 2009, as part of ETAPS 2009, the European Joint Conferences on Theory and Practice of Software. The 27 full papers and 8 tool demonstrations included in the volume were thoroughly reviewed and selected from 131 submissions. The papers are organized in topical sections on Model Checking, Tools, Verification of Concurrent Programs, Parametric Analysis, Program Analysis, and Hybrid Systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "The power of the defender",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1648926/",
+            "Abstract": "We consider a security problem on a distributed network. We assume a network whose nodes are vulnerable to infection by threats (e.g. viruses), the attackers. A system security software, the defender, is available in the system. However, due to the network\u2019s size, economic and performance reasons, it is capable to provide safety, i.e. clean nodes from the possible presence of attackers, only to a limited part of it. The objective of the defender is to place itself in such a way as to maximize the number of attackers caught, while each attacker aims not to be caught. In [7], a basic case of this problem was modeled as a non-cooperative game, called the Edge model. There, the defender could protect a single link of the network. Here, we consider a more general case of the problem where the defender is able to scan and protect a set of k links of the network, which we call the Tuple model. It is natural to expect that this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A general resource framework for real-time systems",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24626-8_16",
+            "Abstract": "The paper describes a formal framework for designing and reasoning about resource-constrained systems. The framework is based on a series of process algebraic formalisms which have been previously developed to describe and analyze various aspects of real-time communicating, concurrent systems. We develop a uniform framework for formal treatment of resources and demonstrate how previous work fits into the new framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Privacy by typing in the -calculus",
+            "Publication year": 2017,
+            "Publication url": "https://lmcs.episciences.org/4152",
+            "Abstract": "In this paper we propose a formal framework for studying privacy in information systems. The proposal follows a two-axes schema where the first axis considers privacy as a taxonomy of rights and the second axis involves the ways an information system stores and manipulates information. We develop a correspondence between the above schema and an associated model of computation. In particular, we propose the \\Pcalc, a calculus based on the -calculus with groups extended with constructs for reasoning about private data. The privacy requirements of an information system are captured via a privacy policy language. The correspondence between the privacy model and the \\Pcalc semantics is established using a type system for the calculus and a satisfiability definition between types and privacy policies. We deploy a type preservation theorem to show that a system respects a policy and it is safe if the typing of the system satisfies the policy. We illustrate our methodology via analysis of two use cases: a privacy-aware scheme for electronic traffic pricing and a privacy-preserving technique for speed-limit enforcement.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Episciences. org"
+        },
+        {
+            "Title": "Internet and Network Economics",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/11944874.pdf",
+            "Abstract": "The present volume is devoted to the second edition of the international Workshop on Internet and Network Economics (WINE), an interdisciplinary conference intending to provide a forum for researchers as well as practitioners to exchange innovative ideas and to be aware of each other\u2019s efforts and results. This second edition of the conference (WINE 2006) was hosted by the Research Academic Computer Technology Institute, at the University of Patras, December 15\u201317, 2006.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "LNCS, Springer, chapter A Graph-Theoretic Network Security Game"
+        },
+        {
+            "Title": "Process algebraic modelling and analysis of power-aware real-time systems",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/document/1029799/",
+            "Abstract": "A unified formal framework for designing and reasoning about power-constrained, real-time systems is described. The framework is based on process algebra, a formalism that has been developed to describe and analyse communicating, concurrent systems. The proposed extension allows the modelling of probabilistic resource failures, priorities of resource usages and power consumption by resources within the same formalism. Thus, it is possible to evaluate alternative power-consumption behaviours and tradeoffs under different real-time schedulers, resource limitations, resource failure probabilities, etc. This paper describes the modelling and analysis techniques and illustrates them with examples, including a dynamic voltage-scaling algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Resources in process algebra",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1567832607000070",
+            "Abstract": "The Algebra of Communicating Shared Resources (ACSR) is a timed process algebra which extends classical process algebras with the notion of a resource. It takes the view that the timing behavior of a real-time system depends not only on delays due to process synchronization, but also on the availability of shared resources. Thus, ACSR employs resources as a basic primitive and it represents a real-time system as a collection of concurrent processes which may communicate with each other by means of instantaneous events and compete for the usage of shared resources. Resources are used to model physical devices such as processors, memory modules, communication links, or any other reusable resource of limited capacity. Additionally, they provide a convenient abstraction mechanism for capturing a variety of aspects of system behavior.In this paper we give an overview of ACSR and its probabilistic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Simulation and Verification in a Process Calculus for Spatially-Explicit Ecological Models.",
+            "Publication year": 2013,
+            "Publication url": "https://www.info.uaic.ro/wp-content/uploads/2019/02/XXIII1_3.pdf",
+            "Abstract": "We propose PAlPs, a Process Algebra with Locations for Population Systems. PAlPs allows us to produce spatially-explicit individualbased ecological models and to reason about their behavior. PAlPs has two abstraction levels: At the first level, we may define the behavior of an individual of a population and, at the second level, we may specify a system as the collection of individuals of various species located in space. In PAlPs, the individuals move through their life cycle while changing their location and interact with each other in various ways such as predation, infection or mating. Furthermore, we propose a translation of a subset of PAlPs into the probabilistic model checker PRism. We illustrate our framework via models of dispersal in metapopulations and by applying PRism on PAlPs models for verifying temporal logic properties and conducting reachability and steady-state analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Process ordering in a process calculus for spatially-explicit ecological models",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-05032-4_25",
+            "Abstract": "In this paper we extend palps, a process calculus proposed for the spatially-explicit individual-based modeling of ecological systems, with the notion of a policy. A policy is an entity for specifying orderings between the different activities within a system. It is defined externally to a palps model as a partial order which prescribes the precedence order between the activities of the individuals of which the model is comprised. The motivation for introducing policies is twofold: one the one hand, policies can help to reduce the state-space of a model; on the other hand, they are useful for exploring the behavior of an ecosystem under different assumptions on the ordering of events within the system. To take account of policies, we refine the semantics of palps via a transition relation which prunes away executions that do not respect the defined policy. Furthermore, we propose a translation of palps into the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Formal modeling and analysis of power-aware real-time systems",
+            "Publication year": 2002,
+            "Publication url": "https://repository.upenn.edu/cis_reports/38/",
+            "Abstract": "The paper describes a unified formal framework for designing and reasoning about power-constrained, timed systems. The framework is based on process algebra, a formalism which has been developed to describe and analyze communicating, concurrent systems. The proposed extension allows the modeling of probalistic resource failures, priorities of resource usages, and power consumption by resources within the same formalism. Thus, it is possible to study several alternative power-consumption behaviors and tradeoffs in their timing and other characteristics. This paper describes the modeling and analysis techniques, and illustrates them with examples, including a dynamic voltage-scaling algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fault adaptive routing in metasurface controller networks",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8541148/",
+            "Abstract": "HyperSurfaces are a merge of structurally reconfigurable metasurfaces whose electromagnetic properties can be changed via a software interface, using an embedded miniaturized network of controllers, thus enabling novel capabilities in wireless communications. Resource constraints associated with the development of a hardware testbed of this breakthrough technology necessitate network controller architectures different from traditional regular Network-on-Chip architectures. The Manhattan-like topology chosen to realize the controller network in the testbed under development is irregular, with restricted local path selection options, operating in an asynchronous fashion. These characteristics render traditional fault-tolerant routing mechanisms inadequate. In this paper, we present work in progress towards the development of fault-tolerant routing mechanisms for the chosen architecture. We present two XY \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mean-field semantics for a process calculus for spatially-explicit ecological models",
+            "Publication year": 2016,
+            "Publication url": "https://arxiv.org/abs/1603.00979",
+            "Abstract": "We define a mean-field semantics for S-PALPS, a process calculus for spatially-explicit, individual-based modeling of ecological systems. The new semantics of S-PALPS allows an interpretation of the average behavior of a system as a set of recurrence equations. Recurrence equations are a useful approximation when dealing with a large number of individuals, as it is the case in epidemiological studies. As a case study, we compute a set of recurrence equations capturing the dynamics of an individual-based model of the transmission of dengue in Bello (Antioquia), Colombia.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distributed antenna selection for massive MIMO using reversing Petri nets",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8727518/",
+            "Abstract": "Distributed antenna selection for distributed massive multiple input multiple output (MIMO) communication systems reduces computational complexity compared to centralized approaches, and provides high fault tolerance while retaining diversity and spatial multiplexity. We propose a novel distributed algorithm for antenna selection and show its advantage over existing centralized and distributed solutions. The proposed algorithm is shown to perform well with imperfect channel state information, and to execute a small number of simple computational operations per node, converging fast to a steady state. We base it on reversing Petri nets, a variant of Petri nets inspired by reversible computation, capable of both forward and backward execution while obeying conservation laws.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A family of resource-bound real-time process algebras",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-306-47003-9_27",
+            "Abstract": "This paper describes three real-time process algebras, ACSR, PACSR and ACSR- VP. ACSR is a resource-bound real-time process that supports synchronous timed actions and asynchronous instantaneous events as well as the notions of resource, priority, exception, and interrupt. PACSR is a probabilistic extension of ACSR with resources that can fail and associated failure probabilities. ACSR-VP extends ACSR with value passing between processes and parameterized process definitions. This paper also provides three simple real-time system examples to illustrate the expressive power and analysis technique of each process algebra.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Weak bisimulation for probabilistic systems",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44618-4_25",
+            "Abstract": "In this paper, we introduce weak bisimulation in the framework of Labeled Concurrent Markov Chains, that is, probabilistic transition systems which exhibit both probabilistic and nondeterministic behavior. By resolving the nondeterminism present, these models can be decomposed into a possibly infinite number of computation trees. We show that in order to compute weak bisimulation it is sufficient to restrict attention to only a finite number of these computations. Finally, we present an algorithm for deciding weak bisimulation which has polynomial-time complexity in the number of states of the transition system.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A family of resource-Bound real-time process algebras",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1571066106004373",
+            "Abstract": "The Algebra of Communicating Shared Resources (ACSR) is a timed process algebra which extends classical process algebras with the notion of a resource. It takes the view that the timing behavior of a real-time system depends not only on delays due to process synchronization, but also on the availability of shared resources. Thus, ACSR employs resources as a basic primitive and it represents a real-time system as a collection of concurrent processes which may communicate with each other by means of instantaneous events and compete for the usage of shared resources. Resources are used to model physical devices such as processors, memory modules, communication links, or any other reusable resource of limited capacity. Additionally, they provide a convenient abstraction mechanism for capturing a variety of aspects of system behavior. The resulting framework combines the areas of process algebra \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "FM 2016: Formal Methods: 21st International Symposium, Limassol, Cyprus, November 9-11, 2016, Proceedings",
+            "Publication year": 2016,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Det0DQAAQBAJ&oi=fnd&pg=PR5&dq=info:RzrZ1OiEc6wJ:scholar.google.com&ots=Um_x3JjEug&sig=eKah985WIK3k-DSkmeFWbLKo3eM",
+            "Abstract": "This book constitutes the refereed proceedings of the 21st International Symposium on Formal Methods, FM 2016, held in Limassol, Cyprus, in November 2016. The 38 full papers and 11 short papers presented together with one abstract of an invited talk and one invited presentation were carefully reviewed and selected from 162 submissions. The broad topics of interest for FM include: interdisciplinary formal methods; formal methods in practice; tools for formal methods; role of formal methods in software and systems engineering; theoretical foundations.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Towards GDPR Compliant Software Design: A Formal Framework for Analyzing System Models",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-40223-5_7",
+            "Abstract": "Software systems nowadays store and process large amounts of personal data of individuals, rendering privacy protection a major issue of concern during their development. The EU General Data Protection Regulation addresses this issue with several provisions for protecting the personal data of individuals and makes it compulsory for companies and individuals to comply with the regulation. However, few methodologies have been considered to date to support GDPR compliance during system development. In this paper, we propose a process-calculus framework for formal modeling of software systems during the design phase, and validation of properties relating to the GDPR notion of Consent, the Right to Erasure, the Right to Access, and the Right to Rectification. Moreover, the framework enables the treatment of the notion of purpose through privacy policy satisfaction. Validation is performed with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Formal verification of a programmable hypersurface",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-00244-2_6",
+            "Abstract": "A metasurface is a surface that consists of artificial material, called metamaterial, with configurable electromagnetic properties. This paper presents work in progress on the design and formal verification of a programmable metasurface, the Hypersurface, as part of the requirements of the VISORSURF research program (HORIZON 2020 FET-OPEN). The Hypersurface design is concerned with the development of a network of switch controllers that are responsible for configuring the metamaterial. The design of the Hypersurface, however, has demanding requirements that need to be delivered within a context of limited resources. This paper shares the experience of a rigorous design procedure for the Hypersurface network, that involves iterations between designing a network and its protocols and the formal evaluation of each design. Formal evaluation has provided results that, so far, drive the development \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "GDPR Compliance in the Design of the INFORM e-Learning Platform: a Case Study",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8877022/",
+            "Abstract": "The European Union General Data Protection Regulation (GDPR) governs personal data processing, aiming to ensure privacy in all systems handling such data. All systems that process personal data, including software systems are legally obliged to comply to all articles of the GDPR applicable to them. In this paper, the case study of an e-Learning software platform, namely the INFORM platform and its compliance to relevant articles of the GDPR is presented. The e-Learning platform was developed with the objective to host the educational material developed under the JUSTICE EU-funded project INFORM, targeting judiciary, court staff and legal practitioners, in order to provide free and open distance access to the content. In particular, the paper demonstrates the compliance of the platform with the articles and principles of: Data Minimisation, Lawfulness of Processing, Right to Erasure, Right of Access, Right to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "Yk7t7mEAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A process-calculus analysis of concurrent operations on b-trees",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0022000000917215",
+            "Abstract": "A general theory of interactive systems with changing structure, the \u03c0-calculus, is used to study concurrent operations on a variant of the B-tree. An improved algorithm for compression of the data structure is given. Some general results on partially confluent processes and on client-server systems, couched in the \u03c0-calculus, are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Type checking privacy policies in the \u03c0-calculus",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-19195-9_12",
+            "Abstract": "In this paper we propose a formal framework for studying privacy. Our framework is based on the \u03c0-calculus with groups accompanied by a type system for capturing privacy requirements relating to information collection, information processing and information dissemination. The framework incorporates a privacy policy language. We show that a system respects a privacy policy if the typing of the system is compatible with the policy. We illustrate our methodology via analysis of privacy-aware schemes proposed for electronic traffic pricing.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A network game with attackers and a defender: A survey",
+            "Publication year": 2006,
+            "Publication url": "http://www2.cs.ucy.ac.cy/~mavronic/pdf/complex.pdf",
+            "Abstract": "We survey a research line recently initiated by Mavronicolas et al.[14, 15, 16], concerning a strategic game on a graph G (V, E) with two confronting classes of randomized players: \u03bd attackers who choose vertices and wish to minimize the probability of being caught by the defender, who chooses edges and gains the expected number of attackers it catches. So, the defender captures system rationality. In a Nash equilibrium, no single player has an incentive to unilaterally deviate from its randomized strategy. The Price of Defense is the worst-case ratio, over all Nash equilibria, of the optimal gain of the defender (which is \u03bd) over the gain of the defender at a Nash equilibrium. We present a comprehensive collection of trade-offs between the Price of Defense and the computational efficiency of Nash equilibria proved in [14, 15, 16].",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reversible computation in Petri nets",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-99498-7_6",
+            "Abstract": "Reversible computation is an unconventional form of computing where any executed sequence of operations can be executed in reverse at any point during computation. In this paper we propose a reversible approach to Petri nets by introducing machinery and associated operational semantics to tackle the challenges of the three main forms of reversibility, namely, backtracking, causal reversing and out-of-causal-order reversing. Our proposal concerns a variation of Petri nets where tokens are persistent and are distinguished from each other by an identity. Our design decisions are influenced by applications in biochemistry but the methodology can be applied to a wide range of problems that feature reversibility. We demonstrate the applicability of our approach with an example of a biochemical system and an example of a transaction-processing system both featuring reversible behaviour.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A Formal Modeling Scheme for Analyzing a Software System Design against the GDPR.",
+            "Publication year": 2019,
+            "Publication url": "https://www.scitepress.org/Papers/2019/77229/77229.pdf",
+            "Abstract": "Since the adoption of the EU General Data Protection Regulation (GDPR) in May 2018, designing software systems that conform to the GDPR principles has become vital. Modeling languages can be a facilitator for this process, following the principles of model-driven development. In this paper, we present our work on the usage of a \u03c0-calculus-based language for modeling and reasoning about the GDPR provisions of 1) lawfulness of processing by providing consent, 2) consent withdrawal, and 3) right to erasure. A static analysis method based on type checking is proposed to validate that a model conforms to associated privacy requirements. This is the first step towards a rigorous Privacy-By-Design methodology for analyzing and validating a software system model against the GDPR. A use case is presented to discuss and illustrate the framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reversing computations modelled by coloured Petri nets",
+            "Publication year": 2018,
+            "Publication url": "http://gnosis.library.ucy.ac.cy/handle/7/62364",
+            "Abstract": "Reversible computation is an unconventional form of computing where any sequence of performed operations can be executed in reverse order at any point during computation. It has recently been attracting increasing attention as on the one hand it promises low-power computation and on the other hand it is inherent or of interest in a variety of applications. In this paper we propose a structural way of translating reversing Petri nets (RPNs), a formalism that embeds the three main forms of reversibility (backtracking, causal reversing and out-of-causalorder reversing), to Coloured Petri Nets (CPNs), an extension of traditional Petri Nets, where tokens carry data values. The translation into the CPN model uses additional places and transitions in order to capture the machinery employed in the RPN framework and demonstrates that the abstract model of RPNs, and thus the principles of reversible computation, can be emulated in CPNs. The transformation can be automated and utilized for the analysis of reversible systems using CPN Tools.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "CEUR-WS. org"
+        },
+        {
+            "Title": "A typing system for privacy",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-05032-4_5",
+            "Abstract": "In this paper we report on work-in-progress towards defining a formal framework for studying privacy. Our framework is based on the -calculus with groups [1] accompanied by a type system for capturing privacy-related notions. The typing system we propose combines a number of concepts from the literature: it includes the use of groups to enable reasoning about information collection, it builds on read/write capabilities to control information processing, and it employs type linearity to restrict information dissemination. We illustrate the use of our typing system via simple examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Model checking and abstract interpretation as building blocks of advanced program analysis techniques",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s10009-013-0280-3",
+            "Abstract": "Formal analysis of software systems can look back on a close to 50 years history and, yet, significant progress is being made today by either new approaches or innovative combinations of existing techniques. In the 1960s, Floyd [5] and Hoare [7] provided the emerging field of computer science with a fundamental understanding of (partial and total) program correctness. Given a precondition P of a program \u03d5, establishing a correctness argument amounts to deriving the strongest description Q of\u03d5 subject to P. A correctness proof in Floyd\u2013Hoare logic is then represented as a tuple:",
+            "Abstract entirety": 1,
+            "Author pub id": "Yk7t7mEAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Springer Berlin Heidelberg"
+        }
+    ]
+}]

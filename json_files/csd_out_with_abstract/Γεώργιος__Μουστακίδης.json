@@ -1,0 +1,1046 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2  \u039c\u03bf\u03c5\u03c3\u03c4\u03b1\u03ba\u03af\u03b4\u03b7\u03c2",
+    "romanize name": "Georgios  Moustakidis",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7. & \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "upatras",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 9762,
+    "Scholar name": "George V. Moustakides",
+    "Scholar id": "O5YDyjoAAAAJ",
+    "Affiliation": "ECE University of Patras, Greece",
+    "Citedby": 5019,
+    "Interests": [
+        "Sequential Analysis",
+        "Statistical Signal Processing",
+        "Machine Learning"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=O5YDyjoAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Quickest detection of moving anomalies in sensor networks",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9416559/",
+            "Abstract": "The problem of sequentially detecting a moving anomaly is studied, in which the anomaly affects different parts of a sensor network over time. Each network sensor is characterized by a pre-and post-change distribution. Initially, the observations of each sensor are generated according to the corresponding pre-change distribution. After some unknown but deterministic time instant, a moving anomaly emerges, affecting different sets of sensors as time progresses. Our goal is to design a stopping procedure to detect the emergence of the anomaly as quickly as possible, subject to false alarms constraints. The problem is studied in a quickest change detection framework where it is assumed that the evolution of the anomaly is unknown but deterministic. A modification of Lorden\u2019s detection delay is proposed to account for the trajectory of the anomaly that maximizes the detection delay of a detection procedure. It is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:SpbeaW3--B0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adversarial Problems for Generative Networks",
+            "Publication year": 2020,
+            "Publication url": "https://openreview.net/forum?id=R6tNszN_QfA",
+            "Abstract": "We are interested in the design of generative networks. The training of these mathematical structures is mostly performed with the help of adversarial (min-max) optimization problems. We propose a simple methodology for constructing such problems assuring, at the same time, consistency of the corresponding solution. We give characteristic examples developed by our method, some of which can be recognized from other applications and some are introduced here for the first time. We compare various possibilities by applying them to well known datasets using neural networks of different configurations and sizes.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:hCrLmN-GePgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On Sequential Vector Parameter Estimation",
+            "Publication year": 2013,
+            "Publication url": "https://www.academia.edu/download/32411520/1301.5701.pdf",
+            "Abstract": "Sequential estimation of a vector of signal amplitudes in a linear signal model is considered. It is known that finding the optimal sequential estimator is an intractable problem with a general stopping time that is adapted to the complete observation history [1]. By properly restricting the search space to stopping times that are adapted to a specific subset of the complete observation history we derive the optimal sequential estimator under two different formulations of the problem. In the first formulation, the (unconditional) covariance of the estimator is used to assess its accuracy, as a common practice. In the second formulation, the conditional covariance is used for the same purpose, which is preferred over the former when there is an auxiliary statistic whose distribution does not depend on the parameters to be estimated [2]. Our analytical results show that the optimal stopping rule in the conditional formulation is a simple one-dimensional threshold rule for any number of parameters to be estimated. On the other hand, the optimal stopping rule in the unconditional formulation for n parameters is characterized by a hypersurface in a n2+ n",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "First-order optimal sequential subspace change-point detection",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8646377/",
+            "Abstract": "We consider the sequential change-point detection problem of detecting changes that are characterized by a subspace structure. Such changes are frequent in high-dimensional streaming data altering the form of the corresponding covariance matrix. In this work we present a Subspace-CUSUM procedure and demonstrate its first-order asymptotic optimality properties for the case where the subspace structure is unknown and needs to be simultaneously estimated. To achieve this goal we develop a suitable analytical methodology that includes a proper parameter optimization for the proposed detection scheme. Numerical simulations corroborate our theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:4MWp96NkSFoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimum Shewhart tests for Markovian data",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7447091/",
+            "Abstract": "We consider the sequential change detection problem for Markovian processes. Adopting a Lorden-like criterion where expected delays are replaced with detection probabilities we end up with a well defined constrained optimization problem which is possible to solve, exactly, in the Markovian case. The optimum scheme turns out to be a modified version of the Shewhart test (known to be optimum in the i.i.d. case) that involves two unknown functions. These functions can be identified by solving a system of two equation which is the result of applying optimal stopping theory and the need for the optimum scheme to be an equalizer rule.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:tzM49s52ZIMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Minimax optimality of Shiryaev-Roberts procedure for quickest drift change detection of a Brownian motion",
+            "Publication year": 2017,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2017.1360088",
+            "Abstract": "The problem of detecting a change in the drift of a Brownian motion is considered. The change point is assumed to have a modified exponential prior distribution with unknown parameters. A worst-case analysis with respect to these parameters is adopted leading to a min\u2013max problem formulation. Analytical and numerical justifications are provided toward establishing that the Shiryaev-Roberts procedure with a specially designed starting point is exactly optimal for the proposed mathematical setup.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Decentralized sequential hypothesis testing using asynchronous communication",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5673703/",
+            "Abstract": "An asymptotically optimum test for the problem of decentralized sequential hypothesis testing is presented. The induced communication between sensors and fusion center is asynchronous and limited to 1-bit data. When the sensors observe continuously stochastic processes with continuous paths, the proposed test is order-2 asymptotically optimal, in the sense that its inflicted performance loss is bounded. When the sensors take discrete time observations, the proposed test achieves order-1 asymptotic optimality, i.e., the ratio of its performance over the optimal performance tends to 1. Moreover, we show theoretically and corroborate with simulations that the performance of the suggested test in discrete time can be significantly improved when the sensors sample their underlying continuous time processes more frequently, a property which is not enjoyed by other centralized or decentralized tests in the literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive algorithms for blind channel estimation in OFDM systems",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1312944/",
+            "Abstract": "The problem of blind adaptive channel estimation in OFDM systems is considered. Focusing on the zero padding approach, for the first time adaptive algorithms are proposed that blindly identify the impulse response of the multipath channel. In particular, we develop RLS and LMS schemes that exhibit rapid convergence combined with low computational complexity. Both versions are obtained by properly modifying the orthogonal iteration, a method used in numerical analysis for the computation of singular vectors. With a number of simulations we demonstrate the satisfactory performance of our adaptive schemes under diverse signaling conditions.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Finite sample size optimality of GLR tests",
+            "Publication year": 2009,
+            "Publication url": "https://arxiv.org/abs/0903.3795",
+            "Abstract": "In several interesting applications one is faced with the problem of simultaneous binary hypothesis testing and parameter estimation. Although such joint problems are not infrequent, there exist no systematic analysis in the literature that treats them effectively. Existing approaches consider the detection and the estimation subproblems separately, applying in each case the corresponding optimum strategy. As it turns out the overall scheme is not necessarily optimum since the criteria used for the two parts are usually incompatible. In this article we propose a mathematical setup that considers the two problems jointly. Specifically we propose a meaningful combination of the Neyman-Pearson and the Bayesian criterion and we provide the optimum solution for the joint problem. In the resulting optimum scheme the two parts interact with each other, producing detection/estimation structures that are completely novel. Notable side-product of our work is the proof that the well known GLR test is finite-sample-size optimum under this combined sense.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Blind channel estimation for downlink CDMA systems",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1204367/",
+            "Abstract": "The problem of channel estimation in code division multiple access (CDMA) systems are considered. Using only the spreading code of the user of interest, a technique is proposed to identify the impulse response of the multipath channel from the received data sequence. While existing blind methods suffer from high computational complexity and sensitivity to accurate knowledge of the noise subspace rank, the proposed method overcomes both problems. In particular we estimate the noise subspace by a simple matrix power that is computationally efficient and requires no knowledge of the noise subspace rank. Once an estimate of the noise subspace is available the channel impulse response can be directly identified through a small size SVD or a least squares approach. Extensive simulations demonstrate similar performance of our method as compared to the existing schemes but a considerably lower \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "How to capture a stopping time: The independent case",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7869054/",
+            "Abstract": "A stopping time \u03c4 is controlled by a process {X t } and we are interested in the detection of its onset using a sequential scheme. The sequential detector is an alternative stopping time T which is based on observations {\u03be t } that are obtained sequentially. The occurrence of \u03c4 initiates a change in the statistical behavior of the pair processes {(X t , \u03be t } for times after \u03c4 with \u03c4 modeling the change-imposing mechanism. We cast the detection problem as two possible constrained optimal stopping problems. We provide the optimum detector for each case when the pair process {(X t , \u03be t )} is i.i.d. and \u03c4 corresponds to the first entry time of X t  into some fixed and known set A. The resulting optimum schemes accept an interesting form. In particular one of the two detectors is reduced to the well known Shiryaev test (with \u03c4 geometrically distributed) when the two processes {X t } and {\u03be t } are independent from each other.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Designing GANs: A likelihood ratio approach",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2002.00865",
+            "Abstract": "We are interested in the design of generative adversarial networks. The training of these mathematical structures requires the definition of proper min-max optimization problems. We propose a simple methodology for constructing such problems assuring, at the same time, that they provide the correct answer. We give characteristic examples developed by our method, some of which can be recognized from other applications and some introduced for the first time. We compare various possibilities by applying them to well known datasets using neural networks of different configurations and sizes.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:-FonjvnnhkoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Generative Adversarial Networks: A Likelihood Ratio Approach",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9533584/",
+            "Abstract": "We are interested in the design of generative networks. The training of these mathematical structures is mostly performed with the help of adversarial (min-max) optimization problems. We propose a simple methodology for constructing such problems assuring, at the same time, consistency of the corresponding solution. We give characteristic examples developed by our method, some of which can be recognized from other applications, and some are introduced here for the first time. We present a new metric, the likelihood ratio, that can be employed online to examine the convergence and stability during the training of different Generative Adversarial Networks (GANs). Finally, we compare various possibilities by applying them to well-known datasets using neural networks of different configurations and sizes.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:0N-VGjzr574C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Decentralized CUSUM change detection",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4085864/",
+            "Abstract": "We consider the problem of decentralized change detection using the CUSUM test. More than one sensors acquire independent signals and send their quantized version to a fusion center that uses this information to detect a simultaneous change in all sensors. By introducing a recurrence relation that defines the optimum performance of the CUSUM test for given quantization, we further optimize this measure with respect to the quantization scheme. We compare the resulting optimum test with a simple, asynchronous one shot strategy, where each sensor performs a local CUSUM test and communicates with the fusion center only once to signal its detection",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Decentralized sequential hypothesis testing in discrete time",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.493.6291&rep=rep1&type=pdf",
+            "Abstract": "In this work we deal with the problem of decentralized sequential hypothesis testing in discrete time in the case that the sensors have full local memory. We adopt the scheme called Decentralized Sequential Probability Ratio Test (D-SPRT), which entails asynchronous communication of the sensors with the fusion center at random times. We prove that the D-SPRT is asymptotically optimal and we show that in a certain sense this asymptotic optimality can be of order-2, ie for small type-I and type-II error probabilities the expected time for a decision of the D-SPRT differs from that of the optimal centralized SPRT by a constant. These results have important implications on the design of the suggested scheme. Simulation experiments reveal that D-SPRT is efficient and outperforms existing asymptotically optimal schemes of the literature proposed for the same problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Blind channel estimation for DS-CDMA",
+            "Publication year": 2003,
+            "Publication url": "https://hal.inria.fr/inria-00071805/",
+            "Abstract": "The problem of channel estimation in code-division multiple-access systems is considered. Using only the spreading code of the user of interest, a technique is proposed to identify the impulse response of the multipath channel from the received data sequence. While existing blind methods suffer from high computational complexity (due to large SVDs) and sensitivity to accurate knowledge of the noise subspace rank, the proposed method overcomes both problems. By employing a computationally simple matrix power that requires no a-priori knowledge of the noise subspace rank, we obtain efficient estimates of the noise subspace. The impulse response is then directly identified through a small sized (order of the channel) SVD or a least squares optimization. Both approaches (SVD and least squares) are also extended to accommodate for synchronization with respect to the user of interest. Extensive simulations demonstrate robustness of the proposed scheme and performance comparable to existing SVD techniques but at a lower computational cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Opportunistic detection rules",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6874932/",
+            "Abstract": "Opportunistic detection rules (ODRs) are variants of fixed-sample-size detection rules in which the statistician is allowed to make an early decision on the alternative hypothesis opportunistically based on the sequentially observed samples. From a sequential decision perspective, ODRs are also mixtures of one-sided and truncated sequential detection rules. Several key properties of ODRs are established in this paper, in both the asymptotic regime in which the maximum sample size grows without bound, and the finite regime in which the maximum samples size is a fixed finite number. Furthermore, an extended setup, in which the maximum sample size is a random variable following a geometric distribution whose realization is not revealed to the statistician until observing the last sample, is studied.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:5awf1xo2G04C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sequential and decentralized estimation of linear-regression parameters in wireless sensor networks",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7444049/",
+            "Abstract": "Sequential estimation of a vector of linear-regression coefficients is considered under both centralized and decentralized setups. In sequential estimation, the number of observations used for estimation is determined by the observed samples and hence is random, as opposed to fixed-sample-size estimation. Specifically, after receiving a new sample, if a target accuracy level is reached, we stop and estimate using the samples collected so far; otherwise we continue to receive another sample. It is known that finding an optimum sequential estimator, which minimizes the average observation number for a given target accuracy level, is an intractable problem with a general stopping rule that depends on the complete observation history. By properly restricting the search space to stopping rules that depend on a specific subset of the complete observation history, we derive the optimum sequential estimator in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:PELIpwtuRlgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detection of greedy individual and colluding mac layer attackers",
+            "Publication year": 2006,
+            "Publication url": "https://drum.lib.umd.edu/handle/1903/6587",
+            "Abstract": "Selfish behavior at the Medium Access (MAC) Layer can have devastating side effects on the performance of wireless networks, with effects similar to those of Denial of Service (DoS) attacks. In this paper we consider the problem of detection and prevention of node misbehavior at the MAC layer, focusing on the back-off manipulation by selfish nodes. We propose an algorithm that ensures honest behavior of non-colluding participants. Furthermore, we analyze the problem of colluding selfish nodes, casting the problem within a minimax robust detection framework, providing a detection rule of optimum performance for the worst-case attack. Finally, we compare the effects of colluding attackers with a single attacker in terms of the detection delay. Although our approach is general and can serve as a guideline for the design of any probabilistic distributed MAC protocol, we focus our analysis on the IEEE 802.11 MAC.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sequential change detection revisited",
+            "Publication year": 2008,
+            "Publication url": "https://projecteuclid.org/journals/annals-of-statistics/volume-36/issue-2/Sequential-change-detection-revisited/10.1214/009053607000000938.short",
+            "Abstract": "In sequential change detection, existing performance measures differ significantly in the way they treat the time of change. By modeling this quantity as a random time, we introduce a general framework capable of capturing and better understanding most well-known criteria and also propose new ones. For a specific new criterion that constitutes an extension to Lorden\u2019s performance measure, we offer the optimum structure for detecting a change in the constant drift of a Brownian motion and a formula for the corresponding optimum performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Institute of Mathematical Statistics"
+        },
+        {
+            "Title": "Bandwidth and energy efficient decentralized sequential change detection",
+            "Publication year": 2012,
+            "Publication url": "https://arxiv.org/abs/1210.2029",
+            "Abstract": "The problem of decentralized sequential change detection is considered, where an abrupt change occurs in an area monitored by a number of sensors; the sensors transmit their data to a fusion center, subject to bandwidth and energy constraints, and the fusion center is responsible for detecting the change as soon as possible. A novel sequential detection rule is proposed that requires communication from the sensors at random times and transmission of only low-bit messages, on which the fusion center runs in parallel a CUSUM test. The second-order asymptotic optimality of the proposed scheme is established both in discrete and in continuous time. Specifically, it is shown that the inflicted performance loss (with respect to the optimal detection rule that uses the complete sensor observations) is asymptotically bounded as the rate of false alarms goes to 0, for any fixed rate of communication. When the rate of communication from the sensors is asymptotically low, the proposed scheme remains first-order asymptotically optimal. Finally, simulation experiments illustrate its efficiency and its superiority over a decentralized detection rule that relies on communication at deterministic times.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CLOSED FORM EXPRESSIONS FOR OPTIMUM FIR POLYNOMIAL PREDICTIVE FILTERING",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071865/",
+            "Abstract": "We propose two different approaches for finding optimum FIR polynomial predictive filters. The first reveals an important property of these filters and can lead to a numerical solution that is of the size of the number of constraints imposed instead of the size of the filter. With the second method, using a different parametrization of the filter coefficients, it is possible to obtain closed form expressions for the optimum filter coefficients and for the minimum output noise power, in the general case. Previous approaches were successful in providing closed forms expressions only for special cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A note on \u201cThe optimal stopping time for detecting changes in discrete time Markov processes\u201d by Han and Tsung",
+            "Publication year": 2010,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2010.520633",
+            "Abstract": "We analyze the article by Han and Tsung  \u201cThe Optimal Stopping Time for Detecting Changes in Discrete Time Markov Processes,\u201d and demonstrate that it is seriously flawed.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Optimizing shallow networks for binary classification",
+            "Publication year": 2019,
+            "Publication url": "https://arxiv.org/abs/1905.10161",
+            "Abstract": "Data driven classification that relies on neural networks is based on optimization criteria that involve some form of distance between the output of the network and the desired label. Using the same mathematical analysis, for a multitude of such measures, we can show that their optimum solution matches the ideal likelihood ratio test classifier. In this work we introduce a different family of optimization problems which is not covered by the existing approaches and, therefore, opens possibilities for new training algorithms for neural network based classification. We give examples that lead to algorithms that are simple in implementation, exhibit stable convergence characteristics and are antagonistic to the most popular existing techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:MLfJN-KU85MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards optimal design of data hiding algorithms against nonparametric adversary models",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4298440/",
+            "Abstract": "This paper presents a novel zero-sum watermarking game between a detection algorithm and a data hiding adversary. Contrary to previous research, the detection algorithm and the adversary we consider are both nonparametric in a continuous signal space, and thus they have no externally imposed limitations on their allowed strategies except for some distortion constraints. We show that in this framework no deterministic detection algorithm is optimal. We then find optimal randomized detection algorithms for different distortion levels and introduce a new performance tradeoff between completeness and accuracy when a detection algorithm does not have enough evidence to make an accurate decision.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Quickest detection of a dynamic anomaly in a sensor network",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9049017/",
+            "Abstract": "We study the problem of detecting the emergence of a dynamic anomaly in sensor networks. The generated observations initially follow a pre-change distribution. At some unknown time, an anomaly appears, affecting a different set of nodes at each instant. The affected nodes generate data according to a post-change distribution. It is assumed that the trajectory of the anomaly is unknown. We propose a test that is optimal with respect to a measure of the expected delay for the worst-case trajectory. We compare the optimal test numerically with a test that uses the knowledge of the path of the anomaly and a heuristic test.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Query-Based Selection of Optimal Candidates under the Mallows Model",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2101.07250",
+            "Abstract": "We introduce the problem of query-based selection of the optimal candidate in rank-ordered lists generated by the Mallows model. In this setting, one is presented with a list of candidates drawn according to a Gaussian-like distribution for permutations and the goal is to identify the highest ranked candidate through a sequential interview process that does not allow rejected candidates to be revisited. The new modeling assumption consists in being able to query a Genie at the time a selection is to be made. The query provides an answer indicating if the candidate in question is the highest-ranked or not. If the Genie confirms the query, the selection process terminates. Otherwise, the sequential examinations continue until a new potentially optimal candidate is identified. Our results include optimal interview strategies for a bounded number of queries that can be exactly determined through numerical evaluations as well as the expected number of interviews until the optimal candidate is identified or the interview process completed. Although the problem exhibits similarities with the Dowry problem with multiple choices of Gilbert and Mosteller, the proposed Genie-based model substantially differs from it as it allows for early stopping and addresses nonuniform candidate interview distributions.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:FPJr55Dyh1AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Joint detection and estimation: Optimum tests and applications",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6134668/",
+            "Abstract": "We consider a well-defined joint detection and parameter estimation problem. By combining the Bayesian formulation of the estimation subproblem with suitable constraints on the detection subproblem, we develop optimum one- and two-step test for the joint detection/estimation setup. The proposed combined strategies have the very desirable characteristic to allow for the trade-off between detection power and estimation quality. Our theoretical developments are, then, applied to the problems of retrospective changepoint detection and multiple-input multiple-output (MIMO) radar. In the former case, we are interested in detecting a change in the statistics of a set of available data and provide an estimate for the time of change, while in the latter in detecting a target and estimating its location. Intense simulations in the MIMO radar example demonstrate that by using jointly optimum schemes, we can experience \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Kernel-based training of generative networks",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1811.09568",
+            "Abstract": "Generative adversarial networks (GANs) are designed with the help of min-max optimization problems that are solved with stochastic gradient-type algorithms which are known to be non-robust. In this work we revisit a non-adversarial method based on kernels which relies on a pure minimization problem and propose a simple stochastic gradient algorithm for the computation of its solution. Using simplified tools from Stochastic Approximation theory we demonstrate that batch versions of the algorithm or smoothing of the gradient do not improve convergence. These observations allow for the development of a training algorithm that enjoys reduced computational complexity and increased robustness while exhibiting similar synthesis characteristics as classical GANs.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:L7CI7m0gUJcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal stopping: A record-linkage approach",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1577840.1577844",
+            "Abstract": "Record-linkage is the process of identifying whether two separate records refer to the same real-world entity when some elements of the record\u2019s identifying information (attributes) agree and others disagree. Existing record-linkage decision methodologies use the outcomes from the comparisons of the whole set of attributes. Here, we propose an alternative scheme that assesses the attributes sequentially, allowing for a decision to made at any attribute\u2019s comparison stage, and thus before exhausting all available attributes. The scheme we develop is optimum in that it minimizes a well-defined average cost criterion while the corresponding optimum solution can be easily mapped into a decision tree to facilitate the record-linkage decision process. Experimental results performed in real datasets indicate the superiority of our methodology compared to existing approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Detecting sparse mixtures: Rate of decay of error probability",
+            "Publication year": 2015,
+            "Publication url": "https://arxiv.org/abs/1509.07566",
+            "Abstract": "We study the rate of decay of the probability of error for distinguishing between a sparse signal with noise, modeled as a sparse mixture, from pure noise. This problem has many applications in signal processing, evolutionary biology, bioinformatics, astrophysics and feature selection for machine learning. We let the mixture probability tend to zero as the number of observations tends to infinity and derive oracle rates at which the error probability can be driven to zero for a general class of signal and noise distributions via the likelihood ratio test. In contrast to the problem of detection of non-sparse signals, we see the log-probability of error decays sublinearly rather than linearly and is characterized through the -divergence rather than the Kullback-Leibler divergence for \"weak\" signals and can be independent of divergence for \"strong\" signals. Our contribution is the first characterization of the rate of decay of the error probability for this problem for both the false alarm and miss probabilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Power techniques for blind adaptive channel estimation in CDMA systems",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1258651/",
+            "Abstract": "The problem of blind adaptive channel estimation, in code-division multiple-access (CDMA) systems, is considered. Using only the spreading code of the user of interest and the received data, adaptive techniques are proposed that blindly identify the impulse response of the multipath channel. In particular, we develop RLS and LMS implementations that exhibit rapid convergence combined with low computational complexity. Both versions were inspired by the iterative power method used in numerical analysis to compute the singular vector corresponding to the largest singular value of a matrix. This is the reason why our schemes exhibit performance comparable to SVD off-line techniques while outperforming, significantly, existing adaptive methods proposed in the literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sparse Gaussian mixture detection: Low complexity, high performance tests via quantization",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8006734/",
+            "Abstract": "We study the problem of testing between a sparse signal in noise, modeled as a mixture distribution, versus pure noise, with a Gaussian signal and noise of same variance, but differing means as the mixture proportion tends to zero. We construct a simple new adaptive test based on quantizing data with sample size-dependent quantizers and prove its consistency. The proposed test has almost linear time complexity and sublinear space complexity, which is better than existing tests, and in particular, the celebrated Higher Criticism test. Moreover, our numerical results show that the proposed test is competitive with commonly used tests even with a small number of quantizer levels.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A generalized cost optimal decision model for record matching",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1012453.1012457",
+            "Abstract": "Record (or entity) matching or linkage is the process of identifying records in one or more data sources, that refer to the same real world entity or object. In record linkage, the ultimate goal of a decision model is to provide the decision maker with a tool for making decisions upon the actual matching status of a pair of records (ie, documents, events, persons, cases, etc.). Existing models of record linkage rely on decision rules that minimize the probability of subjecting a case to clerical review, conditional on the probabilities of erroneous matches and erroneous non-matches. In practice though,(a) the value of an erroneous match is, in many applications, quite different from the value of an erroneous non-match, and (b) the cost and the probability of a misclassification, which is associated with the clerical review, is ignored in this way. In this paper, we present a decision model which is optimal, based on the cost of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal Stopping Methodology for the Secretary Problem with Random Queries",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2107.07513",
+            "Abstract": "Candidates arrive sequentially for an interview process which results in them being ranked relative to their predecessors. Based on the ranks available at each time, one must develop a decision mechanism that selects or dismisses the current candidate in an effort to maximize the chance to select the best. This classical version of the ``Secretary problem'' has been studied in depth using mostly combinatorial approaches, along with numerous other variants. In this work we consider a particular new version where during reviewing one is allowed to query an external expert to improve the probability of making the correct decision. Unlike existing formulations, we consider experts that are not necessarily infallible and may provide suggestions that can be faulty. For the solution of our problem we adopt a probabilistic methodology and view the querying times as consecutive stopping times which we optimize with the help of optimal stopping theory. For each querying time we must also design a mechanism to decide whether we should terminate the search at the querying time or not. This decision is straightforward under the usual assumption of infallible experts but, when experts are faulty, it has a far more intricate structure.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:86PQX7AUzd4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal joint target detection and parameter estimation by MIMO radar",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5393288/",
+            "Abstract": "We consider multiple-input multiple-output (MIMO) radar systems with widely spaced antennas. Such antenna configuration facilitates capturing the inherent diversity gain due to independent signal dispersion by the target scatterers. We consider a new MIMO radar framework for detecting a target that lies in an  unknown  location. This is in contrast with conventional MIMO radars which break the space into small cells and aim at detecting the presence of a target in a specified cell. We treat this problem through offering a novel composite hypothesis testing framework for target detection when 1) one or more parameters of the target are unknown and we are interested in estimating them, and 2) only a  finite  number of observations are available. The test offered optimizes a metric which accounts for both detection and estimation accuracies. In this paper, as the parameter of interest we focus on the vector of time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Change-point models and performance measures for sequential change detection",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.515.1408&rep=rep1&type=pdf",
+            "Abstract": "For the problem of sequential change detection we propose a novel modelling of the change-point mechanism. In particular we regard the time of change as a stopping time controlled by Nature. Nature, in order to decide when to impose the change, accesses sequentially information which can be different from the information provided to the Statistician to detect the change. Using as performance measure the classical conditional detection delay, we recover most well known criteria of the literature by considering different dependency classes between the information accessed by Nature and the information accessed by the Statistician. According to our approach, the Shiryaev and Pollak measure correspond to informations that are completely independent while in Lorden\u2019s measure the two informations must coincide. By considering alternative models between these two extreme scenarios, we obtain a number of completely new criteria.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CONFERENCE RECORD-ASILOMAR CONFERENCE ON SIGNALS, SYSTEMS AND COMPUTERS",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11626959241834460652&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:PoWvk5oyLR8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal Sequential Vector Estimation",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4799931878747419322&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Second-Order Asymptotically Optimal Change-point Detection Algorithm with Sampling Control",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9174114/",
+            "Abstract": "In the sequential change-point detection problem for multi-stream data, it is assumed that there are M processes in a system and at some unknown time, an occurring event impacts one unknown local process in the sense of changing the distribution of observations from that affected local process. In this paper, we consider such problem under the sampling control constraint, in which one is able to take observations from only one of the local processes at each time step. Our objective is to design an adaptive sampling policy and a stopping time policy that is able to raise a correct alarm as quickly as possible subject to the false alarm and sampling control constraint. We develop an efficient sequential change-point detection algorithm under the sampling control that turns out to be second-order asymptotically optimal under the full data scenario. That is, with the sampling rate that is only 1/M of the full data scenario \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:Dip1O2bNi0gC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "New transparent optical monitoring of the eye and BER using asynchronous under-sampling of the signal",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1601391/",
+            "Abstract": "We experimentally validated a new transparent monitoring method based on asynchronous under-sampling enabling eye-diagram reconstruction and BER estimation. It gives very accurate BER estimation in presence of chromatic dispersion and non-linear effects without requiring knowledge of the bit rate",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:sSrBHYA8nusC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive power techniques for blind channel estimation in CDMA systems",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1396440/",
+            "Abstract": "The problem of blind adaptive channel estimation in code-division multiple access (CDMA) systems is considered. Motivated by the iterative power method, which is used in numerical analysis for estimating singular values and singular vectors, we develop recursive least squares (RLS) and least mean squares (LMS) subspace-based adaptive algorithms in order to identify the impulse response of the multipath channel. The schemes proposed in this paper use only the spreading code of the user of interest and the received data and are therefore blind. Both versions (RLS and LMS) exhibit rapid convergence combined with low computational complexity. With the help of simulations, we demonstrate the improved performance of our methods as compared with the already-existing techniques in the literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An analytic framework for modeling and detecting access layer misbehavior in wireless networks",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1380564.1380567",
+            "Abstract": "The widespread deployment of wireless networks and hot spots that employ the IEEE 802.11 technology has forced network designers to put emphasis on the importance of ensuring efficient and fair use of network resources. In this work we propose a novel framework for detection of intelligent adaptive adversaries in the IEEE 802.11 MAC by addressing the problem of detection of the worst-case scenario attacks. Utilizing the nature of this protocol we employ sequential detection methods for detecting greedy behavior and illustrate their performance for detection of least favorable attacks. By using robust statistics in our problem formulation, we attempt to utilize the precision given by parametric tests, while avoiding the specification of the adversarial distribution. This approach establishes the lowest performance bound of a given Intrusion Detection System (IDS) in terms of detection delay and is applicable in online \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:ufrVoPGSRksC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Rate analysis for detection of sparse mixtures",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7472477/",
+            "Abstract": "In this paper, we study the rate of decay of the probability of error for distinguishing between a sparse signal with noise, modeled as a sparse mixture, from pure noise. This problem has many applications in signal processing, evolutionary biology, bioinformatics, astrophysics and feature selection for machine learning. We let the mixture probability tend to zero as the number of observations tends to infinity and derive oracle rates at which the error probability can be driven to zero for a general class of signal and noise distributions. In contrast to the problem of detection of non-sparse signals, we see the log-probability of error decays sublinearly rather than linearly and is characterized through the x2-divergence rather than the Kullback-Leibler divergence. This work provides the first characterization of the rate of decay of the error probability for this problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:_Ybze24A_UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Decentralized sequential change detection",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11702226463180007147&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal and asymptotically optimal CUSUM rules for change point detection in the Brownian Motion model with multiple alternatives",
+            "Publication year": 2006,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S0040585X97981494",
+            "Abstract": "This work examines the problem of sequential change detection in the constant drift of a Brownian motion in the case of multiple alternatives. As a performance measure an extended Lorden's criterion is proposed. When the possible drifts, assumed after the change, have the same sign, the \\hbox{CUSUM} rule, designed to detect the smallest in absolute value drift, is proven to be the optimum. If the drifts have opposite signs, then a specific 2-\\hbox{CUSUM} rule is shown to be asymptotically optimal as the frequency of false alarms tends to infinity.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "SIAM"
+        },
+        {
+            "Title": "Discussion on \u201cquickest detection problems: Fifty years later\u201d by albert n. shiryaev",
+            "Publication year": 2010,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2010.520581",
+            "Abstract": "Quickest detection is a fascinating area of sequential analysis that spans across various branches of science and engineering. It is a pleasure to welcome Professor Albert Shiryaev's article, which provides a comprehensive overview (both scientific and historic) of this area. In this discussion, we expand on some of the issues raised in the article that we believe require further elaboration.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Optimum adaptive blind source separation algorithms",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5744934/",
+            "Abstract": "Adaptive blind source separation algorithms are conventionally composed of two parts. The first, using second order statistics, is responsible for whitening the measured signals, whereas the second, based on nonlinear statistics, imposes independence and achieves the final separation. In this work we show that this two-part scheme is in fact not necessary. By proposing a general nonlinear adaptation model, we find conditions that lead to source separation and guarantee an overall desirable symmetric behavior of the algorithm. Furthermore, using a local performance measure, we optimize the general adaptation scheme and obtain algorithms that have optimum convergence rate. Finally we show that the proposed optimum schemes, except for trivial cases, cannot be put under the two-part classical scheme of the literature, suggesting that the latter is suboptimum.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tandem-width sequential confidence intervals for a Bernoulli proportion",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2019.1611315",
+            "Abstract": "We propose a two-stage sequential method for obtaining tandem-width confidence intervals for a Bernoulli proportion p. The term \u201ctandem-width\u201d refers to the fact that the half-width of the  confidence interval is not fixed beforehand; it is instead required to satisfy two different half-width upper bounds, h0 and h1, depending on the (unknown) values of p. To tackle this problem, we first propose a simple but useful sequential method for obtaining fixed-width confidence intervals for p, whose stopping rule is based on the minimax estimator of p. We observe Bernoulli(p) trials sequentially, and for some fixed half-width h = h0 or h1, we develop a stopping time T such that the resulting confidence interval for p, [], covers the parameter with confidence at least  where  is the maximum likelihood estimator of p at time T. Furthermore, we derive theoretical properties of our proposed fixed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:gsN89kCJA0AC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "On optimal watermarking schemes in uncertain gaussian channels",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4380051/",
+            "Abstract": "This paper describes the analytical derivation of a new watermarking algorithm satisfying optimality properties when the distortion of the watermarked signal is caused by a Gaussian process. We also extend previous work under the same assumptions and obtain more general solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Training neural networks for likelihood/density ratio estimation",
+            "Publication year": 2019,
+            "Publication url": "https://arxiv.org/abs/1911.00405",
+            "Abstract": "Various problems in Engineering and Statistics require the computation of the likelihood ratio function of two probability densities. In classical approaches the two densities are assumed known or to belong to some known parametric family. In a data-driven version we replace this requirement with the availability of data sampled from the densities of interest. For most well known problems in Detection and Hypothesis testing we develop solutions by providing neural network based estimates of the likelihood ratio or its transformations. This task necessitates the definition of proper optimizations which can be used for the training of the network. The main purpose of this work is to offer a simple and unified methodology for defining such optimization problems with guarantees that the solution is indeed the desired function. Our results are extended to cover estimates for likelihood ratios of conditional densities and estimates for statistics encountered in local approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:kz9GbA2Ns4gC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimum Multi-Stream Sequential Change-Point Detection with Sampling Control",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9410585/",
+            "Abstract": "In multi-stream sequential change-point detection it is assumed that there are M processes in a system and at some unknown time, an occurring event changes the distribution of the samples of a particular process. In this article, we consider this problem under a sampling control constraint when one is allowed, at each point in time, to sample a single process. The objective is to raise an alarm as quickly as possible subject to a proper false alarm constraint. We show that under sampling control, a simple myopic-sampling-based sequential change-point detection strategy is second-order asymptotically optimal when the number M of processes is fixed. This means that the proposed detector, even by sampling with a rate 1/M of the full rate, enjoys the same detection delay, up to some additive finite constant, as the optimal procedure. Simulation experiments corroborate our theoretical results.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:edDO8Oi4QzsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cooperative sequential spectrum sensing based on level-triggered sampling",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6212408/",
+            "Abstract": "We propose a new framework for cooperative spectrum sensing in cognitive radio networks, that is based on a novel class of nonuniform samplers, called the event-triggered samplers, and sequential detection. In the proposed scheme, each secondary user (SU) computes its local sensing decision statistic based on its own channel output; and whenever such decision statistic crosses certain predefined threshold values, the secondary user will send one (or several) bit of information to the fusion center (FC). The FC asynchronously receives the bits from different SUs and updates the global sensing decision statistic to perform a sequential probability ratio test (SPRT), to reach a sensing decision. We provide an asymptotic analysis for the above scheme, and under different conditions, we compare it against the cooperative sensing scheme that is based on traditional uniform sampling and sequential detection \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sequential Change-Detection for Markov Processes",
+            "Publication year": 2018,
+            "Publication url": "https://air.unimi.it/bitstream/2434/580050/2/BEK072_01_abstracts.pdf#page=116",
+            "Abstract": "We consider the problem of detecting an abrupt change in a discrete-time Markov process which is observed sequentially. A detector in this case is simply a stopping time (the time we stop and declare that a change took place) which is adapted to the observations. We assume that the pre-and postchange probability measures describing the statistical behavior of the observations are known, but the time of change is unknown. As performance measure for our detector we adopt the criterion proposed by Lorden [1971] which, for each fixed deterministic change-time, evaluates the average detection delay conditioned on the worst possible data before the change and then considers the worst possible deterministic change-time. Our goal is to minimize this worst-case scenario subject to the false alarm constraint that the average period of false alarms is no smaller than some minimal tolerable value. The solution of this problem when the observations are iid before and after the change with different pdfs, gives rise to the well-known CUSUM test (Lorden [1971], Moustakides [1986]). We extend this exact optimality result to cover data that are homogeneous Markov before and after the change with different conditional pdfs. We demonstrate that the optimum detection strategy is CUSUM-like containing two univariate functions that must be properly specified. For these two functions we provide equations that are sufficient for their determination but we also show that the same equations play a crucial role in the proof of optimality of the proposed scheme. Concluding, we should mention that this problem has been open for over thirty years.Acknowledgement \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:TIZ-Mc8IlK0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A robust initialization scheme for the Remez exchange algorithm",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1172817/",
+            "Abstract": "A well-known least squares optimum approximation method is proposed as an efficient initialization scheme for the Remez exchange algorithm. More specifically, we theoretically demonstrate that the \"don't care\" least squares optimum solution guarantees, inside the bands of interest, the correct number of alternating in-sign extrema of the error function, thus satisfying one of the two basic conditions that are sufficient for obtaining the L/sub /spl infin// optimum solution. Although convergence of Remez: is theoretically assured, its practical implementations may fail to converge in \"difficult\" design problems when classical initialization is used. In particular, Matlab's realization of Remez, when initialized with the proposed scheme, exhibits a significantly better overall performance that translates into faster convergence and more robust behavior, especially in difficult design problems.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:mB3voiENLucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Design and comparison of Shiryaev\u2013Roberts-and CUSUM-type change-point detection procedures",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.348.4504&rep=rep1&type=pdf",
+            "Abstract": "We address a simple changepoint detection problem where observations are iid before and after the change with known pre-and post-change distributions. For this setting, the CUSUM test is known to be optimal in the minimax setting for Lorden\u2019s essential supremum metric, whereas the Shiryaev-Roberts procedure is optimal for detecting a change that occurs at a distant time horizon. At the same time, a randomized extension of the Shiryaev-Roberts test proposed by Pollak, enjoys a very strong asymptotic minimax property with respect to Pollak\u2019s supremum metric. We conjecture that a deterministically initialized version of the Shiryaev-Roberts test can compete with the latter procedure very efficiently. We propose a numerical scheme for the systematic comparison of these detection procedures in both settings, ie, minimax and for detecting changes that occur in the distant future. Our goal is accomplished by deriving a set of integral equations for the performance metrics of interest, which are solved numerically. We present numerical results for the problem of detecting a change in the mean of an exponential sequence which justify our conjecture and allow for a precise comparison of a number of changepoint detection procedures.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multiple optimality properties of the Shewhart test",
+            "Publication year": 2014,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2014.916927",
+            "Abstract": "For the problem of sequential detection of changes, we adopt the probability maximizing approach in place of the classical minimization of the average detection delay and propose modified versions of the Shiryaev, Lorden, and Pollak performance measures. For these alternative formulations, we demonstrate that the optimum sequential detection scheme is the simple Shewhart rule. Interestingly, we can also solve problems that under the classical setup have been open for many years, as optimum change detection with time-varying observations or with multiple postchange probability measures. For the latter, we also offer the exact solution for Lorden's original setup involving average detection delays, for the case where the average false alarm period is within certain limits.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "A numerical approach to performance analysis of quickest change-point detection procedures",
+            "Publication year": 2010,
+            "Publication url": "https://www.jstor.org/stable/24309532",
+            "Abstract": "For the most popular sequential change detection rules such as CUSUM, EWMA, and the Shiryaev-Roberts test, we develop integral equations and a concise numerical method to compute a number of performance metrics, including average detection delay and average time to false alarm. We pay special attention to the Shiryaev-Roberts procedure and evaluate its performance for various initialization strategies. Regarding the randomized initialization variant proposed by Pollak, known to be asymptotically optimal of order-3, we offer a means for numerically computing the quasi-stationary distribution of the Shiryaev-Roberts statistic, that is, the distribution of the initializing random variable, thus making this test applicable in practice. A significant side-product of our computational technique is the observation that deterministic initializations of the Shiryaev-Roberts procedure can also enjoy the same order-3 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:Ug5p-4gJ2f0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Event-based statistical signal processing [book chapter]",
+            "Publication year": 2017,
+            "Publication url": "https://www.osti.gov/servlets/purl/1454760",
+            "Abstract": "Book chapter. Full text not provided due to copyright. Initially published in the 2015 version; updated 2017 version.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:LI9QrySNdTsC",
+            "Publisher": "Univ. of Michigan, Ann Arbor, MI (United States)"
+        },
+        {
+            "Title": "Method of measuring the error rate of an optical transmission system and apparatus for implementing the method",
+            "Publication year": 2004,
+            "Publication url": "https://patents.google.com/patent/US6744496B2/en",
+            "Abstract": "A method of measuring the error rate of an optical transmission system transmitting a signal by",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal point target detection with unknown parameters by MIMO radars",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5380013/",
+            "Abstract": "We consider multiple-input multiple-output (MIMO) radar systems with widely spaced transmit and receive antennas. We treat the problem of detecting point targets when one or more target parameters of interest are unknown. We provide a composite hypothesis testing framework for jointly estimating such parameters along with detecting the target while only a finite number of signal samples are available. The test offered is optimal in a Neyman-Pearson-like sense such that it provides a Bayesian-optimal detection test, minimizes the average mean-square parameter estimation error subject to an upper bound constraint on the false-alarm probability, and requires a finite number of samples. While the test can be applied for concurrently detecting the target along with estimating any unknown parameter of interest, we consider the problem of detecting a target which lies in an unknown space range and find the range \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sequential joint detection and estimation",
+            "Publication year": 2015,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S0040585X97T987235",
+            "Abstract": "We consider the problem of simultaneous detection and estimation under a sequential framework. In particular, we are interested in sequential tests that distinguish between the null and the alternative hypothesis, and every time the decision is in favor of the alternative they provide an estimate of a random parameter. As we demonstrate with our analysis, treating the two subproblems separately with the corresponding optimal strategies does not result in the best possible performance. To enjoy optimality one needs to take into account the optimum estimator during the hypothesis testing phase.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Maximal correlation: An alternative criterion for training generative networks",
+            "Publication year": 2020,
+            "Publication url": "https://ebooks.iospress.nl/volumearticle/54987",
+            "Abstract": "Generative adversarial networks (GANs) require the design of a generator and a discriminator network which is achieved by solving min-max optimization problems. Min-max/adversarial optimizations are implemented with the help of two stochastic gradient algorithms, one for each optimization problems. This data-driven approach is known to suffer from non-robustness and need for excessive computations and processing time. In this work we propose a kernel based correlation criterion which we only maximize. Under ideal conditions this non-adversarial approach is shown to achieve the same goal as the existing adversarial methods. Under a pure data-driven scenario we only need a generator network which we train with a single gradient algorithm. Since the proposed criterion is a nonlinear combination of three expectations of functions, as opposed to the standard case of a single expectation of a function \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:S16KYo8Pm5AC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Eye diagram reconstruction using asynchronous imperfect sampling, application to BER estimation for fiber-optic communication systems",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071933/",
+            "Abstract": "In this paper we present a new and robust method to construct the eye diagram from asynchronous samples of a digital communication signal. No a priori knowledge of the bit period is needed. The method uses an approach based on periodogram estimation which is suitable even for (highly) under-sampled signals. Random shifts due to clock errors are also being corrected. We apply this method to the Bit Error Rate estimation of an optical signal in an experimental setup.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sequential subspace change point detection",
+            "Publication year": 2020,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474946.2020.1823191",
+            "Abstract": "We consider the online monitoring of multivariate streaming data for changes that are characterized by an unknown subspace structure manifested in the covariance matrix. In particular, we consider the covariance structure changes from an identity matrix to an unknown spiked covariance model. We assume the postchange distribution is unknown and propose two detection procedures: the largest-eigenvalue Shewhart chart and the subspace-cumulative sum (CUSUM) detection procedure. We present theoretical approximations to the average run length (ARL) and the expected detection delay (EDD) for the largest-eigenvalue Shewhart chart and provide analysis for tuning parameters of the subspace-CUSUM procedure. The performance of the proposed methods is illustrated using simulation and real data for human gesture detection and seismic event detection.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:EYYDruWGBe4C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Unbiased adaptive system identification for correlated input and noise",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6811476/",
+            "Abstract": "We consider the problem of adaptive system identification when the additive noise is colored, following an ARMA model, and correlated with the input signal. By first assuming exact knowledge of the ARMA coefficients we use the Kalman filter theory to develop a prototype adaptive estimation algorithm which is optimum in the case of uncorrelated input and noise and outperforms, considerably, the classical RLS. We then apply the prototype algorithm in the case of correlated input and noise and show that it provides unbiased estimates as opposed to classical RLS which is highly biased. In the final part of our article, motivated by our prototype algorithm, we propose an RLS-type algorithmic variant which estimates the ARMA coefficients at the same time with the system identification part. Simulations show that this alternative version is only slightly inferior to the prototype algorithm, which requires exact knowledge of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The fast data projection method for stable subspace tracking",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7078071/",
+            "Abstract": "In this article we consider the Data Projection Method (DPM), which constitutes a simple and reliable means for adaptively estimating and tracking subspaces. Specifically we propose a fast and numerically robust implementation of DPM. Existing schemes can track subspaces corresponding either to the largest or the smallest singular values. DPM, on the other hand, with a simple change of sign in its step size, can switch from one subspace type to the other. Our fast implementation of DPM preserves the simple structure of the original DPM having also a considerably lower computational complexity. The proposed version provides orthonormal vector estimates of the subspace basis which are numerically stable. In other words, our scheme does not accumulate roundoff errors and therefore preserves orthonormality in its estimates. In fact, our scheme constitutes the only numerically stable, low complexity, algorithm \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Opportunistic detection rules: Finite and asymptotic analysis",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7407388/",
+            "Abstract": "Opportunistic detection rules (ODRs) are variants of fixed-sample-size detection rules in which the statistician is allowed to make an early decision on the alternative hypothesis opportunistically based on the sequentially observed samples. From a sequential decision perspective, ODRs are also mixtures of one-sided and truncated sequential detection rules. Several results regarding ODRs are established in this paper. In the finite regime, the maximum sample size is modeled either as a fixed finite number, or a geometric random variable with a fixed finite mean. For both cases, the corresponding Bayesian formulations are investigated. The former case is a slight variation of the well-known finite-length sequential hypothesis testing procedure in the literature, whereas the latter case is new, for which the Bayesian optimal ODR is shown to be a sequence of likelihood ratio threshold tests with two different thresholds \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Asymptotically optimum tests for decentralized change detection",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Fellouris/publication/228693346_Asymptotically_optimum_tests_for_decentralized_change_detection/links/00b495302224dc9715000000/Asymptotically-optimum-tests-for-decentralized-change-detection.pdf",
+            "Abstract": "Assuming that sensors have full local memory, we introduce a novel test for the problem of decentralized change detection that is asymptotically optimum. According to our proposed scheme, sensors perform locally repeated SPRTs and communicate, asynchronously, their one-bit decisions to a fusion center. The fusion center in turn uses the sequentially acquired information to perform a CUSUM test in order to decide whether a change took place or not. We prove that the average detection delay of the proposed test differs from the optimum centralized CUSUM test only by a constant. This fact suggests order-2 asymptotic optimality as compared to existing schemes that are optimal of order-1.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sequential decentralized detection under noisy channels",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6483313/",
+            "Abstract": "We consider decentralized detection through distributed sensors that perform level-triggered sampling and communicate with a fusion center (FC) via noisy channels. Each sensor computes its local log-likelihood ratio (LLR), samples it using the level-triggered sampling, and upon sampling transmits a single bit to the FC. Upon receiving a bit from a sensor, the FC updates the global LLR and performs a sequential probability ratio test (SPRT) step. We derive the fusion rules under various types of channels. We further provide non-asymptotic and asymptotic analyses on the average detection delay for the proposed channel-aware scheme, and show that the asymptotic detection delay is characterized by a KL information number. The delay analysis facilitates the choice of appropriate signaling schemes under different channel types for sending the 1-bit information from sensors to the FC.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:XiVPGOgt02cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the relative error probabilities of linear multiuser detectors",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/904561/",
+            "Abstract": "The relative error probability performance of three linear multiuser detectors-the minimum mean-square error (MMSE) detector, the decorrelator, and the conventional matched filter (MF) detector-is investigated under nonorthogonal signaling and additive white Gaussian noise conditions. It is shown that, contrary to the general belief, the MMSE detector does not uniformly outperform the other two detectors. In fact, even for the two-user case, one can find counterexamples where the matched filter is significantly better.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Impact of optimal MAC layer attacks on the network layer",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1180345.1180362",
+            "Abstract": "Node misbehavior in wireless ad hoc networks leads to sudden unpredictable changes in network topology, resulting in fluctuation of traffic load and capacity for already existing links. In this work we consider node misbehavior in the Medium Access Control (MAC) layer and its effects on the performance of the network layer. In order to capture uncertainty of the attacker's strategy as well as the unpredictable nature of the wireless medium, we quantify the optimal attack strategy by using the principle of minimum cross-entropy. Following that, we apply the obtained results for analysis of the IEEE 802.11 DCF MAC protocol and investigate the effects of such optimal attacks on the network layer. Finally, we evaluate the robustness of two different routing protocols against the worst-case MAC layer attacks and justify the need for the MAC layer-based Intrusion Detection Sytems (IDS).",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Epidemic detection using CUSUM",
+            "Publication year": 2010,
+            "Publication url": "http://www.ssp.ece.upatras.gr/moustakides/downloads/conferences/seq2010c.pdf",
+            "Abstract": "We consider the problem of detecting a proportional change in the intensity of a counting process with a continuous compensator. We prove that if the counting process does not have explosions, the CUSUM test is optimal in a Lorden sense. In particular, the CUSUM test minimizes the worst-case conditional expected number of events that occur after the change and before raising an alarm given the worst possible history up to the time of the change. We apply this result to the detection of the onset of epidemics and we discuss modifications of the optimal detection rule when the processes of interest are monitored in discrete times.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Blind adaptive channel estimation in OFDM systems",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1673083/",
+            "Abstract": "We consider the problem of blind channel estimation in zero padding OFDM systems, and propose blind adaptive algorithms in order to identify the impulse response of the multipath channel. In particular, we develop RLS and LMS schemes that exhibit rapid convergence combined with low computational complexity and numerical stability. Both versions are obtained by properly modifying the orthogonal iteration method used in numerical analysis for the computation of singular vectors. With a number of simulation experiments we demonstrate the satisfactory performance of our adaptive schemes under diverse signaling conditions",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Asynchronous multi-sensor change-point detection for seismic tremors",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8849413/",
+            "Abstract": "We consider the sequential change-point detection for asynchronous multi-sensors, where each sensor observe a signal (due to change-point) at different times. We propose an asynchronous Subspace-CUSUM procedure based on jointly estimating the unknown signal waveform and the unknown relative delays between sensors. Using the estimated delays, we can align signals and use the subspace to combine multiple sensor observations. We derive the optimal drift parameter for the proposed procedure, and characterize the relationship between the expected detection delay, average run length (of false alarms), and the energy of the time-varying signal. We demonstrate the good performance of the proposed procedure using simulation and real data. We also demonstrate that the proposed procedure outperforms the well-known \"one-shot procedure\" in detecting weak and asynchronous signals.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:ILKRHgRFtOwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Single Image Restoration with Generative Priors",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9506768/",
+            "Abstract": "Generative models can be used, as an alternative to conventional probability densities, to capture the statistical behavior of complicated datasets. Unlike probability densities with which the generation of realizations may become a challenging task, generative models have an inherent ability to easily produce realizations, which, in the case of natural images can be extremely realistic. In many image restoration problems, such as deblurring, colorization, inpainting, super-resolution, etc., probability densities are used as priors, one may therefore wonder whether we can, instead, adopt generative models. Indeed such methods have appeared in the literature, but they require exact knowledge of the transformations responsible for the data distortion and involve regularizer terms with weights that require adjustment. Our approach, by combining maximum a-posteriori probability with maximum likelihood estimation, can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:ClCfbGk0d_YC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive Blind Separation of Two Dependent Sources",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8919722/",
+            "Abstract": "We consider the problem of adaptive blind separation of two sources from their instantaneous mixtures. We focus on the case where the two sources are not necessarily independent. By analyzing a general form of adaptive algorithms we show that separation is possible not only for independent sources but also for sources that are dependent provided their joint pdf satisfies certain symmetry conditions. We also identify the class of dependent sources that are non-separable, namely, the counterpart of Gaussian sources of the independent case. We corroborate our theoretical analysis with a number of simulations and give examples of dependent sources that can be easily separated.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:lmc2jWPfTJgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Channel-aware decentralized detection via level-triggered sampling",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6320675/",
+            "Abstract": "We consider decentralized detection through distributed sensors that perform level-triggered sampling and communicate with a fusion center (FC) via noisy channels. Each sensor computes its local log-likelihood ratio (LLR), samples it using the level-triggered sampling mechanism, and at each sampling instant transmits a single bit to the FC. Upon receiving a bit from a sensor, the FC updates the global LLR and performs a sequential probability ratio test (SPRT) step. We derive the fusion rules under various types of channels. We further provide an asymptotic analysis on the average decision delay for the proposed channel-aware scheme, and show that the asymptotic decision delay is characterized by a Kullback-Leibler information number. The delay analysis facilitates the choice of the appropriate signaling schemes under different channel types for sending the 1-bit information from the sensors to the FC.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:D_sINldO8mEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multistream quickest change detection: Asymptotic optimality under a sparse signal",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7953397/",
+            "Abstract": "In multichannel sequential change detection, multiple sensors monitor a system in which an abrupt change occurs at some unknown time and is perceived by an unknown subset of sensors. The goal is to detect this change quickly, while controlling the rate of false alarms. In the traditional asymptotic analysis of this problem, the false alarm rate goes to 0 while all other parameters remain fixed. We argue that this framework is not very informative, as the corresponding asymptotic optimality property cannot differentiate between universal and parsimonious rules. We propose an asymptotic framework in which the number of sensors also goes to infinity, and we show that in this context universal rules may fail to be asymptotically optimal when the number of streams is not very small. On the other hand, parsimonious rules are shown to be asymptotically optimal under reasonable sparsity conditions.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Basic Techniques of Digital Signal Processing",
+            "Publication year": 2003,
+            "Publication url": "http://www.ssp.ece.upatras.gr/moustakides/books.html",
+            "Abstract": "The book focuses on sequential techniques, in particular on the problems of sequential change detection and sequential hypothesis testing. Emphasis is placed on deriving nonasymptotically optimum schemes. The known optimality properties of CUSUM, Shiryayev-Roberts and Shewhart test are presented with novel and easy to understand proofs.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "State-of-the-art in Bayesian changepoint detection",
+            "Publication year": 2010,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/07474941003740997",
+            "Abstract": "We provide a brief overview of the state-of-the-art in quickest (sequential) changepoint detection and present some new results on asymptotic and numerical analysis of main competitors such as the CUSUM, Shiryaev\u2013Roberts, and Shiryaev detection procedures in a Bayesian context.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Finite-sample optimal joint target detection and parameter estimation by MIMO radars",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5470007/",
+            "Abstract": "We consider MIMO radar systems with widely-spaced antennas. We treat the problem of detecting extended targets when one or more target parameters of interest are unknown. We provide a composite hypothesis testing framework for jointly detecting the target along with such parameter estimation while only a finite number of signal samples are available. The test offered is optimal in a Neyman-Pearson-like sense such that it offers a Bayesian-optimal detection test, minimizes the average maximum likelihood parameter estimation error subject to an upper bound constraint on the false-alarm probability, and requires a finite number of samples. While the test can be applied for concurrently detecting the target along with estimating any unknown parameter of interest, we consider the problem of detecting a target which lies in an unknown space range and find the range through estimating the time delays that the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sampling-Based Roadmap Planners are Probably Near-Optimal after Finite Computation",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1404.2166",
+            "Abstract": "Sampling-based motion planners have proven to be efficient solutions to a variety of high-dimensional, geometrically complex motion planning problems with applications in several domains. The traditional view of these approaches is that they solve challenges efficiently by giving up formal guarantees and instead attain asymptotic properties in terms of completeness and optimality. Recent work has argued based on Monte Carlo experiments that these approaches also exhibit desirable probabilistic properties in terms of completeness and optimality after finite computation. The current paper formalizes these guarantees. It proves a formal bound on the probability that solutions returned by asymptotically optimal roadmap-based methods (e.g., PRM*) are within a bound of the optimal path length I* with clearance {\\epsilon} after a finite iteration n. This bound has the form P(|In - I* | {\\leq} {\\delta}I*) {\\leq} Psuccess, where {\\delta} is an error term for the length a path in the PRM* graph, In. This bound is proven for general dimension Euclidean spaces and evaluated in simulation. A discussion on how this bound can be used in practice, as well as bounds for sparse roadmaps are also provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CUSUM rules for detecting a regime change in the Brownian Motion model with multiple alternatives",
+            "Publication year": 2004,
+            "Publication url": "http://www.ssp.ece.upatras.gr/moustakides/downloads/conferences/seq2004c.pdf",
+            "Abstract": "This work examines the problem of sequential change detection in the constant drift of a Brownian motion in the case of multiple alternatives. As a performance measure an extended Lorden\u2019s criterion is proposed. When the possible drifts, assumed after the change, have the same sign, the CUSUM rule designed to detect the smallest in absolute value drift, is proven to be the optimum. If the drifts have opposite signs then a specific 2-CUSUM rule is shown to be asymptotically optimal as the frequency of false alarms tends to infinity.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sequentially detecting transitory changes",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7541254/",
+            "Abstract": "We are interested in the sequential detection of a change in the statistical behavior of a random process. Specifically we consider changes that are not abrupt but exhibit a transitory phase before reaching their steady-state behavior. Adopting the classical worst-case conditional detection delay proposed by Lorden as our performance measure and constraining the average false-alarm period, we derive the sequential test that optimizes, in the exact sense, the proposed criterion. The resulting optimum rule resembles the well known CUSUM rule with the corresponding test-statistic-update being not only a function of all pre- and post-change pdfs but also of the false-alarm constraint.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:fEOibwPWpKIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Geometric probability results for bounding path quality in sampling-based roadmaps after finite computation",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7139775/",
+            "Abstract": "Sampling-based algorithms provide efficient solutions to high-dimensional, geometrically complex motion planning problems. For these methods asymptotic results are known in terms of completeness and optimality. Previous work by the authors argued that such methods also provide probabilistic near-optimality after finite computation time using indications from Monte Carlo experiments. This work formalizes these guarantees and provides a bound on the probability of finding a near-optimal solution with PRM* after a finite number of iterations. This bound is proven for general-dimension Euclidean spaces and evaluated through simulation. These results are leveraged to create automated stopping criteria for PRM* and sparser near-optimal roadmaps, which have reduced running time and storage requirements.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:UHK10RUVsp4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast and stable subspace tracking",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4471878/",
+            "Abstract": "We consider the problem of adaptive subspace tracking, when the rank of the subspace we seek to estimate is assumed to be known. Starting from the data projection method (DPM), which constitutes a simple and reliable means for adaptively estimating and tracking subspaces, we develop a fast and numerically robust implementation of DPM, which comes at a considerably lower computational cost. Most existing schemes track subspaces corresponding either to the largest or to the smallest singular values, while our DPM version can switch from one subspace type to the other with a simple change of sign of its single parameter. The proposed algorithm provides orthonormal vector estimates of the subspace basis that are numerically stable since they do not accumulate roundoff errors. In fact, our scheme constitutes the first numerically stable, low complexity, algorithm for tracking subspaces corresponding to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Performance of CUSUM tests for detecting changes in continuous time processes",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1023458/",
+            "Abstract": "We present a general methodology, for computing the worst mean detection delay of the CUSUM test for detecting changes in continuous time processes. The proposed method is applied to the problem of detecting changes in the constant drift of a Brownian motion and in the rate of a homogeneous Poisson process. Closed form expressions obtained for the latter case are completely novel.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image De-Quantization Using Generative Models as Priors",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2007.07923",
+            "Abstract": "Image quantization is used in several applications aiming in reducing the number of available colors in an image and therefore its size. De-quantization is the task of reversing the quantization effect and recovering the original multi-chromatic level image. Existing techniques achieve de-quantization by imposing suitable constraints on the ideal image in order to make the recovery problem feasible since it is otherwise ill-posed. Our goal in this work is to develop a de-quantization mechanism through a rigorous mathematical analysis which is based on the classical statistical estimation theory. In this effort we incorporate generative modeling of the ideal image as a suitable prior information. The resulting technique is simple and capable of de-quantizing successfully images that have experienced severe quantization effects. Interestingly, our method can recover images even if the quantization process is not exactly known and contains unknown parameters.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:i2xiXl-TujoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Quickest detection of a dynamic anomaly in a heterogeneous sensor network",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9173953/",
+            "Abstract": "The problem studied is one of quickest detection of an anomaly that emerges in a sensor network, and which may move across the network after it emerges. Each sensor in the network is characterized by a non-anomalous and an anomalous data-generating distribution, and these distributions could be different across the sensors. Initially, the observations at all the sensors are generated according to their corresponding non-anomalous distribution. After some unknown but deterministic time instant, a dynamic anomaly emerges in the network, affecting a different sensor as time progresses. The observations generated by the affected sensor follow the corresponding anomalous distribution. The goal is to detect the onset of the dynamic anomaly as quickly as possible, subject to constraints on the frequency of false alarms. This detection problem is posed in a quickest change detection framework where candidate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:xtoqd-5pKcoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimality of the CUSUM procedure in continuous time",
+            "Publication year": 2004,
+            "Publication url": "https://projecteuclid.org/journals/annals-of-statistics/volume-32/issue-1/Optimality-of-the-CUSUM-procedure-in-continuous-time/10.1214/aos/1079120138.short",
+            "Abstract": "The optimality of CUSUM under a Lorden-type criterion setting is considered. We demonstrate the optimality of the CUSUM test for It\u00f4 processes, in a sense similar to Lorden's, but with a criterion that replaces expected delays by the corresponding Kullback-Leibler divergence.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Institute of Mathematical Statistics"
+        },
+        {
+            "Title": "Optimum joint detection and estimation",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6034125/",
+            "Abstract": "We consider the problem of simultaneous binary hypothesis testing and parameter estimation. By defining suitable joint formulations we develop combined detection and estimation strategies that are optimum. Key point of the proposed methodologies constitutes the fact that they integrate both well known approaches, namely Bayesian and Neyman-Pearson.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimal sequential parameter estimation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6620696/",
+            "Abstract": "We develop optimal centralized sequential estimators under different formulations of the problem. Decentralized sequential estimation is also considered for wireless sensor networks. We propose an asymptotically optimal decentralized scheme based on level-triggered sampling, a non-uniform sampling technique. Performance of the proposed scheme is analyzed.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Asymptotically optimum tests for decentralized sequential testing in continuous time",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4632360/",
+            "Abstract": "We propose an asymptotically optimum test for the problem of decentralized sequential hypothesis testing in continuous time, in the case where the sensors have full local memory and no feedback from the fusion center. According to our scheme, the sensors perform locally repeated SPRTs and communicate, asynchronously, their one-bit decisions to the fusion center. The fusion center in turn uses the received information to perform a centralized SPRT in order to make the final decision. The expected time for a decision of the proposed scheme differs from the optimum continuous-time centralized SPRT only by a constant. This fact suggests order-2 asymptotic optimality of our test as compared to existing schemes that are optimal of order-1. Moreover, simulation experiments reveal that the performance of our scheme is significantly better than that of the discrete-time centralized SPRT.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient sampling for keeping track of an Ornstein-Uhlenbeck process",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4124955/",
+            "Abstract": "We consider estimation and tracking problems in sensor networks with constraints in the hierarchy of inference making, on the sharing of data and inter-sensor communications. We identify as a typical representative for such problems tracking of a process when the number and type of measurements are constrained. As the simplest representative of such problems, which still encompasses all the key issues involved, we analyze efficient sampling schemes for tracking an Ornstein-Uhlenbeck process. We consider sampling based on time, based on amplitude (event-triggered sampling) and optimal sampling (optimal stopping). We obtain the best sampling rule in each case as the solution to a constrained optimization problem. We compare the performances of the various sampling schemes and show that the event-triggered sampling performs close to optimal. Implications and extensions are discussed",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Decision directed algorithms for multiuser detection",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/935871/",
+            "Abstract": "We present a class of constraint LMS-like adaptive linear detection schemes that constitutes a generalization to the popular blind adaptive detector. We show that, contrary to the general belief, the conventional LMS and its constraint version, when in training mode, do not necessarily outperform the blind LMS of Honig et al. (1995). Trained algorithms uniformly outperform their blind counterparts only if they incorporate knowledge of the amplitude of the user of interest. Decision directed versions of such algorithms are shown to be equally efficient as their trained prototypes and significantly better than the blind versions.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive sampling for linear state estimation",
+            "Publication year": 2009,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/090757125",
+            "Abstract": "When a sensor has continuous measurements but sends occasional messages over a data network to a supervisor which estimates the state, the available packet rate fixes the achievable quality of state estimation. When such rate limits turn stringent, the sensor's messaging policy should be designed anew. What are good causal messaging policies? What should message packets contain? What is the lowest possible distortion in a causal estimate at the supervisor? Is Delta sampling better than periodic sampling? We answer these questions for a Markov state process under an idealized model of the network and the assumption of perfect state measurements at the sensor. If the state is a scalar, or a vector of low dimension, then we can ignore sample quantization. If in addition we can ignore jitter in the transmission delays over the network, then our search for efficient messaging policies simplifies. First, each \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detecting changes in hidden markov models",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8849693/",
+            "Abstract": "We consider the problem of sequential detection of a change in the statistical behavior of a hidden Markov model. By adopting a worst-case analysis with respect to the time of change and by taking into account the data that can be accessed by the change-imposing mechanism we offer alternative formulations of the problem. For each formulation we derive the optimum Shewhart test that maximizes the worst-case detection probability while guaranteeing infrequent false alarms.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:hMsQuOkrut0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multiple sampling for estimation on a finite horizon",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4178072/",
+            "Abstract": "We discuss some multiple sampling problems that arise in finite horizon real-time estimation when there is an upper limit on the number of allowable samples. Measuring estimation quality by the aggregate squared error, we compare the performances of the best deterministic, level-triggered and the optimal sampling schemes. We restrict the signal to be either a Wiener or an Ornstein-Uhlenbeck process. For the Wiener process, we provide closed form expressions and series expansions, whereas for the Ornstein Uhlenbeck process, procedures for numerical computation. Our results indicate that the best level-triggered sampling is almost optimal when the signal is stable",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detection of sparse mixtures: The finite alphabet case",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7869572/",
+            "Abstract": "We study the problem of testing between a sparse signal in noise, modeled as a mixture distribution, versus pure noise, with finite alphabet observations. We study the consistency and adaptivity of the tests as the mixture proportion tends to zero with number of observations. The finite alphabet assumption allows for application to inherently categorical data, where no useful ordering relationship on the alphabet typically exists. We construct and analyze a divergence-based adaptive test for finite alphabets and validate it on a quantized Gaussian signal detection problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:z_wVstp3MssC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimal stopping for interval estimation in Bernoulli trials",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8565954/",
+            "Abstract": "We propose an optimal sequential methodology for obtaining confidence intervals for a binomial proportion \u03b8. Assuming that an independent and identically distributed sequence of Bernoulli (\u03b8) trials is observed sequentially, we are interested in designing: 1) a stopping time T that will decide the best time to stop sampling the process and 2) an optimum estimator \u03b8\u0302T that will provide the optimum center of the interval estimate of \u03b8. We follow a semi-Bayesian approach, where we assume that there exists a prior distribution for \u03b8, and our goal is to minimize the average number of samples while we guarantee a minimal specified coverage probability level. The solution is obtained by applying standard optimal stopping theory and computing the optimum pair (T, \u03b8\u0302T) numerically. Regarding the optimum stopping time component T, we demonstrate that it enjoys certain very interesting characteristics not commonly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:zLWjf1WUPmwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sequential estimation based on conditional cost",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8006565/",
+            "Abstract": "We consider the problem of parameter estimation under a sequential framework. Specifically we assume that an i.i.d. random process is observed sequentially with its common pdf having a random parameter that must be estimated. We are interested in designing a stopping time that will decide when is the best moment to stop sampling the process and an estimator that will use the acquired samples in order to provide the desired estimate. We follow a semi-Bayesian approach where we assign cost to the pair (estimate, true parameter) and our goal is to minimize the average sample size guaranteeing at the same time an average cost below some prescribed level. For our analysis we adopt a conditional average cost which leads to a considerable simplification in the sequential estimation problem, otherwise known to be analytically intractable. We apply our results to a number of examples and compare our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:ipzZ9siozwsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Bayesian decision model for cost optimal record matching",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1007/s00778-002-0072-y",
+            "Abstract": " In an error-free system with perfectly clean data, the construction of a global view of the data consists of linking - in relational terms, joining - two or more tables on their key fields. Unfortunately, most of the time, these data are neither carefully controlled for quality nor necessarily defined commonly across different data sources. As a result, the creation of such a global data view resorts to approximate joins. In this paper, an optimal solution is proposed for the matching or the linking of database record pairs in the presence of inconsistencies, errors or missing values in the data. Existing models for record matching rely on decision rules that minimize the probability of error, that is the probability that a sample (a measurement vector) is assigned to the wrong class. In practice though, minimizing the probability of error is not the best criterion to design a decision rule because the misclassifications of different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer Berlin/Heidelberg"
+        },
+        {
+            "Title": "A maxmin approach for hiding frequent itemsets",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169023X07001334",
+            "Abstract": "In this paper, we are proposing a new algorithmic approach for sanitizing raw data from sensitive knowledge in the context of mining of association rules. The new approach (a) relies on the maxmin criterion which is a method in decision theory for maximizing the minimum gain and (b) builds upon the border theory of frequent itemsets. Experimental results indicate the effectiveness of the proposed methodology both with respect to the hiding results as well as with respect to the time performance compared to similar state of the art approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Event-based statistical signal processing",
+            "Publication year": 2015,
+            "Publication url": "http://www.ssp.ece.upatras.gr/moustakides/downloads/journals/ets2016_1.pdf",
+            "Abstract": "In traditional time-based sampling, the sampling mechanism is triggered by predetermined sampling times, which are mostly uniformly spaced (ie, periodic). Alternatively, in event-based sampling, some predefined events on the signal to be sampled trigger the sampling mechanism; that is, sampling times are determined by the signal and the event space. Such an alternative mechanism, setting the sampling times free, can enable simple (eg, binary) representations in the event space. In real-time applications, the induced sampling times can be easily traced and reported with high accuracy, whereas the amplitude of a time-triggered sample needs high data rates for high accuracy. In this chapter, for some statistical signal processing problems, namely detection (ie, binary hypothesis testing) and parameter estimation, in resource-constrained distributed systems (eg, wireless sensor networks), we show how to make use of the time dimension for data/information fusion, which is not possible through the traditional fixed-time sampling.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Constrained adaptive linear multiuser detection schemes",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1014019530351",
+            "Abstract": "By using a fair comparison method we show that contrary to the general belief the conventional LMS, when in training mode, does not necessarily outperform the popular blind LMS (BLMS). With the help of a constrained MMSE criterion we identify the correct trained version which is guaranteed to have uniformly superior performance over BLMS since it maximizes the SIR over an algorithmic class containing BLMS. Because the proposed optimum trained version requires knowledge of the amplitude of the user of interest we also present simple and efficient techniques that estimate the amplitude in question. The resulting algorithm in both modes, training and decision directed, is significantly superior to BLMS.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Spectrum sensing via event-triggered sampling",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6190251/",
+            "Abstract": "We propose a new framework for cooperative spectrum sensing in cognitive radio networks, that is based on a novel class of non-uniform samplers called the event-triggered samplers, and sequential detection. In the proposed scheme, each secondary user computes its local sensing decision statistic based on its own channel output; and whenever such decision statistic crosses certain predefined threshold values, the secondary user sends one bit (or several bits) information to the fusion center. The fusion center asynchronously receives the bits from different secondary users, based on which it updates the global sensing decision statistic and performs the sequential probability ratio test (SPRT), until reaching a sensing decision. We provide an asymptotic analysis for the above scheme, and under different conditions, we compare it against the cooperative sensing scheme that is based on traditional uniform \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image restoration from parametric transformations using generative models",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2005.14036",
+            "Abstract": "When images are statistically described by a generative model we can use this information to develop optimum techniques for various image restoration problems as inpainting, super-resolution, image coloring, generative model inversion, etc. With the help of the generative model it is possible to formulate, in a natural way, these restoration problems as Statistical estimation problems. Our approach, by combining maximum a-posteriori probability with maximum likelihood estimation, is capable of restoring images that are distorted by transformations even when the latter contain unknown parameters. The resulting optimization is completely defined with no parameters requiring tuning. This must be compared with the current state of the art which requires exact knowledge of the transformations and contains regularizer terms with weights that must be properly defined. Finally, we must mention that we extend our method to accommodate mixtures of multiple images where each image is described by its own generative model and we are able of successfully separating each participating image from a single mixture.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:e_rmSamDkqQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D image acquisition and NURBS based geometry modelling of natural objects",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0965997800000600",
+            "Abstract": "This paper presents a recently developed Image Acquisition\u2013Geometric Modelling system for the construction of geometric models of natural or artificial objects. This construction is achieved in a two-step procedure. First, the object of interest is digitised, i.e. points on the surface of the object are computed. Then, based on the cloud of digitised 3D points, an approximating surface, a geometric model of the object of interest, is constructed. Coupled with a mesh generation package, the system presented allows for further processing and analysis of the resulting model instead of the real object itself.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Detecting IEEE 802.11 MAC layer misbehavior in ad hoc networks: Robust strategies against individual and colluding attackers",
+            "Publication year": 2007,
+            "Publication url": "https://content.iospress.com/articles/journal-of-computer-security/jcs277",
+            "Abstract": "Selfish behavior at the Medium Access (MAC) Layer can have devastating side effects on the performance of wireless networks, with effects similar to those of Denial of Service (DoS) attacks. In this paper we consider the problem of detection and prevention of node misbehavior at the MAC layer, focusing on the back-off manipulation by selfish nodes. We first propose an algorithm that ensures honest behavior of non-colluding participants. Furthermore, we analyze the problem of colluding selfish nodes, casting the problem within a minimax robust detection framework and providing an optimal detection rule for the worst-case attack scenarios. Finally, we evaluate the performance of single and colluding attackers in terms of detection delay. Although our approach is general and can be used with any probabilistic distributed MAC protocol, we focus our analysis on the IEEE 802.11 MAC.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Advances in subspace-based techniques for signal processing and communications",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/content/pdf/10.1155/2007/48612.pdf",
+            "Abstract": "Research in subspace-based techniques for signal processing was initiated more than three decades ago, and there has been considerable progress in the area. Thorough studies have shown that the estimation and detection tasks in many signal processing and communications applications can be significantly improved by using the subspace-based methodology. Over the past few years new potential applications have emerged, and subspace methods have been adopted in several diverse fields such as smart antennas, sensor arrays, multiuser detection, system identification, time delay estimation, blind channel estimation, image segmentation, speech enhancement, learning systems, magnetic resonance spectroscopy, and radar systems. Subspace-based methods not only provide new insight into many such problems, but they also offer a good tradeoff between achieved performance and computational \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "O5YDyjoAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Numerical comparison of CUSUM and Shiryaev\u2013Roberts procedures for detecting changes in distributions",
+            "Publication year": 2009,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/03610920902947774",
+            "Abstract": "The CUSUM procedure is known to be optimal for detecting a change in distribution under a minimax scenario, whereas the Shiryaev\u2013Roberts procedure is optimal for detecting a change that occurs at a distant time horizon. As a simpler alternative to the conventional Monte Carlo approach, we propose a numerical method for the systematic comparison of the two detection schemes in both settings, i.e., minimax and for detecting changes that occur in the distant future. Our goal is accomplished by deriving a set of exact integral equations for the performance metrics, which are then solved numerically. We present detailed numerical results for the problem of detecting a change in the mean of a Gaussian sequence, which show that the difference between the two procedures is significant only when detecting small changes.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Optimal Sequential Joint Detection and Estimation",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1301.6206",
+            "Abstract": "This paper has been withdrawn by the authors. Please see arXiv:1302.6058. We consider the sequential joint detection and estimation problem. Minimizing the average stopping time subject to a combination of detection and estimation constraints we obtain the optimal triplet of stopping time, detector and estimator. In the joint detection and estimation problem the primary goal is to detect and estimate together, as opposed to the conventional testing of composite hypotheses where the primary goal is to detect only. For the first time in the literature we develop optimal solution to the sequential joint detection and estimation problem. In the sequential version of the problem, different from the fixed sample size version, optimal stopping time is also sought, complicating the solution considerably.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Methods, systems, and media for determining whether a signal of interest is present",
+            "Publication year": 2016,
+            "Publication url": "https://patents.google.com/patent/US9479372B2/en",
+            "Abstract": "Methods, systems, and media for determining whether a signal of interest is present are provided, in some embodiments, a system for determining whether a signal of interest is present is provided, the system comprising: at least one hardware processor that is configured to: receive at least one bit value containing information about whether the signal of interest is present from at least one transmitter, wherein the at least one bit value is transmitted from the at least one transmitter at a set of random time instances, and wherein the at least, one bit value is calculated without performing quantization; calculate a combined log-likelihood ratio based at least in part on the at least one bit value; and determine whether the signal of interest is present based at least in part on the combined log-likelihood ratio.",
+            "Abstract entirety": 1,
+            "Author pub id": "O5YDyjoAAAAJ:JQOojiI6XY0C",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

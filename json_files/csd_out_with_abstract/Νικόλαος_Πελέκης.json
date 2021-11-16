@@ -1,0 +1,1261 @@
+[{
+    "name": "\u039d\u03b9\u03ba\u03cc\u03bb\u03b1\u03bf\u03c2 \u03a0\u03b5\u03bb\u03ad\u03ba\u03b7\u03c2",
+    "romanize name": "Nikolaos Pelekis",
+    "School-Department": "\u03a3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u0391\u03c3\u03c6\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2",
+    "University": "unipi",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 23417,
+    "Scholar name": "Nikos Pelekis",
+    "Scholar id": "iphQ2EkAAAAJ",
+    "Affiliation": "Assistant Professor, Dept. of Statistics & Insurance Science, University of Piraeus, Greece",
+    "Citedby": 4550,
+    "Interests": [
+        "Data mining",
+        "Database management"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=iphQ2EkAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Offline Trajectory Analytics",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-45164-6_10",
+            "Abstract": "In recent years, there has been observed an \u201cexplosion\u201d of trajectory data production due to the proliferation of GPS-enabled devices, such as mobile phones and tablets. This massive-scale data generation has posed new challenges in the data management community in terms of storing, querying, analyzing, and extracting knowledge out of such data. Knowledge discovery out of mobility data is essentially the goal of every mobility data analytics task. Especially in the maritime and aviation domains, this relates to challenging use-case scenarios, such as discovering valuable behavioral patterns of moving objects, identifying different types of activities in a region of interest, environmental fingerprint, etc. In order to be able to support such scenarios, an analyst should be able to apply, at massive scale, several knowledge discovery techniques, such as trajectory clustering, hotspot analysis, and frequent route \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A Novel Indexing Method for Spatial-Keyword Range Queries",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3469830.3470897",
+            "Abstract": "Spatial-keyword queries are important for a wide range of applications that retrieve data based on a combination of keyword search and spatial constraints. However, efficient processing of spatial-keyword queries is not a trivial task because the combination of textual and spatial data results in a high-dimensional representation that is challenging to index effectively. To address this problem, in this paper, we propose a novel indexing scheme for efficient support of spatial-keyword range queries. At the heart of our approach lies a carefully-designed mapping of spatio-textual data to a two-dimensional (2D) space that produces compact partitions of spatio-textual data. In turn, the mapped 2D data can be indexed effectively by traditional spatial data structures, such as an R-tree. We propose bounds, theoretically proven for correctness, that lead to the design of a filter-and-refine algorithm that prunes the search space \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Baquara2 knowledge-based framework for semantic enrichment and analysis of movement data",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169023X15000555",
+            "Abstract": "The analysis of movements frequently requires more than just spatio-temporal data. Thus, despite recent progresses in trajectory handling, there is still a gap between movement data and formal semantics. This gap hinders movement analyses benefiting from available knowledge, with well-defined and widely agreed semantics. This article describes the Baquara2 framework to help narrow this gap by exploiting knowledge bases to semantically enrich and analyze movement data. It provides an ontological model for structuring and abstracting movement data in a multilevel hierarchy of progressively detailed movement segments that generalize concepts such as trajectories, stops, and moves. Baquara2 also includes a general customizable process to annotate movement data with concepts and objects described in ontologies and Linked Open Data (LOD) collections. The resulting semantic annotations enable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:f2IySw72cVMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Semantic aspects on mobility data",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_9",
+            "Abstract": "The bang of mobility data (due to the evolution of positioning devices such as GPS-enabled smartphones and tablets, on-board navigation systems in vehicles, vessels and planes, smart chips embedded in animals, etc.) has an equal share in what is called the BIG DATA era that raises important issues for Moving Object Databases (MOD) and Trajectory Data Warehouses (TDW), which are responsible for the operational and analytical, respectively, processing of moving object trajectories. A reasonable question that arises, is whether we really need all this detailed (i.e., point-by-point) information in order to perform the above processing effectively (i.e., having advanced mobile-aware applications and services in mind)? Trying to address this question, during the recent years mobility data are accompanied by semantic information (such as diaries filled in manually by citizens for urban transportation research \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "In-DBMS Sampling-based Sub-trajectory Clustering.",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3177530114609828468&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:SP6oXDckpogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cost Models and Efficient Query Processing over Existentially Uncertain Spatial Data",
+            "Publication year": 2008,
+            "Publication url": "http://isl.cs.unipi.gr/pubs/TR/UNIPI-ISL-TR-2008-01.pdf",
+            "Abstract": "The domain of existentially uncertain spatial data refers to objects that are modelled using an existential probability accompanying spatial data values. An interesting and challenging query type over existentially uncertain data is the search of the Nearest Neighbor (NN), since the probability of a potential dataset object to be the NN of the query object depends on the locations and probabilities of other points in the same dataset. In this paper, following a statistical approach, we estimate the average number of the NNs required to answer probabilistic thresholding NN (PTNN) queries as function of the threshold t, allowing us to utilize existing approaches and propose a cost model for such queries. Based on the same statistical approach, we propose an efficient algorithm for PTNN queries over arbitrarily structured existentially uncertain spatial data. Our experimental study demonstrates the accuracy and efficiency of the proposed techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "UNIPI-ISL-TR-2008-01, Technical Report Series, University of Piraeus, 2008. Available at: http://isl. cs. unipi. gr/db/index. html"
+        },
+        {
+            "Title": "Maritime data analytics",
+            "Publication year": 2021,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=lYYbEAAAQBAJ&oi=fnd&pg=PA119&dq=info:nBWMhhrVf8kJ:scholar.google.com&ots=XOD24RuV0H&sig=0H25INBFi9OLOUEMCJKZsgyXCZs",
+            "Abstract": "The goal of mobility data analytics is to extract valuable knowledge out of a plethora of data sources that produce immense volumes of data. Focusing on the maritime domain, this relates to several challenging use-case scenarios, such as discovering valuable behavioural patterns of moving objects, identifying different types of activities in a region of interest, estimating fishing pressure or environmental fingerprint, etc. In this chapter, we focus on the exploration, preparation of data and application of several offline maritime data analytics techniques. Initially, we present several methods that assist an analyst to explore and gain insight of the data under analysis. Subsequently, we study several preprocessing techniques that aim to clean, transform, compress and partition long GPS traces into meaningful portions of movement. Finally, we overview some representative maritime knowledge discovery techniques, such as trajectory clustering, group behaviour identification, hot-spot analysis, frequent route or network discovery and data-driven predictive analytics methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Towards trajectory data warehouses",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75177-9_8",
+            "Abstract": "Data warehouses have received the attention of the database community as a technology for integrating all sorts of transactional data, dispersed within organisations whose applications utilise either legacy (non-relational) or advanced relational database systems. Data warehouses form a technological framework for supporting decision-making processes by providing informational data. A data warehouse is defined as a subject-oriented, integrated, time-variant, non-volatile collection of data in support of management of decision-making process [10].",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On-the-fly mobility event detection over aircraft trajectories",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3274895.3274970",
+            "Abstract": "We present an application framework that consumes streaming positions from a large fleet of flying aircrafts monitored in real time over a wide geographical area. Tailored for aviation surveillance, this online processing scheme only retains locations conveying salient mobility events along each flight, and annotates them as stop, change of speed, heading or altitude, etc. Such evolving trajectory synopses must keep in pace with the incoming raw streams so as to get incrementally annotated with minimal loss in accuracy. We also develop one-pass heuristics to eliminate inherent noise and provide reliable trajectory representations. Our prototype implementation on top of Apache Flink and Kafka has been tested against various real and synthetic datasets offering concrete evidence of its timeliness, scalability, and compression efficiency, with tolerable concessions to the quality of resulting trajectory approximations.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mining trajectory databases via a suite of distance operators",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4401043/",
+            "Abstract": "With the rapid progress of mobile devices and positioning technologies, Trajectory databases (TD) have been in the core of database research during the last decade. Analysis and knowledge discovery in TD is an emerging field which has recently gained great interest. Extracting knowledge from TD using certain types of mining techniques, such as clustering and classification, impose that there is a mean to quantify the distance between two trajectories. Having as a main objective the support of effective similarity query processing, existing approaches utilize generic distance metrics that ignore the peculiarities of the trajectories as complex spatio-temporal data types. In this paper, we define a novel set of trajectory distance operators based on primitive (space and time) as well as derived parameters of trajectories (speed and direction). Aiming at providing a powerful toolkit for analysts who require producing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the management and analysis of our lifesteps",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2594473.2594478",
+            "Abstract": "Huge volumes of location information are available nowadays due to the rapid growth of positioning devices (GPS-enabled smartphones and tablets, on-board navigation systems in vehicles, vessels and planes, smart chips for animals, etc.). In the near future, it is unavoidable that this explosion will contribute in what is called the Big Data era, raising high challenges for the data management research community. Instead of trying to manage bigger and bigger volumes of raw data, future Moving Object Database (MOD) systems need to extract and manage (the minimum necessary) semantics of movement. Such semantics can foster next-generation location-based services (LBS) and locationbased social networking (LBSN) applications, building more efficient and effective applications, while in parallel opening new research directions in the field of transportation, urban planning etc. In this article, we first present a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Nearest neighbor search on moving object trajectories",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11535331_19",
+            "Abstract": "With the increasing number of Mobile Location Services (MLS), the need for effective k-NN query processing over historical trajectory data has become the vehicle for data analysis, thus improving existing or even proposing new services. In this paper, we investigate mechanisms to perform NN search on R-tree-like structures storing historical information about moving object trajectories. The proposed branch-and-bound algorithms vary with respect to the type of the query object (stationary or moving point) as well as the type of the query result (continuous or not). We also propose novel metrics to support our search ordering and pruning strategies. Using the implementation of the proposed algorithms on a member of the R-tree family for trajectory data (the TB-tree), we demonstrate their scalability and efficiency through an extensive experimental study using synthetic and real datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "EasyTracker: An Android application for capturing mobility behavior",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6377418/",
+            "Abstract": "This paper presents Easy Tracker, a mobile application developed for the Android O/S that enable the storage, analysis and map visualization of routes of mobile users. Furthermore, it enable users to manually annotate part of their routes with labels describing their activity and behavior (e.g. \"home having breakfast\", \"travelling by car to work\", etc.). Of equal importance, the application encapsulates several state-of-the-art line simplification algorithms for compressing the trajectories drawn from collected GPS records, as well as segmenting trajectories into homogeneous parts in order to facilitate automatic auditing of the user's manual annotation.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Systems for Privacy-Preserving Mobility Data Management",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-98161-1_11",
+            "Abstract": "The increasing availability of data due to the explosion of mobile devices and positioning technologies has led to the development of efficient management and mining techniques for mobility data. However, the analysis of such data may result in significant risks regarding individuals\u2019 privacy. A typical approach for privacy-aware mobility data sharing aims at publishing an anonymized version of the mobility dataset, operating under the assumption that most of the information in the original dataset can be disclosed without causing any privacy violation. On the other hand, an alternative strategy considers that data stays in-house to the hosting organization and privacy-preserving mobility data management systems are in charge of privacy-aware sharing of the mobility data. In this chapter, we present the state-of-the-art of the latter approach, including systems such as HipStream, Hermes++, and Private-Hermes.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Visual mobility analysis using T-warehouse",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/content/70790",
+            "Abstract": "Technological advances in sensing technologies and wireless telecommunication devices enable research fields related to the management of trajectory data. The challenge after storing the data is the implementation of appropriate analytics for extracting useful knowledge. However, traditional data warehousing systems and techniques were not designed for analyzing trajectory data. In this paper, the authors demonstrate a framework that transforms the traditional data cube model into a trajectory warehouse. As a proof-of-concept, the authors implement T-Warehouse, a system that incorporates all the required steps for Visual Trajectory Data Warehousing, from trajectory reconstruction and ETL processing to Visual OLAP analysis on mobility data.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "T-Warehouse: Visual OLAP analysis on trajectory data",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5447749/",
+            "Abstract": "Technological advances in sensing technologies and wireless telecommunication devices enable novel research fields related to the management of trajectory data. As it usually happens in the data management world, the challenge after storing the data is the implementation of appropriate analytics for extracting useful knowledge. However, traditional data warehousing systems and techniques were not designed for analyzing trajectory data. Thus, in this work, we demonstrate a framework that transforms the traditional data cube model into a trajectory warehouse. As a proof-of-concept, we implemented T-WAREHOUSE, a system that incorporates all the required steps for Visual Trajectory Data Warehousing, from trajectory reconstruction and ETL processing to Visual OLAP analysis on mobility data.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Simulating our LifeSteps by example",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2937753",
+            "Abstract": "During the past few decades, a number of effective methods for indexing, query processing, and knowledge discovery in moving object databases have been proposed. An interesting research direction that has recently emerged handles semantics of movement instead of raw spatio-temporal data. Semantic annotations, such as \u201cstop,\u201d \u201cmove,\u201d \u201cat home,\u201d \u201cshopping,\u201d \u201cdriving,\u201d and so on, are either declared by the users (e.g., through social network apps) or automatically inferred by some annotation method and are typically presented as textual counterparts along with spatial and temporal information of raw trajectories. It is natural to argue that such \u201cspatio-temporal-textual\u201d sequences, called semantic trajectories, form a realistic representation model of the complex everyday life (hence, mobility) of individuals. Towards handling semantic trajectories of moving objects in Semantic Mobility Databases, the lack of real \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "How not to drown in a sea of information: An event recognition approach",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7363849/",
+            "Abstract": "Maritime monitoring is a typical Big Data problem where hundreds of thousands of vessels across the globe transmit messages about their location, speed and other information. We have developed a system for online vessel tracking that performs, as a first step, a high-rate but accurate trajectory compression. Subsequently, the compressed trajectories are analyzed by a complex event recognition engine, promptly reporting alerts to maritime authorities. To deal with realistic maritime event patterns, we seamlessly integrated spatial and temporal reasoning for online event recognition. The system is evaluated on real data from the Greek seas.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hands-on with Hermes@ Postgres MOD",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_13",
+            "Abstract": "Marine environment is very important in our society with implications in economy and natural preservation. Marine accidents that happen from time to time cost high amount of money to the involved parties and, more important, incalculable damage to the ecosystem. Unfortunately, there is lack of monitoring vessels at sea for conforming to the international marine safety regulations. To address this issue, the Automatic Identification System (AIS) had been made mandatory equipment for commercial and fishing vessels (above a threshold length). A vessel\u2019s AIS transceiver gathers data from onboard sensors like GPS and compass and broadcasts it publicly so that other vessels at sea or base stations at shore are aware of the position (latitude/longitude) as well as other trip-oriented information of the vessel under consideration. This chapter presents a showcase on a real AIS dataset and exploits the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "An evaluation of data stream clustering algorithms",
+            "Publication year": 2018,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11380",
+            "Abstract": "Data stream clustering is a hot research area due to the abundance of data streams collected nowadays and the need for understanding and acting upon such sort of data. Unsupervised learning (clustering) comprises one of the most popular data mining tasks for gaining insights into the data. Clustering is a challenging task, while clustering over data streams involves additional challenges such as the single pass constraint over the raw data and the need for fast response. Moreover, dealing with an infinite and fast changing data stream implies that the clustering model extracted upon such sort of data is also subject to evolution over time. Several stream clustering surveys exist already in the literature; however, they focus on a theoretical presentation of the surveyed algorithms. On the contrary, in this paper, we survey the state\u2010of\u2010the\u2010art stream clustering algorithms and we evaluate their performance in different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Wiley Subscription Services, Inc., A Wiley Company"
+        },
+        {
+            "Title": "Privacy-aware querying over sensitive trajectory data",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2063576.2063706",
+            "Abstract": "Existing approaches for privacy-aware mobility data sharing aim at publishing an anonymized version of the mobility dataset, operating under the assumption that most of the information in the original dataset can be disclosed without causing any privacy violations. In this paper, we assume that the majority of the information that exists in the mobility dataset must remain private and the data has to stay in-house to the hosting organization. To facilitate privacy-aware sharing of the mobility data we develop a trajectory query engine that allows subscribed users to gain restricted access to the database to accomplish various analysis tasks. The proposed engine (i) audits queries for trajectory data to block potential attacks to user privacy,(ii) supports range, distance, and k-nearest neighbors spatial and spatiotemporal queries, and (iii) preserves user anonymity in answers to queries by (a) augmenting the real trajectories \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "GF-Miner: a Genetic Fuzzy Classifier for Numerical Data",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4419-0221-4_62",
+            "Abstract": "Fuzzy logic and genetic algorithms are well-established computational techniques that have been employed to deal with the problem of classification as this is presented in the context of data mining. Based on Fuzzy Miner which is a recently proposed state-of-the-art fuzzy rule based system for numerical data, in this paper we propose GF-Miner which is a genetic fuzzy classifier that improves Fuzzy Miner firstly by adopting a clustering method for succeeding a more natural fuzzy partitioning of the input space, and secondly by optimizing the resulting fuzzy if-then rules with the use of genetic algorithms. More specifically, the membership functions of the fuzzy partitioning are extracted in an unsupervised way by using the fuzzy c- means clustering algorithm, while the extracted rules are optimized in terms of the volume of the rulebase and the size of each rule, using two appropriately designed genetic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Incremental Sub-Trajectory Clustering of Large Moving Object Databases",
+            "Publication year": 2013,
+            "Publication url": "http://infolab.cs.unipi.gr/technical_reports/TR-2013-03.pdf",
+            "Abstract": "Huge volumes of location information are available nowadays due to the rapid growth of positioning devices (GPS-enabled smartphones and tablets, on-board navigation systems in vehicles, vessels and planes, smart chips for animals, etc.). In the near future, it is unavoidable that this explosion will contribute in what is called the BIG DATA era, raising high challenges for the data management research community.Assume, for example, the following scenario: Location-based Services (LBS) users transmit their location to a central LBS server asynchronously and in batch mode; from the server side, a Moving Object Database (MOD) system is responsible for organizing users\u2019 traces in terms of trajectories; for providing high quality services, the server executes extensive querying and mining processes on the trajectory database stored in the MOD engine.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scalable distributed subtrajectory clustering",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9005563/",
+            "Abstract": "Trajectory clustering is an important operation of knowledge discovery from mobility data. Especially nowadays, the need for performing advanced analytic operations over massively produced data, such as mobility traces, in efficient and scalable ways is imperative. However, discovering clusters of complete trajectories can overlook significant patterns that exist only for a small portion of their lifespan. In this paper, we address the problem of Distributed Subtrajectory Clustering in an efficient and highly scalable way. The problem is challenging because the subtrajectories to be clustered are not known in advance, but they need to be discovered dynamically based on adjacent subtrajectories in space and time. Towards this objective, we split the original problem to three sub-problems, namely Subtrajectory Join, Trajectory Segmentation and Clustering and Outlier Detection, and deal with each one in a distributed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Handling spatial vagueness in virtual agent control.",
+            "Publication year": 2007,
+            "Publication url": "https://www.scitepress.org/Papers/2007/20849/20849.pdf",
+            "Abstract": "Virtual agents are an important element of virtual environments that enhance their believability and autonomy. Nowadays, there are a number of architectures and languages for designing virtual agents and scripting their control process, but the majority of them cannot cope with the vagueness that characterizes a designer\u2019s description of a location or direction using natural language, and, thus, fail to demonstrate complex spatial behavior in dynamic environments. We propose a framework for handling spatial vagueness in virtual agent control, which uses binary fuzzy relations to represent vague location descriptions and a fuzzy rule-based system for the agent control. We present a prototype implementation and a case study, in which the proposed framework is successfully used for a virtual agent\u2019s locomotion in a dynamic environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HERMES: aggregative LBS via a trajectory DB engine",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1376616.1376748",
+            "Abstract": "We present HERMES, a prototype system based on a powerful query language for trajectory databases, which enables the support of aggregative Location-Based Services (LBS). The key observation that motivates HERMES is that the more the knowledge in hand about the trajectory of a mobile user, the better the exploitation of the advances in spatio-temporal query processing for providing intelligent LBS. HERMES is fully incorporated into a state-of-the-art Object-Relational DBMS, and its demonstration illustrates its flexibility and usefulness for delivering custom-defined LBS.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distributed subtrajectory join on massive datasets",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3373642",
+            "Abstract": "Joining trajectory datasets is a significant operation in mobility data analytics and the cornerstone of various methods that aim to extract knowledge out of them. In the era of Big Data, the production of mobility data has become massive and, consequently, performing such an operation in a centralized way is not feasible. In this article, we address the problem of Distributed Subtrajectory Join processing by utilizing the MapReduce programming model. Compared to traditional trajectory join queries, this problem is even more challenging since the goal is to retrieve all the \u201cmaximal\u201d portions of trajectories that are \u201csimilar.\u201d We propose three solutions: (i) a well-designed basic solution, coined DTJb; (ii) a solution that uses a preprocessing step that repartitions the data, labeled DTJr; and (iii) a solution that, additionally, employs an indexing scheme, named DTJi. In our experimental study, we utilize a 56GB dataset of real \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Wireless network data sources: tracking and synthesizing trajectories",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75177-9_4",
+            "Abstract": "Due to inexpensive modern sensing technologies and extensive use of wireless communication, location information about moving objects is increasing rapidly. Some positioning technologies are based on GPS-equipped devices, while others utilize the infrastructure of the underlying communication network. This opens new opportunities for offering, monitoring, and decision-making novel applications in a variety of fields. To name a few, we have location-based services (LBS), fleet management and traffic control applications, emergency, navigation, and geocoding services. These compose a subset of existing applications where such kind of data comprise the core of the underlying business.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Fuzzy miner: Extracting fuzzy rules from numerical patterns",
+            "Publication year": 2008,
+            "Publication url": "https://www.igi-global.com/chapter/data-warehousing-mining/7753",
+            "Abstract": "We study the problem of classification as this is presented in the context of data mining. Among the various approaches that are investigated, we focus on the use of Fuzzy Logic for pattern classification, due to its close relation to human thinking. More specifically, this paper presents a heuristic fuzzy method for the classification of numerical data, followed by the design and the implementation of its corresponding tool (Fuzzy Miner). The initial idea comes from the fact that fuzzy systems are universal approximators of any real continuous function. Such an approximation method coming from the domain of fuzzy control is appropriately adjusted into pattern classification and an \u201cadaptive\u201d procedure is proposed for deriving highly accurate linguistic if-then rules. Extensive simulation tests are performed to demonstrate the performance of Fuzzy Miner, while a comparison with a neuro-fuzzy classifier of the area is taking \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:dshw04ExmUIC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Modeling and acquiring mobility data",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_3",
+            "Abstract": "The vast spread of GPS equipped mobile devices, such as smart phones, GPS navigation devices etc., combined with the development of appropriate techniques for storing, processing, querying, and mining such kind of data, has resulted in the production of huge amounts of location-aware information. However, getting this kind of raw data into a meaningful form in terms of mobility is not a straightforward task at all. During this transformation procedure, many aspects arise, such as the treatment of inaccurate or noisy information, the identification of trajectories as sequences of sampled positions, the reduction of the size of the datasets in order to deal with the storage challenges that may appear, etc. Furthermore, in order to be able to evaluate the performance of spatiotemporal algorithms and data structures, enormous amounts of real-world mobility data are required, which cannot be easily found available \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:rO6llkc54NcC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "HERMES: A trajectory DB engine for mobility-centric applications",
+            "Publication year": 2015,
+            "Publication url": "https://www.igi-global.com/article/hermes/125583",
+            "Abstract": "This paper presents HERMES, a prototype DB engine that defines a powerful query language for trajectory databases, which enables the support of mobility-centric applications, such as Location-Based Services (LBS). HERMES extends the data definition and manipulation language of Object-Relational DBMS (ORDBMS) with spatio-temporal semantics and functionality based on advanced spatio-temporal indexing and query processing techniques. Its implementation over two ORDBMS and its utilization in various domains proves the expressive power and applicability of HERMES in different application domains where knowledge regarding mobility data is essential. As a proof-of-concept, in this paper HERMES is applied to a case study related with vehicle traffic analysis, demonstrating its flexibility and usefulness for delivering custom-defined LBS.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "DART: a machine-learning approach to trajectory prediction and demand-capacity balancing",
+            "Publication year": 2017,
+            "Publication url": "http://www.c4i.gr/xgeorgio/docs/SID_2017_paper_65.pdf",
+            "Abstract": "The current Air Traffic Management (ATM) system worldwide is managing a high (and growing) amount of demand that sometimes leads to demand-capacity balancing (DCB) issues. These further impose limitations to the ATM system that are resolved via airspace management or flow management solutions, including regulations that generate delays (and costs) for the entire system. These demand-capacity imbalances are difficult to predict in the pre-tactical phase (prior to operation), as the existing ATM information is not accurate enough during this phase. With the aim of overcoming these drawbacks, the ATM system is moving towards a new, trajectory-based operations (TBO) paradigm, where the trajectory becomes the cornerstone upon which the ATM capabilities rely on. This transformation, however, requires reliable information available in pre-tactical phase or, at least, high-fidelity aircraft trajectory prediction capabilities to reach sufficient levels of confidence in the available planning information.In this scenario, the DART (Data-driven Aircraft Trajectory Prediction Research) project from SESAR 2020 Exploratory Research aims at reaching this goal, by means of machine learning and agent-based modeling methods in two different operational use cases: trajectory prediction and demand-capacity balancing. This paper presents the machine learning approach followed, as well as the promising results already achieved by the project.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ST_VISIONS: A Python Library for Interactive Visualization of Spatio-temporal Data",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9474850/",
+            "Abstract": "In this demo paper we present ST_VISIONS, an easy-to-use Python library for interactive visualizations of spatial and spatio-temporal datasets. By automating the low-level details of the underlying visualization library (Bokeh), ST_VISIONS allows data scientists to create interactive, map-based visualizations, by writing Python code at a higher level of abstraction. Consequently, we accelerate the task of visualization from different sources, while we support interactive filtering, colorization, as well as multiple graphs, for various types of spatial and spatio-temporal data.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Unsupervised trajectory sampling",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-15939-8_2",
+            "Abstract": "A novel methodology for efficiently sampling Trajectory Databases (TD) for mobility data mining purposes is presented. In particular, a three-step unsupervised trajectory sampling methodology is proposed, that initially adopts a symbolic vector representation of a trajectory which, using a similarity-based voting technique, is transformed to a continuous function that describes the representativeness of the trajectory in the TD. This vector representation is then relaxed by a merging algorithm, which identifies the maximal representative portions of each trajectory, at the same time preserving the space-time mobility pattern of the trajectory. Finally, a novel sampling algorithm operating on the previous representation is proposed, allowing us to select a subset of a TD in an unsupervised way encapsulating the behavior (in terms of mobility patterns) of the original TD. An experimental evaluation over synthetic and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Who Cares about Others' Privacy: Personalized Anonymization of Moving Object Trajectories.",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2499694464950123834&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Authoring & Approval",
+            "Publication year": 2018,
+            "Publication url": "http://dart-research.eu/wp-content/uploads/2018/09/D2.4_04.40.00_Final.pdf",
+            "Abstract": "This document summarizes the validation results obtained by the application of the final set of datadriven trajectory prediction algorithms described with in Deliverable 2.3. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Increasing maritime situation awareness via trajectory detection, enrichment and recognition of events",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-90053-7_13",
+            "Abstract": " The research presented in this paper aims to show the deployment and use of advanced technologies towards processing surveillance data for the detection of events, contributing to maritime situation awareness via trajectories\u2019 detection, synopses generation and semantic enrichment of trajectories. We first introduce the context of the maritime domain and then the main principles of the big data architecture developed so far within the European funded H2020 datAcron project. From the integration of large maritime trajectory datasets, to the generation of synopses and the detection of events, the main functions of the datAcron architecture are developed and discussed. The potential for detection and forecasting of complex events at sea is illustrated by preliminary experimental results. ",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Mobility data mining and knowledge discovery",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_7",
+            "Abstract": "Knowledge discovery in trajectory databases is full of success stories in discovering interesting behavioral patterns of moving objects that can be exploited in several fields. Example domains include traffic engineering, climatology, social anthropology and zoology, implying application of the various mining techniques in vehicle position data, hurricane track data, human and animal movement data, respectively. Mobility data mining can be categorized according to the underlying mining methods used to discover the various collective behavioral patterns. Following this categorization method, there have been proposed works that try to identify various types of clusters of moving objects. Some methods group trajectories by considering the whole lifespan of the moving objects, while others try to identify local patterns that are valid only for a portion of their lifespan. Another line of research, which is parallel to that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Big Data Analytics for Time Critical Mobility Forecasting: Recent Progress and Research Challenges.",
+            "Publication year": 2018,
+            "Publication url": "https://crida.es/webcrida/wp-content/uploads/2018/12/2018-EDBT-Big-Data-Analytics-for-Time-Critical-Mobility-Forecasting-Recent-Progress-and-Research-Challenges.pdf",
+            "Abstract": "The correlated exploitation of heterogeneous data sources offering very large archival and streaming data is important to increasing the accuracy of computations when analysing and predicting future states of moving entities. Aiming to significantly advance the capacities of systems to promote safety and effectiveness of critical operations for large numbers of moving entities in large geographical areas, this paper describes progress achieved towards time critical big data analytics solutions in user-defined challenges concerning moving entities in the air-traffic management and maritime domains. Specifically, the objective of this paper is to report progress and present further research challenges concerning data integration and management, predictive analytics for trajectory and events forecasting, and visual analytics.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Privacy-Aware Querying in Semantically-Enriched Trajectory Databases",
+            "Publication year": 2013,
+            "Publication url": "http://infolab.cs.unipi.gr/technical_reports/TR-2013-05.pdf",
+            "Abstract": "Regarding the issue of privacy, although a huge concern, as explained in the DOW, in DATASIM it is not a main research topic. More specifically, as prescribed also in D1. 1, in addition to the approach of data anonymization by concurrent adherence to the privacy-bydesign principles, we employ a more conservative approach by assuming that the majority of the information that is captured in the mobility dataset must remain private and that the data has to stay in-house to the hosting organization. Following this approach, in order to ensure privacy-aware sharing of in-house mobility data, a mechanism is necessary to control the information that is made available to external parties when they query the database, so that only non-sensitive information leaves the premises of the hosting organization. This section presents an overview of the privacy-aware \u2018skin\u2019of Hermessem, called Hermessem++, for handling data privacy aspects.Most of the proposed approaches for movement analysis are mainly focused on the raw spatiotemporal features of trajectories stemming from GPS devices. However, the increasing progress of mobile technology along with the interest of understanding human mobile behavior has led to the creation of more complex representations of trajectory data. Raw trajectory data are enriched with conceptual knowledge conducting more meaningful and comprehensible abstractions of mobility data. This alternative representation of trajectories may pose even greater privacy violation threats. Consider for example a malevolent user that is able to detect places of interest (POIs) where a moving object has stopped (eg living area \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Moving Object Database Engines",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_5",
+            "Abstract": "Spatial database research has focused on supporting the modeling and querying of geometries associated with objects in a database. Regarding static spatial data, the major commercial as well as open source database management systems (e.g. DB2, MySQL, Oracle, PostgreSQL, SQL Server) already provide appropriate data management and querying mechanisms that conform to Open Geospatial Consortium (OGC) standards. On the other hand, temporal databases have focused on extending the knowledge kept in a database about the current state of the real world to include the past, in the two senses of \u201cthe past of the real world\u201d (valid time) and \u201cthe past states of the database\u201d (transaction time). The recent years\u2019 effort is an attempt to achieve an appropriate kind of interaction between both sub-areas of database research. Spatiotemporal databases are the outcome of the aggregation of time and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Pattern comparison in data mining: a survey",
+            "Publication year": 2007,
+            "Publication url": "https://www.igi-global.com/chapter/pattern-comparison-data-mining/28422",
+            "Abstract": "Many patterns are available nowadays due to the widespread use of knowledge discovery in databases (KDD), as a result of the overwhelming amount of data. This \u201cflood\u201d of patterns imposes new challenges regarding their management. Pattern comparison, which aims at evaluating how close to each other two patterns are, is one of these challenges resulting in a variety of applications. In this chapter we investigate issues regarding the pattern comparison problem and present an overview of the work performed so far in this domain. Due to heterogeneity of data mining patterns, we focus on the most popular pattern types, namely frequent itemsets and association rules, clusters and clusterings, and decision trees.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "An Oracle data cartridge for moving objects",
+            "Publication year": 2005,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.101.9971",
+            "Abstract": "Composition of time and space in a unified data framework results into spatio-temporal databases. Spatio-temporal Database Management Systems (STDBMS) are able to process, manage and analyze spatio-temporal data. Spatial TAU 1 (STAU), developed in [Pel02], provides spatio-temporal functionality to Oracle10g Object-Relational Database Management System (ORDBMS). Although STAU is designed in a way that it can also be used as a pure temporal or a pure spatial system, its main functionality is to support modeling and querying of moving objects. Such a collection of data types and their corresponding operations are defined, developed and provided as a data cartridge using the extensibility interface of Oracle10g. This paper presents HERMES Moving Data Cartridge (HERMES-MDC), the core component of STAU system architecture. HERMES-MDC integrates two other data cartridges, namely the TAU temporal data cartridge and Oracle\u2019s spatial data cartridge. It introduces time-varying geometries that change their position and/or extent in space and time dimension, either discretely or continuously. HERMES-MDC extends PL/SQL, the data definition and manipulation language of Oracle10g, with spatio-temporal semantics. The resulted query language is applied to a case study related with truck motion analysis formulating a benchmarking framework for the evaluation of next generation fleet management systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Private-hermes: A benchmark framework for privacy-preserving mobility data querying and mining methods",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2247596.2247675",
+            "Abstract": "Mobility data sources feed larger and larger trajectory databases nowadays. Due to the need of extracting useful knowledge patterns that improve services based on users' and customers' behavior, querying and mining such databases has gained significant attention in recent years. However, publishing mobility data may lead to severe privacy violations. In this paper, we present Private-HERMES, an integrated platform for applying data mining and privacy-preserving querying over mobility data. The presented platform provides a two-dimension benchmark framework that includes:(i) a query engine that provides privacy-aware data management functionality of the in-house data via a set of auditing mechanisms that protect the sensitive information against several types of attacks, and (ii) a progressive analysis framework, which, apart from anonymization methods for data publishing, includes various well-known \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A pattern similarity scheme for medical image retrieval",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4487049/",
+            "Abstract": "In this paper, we propose a novel scheme for efficient content-based medical image retrieval, formalized according to the PAtterns for Next generation DAtabase systems (PANDA) framework for pattern representation and management. The proposed scheme involves block-based low-level feature extraction from images followed by the clustering of the feature space to form higher-level, semantically meaningful patterns. The clustering of the feature space is realized by an expectation-maximization algorithm that uses an iterative approach to automatically determine the number of clusters. Then, the 2-component property of PANDA is exploited: the similarity between two clusters is estimated as a function of the similarity of both their structures and the measure components. Experiments were performed on a large set of reference radiographic images, using different kinds of features to encode the low-level image \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hermoupolis: a trajectory generator for simulating generalized mobility patterns",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40994-3_49",
+            "Abstract": "During the last decade, the domain of mobility data mining has emerged providing many effective methods for the discovery of intuitive patterns representing collective behavior of trajectories of moving objects. Although a few real-world trajectory datasets have been made available recently, these are not sufficient for experimentally evaluating the various proposals, therefore, researchers look to synthetic trajectory generators. This case is problematic because, on the one hand, real datasets are usually small, which compromises scalability experiments, and, on the other hand, synthetic dataset generators have not been designed to produce mobility pattern driven trajectories. Motivated by this observation, we present Hermoupolis, an effective generator of synthetic trajectories of moving objects that has the main objective that the resulting datasets support various types of mobility patterns (clusters, flocks \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:hMod-77fHWUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Hermessem: A semantic-aware framework for the management and analysis of our LifeSteps",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7344849/",
+            "Abstract": "The explosion of available positioning information associated with the inferred or user-declared semantics of the respective locations, already contributes in what is called the big data era, posing new challenges to the mobility data management and mining research community. In this paper, motivated by a series of challenges set in [11], we present a unified framework for the management and the analysis of our LifeSteps, i.e. data objects that include both (raw) trajectories and their semantic counterpart. In particular, we provide solutions for developing real-world semantic-aware Moving Object Database (MOD) and Trajectory Data Warehouse (TDW) systems and we devise respective query processing algorithms. Our experimental study on synthetic data including synchronized raw (i.e., GPS log) and semantic (i.e., diaries) information, verifies the effectiveness and efficiency of the proposed framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Clustering and Representing Movements in an Uncertain World",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.505.8999&rep=rep1&type=pdf",
+            "Abstract": "Knowledge discovery in Trajectory Databases (TD) is an emerging field which has recently gained great interest; on the other hand the inherent presence of uncertainty in TD during the mining process has not been taken yet into account. Current approaches group trajectories together by accounting only the degree of their similarity, ignoring at the same time the degree in which they are unrelated and more importantly the hesitancy introduced by the uncertainty. In this paper we study the effect of uncertainty on clustering TD, as well as the representation of the clusters and introduce a three-step approach to deal with this challenge. Firstly, we propose an intuitionistic point vector representation of trajectories that encompasses the underlying uncertainty and we introduce an effective distance metric to cope with uncertainty. At the second step, we devise CenTra, a novel algorithm which tackles the problem of discovering the Centroid Trajectory of a group of movements taking into advantage the local similarity between portions of trajectories. At the final step, we devise CenTR-I-FCM a variant of the Fuzzy C-Means (FCM) clustering algorithm, appropriately modified in the context of Intuitionistic Fuzzy Set (IFS) theory, which embodies CenTra as its update procedure when producing the cluster centroids at each iteration. The experimental evaluation with real world trajectory datasets demonstrates the efficiency and effectiveness of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hermes\u2013a framework for location-based data management",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11687238_75",
+            "Abstract": "The aim of this paper is to demonstrate Hermes, a robust framework capable of aiding a spatio-temporal database developer in modeling, constructing and querying a database with dynamic objects that change location, shape and size, either discretely or continuously in time. Hermes provides spatio-temporal functionality to state-of-the-art Object-Relational DBMS (ORDBMS). The prototype has been designed as an extension of STAU [6], which provides data management infrastructure for historical moving objects, so as to additionally support the demands of real time dynamic applications (e.g. Location-Based Services \u2013 LBS). The produced type system is packaged and provided as a data cartridge using the extensibility interface of Oracle10g. The offspring of the above framework extends PL/SQL with spatio-temporal semantics. The serviceableness of the resulting query language is demonstrated by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "ARGO: A big data framework for online trajectory prediction",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3340964.3340988",
+            "Abstract": "We present a big data framework for the prediction of streaming trajectory data, enriched from other data sources and exploiting mined patterns of trajectories, allowing accurate long-term predictions with low latency. To meet this goal, we follow a multi-step methodology. First, we efficiently compress surveillance data in an online fashion, by constructing trajectory synopses that are spatio-temporally linked with streaming and archival data from a variety of diverse and heterogeneous data sources. The enriched stream of trajectory synopses is stored in a distributed RDF store, supporting data exploration via SPARQL queries. The enriched stream of synopses along with the raw data is consumed by trajectory prediction algorithms that exploit mined patterns from the RDF store, namely medoids of (sub-) trajectory clusters, which prolong the horizon of useful predictions. The framework is extended with offline and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ChoroChronos. org: a geoportal for movement data and processes",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9748364759618385739&hl=en&oi=scholarr",
+            "Abstract": "The paper briefly presents the architecture and functionality, of a geoportal for sharing and testing mobility data and processes. The geoportal comprises a moving object database engine (called Hermes) to store and efficiently manage the spatiotemporal content, an open source content/web management system for the flexible organization of the metadata, and appropriate tools for the visualization of the mobility data on top of Google Maps. Choro-Chronos. gr geoportal aims to be an important infrastructure for the development of various types of mobility-centric applications, but also a useful tool for researchers in the area of Moving Object Databases.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Event Recognition for Maritime Surveillance.",
+            "Publication year": 2015,
+            "Publication url": "http://www.dblab.ece.ntua.gr/pubs/uploads/TR-2015-1.pdf",
+            "Abstract": "We present a system that combines intelligent online tracking with complex event recognition against streaming positions relayed from numerous vessels. Given the vital importance of maritime safety to the environment, the economy, and in national security, our system leverages the real-time acquisition of vessel activity with geographical and other static information. Thus, it can offer timely notification in emergency situations, such as intrusion into marine preservation areas, loitering, and unsafe sailing. Thanks to a mobility tracking module, evolving trajectories generated by massive positional updates can be compressed online into concise, but reliable synopses per ship, retaining only salient motion features within a sliding window. These features are exploited by a complex event recognition module that detects suspicious situations of interest to maritime authorities. We conducted a comprehensive empirical validation against a real dataset of traces collected from thousands of vessels. Our results confirm the scalability and approximation accuracy of the proposed system, and thus demonstrate its potential for effective, real-time maritime monitoring.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pattern Comparison in Data Mining",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=1bpEifVEi2MC&oi=fnd&pg=PA228&dq=info:RFtYlN0pGq8J:scholar.google.com&ots=WAEb0iueLK&sig=RFoc1XJZtjKQHKjjuHuq9_Jm_Pc",
+            "Abstract": "Many patterns are available nowadays due to the widespread use of knowledge discovery in databases (KDD), as a result of the overwhelming amount of data. This \u201cflood\u201d of patterns imposes new challenges regarding their management. Pattern comparison, which aims at evaluating how close to each other two patterns are, is one of these challenges resulting in a variety of applications. In this chapter we investigate issues regarding the pattern comparison problem and present an overview of the work performed so far in this domain. Due to heterogeneity of data mining patterns, we focus on the most popular pattern types, namely frequent itemsets and association rules, clusters and clusterings, and decision trees.Nowadays a large quantity of raw data is collected from different application domains (business, science, telecommunication, health care systems, etc.). According to Lyman and Varian (2003),\u201cThe world produces between 1 and 2 exabytes of unique information per year, which is roughly 250 megabytes for every man, woman, and child on earth\u201d. Due to their quantity and complexity, it is impossible for humans to thoroughly investigate these data collections directly. Knowledge discovery in databases (KDD) and data mining (DM) provide a solution to this problem by generating compact and rich semantics representations of raw data, called patterns (Rizzi et al, 2003). With roots in machine learning, statistics, and pattern recognition, KKD aims at extracting valid, novel, potentially useful, and ultimately understandable",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:Mojj43d5GZwC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Datastories at semeval-2017 task 4: Deep lstm with attention for message-level and topic-based sentiment analysis",
+            "Publication year": 2017,
+            "Publication url": "https://www.aclweb.org/anthology/S17-2126.pdf",
+            "Abstract": "In this paper we present two deep-learning systems that competed at SemEval-2017 Task 4 \u201cSentiment Analysis in Twitter\u201d. We participated in all subtasks for English tweets, involving message-level and topic-based sentiment polarity classification and quantification. We use Long Short-Term Memory (LSTM) networks augmented with two kinds of attention mechanisms, on top of word embeddings pre-trained on a big collection of Twitter messages. Also, we present a text processing tool suitable for social network messages, which performs tokenization, word normalization, segmentation and spell correction. Moreover, our approach uses no hand-crafted features or sentiment lexicons. We ranked 1st (tie) in Subtask A, and achieved very competitive results in the rest of the Subtasks. Both the word embeddings and our text processing tool are available to the research community.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On querying and mining semantic-aware mobility timelines",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s41060-016-0030-1",
+            "Abstract": "The explosion of available positioning information associated with the inferred or user-declared semantics of the respective locations has contributed in what is called the Big Data era by posing new challenges to the mobility data management and mining research community. Motivated by a series of challenges posed in Pelekis et al. (SIGKDD Explor 15(1):23\u201332, 2013), in this paper, we present a unified framework for the management and the analysis of LifeSteps, i.e., data objects about human mobility including both (raw) spatio-temporal trajectories and their semantic counterpart. In particular, we provide solutions for developing real-world semantic-aware moving object database and trajectory data warehouse systems and we devise respective query processing algorithms. Our experimental study on realistic synthetic data including synchronized raw (i.e., GPS log) and semantic (i.e., diaries \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Trajectory database systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75177-9_7",
+            "Abstract": "In this chapter, we deal with trajectory database management issues and physical aspects of trajectory database systems, such as indexing and query processing. Our emphasis is on historical databases handling past positions of moving objects represented as trajectories. This is because only such databases can be used in the context of trajectory data warehouses, which is the core subject of this book.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "SPARTAN: Semantic integration of big spatio-temporal data from streaming and archival sources",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X17320319",
+            "Abstract": "An ever-increasing number of applications in critical domains, such as maritime and aviation, generate, collect, manage and process spatio-temporal data related to the mobility of entities. This wealth of data can be exploited for various purposes, towards improving the safety of operations, reducing economical costs, and increasing dependability: The major issue to achieve these objectives is increasing predictability of moving objects\u2019 trajectories and events. To achieve this purpose in a data-driven way we need to exploit in integrated manners data from a variety of disparate and heterogeneous data sources, both streaming and archival, regarding \u2013 among other \u2013 surveillance, weather, and contextual data. Motivated by this fact, in this paper, we propose a framework for semantic integration of big mobility data with other data sources that are necessary to data analytics tasks, providing a unified representation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:8AbLer7MMksC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Privacy-aware mobility data exploration",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_8",
+            "Abstract": "The increasing availability of data due to the explosion of mobile devices and positioning technologies has led to the development of efficient mobility data management and mining techniques. However, the analysis of such data may enhance significant risks regarding individuals\u2019 privacy. Consider for example a user requesting a service for nearby points of interest (POI), such as restaurants or pharmacies. Even if hiding user identifier, the request contains enough information to identify the requester. By linking exact coordinates sent to the service provider with public available information about POI\u2019s, a third party can increase the probability that the request was sent e.g. from user\u2019s home. Consequently, location data should be kept confidential since its disclosure may represent a brutal violation of privacy protection rights. Moreover, developing techniques able to analyze and extract significant patterns \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Unveiling movement uncertainty for robust trajectory similarity analysis",
+            "Publication year": 2018,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/13658816.2017.1372763",
+            "Abstract": "Trajectory data analysis and mining require distance and similarity measures, and the quality of their results is directly related to those measures. Several similarity measures originally proposed for time-series were adapted to work with trajectory data, but these approaches were developed for well-behaved data that usually do not have the uncertainty and heterogeneity introduced by the sampling process to obtain trajectories. More recently, similarity measures were proposed specifically for trajectory data, but they rely on simplistic movement uncertainty representations, such as linear interpolation. In this article, we propose a new distance function, and a new similarity measure that uses an elliptical representation of trajectories, being more robust to the movement uncertainty caused by the sampling rate and the heterogeneity of this kind of data. Experiments using real data show that our proposal is more accurate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:738O_yMBCRsC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Visual Analytics for Characterizing Mobility Aspects of Urban Context",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-981-15-8983-6_40",
+            "Abstract": "Visual analytics science develops principles and methods for efficient human\u2013computer collaboration in solving complex problems. Visual and interactive techniques are used to create conditions in which human analysts can effectively utilize their unique capabilities: the power of seeing, interpreting, linking, and reasoning. Visual analytics research deals with various types of data and analysis tasks from numerous application domains. A prominent research topic is analysis of spatiotemporal data, which may describe events occurring at different spatial locations, changes of attribute values associated with places or spatial objects, or movements of people, vehicles, or other objects. Such kinds of data are abundant in urban applications. Movement data are a quintessential type of spatiotemporal data because they can be considered from multiple perspectives as trajectories, as spatial events, and as changes of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:HE397vMXCloC",
+            "Publisher": "Springer, Singapore"
+        },
+        {
+            "Title": "Searching for spatio-temporal-keyword patterns in semantic trajectories",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-68765-0_10",
+            "Abstract": " Location-based social network users typically publish information about their location and activity (in the form of keywords) along time, thus providing the mobility data management research community with complex and voluminous data. In this work, we handle this kind of data as sequences in the Spatio-Temporal-Keyword (STK) domain. This modeling is coherent with the concept of semantic trajectories that has recently attracted the interest of this community. Our paper focuses on the efficient processing of pattern queries over the STK domain, hence called Spatio-Temporal-Keyword Pattern (STKP) queries. Our approach is based on efficient index structures that take into account the triple nature of these patterns and is developed in a NoSQL graph database. Through an extensive experimental study over real-life datasets, we demonstrate the effectiveness and efficiency of our proposal.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Pattern-based retrieval of cultural heritage images",
+            "Publication year": 2007,
+            "Publication url": "http://isl.cs.unipi.gr/pubs/confs/PCI2007.pdf",
+            "Abstract": "Conventional Content-Based Image Retrieval (CBIR) systems make use of similarity measures estimated directly from low-level image features, involving multidimensional and exhaustive, nearest neighbor searching. In this paper we present an image retrieval methodology suited for efficient search in cultural heritage images that utilizes similarity measures defined over higher-level patterns associated with clusters of low-level image features. The similarity between two patterns is estimated as a function of the similarity between both the structure and the measure components of the patterns. We evaluate our system using cultural heritage images derived from the repository of the Foundation of Hellenic World (FHW). For the experiments we use Local Binary Pattern (LBP) and contrast distributions as image features and the results show that the proposed pattern-based approach efficiently retrieves images compared to commonly employed methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Supporting movement in ORDBMS",
+            "Publication year": 2010,
+            "Publication url": "http://isl.cs.unipi.gr/pubs/TR/UNIPI-INFOLAB-TR-2010-01.pdf",
+            "Abstract": "Composition of space and mobility in a unified data framework results into Moving Object Databases (MOD). MOD management systems support storage and query processing of non-static spatial objects and provide essential operations for higher level analysis of movement data. The goal of this paper is to present HERMES MOD engine that supports the afore-mentioned functionality through appropriate data types and methods in Object-Relational DBMS (ORDBMS) environments. In particular, HERMES exploits on the extensibility interface of ORDBMS that already have extensions for static spatial data types and methods that follow the Open Geospatial Consortium (OGC) standard, and extends the ORDBMS by supporting time-varying geometries that change their position and/or extent in space and time dimensions, either discretely or continuously. It further extends the data definition and manipulation language of the ORDBMS with spatio-temporal semantics and functionality based on advanced spatio-temporal indexing and query processing techniques. Its implementation over two ORDBMSs and its utilization in various domains proves the expressive power and applicability of HERMES in different application domains where knowledge regarding movement data of an organization is essential. As a proof-of-concept, in this paper HERMES is applied to a case study related with vehicle traffic analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Preparing for Mobility Data Exploration",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_6",
+            "Abstract": "Exploring mobility data already collected and stored in efficient database systems is the next step of mobility data management. Historical data \u2018hide\u2019 a treasure of \u2018buried\u2019 knowledge that \u2018asks\u2019 for mining. To do so, the typical Knowledge Discovery in Data (KDD) process typically includes the organization of historical information in a Data Warehouse (DW), a first level of analysis exploiting on data cubes build upon the DW, according to a multi-dimensional model, and, then, a deeper look into the data in order to extract models and patterns that data obey or follow, using data mining techniques. In this chapter, we provide the preparatory actions in order for data mining to follow in the next chapter. In particular, we present DW approaches for mobility, especially for trajectory data (Sect. 6.1), discuss about the kind of multi-dimensional analysis that is suitable for mobility data and the challenges that arise due to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Online long-term trajectory prediction based on mined route patterns",
+            "Publication year": 2019,
+            "Publication url": "https://library.oapen.org/bitstream/handle/20.500.12657/23319/1006836.pdf?sequence=1#page=43",
+            "Abstract": "In this paper, we present a Big data framework for the prediction of streaming trajectory data by exploiting mined patterns of trajectories, allowing accurate long-term predictions with low latency. In particular, to meet this goal we follow a two-step methodology. First, we efficiently identify the hidden mobility patterns in an offline manner. Subsequently, the trajectory prediction algorithm exploits these patterns in order to prolong the temporal horizon of useful predictions. The experimental study is based on real-world aviation and maritime datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Inferring Relationships from Trajectory Data.",
+            "Publication year": 2015,
+            "Publication url": "http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2015/12.10.17.06/doc/proceedings2015_p6.pdf",
+            "Abstract": "Devices like smart phones and GPS navigators are very popular nowadays. These equipments can save the location of an object with an associated time, generating a new kind of data, called trajectories of moving objects. With these data it is possible to discover several interesting patterns, among which is the interaction between individuals, allowing to infer their relationship. This work addresses the discovery of relationship degree between moving objects based on their encounters. To calculate the relationship degree we propose different measures based on frequency, duration, and area of the encounters. These measures were evaluated in experiments with a running example and real trajectory data, and show that the method correctly infers relationships.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Trajectory Compression under Network Constraints",
+            "Publication year": 2009,
+            "Publication url": "https://www.academia.edu/download/44063222/Trajectory_Compression_under_Network_Con20160324-8325-uczt53.pdf",
+            "Abstract": "The wide usage of location aware devices, such as GPS-enabled cellphones or PDAs, generates vast volumes of spatiotemporal streams modeling objects movements, raising management challenges, such as efficient storage and querying. Therefore, compression techniques are inevitable also in the field of moving object databases. Moreover, due to erroneous measurements from GPS devices, the problem of matching the location recordings with the underlying traffic network has recently gained the attention of the research community. So far, the proposed compression techniques are not designed for network constrained moving objects, while map matching algorithms do not consider compression issues. In this paper, we propose solutions tackling the combined, map matched trajectory compression problem, the efficiency of which is demonstrated through an experimental evaluation using a real trajectory dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spatio-Temporal-Keyword Pattern Queries over Semantic Trajectories with Hermes@ Neo4j.",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12490079641665030500&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fuzzy miner: extracting fuzzy rules from numerical patterns",
+            "Publication year": 2005,
+            "Publication url": "https://www.igi-global.com/article/...extracting-fuzzy-rules/1748",
+            "Abstract": "We study the problem of classification as this is presented in the context of data mining. Among the various approaches that are investigated, we focus on the use of Fuzzy Logic for pattern classification, due to its close relation to human thinking. More specifically, this paper presents a heuristic fuzzy method for the classification of numerical data, followed by the design and the implementation of its corresponding tool (Fuzzy Miner). The initial idea comes from the fact that fuzzy systems are universal approximators of any real continuous function. Such an approximation method coming from the domain of fuzzy control is appropriately adjusted into pattern classification and an \u201cadaptive\u201d procedure is proposed for deriving highly accurate linguistic if-then rules. Extensive simulation tests are performed to demonstrate the performance of Fuzzy Miner, while a comparison with a neuro-fuzzy classifier of the area is taking \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Semantic trajectories modeling and analysis",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2501654.2501656",
+            "Abstract": "Focus on movement data has increased as a consequence of the larger availability of such data due to current GPS, GSM, RFID, and sensors techniques. In parallel, interest in movement has shifted from raw movement data analysis to more application-oriented ways of analyzing segments of movement suitable for the specific purposes of the application. This trend has promoted semantically rich trajectories, rather than raw movement, as the core object of interest in mobility studies. This survey provides the definitions of the basic concepts about mobility data, an analysis of the issues in mobility data management, and a survey of the approaches and techniques for: (i) constructing trajectories from movement tracks, (ii) enriching trajectories with semantic information to enable the desired interpretations of movements, and (iii) using data mining to analyze semantic trajectories and extract knowledge about their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:maZDTaKrznsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A framework for mobility pattern mining and privacy-aware querying of trajectory data",
+            "Publication year": 2012,
+            "Publication url": "https://www.uhasselt.be/documents/datasim/papers/a-framework-for-mobility-pattern-mining.pdf",
+            "Abstract": "1Mobility data sources feed larger and larger trajectory databases nowadays. Due to the need of extracting useful knowledge patterns that improve services based on users\u2019 and customers\u2019 behavior, querying and mining such databases has gained significant attention in recent years. Existing approaches for privacy-aware mobility data sharing aim at publishing an anonymized version of the mobility dataset, operating under the assumption that most of the information in the original dataset can be disclosed without causing any privacy violations. In this paper, we assume that the majority of the information that exists in the mobility dataset must remain private and the data has to stay inhouse to the hosting organization. To facilitate privacy-aware sharing of the mobility data we develop a trajectory query engine that allows subscribed users to gain restricted access to the database to accomplish various analytic tasks. The proposed engine (i) audits queries for trajectory data to block potential attacks to user privacy,(ii) supports range, distance, and k-nearest neighbor spatial and spatiotemporal queries, and (iii) preserves user anonymity in answers to queries by (a) returning a set of carefully crafted, realistic fakes trajectories, and (b) ensuring that no user-specific sensitive locations are reported as part of the returned trajectories. Along this direction, we also present Private-HERMES, a platform that provides a two-dimension benchmark framework that includes:(i) the aforementioned privacy-aware trajectory query engine and (ii) a progressive analysis framework, which, apart from anonymization methods for data publishing, includes various well \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fuzzy clustering of intuitionistic fuzzy data",
+            "Publication year": 2008,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBIDM.2008.017975",
+            "Abstract": "Challenged by real-world clustering problems this paper proposes a novel fuzzy clustering scheme of datasets produced in the context of intuitionistic fuzzy set theory. More specifically, we introduce a variant of the Fuzzy C-Means (FCM) clustering algorithm that copes with uncertainty and a similarity measure between intuitionistic fuzzy sets, which is appropriately integrated in the clustering algorithm. We describe an intuitionistic fuzzification of colour digital images upon which we applied the proposed scheme. The experimental evaluation of the proposed scheme shows that it can be more efficient and more effective than the well-established FCM algorithm, opening perspectives for various applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Sampling-based Sub-Trajectory Clustering",
+            "Publication year": 2013,
+            "Publication url": "http://infolab.cs.unipi.gr/technical_reports/TR-2013-02.pdf",
+            "Abstract": "Knowledge discovery over mobility data [13] exposes patterns of moving objects that can be exploited in several fields. For example, in both mature (transportation, climatology, zoology, etc.) and emerging domains, such as mobile social networks, scientists work with mobility (mostly GPS) data, resulting in Moving Object Databases (MOD) consisting of trajectories of moving objects. Although during the last decade, there have been significant achievements in the field [13], researchers continuously call for new methods aiming at deeper comprehension and analysis of mobility data.In the literature of mobility data mining one can identify several types of mining models used to describe various collective behavioral patterns. As such, there are works that propose classification schemes for trajectory data [28], identify various types of clusters of moving objects [12][31][27][38], moving clusters [30][22], sequential trajectory patterns [14], flocks [5], convoys [21], swarms [29], outliers [26] and others.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient ais data processing for environmentally safe shipping",
+            "Publication year": 2013,
+            "Publication url": "https://spoudai.unipi.gr/index.php/spoudai/article/view/81",
+            "Abstract": "Reducing ship accidents at sea is important to all economic, environmental, and cultural sectors of Greece. Despite an increase in traffic and national monitoring, ships formulate routes according to their best judgment risking an accident. In this study we take a dataset spanning in 3 years from the AIS (Automatic Identification System) network, which is transmitting in public a ship's identity and location with an interval of seconds, and we load it in a trajectory database supported by the Hermes Moving Objects Database (MOD) system. Presented analysis begins by extracting statistics for the dataset, both general (number of ships and position reports) as well as safety related ones. Simple queries on the dataset illustrate the capabilities of Hermes and allow to gain insight on how the ships move in the Greek Seas. Analysis of movement based on an Origin-Destination matrix between interesting areas in the Greek territory is presented. One of the newest challenges that emerged during this process is that the amount of the positioning data is becoming more and more massive. As a conclusion, a preliminary review of possible solutions to this challenge along with others such as dealing with the noise in AIS data is mentioned and we also briefly discuss the need for interdisciplinary cooperation.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mobility Data Management and Exploration: Theory and Practice",
+            "Publication year": 2011,
+            "Publication url": "http://infolab.cs.unipi.gr/MDMEbook/slides/ch01.pdf",
+            "Abstract": "\u220e Location data from mobile phones\u2751 ie, cell positions in the GSM/UMTS network\u220e Location data from GPS-equipped devices\u2751 Humans (pedestrians, drivers) with GPS-equipped smartphones\u2751 Vessels with AIS transmitters (due to maritime regulations)\u220e Location data from intelligent transportation environments\u2751 Vehicular ad-hoc networks (VANET)\u220e Location data from indoor posistioning systems\u2751 RFIDs (radio-frequency ids)\u2751 Wi-Fi access points\u2751 Bluetooth sensors",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Online event recognition from moving vessel trajectories",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10707-016-0266-x.pdf",
+            "Abstract": "We present a system for online monitoring of maritime activity over streaming positions from numerous vessels sailing at sea. The system employs an online tracking module for detecting important changes in the evolving trajectory of each vessel across time, and thus can incrementally retain concise, yet reliable summaries of its recent movement. In addition, thanks to its complex event recognition module, this system can also offer instant notification to marine authorities regarding emergency situations, such as suspicious moves in protected zones, or package picking at open sea. Not only did our extensive tests validate the performance, efficiency, and robustness of the system against scalable volumes of real-world and synthetically enlarged datasets, but its deployment against online feeds from vessels has also confirmed its capabilities for effective, real-time maritime surveillance.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Boosting location-based services with a moving object database engine",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1140104.1140108",
+            "Abstract": "Composition of temporal and spatial properties of real world objects in a unified data framework results into Moving Object Databases (MOD). MODs are able to process, manage and analyze discretely or continuously changing spatio-temporal data. This paper presents Hermes Moving Data Cartridge, which provides MOD functionality to OpenGIS-compatible state-of-the-art Object-Relational DBMS. Hermes is designed to be used as a pure temporal or a pure spatial system, however, its main application is to support modeling and querying of moving objects. A relevant collection of abstract data types (ADT) and their corresponding operations are defined, developed and provided as a data cartridge extending SQL-like query languages with MOD semantics. The usefuleness of the resulting query language is demonstrated by developing an application on top of this framework, which builds and visualizes the results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal time-dependent sequenced route queries in road networks",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2820783.2820846",
+            "Abstract": "In this paper we present an algorithm for optimal processing of time-dependent sequenced route queries in road networks, ie, given a road network where the travel time over an edge is time-dependent and a given ordered list of categories of interest, we find the fastest route between an origin and destination that passes through a sequence of points of interest belonging to each of the specified categories of interest. Our approach uses the A* search paradigm equipped with an admissible heuristic function, thus guaranteed to yield the optimal solution, along with a pruning scheme for further reducing the search space. Our experiments using a real data set have shown our proposed solution to be up to two orders of magnitude faster than a previous solution extended to handle time-dependency.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A framework for trajectory data warehousing",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Gerasimos-Marketos/publication/228971768_A_Framework_for_Trajectory_Data_Warehousing/links/0fcfd505bbc883c370000000/A-Framework-for-Trajectory-Data-Warehousing.pdf",
+            "Abstract": "Technological advances in sensing technologies and wireless telecommunication devices enable novel research fields related to the management of trajectory data. As it usually happens in data management world, the challenge after storing the data is the implementation of appropriate analytics that could extract useful knowledge. However, traditional data warehousing systems and techniques were not designed for analyzing trajectory data. Thus, in this work, we investigate how the traditional data cube model is adapted to trajectory warehouses in order to transform raw location data into valuable information. In particular, we focus our research on three issues that are critical to trajectory data warehousing:(a) the trajectory reconstruction procedure that takes place in order to transform sampled location data originated eg from GPS recordings into trajectories and load them to a moving object database,(b) the ETL procedure that feeds a trajectory data warehouse, and (c) the aggregation of cube measures for OLAP purposes. We provide design solutions for all these issues and we test their applicability and efficiency in real world settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fuzzy Miner: Extracting Fuzzy Rules from Numerical Patterns",
+            "Publication year": 2008,
+            "Publication url": "https://www.research.manchester.ac.uk/portal/en/publications/fuzzy-miner-extracting-fuzzy-rules-from-numerical-patterns(947fb5f2-d1f8-4038-8e96-a7f73c9aad52).html",
+            "Abstract": "Fuzzy Miner: Extracting Fuzzy Rules from Numerical Patterns | Research Explorer | The \nUniversity of Manchester The University of Manchester Menu Search the University of \nManchester site Search Search text Search type Research Explorer Website Staff directory \nAlternatively, use our A\u2013Z index Home Study Undergraduate Undergraduate Courses \nProspectus (undergraduate) Offer-holders Undergraduate Teaching and learning \nExpanding your study (undergraduate) After you graduate (undergraduate) Undergraduate \nApplications Undergraduate Student finance Webinars (undergraduate) Contextual \nadmissions Mature students Parents and supporters Contact us (undergraduate) Taught \nmaster's Why study a master's? Why Manchester? (taught master's) Taught master's \nCourses Teaching and learning (taught master's) After you graduate (taught master's) \nPostgraduate prospectus (taught master's) Admissions () (\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Information Science Reference"
+        },
+        {
+            "Title": "\" Big data\" in health care.",
+            "Publication year": 2016,
+            "Publication url": "https://www.mednet.gr/archives/2016-4/pdf/489.pdf",
+            "Abstract": "OBJECTIVETo examine how common key performance indicators (KPIs) change when clinical workload indicators of hospitals, based on diagnosis-related group (DRG) data, are incorporated in the measurement analysis. From the data and knowledge management perspective the available data fulfill all four \u201cV\u201d challenges (volume, velocity, variety, veracity) and the \u201cD\u201d challenge (distribution of data sources) that characterize the \u201cbig data\u201d era. METHOD Analysis was made of the annual detailed financial, operational and patient data as recorded by the ESY. net web application, for 129 Greek National Health System (NHS) hospitals. Four KPIs were calculated based on the hospital financial and patient data. The indicators were then adjusted to the case mix (ie, clinical workload) of the units, using a hospital clinical weight (HCW) indicator based on the DRG data. RESULTSSignificant changes in the KPIs resulted from adjustment according to DRG, in both percentages and the relative ranking of hospitals as efficient and inefficient. After adjustment, improvement in indicators and relative ranking was observed for hospitals with more severe than average incidents, such as cancer hospitals, cardiac surgery centers, etc., but also for some general hospitals and health centers, while other small health centers and regional hospitals ranked lower after adjustment. CONCLUSIONS The significant changes in the performance ranking of hospitals observed after adjustment of the KPIs according to the clinical workload of the units, render this tool inappropriate for use by decision makers in the health care sector, ie, the Ministry of Health (MoH), as they \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The case of big mobility data",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_10",
+            "Abstract": "Trillions of bytes of information are being collected by companies about their customers, suppliers, and operations. Devices, such as mobile phones, tablets, smart energy meters, automobiles, industrial machines, carry millions of networked sensors which create huge portions of data that are channeled in the Internet of Things (IoT). In addition, the massive participation of individuals on social networking sites will continue to fuel exponential data growth. Hence, the enormous amount of data being produced in our world during the last decades has posed new challenges in the world of data management. Various methods and technologies have been developed and adapted in order to store, manage, analyze, and visualize the complex vast quantities of data in an efficient way. In this chapter, we introduce the reader to the concept of Big Data management and, then, we highlight interesting works made so far \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "A Survey on Big Data Processing Frameworks for Mobility Analytics",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3484622.3484626",
+            "Abstract": "In the current era of big spatial data, the vast amount of produced mobility data (by sensors, GPS-equipped devices, surveillance networks, radars, etc.) poses new challenges related to mobility analytics. A cornerstone facilitator for performing mobility analytics at scale is the availability of big data processing frameworks and techniques tailored for spatial and spatio-temporal data. Motivated by this pressing need, in this paper, we provide a survey of big data processing frameworks for mobility analytics. Particular focus is put on the underlying techniques; indexing, partitioning, query processing are essential for enabling efficient and scalable data management. In this way, this report serves as a useful guide of state-of-the-art methods and modern techniques for scalable mobility data management and analytics.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:_B80troHkn4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Intuitionistic fuzzy clustering to information retrieval from cultural databases",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Dimitris-Iakovidis/publication/228649480_Intuitionistic_Fuzzy_Clustering_to_Information_Retrieval_from_Cultural_Databases/links/0912f5087902c16d0b000000/Intuitionistic-Fuzzy-Clustering-to-Information-Retrieval-from-Cultural-Databases.pdf",
+            "Abstract": "Content-based information retrieval (IR) involves low-level feature extraction and utilize similarity search methods applied either in the feature space or in derived higher-level semantic spaces. These methods assume that similarity is measured by accounting only the degree in which two entities are related, ignoring the hesitancy introduced by the degree in which they are unrelated. Aiming at semantically relevant IR from cultural databases, this paper proposes a novel intuitionistic fuzzy clustering scheme based on intuitive features and a similarity defined over higher-level patterns.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Semantic-aware aircraft trajectory prediction using flight plans",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/article/10.1007/s41060-019-00182-4",
+            "Abstract": "Aircraft trajectory prediction (TP) is a challenging and inherently data-driven time-series modeling problem. Adding annotation or enrichment parameters further increases the search space complexity, especially when \u2018blind\u2019 optimization algorithms are employed. In this paper, flight plans, localized weather and aircraft properties are introduced as trajectory annotations that enable modeling in a space higher than the typical 4-D spatio-temporal. A multi-stage hybrid approach is employed for a new variation of the core TP task, the so-called Future Semantic Trajectory Prediction, including clustering the enriched trajectory data using a semantic-aware similarity function as distance metric. Subsequently, a separate predictive model is trained for each cluster, using a nonuniform graph-based grid that is formed by the waypoints of each flight plan. In practice, flight plans constitute a constrained-based training of each \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Clustering trajectories of moving objects in an uncertain world",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5360267/",
+            "Abstract": "Mining trajectory databases (TD) has gained great interest due to the popularity of tracking devices. On the other hand, the inherent presence of uncertainty in TD (e.g., due to GPS errors) has not been taken yet into account during the mining process. In this paper, we study the effect of uncertainty in TD clustering and introduce a three-step approach to deal with it. First, we propose an intuitionistic point vector representation of trajectories that encompasses the underlying uncertainty and introduce an effective distance metric to cope with uncertainty. Second, we devise CenTra, a novel algorithm which tackles the problem of discovering the centroid trajectory of a group of movements. Third, we propose a variant of the fuzzy C-means (FCM) clustering algorithm, which embodies CenTra at its update procedure. The experimental evaluation over real world TD demonstrates the efficiency and effectiveness of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Trajectory based traffic analysis",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2525314.2525322",
+            "Abstract": "We present the INTRA system for interactive path-based traffic analysis. The analyses are developed in collaboration with traffic researchers and provide novel insights into conditions such as congestion, travel-time, choice of route, and traffic-flow. INTRA supports interactive point-and-click analysis, due to a novel and efficient indexing structure. With the web-site daisy. aau. dk/its/spqdemo/we will demonstrate several analyses, using a very large real-world data set consisting of 1.9 billion GPS records (1.5 million trajectories) recorded from more than 13 000 vehicles, and touching most of the road network in Denmark.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Background on Spatial Data Management and Exploration",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_2",
+            "Abstract": "Before studying mobility data, we have to make a short tour at the (stationary) spatial domain. For decades, spatial information has been studied thoroughly; from Cartography and Geodesy to Geographical Information Systems (GIS) and Spatial Database Management Systems (SDBMS); this is justified due to its importance and ubiquity in our everyday lives. Database community has followed the paradigm of extended DBMS and provided inherent spatial functionality in geographical data collections by developing spatial data types, operators and methods for querying, as well as indexing techniques. At the exploration level, multi-dimensional online analytical processing (OLAP) and knowledge discovery in databases (KDD) have attracted excellent results at the spatial domain. In this chapter, we review spatial database management (modeling, indexing, query processing) and exploration aspects (data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Map-matched trajectory compression",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121213000289",
+            "Abstract": "The wide usage of location aware devices, such as GPS-enabled cellphones or PDAs, generates vast volumes of spatiotemporal streams of location data raising management challenges, such as efficient storage and querying. Therefore, compression techniques are inevitable also in the field of moving object databases. Related work is relatively limited and mainly driven by line simplification and data sequence compression techniques. Moreover, due to the (unavoidable) erroneous measurements from GPS devices, the problem of matching the location recordings with the underlying traffic network has recently gained the attention of the research community. So far, the proposed compression techniques have not been designed for network constrained moving objects, while on the other hand, existing map matching algorithms do not take compression aspects into consideration. In this paper, we propose solutions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Intuitionistic fuzzy clustering with applications in computer vision",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-88458-3_69",
+            "Abstract": "Intuitionistic fuzzy sets are generalized fuzzy sets whose elements are characterized by a membership, as well as a non-membership value. The membership value indicates the degree of belongingness, whereas the non-membership value indicates the degree of non-belongingness of an element to that set. The utility of intuitionistic fuzzy sets theory in computer vision is increasingly becoming apparent, especially as a means to coping with noise. In this paper, we investigate the issue of clustering intuitionistic fuzzy image representations. To achieve that we propose a clustering approach based on the fuzzy c-means algorithm utilizing a novel similarity metric defined over intuitionistic fuzzy sets. The performance of the proposed algorithm is evaluated for object clustering in the presence of noise and image segmentation. The results indicate that clustering intuitionistic fuzzy image representations can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Big Data Management and Analytics for Mobility Forecasting in datAcron.",
+            "Publication year": 2017,
+            "Publication url": "https://core.ac.uk/download/pdf/144800494.pdf",
+            "Abstract": "The exploitation of heterogeneous data sources offering very large historical and streaming data is important to increasing the accuracy of operations when analysing and predicting future states of moving entities (planes, vessels, etc.). This article presents the overall goals and big data challenges addressed by datAcron1 on big data analytics for time-critical mobility forecasting.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Moving objects analytics: survey on future location & trajectory prediction methods",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1807.04639",
+            "Abstract": "The tremendous growth of positioning technologies and GPS enabled devices has produced huge volumes of tracking data during the recent years. This source of information constitutes a rich input for data analytics processes, either offline (e.g. cluster analysis, hot motion discovery) or online (e.g. short-term forecasting of forthcoming positions). This paper focuses on predictive analytics for moving objects (could be pedestrians, cars, vessels, planes, animals, etc.) and surveys the state-of-the-art in the context of future location and trajectory prediction. We provide an extensive review of over 50 works, also proposing a novel taxonomy of predictive algorithms over moving objects. We also list the properties of several real datasets used in the past for validation purposes of those works and, motivated by this, we discuss challenges that arise in the transition from conventional to Big Data applications. CCS Concepts: Information systems > Spatial-temporal systems; Information systems > Data analytics; Information systems > Data mining; Computing methodologies > Machine learning Additional Key Words and Phrases: mobility data, moving object trajectories, trajectory prediction, future location prediction.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Basic concepts of movement data",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75177-9_2",
+            "Abstract": "From ancient days, people have observed various moving entities, from insects and fishes to planets and stars, and investigated their movement behaviours. Although methods that were used in earlier times for observation, measurement, recording, and analysis of movements are very different from modern technologies, there is still much to learn from past studies. First, this is the thorough attention paid to the multiple aspects of movement. These include not only the trajectory (path) in space, characteristics of motion itself such as speed and direction, and their dynamics over time but also characteristics and activities of the entities that move. Second, this is the striving to relate movements to properties of their surroundings and to various phenomena and events.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Visual techniques for the interpretation of data mining outcomes",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11573036_3",
+            "Abstract": "The visual senses for humans have a unique status, offering a very broadband channel for information flow. Visual approaches to analysis and mining attempt to take advantage of our abilities to perceive pattern and structure in visual form and to make sense of, or interpret, what we see. Visual Data Mining techniques have proven to be of high value in exploratory data analysis and they also have a high potential for mining large databases. In this work, we try to investigate and expand the area of visual data mining by proposing a new 3-Dimensional visual data mining technique for the representation and mining of classification outcomes and association rules. Categories: I.2.4, I.2.6 Research Paper: Data Bases, Work Flow and Data mining",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "International Journal of Knowledge-Based Organizations",
+            "Publication year": 2015,
+            "Publication url": "https://www.igi-global.com/pdf.aspx?tid%3D125580%26ptid%3D118838%26ctid%3D15%26t%3Dtable+of+contents",
+            "Abstract": "International Journal of Knowledge-Based Organizations Page 1 The International Journal of \nKnowledge-Based Organizations is indexed or listed in the following: Bacon\u2019s Media Directory; \nCabell\u2019s Directories; DBLP; Google Scholar; INSPEC; JournalTOCs; MediaFinder; ProQuest \nAdvanced Technologies & Aerospace Journals; ProQuest Computer Science Journals; \nProQuest Engineering Journals; ProQuest Illustrata: Technology; ProQuest SciTech Journals; \nProQuest Technology Journals; The Standard Periodical Directory; Ulrich\u2019s Periodicals \nDirectory Copyright The International Journal of Knowledge-Based Organizations (IJKBO) (ISSN \n2155-6393; eISSN 2155-6407), Copyright \u00a9 2015 IGI Global. All rights, including translation \ninto other languages reserved by the publisher. No part of this journal may be reproduced or \nused in any form or by any means without written permission from the publisher, except for , . \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On preserving sensitive information of multiple aspect trajectories in-house",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3308560.3317594",
+            "Abstract": "Nowadays, human trajectories are enriched with semantic information having multiple aspects, such as by using background geographic information, by user-provided data via location-based social media, as well as by data coming from various kind of sensing devices. This new type of multiple aspects representation of personal movements as sequences of places visited by a person during his/her movement poses even greater privacy violation threats. This paper provides the blueprint of a semantic-aware Moving Object Database (MOD) engine for privacy-aware sharing of such enriched mobility data and introduces an attack prevention mechanism where all potential privacy breaches that may occur when answering a query, are prevented through an auditing methodology. Towards enhancing the user-friendliness of our approach, we propose a mechanism whose objective is to modify the user queries that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient AIS Data Processing for Environmentally Safe Shipping",
+            "Publication year": 2013,
+            "Publication url": "https://sam.ensam.eu/handle/10985/9624",
+            "Abstract": "Reducing ship accidents at sea is important to all economic, environmental, and cultural sectors of Greece. Despite an increase in traffic and national monitoring, ships formulate routes according to their best judgment risking an accident. In this study we take a dataset spanning in 3 years from the AIS (Automatic Identification System) network, which is transmitting in public a ship's identity and location with an interval of seconds, and we load it in a trajectory database supported by the Hermes Moving Objects Database (MOD) system. Presented analysis begins by extracting statistics for the dataset, both general (number of ships and position reports) as well as safety related ones. Simple queries on the dataset illustrate the capabilities of Hermes and allow to gain insight on how the ships move in the Greek Seas. Analysis of movement based on an Origin-Destination matrix between interesting areas in the Greek territory is presented. One of the newest challenges that emerged during this process is that the amount of the positioning data is becoming more and more massive. As a conclusion, a preliminary review of possible solutions to this challenge along with others such as dealing with the noise in AIS data is mentioned and we also briefly discuss the need for interdisciplinary cooperation.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:D03iK_w7-QYC",
+            "Publisher": "University of Piraeus"
+        },
+        {
+            "Title": "Big data analytics for time critical maritime and aerial mobility forecasting",
+            "Publication year": 2018,
+            "Publication url": "https://openaccess.city.ac.uk/id/eprint/22887/",
+            "Abstract": "The correlated exploitation of heterogeneous data sources offering very large archival and streaming data is important to increase the accuracy of computations when analysing and predicting future states of moving entities. Aiming to significantly advance the capacities of systems to improve safety and effectiveness of critical operations involving a large number of moving entities in large geographical areas, this paper describes progress achieved towards time critical big data analytics solutions to user-defined challenges in the air-traffic management and maritime domains. Besides, this paper presents further research challenges concerning data integration and management, predictive analytics for trajectory and events forecasting, and visual analytics.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On temporal-constrained sub-trajectory cluster analysis",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/article/10.1007/s10618-017-0503-4",
+            "Abstract": "Cluster analysis over Moving Object Databases (MODs) is a challenging research topic that has attracted the attention of the mobility data mining community. In this paper, we study the temporal-constrained sub-trajectory cluster analysis problem, where the aim is to discover clusters of sub-trajectories given an ad-hoc, user-specified temporal constraint within the dataset\u2019s lifetime. The problem is challenging because: (a) the time window is not known in advance, instead it is specified at query time, and (b) the MOD is continuously updated with new trajectories. Existing solutions first filter the trajectory database according to the temporal constraint, and then apply a clustering algorithm from scratch on the filtered data. However, this approach is extremely inefficient, when considering explorative data analysis where multiple clustering tasks need to be performed over different temporal subsets of the database \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Mobility Data Management",
+            "Publication year": 2011,
+            "Publication url": "http://people.cs.aau.dk/~tbp/MobilityDataManagement/L1-Intro.pdf",
+            "Abstract": "Mobility Data Management Mobility Data Management Page 1 1 Mobility Data Management \nYannis Theodoridis & Nikos Pelekis InfoLab, University of Piraeus, Greece infolab.cs.unipi.gr \nAalborg, September 2011 Mobility Data Management Yannis Theodoridis & Nikos Pelekis \nInfoLab, University of Piraeus, Greece infolab.cs.unipi.gr Aalborg, September 2011 Page 2 2 \n3 Acknowledgments \u220e The content of this tutorial has been inspired by partners\u2019 work in the \nfollowing EU projects: \u2751 FP6/GeoPKDD (http://www.geopkdd.eu), 2005-09 \u2751 FP7/MODAP \n(http://www.modap.org), 2009-12 \u2751 ESF/COST-MOVE (http://move-cost.info), 2009-13 \u220e \nAlso, special thanks to our colleagues at InfoLab, U. Piraeus GeoPKDD Geographic Privacy-aware \nKnowl. Discovery & Delivery 4 Log file \u220e Previous versions of this material: \u2751 2011 \u220e Mobility \nData Management. Post-graduate course @ KAUST, Jeddah, Saudi Arabia, June 2011. \u220e -. '\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Clustering uncertain trajectories",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s10115-010-0316-x",
+            "Abstract": "Knowledge discovery in Trajectory Databases (TD) is an emerging field which has recently gained great interest. On the other hand, the inherent presence of uncertainty in TD (e.g., due to GPS errors) has not been taken yet into account during the mining process. In this paper, we study the effect of uncertainty in TD clustering and introduce a three-step approach to deal with it. First, we propose an intuitionistic point vector representation of trajectories that encompasses the underlying uncertainty and introduce an effective distance metric to cope with uncertainty. Second, we devise CenTra, a novel algorithm which tackles the problem of discovering the Centroid Trajectory of a group of movements taking into advantage the local similarity between portions of trajectories. Third, we propose a variant of the Fuzzy C-Means (FCM) clustering algorithm, which embodies CenTra at its update procedure. Finally, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "MetaOn-Ontology driven metadata construction and management for intelligent search in text and image collections",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1698384/",
+            "Abstract": "State of the art in multimedia technology focuses in managing data collected from various sources, including documents, images, video, and speech. Therefore the effective management, analysis and mining of such heterogeneous data require the combination of various techniques. In this paper, we present an overview of the funded MetaOn project. The core objective of MetaOn is to construct and integrate semantically rich metadata collections extracted from documents, images and linguistic resources, to facilitate intelligent search and analysis. The proposed MetaOn framework involves ontology-based information extraction and data mining, semi-automatic construction of domain specific ontologies, content-based image indexing and retrieval, and metadata management. The Hellenic history has been chosen as a challenging application case study",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hermoupolis: a semantic trajectory generator in the data science era",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2782759.2782764",
+            "Abstract": "The domain of trajectory data management and mining undoubtedly contributes with interesting research problems and corresponding effective solutions to what is called data science. An interesting trend that poses new challenges in the field and has emerged especially due to the advance of location-based social networks, is that involved data cannot be considered purely spatiotemporal; trajectories of moving objects also contain additional semantic information that deserves to be further explored. On the other hand, the recently available real trajectory datasets are neither adequate nor appropriate for a wide empirical evaluation of related research proposals. As in other domains, a practical approach to overcome this limitation is developing efficient and functional synthetic trajectory generators. In this line of research, we present Hermoupolis, a pattern- and semantic-aware synthetic trajectory generator, which \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Similarity search in trajectory databases",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4438678/",
+            "Abstract": "Trajectory database (TD) management is a relatively new topic of database research, which has emerged due to the explosion of mobile devices and positioning technologies. Trajectory similarity search forms an important class of queries in TD with applications in trajectory data analysis and spatiotemporal knowledge discovery. In contrast to related works which make use of generic similarity metrics that virtually ignore the temporal dimension, in this paper we introduce a framework consisting of a set of distance operators based on primitive (space and time) as well as derived parameters of trajectories (speed and direction). The novelty of the approach is not only to provide qualitatively different means to query for similar trajectories, but also to support trajectory clustering and classification mining tasks, which definitely imply a way to quantify the distance between two trajectories. For each of the proposed distance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Despina Kopanaki",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15316727870475733131&hl=en&oi=scholarr",
+            "Abstract": "The preservation of privacy when publishing spatiotemporal traces of mobile humans is a field that is receiving growing attention. However, while more and more services offer personalized privacy options to their users, few trajectory anonymization algorithms are able to handle personalization effectively, without incurring unnecessary information distortion. In this paper, we study the problem of Personalized (K,)-anonymity, which builds upon the model of (k, \u03b4)-anonymity, while allowing users to have their own individual privacy and service quality requirements. First, we propose efficient modifications to state-of-the-art (k, \u03b4)-anonymization algorithms by introducing a novel technique built upon users\u2019 personalized privacy settings. This way, we avoid over-anonymization and we decrease information distortion. In addition, we utilize datasetaware trajectory segmentation in order to further reduce information distortion. We also study the novel problem of",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards a virtual agent control architecture using a spatiotemporal data management framework",
+            "Publication year": 2007,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.6491&rep=rep1&type=pdf",
+            "Abstract": "Virtual Agents are autonomous embodied entities in virtual environments that look and behave like living organisms. They are usually equipped with sensors that read the state of the environment and effectors that apply actions on other entities. Believable agent behavior requires nonomniscience: each agent should contain its own representation of the environment based on its sensing abilities and its interaction history. However, the storage and maintenance of a multitude of different knowledge bases in a dynamic environment with a large number of agents raises memory and performance issues, as data is duplicated and a lot of calculations are repeated. This paper presents an architecture for multiagent virtual environments that is based on a spatiotemporal database, which maintains an abstract representation of the environment and the moving entities, and delivers all the sensory information required by the agents. The use of the spatiotemporal database enhances the agents\u2019 reasoning about the position and motion of other entities by providing a number of queries for spatiotemporal reasoning.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Future Location and Trajectory Prediction",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-45164-6_8",
+            "Abstract": "This chapter presents modern approaches and frameworks for predicting trajectories with detailed descriptions of three main research pillars. The first pillar is the problem formulation regarding two complementary tasks, namely the Future Location Prediction (FLP) and the Trajectory Prediction (TP). The second pillar tackles the issue of effectiveness, efficiency, and scalability    scalability  for the corresponding predictive analytics models for big fleets of moving objects. Finally, the third pillar takes into account historical patterns and semantically rich contextual information, so as to improve the prediction accuracy, especially for long-term time windows. The overall assessment of these methods shows that the suite of FLP and TP algorithms developed addresses all the major prediction challenges regarding mobility patterns in terms of points or trajectories, respectively. It is expected that these modeling approaches \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Cost Models and Efficient Algorithms on Existentially Uncertain Spatial Data",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4621532/",
+            "Abstract": "The domain of existentially uncertain spatial data refers to objects that are modelled using an existential probability accompanying spatial data values. An interesting and challenging query type over existentially uncertain data is the search of the nearest neighbor (NN), since the probability of a potential dataset object to be the NN of the query object depends on the locations and probabilities of other points in the same dataset. In this paper, following a statistical approach, we estimate the average number of the NNsrequired to answer probabilistic thresholding NN(PTNN) queries as function of the threshold t, allowing us to utilize existing approaches and propose a cost model for such queries. Based on the same statistical approach, we propose an efficient algorithm for PTNN queries over arbitrarily structured existentially uncertain spatial data. Our experimental study demonstrates the accuracy and efficiency of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Baquara: A holistic ontological framework for movement analysis using linked data",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41924-9_28",
+            "Abstract": "Movement understanding frequently requires further information and knowledge than what can be obtained from bare spatio-temporal traces. Despite recent progress in trajectory data management, there is still a gap between the spatio-temporal aspects and the semantics involved. This gap hinders trajectory analysis benefiting from growing collections of linked data, with well-defined and widely agreed semantics, already available on the Web. This article introduces Baquara, an ontology with rich constructs, associated with a system architecture and an approach to narrow this gap. The Baquara ontology functions as a conceptual framework for semantic enrichment of movement data with annotations based on linked data. The proposed architecture and approach reveal new possibilities for trajectory analysis, using database management systems and triple stores extended with spatial data and operators \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the Support of Mobility in ORDBMS",
+            "Publication year": 2014,
+            "Publication url": "https://www.igi-global.com/article/on-the-support-of-mobility-in-ordbms/109590",
+            "Abstract": "Composition of space and mobility in a unified data framework results into Moving Object Databases (MOD). MOD management systems support storage and query processing of non-static spatial objects and provide essential operations for higher level analysis of movement data. The goal of this paper is to present Hermes MOD engine that supports the aforementioned functionality through appropriate data types and methods in Object-Relational DBMS (ORDBMS) environments. In particular, Hermes exploits on the extensibility interface of ORDBMS that already have extensions for static spatial data types and methods that follow the Open Geospatial Consortium (OGC) standard, and extends the ORDBMS by supporting time-varying geometries that change their position and/or extent in space and time dimensions, either discretely or continuously. It further extends the data definition and manipulation language of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:u_35RYKgDlwC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Trajectory data models",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75177-9_6",
+            "Abstract": "Trajectory databases is an important research area that has received a lot of interest in the last decade. The objective of trajectory databases is to extend database technology to support the representation and querying of moving objects and their trajectory.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Trajectory collection and reconstruction",
+            "Publication year": 2013,
+            "Publication url": "https://air.unimi.it/handle/2434/226224",
+            "Abstract": "The research area of trajectory databases has addressed the need for representing movements of objects (ie, trajectories) in databases in order to perform ad-hoc querying and analysis on them. During the last decade, there has been a lot of research ranging from data models and query languages to implementation aspects, such as efficient indexing, query processing and optimization techniques.This chapter covers aspects related to data collection and handling so as to feed trajectory databases with appropriate data. We will also focus on the step trajectory reconstruction of the Geographic Privacy-aware KDD process (illustrated in Figure 2.1) emerged from the GeoPKDD project which proposed some solid theoretical foundations at an appropriate level of abstraction to deal with traces and trajectories of moving objects aiming at serving real world applications. This process consists of a set of techniques and methodologies that are applicable on mobility data and are organized in some well-defined and individual steps that have a clear target: to extract user-consumable forms of knowledge from large amounts of raw geographic data referenced in space and in time. However, when mobility data is about individuals, data collection is subject to privacy regulations and restrictions. To enable privacy-aware collection of position data, a complementary class of techniques are used, known as location PETs (privacy-enhancing technologies). This KDD process can be applied to heterogeneous sources of mobility data. The cellphone icon that is illustrated in Figure 2.1 could represent various data sets coming from various devices. In Section 2.2, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "3D Class-Preserving Projection Technique for the Representation of N-Dimensional Classified Data and Association Rules",
+            "Publication year": 2005,
+            "Publication url": "https://www.academia.edu/download/44063240/D_Class-Preserving_Projection_Technique_20160324-8212-1dvq8cu.pdf",
+            "Abstract": "The visual senses for humans have a unique status, offering a very broadband channel for information flow. Visual approaches to analysis and mining attempt to take advantage of our abilities to perceive pattern and structure in visual form and to make sense of, or interpret, what we see. Visual Data Mining techniques have proven to be of high value in exploratory data analysis and they also have a high potential for mining large databases. In this work, we try to investigate and expand the area of visual data mining by proposing a new 3-Dimensional visual data mining technique for the representation and mining of classifiaction outcomes and association rules.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MaSEC: Discovering Anchorages and Co-movement Patterns on Streaming Vessel Trajectories",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3469830.3470909",
+            "Abstract": "The massive-scale data generation of positioning (tracking) messages, collected by various surveillance means, has posed new challenges in the field of mobility data analytics in terms of extracting valuable knowledge out of this data. One of these challenges is online cluster analysis, where the goal is to unveil hidden patterns of collective behaviour from streaming trajectories, such as co-movement and co-stationary (aka anchorage) patterns. Towards this direction, in this paper, we demonstrate MaSEC (Moving and Stationary Evolving Clusters), a system that discovers valuable behavioural patterns as above. In particular, our system provides a unified solution that discovers both moving and stationary evolving clusters on streaming vessel position data in an online mode. The functionality of our system is evaluated over two real-world datasets from the maritime domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hot spot analysis over big trajectory data",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8622376/",
+            "Abstract": "Hot spot analysis is the problem of identifying statistically significant spatial clusters from an underlying data set. In this paper, we study the problem of hot spot analysis for massive trajectory data of moving objects, which has many real-life applications in different domains, especially in the analysis of vast repositories of historical traces of spatio-temporal data (cars, vessels, aircrafts). In order to identify hot spots, we propose an approach that relies on the Getis-Ord statistic, which has been used successfully in the past for point data. Since trajectory data is more than just a collection of individual points, we formulate the problem of trajectory hot spot analysis, using the Getis-Ord statistic. We propose a parallel and scalable algorithm for this problem, called THS, which provides an exact solution and can operate on vast-sized data sets. Moreover, we introduce an approximate algorithm (aTHS) that avoids exhaustive \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mobility Database Management",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_4",
+            "Abstract": "Adding temporal information, as an extra attribute in spatial databases, is not as straightforward as it may appear at a first glance. Time is not yet another dimension besides the two (or three, in some applications) spatial dimensions; monotonicity, for example, is a key difference. Could we adopt \u201cas-is\u201d methods and techniques for spatial databases, such as the ones outlined in Chap. 2? The answer is rather not, and this has been argued extensively in the spatiotemporal database literature. Therefore, novel data types (e.g., moving points), query processing techniques (e.g., \u201csearch for trajectories that \u2018entered\u2019 an area during a timeframe\u201d or \u201csearch for trajectories that are \u2018similar\u2019 with respect to a reference trajectory\u201d) and indexing methods (most probably, extensions of the well-known R-tree) have been explored. This chapter surveys the above aspects, which are essential components of a database system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Mobility data management and exploration",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-1-4939-0392-4.pdf",
+            "Abstract": "Mobility data is ubiquitous, particularly due to the automated collection of timestamped location information from GPS-equipped devices, from everyday smartphones to dedicated software and hardware in charge of monitoring movement in land, sea, and air. Such wealth of data, referenced both in space and time, enables novel classes of applications and services of high societal and economic impact, provided that the discovery of consumable and concise knowledge out of these raw data collections is made possible. In this book, we aim at presenting a step-by-step methodology to understand, manage, and exploit mobility data: from the collecting and cleansing data stage to their storage in Moving Object Database (MOD) engines, and, then, analyzing and mining mobility data for decision-making purposes. Privacy aspects arising from handling mobility data and emerging topics, such as semantic-aware and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:eflP2zaiRacC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Trajectory compression under network constraints",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-02982-0_27",
+            "Abstract": "The wide usage of location aware devices, such as GPS-enabled cellphones or PDAs, generates vast volumes of spatiotemporal streams modeling objects movements, raising management challenges, such as efficient storage and querying. Therefore, compression techniques are inevitable also in the field of moving object databases. Moreover, due to erroneous measurements from GPS devices, the problem of matching the location recordings with the underlying traffic network has recently gained the attention of the research community. So far, the proposed compression techniques are not designed for network constrained moving objects, while map matching algorithms do not consider compression issues. In this paper, we propose solutions tackling the combined, map matched trajectory compression problem, the efficiency of which is demonstrated through an experimental evaluation using a real \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Building real-world trajectory warehouses",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1626536.1626539",
+            "Abstract": "The flow of data generated from low-cost modern sensing technologies and wireless telecommunication devices enables novel research fields related to the management of this new kind of data and the implementation of appropriate analytics for knowledge extraction. In this work, we investigate how the traditional data cube model is adapted to trajectory warehouses in order to transform raw location data into valuable information. In particular, we focus our research on three issues that are critical to trajectory data warehousing:(a) the trajectory reconstruction procedure that takes place when loading a moving object database with sampled location data originated eg from GPS recordings,(b) the ETL procedure that feeds a trajectory data warehouse, and (c) the aggregation of cube measures for OLAP purposes. We provide design solutions for all these issues and we test their applicability and efficiency in real world \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Time-aware Sub-Trajectory Clustering in Hermes@ PostgreSQL",
+            "Publication year": 2018,
+            "Publication url": "https://www.scipedia.com/public/Pelekis_et_al_2018b",
+            "Abstract": "In this paper, we present an efficient in-DBMS framework for progressive time-aware sub-trajectory cluster analysis. In particular, we address two variants of the problem:(a) spatiotemporal sub-trajectory clustering and (b) index-based time-aware clustering at querying environment. Our approach for (a) relies on a two-phase process: a voting-and-segmentation phase followed by a sampling-and-clustering phase. Regarding (b), we organize data into partitions that correspond to groups of sub-trajectories, which are incrementally maintained in a hierarchical structure. Both approaches have been implemented in Hermes@ PostgreSQL, a real Moving Object Database engine built on top of PostgreSQL, enabling users to perform progressive cluster analysis via simple SQL. The framework is also extended with a Visual Analytics (VA) tool to facilitate real world analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Privacy Preservation of Semantic Trajectory Databases using Query Auditing Techniques.",
+            "Publication year": 2017,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1071.8995&rep=rep1&type=pdf",
+            "Abstract": "Existing approaches that publish anonymized spatiotemporal traces of mobile humans deal with the preservation of privacy operating under the assumption that most of the information in the original dataset can be disclosed without causing any privacy violation. However, an alternative strategy considers that data stays in-house to the hosting organization and privacy-preserving mobility data management systems are in charge of privacy-aware sharing of the mobility data. Furthermore, human trajectories are nowadays enriched with semantic information by using background geographic information and/or by user-provided data via location-based social media. This new type of representation of personal movements as sequences of places visited by a person during his/her movement poses even greater privacy violation threats. To facilitate privacy-aware sharing of mobility data, we design a semantic-aware MOD engine were all potential privacy breaches that may occur when answering a query, are prevented through an auditing mechanism. Moreover, in order to improve user friendliness and system functionality of the aforementioned engine, we propose Zoom-Out algorithm as a distinct component, whose objective is to modify the initial query that cannot be answered at first due to privacy violation, to the \u2018nearest\u2019query that can be possibly answered with \u2018safety\u2019.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:UxriW0iASnsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Datastories at semeval-2017 task 6: Siamese lstm with attention for humorous text comparison",
+            "Publication year": 2017,
+            "Publication url": "https://www.aclweb.org/anthology/S17-2065.pdf",
+            "Abstract": "In this paper we present a deep-learning system that competed at SemEval-2017 Task 6\"# HashtagWars: Learning a Sense of Humor\u201d. We participated in Subtask A, in which the goal was, given two Twitter messages, to identify which one is funnier. We propose a Siamese architecture with bidirectional Long Short-Term Memory (LSTM) networks, augmented with an attention mechanism. Our system works on the token-level, leveraging word embeddings trained on a big collection of unlabeled Twitter messages. We ranked 2nd in 7 teams. A post-completion improvement of our model, achieves state-of-the-art results on# HashtagWars dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Segmentation and sampling of moving object trajectories based on representativeness",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5710924/",
+            "Abstract": "Moving Object Databases (MOD), although ubiquitous, still call for methods that will be able to understand, search, analyze, and browse their spatiotemporal content. In this paper, we propose a method for trajectory segmentation and sampling based on the representativeness of the (sub)trajectories in the MOD. In order to find the most representative subtrajectories, the following methodology is proposed. First, a novel global voting algorithm is performed, based on local density and trajectory similarity information. This method is applied for each segment of the trajectory, forming a local trajectory descriptor that represents line segment representativeness. The sequence of this descriptor over a trajectory gives the voting signal of the trajectory, where high values correspond to the most representative parts. Then, a novel segmentation algorithm is applied on this signal that automatically estimates the number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Visually exploring movement data via similarity-based analysis",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/article/10.1007/s10844-011-0159-2",
+            "Abstract": "Data analysis and knowledge discovery over moving object databases discovers behavioral patterns of moving objects that can be exploited in applications like traffic management and location-based services. Similarity search over trajectories is imperative for supporting such tasks. Related works in the field, mainly inspired from the time-series domain, employ generic similarity metrics that ignore the peculiarity and complexity of the trajectory data type. Aiming at providing a powerful toolkit for analysts, in this paper we propose a framework that provides several trajectory similarity measures, based on primitive (space and time) as well as on derived parameters of trajectories (speed, acceleration, and direction), which quantify the distance between two trajectories and can be exploited for trajectory data mining, including clustering and classification. We evaluate the proposed similarity measures through an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Discovering market trends in the biotechnology industry",
+            "Publication year": 2011,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBIDM.2011.039411",
+            "Abstract": "In this paper we describe our approach to discover trends for the biotechnology and pharmaceutical industry based on temporal text mining. Temporal text mining combines information extraction and data mining techniques upon textual repositories and our main objective is to identify changes of associations among entities of interest over time. It consists of three main phases; the Information Extraction, the ontology driven generalisation of templates and the discovery of associations over time. Treatment of the temporal dimension is essential to our approach since it influences both the annotation part (IE) of the system as well as the mining part.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Privacy-preserving indoor localization on smartphones",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7118199/",
+            "Abstract": "Indoor Positioning Systems (IPS) have recently received considerable attention, mainly because GPS is unavailable in indoor spaces and consumes considerable energy. On the other hand, predominant Smartphone OS localization subsystems currently rely on server-side localization processes, allowing the service provider to know the location of a user at all times. In this paper, we propose an innovative algorithm for protecting users from location tracking by the localization service, without hindering the provisioning of fine-grained location updates on a continuous basis. Our proposed Temporal Vector Map (TVM) algorithm, allows a user to accurately localize by exploiting a k-Anonymity Bloom (kAB) filter and a bestNeighbors generator of camouflaged localization requests, both of which are shown to be resilient to a variety of privacy attacks. We have evaluated our framework using a real prototype developed in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "GeoPKDD Deliverable D. 1.1. Privacy-aware Trajectory Warehouse Alignment Report",
+            "Publication year": 2006,
+            "Publication url": "https://air.unimi.it/handle/2434/31296",
+            "Abstract": "GeoPKDD Deliverable D.1.1. Privacy-aware Trajectory Warehouse Alignment Report IRIS \nnascondi/visualizza icone a destra nascondi/visualizza menu in alto Aiuto Sfoglia Scorri i \nprodotti per: Autore Titolo Riviste Serie Settore Scientifico Disciplinare Tipologia Login \nSUrplus Archivio Istituzionale della Ricerca Prodotti della ricerca 08 - Relazione interna o \nrapporto di ricerca GeoPKDD Deliverable D.1.1. Privacy-aware Trajectory Warehouse \nAlignment Report Italiano Italiano Italiano Italiano English English GeoPKDD Deliverable D.1.1. \nPrivacy-aware Trajectory Warehouse Alignment Report / ML Damiani, E. Frentzos, A. \nGkoulalas-Divanis, D. Gougoulas, B. Kuijpers, J.Macedo, G. Marketos, A. Mazzoni, I. Ntoutsi, \nW. Othman, N. Pelekis, S. Puntoni, C. Renso, E. Savas, S. Spaccapietra, Y. Theodoridis, C. \nVangenot, V. Verykios. - Pisa : CNR, 2006. \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:08ZZubdj9fEC",
+            "Publisher": "CNR"
+        },
+        {
+            "Title": "Trajectory voting and classification based on spatiotemporal similarity in moving object databases",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-03915-7_12",
+            "Abstract": "We propose a method for trajectory classification based on trajectory voting in Moving Object Databases (MOD). Trajectory voting is performed based on local trajectory similarity. This is a relatively new topic in the spatial and spatiotemporal database literature with a variety of applications like trajectory summarization, classification, searching and retrieval. In this work, we have used moving object databases in space, acquiring spatiotemporal 3-D trajectories, consisting of the 2-D geographic location and the 1-D time information. Each trajectory is modelled by sequential 3-D line segments. The global voting method is applied for each segment of the trajectory, forming a local trajectory descriptor. By the analysis of this descriptor the representative paths of the trajectory can be detected, that can be used to visualize a MOD. Our experimental results verify that the proposed method efficiently classifies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Algorithms for nearest neighbor search on moving object trajectories",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10707-006-0007-7.pdf",
+            "Abstract": "Nearest Neighbor (NN) search has been in the core of spatial and spatiotemporal database research during the last decade. The literature on NN query processing algorithms so far deals with either stationary or moving query points over static datasets or future (predicted) locations over a set of continuously moving points. With the increasing number of Mobile Location Services (MLS), the need for effective k-NN query processing over historical trajectory data has become the vehicle for data analysis, thus improving existing or even proposing new services. In this paper, we investigate mechanisms to perform NN search on R-tree-like structures storing historical information about moving object trajectories. The proposed (depth-first and best-first) algorithms vary with respect to the type of the query object (stationary or moving point) as well as the type of the query result (historical continuous or not), thus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Kluwer Academic Publishers-Plenum Publishers"
+        },
+        {
+            "Title": "Cost models for nearest neighbor query processing over existentially uncertain spatial data",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40235-7_23",
+            "Abstract": "A major challenge posed by real-world applications involving spatial information deals with the uncertainty inherent in the data. One type of uncertainty in spatial objects may come from their existence, which is expressed by a probability accompanying the spatial value of an object reflecting the confidence of the object\u2019s existence. A challenging query type over existentially uncertain data is the search of the Nearest Neighbour (NN), as the likelihood of an object to be the NN of the query object does not only depend on its distances from other objects, but also from their existence. In this paper, we present exact and approximate statistical methodologies for supporting cost models for Probabilistic Thresholding NN (PTNN) queries that deal with arbitrarily distributed data points and existential uncertainty, with the aid of appropriate novel histograms, sampling and statistical approximations. Our cost model can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Trajectory Detection and Summarization over Surveillance Data Streams",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-45164-6_4",
+            "Abstract": "In this chapter, we present Synopses Generator, a stream-based processing framework that can provide online summarized representations of trajectories specifically for sailing vessels and flying aircraft. Assuming that surveillance data monitoring their locations over a large geographical area is available in a streaming fashion, this novel methodology drops any predictable positions (along trajectory segments of \u201cnormal\u201d motion characteristics) with minimal loss in accuracy. Effectively, it can keep only those positions conveying salient mobility events (annotated as stop, change in speed, heading, or altitude, etc.), identified when the mobility pattern of a given vessel or aircraft changes significantly. Moreover, this framework specifies parametrized conditions for detecting such mobility features, as well as suitable heuristics that can eliminate inherent noise and can provide succinct trajectory synopses in one pass \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:olpn-zPbct0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Hands-on with Hermes@ Oracle MOD",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4939-0392-4_12",
+            "Abstract": "Moving Object Database (MOD) engines enable us to process, manage and analyze mobility data. One of the already presented systems that satisfy these requirements is the Hermes MOD engine. Hermes provides MOD functionality to OpenGIS-compatible state-of-the-art Object-Relational DBMS. Currently, Hermes comes in two implementations; the first operates on top of Oracle DBMS (denoted as Hermes@Oracle) and the second operates on top of PostgreSQL (denoted as Hermes@Postgres). In Chap.                  5                                , we studied the collection of abstract data types (ADT) and their corresponding operations of the Hermes@Oracle, which were defined, developed and provided as a data cartridge extending Oracle\u2019s SQL query language with MOD semantics. The present chapter contains a detailed description of a hands-on experience over a dataset of synthetic trajectories (produced by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Literature review of spatio-temporal database models",
+            "Publication year": 2004,
+            "Publication url": "https://www.cambridge.org/core/journals/knowledge-engineering-review/article/literature-review-of-spatiotemporal-database-models/38175D21635346C9002C3C2DEDF9232D",
+            "Abstract": "Recent efforts in spatial and temporal data models and database systems have attempted to achieve an appropriate kind of interaction between the two areas. This paper reviews the different types of spatio-temporal data models that have been proposed in the literature as well as new theories and concepts that have emerged. It provides an overview of previous achievements within the domain and critically evaluates the various approaches through the use of a case study and the construction of a comparison framework. This comparative review is followed by a comprehensive description of the new lines of research that emanate from the latest efforts inside the spatio-temporal research community.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Time-aware sub-trajectory clustering in hermes@ postgresql",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8509402/",
+            "Abstract": "In this paper, we present an efficient in-DBMS framework for progressive time-aware sub-trajectory cluster analysis. In particular, we address two variants of the problem: (a) spatiotemporal sub-trajectory clustering and (b) index-based time-aware clustering at querying environment. Our approach for (a) relies on a two-phase process: a voting-and-segmentation phase followed by a sampling-and-clustering phase. Regarding (b), we organize data into partitions that correspond to groups of sub-trajectories, which are incrementally maintained in a hierarchical structure. Both approaches have been implemented in Hermes@PostgreSQL, a real Moving Object Database engine built on top of PostgreSQL, enabling users to perform progressive cluster analysis via simple SQL. The framework is also extended with a Visual Analytics (VA) tool to facilitate real world analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:LPZeul_q3PIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SeTraStream: semantic-aware trajectory construction over streaming movement data",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-22922-0_22",
+            "Abstract": "Location data generated from GPS equipped moving objects are typically collected as streams of spatiotemporal <x,y,t> points that when put together form corresponding trajectories. Most existing studies focus on building ad-hoc querying, analysis, as well as data mining techniques on formed trajectories. As a prior step, trajectory construction is evidently necessary for mobility data processing and understanding, including tasks like trajectory data cleaning, compression, and segmentation so as to identify semantic trajectory episodes like stops (e.g. while sitting and standing) and moves (while jogging, walking, driving etc). However, semantic trajectory construction methods in the current literature are typically based on offline procedures, which is not sufficient for real life trajectory applications that rely on timely delivery of computed trajectories to serve real-time query answers. Filling this gap, our paper \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The DAEDALUS framework: progressive querying and mining of movement data",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1463434.1463497",
+            "Abstract": "In this work we propose DAEDALUS, a formal framework and system, specifically focussed on progressive combination of mining and querying operators. The core component of DAEDALUS is the MO-DMQL query language that extends SQL in two respects, namely a pattern definition operator and the capability to uniform manipulating both raw data and unveiled patterns. DAEDALUS system is specifically focussed on movement data and has been implemented as a query execution layer on top of the Hermes Moving Object Database. The expressiveness and usefulness of the MODMQL language as well as the computational capabilities of DAEDALUS are qualitatively evaluated by means of a case study.",
+            "Abstract entirety": 1,
+            "Author pub id": "iphQ2EkAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Path-based queries on trajectory data",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2666310.2666413",
+            "Abstract": "In traffic research, management, and planning a number of path-based analyses are heavily used, eg, for computing turn-times, evaluating green waves, or studying traffic flow. These analyses require retrieving the trajectories that follow the full path being analyzed. Existing path queries cannot sufficiently support such path-based analyses because they retrieve all trajectories that touch any edge in the path. In this paper, we define and formalize the strict path query. This is a novel query type tailored to support path-based analysis, where trajectories must follow all edges in the path. To efficiently support strict path queries, we present a novel NET work-constrained TRAjectory index (NETTRA). This index enables very efficient retrieval of trajectories that follow a specific path, ie, strict path queries. NETTRA uses a new path encoding scheme that can determine if a trajectory follows a specific path by only retrieving \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design of the Trajectory Warehouse Architecture. GeoPKDD Deliverable D. 1.3.",
+            "Publication year": 2006,
+            "Publication url": "https://air.unimi.it/handle/2434/31295",
+            "Abstract": "Design of the Trajectory Warehouse Architecture. GeoPKDD Deliverable D.1.3. IRIS \nnascondi/visualizza icone a destra nascondi/visualizza menu in alto Aiuto Sfoglia Scorri i \nprodotti per: Autore Titolo Riviste Serie Settore Scientifico Disciplinare Tipologia Login SUrplus \nArchivio Istituzionale della Ricerca Prodotti della ricerca 08 - Relazione interna o rapporto di \nricerca Design of the Trajectory Warehouse Architecture. GeoPKDD Deliverable D.1.3. Italiano \nItaliano Italiano Italiano English English Design of the Trajectory Warehouse Architecture. \nGeoPKDD Deliverable D.1.3. / ML Damiani, C. Vangenot, E. Frentzos, G. Marketos, I. Ntoutsi, N. \nPelekis, Y. Theodoridis, V.Verykios, A. Rafaetta.. - Pisa : CNR, 2006. Scheda breve Scheda \ncompleta Titolo: Design of the Trajectory Warehouse Architecture. GeoPKDD Deliverable D.1.3. \nAutori: DAMIANI, MARIA LUISA (Primo) mostra contributor esterni Data di pubblicazione: : ING'\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iphQ2EkAAAAJ:p2g8aNsByqUC",
+            "Publisher": "CNR"
+        }
+    ]
+}]

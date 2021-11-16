@@ -1,0 +1,967 @@
+[{
+    "name": "\u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u0394\u03b1\u03bb\u03b1\u03bc\u03ac\u03b3\u03ba\u03b1\u03c2",
+    "romanize name": "Theodoros Dalamagkas",
+    "School-Department": "\u0399\u03bd\u03c3\u03c4\u03b9\u03c4\u03bf\u03cd\u03c4\u03bf \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03b1\u03ba\u03ce\u03bd \u03a3\u03c5\u03c3\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd",
+    "University": "athena-innovation",
+    "Rank": "\u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u0395\u03c1\u03b5\u03c5\u03bd\u03ce\u03bd",
+    "Apella_id": 17708,
+    "Scholar name": "Theodore Dalamagas",
+    "Scholar id": "WJOLNAYAAAAJ",
+    "Affiliation": "Athena Research Center",
+    "Citedby": 7675,
+    "Interests": [
+        "Web of data",
+        "scientific databases",
+        "information retrieval",
+        "data semantics",
+        "query processing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=WJOLNAYAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "MirPub v2: Towards Ranking and Refining miRNA Publication Search Results",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24592-8_34",
+            "Abstract": "In recent years, many articles studying microRNA (miRNA) molecules and their connection to diseases have been published. However, the wide range of literature in life sciences, raises a barrier in extracting useful information from them. MirPub is a search engine that resolves this issue, providing lists of articles related to particular miRNA terms and useful filters to customise them. In this work, we extend mirPub by utilising publication ranking methods to provide insights about the importance of each publication. Moreover, we automatically identify the species referred to in each publication to serve researchers studying particular species.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Dynamic pickup and delivery with transfers",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-22922-0_8",
+            "Abstract": "In the dynamic Pickup and Delivery Problem with Transfers (dPDPT), a set of transportation requests that arrive at arbitrary times must be assigned to a fleet of vehicles. We use two cost metrics that capture both the company\u2019s and the customer\u2019s viewpoints regarding the quality of an assignment. In most related problems, the rule of thumb is to apply a two-phase local search algorithm to heuristically determine a good requests-to-vehicles assignment. This work proposes a novel solution based on a graph-based formulation of the problem that treats each request independently. Briefly, in this conceptual graph, the goal is to find a shortest path from a node representing the pickup location to that of the delivery location. However, we show that efficient Bellman-Ford or Dijkstra-like algorithms cannot be applied. Still, our method is able to find dPDPT solutions significantly faster than a conventional two-phase \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "SciNeM: A Scalable Data Science Tool for Heterogeneous Network Mining.",
+            "Publication year": 2021,
+            "Publication url": "https://users.uop.gr/~trifon/papers/pdf/edbt21-CVDSDT.pdf",
+            "Abstract": "Heterogeneous Information Networks (HINs) provide a natural way to represent various relationships between entities of different types, thus they are valuable in many domains. Analysing and extracting knowledge from HINs typically relies on the concept of metapaths, which are paths in the network schema denoting relations of different semantics among entities. Moreover, real-world HINs are often extremely large, containing millions of nodes and edges. Therefore, exploring and analysing HINs not only requires interdisciplinary expertise, being able both to interpret and select appropriate metapaths in the network, but also to run the analysis in an efficient and scalable manner. However, there is a lack of tools to facilitate this task. To fill this gap, we present SciNeM, an open source, publicly available, scalable analysis tool for metapath-based knowledge discovery in HINs.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "RDF keyword search based on keywords-to-SPARQL translation",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2810355.2810357",
+            "Abstract": "In this paper, we present a summary of our work on RDF keyword search. Given a set of keywords, our method automatically generates a set of candidate SPARQL queries, and their natural language description, to be evaluated on the RDF data graph. We discuss our approach, highlighting current and future directions.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "SciTo trends: visualising scientific topic trends",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-30760-8_41",
+            "Abstract": "  Monitoring trends in scientific disciplines is a common task for researchers and other professionals in the broad research and academic community, like research and innovation policy makers and research fund managers. We demonstrate SciTo, a powerful tool that assists in the monitoring of trends in scientific disciplines. SciTo supports keyword-based search for the identification of scientific topics of interest and comparison of interesting topics to each other in terms of their popularity inside the academic community.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Semantic querying of tree-structured data sources using partially specified tree patterns",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1099554.1099729",
+            "Abstract": "Nowadays, huge volumes of data are organized or exported in a tree-structured form. Querying capabilities are provided through queries that are based on branching path expression. Even for a single knowledge domain structural differences raise difficulties for querying data sources in a uniform way. In this paper, we present a method for semantically querying tree-structured data sources using partially specified tree patterns. Based on dimensions which are sets of semantically related nodes in tree structures, we define dimension graphs. Dimension graphs can be automatically extracted from trees and abstract their structural information. They are semantically rich constructs that support the formulation of queries and their efficient evaluation. We design a tree-pattern query language to query multiple tree-structured data sources. A central feature of this language is that the structure can be specified fully, partially \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "FreePub: Collecting and Organizing Scienti* c Material Using Mindmaps",
+            "Publication year": 2010,
+            "Publication url": "https://www.nature.com/articles/npre.2010.5432.1",
+            "Abstract": "This paper presents a creativity support tool, called FreePub, to collect and organize scientifi* c material using mindmaps. Mindmaps are visual, graph-based representations of concepts, ideas, notes, tasks, etc. They generally take a hierarchical or tree branch format, with ideas branching into their subsections. FreePub supports creativity cycles. A user starts such a cycle by setting up her domain of interest using mindmaps. Then, she can browse mindmaps and launch search tasks to gather relevant publications from several data sources. FreePub, besides publications, identifies helpful supporting material (eg, blog posts, presentations). All retrieved information from FreePub can be imported and organized in mindmaps. FreePub has been fully implemented on top of FreeMind, a popular open-source, mindmapping tool.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Nature Publishing Group"
+        },
+        {
+            "Title": "DIANA-mirExTra v2. 0: Uncovering microRNAs and transcription factors with crucial roles in NGS expression data",
+            "Publication year": 2016,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/44/W1/W128/2499390",
+            "Abstract": "Differential expression analysis (DEA) is one of the main instruments utilized for revealing molecular mechanisms in pathological and physiological conditions. DIANA-mirExTra v2.0 (http://www.microrna.gr/mirextrav2) performs a combined DEA of mRNAs and microRNAs (miRNAs) to uncover miRNAs and transcription factors (TFs) playing important regulatory roles between two investigated states. The web server uses as input miRNA/RNA-Seq read count data sets that can be uploaded for analysis. Users can combine their data with 350 small-RNA-Seq and 65 RNA-Seq in-house analyzed libraries which are provided by DIANA-mirExTra v2.0.The web server utilizes miRNA:mRNA, TF:mRNA and TF:miRNA interactions derived from extensive experimental data sets. More than 450 000 miRNA interactions and 2 000 000 TF binding sites from specific or high-throughput techniques have been incorporated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Evaluating \u201cfind a path\u201d reachability queries",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.7258&rep=rep1&type=pdf",
+            "Abstract": "Graphs are used for modelling complex problems in many areas, such as spatial and road networks, social networks, Semantic Web. An important type of queries in graphs are reachability queries. In this paper, we consider the problem of answering \u201cfind a path\u201d reachability queries. Given two nodes s and t in a graph, we want to find a path from s to t. To this end, we propose a novel representation of a graph as a set of paths that preserve the reachability information and introduce P-Index to index and provide efficient access in this representation. Then, we extend the depth-first search algorithm to work with the paths of the representation, instead of the graph edges, for evaluating \u201cfind a path\u201d reachability queries. Finally, we conduct a preliminary set of experiments that indicate the advantage of exploiting a set of paths for efficiently answering \u201cfind a path\u201d reachability queries instead of using the edges of the graph.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Application of the peer-to-peer paradigm in digital libraries",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-77088-6_31",
+            "Abstract": "We present the architecture of a largely distributed Digital Library that is based on the Peer-to-Peer computing paradigm. The three goals of the architecture are: (i) increased node autonomy, (ii) flexible location of data, and (iii) efficient query evaluation. To satisfy these goals we propose a solution based on schema mappings and query reformulation. We identify the problems involved in developing a system based on the proposed architecture and present ways of tackling them. A prototype implementation provides encouraging results.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Classifying and comparing community innovation in Idea Management Systems",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167923612003533",
+            "Abstract": "The Idea Management Systems are a tool for collecting ideas for innovation from large communities. One of the problems of those systems is the difficulty to accurately depict the distinctive features of ideas in a rapid manner and use them for judgement of proposed innovations. Our research aims to solve this problem by introducing annotation of ideas with a domain independent taxonomy that describes various characteristics of ideas. The findings of our study show that such annotations can be successfully transformed into new metrics that allow the comparison of ideas with similar successfulness as the metrics already used in Idea Management Systems but in greater detail. The presented results are based on experiments with over 50,000 ideas gathered from case studies of four different organisations: Dell, Starbucks, Cisco and Canonical.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:BqipwSGYUEgC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Tarcloud: A cloud-based platform to support mirna target prediction",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-31235-9_48",
+            "Abstract": "Micro RNAs (miRNAs) are small RNA molecules that target protein coding genes and inhibit protein production. Since experimental identification of miRNA targets poses difficulties, computational miRNA target prediction is one of the key means in deciphering the role of microRNAs in development and disease. However, these computational methods are CPU-intensive. For example, the predictions for a single miRNA molecule on the whole human genome according to a popular target prediction method require about 30 minutes. Such performance is a hindrance to the biologists\u2019 requirement for near-real time target prediction. In this paper, we present TARCLOUD, a Cloud-based target prediction solution built on Microsoft\u2019s Azure platform. TARCLOUD is a highly-scalable solution based on distributed programming models that provides near-real time predictions to its users through an easy and intuitive \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient evaluation of generalized path pattern queries on XML data",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1367497.1367610",
+            "Abstract": "Finding the occurrences of structural patterns in XML data is a key operation in XML query processing. Existing algorithms for this operation focus almost exclusively on path-patterns or tree-patterns. Requirements in flexible querying of XML data have motivated recently the introduction of query languages that allow a partial specification of path-patterns in a query. In this paper, we focus on the efficient evaluation of partial path queries, a generalization of path pattern queries. Our approach explicitly deals with repeated labels (that is, multiple occurrences of the same label in a query).",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Ranking papers by their short-term scientific impact",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9458689/",
+            "Abstract": "The constantly increasing rate at which scientific papers are published makes it difficult for researchers to identify papers that currently impact the research field of their interest. In this work, we present a method that ranks papers based on their estimated short-term impact, as measured by the number of citations received in the near future. Our method models a researcher exploring the paper citation network, and introduces an attention-based mechanism, akin to a time-restricted version of preferential attachment, that explicitly captures the researcher\u2019s preference to read papers which received a lot of attention recently. A detailed experimental evaluation on real citation datasets across disciplines, shows that our approach is more effective than previous work.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Pub Finder: Assisting the discovery of qualitative research",
+            "Publication year": 2018,
+            "Publication url": "https://users.uop.gr/~trifon/papers/pdf/hdms18-VKCTDV.pdf",
+            "Abstract": "In recent years, scientists are under pressure to publish more and more papers in order to survive in a very competitive environment. This trend has resulted in an explosion of the the number of published research papers in all scientific fields. Additionally, it has been shown that a large portion of these articles contains low quality research and errors. As a result, identifying the most important articles which are relevant to a subject of interest is a non-trivial, tedious task. In this work, we present Pub finder, a tool that assists the discovery of qualitative publications. This tool supports ranking and comparing scientific papers based on various impact aspects. Furthermore, it provides useful additional features like intuitive infographics and article bookmarking. Pub finder is freely available (in beta version) at http://andrea. imis. athena-innovation. gr/pubfinder/web",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:f2IySw72cVMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bias in miRNA enrichment analysis related to gene functional annotations",
+            "Publication year": 2021,
+            "Publication url": "https://www.biorxiv.org/content/10.1101/2021.08.16.456527.abstract",
+            "Abstract": "Motivation: miRNA functional enrichment is a type of analysis that is used to predict which biological functions may be affected by a group of miRNAs or validate whether a list of dysreg- ulated miRNAs are linked to a diseased state. The standard method for functional enrichment analysis uses the hypergeometric distribution to produce p-values, depicting the strength of the association between a group of miRNAs and a biological function. However, in 2015, it was shown that this approach suffers from a bias related to miRNA targets produced by target prediction algorithms and a new randomization test was proposed. Results: In this paper, we demonstrate the existence of another underlying bias which affects gene annotation data sets; additionally, we show that the statistical measure used for the estab- lished randomization test is not sensitive enough to account for it. For this reason, we propose the use of an alternative statistical measure, the \"two-sided overlap\", and we show that it is able to alleviate the aforementioned issue. Finally, we develop BUFET2, a miRNA enrichment analysis tool that leverages this measure (along with the old one); it is based on BUFET, a fast and scalable implementation of the established randomization test. Availability and Implementation: BUFET2 is written in C++ and is packaged with a Python wrapper script that facilitates experiment execution. Moreover, BUFET2 also comes pre-packaged in a Linux Docker image published on Docker Hub, thus eliminating the need for code compilation. Finally, BUFET2 is also publicly available to execute through a REST API. All datasets used in the experiments throught this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Cold Spring Harbor Laboratory"
+        },
+        {
+            "Title": "Clustering XML documents by structure",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24674-9_13",
+            "Abstract": "This work explores the application of clustering methods for grouping structurally similar XML documents. Modeling the XML documents as rooted ordered labeled trees, we apply clustering algorithms using distances that estimate the similarity between those trees in terms of the hierarchical relationships of their nodes. We suggest the usage of tree structural summaries to improve the performance of the distance calculation and at the same time to maintain or even improve its quality. Experimental results are provided using a prototype testbed.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Rdfsculpt: Managing rdf schemas under set-like semantics",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11431053_9",
+            "Abstract": "The Semantic Web is an extension of the current Web in which information is given well-defined meaning to support effective data discovery and integration. The RDF framework is a key issue for the Semantic Web. It can be used in resource discovery to provide better search engine capabilities, in cataloging for describing the content of thematic hierarchies in thematic catalogs and digital libraries, in knowledge sharing and exchange of Web agents, etc. Up to now, RDF schemas have been treated rather as sets of individual elements (i.e. model primitives like classes, properties, etc.). Under that view, queries like \u201cfind the part of a portal catalog which is not present in another catalog\u201d can be answered only in a procedural way, specifying which nodes to select and how to get them. For this reason, we argue that answering such queries requires treating schemas as a whole rather than as sets of individual \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Evaluating reachability queries over path collections",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-02279-1_29",
+            "Abstract": "Several applications in areas such as biochemistry, GIS, involve storing and querying large volumes of sequential data stored as path collections. There is a number of interesting queries that can be posed on such data. This work focuses on reachability queries: given a path collection and two nodes v  s , v  t , determine whether a path from v  s  to v  t  exists and identify it. To answer these queries, the path-first search paradigm, which treats paths as first-class citizens, is proposed. To improve the performance of our techniques, two indexing structures that capture the reachability information of paths are introduced. Further, methods for updating a path collection and its indices are discussed. Finally, an extensive experimental evaluation verifies the advantages of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient Calculation of Empirical P-values for Association Testing of Binary Classifications",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3400903.3400923",
+            "Abstract": "Investigating whether two different classifications of a population are associated, is an interesting problem in many scientific fields. For this reason, various statistical tests to reveal this type of associations have been developed, with the most popular of them being Fisher\u2019s exact test. However it has lately been shown that in some cases this test fails to produce accurate results. An alternative approach, known as randomization tests, was introduced to alleviate this issue, however, such tests are computationally intensive. In this paper, we introduce two novel indexing approaches that exploit frequently occurring patterns in classifications to avoid performing redundant computations during the analysis. We conduct a comprehensive set of experiments using real datasets and application scenarios to show that our approaches always outperform the state-of-the-art, with one approach being faster by an order of magnitude.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Artsim: improved estimation of current impact for recent articles",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-55814-7_27",
+            "Abstract": "As the number of published scientific papers continuously increases, the need to assess paper impact becomes more valuable than ever. In this work, we focus on citation-based measures that try to estimate the popularity (current impact) of an article. State-of-the-art methods in this category calculate estimates of popularity based on paper citation data. However, with respect to recent publications, only limited data of this type are available, rendering these measures prone to inaccuracies. In this work, we present ArtSim, an approach that exploits paper similarity, calculated using scholarly knowledge graphs, to better estimate paper popularity for recently published papers. Our approach is designed to be applied on top of existing popularity measures, to improve their accuracy. We apply ArtSim on top of four well-known popularity measures and demonstrate through experiments its potential in improving their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:dshw04ExmUIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Keywords-to-SPARQL translation for RDF data search and exploration",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-24592-8_9",
+            "Abstract": "Linked Data is the most common practice for publishing and sharing information in the Data Web. As new data become available, their exploration is a fundamental step towards integration and interoperability. However, typical search methods as SPARQL queries require knowing both the SPARQL syntax and the vocabulary used in the data. For this reason, keyword-based search has been proposed, allowing an intuitive way for searching an RDF dataset. In this paper, we present a novel approach for keyword search on graph-structured data, and in particular temporal RDF graph, i.e. RDF data that involve temporal properties. Our method, instead of providing answers directly from the RDF data graph, automatically generates a set of candidate SPARQL queries that try to capture users information need as expressed by the keywords used. To support temporal exploration, our method is enriched with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "DIANA-TarBase v8: a decade-long collection of experimentally supported miRNA\u2013gene interactions",
+            "Publication year": 2018,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/46/D1/D239/4634010",
+            "Abstract": "DIANA-TarBase v8 (http://www.microrna.gr/tarbase) is a reference database devoted to the indexing of experimentally supported microRNA (miRNA) targets. Its eighth version is the first database indexing >1 million entries, corresponding to \u223c670 000 unique miRNA-target pairs. The interactions are supported by >33 experimental methodologies, applied to \u223c600 cell types/tissues under \u223c451 experimental conditions. It integrates information on cell-type specific miRNA\u2013gene regulation, while hundreds of thousands of miRNA-binding locations are reported. TarBase is coming of age, with more than a decade of continuous support in the non-coding RNA field. A new module has been implemented that enables the browsing of interactions through different filtering combinations. It permits easy retrieval of positive and negative miRNA targets per species, methodology, cell type and tissue. An incorporated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "TarBase 6.0: capturing the exponential growth of miRNA targets with experimental support",
+            "Publication year": 2012,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/40/D1/D222/2903277",
+            "Abstract": "As the relevant literature and the number of experiments increase at a super linear rate, databases that curate and collect experimentally verified microRNA (miRNA) targets have gradually emerged. These databases attempt to provide efficient access to this wealth of experimental data, which is scattered in thousands of manuscripts. Aim of TarBase 6.0 (http://www.microrna.gr/tarbase) is to face this challenge by providing a significant increase of available miRNA targets derived from all contemporary experimental techniques (gene specific and high-throughput), while incorporating a powerful set of tools in a user-friendly interface. TarBase 6.0 hosts detailed information for each miRNA\u2013gene interaction, ranging from miRNA- and gene-related facts to information specific to their interaction, the experimental validation methodologies and their outcomes. All database entries are enriched with function-related data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Learning to rank user intent",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2063576.2063609",
+            "Abstract": "Personalized retrieval models aim at capturing user interests to provide personalized results that are tailored to the respective information needs. User interests are however widely spread, subject to change, and cannot always be captured well, thus rendering the deployment of personalized models challenging. We take a different approach and study ranking models for user intent. We exploit user feedback in terms of click data to cluster ranking models for historic queries according to user behavior and intent. Each cluster is finally represented by a single ranking model that captures the contained search interests expressed by users. Once new queries are issued, these are mapped to the clustering and the retrieval process diversifies possible intents by combining relevant ranking functions. Empirical evidence shows that our approach significantly outperforms baseline approaches on a large corporate query log.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of queries on tree-structured data using dimension graphs",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1540896/",
+            "Abstract": "The recent proliferation of XML-based standards and technologies for managing data on the Web demonstrates the need for effective and efficient management of tree-structured data. Querying tree-structured data is a challenging issue due to the diversity of the structural aspect in the same or in different trees. In this paper, we show how to evaluate queries on tree-structured data, called value trees. The formulation of these queries does not depend on the structure of a particular value tree. Our approach exploits semantic information provided by dimension graphs. Dimension graphs are semantically rich constructs that abstract the structural information of the value trees. We show how dimension graphs can be used to query efficiently value trees in the presence of structural differences and irregularities. Value trees and their dimension graphs are represented as XML documents. We present a method for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "MR-microT: a MapReduce-based MicroRNA target prediction method",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2618243.2618289",
+            "Abstract": "MicroRNAs (miRNAs) are small RNA molecules that inhibit the expression of particular genes, a function that makes them useful towards the treatment of many diseases. Computational methods that predict which genes are targeted by particular miRNA molecules are known as target prediction methods. In this paper, we present a MapReduce-based system, termed MR-microT, for one of the most popular and accurate, but computational intensive, prediction methods. MR-microT offers the highly requested by life scientists feature of predicting the targets of ad-hoc miRNA molecules in near-real time through an intuitive Web interface.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "BUFET: boosting the unbiased miRNA functional enrichment analysis using bitsets",
+            "Publication year": 2017,
+            "Publication url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1812-8",
+            "Abstract": "A group of miRNAs can regulate a biological process by targeting genes involved in the process. The unbiased miRNA functional enrichment analysis is the most precise in silico approach to predict the biological processes that may be regulated by a given miRNA group. However, it is computationally intensive and significantly more expensive than its alternatives. We introduce BUFET, a new approach to significantly reduce the time required for the execution of the unbiased miRNA functional enrichment analysis. It derives its strength from the utilization of efficient bitset-based methods and parallel computation techniques.                             BUFET outperforms the state-of-the-art implementation, in regard to computational efficiency, in all scenarios (both single- and multi-core), being, in some cases, more than one order of magnitude faster.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "BioMed Central"
+        },
+        {
+            "Title": "A methodology for clustering XML documents by structure",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306437904001176",
+            "Abstract": "The processing and management of XML data are popular research issues. However, operations based on the structure of XML data have not received strong attention. These operations involve, among others, the grouping of structurally similar XML documents. Such grouping results from the application of clustering methods with distances that estimate the similarity between tree structures. This paper presents a framework for clustering XML documents by structure. Modeling the XML documents as rooted ordered labeled trees, we study the usage of structural distance metrics in hierarchical clustering algorithms to detect groups of structurally similar XML documents. We suggest the usage of structural summaries for trees to improve the performance of the distance calculation and at the same time to maintain or even improve its quality. Our approach is tested using a prototype testbed.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Sailing the web with captain nemo: a personalized metasearch engine",
+            "Publication year": 2005,
+            "Publication url": "http://www.dbnet.ece.ntua.gr/pubs/uploads/TR-2005-6.pdf",
+            "Abstract": "Personalization on the Web is an issue that has gained a lot of interest lately. Web sites have already started providing services such as preferences for the interface, the layout and the functionality of the applications. Personalization services have also been introduced in Web search and metasearch engines, ie tools that retrieve Web pages relevant to keywords given by the users. However, those services deal mostly with the presentation style and ignore issues like the retrieval model, the ranking algorithm and topic preferences. In this paper, we present Captain Nemo, a fully-functionable metasearch engine that exploits personal user search spaces. Users can define their personal retrieval model and presentation style. They can also define topics of interest. Captain Nemo exploits several popular Web search engines to retrieve Web pages relevant to keywords given by the users. The resulting pages are presented according to the defined presentation style and retrieval model. For every page, Captain Nemo can recommend a relevant topic of interest to classify the page, exploiting nearest-neighbour classification techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Machine learning applications and process intelligence for cement industries",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780323885065501121",
+            "Abstract": "Estimating energy consumption in cement mills is critical for the cement industry. Following data science practices and adopting machine learning (ML) technologies, we developed energy consumption prediction models for a cement mill of TITAN SA plant in Kamari Viotia. The models exploit historical sensor measurements and operational data and give predictions for energy consumption with accuracy better than almost one order of magnitude compared to existing baseline methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Circular Intelligence: digital Services to Facilitate Industrial Symbiosis",
+            "Publication year": 2020,
+            "Publication url": "https://ercim-news.ercim.eu/images/stories/EN121/EN121-web.pdf#page=20",
+            "Abstract": "SymbioLabs is working on the innovative concept of circular intelligence. Circular intelligence involves the application of business intelligence and big data technologies to drive profitable business actions in the circular economy. We provide digital solutions to collect and analyse data related to industrial facilities, waste production and supply chain economics, and detect geographic areas and industrial sectors to establish collaborative partnerships (networks of industrial symbiosis) to exchange materials, waste and energy for economic, environmental and social benefit.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:SP6oXDckpogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Veto: Expert set expansion in academia",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-54956-5_4",
+            "Abstract": "Expanding a set of known domain experts with new individuals, that have similar expertise, is a problem with many practical applications (e.g., adding new members to a conference program committee). In this work, we study this problem in the context of academic experts and we introduce VeTo, a novel method to effectively deal with it by exploiting scholarly knowledge graphs. In particular, VeTo expands the given set of experts by identifying researchers that share similar publishing habits with them, based on a graph analysis approach. Our experiments show that VeTo is more effective than existing techniques that can be applied to deal with the same problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Open Science services for the ELIXIR-GR community",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11696603296742687156&hl=en&oi=scholarr",
+            "Abstract": "Vergoulis T, Kanellos I, Chatzopoulos S et al. Open Science services for the ELIXIR-GR community [version 1; not peer reviewed]. F1000Research 2018, 7 (ELIXIR): 873 (poster)(https://doi. org/10.7490/f1000research. 1115653.1)",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "RDF Resource Search and Exploration with LinkZoo.",
+            "Publication year": 2015,
+            "Publication url": "https://www.scitepress.org/Papers/2015/54996/54996.pdf",
+            "Abstract": "The Linked Data paradigm is the most common practice for publishing, sharing and managing information in the Data Web. Linkzoo is an IT infrastructure for collaborative publishing, annotating and sharing of Data Web resources, and their publication as Linked Data. In this paper, we overview LinkZoo and its main components, and we focus on the search facilities provided to retrieve and explore RDF resources. Two search services are presented:(1) an interactive, two-step keyword search service, where live natural language query suggestions are given to the user based on the input keywords and the resource types they match within LinkZoo, and (2) a keyword search service for exploring remote SPARQL endpoints that automatically generates a set of candidate SPARQL queries, ie, SPARQL queries that try to capture user\u2019s information needs as expressed by the keywords used. Finally, we demonstrate the search functionalities through a use case drawn from the life sciences domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DIANA-miRPath v3. 0: deciphering microRNA function with experimental support",
+            "Publication year": 2015,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/43/W1/W460/2467903",
+            "Abstract": "The functional characterization of miRNAs is still an open challenge. Here, we present DIANA-miRPath v3.0 (http://www.microrna.gr/miRPathv3) an online software suite dedicated to the assessment of miRNA regulatory roles and the identification of controlled pathways. The new miRPath web server renders possible the functional annotation of one or more miRNAs using standard (hypergeometric distributions), unbiased empirical distributions and/or meta-analysis statistics. DIANA-miRPath v3.0 database and functionality have been significantly extended to support all analyses for KEGG molecular pathways, as well as multiple slices of Gene Ontology (GO) in seven species (Homo sapiens, Mus musculus, Rattus norvegicus, Drosophila melanogaster, Caenorhabditis elegans, Gallus gallus and Danio rerio). Importantly, more than 600 000 experimentally supported miRNA targets from DIANA-TarBase v7.0 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Approximate regional sequence matching for genomic databases",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/article/10.1007/s00778-012-0270-1",
+            "Abstract": "Recent advances in computational biology have raised sequence matching requirements that result in new types of sequence database problems. In this work, we introduce an important class of such problems, the approximate regional sequence matching (ARSM) problem. Given a data and a pattern sequence, an ARSM result is an approximate occurrence of a region of the pattern in the data sequence under two conditions. First, the region must contain a predetermined area of the pattern sequence, termed core. Second, the allowable deviation between the region of the pattern and its occurrence in the data sequence depends on the length of the region. We propose the PS-ARSM method that processes holistically the regions of a pattern, taking advantage of their overlaps to efficiently identify the ARSM results. Its performance is evaluated with respect to existing techniques adapted to the ARSM problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Processing and evaluating partial tree pattern queries on XML data",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5928347/",
+            "Abstract": "XML query languages typically allow the specification of structural patterns using XPath. Usually, these structural patterns are in the form of trees (Tree-Pattern Queries-TPQs). Finding the occurrences of such patterns in an XML tree is a key operation in XML query evaluation. The multiple previous algorithms presented for this operation focus mainly on the evaluation of tree-pattern queries. Recently, requirements for flexible querying of XML data have motivated the consideration of query classes that are more expressive and flexible than TPQs for which efficient nonmain-memory evaluation algorithms are not known. In this paper, we consider a class of queries, called Partial Tree-Pattern Queries (PTPQs), which generalize and strictly contain TPQs. PTPQs represent a broad fragment of XPath which is very useful in practice. In order to process PTPQs, we introduce a set of sound and complete inference rules to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "PatMan: A Visual Database System to Manipulate Path Patterns and Data in Hierarchical Catalogs",
+            "Publication year": 2005,
+            "Publication url": "http://web.imis.athena-innovation.gr/~dalamag/pub/avivdilib05.pdf",
+            "Abstract": "Hierarchical structures are a way to organize and enrich semantically the available information on the Web. Popular examples of such structures are the product catalogs of e-market stores, which provide data (ie products) organized in thematic hierarchies on a category/subcategory basis. Users can navigate these hierarchies to identify data of their preference. Such hierarchies group data under certain properties. Navigational paths are the knowledge artifacts to represent such groups. We consider paths in hierarchies as patterns which provide a conceptual clustering of data in groups sharing common properties. Under this perspective, we have designed and implemented PatMan, a visual database system to manage hierarchical catalogs. The system can store navigational paths and data from hierarchical catalogs, and provides a pictorial query-by-example language to manipulate path patterns and data in a uniform way.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Publishing Diachronic Life Science Linked Data.",
+            "Publication year": 2014,
+            "Publication url": "http://ceur-ws.org/Vol-1320/paper_3.pdf",
+            "Abstract": "The Linked Data paradigm involves practices to publish, share, and connect data on the Web. Thus, it is a compelling approach for the dissemination and re-use of scientific data, realizing the vision of the so-called Linked Science. However, by just converting legacy scientific data as Linked Data, we do not fully meet the requirements of data re-use. Scientific data is evolving data. To ensure re-use and allow exploitation and validation of scientific results, several challenges related to scientific data dynamics should be tackled. In this paper, we deal with the publication of diachronic life science linked data. We propose a change model based on RDF to capture versioned entities. Based on this model we convert legacy data from biological databases as diachronic linked data. Our linked data server can assist biologists to explore biological entities and their evolution by either using SPARQL queries or navigating among entity versions. All services are publicly available at http://diana. imis. athena-innovation. gr/lod.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluating Path Queries over Frequently Updated Route Collections TR-2010-6",
+            "Publication year": 2010,
+            "Publication url": "http://www.dbnet.ece.ntua.gr/pubs/uploads/TR-2010-6.pdf",
+            "Abstract": "The recent advances in the infrastructure of Geographic Information Systems (GIS), and the proliferation of GPS technology, have resulted in the abundance of geodata in the form of sequences of points of interest (POIs), waypoints etc. We refer to sets of such sequences as route collections. In this work, we consider path queries on frequently updated route collections: given a route collection and two points ns and nt, a path query returns a path, ie, a sequence of points, that connects ns to nt. We introduce two path query evaluation paradigms that enjoy the benefits of search algorithms (ie, fast index maintenance) while utilizing transitivity information to terminate the search sooner. Efficient indexing schemes and appropriate updating procedures are introduced. An extensive experimental evaluation verifies the advantages of our methods compared to conventional graph-based search.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DIANA miRPath v. 2.0: investigating the combinatorial effect of microRNAs in pathways",
+            "Publication year": 2012,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/40/W1/W498/1078464",
+            "Abstract": "MicroRNAs (miRNAs) are key regulators of diverse biological processes and their functional analysis has been deemed central in many research pipelines. The new version of DIANA-miRPath web server was redesigned from the ground-up. The user of DNA Intelligent Analysis (DIANA) DIANA-miRPath v2.0 can now utilize miRNA targets predicted with high accuracy based on DIANA-microT-CDS and/or experimentally verified targets from TarBase v6; combine results with merging and meta-analysis algorithms; perform hierarchical clustering of miRNAs and pathways based on their interaction levels; as well as elaborate sophisticated visualizations, such as dendrograms or miRNA versus pathway heat maps, from an intuitive and easy to use web interface. New modules enable DIANA-miRPath server to provide information regarding pathogenic single nucleotide polymorphisms (SNPs) in miRNA target sites \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Modeling asset allocations and a new portfolio performance score",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s42521-021-00040-8",
+            "Abstract": "We discuss and extend a powerful, geometric framework to represent the set of portfolios, which identifies the space of asset allocations with the points lying in a convex polytope. Based on this viewpoint, we survey certain state-of-the-art tools from geometric and statistical computing to handle important and difficult problems in digital finance. Although our tools are quite general, in this paper, we focus on two specific questions. The first concerns crisis detection, which is of prime interest for the public in general and for policy makers in particular because of the significant impact that crises have on the economy. Certain features in stock markets lead to this type of anomaly detection: Given the assets\u2019 returns, we describe the relationship between portfolios\u2019 return and volatility by means of a copula, without making any assumption on investors\u2019 strategies. We examine a recent method relying on copulae to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Indexing views to route queries in a PDMS",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-007-7021-0",
+            "Abstract": " P2P computing gains increasing attention lately, since it provides the means for realizing computing systems that scale to very large numbers of participating peers, while ensuring high autonomy and fault-tolerance. Peer Data Management Systems (PDMS) have been proposed to support sophisticated facilities in exchanging, querying and integrating (semi-)structured data hosted by peers. In this paper, we are interested in routing graph queries in a very large PDMS, where peers advertise their local bases using fragments of community RDF/S schemes (i.e., views). We introduce an original encoding for these fragments, in order to efficiently check whether a peer view is subsumed by a query. We rely on this encoding to design an RDF/S view lookup service featuring a statefull and a stateless execution over a DHT-based P2P infrastructure. We finally evaluate experimentally our system to demonstrate its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "PatManQL: A language to manipulate patterns and data in hierarchical catalogs",
+            "Publication year": 2004,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.547.7082&rep=rep1&type=pdf",
+            "Abstract": "Hierarchical structures and catalogs is a way to organize and enrich semantically the available information in the Web. From simple tree-like structures with syntactic constraints and type information, like DTDs and XML schemas, to hierarchies on a category/subcategory basis, like thematic hierarchies and RDF (s) models, such structures group data under certain properties. Paths in these structures are the knowledge artifacts to represent such groups. Considering paths in hierarchies as patterns which provide a conceptual clustering of data in groups sharing common properties, we present PatManQL, a language to manipulate patterns and data in hierarchical catalogs.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Containment of partially specified tree-pattern queries in the presence of dimension graphs",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s00778-008-0097-y",
+            "Abstract": "Nowadays, huge volumes of data are organized or exported in tree-structured form. Querying capabilities are provided through tree-pattern queries. The need for querying tree-structured data sources when their structure is not fully known, and the need to integrate multiple data sources with different tree structures have driven, recently, the suggestion of query languages that relax the complete specification of a tree pattern. In this paper, we consider a query language that allows the partial specification of a tree pattern. Queries in this language range from structureless keyword-based queries to completely specified tree patterns. To support the evaluation of partially specified queries, we use semantically rich constructs, called dimension graphs, which abstract structural information of the tree-structured data. We address the problem of query containment in the presence of dimension graphs and we provide \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Impact-based ranking of scientific publications: a survey and experimental evaluation",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8836082/",
+            "Abstract": "As the rate at which scientific work is published continues to increase, so does the need to discern high-impact publications. In recent years, there have been several approaches that seek to rank publications based on their expected citation-based impact. Despite this level of attention, this research area has not been systematically studied. Past literature often fails to distinguish between short-term impact, the current popularity of an article, and long-term impact, the overall influence of an article. Moreover, the evaluation methodologies applied vary widely and are inconsistent. In this work, we aim to fill these gaps, studying impact-based ranking theoretically and experimentally. First, we provide explicit definitions for short-term and long-term impact, and introduce the associated ranking problems. Then, we identify and classify the most important ideas employed by state-of-the-art methods. After studying various \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Captain Nemo: A metasearch engine with personalized hierarchical search space",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5337448157051200716&hl=en&oi=scholarr",
+            "Abstract": "Stefanos Souldatos, Theodore Dalamagas and Timos Sellis School of Electrical and Computer Engineering, National Technical University of Athens, 157 73, Athens, GR E-mail:{stef, dalamag, timos}@ dblab. ntua. gr http://www. dblab. ntua. gr/~{stef, dalamag, timos}",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "BIP4COVID19: Releasing impact measures for articles relevant to COVID-19",
+            "Publication year": 2020,
+            "Publication url": "https://www.biorxiv.org/content/10.1101/2020.04.11.037093v3.abstract",
+            "Abstract": "Since the beginning of the 2019-20 coronavirus pandemic, a large number of relevant articles has been published or become available in preprint servers. These articles, along with earlier related literature, compose a valuable knowledge base affecting contemporary research studies, or even government actions to limit the spread of the disease and treatment decisions taken by physicians. However, the number of such articles is increasing at an intense rate making the exploration of the relevant literature and the identification of useful knowledge in it challenging. In this work, we describe BIP4COVID19, an open dataset compiled to facilitate the coronavirus-related literature exploration, by providing various indicators of scientific impact for the relevant articles. Finally, we provide a publicly accessible Web interface on top of our data, allowing the exploration of the publications based on the computed indicators.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Cold Spring Harbor Laboratory"
+        },
+        {
+            "Title": "Semantic integration of schema conforming XML data sources",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11581062_53",
+            "Abstract": "A challenging problem in Web engineering is the integration of XML data sources. Even if these data sources conform to schemas, they may have their schemas and the correspongind XML documents structured differently.In this paper, we address the problem of integrating XML data sources (a) by adding semantic information to document schemas, and (b) by using a query language that allows a partial specification of tree patterns. The semantic information allows the grouping of elements into the so called schema dimensions.Our approach allows querying data sources with different schemas in an integrated way. Users posing queries have the flexibility to specify structural constraints fully, partially or not at all. Our approach was initially developed for arbitrarily structured data sources [1]. Here, we show how this approach can be applied to tree-structured data sources that comply to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient query routing in RDF/S schema-based P2P systems",
+            "Publication year": 2005,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.7669&rep=rep1&type=pdf",
+            "Abstract": "P2P computing gains increasing attention lately, since it provides the means for realizing computing systems that scale to very large numbers of participating peers, while ensuring high autonomy and fault-tolerance. However, existing P2P systems offer poor data management facilities, limited to IR-style keyword search using eventually a fixed set of document attributes. Schema-based P2P systems have been proposed to support richer facilities in exchanging, querying and integrating structured and semi-structured data hosted by peers. In this paper, we address routing issues for expressive queries in schema-based P2P systems, where peers advertise their local bases using fragments of a community RDF/S schema (ie, views). We then introduce an original encoding of RDF/S schema fragments, allowing to efficiently check whether a peer view is subsumed by a query. We rely on this encoding to design an RDF/S view lookup service featuring a centralized and distributed execution over a DHT-based P2P system. We finally evaluate experimentally the proposed framework to demonstrate its scalability for large P2P networks and arbitrary RDF/S schema fragments, as well as, to estimate the number of routing hops required by the two versions of our lookup service.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data-intensive computing for the ELIXIR-GR community",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6706936964279497983&hl=en&oi=scholarr",
+            "Abstract": "Vergoulis T, Zagganas K, Zissimos A et al. Data-intensive computing for the ELIXIR-GR community [version 1; not peer reviewed]. F1000Research 2018, 7 (ELIXIR): 888 (poster)(https://doi. org/10.7490/f1000research. 1115664.1)",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Boosting the ranking function learning process using clustering",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1458502.1458523",
+            "Abstract": "As the Web continuously grows, the results returned by search engines are too many to review. Lately, the problem of personalizing the ranked result list based on user feedback has gained a lot of attention. Such approaches usually require a big amount of user feedback on the results, which is used as training data. In this work, we present a method that overcomes this issue by exploiting all search results, both rated and unrated, in order to train a ranking function. Given a small initial set of user feedback for some search results, we first perform clustering on all results returned by the search. Based on the clusters created, we extend the initial set of rated results, including new, unrated results. Then, we use a popular training method (Ranking SVM) to train a ranking function using the expanded set of results. The experiments show that our method approximates sufficiently the results of an\" ideal\" system where all \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Containment of partially specified tree-pattern queries",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1644292/",
+            "Abstract": "Nowadays, huge volumes of data, including scientific data, are organized or exported in tree-structured form. Querying capabilities are provided through tree-pattern queries. The need for integrating multiple data sources with different tree structures has driven, recently, the suggestion of query languages that relax the complete specification of a tree pattern. In this paper we adopt a query language with partially specified tree-pattern queries. A central feature of this type of queries is that the structure can be specified fully, partially, or not at all in a query. Important issues in query optimization require solving the query containment problem. We study the containment problem for partially specified tree-pattern queries. To support the evaluation of such queries, we use semantically rich constructs, called dimension graphs, which abstract structural information of the tree-structured data. We address the problem of query \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Diachronic Linked Data: Towards Long-Term Preservation of Structured Interrelated Information",
+            "Publication year": 2012,
+            "Publication url": "https://arxiv.org/abs/1205.2292",
+            "Abstract": "The Linked Data Paradigm is one of the most promising technologies for publishing, sharing, and connecting data on the Web, and offers a new way for data integration and interoperability. However, the proliferation of distributed, inter-connected sources of information and services on the Web poses significant new challenges for managing consistently a huge number of large datasets and their interdependencies. In this paper we focus on the key problem of preserving evolving structured interlinked data. We argue that a number of issues that hinder applications and users are related to the temporal aspect that is intrinsic in linked data. We present a number of real use cases to motivate our approach, we discuss the problems that occur, and propose a direction for a solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Further Improvements on Estimating the Popularity of Recently Published Papers",
+            "Publication year": 2021,
+            "Publication url": "https://direct.mit.edu/qss/article-abstract/doi/10.1162/qss_a_00165/108048",
+            "Abstract": "As the number of published scientific papers continuously increases, the need to assess their impact becomes more valuable than ever. In this work, we focus on the problem of estimating the expected citation-based popularity (or short-term impact) of papers. State-of-the-art methods for this problem attempt to leverage the current citation data of each paper. However, these methods are prone to inaccuracies for recently published papers, which have a limited citation history. In this context, we previously introduced ArtSim, an approach that can be applied on top of any popularity estimation method to improve its accuracy. Its power originates from providing more accurate estimations for the most recently published papers by considering the popularity of similar, older ones. In this work, we present ArtSim+, an improved ArtSim adaptation that considers an additional type of paper similarity and incorporates a faster \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DIANA-LncBase v2: indexing microRNA targets on non-coding transcripts",
+            "Publication year": 2016,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/44/D1/D231/2503082",
+            "Abstract": "microRNAs (miRNAs) are short non-coding RNAs (ncRNAs) that act as post-transcriptional regulators of coding gene expression. Long non-coding RNAs (lncRNAs) have been recently reported to interact with miRNAs. The sponge-like function of lncRNAs introduces an extra layer of complexity in the miRNA interactome. DIANA-LncBase v1 provided a database of experimentally supported and in silico predicted miRNA Recognition Elements (MREs) on lncRNAs. The second version of LncBase (www.microrna.gr/LncBase) presents an extensive collection of miRNA:lncRNA interactions. The significantly enhanced database includes more than 70 000 low and high-throughput, (in)direct miRNA:lncRNA experimentally supported interactions, derived from manually curated publications and the analysis of 153 AGO CLIP-Seq libraries. The new experimental module presents a 14-fold increase compared to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Evaluating path queries over frequently updated route collections",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5710915/",
+            "Abstract": "The recent advances in the infrastructure of Geographic Information Systems (GIS), and the proliferation of GPS technology, have resulted in the abundance of geodata in the form of sequences of points of interest (POIs), waypoints, etc. We refer to sets of such sequences as route collections. In this work, we consider path queries on frequently updated route collections: given a route collection and two points n s  and n t , a path query returns a path, i.e., a sequence of points, that connects n s  to n t . We introduce two path query evaluation paradigms that enjoy the benefits of search algorithms (i.e., fast index maintenance) while utilizing transitivity information to terminate the search sooner. Efficient indexing schemes and appropriate updating procedures are introduced. An extensive experimental evaluation verifies the advantages of our methods compared to conventional graph-based search.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Sea Area Monitoring and Analysis of Fishing Vessels Activity: The i4sea Big Data Platform",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9162224/",
+            "Abstract": "The i4sea research project provides effective and efficient big data integration, processing and analysis technologies to deliver both real-time and historical operational snapshots of fishing vessels activity in national sea areas. This paper presents the architecture of the i4sea big data platform for sea area monitoring and analysis of fishing vessels activity and demonstrates the operation of some use-case pilot scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A heuristic approach for checking containment of generalized tree-pattern queries",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1458082.1458155",
+            "Abstract": "Query processing techniques for XML data have focused mainly on tree-pattern queries (TPQs). However, the need for querying XML data sources whose structure is very complex or not fully known to the user, and the need to integrate multiple XML data sources with different structures have driven, recently, the suggestion of query languages that relax the complete specification of a tree pattern. In order to implement the processing of such languages in current DBMSs, their containment problem has to be efficiently solved.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Clustering XML documents using structural summaries",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30192-9_54",
+            "Abstract": "This work presents a methodology for grouping structurally similar XML documents using clustering algorithms. Modeling XML documents with tree-like structures, we face the \u2018clustering XML documents by structure\u2019 problem as a \u2018tree clustering\u2019 problem, exploiting distances that estimate the similarity between those trees in terms of the hierarchical relationships of their nodes. We suggest the usage of tree structural summaries to improve the performance of the distance calculation and at the same time to maintain or even improve its quality. Experimental results are provided using a prototype testbed.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Search behavior-driven training for result re-ranking",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-24469-8_33",
+            "Abstract": "In this paper we present a framework for improving the ranking learning process, taking into account the implicit search behaviors of users. Our approach is query-centric. That is, it examines the search behaviors induced by queries and groups together queries with similar such behaviors, forming search behavior clusters. Then, it trains multiple ranking functions, each one corresponding to one of these clusters. The trained models are finally combined to re-rank the results of each new query, taking into account the similarity of the query with each cluster. The main idea is that similar search behaviors can be detected and exploited for result re-ranking by analysing results into feature vectors, and clustering them. The experimental evaluation shows that our method improves the ranking quality of a state of the art ranking model.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "DIANA-TarBase v7. 0: indexing more than half a million experimentally supported miRNA: mRNA interactions",
+            "Publication year": 2015,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/43/D1/D153/2439410",
+            "Abstract": "microRNAs (miRNAs) are short non-coding RNA species, which act as potent gene expression regulators. Accurate identification of miRNA targets is crucial to understanding their function. Currently, hundreds of thousands of miRNA:gene interactions have been experimentally identified. However, this wealth of information is fragmented and hidden in thousands of manuscripts and raw next-generation sequencing data sets. DIANA-TarBase was initially released in 2006 and it was the first database aiming to catalog published experimentally validated miRNA:gene interactions. DIANA-TarBase v7.0 (http://www.microrna.gr/tarbase) aims to provide for the first time hundreds of thousands of high-quality manually curated experimentally validated miRNA:gene interactions, enhanced with detailed meta-data. DIANA-TarBase v7.0 enables users to easily identify positive or negative experimental results, the utilized \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Heuristic containment check of partial tree-pattern queries in the presence of index graphs",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1183614.1183679",
+            "Abstract": "The wide adoption of XML has increased the interest of the database community on tree-structured data management techniques. Querying capabilities are provided through tree-pattern queries. The need for querying tree-structured data sources when their structure is not fully known, and the need to integrate multiple data sources with different tree structures have driven, recently, the suggestion of query languages that relax the complete specification of a tree pattern. In this paper, we use a query language which allows partial tree-pattern queries (PTPQs). The structure in a PTPQ can be flexibly specified fully, partially or not at all. To evaluate a PTPQ, we exploit index graphs which generate an equivalent set of\" complete\" tree-pattern queries. In order to process PTPQs, we need to efficiently solve the PTPQ satisfiability and containment problems. These problems become more complex in the context of PTPQs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "TarMiner: automatic extraction of miRNA targets from literature",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2791347.2791366",
+            "Abstract": "MicroRNAs (miRNAs) are small RNA molecules that target particular genes and prohibit their expression. Since many important diseases are related to the expression or non-expression of particular genes, knowing the miRNAs that affect these genes can help in finding possible treatments. In the last decade, a large amount of experimental studies trying to reveal the targets of several miRNAs has been published. A handful of curated databases that collect miRNA targets from the literature have been developed to make this information more easily available. However, due to the large number of existing published articles, maintaining these databases up-to-date is a tedious task that requires important resources. In this work we introduce TarMiner, a pipeline for automatic extraction of miRNA targets that can facilitate the curation process of databases that maintain miRNA validated targets.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Diachronic linked data: towards long-term preservation of structured interrelated information",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2422604.2422610",
+            "Abstract": "The Linked Data Paradigm is a promising technology for publishing, sharing, and connecting data on the Web, which provides new perspectives for data integration and interoperability. However, the proliferation of distributed, interconnected linked data sources on the Web poses significant new challenges for consistently managing the vast number of potentially large datasets and their interdependencies. In this article we focus on the key problem of preserving evolving structured interlinked data. We argue that a number of issues, which hinder applications and users, are related to the temporal aspect that is intrinsic in Linked Data. We present three use cases to motivate our approach, we discuss problems that occur, and propose a direction for a solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DIANA-microT web server: elucidating microRNA functions through target prediction",
+            "Publication year": 2009,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/37/suppl_2/W273/1128394",
+            "Abstract": "Computational microRNA (miRNA) target prediction is one of the key means for deciphering the role of miRNAs in development and disease. Here, we present the DIANA-microT web server as the user interface to the DIANA-microT 3.0 miRNA target prediction algorithm. The web server provides extensive information for predicted miRNA:target gene interactions with a user-friendly interface, providing extensive connectivity to online biological resources. Target gene and miRNA functions may be elucidated through automated bibliographic searches and functional information is accessible through Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways. The web server offers links to nomenclature, sequence and protein databases, and users are facilitated by being able to search for targeted genes using different nomenclatures or functional features, such as the genes possible involvement in biological \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Efficient evaluation of generalized tree-pattern queries with same-path constraints",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-02279-1_27",
+            "Abstract": "Querying XML data is based on the specification of structural patterns which in practice are formulated using XPath. Usually, these structural patterns are in the form of trees (Tree-Pattern Queries \u2013 TPQs). Requirements for flexible querying of XML data including XML data from scientific applications have motivated recently the introduction of query languages that are more general and flexible than TPQs. These query languages correspond to a fragment of XPath larger than TPQs for which efficient non-main-memory evaluation algorithms are not known.In this paper, we consider a query language, called Partial Tree-Pattern Query (PTPQ) language, which generalizes and strictly contains TPQs. PTPQs represent a broad fragment of XPath which is very useful in practice. We show how PTPQs can be represented as directed acyclic graphs augmented with \u201csame-path\u201d constraints. We develop an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Modelling and manipulating the structure of portal catalogs",
+            "Publication year": 2003,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.7846&rep=rep1&type=pdf",
+            "Abstract": "Portal catalog sites are Web information nodes that provide querying and browsing capabilities on data organized in a thematic hierarchy. Up to now, portal catalogs have not been treated as full-fledged objects so as to allow for their manipulation. A major challenge is thus to complement catalog search and browsing with operations that manipulate structural information from similar vertical portal catalog sites, that is sites of a specific subject or domain.This work proposes models and operators that allow for structural manipulation of vertical portal catalog sites, considering them as first-class citizens in the information search space. First, we explore the algebraic properties of trees representing hierarchies of portal catalogs, and define a lattice algebraic structure on them. Then, turning this structure into a boolean algebra, we present the operators S-union, S-intersection and S-difference to support structural manipulation of such trees. These operators have certain algebraic properties to provide clear semantics and assist the transformation, simplification and optimization of sequences of operations, using laws similar to those of set theory. Finally, we identify the conditions under which this framework is applicable.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Tech. report, KDBS Lab, Dept of Electrical and Computer Eng., NTU Athens"
+        },
+        {
+            "Title": "Querying tree-structured data using dimension graphs",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11431855_15",
+            "Abstract": "Tree structures provide a popular means to organize the information on the Web. Taxonomies of thematic categories, concept hierarchies, e-commerce product catalogs are examples of such structures. Querying multiple data sources that use tree structures to organize their data is a challenging issue due to name mismatches, structural differences and structural inconsistencies that occur in such structures, even for a single knowledge domain. In this paper, we present a method to query tree-structured data. We introduce dimensions which are sets of semantically related nodes in tree structures. Based on dimensions, we suggest dimension graphs. Dimension graphs can be automatically extracted from trees and abstract their structural information. They are semantically rich constructs that provide query guidance to pose and evaluate queries on trees. We design a query language to query tree-structured \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "DIANA-microT web server v5. 0: service integration into miRNA functional analysis workflows",
+            "Publication year": 2013,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/41/W1/W169/1100417",
+            "Abstract": "MicroRNAs (miRNAs) are small endogenous RNA molecules that regulate gene expression through mRNA degradation and/or translation repression, affecting many biological processes. DIANA-microT web server (http://www.microrna.gr/webServer) is dedicated to miRNA target prediction/functional analysis, and it is being widely used from the scientific community, since its initial launch in 2009. DIANA-microT v5.0, the new version of the microT server, has been significantly enhanced with an improved target prediction algorithm, DIANA-microT-CDS. It has been updated to incorporate miRBase version 18 and Ensembl version 69. The in silico-predicted miRNA\u2013gene interactions in Homo sapiens, Mus musculus, Drosophila melanogaster and Caenorhabditis elegans exceed 11 million in total. The web server was completely redesigned, to host a series of sophisticated workflows, which can be used directly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Mining user navigation patterns for personalizing topic directories",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1316902.1316916",
+            "Abstract": "Topic directories are popular means of organizing information resources in the web. In this work, we introduce a methodology for personalizing topic directories. The key feature of our methodology is that the personalization is based on the mining of navigation patterns extracted from previous user visits. These patterns, expressed in the form of visited categories and retrieved resources, represent the navigation behaviour and interests of different users or user groups. Our work provides a set of mining tasks for user navigation patterns and a set of personalization tasks that customize the organization of the topic directory according to these patterns for certain user groups.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Semantic Query Routing and Processing in P2P Digital Libraries",
+            "Publication year": 2005,
+            "Publication url": "https://www.academia.edu/download/30823642/delos-dagstuhl-handout-all.pdf#page=40",
+            "Abstract": "This paper investigates the peer-to-peer (P2P) resource-sharing paradigm for highly distributed Digital Libraries (DL). The objective is to support decentralized sharing of data and services in a network of autonomous and heterogeneous DL nodes. P2P DLs can operate without a central coordination and offer important advantages such as a very dynamic environment where peers can join and leave the network at any time, while the network can scale up to a large number of peers. The advanced structuring and retrieval functionality of peers poses new challenges in query routing and processing over autonomous, distributed and dynamic networks of DL. The paper considers two fundamental aspects of P2P Digital Libraries (P2P DLs): query routing and processing. Specifically, we design and implement effective and efficient query routing in P2P DLs, exploiting intensional indexing of DL node views. Also, we study interleaved query routing and processing algorithms in P2P DLs to produce as quickly as possible the first query results.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DIANA-miRGen v3. 0: accurate characterization of microRNA promoters and their regulators",
+            "Publication year": 2016,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/44/D1/D190/2503068",
+            "Abstract": "microRNAs (miRNAs) are small non-coding RNAs that actively fine-tune gene expression. The accurate characterization of the mechanisms underlying miRNA transcription regulation will further expand our knowledge regarding their implication in homeostatic and pathobiological networks. Aim of DIANA-miRGen v3.0 (http://www.microrna.gr/mirgen) is to provide for the first time accurate cell-line-specific miRNA gene transcription start sites (TSSs), coupled with genome-wide maps of transcription factor (TF) binding sites in order to unveil the mechanisms of miRNA transcription regulation. To this end, more than 7.3 billion RNA-, ChIP- and DNase-Seq next generation sequencing reads were analyzed/assembled and combined with state-of-the-art miRNA TSS prediction and TF binding site identification algorithms. The new database schema and web interface facilitates user interaction, provides advanced \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "NaviMoz: Mining navigational patterns in portal catalogs",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11896548_60",
+            "Abstract": "Portal Catalogs is a popular means of searching for information on the Web. They provide querying and browsing capabilities on data organized in a hierarchy, on a category/subcategory basis. This paper presents mining techniques on user navigational patterns in the hierarchies of portal catalogs. Specifically, we study and implement navigation retrieval methods and clustering tasks based on navigational patterns. The above mining tasks are quite useful for portal administrators, since they can be used to observe users\u2019 behavior, extract personal preferences and re-organize the structure of the portal to satisfy better user needs and navigational habits. These mining tasks have been implemented in the NaviMoz, a prototype system for mining navigational patterns in portal catalogs.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "miRGen 2.0: a database of microRNA genomic information and regulation",
+            "Publication year": 2010,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/38/suppl_1/D137/3112243",
+            "Abstract": "MicroRNAs are small, non-protein coding RNA molecules known to regulate the expression of genes by binding to the 3\u2032UTR region of mRNAs. MicroRNAs are produced from longer transcripts which can code for more than one mature miRNAs. miRGen 2.0 is a database that aims to provide comprehensive information about the position of human and mouse microRNA coding transcripts and their regulation by transcription factors, including a unique compilation of both predicted and experimentally supported data. Expression profiles of microRNAs in several tissues and cell lines, single nucleotide polymorphism locations, microRNA target prediction on protein coding genes and mapping of miRNA targets of co-regulated miRNAs on biological pathways are also integrated into the database and user interface. The miRGen database will be continuously maintained and freely available at http://www.microrna \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "An overview of web data clustering practices",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30192-9_59",
+            "Abstract": "Clustering is a challenging topic in the area of Web data management. Various forms of clustering are required in a wide range of applications, including finding mirrored Web pages, detecting copyright violations, and reporting search results in a structured way. Clustering can either be performed once offline, (independently to search queries), or online (on the results of search queries). Important efforts have focused on mining Web access logs and to cluster search engine results on the fly. Online methods based on link structure and text have been applied successfully to finding pages on related topics. This paper presents an overview of the most popular methodologies and implementations in terms of clustering either Web users or Web sources and presents a survey about current status and future trends in clustering employed over the Web.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "mirPub: a database for searching microRNA publications",
+            "Publication year": 2015,
+            "Publication url": "https://academic.oup.com/bioinformatics/article-abstract/31/9/1502/200032",
+            "Abstract": " Summary: Identifying, amongst millions of publications available in MEDLINE, those that are relevant to specific microRNAs (miRNAs) of interest based on keyword search faces major obstacles. References to miRNA names in the literature often deviate from standard nomenclature for various reasons, since even the official nomenclature evolves. For instance, a single miRNA name may identify two completely different molecules or two different names may refer to the same molecule. mirPub is a database with a powerful and intuitive interface, which facilitates searching for miRNA literature, addressing the aforementioned issues. To provide effective search services, mirPub applies text mining techniques on MEDLINE, integrates data from several curated databases and exploits data from its user community following a crowdsourcing approach. Other key features include an interactive visualization \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Modeling and manipulating the structure of hierarchical schemas for the web",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020025507004471",
+            "Abstract": "The Semantic Web is the next step of the current Web where information will become more machine-understandable to support effective data discovery and integration. Hierarchical schemas, either in the form of tree-like structures (e.g., DTDs, XML schemas), or in the form of hierarchies on a category/subcategory basis (e.g., thematic hierarchies of portal catalogs), play an important role in this task. They are used to enrich semantically the available information. Up to now, hierarchical schemas have been treated rather as sets of individual elements, acting as semantic guides for browsing or querying data. Under that view, queries like \u201cfind the part of a portal catalog which is not present in another catalog\u201d can be answered only in a procedural way, specifying which nodes to select and how to get them. For this reason, we argue that hierarchical schemas should be treated as full-fledged objects so as to allow for their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "DIANA-microT Web server upgrade supports Fly and Worm miRNA target prediction and bibliographic miRNA to disease association",
+            "Publication year": 2011,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/39/suppl_2/W145/2505870",
+            "Abstract": " microRNAs (miRNAs) are small endogenous RNA molecules that are implicated in many biological processes through post-transcriptional regulation of gene expression. The DIANA-microT Web server provides a user-friendly interface for comprehensive computational analysis of miRNA targets in human and mouse. The server has now been extended to support predictions for two widely studied species: Drosophila melanogaster and Caenorhabditis elegans . In the updated version, the Web server enables the association of miRNAs to diseases through bibliographic analysis and provides insights for the potential involvement of miRNAs in biological processes. The nomenclature used to describe mature miRNAs along different miRBase versions has been extensively analyzed, and the naming history of each miRNA has been extracted. This enables the identification of miRNA publications regardless of possible \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "SCHeMa: Scheduling Scientific Containers on a Cluster of Heterogeneous Machines",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2103.13138",
+            "Abstract": "In the era of data-driven science, conducting computational experiments that involve analysing large datasets using heterogeneous computational clusters, is part of the everyday routine for many scientists. Moreover, to ensure the credibility of their results, it is very important for these analyses to be easily reproducible by other researchers. Although various technologies, that could facilitate the work of scientists in this direction, have been introduced in the recent years, there is still a lack of open source platforms that combine them to this end. In this work, we describe and demonstrate SCHeMa, an open-source platform that facilitates the execution and reproducibility of computational analysis on heterogeneous clusters, leveraging containerization, experiment packaging, workflow management, and machine learning technologies.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bip! finder: Facilitating scientific literature search by exploiting impact-based ranking",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3357384.3357850",
+            "Abstract": "Due to the rapidly increasing number of scientific articles, finding valuable work for further research has become tedious and time consuming. To alleviate this issue, search engines have used citation-based article impact ranking. However, most engines rely on very simplistic impact measures (usually the citation count) and make the problematic assumption that there is a one-size-fits-all impact measure. To address these problems, we present BIP! Finder, a search engine that facilitates the identification of valuable articles by exploiting two different impact measures, each capturing a different aspect of the article impact. In addition, BIP! Finder provides many useful features (article comparison, intuitive visualisations, article bookmarking mechanism, etc.) making it a powerful addition to the researcher's toolbox.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Querying and integrating ontologies viewed as conceptual schemas",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-39648-2_42",
+            "Abstract": "Real-world ontologies have associated data sets. In order to exploit ontologies as a means to provide semantics to the data it is necessary not only to reason about concepts and their properties but also to be able to query the underlying data and efficiently obtain answers. We view ontologies as conceptual schemas that are populated with data. We define a generic graph-based representation for ontology schemas and provide a language for querying ontologies. This language is appropriate for ontology transformation and ontology integration. We show how ontologies can be integrated by defining views over multiple ontologies, and how user queries can be specified using views. Our approach can be easily implemented on top of a relational database management system.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Simplifying Impact Prediction for Scientific Articles",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2012.15192",
+            "Abstract": "Estimating the expected impact of an article is valuable for various applications (e.g., article/cooperator recommendation). Most existing approaches attempt to predict the exact number of citations each article will receive in the near future, however this is a difficult regression analysis problem. Moreover, most approaches rely on the existence of rich metadata for each article, a requirement that cannot be adequately fulfilled for a large number of them. In this work, we take advantage of the fact that solving a simpler machine learning problem, that of classifying articles based on their expected impact, is adequate for many real world applications and we propose a simplified model that can be trained using minimal article metadata. Finally, we examine various configurations of this model and evaluate their effectiveness in solving the aforementioned classification problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Publishing life science data as linked open data: the case study of miRBase",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2422604.2422615",
+            "Abstract": "This paper presents our Linked Open Data (LOD) infrastructures for genomic and experimental data related to microRNA biomolecules. Legacy data from two well-known microRNA databases with experimental data and observations, as well as change and version information about microRNA entities, are fused and exported as LOD. Our LOD server assists biologists to explore biological entities and their evolution, and provides a SPARQL endpoint for applications and services to query historical miRNA data and track changes, their causes and effects.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Collaborative Ranking Function Training for Web Search Personalization",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.620.3247&rep=rep1&type=pdf",
+            "Abstract": "In this paper, we present a framework for improving the ranking function training and the re-ranking process for web search personalization. Our method is based on utilizing clickthrough data from several users in order to create multiple ranking functions that correspond to different topic areas. Those ranking functions are combined each time a user poses a new query in order to produce a new ranking, taking into account the similarity of the query with each of the topic areas mentioned before. We compare our method with the traditional approaches of training one ranking function per user, or per group of users and we show preliminary experimental results.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sdqnet: Semantic distributed querying in loosely coupled data sources",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11827252_7",
+            "Abstract": "Web communities involve networks of loosely coupled data sources. Members in those communities should be able to pose queries and gather results from all data sources in the network, where available. At the same time, data sources should have limited restrictions on how to organize their data. If a global schema is not available for such a network, query processing is strongly based on the existence of (hard to maintain) mapping rules between pairs of data sources. If a global schema is available, local schemas of data sources have to follow strict modelling restrictions posed by that schema.In this paper, we suggest an architecture to provide better support for distributed data management in loosely coupled data sources. In our approach, data sources can maintain diverse schemas. No explicit mapping rules between data sources are needed to facilitate query processing. Data sources can join \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "DIANA-LncBase: experimentally verified and computationally predicted microRNA targets on long non-coding RNAs",
+            "Publication year": 2013,
+            "Publication url": "https://academic.oup.com/nar/article-abstract/41/D1/D239/1071827",
+            "Abstract": "Recently, the attention of the research community has been focused on long non-coding RNAs (lncRNAs) and their physiological/pathological implications. As the number of experiments increase in a rapid rate and transcriptional units are better annotated, databases indexing lncRNA properties and function gradually become essential tools to this process. Aim of DIANA-LncBase (www.microrna.gr/LncBase) is to reinforce researchers\u2019 attempts and unravel microRNA (miRNA)\u2013lncRNA putative functional interactions. This study provides, for the first time, a comprehensive annotation of miRNA targets on lncRNAs. DIANA-LncBase hosts transcriptome-wide experimentally verified and computationally predicted miRNA recognition elements (MREs) on human and mouse lncRNAs. The analysis performed includes an integration of most of the available lncRNA resources, relevant high-throughput HITS-CLIP and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:k_IJM867U9cC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Semantic integration of tree-structured data using dimension graphs",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11603412_8",
+            "Abstract": "Nowadays, huge volumes of Web data are organized or exported in tree-structured form. Popular examples of such structures are product catalogs of e-market stores, taxonomies of thematic categories, XML data encodings, etc. Even for a single knowledge domain, name mismatches, structural differences and structural inconsistencies raise difficulties when many data sources need to be integrated and queried in a uniform way. In this paper, we present a method for semantically integrating tree-structured data. We introduce dimensions which are sets of semantically related nodes in tree structures. Based on dimensions, we suggest dimension graphs. Dimension graphs can be automatically extracted from trees and abstract their structural information. They are semantically rich constructs that provide query guidance to pose queries, assist query evaluation and support integration of tree-structured data. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the usage of structural distance metrics for mining hierarhical structures",
+            "Publication year": 2006,
+            "Publication url": "https://researchrepository.rmit.edu.au/esploro/outputs/bookChapter/On-the-usage-of-structural-distance/9921858387701341",
+            "Abstract": "The recent proliferation of XML-based standards and technologies demonstrates the need for effective management of hierarchical structures. Such structures are used, for example, to organize data in product catalogs, taxonomies of thematic categories, concept hierarchies, etc. Since the XML language has become the standard data exchange format on the Web, organizing data in hierarchical structures has been vastly established. Even if data are not stored natively in such structures, export mechanisms make data publicly a vailable in hierarchical structures to enable its automatic processing by programs, scripts and agents.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:tOudhMTPpwUC",
+            "Publisher": "RMIT University"
+        },
+        {
+            "Title": "Integrating keywords and semantics on document annotation and search",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-16949-6_19",
+            "Abstract": "This paper describes GoNTogle, a framework for document annotation and retrieval, built on top of Semantic Web and IR technologies. GoNTogle supports ontology-based annotation for documents of several formats, in a fully collaborative environment. It provides both manual and automatic annotation mechanisms. Automatic annotation is based on a learning method that exploits user annotation history and textual information to automatically suggest annotations for new documents. GoNTogle also provides search facilities beyond the traditional keyword-based search. A flexible combination of keyword-based and semantic-based search over documents is proposed in conjunction with advanced ontology-based search operations. The proposed methods are implemented in a fully functional tool and their effectiveness is experimentally validated.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A randomized approach for the incremental design of an evolving data warehouse",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45581-7_25",
+            "Abstract": "A Data Warehouse (DW) can be used to integrate data from multiple distributed data sources. A DW can be seen as a set of materialized views that determine its schema and its content in terms of the schema and the content of the data sources. DW applications require high query performance. For this reason,t he design of a typical DW consists of selecting views to materialize that are able to answer a set of input user queries. However,the cost of answering the queries has to be balanced against the cost of maintaining the materialized views. In an evolving DW application,ne w queries need to be answered by the DW. An incremental selection of materialized views uses the materialized views already in the DW to answer parts of the new queries,an d avoids the re-implementation of the DW from scratch. This incremental design is complex and an exhaustive approach is not feasible. We have developed a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A study on the readability of scientific publications",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-30760-8_12",
+            "Abstract": "Several works have used traditional readability measures to investigate the readability of scientific texts and its association with scientific impact . However, these works are limited in terms of dataset size, range of domains, and examined readability and impact measures. Our study addresses these limitations, investigating the readability of paper abstracts on a very large multidisciplinary corpus, the association of expert judgments on abstract readability with traditional readability measures, and the association of abstract readability with the scientific impact of the corresponding publication.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Accurate microRNA target prediction correlates with protein repression levels",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1186/1471-2105-10-295",
+            "Abstract": "MicroRNAs are small endogenously expressed non-coding RNA molecules that regulate target gene expression through translation repression or messenger RNA degradation. MicroRNA regulation is performed through pairing of the microRNA to sites in the messenger RNA of protein coding genes. Since experimental identification of miRNA target genes poses difficulties, computational microRNA target prediction is one of the key means in deciphering the role of microRNAs in development and disease. DIANA-microT 3.0 is an algorithm for microRNA target prediction which is based on several parameters calculated individually for each microRNA and combines conserved and non-conserved microRNA recognition elements into a final prediction score, which correlates with protein production fold change. Specifically, for each predicted interaction the program reports a signal to noise ratio and a precision score \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "BioMed Central"
+        },
+        {
+            "Title": "Modeling asset allocation strategies and a new portfolio performance score",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2012.05088",
+            "Abstract": "We discuss and extend a powerful, geometric framework to represent the set of portfolios, which identifies the space of asset allocations with the points lying in a convex polytope. Based on this viewpoint, we survey certain state-of-the-art tools from geometric and statistical computing in order to handle important and difficult problems in digital finance. Although our tools are quite general, in this paper we focus on two specific questions. The first concerns crisis detection, which is of prime interest for the public in general and for policy makers in particular because of the significant impact that crises have on the economy. Certain features in stock markets lead to this type of anomaly detection: Given the assets' returns, we describe the relationship between portfolios' return and volatility by means of a copula, without making any assumption on investor strategies. We examine a recent method relying on copulae to construct an appropriate indicator that allows us to automate crisis detection. On real data, the indicator detects all past crashes in the cryptocurrency market, whereas from the DJ600-Europe index, from 1990 to 2008, the indicator identifies correctly 4 crises and issues one false positive for which we offer an explanation. Our second contribution is to introduce an original computational framework to model asset allocation strategies, which is of independent interest for digital finance and its applications. Our approach addresses the crucial question of evaluating portfolio management, and is relevant to individual managers as well as financial institutions. To evaluate portfolio performance, we provide a new portfolio score, based on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Publishing census as linked open data: a case study",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2500410.2500412",
+            "Abstract": "In this paper we present a case study on publishing statistical data as Linked Open Data. Statistical or fact-based data are maintained by statistical agencies and organizations, harvested via surveys or aggregated from other sources and mainly concern to observations of socioeconomic indicators. In this case study, we present the publishing as LOD of the preliminary results of Greece's resident population census, conducted in 2011. We have employed the Data Cube vocabulary and the Google Refine tool for modelling and publishing the census results.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluation of partial path queries on XML data",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1321440.1321446",
+            "Abstract": "XML query languages typically allow the specification of structural patterns of elements. Finding the occurrences of such patterns in an XML tree is the key operation in XML query processing. Many algorithms have been presented for this operation. These algorithms focus mainly on the evaluation of path-pattern or tree-pattern queries. In this paper, we define a partial path-pattern query language, and we address the problem of its efficient evaluation on XML data.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "GoNTogle: a tool for semantic annotation and search",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-13489-0_27",
+            "Abstract": "This paper presents GoNTogle, a tool which provides advanced document annotation and search facilities. GoNTogle allows users to annotate several document formats, using ontology concepts. It also produces automatic annotation suggestions based on textual similarity and previous document annotations. Finally, GoNTogle combines keyword and semantic-based search, offering advanced ontology query facilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Intelligent Management Platform for Material Exchange Optimization and Industrial Symbiosis",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780323885065501194",
+            "Abstract": "Developing Industrial Symbiosis (IS) networks is a knowledge-intensive practice, where information is of crucial importance in order to discover the potential of IS connections between facilities engaging in exchange of materials and/or energy. In this work, we provide methods and tools that assist modelling and systemic use of existing IS knowledge to analyse potential IS networks and synergies.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On the Usage of Structural Distance Metrics for Mining Hierarchical Structures",
+            "Publication year": 2006,
+            "Publication url": "https://www.igi-global.com/chapter/usage-structural-distance-metrics-mining/28153",
+            "Abstract": "The recent proliferation of XML-based standards and technologies demonstrates the need for effective management of hierarchical structures. Such structures are used, for example, to organize data in product catalogs, taxonomies of thematic categories, concept hierarchies, etc. Since the XML language has become the standard data exchange format on the Web, organizing data in hierarchical structures has been vastly established. Even if data are not stored natively in such structures, export mechanisms make data publicly available in hierarchical structures to enable its automatic processing by programs, scripts and agents. Processing data encoded in hierarchical structures has been a popular research issue, resulting in the design of effective query languages. However, the inherent structural aspect of such encodings has not received strong attention till lately, when the requirement for mining tasks, like \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:mB3voiENLucC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Rdivf: Diversifying keyword search on RDF graphs",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40501-3_49",
+            "Abstract": "In this paper, we outline our ongoing work on diversifying keyword search results on RDF data. Given a keyword query over an RDF graph, we define the problem of diversifying the search results and we present diversification criteria that take into consideration both the content and the structure of the results, as well as the underlying RDF/S\u2013OWL schema.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A Graph-Analytical Approach for the Development of Circular Economy Networks",
+            "Publication year": 2020,
+            "Publication url": "https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/610533",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:sSrBHYA8nusC",
+            "Publisher": "AIChE"
+        },
+        {
+            "Title": "Evaluation techniques for generalized path pattern queries on XML data",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11280-010-0092-2.pdf",
+            "Abstract": "Finding the occurrences of structural patterns in XML data is a key operation in XML query processing. Existing algorithms for this operation focus almost exclusively on path patterns or tree patterns. Current applications of XML require querying of data whose structure is complex or is not fully known to the user, or integrating XML data sources with different structures. These applications have motivated recently the introduction of query languages that allow a partial specification of path patterns in a query. In this paper, we consider partial path queries, a generalization of path pattern queries, and we focus on their efficient evaluation under the indexed streaming evaluation model. Our approach explicitly deals with repeated labels (that is, multiple occurrences of the same label in a query). We show that partial path queries can be represented as rooted dags for which a topological ordering of the nodes exists \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "WJOLNAYAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Simplifying p-value calculation for the unbiased microRNAenrichment analysis, using ML-techniques.",
+            "Publication year": 2021,
+            "Publication url": "https://simplify2021.imsi.athenarc.gr/papers/SIMPLIFY_2021_paper_12.pdf",
+            "Abstract": "The investigation of the role of small bio-molecules (called microRNAs) in biological functions is a very popular topic in bioinformatics, since microRNAs have been shown to present novel therapeutic methods for diseases like cancer or Hepatitis C. In order to predict the involvement of microRNAs in biological functions many statistical approaches have been used that involve p-value calculations, with the most popular one being Fisher\u2019s exact test. However, it has been shown that data distribution does not match with any of the theoretical distributions used by the aforementioned approaches. Thus, an empirical randomization approach is preferred. Nevertheless, such analyses are computationally intensive. In this paper, we present a novel approach for microRNA enrichment analysis using Machine Learning techniques, in order to predict p-values instead of calculating them using randomization experiments. This simplifies the work for bioinformatics data analysts, helping them to efficiently perform multiple enrichment analysis tasks.",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "AI4B: Accountable IT Infrastructures for Optimizing Supply Chains in Bioenergy Symbiotic Networks",
+            "Publication year": 2013,
+            "Publication url": "https://core.ac.uk/download/pdf/52724521.pdf#page=46",
+            "Abstract": "Biomass-biological material from living or recently living organisms-represents the largest renewable energy source and is the only renewable energy source that is based on carbon. Raw materials, such as wood, agricultural residues, food waste, industrial waste and co-products have captured the interest of markets and industries worldwide following the uncertainties in fossil fuel supply and the need to reduce greenhouse gas emissions. Involvement in the biomass business in Greece has several advantages, since Greece reports an agricultural share of the GDP that is three times higher than the EU average, and thus there are plenty of sources for raw biomass materials.The AI4B project, co-financed by EU\u2019s Regional Development Fund and by national resources, comes at a critical stage for the country, in line with a major effort to develop renewable energy sources, which is planned to be one of the driving forces to turn recession into growth. AI4B mobilizes academic partners, IT SMEs and regional development agencies to develop innovative IT infrastructures to remove",
+            "Abstract entirety": 1,
+            "Author pub id": "WJOLNAYAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

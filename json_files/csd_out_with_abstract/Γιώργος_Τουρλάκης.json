@@ -1,0 +1,280 @@
+[{
+    "name": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u03a4\u03bf\u03c5\u03c1\u03bb\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Giorgos Tourlakis",
+    "School-Department": "Department of Electrical Engineering and Computer Science",
+    "University": "York University",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 7037,
+    "Scholar name": "george tourlakis",
+    "Scholar id": "ubosF3IAAAAJ",
+    "Affiliation": "Professor, EECS, York University",
+    "Citedby": 312,
+    "Interests": [
+        "logic",
+        "computability"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=ubosF3IAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "On the proof-theory of a first-order extension of GL",
+            "Publication year": 2014,
+            "Publication url": "https://apcz.umk.pl/czasopisma/index.php/LLP/article/view/LLP.2013.030",
+            "Abstract": "We introduce a first order extension of GL, called ML 3, and develop its proof theory via a proxy cut-free sequent calculus GLTS. We prove the highly nontrivial result that cut is a derived rule in GLTS, a result that is unavailable in other known first-order extensions of GL. This leads to proofs of weak reflection and the related conservation result for ML 3, as well as proofs for Craig\u2019s interpolation theorem for GLTS. Turning to semantics we prove that ML 3 is sound with respect to arithmetical interpretations and that it is also sound and complete with respect to converse well-founded and transitive finite Kripke models. This leads us to expect that a Solovay-like proof of arithmetical completeness of ML 3 is possible.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the soundness and completeness of equational predicate logics",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8177832/",
+            "Abstract": "This paper is about the elementary metatheory of equational predicate logic\u2014that is, first\u2010order logic that uses Leibniz's substitution of \u2018equals for equals\u2019 as a primary rule of inference. We present here two different \u2018faithful\u2019 formalizations of this logic and prove that both versions are sound and complete. A by\u2010product of this study is a proof that the \u2018full\u2019 Leibniz rule is strictly stronger than the \u2018no\u2010capture\u2019 Leibniz rule. We obtain this result here for a complete Logic. We also show that under some reasonable conditions, propositional Leibniz, no\u2010capture Leibniz, and a full\u2010capture version are all equivalent, provided that the latter is restricted to act on universally valid premises whenever capture is allowed.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "A programming formalism for PR",
+            "Publication year": 2002,
+            "Publication url": "http://www.cs.yorku.ca/~gt/papers/loop-programs-v2020.pdf",
+            "Abstract": "A Programming Formalism for PR Lecture #9 (continued) Oct. 7. Page 1 A Programming \nFormalism for PR* A brief note that assumes access to [Tou12]. George Tourlakis October 21, \n2020 Lecture #9 (continued) Oct. 7. 1 Syntax and Semantics of Loop Programs Loop programs \nwere introduced by D. Ritchie and A. Meyer ([MR67]) as program-theoretic counterpart to the \nnumber theoretic introduction of the set of primitive recursive functions PR. This programming \nformalism among other things connected the definitional (or structural) complexity of primitive \nrecursive functions with their (run time) computational complexity. *Supplementary lecture \nnotes for EECS2001B; Fall 2020 1 Page 2 Loop programs are very similar to programs written \nin FORTRAN, but have a number of simplifications, notably they lack an unrestricted do-while \ninstruction (equivalently, there is NO goto instruction). 2 Page 3 What they do have is (1) (.\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubosF3IAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pure iteration and substitution as the basis of computability",
+            "Publication year": 2011,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/40_34_8.pdf",
+            "Abstract": "It is known that, in the presence of pairing/projection functions,(pure) iteration can simulate primitive recursion [5, 6]. This fact implies that the class of primitive recursive functions, PR, can be obtained as the closure of a small set of initial functions under substitution and pure iteration\u2014as long as the floor of the square root is included as an initial function to bootstrap the construction of pairing/projection functions\u2014or from just the successor and predecessor functions if we add bounded search to the a priori available operations. In Section 2 of the paper we show that neither the inclusion of square root nor of bounded search are necessary to build PR from the successor and predecessor. In Section 3 we show that the class of partial recursive functions, P, can be obtained as the closure of PR under the operation of infinite (pure) iteration.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the proof-theory of two formalisations of modal first-order logic",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18428962278776073949&hl=en&oi=scholarr",
+            "Abstract": "We introduce a Gentzen-style modal predicate logic and prove the cut-elimination theorem for it. This sequent calculus of cut-free proofs is chosen as a proxy to develop the proof-theory of the logics introduced in [14, 15, 4]. We present syntactic proofs for all the metatheoretical results that were proved model-theoretically in loc. cit. and moreover prove that the form of weak reflection proved in these papers is as strong as possible",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Proof Theoretic Tool for First-Order Modal Logic",
+            "Publication year": 2013,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/42_34_1.pdf",
+            "Abstract": "The authors of [11] initiated the (syntactic) proof theoretic study of the first-order modal logics M3 and BM that were originally introduced in [5, 14, 15]. The principal tool in [11] was the \u201cGentzenisation\u201d of said logics, in the paradigm of [8, 9, 16], and cut elimination. In this paper we introduce a new technique based on formula to formula mappings that we call \u201cformulators\u201d, which preserve provability. As applications we present both positive and negative metatheoretical results for three logics: the aforementioned M3; another logic, ML3, that we introduce here as a first-order counterpart of the logic GL (of [2, 6, 8, 9, 16]); and for the quantified version of GL, QGL, obtained from classical first order logic by adding the GL axiom-schemata without requiring\u2013as we do for M3 and ML3\u2013that DA is always closed. QGL is a logic that does not allow cut elimination ([1])\u2013that is, its natural Gentzen equivalent does not\u2013and this demonstrates the significance of the formulator tool; not only allows simple proofs, bypassing two highly non trivial steps for the logic under study\u2013namely, Gentzenisation and cut elimination\u2013but it also finds application to predicative modal logics, such as QGL, where cut elimination is provably impossible. Among the positive results we prove that the weak reflection property and the conservation property hold for all of M3, ML3 and QGL. We also establish the negative results that neither A\u2192 DA nor DA\u2192 A are provable in any of the",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Interplay between Syntax and Semantics",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "John Wiley & Sons, Inc."
+        },
+        {
+            "Title": "A modal extension of weak generalisation predicate logic",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8131667/",
+            "Abstract": "We introduce a new axiomatic system of modal logic, BM, extending classical first order logic by adding the binary modal symbol \u201c\u25b9\u201d intended to simulate the metamathematical provability predicate \u201c\u22a2\u201d of classical logic. We demonstrate via examples how BM can be used to write equational proofs of first order classical theorems, and show that this ability hinges on a \u201cconservation result\u201d: BM proves A \u25b9 B for classical A and B iff A \u22a2 B holds classically. We introduce appropriate Kripke semantics with respect to which we prove BM is sound and complete. As a corollary we prove the above mentioned conservation result.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Theory of computation",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=s0m9eNjmxeEC&oi=fnd&pg=PR11&dq=info:3LGSdJVhZsMJ:scholar.google.com&ots=5a0Fo5if20&sig=9K_VED_XXR3sLSfmEODiyPGb5zM",
+            "Abstract": "Learn the skills and acquire the intuition to assess the theoretical limitations of computer programming Offering an accessible approach to the topic, Theory of Computation focuses on the metatheory of computing and the theoretical boundaries between what various computational models can do and not do\u2014from the most general model, the URM (Unbounded Register Machines), to the finite automaton. A wealth of programming-like examples and easy-to-follow explanations build the general theory gradually, which guides readers through the modeling and mathematical analysis of computational phenomena and provides insights on what makes things tick and also what restrains the ability of computational processes. Recognizing the importance of acquired practical experience, the book begins with the metatheory of general purpose computer programs, using URMs as a straightforward, technology-independent model of modern high-level programming languages while also exploring the restrictions of the URM language. Once readers gain an understanding of computability theory\u2014including the primitive recursive functions\u2014the author presents automata and languages, covering the regular and context-free languages as well as the machines that recognize these languages. Several advanced topics such as reducibilities, the recursion theorem, complexity theory, and Cook's theorem are also discussed. Features of the book include: A review of basic discrete mathematics, covering logic and induction while omitting specialized combinatorial topics A thorough development of the modeling and mathematical analysis of computational \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubosF3IAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "John Wiley & Sons"
+        },
+        {
+            "Title": "Appendix A: G\u00f6del's Theorems and Computability",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "John Wiley & Sons, Inc."
+        },
+        {
+            "Title": "Lectures in Logic and Set Theory: Volume 2, Set Theory",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=nparMXao59QC&oi=fnd&pg=PR11&dq=info:3UD29y-T6UwJ:scholar.google.com&ots=raFuhThSP7&sig=HCSRnj-MsgC2IudXpcBdQ-m2rIY",
+            "Abstract": "This two-volume work bridges the gap between introductory expositions of logic or set theory on one hand, and the research literature on the other. It can be used as a text in an advanced undergraduate or beginning graduate course in mathematics, computer science, or philosophy. The volumes are written in a user-friendly conversational lecture style that makes them equally effective for self-study or class use. Volume II, on formal (ZFC) set theory, incorporates a self-contained'chapter 0'on proof techniques so that it is based on formal logic, in the style of Bourbaki. The emphasis on basic techniques will provide the reader with a solid foundation in set theory and provides a context for the presentation of advanced topics such as absoluteness, relative consistency results, two expositions of Godel's constructible universe, numerous ways of viewing recursion, and a chapter on Cohen forcing.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Generalization and Additional Leibniz Rules",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:8k81kl-MbHgC",
+            "Publisher": "John Wiley & Sons, Inc."
+        },
+        {
+            "Title": "A new foundation of a complete Boolean equational logic",
+            "Publication year": 2009,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/38_12_3.pdf",
+            "Abstract": "We redefine the equational-proofs formalism of [2],[3],[7],[5],[6] and present a direct proof that it is complete in the following strong and precise sense: Every tautology has an equational proof. As a side-effect we establish that equational logic can be founded on a single rule of inference (Leibniz) without adding any axioms beyond those present in the foregoing references.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A modal extension of first order classical logic\u2014Part I",
+            "Publication year": 2003,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/32_4_1.pdf",
+            "Abstract": "We formalize a fragment of the metatheory of classical first order logic by adding a new connective, the modal 2, whose intended interpretation is the (classical) metalogical predicate \u201cis a theorem\u201d(\u22a3). We then illustrate how to employ this modal extension of classical logic to write equational proofs of classical theorems, and prove (in Part II) its completeness and soundness with respect to Kripke models. We also prove that the extension meets our objective: For any classical formulae A and B, we can prove 2A\u2192 2B modally iff we can prove A\u22a3 B classically.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mathematical Logic (for use)",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6018123429104461796&hl=en&oi=scholarr",
+            "Abstract": "The bad news is that it is rather difficult, or esoteric, or both. The good news is that you do not need to understand (or even read) its contents in order to understand the sequel. It is only there in the interest of the \u201cdemanding\u201d reader.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "5. The Main Conservation Requirement",
+            "Publication year": 2004,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/kopie/32_4_1.pdf",
+            "Abstract": "Theorem 5.1 holds, as it immediately follows from the following two lemmata. A consequence of 5.1 is that if T is consistent classically, then T\u222a 2T is so modally. For if the latter proves everything, it must prove 2\u22a5. But then T must prove\u22a5 classically, and hence prove everything by tautological implication.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Ackermanns Function",
+            "Publication year": 2008,
+            "Publication url": "http://www.cse.yorku.ca/~gt/papers/Ackermann-function.pdf",
+            "Abstract": "\u2217 Lecture notes for CS4111 and CS5111; Winter 2006, 2008 1Here the colloquialisms \u201ceasy to compute\u201d and \u201chard to compute\u201d are aliases for \u201cprimitive recursive\u201d and \u201cnot primitive recursive\u201d respectively. This is a hopelessly coarse rendering of easy/hard and a much better gauge for the time complexity of a problem is on which side of O (2n) it lies. However, our gauge will have to do here: All I want to leave you with is that for some functions it is easier to compute the graph\u2014to the quantifiable extent that it is in PR\u2217\u2014than the function itself\u2014to the extent that it fails being primitive recursive.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computability in type-2 objects with well-behaved type-1 oracles is p-normal",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.2052&rep=rep1&type=pdf",
+            "Abstract": "We show that computability in a type-2 object is p-normal if type-1 partial inputs are computed by \u201cwell-behaved oracles\u201d.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Amsterdam; Washington, DC: IOS Press, c1992-"
+        },
+        {
+            "Title": "A modal extension of first order classical logic",
+            "Publication year": 2003,
+            "Publication url": "http://www.cse.yorku.ca/~gt/papers/TK3-v11.pdf",
+            "Abstract": "We expand classical first order logic by formalizing a fragment of its metatheory, namely adding a predicate \u201cis a theorem\u201d(\u22a2) in its modes of expression. We do this by embedding the classical logic into a very basic version of modal logic, letting the latter\u2019s modal operator D play the role of the predicate \u201cis a theorem\u201d. We conclude with a number of illustrations of use and a proof of the conservatism of the extended logic: If it proves DA for a classical formula A, then A is indeed a classical theorem.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A basic formal equational predicate logic\u2014Part I",
+            "Publication year": 2000,
+            "Publication url": "http://www.filozof.uni.lodz.pl/bulletin/pdf/29_12_5.pdf",
+            "Abstract": "We present, in two parts, the details of a formalization of Equational Predicate Logic based on a \u201cpropositional\u201d version of the Leibniz rule (Propositional Strong Leibniz, or PSL), and Equanimity (EQN). Both rules are \u201cstrong\u201d, that is, they are applicable to arbitrary premises (not just to absolute theorems). We show (Part II) that a strong \u201cno-capture\u201d Leibniz, and a weak \u201cfullcapture\u201d version are derived rules (both access the interior of quantifier scopes). We also derive general rules MON (monotonicity) and AMON (antimonotonicity), which allow us to \u201ccalculate\u201d appropriate conclusions\u22a3 C [p\\A]\u21d2",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Arithmetically Complete Predicate Modal Logic",
+            "Publication year": 2021,
+            "Publication url": "http://www.czasopisma.uni.lodz.pl/bulletin/article/view/8441",
+            "Abstract": "This paper investigates a first-order extension of GL called. We outline briefly the history that led to, its key properties and some of its toolbox: the\\emph {conservation theorem}, its cut-free Gentzenisation, the``formulators''tool. Its semantic completeness (with respect to finite reverse well-founded Kripke models) is fully stated in the current paper and the proof is retold here. Applying the Solovay technique to those models the present paper establishes its main result, namely, that is arithmetically complete. As expanded below, is a first-order modal logic that along with its built-in ability to simulate general classical first-order provability\u2015\"\\(\\Box\\)\" simulating the the informal classical\"\"\u2015is also arithmetically complete in the Solovay sense.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A new arithmetically incomplete first-order extension of GL all theorems of which have cut free proofs",
+            "Publication year": 2016,
+            "Publication url": "http://www.czasopisma.uni.lodz.pl/bulletin/article/view/1475",
+            "Abstract": "Reference [12] introduced a novel formula to formula translation tool (\u201cformula-tors\u201d) that enables syntactic metatheoretical investigations of first-order modallogics, bypassing a need to convert them first into Gentzen style logics in order torely on cut elimination and the subformula property. In fact, the formulator tool, as was already demonstrated in loc. cit., is applicable even to the metatheoreticalstudy of logics such as QGL, where cut elimination is (provably,[2]) unavailable. This paper applies the formulator approach to show the independence of the axiom schema\u2610 A\u2192\u2610\u2200 x A of the logics M 3 and ML 3 of [17, 18, 11, 13]. This leads to the conclusion that the two logics obtained by removing this axiom are incomplete, both with respect to their natural Kripke structures and to arithmetical interpretations. In particular, the so modified ML 3 is, similarly to QGL, an arithmetically incomplete first-order extension of GL, but, unlike QGL, all its theorems have cut free proofs. We also establish here, via formulators, a stronger version of the disjunction property for GL and QGL without going through Gentzen versions of these logics (compare with the more complexproofs in [2, 8]).",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A short and readable proof of cut elimination for two first-order modal logics",
+            "Publication year": 2015,
+            "Publication url": "http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.hdl_11089_17909",
+            "Abstract": "A well established technique toward developing the proof theory of a Hilbert-style modal logic is to introduce a Gentzen-style equivalent (a Gentzenisation), then develop the proof theory of the latter, and finally transfer the metatheoretical results to the original logic (eg,[1, 6, 8, 18, 10, 12]). In the first-order modal case, on one hand we know that the Gentzenisation of the straightforward first-order extension of GL, the logic QGL, admits no cut elimination (if the rule is included as primitive; or, if not included, then the rule is not admissible [1]). On the other hand the (cut-free) Gentzenisations of the first-order modal logics M3 and ML3 of [10, 12] do have cut as an admissible rule. The syntactic cut admissibility proof given in [18] for the Gentzenisation of the propositional provability logic GL is extremely complex, and it was the basis of the proofs of cut admissibility of the Gentzenisations of M3 and ML3, where the presence of quantifiers and quantifier rules added to the complexity and length of the proof. A recent proof of cut admissibility in a cut-free Gentzenisation of GL is given in [5] and is quite short and easy to read. We adapt it here to revisit the proofs for the cases of M3 and ML3, resulting to similarly short and easy to read proofs, only slightly complicated by the presence of quantification and its relevant rules.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Wydawnictwo Uniwersytetu \u0141\u00f3dzkiego"
+        },
+        {
+            "Title": "Tense Polyadic N\u00d7 M-Valued \u0141ukasiewicz\u2013Moisil Algebras\ufeff",
+            "Publication year": 2015,
+            "Publication url": "http://dspace.uni.lodz.pl/handle/11089/17643",
+            "Abstract": "In 2015, AV Figallo and G. Pelaitay introduced tense n\u00d7 m-valued \u0141ukasiewicz\u2013Moisil algebras, as a common generalization of tense Boolean algebras and tense n-valued \u0141ukasiewicz\u2013Moisil algebras. Here we initiate an...",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the proof-theory of two formalisations of modal first-order logic",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s11225-010-9294-y",
+            "Abstract": "We introduce a Gentzen-style modal predicate logic and prove the cut-elimination theorem for it. This sequent calculus of cut-free proofs is chosen as a proxy to develop the proof-theory of the logics introduced in [14, 15, 4]. We present syntactic proofs for all the metatheoretical results that were proved model-theoretically in loc. cit. and moreover prove that the form of weak reflection proved in these papers is as strong as possible.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Lectures in Logic and Set Theory: Volume 2, Set Theory",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=nparMXao59QC&oi=fnd&pg=PR11&dq=info:3UD29y-T6UwJ:scholar.google.com&ots=raFuhThSP9&sig=mF-RE91UOtHtARRM1CUE1bvMx5M",
+            "Abstract": "This two-volume work bridges the gap between introductory expositions of logic or set theory on one hand, and the research literature on the other. It can be used as a text in an advanced undergraduate or beginning graduate course in mathematics, computer science, or philosophy. The volumes are written in a user-friendly conversational lecture style that makes them equally effective for self-study or class use. Volume II, on formal (ZFC) set theory, incorporates a self-contained'chapter 0'on proof techniques so that it is based on formal logic, in the style of Bourbaki. The emphasis on basic techniques will provide the reader with a solid foundation in set theory and provides a context for the presentation of advanced topics such as absoluteness, relative consistency results, two expositions of Godel's constructible universe, numerous ways of viewing recursion, and a chapter on Cohen forcing.",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Mathematical logic",
+            "Publication year": 2011,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=8jAwgCTgnycC&oi=fnd&pg=PR7&dq=info:OlOE2ByhAkEJ:scholar.google.com&ots=VZHsN6sO2u&sig=0ZgBjM05snyGbZzpsqGX-8tvwNc",
+            "Abstract": "A comprehensive and user-friendly guide to the use of logic in mathematical reasoning Mathematical Logic presents a comprehensive introduction to formal methods of logic and their use as a reliable tool for deductive reasoning. With its user-friendly approach, this book successfully equips readers with the key concepts and methods for formulating valid mathematical arguments that can be used to uncover truths across diverse areas of study such as mathematics, computer science, and philosophy. The book develops the logical tools for writing proofs by guiding readers through both the established\" Hilbert\" style of proof writing, as well as the\" equational\" style that is emerging in computer science and engineering applications. Chapters have been organized into the two topical areas of Boolean logic and predicate logic. Techniques situated outside formal logic are applied to illustrate and demonstrate significant facts regarding the power and limitations of logic, such as: Logic can certify truths and only truths. Logic can certify all absolute truths (completeness theorems of Post and G\u00f6del). Logic cannot certify all\" conditional\" truths, such as those that are specific to the Peano arithmetic. Therefore, logic has some serious limitations, as shown through G\u00f6del's incompleteness theorem. Numerous examples and problem sets are provided throughout the text, further facilitating readers' understanding of the capabilities of logic to discover mathematical truths. In addition, an extensive appendix introduces Tarski semantics and proceeds with detailed proofs of completeness and first incompleteness theorems, while also providing a self-contained \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "ubosF3IAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "John Wiley & Sons"
+        },
+        {
+            "Title": "First\u2010Order Semantics\u2014Very Na\u00efvely",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "John Wiley & Sons, Inc."
+        },
+        {
+            "Title": "A basic formal equational predicate logic\u2014Part II",
+            "Publication year": 2000,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "ubosF3IAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

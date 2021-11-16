@@ -1,0 +1,48 @@
+[{
+    "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039c\u03c0\u03bf\u03cd\u03c4\u03b1\u03bb\u03b7\u03c2",
+    "romanize name": "Ioannis Boutalis",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd & \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397/\u03a5",
+    "University": "duth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 19667,
+    "Scholar name": "Yiannis Boutalis",
+    "Scholar id": "DtG4Y5MAAAAJ",
+    "Affiliation": "Professor, Democritus University of Thrace",
+    "Citedby": 4234,
+    "Interests": [
+        "Computational Intelligence",
+        "Automatic Control",
+        "Pattern Recognition",
+        "Signal and Image Processing"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=DtG4Y5MAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Searching images with MPEG-7 (& mpeg-7-like) powered localized descriptors: the SIMPLE answer to effective content based image retrieval",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6849821/",
+            "Abstract": "In this paper we propose and evaluate a new technique that localizes the description ability of the well established MPEG-7 and MPEG-7-like global descriptors. We employ the SURF detector to define salient image patches of blob-like textures and use the MPEG-7 Scalable Color (SC), Color Layout (CL) and Edge Histogram (EH) descriptors and the global MPEG-7-like Color and Edge Directivity Descriptor (CEDD), to produce the final local features' vectors. In order to test the new descriptors in the most straightforward fashion, we use the Bag-Of-Visual-Words framework for indexing and retrieval. The experimental results conducted on two different benchmark databases with varying codebook sizes, revealed an astonishing boost in the retrieval performance of the proposed descriptors compared both to their own performance (in their original form) and to other state-of-the-art methods of local and global \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DtG4Y5MAAAAJ:PELIpwtuRlgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Most physical systems operations are nonlinear in nature and hence they should be described by means of nonlinear mathematical models. Since nonlinear models are not convenient for control purposes, due to both theoretical",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Nj8qBRGZppkC&oi=fnd&pg=PA90&dq=info:XL-SW-sdUs0J:scholar.google.com&ots=z6dWMUQU0Z&sig=402bLSpDM4nolbbL4khy0i6afM8",
+            "Abstract": "91 which is expressed in terms of the controller components, and, in some cases, in terms of the effect of the system's zero dynamics. Therefore, it implies an additional first order nonlinear differential equation depending on the system's non-linearity and uncertainty. In the proposed method, this equation is approximated by an artificial neural network (ANN). Both cases of f (x) and/or g (x) being uncertain and not completely known are considered. In all cases NN approximators are used to emulate the performance of the unknown non-linear functions.",
+            "Abstract entirety": 1,
+            "Author pub id": "DtG4Y5MAAAAJ:YohjEiUPhakC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Edge detection and image segmentation based on nonlinear anisotropic diffusion",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028309/",
+            "Abstract": "Partial differential equations (PDEs) have led to an entire new field in image processing and computer vision. Typical PDE techniques for image smoothing and edge extraction regard the original image as initial state of a parabolic (diffusion-like) process, and extract filtered versions from its temporal evolution. The diffusion coefficient varies spatially in such a way that intra-region smoothing is preferred to inter-region smoothing, thus preventing edge blurring and edge dislocation. We review some useful applications of this particular diffusion process on noise reduction and edge detection. We also propose a pixel based clustering scheme for color image segmentation, which incorporates Perona-Malik diffusion filtering. Preliminary experimental results show a significant improvement in the segmentation results.",
+            "Abstract entirety": 1,
+            "Author pub id": "DtG4Y5MAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

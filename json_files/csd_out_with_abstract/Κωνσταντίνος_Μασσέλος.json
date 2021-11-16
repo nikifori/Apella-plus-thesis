@@ -1,0 +1,1012 @@
+[{
+    "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039c\u03b1\u03c3\u03c3\u03ad\u03bb\u03bf\u03c2",
+    "romanize name": "Konstantinos Masselos",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uop",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 3560,
+    "Scholar name": "Konstantinos Masselos",
+    "Scholar id": "aJt79fYAAAAJ",
+    "Affiliation": "Professor in Computing Systems Design - University of the Peloponnese",
+    "Citedby": 1109,
+    "Interests": [
+        "High Level Synthesis/Compilers",
+        "Computing hardware",
+        "Nanomanufacturing",
+        "ICT Policy",
+        "5G"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=aJt79fYAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "From scilab to high performance embedded multicore systems: The alma approach",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6386878/",
+            "Abstract": "The mapping process of high performance embedded applications to today's multiprocessor system on chip devices suffers from a complex tool chain and programming process. The problem here is the expression of parallelism with a pure imperative programming language which is commonly C. This traditional approach limits the mapping, partitioning and the generation of optimized parallel code, and consequently the achievable performance and power consumption of applications from different domains. The Architecture oriented paraLlelization for high performance embedded Multicore systems using scilAb (ALMA) European project aims to bridge these hurdles through the introduction and exploitation of a Scilab-based toolchain which enables the efficient mapping of applications on multiprocessor platforms from high level of abstraction. This holistic solution of the toolchain allows the complexity of both the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Is AI Ready for \"Prime Time\" Cybersecurity Applications? The case of Poisoning Attacks",
+            "Publication year": 2019,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Power efficient hierarchical scheduling for DSP transformations",
+            "Publication year": 2002,
+            "Publication url": "https://downloads.hindawi.com/archive/2002/894273.pdf",
+            "Abstract": "In this paper, the problem of scheduling the computation of partial products in transformational Digital Signal Processing (DSP) algorithms, aiming at the minimization of the switching activity in data and address buses, is addressed. The problem is stated as a hierarchical scheduling problem. Two different optimization algorithms, which are based on the Travelling Salesman Problem (TSP), are defined. The proposed optimization algorithms are independent on the target architecture and can be adapted to take into account it. Experimental results obtained from the application of the proposed algorithms in various widely used DSP transformations, like Discrete Cosine Transform (DCT) and Discrete Fourier Transform (DFT), show that significant switching activity savings in data and address buses can be achieved, resulting in corresponding power savings. In addition, the differences between the two proposed methods are underlined, providing envisage for their suitable selection for implementation, in particular transformational algorithms and architectures.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "A comparison of 2-D discrete wavelet transform computation schedules on FPGAs",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4042432/",
+            "Abstract": "When it comes to the computation of the 2D discrete wavelet transform (DWT), three major computation schedules have been proposed, namely the row-column, the line-based and the block-based. In this work, the lifting-based designs of these schedules are implemented on FPGA-based platforms to execute the forward 2D DWT, and their comparison is presented. Our implementations are optimized in terms of throughput and memory requirements, in accordance with the specifications of each one of the three computation schedules and the lifting decomposition. All implementations are parameterized with respect to the image size and the number of decomposition levels. Experimental results prove that the suitability of each implementation for a particular application depends on the given specifications, concerning the throughput and the hardware cost",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Systematic application of data transfer and storage optimizing code transformations for power consumption and execution time reduction in ACROPOLIS: a pre-compiler for multimedia applications",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1022340119745",
+            "Abstract": "A systematic methodology for the application of data transfer and storageoptimizing code transformations to high-level descriptions of multimedia systemsrealized on instruction set processors is proposed. A detailed order for theapplication of different data transfer and storage optimizing transformationsis proposed in the context of combined execution time and power optimizations.A use methodology including a number of support steps that allow the efficientapplication of the data transfer and storage oriented transformations is proposedas well. Applicatio n of the proposed transformation-based methodology movesthe main part of the memory accesses from the large background memories (lyingpossibly off-chip) to smaller ones (on-chip) or even to foreground storage(registers). Data cache performance is improved thus reducing power consumptionin the data memory hierarchy and related interconnects \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Realization of wireless multimedia communication systems on reconfigurable platforms",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1383762103000699",
+            "Abstract": "Wireless multimedia communication systems become increasingly more computational intensive and demand for higher flexibility. The realization of these systems on reconfigurable hardware offers a good balance for these requirements. In this paper the suitability of commercially available reconfigurable hardware platforms for the target application domain is evaluated. Based on this evaluation a heterogeneous partly reconfigurable system-on-chip platform is identified as ideal implementation platform for the targeted systems. Systems from different target domains are analysed and different cases where the inclusion of reconfigurable hardware in their realizations would lead to improved quality in terms of implementation efficiency and flexibility are identified. Design methodology requirements for the realization of systems from the target application domain on the targeted platform are analysed and issues not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Automatic generation of code analysis tools: The CastQL approach",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2889420.2889422",
+            "Abstract": "Source code analysis and manipulation tools have become an essential part of software development processes. Automating the development of such tools can heavily reduce development time, effort and cost. This paper proposes a framework for the efficient development of code analysis software. A tool for automatically generating the front end of analysis tools for a given language grammar is proposed. The proposed approach can be applied to any language that can be described using the BNF notation. The proposed framework also provides a domain specific language to concisely express queries on the internal representation generated by the front end. This language tackles the problem of writing complex code in a general purpose programming language in order to retrieve information from the internal representation. The approach has been evaluated through two different realistic usage scenarios \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A specification refinement methodology for power efficient partitioning of data-dominated algorithms within performance constraints",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/article/10.1023/a:1026545832742",
+            "Abstract": "A specification refinement methodology for the power efficient partitioning of real-time data-dominated algorithms is presented. The main idea of the proposed methodology is the reorganization with respect to data transfer and storage of the initial description of the target algorithm before conventional partitioning. This is achieved through the application of data transfer and storage optimizing high-level code transformations to the initial description of the target algorithm. These transformations basically align the data production and consumption between the different procedures of the initial specification thus reducing the memory size requirements of the system's realizations especially those in the interfaces between different processors. In this way the data transfer and storage related power consumption which forms an important part of the total power budget of a data dominated system is significantly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Cache misses and energy-dissipation results for JPEG-2000 filtering",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1027873/",
+            "Abstract": "After its establishment as a new standard for still-image coding, JPEG-2000 is now in the stage of the exploration for efficient implementation in real-life systems. In this paper we focus on the implementation of the frontend part, i.e. the filtering processes performed by the discrete wavelet transform (DWT). The target platforms are programmable processors, since the modern evolution of their design positions them as good alternatives for efficient, flexible and fast time-to-market designs. As a result, to facilitate the incorporation of the new standard in such designs, we present experimental and theoretical results for the data-related cache misses that occur during the DWT, since it has been shown that these comprise the main bottleneck in this type of application. In addition to this, we also rank the presented designs with respect to the power efficiency, under a high-level power estimation scheme. To validate our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Moving the regulatory cursor to adapt to a changing ecosystem (the case of digital platforms)",
+            "Publication year": 2021,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:fEOibwPWpKIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Open Source Web Applications. How it Spread through the Internet and their Contribution to Education",
+            "Publication year": 2011,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.918.8938&rep=rep1&type=pdf",
+            "Abstract": "Open Source Web Applications are all those applications that are accessible through the World Wide Web [1], and also their source code is open to anyone who wants to participate in their amendment. The benefits of the World Community from these applications are enormous. The use of open source applications begins already at school. At University it doesn't create just users, but develops students\u2019 programming skills. At the same time, it promotes and contributes to the research conducted by the academic community. Later, in the workplace, these applications are always useful and can help in all areas of daily work as well as in the development of a company. It's very important that the open source applications promote cooperation and exchange of knowledge between people, through discussion groups (forum), since they allow the simultaneous work. Furthermore, the benefits are economic as well, since it can be saved a great amount of financial resources, that would be spent for the purchase of the necessary software licenses [2].",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Locality Optimizer for Loop-Dominated Applications Based on Reuse Distance Analysis",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:WqliGbK-hY8C",
+            "Publisher": "ACM Transactions on Design Automation of Electronic Systems"
+        },
+        {
+            "Title": "Prototyping of a HIPERLAN/2 Reconfigurable System-on-Chip",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-26104-4_8",
+            "Abstract": "In this chapter the prototyping of a reconfigurable System-on-Chip realizing the HIPERLAN/2 WLAN system is discussed. In this case reconfigurable hardware will be exploited to introduce post-fabrication functional upgrades. For the prototyping a commercial platform using components-off-the-shelf has been used. The design flow and system level design methods described in the previous chapters were used for the system development. An evaluation of the design flow and methods in the context of this specific design is also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Combining data reuse exploitation with data-level parallelization for FPGA targeted hardware compilation: A geometric programming framework",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4629928/",
+            "Abstract": "A geometric programming framework is proposed in this paper to automate exploration of the design space consisting of data reuse (buffering) exploitation and loop-level parallelization, in the context of FPGA-targeted hardware compilation. We expose the dependence between data reuse and data-level parallelization and explore both problems under the on-chip memory constraint for performance-optimal designs within a single optimization step. Results from applying this framework to several real benchmarks demonstrate that given different constraints on on-chip memory utilization, the corresponding performance-optimal designs are automatically determined by the framework, and performance improvements up to 4.7 times have been achieved compared with the method that first explores data reuse and then performs parallelization.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Xmsim: Extensible memory simulator for early memory hierarchy evaluation",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5572808/",
+            "Abstract": "This paper presents a memory hierarchy evaluation framework for multimedia applications. It takes as input a high level C code application description and a memory hierarchy specification and provides statistics characterizing the memory operation. Essentially the tool is a specialized C++ data type library which is used to replace the application's data types with others that monitor memory access activity. XMSIM's operation is event driven which means that every access to a specific data structure is converted to a message towards the memory model which subsequently emulates memory hierarchy operation. The memory model is highly parametric allowing a large number of alternatives to be modeled. XMSIM's main advantage is its modularity allowing the designer to alter specific aspects of the memory operation beyond the predefined ones. The main features are the capability to: 1) simulate any subset of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A flexible approach for compiling scilab to reconfigurable multi-core embedded systems",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6322879/",
+            "Abstract": "The mapping process of high performance embedded applications to today's reconfigurable multiprocessor System-on-Chip devices suffers from a complex toolchain and programming process. Thus, the efficient programming of such architectures in terms of achievable performance and power consumption is limited to experts only. Enabling them to nonexperts requires a simplified programming process that hides the complexity of the underlying hardware - introduced by software parallelism of multiple cores and the flexibility of reconfigurable architectures - to the end user. The Architecture oriented paraLlelization for high performance embedded Multi-core systems using scilAb (ALMA) European project aims to bridge these hurdles through the introduction and exploitation of a Scilab- and architecture-description-language-based toolchain which enables the efficient mapping of applications on multiprocessor \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:D03iK_w7-QYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "AMDREL: On Designing Reconfigurable Embedded Structures for the Future Reconfigurable SoC for Wireless Communication Applications.",
+            "Publication year": 2002,
+            "Publication url": "http://ikee.lib.auth.gr/record/249838/files/Nikolaidis%20et%20al.pdf",
+            "Abstract": "The objective of the AMDREL (Architectures and Methodologies for Dynamic Reconfigurable Logic) project is to develop methodologies, tools and intellectual property blocks to be integrated in a partly dynamically reconfigurable System-on-Chip (SoC) implementation platform for the efficient realization of wireless communications systems. The proposed tools, reusable intellectual property blocks and the mixed granularity reconfigurable blocks will be used for the development of systems from the wireless communication domain including critical paths of wireless LAN systems (eg HIPERLAN/2, IEEE 802.11 a).The developed blocks and tools will be integrated as a System-on-Chip. There are three types of reconfigurable hardware involved: i) coarse-grain reconfigurable hardware (ie multipliers with reconfigurable wordlength, radix etc.) with power dissipation being an important consideration, ii) fine-grain reconfigurable hardware (FPGA-like structures). Also, the tools for mapping logic to these reconfigurable blocks and iii) reconfigurable interconnect for the blocks mentioned above. AMDREL offers significant innovations in all the above areas of reconfigurable computing.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Emerging Technologies for Advanced Regulation",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:tzM49s52ZIMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u201cSystemC and OCAPI-XL Based System-Level Design for Reconfigurable Systems-on-Chip\u201d,",
+            "Publication year": 2004,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data reuse exploration under area constraints for low power reconfigurable systems",
+            "Publication year": 2007,
+            "Publication url": "https://www.academia.edu/download/30812820/QiangWASP07.pdf",
+            "Abstract": "Contemporary FPGA-based reconfigurable systems have been widely used to implement computation-intensive applications. In these applications data transfer and storage consume a large part of the system energy. Exploiting data reuse can introduce significant power savings, but also introduces extra requirement for on-chip memory. To aid data reuse design exploration, we present a optimization approach to achieve a power-optimal design satisfying area constraints in a targeted reconfigurable platform. The data reuse exploration problem is mathematically formulated and shown to be equivalent to a Multiple-Choice Knapsack problem. The solution to this problem corresponds to the decision of which arrays to be introduced where in order to minimize power consumption for a fixed on-chip memory size. We also present an experimentally verified power model, capable of providing the relative power information between different data reuse options, resulting in a fast and efficient design space exploration. The experimental results demonstrate that the approach enables us to find the most power efficient design for each benchmark.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Source and IR-level optimisations in the HercuLeS high-level synthesis tool",
+            "Publication year": 2015,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIRD.2015.071089",
+            "Abstract": "HercuLeS is an extensible high-level synthesis environment for automatically mapping algorithms to hardware. It overcomes limitations of known work: insufficient representations, maintenance difficulties, necessity of code templates, lack of usage paradigms and vendor-dependence. Aspects that are highlighted include automatic IP integration and especially source- and intermediate-level optimising transformations. In this context, we present transformational patterns for loop and if-conversion optimisations. Further, we focus on constant multiplication and division by proposing a suitable scheme for their straightforward and decoupled utilisation in user applications. It is shown that loop optimisations provide benefits of up to 32% in cycle performance, while if-conversion delivers an average improvement of 6.5%. By applying arithmetic optimisations, a 3.3-5.9\u00d7 speedup over sequential implementations is achieved \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:UxriW0iASnsC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "MEMSCOPT: A source-to-source compiler for dynamic code analysis and loop transformations",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6385418/",
+            "Abstract": "In this paper, we present MEMSCOPT, a source-to-source compiler incorporated in a system level design tool chain for dynamic code analysis and loop transformations targeting memory performance optimization. MEMSCOPT is user interactive, supported by both Windows and Linux platforms and integrates with Visual Studio and NetBeans.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FPGA acceleration of the LINPACK benchmark using handel-C and the celoxica floating point library",
+            "Publication year": 2006,
+            "Publication url": "https://www.researchgate.net/profile/Konstantinos-Masselos/publication/301765266_FPGA_ACCELERATION_OF_THE_LINPACK_BENCHMARK_USING_HANDEL-C_AND_THE_CELOXICA_FLOATING_POINT_LIBRARY/links/5726422c08ae586b21e048dd/FPGA-ACCELERATION-OF-THE-LINPACK-BENCHMARK-USING-HANDEL-C-AND-THE-CELOXICA-FLOATING-POINT-LIBRARY.pdf",
+            "Abstract": "In this paper the latest FPGAs are compared to a high end microprocessor with respect to sustained performance for a popular floating point CPU performance benchmark, namely LINPACK 1000. The FPGA hardware has been developed in Handel-C and uses the Celoxica Floating Point Library functions to perform both double and single precision arithmetic. A set of translation and optimization steps have been applied to transform a sequential C description of the LINPACK benchmark, based on a monolithic memory model, into a parallel Handel-C description that utilizes the plurality of memory resources available on a realistic reconfigurable computing platform. These transformations allow high levels of parallelism to be exploited within a limited memory bandwidth. The experimental results show that the latest generation of FPGAs, programmed using Handel-C, can achieve a sustained double precision floating point performance up to 6.8 times greater than the microprocessor while operating at a clock frequency that is 30 times lower.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Combining data reuse with data-level parallelization for FPGA-targeted hardware compilation: A geometric programming framework",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4785342/",
+            "Abstract": "A nonlinear optimization framework is proposed in this paper to automate exploration of the design space consisting of data-reuse (buffering) decisions and loop-level parallelization, in the context of field-programmable-gate-array-targeted hardware compilation. Buffering frequently accessed data in on-chip memories can reduce off-chip memory accesses and open avenues for parallelization. However, the exploitation of both data reuse and parallelization is limited by the memory resources available on-chip. As a result, considering these two problems separately, e.g., first exploring data reuse and then exploring data-level parallelization, based on the data-reuse options determined in the first step, may not yield the performance-optimal designs for limited on-chip memory resources. We consider both problems at the same time, exposing the dependence between the two. We show that this combined problem can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hardware building blocks of a mixed granularity reconfigurable system-on-chip platform",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30205-6_63",
+            "Abstract": "Due to the combination of flexibility and realization efficiency, reconfigurable hardware has become a promising implementation alternative. In the context of the IST-AMDREL project, a mixed granularity reconfigurable SoC platform targeting wireless communication systems has been developed. The platform\u2019s main building blocks are presented, including coarse grain reconfigurable unit, embedded FPGA, interconnection network and application specific reusable blocks. The combination of these blocks in platform instances is expected to lead to a good balance between implementation efficiency and flexibility. An AMDREL platform based reconfigurable SoC for a multi-mode wireless networking system is currently under development.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic source code analysis for memory hierarchy optimization in multimedia applications",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6661567/",
+            "Abstract": "Realizing image and signal processing algorithms in embedded systems is a three step process including algorithmic design, implementation and mapping to a target architecture and memory hierarchy. This paper presents MemAddIn, a dynamic analysis tool for C applications that exposes the critical application's loops which deserve the designer's attention for memory hierarchy optimization. MemAddIn is based on an extension of MEMSCOPT compiler and integrates in the Visual Studio IDE offering a unified environment for the application's implementation and optimization. To conclude on the criticality of the application loops the tool utilizes two metrics which are relevant with the underlying memory architecture cost and performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A MATLAB vectorizing compiler targeting application-specific instruction set processors",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2996182",
+            "Abstract": "This article discusses a MATLAB-to-C vectorizing compiler that exploits custom instructions, for example, for Single Instruction Multiple Data (SIMD) processing and instructions for complex arithmetic present in Application-Specific Instruction Set Processors (ASIPs). Custom instructions are represented via specialized intrinsic functions in the generated code, and the generated code can be used as input to any C/C++ compiler supporting the target processor. Furthermore, the specialized instruction set of the target processor is described in a parameterized way using a target processor-independent architecture description approach, thus allowing the support of any processor. The compiler has been used for the generation of application code for two different ASIPs for several benchmarks. The code generated by the compiler achieves a speedup between 2\u00d7 --74\u00d7 and 2\u00d7 --97\u00d7 compared to the code generated by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Memory hierarchy layer assignment for data re-use exploitation in multimedia algorithms realized on predefined processor architectures",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/957735/",
+            "Abstract": "A systematic approach for the assignment of array type data structures to the layers of fixed memory hierarchies present in instruction set processors is presented. Memory Hierarchy Layer Assignment (MHLA) is required to ensure the efficient exploitation of the data re-use present in multimedia type algorithms. Exploitation of data re-use through storage of the most frequently accessed and re-used data elements in the smaller levels of a processor's physical memory hierarchy leads to significant execution time and power consumption savings. The proposed methodology for Memory Hierarchy Layer Assignment takes into consideration architectural features of the target processors such as the fixed physical data memory hierarchy and the hardware control mechanisms of some of the levels (caches) of the memory hierarchy. Experimental results prove that exploitation of data re-use combined with the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prototyping of a 5 GHz WLAN reconfigurable system-on-chip",
+            "Publication year": 2003,
+            "Publication url": "https://search.ieice.org/bin/summary.php?id=e86-d_5_891",
+            "Abstract": "In this paper the development of the prototyping platform of a partly reconfigurable System-on-Chip (SoC) for wireless LANs, is described. It is designed to realize both HIPERLAN/2 and IEEE 802.11a wireless LAN systems. The current version of the system includes Mobile Terminal and AP functionality only for indoor use. Future firmware versions (configurations for its reconfigurable part) will upgrade system's functionality to allow its operation in outdoor environments and in wireless point-to-point links. The target System-on-Chip implementation platform will include instruction set processor cores, ASIC blocks and embedded reconfigurable blocks to achieve an optimal balance between implementation efficiency (area, power, performance) and flexibility. The system's prototype is developed on the ARM integrator platform and all firmware versions will be verified before ASIC prototyping.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "The Institute of Electronics, Information and Communication Engineers"
+        },
+        {
+            "Title": "MAFE: An Environment for MATLAB-to-C Compilation Supporting Static and Dynamic Memory Allocation and Multi-Level User Interactive Code Optimization",
+            "Publication year": 2016,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data reuse exploration for FPGA based platforms applied to the full search motion estimation algorithm",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4101004/",
+            "Abstract": "Compilation of high level descriptions to field programmable gate array hardware forms a promising option for the efficient mapping of computationally intensive applications under tight development time constraints. In this paper data reuse exploration on top of an existing hardware compilation environment is discussed. The full search motion estimation algorithm for video processing is used as a test vehicle. The systematic approach adopted for the exploration of the data reuse space is described. Experimental results prove that the exploitation of data reuse may lead to more than 80% reduction of the execution time and up to 95% reduction of the off-chip memory accesses.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Planning and Deploying 5G Networks",
+            "Publication year": 2021,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:-_dYPAW6P2MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prototyping of a WLAN system using C++ based architecture exploration",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Konstantinos-Masselos/publication/221223439_Prototyping_of_a_WLAN_system_using_C_based_architecture_exploration/links/57260f8708aef9c00b88f361/Prototyping-of-a-WLAN-system-using-C-based-architecture-exploration.pdf",
+            "Abstract": "Wireless Local Area Networks (WLANs) are currently considered as one of the most popular application domains. In this paper the protyping of a WLAN system on a platform including microprocessors and FPGAs is described. The prototyping started from architecture exploration using a C++ library for hardware/software codesign. The developed prototype allowed evaluation of the system performance and the architecture decisions. The use of the systematic architecture exploration allowed making correct decisions early in the design cycle thus avoiding time consuming iterations from lower design stages (necessary when constraints are not met by the final implementation).",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "NAC: A lightweight intermediate representation for ASIP compilers",
+            "Publication year": 2011,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.217.9364&rep=rep1&type=pdf",
+            "Abstract": "ASIP processors are tuned for optimized mapping of narrow application sets in heterogeneous platforms. Their successful development relies on compiler-based design space exploration. The careful design of the compiler intermediate language is a necessity, due to its dual purpose as both the program representation and an abstract target machine. Its design affects the complexity, efficiency and ease of maintenance of all compilation phases. In this work, an extensible typed assembly intermediate language, NAC, is presented. It can be used for processor exploration, optimizing intermediate representation (IR) transformations and SSA compilation. Minimal SSA construction algorithms are thoroughly presented for the first time. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:rO6llkc54NcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Memory accesses reordering for interconnect power reduction in sum-of-products computations",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1041045/",
+            "Abstract": "Techniques for interconnect power consumption reduction in realizations of sum-of-products computations are presented. The proposed techniques reorder the sequence of accesses of the coefficient and data memories to minimize power-costly address and data bus bit switching. The reordering problem is systematically formulated by mapping into the traveling salesman's problem (TSP) for both single and multiple functional unit architectures. The cost function driving the memory accesses reordering procedure explicitly takes into consideration the static information related to algorithms' coefficients and storage addresses and data-related dynamic information. Experimental results from several typical digital signal-processing algorithms prove that the proposed techniques lead to significant bus switching activity savings. The power consumption in the data paths is reduced in most cases as well.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fighting COVID-19: The ICT community needs to do better!",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development of a power efficient image coding algorithm based on integer wavelet transform",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/911578/",
+            "Abstract": "A novel algorithm for very high compression of grayscale images presenting features that lead to power efficient implementations is proposed. A simple methodology based on a hierarchical three stage exploration of the algorithmic design space has been adopted for the conception of the algorithm. The proposed algorithm is based on an integer wavelet transform, which is much more efficient in terms of data storage and transfer compared to the widely used real wavelet transforms. For the coding of the coefficients of the wavelet transform fractal techniques using small size computationally generated codebooks are applied. The performance of the proposed algorithm is comparable to or better than that of existing standard algorithms. It is estimated using state-of-the-art high-level power estimation techniques that the proposed algorithm achieves lower power consumption by several times compared to existing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low Power Issues in Processors and Multimedia-Power Optimization Methodology for Multimedia Applications Implementation on Reconfigurable Platforms",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9568593877498593012&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Embedded system design using formal model refinement: an approach based on the combined use of UML and the B language",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1007/s10617-005-1184-6",
+            "Abstract": "The approach proposed in this paper introduces a hardware/software co-design framework for developing complex embedded systems. The method relies on formal proof of system properties at every phase of the co-design cycle. The key concept is the combined use of UML and the B language for system modeling and design, and the seamless transition from UML specifications to system descriptions in B. The final system prototype emerges from correct-by-construction subsystems described in the B language; the hardware components are translated in VHDL/SystemC, while for the software components C/C++ is used. The outcome is a formally proven correct system implementation. The efficiency of the proposed method is exhibited through the design of a case study from the telecommunication domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "System level design of reconfigurable systems-on-chip",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/b136832.pdf",
+            "Abstract": "Design Flow for Reconfigurable Systems-on-Chip 87 KONSTANTINOS MASSELOS AND NIKOLAOS S. VOROS 87",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Reconfigurable Hardware Exploitation in Wireless Multimedia Communications",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-26104-4_2",
+            "Abstract": "This chapter presents cases where reconfigurable hardware can be exploited for the efficient realization of wireless multimedia communication systems. The various scenarios described are referring to (a) the DLC/MAC layer and the baseband part of the physical layer of HIPERLAN/2 and IEEE 802.11a WLAN protocols, and (b) the application layer of a sophisticated personal device. The goal of this chapter is to provide an insight on the advantages reconfigurable hardware may bring in real life applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Co-optimisation of datapath and memory in outer loop pipelining",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4762359/",
+            "Abstract": "When targeting algorithms to FPGAs both the array to memory assignment and the selection of data reuse structures should be considered to maximise performance. In this work we present an integer linear programming formulation for the combined problem of array to memory assignment and data reuse selection. We include a number of cost functions to minimise during memory optimisation and show how these optimisations can be integrated into a loop pipelining framework to iteratively update the memory subsystem during scheduling. By co-optimising the datapath and memory subsystem we are able to produce near optimal (fastest) solutions, with an upper bound on the distance from the optimal. Our results show an average speedup of up to 4x over a non-optimised memory subsystem when integrated into an existing outer loop pipelining framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "System Level Design of Complex Hardware Applications Using ImpulseC",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5572819/",
+            "Abstract": "This paper presents an approach for the design of complex hardware applications using a system level design technique based on ImpulseC design language. ImpulseC is an industry standard language that offers a full design environment of mixed hardware/software systems. The goal of this paper is to evaluate the applicability of ImpulseC design environment for the design of the physical layer of modern wireless communication protocols.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Retargetable MATLAB-to-C Compiler Exploiting Custom Instructions and Data Parallelism",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3391898",
+            "Abstract": "This article presents a MATLAB-to-C compiler that exploits custom instructions present in state-of-the-art processor architectures and supports semi-automatic vectorization. A parameterized processor model is used to describe the target instruction set architecture to achieve user-friendly retargetability. Custom instructions are represented via specialized intrinsic functions in the generated code, which can then be used as input to any C/C++ compiler supporting the target processor. In addition, the compiler supports the generation of data parallel/vectorized code through the introduction of data packing/unpacking statements. The compiler has been used for code generation targeting ARM and x86 architectures for several benchmarks. The vectorized code generated by the compiler achieves an average speedup of 4.1\u00d7 and 2.7\u00d7 for packed fixed and floating point data, respectively, compared to scalarized code for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A HIPERLAN/2\u2014IEEE 802.11 a Reconfigurable System-on-Chip",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46117-5_112",
+            "Abstract": "In this paper the design of a partly reconfigurable System-on-Chip (SoC) for wireless LANs is described. The reconfigurable System-on-Chip will realize both HIPERLAN/2 and IEEE 802.11a wireless LAN systems. The initial version of the system will include Mobile Terminal functionality. Future firmware versions will upgrade system\u2019s functionality to allow its operation as Access Point. Functionality for operation in outdoor environments in wireless point-to-point links will be also targeted by future firmware upgrades. A system\u2019s prototype is currently under development on the ARM integrator platform.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "From Scilab to multicore embedded systems: Algorithms and methodologies",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6404184/",
+            "Abstract": "While advances in processor architecture continues to increase hardware parallelism, parallel software creation is hard. There is an increasing need for tools and methodologies to narrow the entry gap for non-experts in parallel software development as well as to streamline the work for experts. This paper presents the methodology and algorithms for the creation of parallel software written in Scilab source code for multicore embedded processors in the context of the \u201cArchitecture oriented paraLlelization for high performance embedded Multicore systems using scilAb\u201d (ALMA) EU FP7 project. The ALMA parallelization approach in a nutshell attempts to manage the complexity of the task by alternating focus between very localized and holistic view program optimization strategies.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hardware design space exploration using HercuLeS HLS",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2491845.2491865",
+            "Abstract": "HercuLeS is an extensible high-level synthesis (HLS) environment. It removes significant human effort by automatically mapping algorithms to hardware, providing a valuable design assist to software-oriented developers. To enable accessibility and easiness of hardware design space exploration (DSE), HercuLeS overcomes limitations of known work: non-standard source languages, insufficient representations, maintenance difficulties, necessity of code templates, lack of usage paradigms and vendor-dependence. Specific aspects that are highlighted in this manuscript are: a) the in-nerworkings of the HercuLeS hardware compilation engine, b) manipulation of SSA (Static Single Assignment) form, c) automatic third-party IP integration, d) backend C code generation for compiled simulation, and e) an exemplary case of DSE. HercuLeS enables efficient hardware generation that can closely match the quality of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Early evaluation of implementation alternatives of composite data structures toward maintainability",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3132731",
+            "Abstract": "Selecting between different design options is a crucial decision for object-oriented software developers that affects code quality characteristics. Conventionally developers use their experience to make such decisions, which leads to suboptimal results regarding code quality. In this article, a formal model for providing early estimates of quality metrics of object-oriented software implementation alternatives is proposed. The model supports software developers in making fast decisions in a systematic way early during the design phase to achieve improved code characteristics. The approach employs a comparison model related to the application of the Visitor design pattern and inheritance-based implementation on structures following the Composite design pattern. The model captures maintainability as a metric of software quality and provides precise assessments of the quality of each implementation alternative \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:D_sINldO8mEC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Effect of Data Transfer and Storage Optimization on Design Quality Factors of Multimedia Algorithms Realized on Instruction Set Processors",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.332&rep=rep1&type=pdf",
+            "Abstract": "A systematic methodology for data transfer and storage optimization of multimedia algorithms realized on programmable platforms has been developed. The methodology reduces both the sizes of and the number of accesses to the array type data structures of the target algorithm. This leads to power consumption and performance improvement. In this paper the effect of data transfers and storage optimization on different design quality factors of multimedia applications realized on instruction set processors is explored. Emphasis is given on the way processor\u2019s performance with respect to arithmetic operations and external bus load are affected.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards low cost high end/low volume semiconductor manufacturing: An alternative approach to face today's challenges of semiconductor industry",
+            "Publication year": 2021,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance comparison of two-dimensional discrete wavelet transform computation schedules on a VLIW digital signal processor",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/document/1610532/",
+            "Abstract": "The two-dimensional discrete wavelet transform (2D DWT) is becoming one of the standard tools for image and video compression systems. Various input-traversal schedules have been proposed for its computation. Here, major schedules for 2D DWT computation are compared with respect to their performance on a very long instruction-word (VLIW) digital signal processor (DSP). In particular, three popular transform-production schedules are considered: the row-column, the line based and the block based. Realisations of the wavelet transform according to the considered schedules have been developed. They are parameterised with respect to filter pair, image size and number of decomposition levels. All realisations have been mapped on a VLIW DSP, as these processors currently form an attractive alternative for the realisation of signal, image and video processing systems. Performance metrics for the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Pipeline Exploration for Reconfigurable Targets",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.481.2494&rep=rep1&type=pdf",
+            "Abstract": "The ability to compile software into an efficient, synthesisable hardware description can dramatically reduce the design times for embedded systems that require the acceleration offered by hardware coprocessors. Most hardware compilers apply loop pipelining to increase the parallelism achieved, but pipelining is restricted to the only innermost level in a nested loop. Methods have been developed for software compilers that extend loop pipelining to levels above the innermost loop but they have yet to be extended for hardware.In this work we extend and adapt an existing outer loop pipelining approach known as Single Dimension Software Pipelining to generate schedules for FPGA hardware coprocessors. Each loop level in four test loops is pipelined and the resulting schedules are implemented in VHDL and targeted to an Altera Stratix II FPGA. The results show that the fastest solution for each loop occurs when pipelining is applied one or two levels above the innermost loop. Across the four test loops we achieve an acceleration over the innermost loop solution of between 1.15 and 7 times, with a mean speedup of 2.56 times. The results suggest that inclusion of outer loop pipelining in future hardware compilers may be worthwhile as it can allow significantly improved results to be achieved at the cost of a small increase in compile time.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "FSMD-based hardware accelerators for FPGAs",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=lPeZDwAAQBAJ&oi=fnd&pg=PA143&dq=info:4q_fft1xOXYJ:scholar.google.com&ots=4CGne7_pw-&sig=aVOiphqyrjk_tcm38QjHPetBXJk",
+            "Abstract": "Current VLSI technology allows the design of sophisticated digital systems with escalated demands in performance and power/energy consumption. The annual increase of chip complexity is 58%, while human designers productivity increase is limited to 21% per annum (ITRS, 2011). The growing technology-productivity gap is probably the most important problem in the industrial development of innovative products. A dramatic increase in designer productivity is only possible through the adoption of methodologies/tools that raise the design abstraction level, ingeniously hiding low-level, time-consuming, error-prone details. New EDA methodologies aim to generate digital designs from high-level descriptions, a process called High-Level Synthesis (HLS)(Coussy & Morawiec, 2008) or else hardware compilation (Wirth, 1998). The input to this process is an algorithmic description (for example in C/C++/SystemC) generating synthesizable and verifiable Verilog/VHDL designs (IEEE, 2006; 2009).Our aim is to highlight aspects regarding the organization and design of the targeted hardware of such process. In this chapter, it is argued that a proper Model of Computation (MoC) for the targeted hardware is an adapted and extended form of the FSMD (Finite-State Machine with Datapath) model which is universal, well-defined and suitable for either data-or control-dominated applications. Several design examples will be presented throughout the chapter that illustrate our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IntechOpen"
+        },
+        {
+            "Title": "A Reconfigurable System-on-Chip Platform for Wireless Communications",
+            "Publication year": 2004,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:hkOj_22Ku90C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An early memory hierarchy evaluation simulator for multimedia applications",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0141933113001701",
+            "Abstract": "This paper presents XMSIM, an early memory hierarchy evaluation simulator for multimedia applications. The input is source code in C and a memory hierarchy description and the output is profiling information about memory operations during the execution of the source code. A memory hierarchy can be made of arbitrary levels of cache and main memory while multiple hierarchies can be modeled in parallel. Any subset of the source code\u2019s variables can be mapped to the simulated memory units to any location of choice and the contents of any memory level are available at any execution step. Specialized routines can be added to verify correctness of optimizations made in the source code in respect to memory usage. The simulator is extensible in that additional memory characteristics can be modeled and more information on the effect of software-hardware interaction can be extended. A demonstration is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Data-reuse exploration under an on-chip memory constraint for low-power FPGA-based systems",
+            "Publication year": 2009,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-cdt.2008.0039",
+            "Abstract": "Contemporary FPGA-based reconfigurable systems have been widely used to implement data-dominated applications. In these applications, data transfer and storage consume a large proportion of the system energy. Exploiting data-reuse can introduce significant power savings, but also introduces the extra requirement for on-chip memory. To aid data-reuse design exploration early during the design cycle, the authors present an optimisation approach to achieve a power-optimal design satisfying an on-chip memory constraint in a targeted FPGA-based platform. The data-reuse exploration problem is mathematically formulated and shown to be equivalent to the multiple-choice knapsack problem. The solution to this problem for an application code corresponds to the decision of which array references are to be buffered on-chip and where loading reused data of the array references into on-chip memory happen in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Power optimization methodology for multimedia applications implementation on reconfigurable platforms",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-39762-5_49",
+            "Abstract": "A methodology for the power-efficient implementation of multimedia kernels based on reconfigurable hardware (FPGA) is introduced. The methodology combines various types of algorithmic transformations and high-level memory hierarchy exploration with register-transfer level design and implementation. An FPGA with an external memory was used for obtaining experimental results which prove the viability of the methodology. Comparisons among implementations with and without this optimization, prove that great power efficiency is achieved.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Low power architectures for digital signal processing",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1383762199000181",
+            "Abstract": "Low power architectures for digital signal processing algorithms requiring inner product computation are presented. In the first step a power efficient memory organization exploiting data reuse is determined. In the second step an order of evaluation of the partial products that reduces the switching activity at the inputs of the computational units is derived. Information related to both coefficients which are static and data which are dynamic, is used to drive the reordering of computation. Experimental results for several signal processing algorithms prove that the proposed techniques lead to significant savings in net switching activity and thus in power consumption.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:u9iWguZQMMsC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Matlab to C compilation targeting Application Specific Instruction Set Processors",
+            "Publication year": 2016,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:N5tVd3kTz84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reconfigurability requirements of wireless communication systems",
+            "Publication year": 2002,
+            "Publication url": "https://www.academia.edu/download/48782559/Reconfigurability_requirements_of_wirele20160912-2750-13fvk27.pdf",
+            "Abstract": "Wireless communication systems require optimization of different factors including real time performance, area, power, flexibility and time-to-market. Instruction set and custom hardware processors cannot optimize the combination of the above factors while reconfigurable hardware offers a good balance between flexibility and implementation efficiency. Heterogeneous Systems-on-Chip including instruction set processors, reconfigurable blocks and custom hardware are currently the state-of-the-art for the realization of future wireless communication systems. A critical design task in such platforms is the assignment of the target system\u2019s tasks on the different types of processing elements available and especially on reconfigurable hardware. In this paper reconfigurability requirements of wireless communication systems are identified both from a system point of view and from a lower level implementation perspective. Guidelines to drive decisions for the assignment of tasks on reconfigurable hardware are also presented. A dual mode HIPERLAN/2\u2013IEEE 802.11 a partly reconfigurable System-on-Chip is currently being developed. The reconfigurability requirements of HIPERLAN/2 and IEEE 802.11 a wireless LAN systems are analyzed.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reconfigurable Hardware Technologies",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-26104-4_3",
+            "Abstract": "A large number of reconfigurable hardware technologies have been proposed both in academia and commercially (some of them in their first market steps). They can be roughly classified in three major categories: a) Field Programmable Gate Arrays (FPGAs), b) integrated circuit devices with embedded reconfigurable resources and c) embedded reconfigurable cores for Systems-on-Chip (SoCs). In this chapter representative commercial technologies are discussed and their main features are presented1.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Compiling C-like Languages to FPGA Hardware: Some Novel Approaches Targeting Data Memory Organization",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8130596/",
+            "Abstract": "This paper describes our approaches to raise the level of abstraction at which hardware suitable for accelerating computationally intensive applications can be specified. Field-programmable gate arrays are becoming adopted as a computational platform by the high-performance computing community, but there are challenges to extract maximum performance from these devices. Unlike other approaches, our focus is on data memory organization and input\u2013output bandwidth considerations, which are the typical stumbling block of existing hardware compilation schemes. We describe our approaches, which are based on formal optimization techniques, and present some results showing the advantage of exposing the interaction between data memory system design and parallelism extraction to the compiler.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Efficient hardware looping units for FPGAs",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5572755/",
+            "Abstract": "Looping operations impose a significant bottleneck to achieving better computational efficiency for embedded applications. To confront this problem in embedded computation either in the form of programmable processors or FSMD (Finite-State Machine with Datapath) architectures, the use of customized loop controllers has been suggested. In this paper, a thorough examination of zero-cycle overhead loop controllers applicable to perfect loop nests operating on multi-dimensional data is presented. The design of such loop controllers is formalized by the introduction of a hardware algorithm that fully automates this task for the spectrum of behavioral as well as generated register-transfer level architectures. The presented algorithm would prove beneficial in the field of high-level synthesis of architectures for data-intensive processing. It is also shown that the proposed loop controllers can be efficiently utilized for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Power efficient vector quantization design using pixel truncation",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45716-X_41",
+            "Abstract": "Vector quantization image encoding requires a huge amount of computation and thus of power consumption. In this paper a novel method is proposed for the reduction of the power consumption of vector quantization image processing by truncating the least significant bits of the image pixels and the codewords elements during the nearest neighbor computation. Experimental results prove that at least 3 pixels/elements bits can be truncated without affecting the picture quality. This results in an average 65% reduction of bus power consumption and in an average 62% reduction of the power consumed in major data path blocks.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Introduction to reconfigurable hardware",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-26104-4_1",
+            "Abstract": "This chapter introduces the reader to main concepts of reconfigurable computing and reconfigurable hardware. Different types of reconfiguration are discussed. A detailed classification of reconfigurable architectures with respect to the granularity of their building blocks, the reconfiguration scheme and the system level coupling is also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Compiling C-like Languages to FPGA Hardware: Some Novel Approaches Targeting Data Memory Organisation",
+            "Publication year": 2008,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "From Regulating Lines to Regulating Bit-Streams: A Paradigm Shift in Regulatory Mind-Set",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design of fixed-point rounding operators for the VHDL-2008 standard",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6385354/",
+            "Abstract": "The contemporary design of sophisticated digital signal processing platforms involves the use of specifications at an increasingly raised abstraction level. This scheme is dictated by the ever growing divide between available circuit complexity and developer productivity. Algorithm developers tend to use very high-level programming languages such as MATLAB in order to rapidly and seamlessly generate low-level design facets such as ANSI C reference implementations and synthesizable HDL code. In this paper, a generic and parameterized implementation of fixed-point rounding operators in the VHDL hardware description language is introduced. Most hardware compilation frameworks either lack the support of these operators or provide specialized and non-portable implementations. Further, this is the first time that an implementation for these operators is being proposed, that can take advantage of features \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High performance computing network",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:5awf1xo2G04C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The HercuLeS high-level synthesis environment",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6645627/",
+            "Abstract": "HercuLeS by Ajax Compilers 1  is an extensible HLS environment that allows pluggable analyses and optimizations. It can be used for push-button synthesis from ANSI C and other source languages to custom hardware.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A reusable IP FFT core for DSP applications",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1328823/",
+            "Abstract": "In this paper, reusable intellectual property cores for the efficient implementation of digital signal processing (DSP) applications such as wireless LAN are presented. More specifically, a split-radix FFT algorithm implementation architecture, whose applicability for these communication systems has been proven, was designed using reusable VHDL. Four different implementations of the split-radix butterfly element are presented. These different butterfly elements allow tradeoffs between performance, power consumption and hardware complexity. Finally, for demonstration purpose, comparison results of split-radix and radix-4 implementations on Virtex and Virtex-II devices are also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Design Story: A Hiperlan2/IEEE802.11x Reconfigurable SoC for indoor WLANs and outdoor wireless links. A pilot project for the future generation configurable wireless \u2026",
+            "Publication year": 2002,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "FPGA based acceleration of the LINPACK benchmark: A high level code transformation approach",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4101002/",
+            "Abstract": "Due to their increasing resource densities, field programmable gate arrays (FPGAs) have become capable of efficiently implementing large scale scientific applications involving floating point computations. In this paper FPGAs are compared to a high end microprocessor with respect to sustained performance for a popular floating point CPU performance benchmark, namely LINPACK 1000. A set of translation and optimization steps have been applied to transform a sequential C description of the LINPACK benchmark, based on a monolithic memory model, into a parallel Handel-C description that utilizes the plurality of memory resources available on a realistic reconfigurable computing platform. The experimental results show that the latest generation of FPGAs, programmed using Handel-C, can achieve a sustained floating point performance up to 6 times greater than the microprocessor while operating at a clock \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Implementation and comparison of the 5/3 lifting 2D discrete wavelet transform computation schedules on FPGAs",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s11265-007-0139-5",
+            "Abstract": "The suitability of the 2D Discrete Wavelet Transform (DWT) as a tool in image and video compression is nowadays indisputable. For the execution of the multilevel 2D DWT, several computation schedules based on different input traversal patterns have been proposed. Among these, the most commonly used in practical designs are: the row\u2013column, the line-based and the block-based. In this work, these schedules are implemented on FPGA-based platforms for the forward 2D DWT by using a lifting-based filter-bank implementation. Our designs were realized in VHDL and optimized in terms of throughput and memory requirements, in accordance with the principles of both the schedules and the lifting decomposition. The implementations are fully parameterized with respect to the size of the input image and the number of decomposition levels. We provide detailed experimental results concerning the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Compiler-directed data locality optimization in MATLAB",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2906363.2906378",
+            "Abstract": "Array programming languages, such as MATLAB, are often used for algorithm development by scientists and engineers without taking into consideration implementation related issues and with limited emphasis on relevant optimizations. Application code optimization, especially in terms of data storage and transfer behavior, is still an important issue and heavily affects implementations' quality in terms of performance, power consumption etc. Efficient approaches for the optimization of high level application code are required to derive high quality implementations while still reducing development time and cost. This paper presents MemAssist, a software tool supporting application developers in detecting parts of the application code in MATLAB that do not exploit efficiently the targeted processor architecture and especially the memory hierarchy. Furthermore, the proposed tool guides application developers in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System-level modeling of dynamically reconfigurable hardware with SystemC",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1213321/",
+            "Abstract": "To cope with the increasing demand for higher computational power and flexibility, dynamically reconfigurable blocks have become an important part inside a system-on-chip. Several methods have been proposed to incorporate their reconfiguration aspects into a design flow. They all lack either an interface to commercially available and industrially used tools or are restricted to a single vendor or technology environment. Therefore a methodology for modeling of dynamically reconfigurable blocks at the system-level using SystemC 2.0 is presented. The high-level model is based on a multi-context representation of the different functionalities that will be mapped on the reconfigurable block during different run-time periods. By specifying the estimated times of context-switching and active-running in the selected functionality modes, the methodology allows us to do true design space exploration at the system-level \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The National Brand as the Driving Force for Digital Transformation: Proposals for Exploiting ICT for the Development of Digital Economy",
+            "Publication year": 2021,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System level architecture exploration for reconfigurable systems on chip",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4100957/",
+            "Abstract": "During the last years, a new type of systems-on-chip called, reconfigurable systems-on-chip (RSoCs), has appeared. The design of such systems is a complex task and requires innovative methods to support the development process. In this paper, the authors present two alternative approaches for the efficient architecture exploration of RSoCs, based on SystemC language and on OCAPI-xl environment. The approaches introduced, allow early evaluation of alternative mappings of system's functionality onto different architectures. As a result, the time consuming iterations from lower design stages are eliminated and reduced design time is achieved. The paper proves the effectiveness of the proposed approaches through three different case studies, borrowed from complementary domains",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "XMSIM: EXtensible Memory SIMulator for Early Memory Hierarchy Evaluation",
+            "Publication year": 2010,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "Springer Lecture Notes on Computer Science"
+        },
+        {
+            "Title": "Computation Reordering: A Novel Transformation for Low Power DSP Synthesis",
+            "Publication year": 2000,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reuse distance analysis for locality optimization in loop-dominated applications",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7092578/",
+            "Abstract": "This paper discusses MemAddIn, a compiler assisted dynamic code analysis tool that analyzes C code and exposes critical parts for memory related optimizations on embedded systems that can heavily affect systems performance, power and cost. The tool includes enhanced features for data reuse distance analysis and source code transformation recommendations for temporal locality optimization. Several of data reuse distance measurement algorithms have been implemented leading to different trade-offs between accuracy and profiling execution time. The proposed tool can be easily and seamlessly integrated into different software development environments offering a unified environment for application development and optimization. The novelties of our work over a similar optimization tool are also discussed. MemAddIn has been applied for the dynamic computation of data reuse distance for a number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low power synthesis of sum-of-products computation",
+            "Publication year": 2000,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/344166.344606",
+            "Abstract": "Novel techniques for the power efficient synthesis of sum-of-product computations are presented. Simple and efficient heuristics for scheduling and assignment are described. Different partly static cost functions are proposed to drive the synthesis tasks. The proposed cost functions target the power consumption either in the buses connecting the functional units with the storage elements or inside the functional units. The partly static nature of the proposed cost functions reduces the time of the synthesis procedure. Experimental results from different relevant digital signal processing algorithmic kernels prove that the proposed synthesis techniques lead to significant power savings.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "System-level modeling of dynamically reconfigurable co-processors",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30117-2_93",
+            "Abstract": "Dynamically reconfigurable co-processors (DRCs) are interesting design alternatives when both flexibility and performance are concerns. However, it is difficult to study the performance impact of including such devices into design when using traditional design methods and tools. In this paper, we present easily adaptable system-level techniques, which are able to perform fast exploration of different reconfiguration alternatives. A SystemC-based modeling method for DRCs and a high-level synthesis-based estimation tool to support system partitioning are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Power efficient data path synthesis of sum-of-products computations",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1218217/",
+            "Abstract": "Techniques for the power efficient data path synthesis of sum-of-products computations between data and coefficients are presented. The proposed techniques exploit specific features of this type of computations. Efficient heuristics for the scheduling and assignment tasks, based on the concept of the Traveling Salesman's Problem, are described. Different cost functions are proposed to drive the synthesis tasks. The proposed cost functions target the power consumption either in the interconnect buses or in the functional units. Experimental results from different relevant digital signal processing algorithmic kernels prove that the proposed synthesis techniques lead to significant power savings.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spectrum valuation and allocation mechanisms (for new services e.g.5G) post WRC-19 and post-COVID",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Architecture design of a reconfigurable multiplier for flexible coarse-grain implementations",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46117-5_105",
+            "Abstract": "A run-time reconfiguable array of multipliers architecture is introduced. The novel multiplier can be easily reconfigured to trade bitwidth for array size, thus maximizing the utilization of available hardware, multiply signed or unsigned data, and uses part of its structure when needed. The proposed reconfigurable circuit consists of an array of m\u00d7m multipliers, a few arrays of adders each adding three numbers, and switches. Also small blocks for the implementation of the reconfiguration capabilities, mentioned above, consist of adders, multiplexers, inverters, coders and registers. The circuit reconfiguration can be done dynamically through using only a few control bits. The architecture design of the reconfigurable multiplier, with hardware equivalent to one 64\u00d764 bit high precision multiplier, which can be dynamically reconfigured to produce an array of the products in different forms is described in detailed manner.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Hardware performance analysis of a parametric CORDIC IP",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6382249/",
+            "Abstract": "In this paper, a parametric CORDIC IP is presented, implementing fixed point arithmetic (sine, cosine, and arctangent) trigonometric functions evaluation. The VHDL design uses parameters to define the bitwidth and the precision of the input and output signals. Important design options for hardware implementation include iterative, unrolled and unrolled pipelined architectures of the CORDIC module. The design uses the VHDL '93 backwards-compatible version of the fixed point package, as defined according to the VHDL 2008 standard. Hardware performance analysis results are presented in this paper for more than 75 circuit variations implemented on a Virtex-5 Xilinx FPGA, each for different parameter values of the proposed CORDIC module. A maximum 47% increase of speed, and 57% area reduction are accomplished, in comparison with other designs.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "AMDREL: Designing Embedded Reconfigurable Hardware Structures for Future Reconfigurable Systems-on-Chip for Wireless Communication Applications",
+            "Publication year": 2002,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A systematic methodology for the application of data transfer and storage optimizing code transformations for power consumption and execution time reduction in realizations of multimedia algorithms on programmable processors",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1177377/",
+            "Abstract": "A systematic methodology for the reduction of the power consumption and the execution time in realizations of multimedia applications on programmable processors is proposed. The methodology is mainly based on the application of data transfer and storage optimizing code transformations to a high-level description of the target algorithm. Application of the code transformations according to the proposed order moves the main part of the memory accesses from the large background memories (lying possibly off-chip) to smaller ones (on-chip) or even to foreground storage. Data cache performance is improved as well. In this way the power consumption in the data memory hierarchy of the target processor and in the related interconnect, which forms a significant part of the total power budget of the system, is significantly reduced. Execution time and the power consumption due to instruction storage and transfers are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic on-chip memory minimization for data reuse",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4297261/",
+            "Abstract": "FPGA-based computing engines have become a promising option for the implementation of computationally intensive applications due to high flexibility and parallelism. However, one of the main obstacles to overcome when trying to accelerate an application on an FPGA is the bottleneck in off-chip communication, typically to large memories. Often it is known at compile-time that the same data item is accessed many times, and as a result can be loaded once from large off-chip RAM onto scarce on-chip RAM, alleviating this bottleneck. This paper addresses how to automatically derive an address mapping that reduces the size of the required on-chip memory for a given memory access pattern. Experimental results demonstrate that, in practice, our approach reduces on-chip storage requirements to the minimum, corresponding to a reduction in on-chip memory size of up to 40times (average 10times) for some \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hardware architecture for Fast 2D distance transformations",
+            "Publication year": 2014,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9159/91591X/Hardware-architecture-for-Fast-2D-distance-transformations/10.1117/12.2064544.short",
+            "Abstract": "Distance transformation algorithms approximations use distance transformation with small neighborhood pixels, defined by masks. There are many different DT approximations applied, and some of them are proposed to be implemented in custom hardware, exploiting the possibilities offered for accelerating the actions required in the proposed algorithm. In this paper, a custom hardware architecture is proposed in order to implement fast 2D distance transformations that are independent of the distance function used. The current implementation concerns the Euclidean distance transform and Kintex7 evaluation board is used for this purpose. Area and synthesis results are presented for various image sizes, while it is observed a speed increase of 98% against the X86 architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:p2g8aNsByqUC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Design Flow for Reconfigurable Systems-on-Chip",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-26104-4_4",
+            "Abstract": "A top down design flow for heterogeneous reconfigurable Systems-on-Chip is presented in this chapter. The design flow covers issues related to system level design down to back end technology dependent design stages. Emphasis is given on issues related to reconfiguration, especially in system level where existing flows do not cover such aspects.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Compiling C-like Languages to FPGA Hardware: Some Novel Approaches Targeting Data Memory Organisation",
+            "Publication year": 2011,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:W5xh706n7nkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Combined application of data transfer and storage optimizing transformations and subword parallelism exploitation for power consumption and execution time reduction in VLIW multimedia processors",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1023/B:VLSI.0000017003.70829.34",
+            "Abstract": "In this paper the important issues in mapping data dominated multimedia applications on Very Long Instruction Word (VLIW) multimedia processors are addressed. The main design quality factors of applications realized on the target architecture platform are presented and their interactions are explored. Power consumption is the major cost factor while performance is the overriding constraint in realizations of multimedia applications on the target architecture platform. A methodology for the reduction of the data transfer and storage related power consumption, which forms an important part of the total power budget of the system, and the execution time of applications realized on VLIW multimedia processors, has been developed. The methodology is based on the application of a number of transformations, mainly oriented towards data transfer and storage optimization, to a high level description of the target \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "XMSIM: A tool for early memory hierarchy evaluation",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6385428.",
+            "Abstract": "In this demonstration we present the usage of XMSIM, a tool for memory hierarchy evaluation of multimedia applications. The input is a high level C code application description and a memory hierarchy specification and the output are the statistics characterizing the memory operation.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "What makes connectivity meaningful",
+            "Publication year": 2020,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:evX43VCCuoAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated synthesis of FSMD-based accelerators for hardware compilation",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6341467/",
+            "Abstract": "In this work we extend the FSMD (Finite-State Machine with Datapath) model to encompass synchronous memory accesses, intermodule communication and hardware-optimizing transformations. A lightweight typed assembly language, N-Address Code (NAC), is used as a designer-friendly representation of FSMDs, simplifying the adaptation of hardware synthesis with existing frontends.The quality (computation time, chip area) of the generated FSMDs has been evaluated on modern FPGAs. Our approach overcomes the C code limitations of four HLS tools while maintaining a good speed/area balance.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Outer loop pipelining for application specific datapaths in FPGAs",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4629340/",
+            "Abstract": "Most hardware compilers apply loop pipelining to increase the parallelism achieved, but pipelining is restricted to the only innermost level in a nested loop. In this work we extend and adapt an existing outer loop pipelining approach known as single dimension software pipelining to generate schedules for field-programmable gate-array (FPGA) hardware coprocessors. Each loop level in nine test loops is pipelined and the resulting schedules are implemented in VHDL and targeted to an Altera Stratix II FPGA. The results show that the fastest solution for all but one of the loops occurs when pipelining is applied one to three levels above the innermost loop. Across the nine test loops we achieve an acceleration over the innermost loop solution of up to seven times, with a mean speedup of 3.2 times. The results suggest that inclusion of outer loop pipelining in future hardware compilers may be worthwhile as it can allow \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High-level cache modeling for 2-D discrete wavelet transform implementations",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1023244201750",
+            "Abstract": "The main implementations of the 2-D binary-tree discrete wavelet decomposition are theoretically analyzed and compared with respect to data-cache performance on instruction-set processor-based realizations. These implementations include various image-scanning techniques, from the classical row-column approach to the block-based and line-based methods, which are proposed in the framework of multimedia-coding standards. Analytical parameterized equations for the prediction of data-cache misses under general realistic assumptions are proposed. The accuracy and the consistency of the theory are verified through simulations on test platforms and a comparison is made with the results from a real platform.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Free software\u2013open source software",
+            "Publication year": 2015,
+            "Publication url": "http://hypatia.teiath.gr/xmlui/handle/11400/8936",
+            "Abstract": "Free Software/Open Source Software (FS/OSS) is a tool for the entire academic community. Its role can often prove to be indispensable in the field of Education. May be the perfect example of how research leads to the final tool for use, which is one of the key purposes of Universities. For students, it doesn't just create users, but develops their programming skills. In the academic community, it promotes and contributes to research and last but not least, the free distribution of the source code [1] helps to improve the final product of the companies which active in the field of IT, and the visibility of the manufacturer. The business community can find the scientists of future generations that seeks, create research and make educated professionals, through the field of University and education of free software [2]. Furthermore, there are major economic benefits, due to the lack of need to spend financial resources for purchase of software to Universities.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Execution time comparison of lifting-based 2D wavelet transforms implementations on a VLIW DSP",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1692737/",
+            "Abstract": "Several input-traversal schedules have been proposed for the computation of the 2D discrete wavelet transform (DWT). In this paper, the row-column, the line-based and the block-based schedules for the 2D DWT computation are compared with respect to their execution time on a very long instruction word (VLIW) digital signal processor (DSP). Implementations of the wavelet transform according to the considered schedules have been developed. They are parameterized with respect to filter pair, image size, and number of decomposition levels. All implementations have been mapped on a VLIW DSP. Performance metrics for the implementations for a complete set of parameters have been obtained and compared. The experimental results show that each implementation performs better for different points of the parameter space",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Power Efficient Synthesis of Sum-of-Products Computations",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4757-3182-8_7",
+            "Abstract": "Sum-of-products computations are widely used in multimedia and communications systems. Techniques for the power efficient data path synthesis of sum-of-products computations are presented in this chapter. Simple and efficient heuristics for the instruction-level scheduling and assignment steps are described. These steps are crucial sub-steps of the custom processor synthesis stage of the system level design meta-flow proposed in chapter 2. The proposed heuristics exploit the inherent independence of the sum-of-products computations to formulate the synthesis tasks using the concept of the Traveling Salesman\u2019s Problem. In this way the synthesis tasks can be solved very efficiently. Different partly static cost functions are proposed to drive the synthesis tasks. The proposed cost functions target the power consumption either in the buses connecting the functional units with the storage elements or in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "System-level modeling of dynamically reconfigurable co-processors",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13822464082823385040&hl=en&oi=scholarr",
+            "Abstract": "Dynamically reconfigurable co-processors (DRCs) are interesting design alternatives when both flexibility and performance are concerns. However, it is difficult to study the performance impact of including such devices into design when using traditional design methods and tools. In this paper, we present easily adaptable system-level techniques, which are able to perform fast exploration of different reconfiguration. alternatives. A SystemC-based modeling method for DRCs and a high-level synthesis-based estimation tool to support system partitioning are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:Mojj43d5GZwC",
+            "Publisher": "SPRINGER-VERLAG BERLIN"
+        },
+        {
+            "Title": "Optimisation techniques for reducing global bus switching activity in realisations of sum-of-products computations in DSP systems",
+            "Publication year": 2003,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/ip-cds_20030370",
+            "Abstract": "Optimisation techniques aiming at the reduction of power consumption in digital signal processing (DSP) systems are presented. These optimisation techniques hold for all algorithms, including sum-of-products computations between input data and coefficients, which is a very broad category of DSP algorithms. Power savings are obtained through the reduction of switching activity in both (input and coefficient) data and address buses of the hardware architecture implementing the algorithm. The reduction of switching activity is obtained by means of a shuffling of the sequence, in which the partial products required by the sum-of-products computations are executed. The optimisation problems are formulated as travelling salesman problem (TSP) instances, which is a well known NP-complete problem. The cost function that drives the optimisation process takes explicitly into consideration addressing-related issues \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Compiling Scilab to high performance embedded multicore systems",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S014193311300094X",
+            "Abstract": "The mapping process of high performance embedded applications to today\u2019s multiprocessor system-on-chip devices suffers from a complex toolchain and programming process. The problem is the expression of parallelism with a pure imperative programming language, which is commonly C. This traditional approach limits the mapping, partitioning and the generation of optimized parallel code, and consequently the achievable performance and power consumption of applications from different domains. The Architecture oriented paraLlelization for high performance embedded Multicore systems using scilAb (ALMA) European project aims to bridge these hurdles through the introduction and exploitation of a Scilab-based toolchain which enables the efficient mapping of applications on multiprocessor platforms from a high level of abstraction. The holistic solution of the ALMA toolchain allows the complexity of both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Implementation of wireless communications systems on FPGA-based platforms",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/content/pdf/10.1155/2007/12192.pdf",
+            "Abstract": "Wireless communications are a very popular application domain. The efficient implementation of their components (access points and mobile terminals/network interface cards) in terms of hardware cost and design time is of great importance. This paper describes the design and implementation of the HIPERLAN/2 WLAN system on a platform including general purpose microprocessors and FPGAs. Detailed implementation results (performance, code size, and FPGA resources utilization) are presented. The main goal of the design case presented is to provide insight into the design aspects of a complex system based on FPGAs. The results prove that an implementation based on microprocessors and FPGAs is adequate for the access point part of the system where the expected volumes are rather small. At the same time, such an implementation serves as a prototyping of an integrated implementation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "aJt79fYAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Energy minimization under area and performance constraints for multimedia applications realized on embedded cores",
+            "Publication year": 2002,
+            "Publication url": "https://www.hindawi.com/archive/2002/172715/abs/",
+            "Abstract": "A systematic methodology for energy dissipation reduction of multimedia applications realized on architectures based on embedded cores and application specific data memory organization is proposed. Performance and area are explicitly taken into account. The proposed methodology includes two major steps: A high-level code transformation step that reorganizes the original description of the target application. The second major step includes the determination of the processor, memory and bus organization of the system and is briefly described. Experimental results from several real-life demonstrators prove the impact of the high level step of the proposed methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "VLSI 2010 Annual Symposium Selected Papers - Lecture Notes in Electrical Engineering",
+            "Publication year": 2011,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Springer, ISBN 978-94-007-1487-8"
+        },
+        {
+            "Title": "Free Software\u2013Open Source Software. A Powerful Tool for Developing Creativity in the Hands of the Student",
+            "Publication year": 2011,
+            "Publication url": "http://ejournals.uniwa.gr/index.php/JIIM/article/view/3151",
+            "Abstract": "Free Software/Open Source Software (FS/OSS) is a tool for the entire academic community. Its role can often prove to be indispensable in the field of Education. May be the perfect example of how research leads to the final tool for use, which is one of the key purposes of Universities. For students, it doesn't just create users, but develops their programming skills. In the academic community, it promotes and contributes to research and last but not least, the free distribution of the source code [1] helps to improve the final product of the companies which active in the field of IT, and the visibility of the manufacturer. The business community can find the scientists of future generations that seeks, create research and make educated professionals, through the field of University and education of free software [2]. Furthermore, there are major economic benefits, due to the lack of need to spend financial resources for purchase of software to Universities",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "5G: A Paradigm Shift in Network Planning and Deployment - Re-Thinking Infrastructures",
+            "Publication year": 2019,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "aJt79fYAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

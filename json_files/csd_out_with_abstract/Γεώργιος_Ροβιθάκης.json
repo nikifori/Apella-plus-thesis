@@ -1,0 +1,1216 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03a1\u03bf\u03b2\u03b9\u03b8\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Georgios Rovithakis",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7 \u03ba\u03b1\u03b9 \u039c\u03b7\u03c7 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "auth",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 11104,
+    "Scholar name": "George A. Rovithakis",
+    "Scholar id": "fvaSCo0AAAAJ",
+    "Affiliation": "Professor of Electrical & Computer Engineering, Aristotle University of Thessaloniki, Greece",
+    "Citedby": 5747,
+    "Interests": [
+        "Control Systems",
+        "Robotics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=fvaSCo0AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Guaranteeing prescribed performance and contact maintenance via an approximation free robot force/position controller",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109811005401",
+            "Abstract": "In this paper, we consider the problem of force/position tracking for a robot with revolute joints in compliant contact with a kinematically known planar surface. A novel controller is designed capable of guaranteeing, for an a priori known nonsingular initial robot condition, (i) certain predefined minimum speed of response, maximum steady state error as well as overshoot concerning the force/position tracking errors, (ii) contact maintenance and (iii) bounded closed loop signals. No information regarding either the robot dynamic model or the force deformation model is required and no approximation structures are utilized to estimate them. As the tracking performance is a priori guaranteed irrespectively of the control gains selection, the only concern is to adopt those values that lead to reasonable input torques. Finally, a comparative simulation study on a 6-DOF robot illustrates the performance of the proposed controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:_xSYboBqXhAC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Adaptive neural network tracking control for a class of MIMO nonlinear systems with measurement error",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4433928/",
+            "Abstract": "An adaptive neural network tracking controller is designed, capable of stabilizing multi-input multi-output nonlinear, affine in the control dynamical systems with measurement error. Uniform ultimate boundedness of the tracking error of the actual system state is guaranteed, as well as boundedness of all other signals in the closed loop. Possible division by zero is avoided with the use of a novel resetting procedure, capable of guaranteeing the boundedness away from zero of certain signals.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Output feedback stabilization with prescribed performance for uncertain nonlinear systems in canonical form",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6760687/",
+            "Abstract": "The problem of designing an output feedback stabilizing controller for nonlinear systems in canonical form, while guaranteeing prescribed transient and steady state performance bounds, without incorporating the actual system nonlinearities and/or their approximations, is considered in this work. The proposed design follows three steps. Assuming full state measurement, a state feedback controller is firstly constructed to solve the problem and subsequently its output is constrained via the utilization of a carefully selected saturation function to preserve the stability and performance attributes established in its absence. Finally, at a third stage the actual system states are replaced by the states of a high gain observer to formulate an output feedback controller. It is proven that only the boundedness of the closed loop system is sufficient to achieve stabilization with prescribed performance. As a consequence the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The 17th Mediterranean Conference on Control and Automation (MED'09)[Conference Reports]",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5510711/",
+            "Abstract": "The 17th Mediterranean Conference on Control and Automation (MED\u201909) took place June 24\u201326, 2009 at the Macedonia Palace Hotel in Thessaloniki, Greece. The focus of the conference was on new directions in control and automation and to promote ideas and collaboration among researchers in the Mediterranean region and throughout the globe. The conference general chairs were Vasilios Petridis of the Aristotle University of Thessaloniki, Greece, and Frank Lewis of the University of Texas at Arlington. The conference program chair was Thomas Parisini of the University of Trieste, Italy, and the program vice chairs were Zoe Doulgeri and George Rovithakis, both of the Aristotle University of Thessaloniki, Greece. King Cassander of Macedonia founded Thessaloniki in 315 BC and named the city after his wife, Thessaloniki, the sister of Alexander the Great. Throughout its long history, the city has received \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A genetically optimized artificial neural network structure for feature extraction and classification of vascular tissue fluorescence spectrums",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/875964/",
+            "Abstract": "The optimization of Neural Network structures for feature extraction and classification by employing Genetic Algorithms is addressed here. More precisely, a non-linear filter based on High Order Neural Networks (HONN) whose weights are updated by stable learning laws is used to extract the characteristic features of fluorescence spectrums correspond to human tissue samples of different stares. The process is optimized by a generic algorithm which maximizes the separability of different classes. The features are then classified with a Multi-Layer Perceptron (MLP). The high rates of success together with the small time needed to analyze the signals, proves our method very attractive for real time applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:B3FOqHPlNUQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance adaptive control of SISO feedback linearizable systems with disturbances",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4601971/",
+            "Abstract": "We consider the adaptive control problem for a class of SISO unknown nonlinear systems in the presence of additive input disturbances, with guaranteed prescribed performance. By prescribed performance we mean that the tracking error should converge to an arbitrarily predefined small residual set, with convergence rate no less than a prespecified value, exhibiting a maximum overshoot less than a sufficiently small prespecified constant. A novel output error transformation is introduced to transform the original \"constrained\" (in the sense of the output error restrictions) system into an equivalent \"unconstrained\" one. It is proven that stabilization of the \"unconstrained\" system is sufficient to solve the problem. The proposed robust adaptive controller is smooth and guarantees a uniform ultimate boundedness property for the transformed output error, plus the boundedness of all other signals in the closed loop. A \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:bEWYMUwI8FkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Unimanual Assembly by Deformation and Insertion",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8796227/",
+            "Abstract": "We consider the problem of joining two parts by deformation and insertion. After its decomposition into a sequence of assembly primitives (AP) that include deformation, folding, deformation relaxation and insertion, a single controller of hybrid force/position type is developed to guarantee the successful completion of each assembly primitive, while avoiding the appearance of irregularities and discontinuities in the application of the AP-sequence. Initially, the joining parts are assumed to be in contact. Further key properties of the designed controller are i) contact is preserved throughout assembly; ii) excessive contact forces that may lead to damaging the joining parts, are avoided. The applicability and effectiveness of the proposed methodology is tested via experiments using a KUKA LWR4+ robotic manipulator.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Guaranteeing global asymptotic stability and prescribed transient and steady-State attributes via uniting control",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8747527/",
+            "Abstract": "In this paper, we unite a controller designed via the prescribed performance control methodology, with a given, in a black box form, locally asymptotically stabilizing control scheme that encapsulates any prior knowledge related to the controlled system. In that perspective, we devise a hybrid control strategy, to guarantee the exponential convergence of the output tracking error to a prespecified neighborhood of the origin, with a predefined minimum convergence rate. Furthermore, the origin of the uncertain nonlinear error system is rendered globally asymptotically stable, while preserving the boundedness of all signals in the closed loop. Attention is paid to maintain the complexity of the resulted control solution at low levels. The developed switching logic prevents the appearance of Zeno behavior and guarantees the termination of switchings in finite time. Illustrative simulations clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:kRWSkSYxWN8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Artificial neural networks for discriminating pathologic from normal peripheral vascular tissue",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/951511/",
+            "Abstract": "The identification of the state of human peripheral vascular tissue by using artificial neural networks is discussed in this paper. Two different laser emission lines (He-Cd, Ar/sup +/) are used to excite the chromophores of tissue samples. The fluorescence spectrum obtained, is passed through a nonlinear filter based on a high-order (HO) neural network neural network (NN) [HONN] whose weights are updated by stable learning laws, to perform feature extraction. The values of the feature vector reveal information regarding the tissue state. Then a classical multilayer perceptron is employed to serve as a classifier of the feature vector, giving 100% successful results fur the specific data set considered. Our method achieves not only the discrimination between normal and pathologic human tissue, but also the successful discrimination between the different types of pathologic tissue (fibrous, calcified). Furthermore, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:WbkHhVStYXYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Approximation-Free Prescribed Performance Control",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016435986",
+            "Abstract": "A universal controller is designed for strict feedback systems with unknown nonlinearities, capable of guaranteeing, for any a priori known initial state condition, bounded signals in the closed loop, as well as prescribed performance for the output tracking error. By prescribed performance we mean that the output tracking error converges to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value, exhibiting maximum overshoot less than some sufficiently small preassigned constant. The proposed control scheme is of low complexity and requires reduced levels of a priori system knowledge. A comparative simulation study verifies the superiority of the proposed control scheme against the well known backstepping technique, which has been the main tool for designing controllers for the class of systems considered.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An approximation-free prescribed performance controller for uncertain MIMO feedback linearizable systems",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7171953/",
+            "Abstract": "In this paper, a continuous, state-feedback controller achieving preselected bounds on the transient and steady-state performance of the output tracking errors is proposed, for a class of multi-input, multi-output, nonlinear systems. Contrary to the current state-of-the-art, however, the controller proposed herein is static, i.e., it does not require the implementation of adaptive laws, and further it does not incorporate neural networks or other approximating structures. In this respect, certain control design difficulties, including the selection of the neural network size or the vast amount of neural parameters, are effectively relaxed. Simulations are performed to verify and clarify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Operational space prescribed tracking performance and compliance in flexible joint robots",
+            "Publication year": 2015,
+            "Publication url": "https://asmedigitalcollection.asme.org/dynamicsystems/article-abstract/137/7/074503/473940",
+            "Abstract": "In this work, an admittance control scheme is proposed utilizing a highly robust prescribed performance position tracking controller for flexible joint robots which is designed at the operational space. The proposed control scheme achieves the desired impedance to the external contact force as well as superior position tracking in free motion without any robot model knowledge, as opposed to the torque based impedance controllers. Comparative simulation results on a three degrees-of-freedom (3DOF) flexible joint manipulator, illustrate the efficiency of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:KxtntwgDAa4C",
+            "Publisher": "American Society of Mechanical Engineers"
+        },
+        {
+            "Title": "4.2 Quality of Service Adaptive Control in Multimedia Telecommunication Services",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=UWLCcQ0pkfoC&oi=fnd&pg=PA120&dq=info:48tn376gvn0J:scholar.google.com&ots=qtsSEwKyDM&sig=PY8Z53-wCVsCEUh3rJ6-vm08ww0",
+            "Abstract": "The rapidly increasing deployment of interactive and multimedia applications in communication services, such as video-phones and video-conferencing, makes the ability of endsystems (workstations, palm-tops, etc.) and network infrastructure to provide end-to-end Quality of Service (QoS) essential for current and forth-coming integrated multimedia communication systems. For example, multimedia applications such as video-conferencing",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Wiley"
+        },
+        {
+            "Title": "Guaranteeing field of view constraints in visual servoing tasks under uncertain dynamics",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896317313976",
+            "Abstract": "The problem of visual servoing, while guaranteeing the a priori satisfaction of field-of-view constraints, which are always present in vision sensors, is considered in this paper. Contrary to the current state-of-the-art, which provides solutions at the kinematic level, a torque controller is designed, following the Prescribed Performance Control methodology, capable of additionally imposing a priori specified transient and steady-state performance attributes on the image feature coordinate errors. No information regarding the actual system dynamics is required and no approximation structures (i.e., neural networks, fuzzy systems etc.) are incorporated to acquire such knowledge. The proposed visual servo controller involves very few and simple calculations, making its implementation on embedded control platforms straightforward. Simulation studies clarify and verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:LPZeul_q3PIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A neural network congestion control algorithm for the internet",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1467057/",
+            "Abstract": "A new approach of controlling congestion in the Internet is proposed in this paper via regulating the round trip towards satisfying a user imposed desired sending time. For this purpose linear in the weights neural networks are employed to construct an on-line model for the estimated round trip depending on source rate (control input) and congestion level which is directly measured from the network via monitoring the state of the marking bit for each packet acknowledgement. When the network has enough resources (throughout the transmission period) to support the user requirement the neural network based rate control algorithm guarantees the uniform ultimate boundedness of the achieved round trip with respect to an arbitrarily small neighborhood of the desired round trip. In the unfortunate case of high congestion, the controller reduces the rate to the point of logical congestion levels. Simulation studies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Control Enabling Adaptive Nonlinear System Identification",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9521688/",
+            "Abstract": "In this note, we rely on the theoretical foundations of Radial Basis Function Neural Networks (RBF-NNs) to form an adaptive parameter estimation problem, which we solve using the recently introduced Prescribed Performance Control methodology. Such combination results in a compact, user-congurableadaptive nonlinear system identication methodology that can be used to retrieve the open-loop nonlinear plant dynamics in any compact region of interest.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:_Ybze24A_UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TECHNICAL NOTES AND CORRESPONDENCE-Author's Reply",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13185180121079215166&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:q3oQSFYPqjQC",
+            "Publisher": "New York, NY: Institute of Electrical and Electronics Engineers, 1963-"
+        },
+        {
+            "Title": "NNRC: Throughput and Fairness Guarantees",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10203430907453199003&hl=en&oi=scholarr",
+            "Abstract": "This chapter focuses on the design of the throughput control module of the Adaptive congestion control framework (NNRC) framework. It analyses the necessity of its presence and explores its relationship to fairness in computer networks. The developed number of channels is guaranteed to be bounded by specific preassigned limits, while modifications are provided to achieve their reduction whenever congestion is detected. An acceptable congestion control mechanism should possess high levels of Transfer Control Protocol (TCP) friendliness. As TCP is the dominant transport protocol in the Internet, if a new protocol acquires an unfair capacity, it will most likely cause network congestion collapse. Within NNRC, throughput control is responsible for achieving fair allocation of network resources among competing sources, as well as for adaptively regulating the number of channels in each source. Within the normal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:ye4kPcJQO24C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Robot finger control for rolling on curved surfaces",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7535888/",
+            "Abstract": "In this work the problem of designing a low complexity state feedback controller which enforces the domination of the rolling motion of a spherical robotic fingertip upon a curved surface is considered. Fingertip rolling is essential for robot object fine positioning and manipulation and should be explicitly considered as a control objective. The prescribed performance control methodology is employed. Under the designed controller, the sliding and spinning regime of the robot tip motion is quickly suppressed, a desired position and normal force is reached with prespecified transient and steady state behavior while contact maintenance is guaranteed. Simulations validate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:lSLTfruPkqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force/position tracking for a robotic manipulator in compliant contact with a surface using neuro-adaptive control",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109807000945",
+            "Abstract": "The problem of force/position tracking for a robotic manipulator in compliant contact with a surface under non-parametric uncertainties is considered. In particular, structural uncertainties are assumed to characterize the compliance and surface friction models, as well as the robot dynamic model. A novel neuro-adaptive controller is proposed, that exploits the approximation capabilities of the linear in the weights neural networks, guaranteeing the uniform ultimate boundedness of force and position error with respect to arbitrarily small sets, plus the boundedness of all signals in the closed loop. Simulations highlight the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Prescribed performance adaptive control for robot force/position tracking",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5281169/",
+            "Abstract": "In this paper, we propose an adaptive control law that achieves prescribed performance indices regarding the transient and steady state response of the robot force/position tracking errors and ensures no loss of contact of the robot end effector. A compliant contact with a planar surface is assumed and the control objective is satisfied under parametric uncertainties in the robot dynamics and the force deformation model. Simulation results confirm the theoretical findings and compare the proposed controller with a conventional one.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive dynamic output feedback neural network control of uncertain MIMO nonlinear systems with prescribed performance",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6104225/",
+            "Abstract": "An adaptive dynamic output feedback neural network controller for a class of multi-input/multi-output affine in the control uncertain nonlinear systems is designed, capable of guaranteeing prescribed performance bounds on the system's output as well as boundedness of all other closed loop signals. It is proved that simply guaranteeing a boundedness property for the states of a specifically defined augmented closed loop system is necessary and sufficient to solve the problem under consideration. The proposed dynamic controller is of switching type. However, its continuity is guaranteed, thus alleviating any issues related to the existence and uniqueness of solutions. Simulations on a planar two-link articulated manipulator illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:2P1L_qKh6hAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tracking performance guarantees in the presence of quantization for uncertain nonlinear systems",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9178438/",
+            "Abstract": "In a networked control system (NCS) environment, where all closed-loop signals (control and state) are quantized, we consider the problem of establishing prescribed, transient and steady-state, performance guarantees on the output tracking error (minimum convergence rate, maximum steady-state error). The controlled system is of high relative degree, multi-input multi-output (MIMO), uncertain, nonlinear and time-varying. The proposed control solution is of low-complexity, in the sense that no hard calculations, analytic or numerical, are involved. Illustrative simulations clarify and verify the developed control scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:WA5NYHcadZ8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Controlled System: The Packet-Switched Network",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7643146865288588668&hl=en&oi=scholarr",
+            "Abstract": "This chapter discusses network topology and its operation. It discusses the operation of Transmission Control Protocol (TCP) protocol weaknesses in synchronous networks. Packet switching is employed to optimize the use of the bandwidth available in a network and to minimize the latency, a measure of time delay experienced in a system. According to TCP, every continuous data stream must be segmented into several packets if it exceeds a predefined threshold. To establish or terminate a connection, TCP follows a specific procedure according to which both the source and the destination have to state their starting sequence numbers, information crucial to establish a robust communication. In a packet switching scheme, prior to transmitting a piece of information, the source divides the total amount of data into fundamental units of information called packets. Depending on the network, each packet can be of fixed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:UHK10RUVsp4C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "A hybrid neural network/genetic algorithm approach to optimizing feature extraction for signal classification",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1262542/",
+            "Abstract": "In this paper, a hybrid neural network/genetic algorithm technique is presented, aiming at designing a feature extractor that leads to highly separable classes in the feature space. The application upon which the system is built, is the identification of the state of human peripheral vascular tissue (i.e., normal, fibrous and calcified). The system is further tested on the classification of spectra measured from the cell nuclei in blood samples in order to distinguish normal cells from those affected by Acute Lymphoblastic Leukemia. As advantages of the proposed technique we may encounter the algorithmic nature of the design procedure, the optimized classification results and the fact that the system performance is less dependent on the classifier type to be used.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A neural network approach to the identification of electric earthquake precursors",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1464189500000491",
+            "Abstract": "Reliable recognition of Electric Earthquake Precursors (EEP) is mainly prevented by disturbances of magnetotelluric (MT) origin, making EEP's interpretation difficult. However, assuming that EEP's are not accompanied by a significant magnetic anomaly, the MT disturbances can be reduced by applying the method of residual electric field calculations. In the present work, we present a Dynamic Neural Network (DNN) based prediction procedure. A DNN is employed to predict the behaviour of an ellectrotelluric time series with ultimate objective its application to earthquake prediction using electric precursors. To achieve such a goal, a learning phase is necessary, during which the synaptic weights of the DNN are adjusted according to an appropriate update law so as to minimize an error signal. Then the method proceeds to the prediction phase, where using the weight values resulted at the end of the learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Guaranteed active constraints enforcement on point cloud-approximated regions for surgical applications",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8793953/",
+            "Abstract": "In this work, a passive physical human-robot interaction (pHRI) controller is proposed to intraoperatively ensure that sensitive tissues will not be damaged by the robot's tool. The proposed scheme uses the point cloud of the restricted region's surface as constraint definition and Artificial Potential fields for constraint enforcement. The controller is proven to be passive with respect to the interaction force and to guarantee constraint satisfaction in all cases. The proposed methodology is experimentally validated by the kinesthetic guidance of a KUKA LWR4+ robot's end-effector driving a virtual slave KUKA in the vicinity of a 3D point-cloud of a kidney and its adjacent vessels.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Combining prescribed tracking performance and controller simplicity for a class of uncertain MIMO nonlinear systems with input quantization",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8385123/",
+            "Abstract": "For the class of multi-input multi-output nonlinear systems, comprised of fully interconnected strict-feedback subsystems, having uncertain, though locally Lipschitz nonlinearities and input quantization equipped with a hysteretic property, the objective is to construct a closed-loop system that combines prescribed, output trajectory tracking performance attributes (maximum overshoot, minimum convergence rate, maximum steady-state error), and a low-complexity control solution. In this paper, the task is succeeded by designing a state-feedback controller that is not only structurally and computationally simple, but additionally it is decentralized and requires knowledge of the desired output trajectories only at each time instant. Further, no time derivatives of the output references are utilized. The aforementioned functionalities are achieved irrespectively of the quantization parameters, which besides being unknown, are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:eflP2zaiRacC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Force/position tracking for a robotic finger in compliant contact with a surface using neuro-adaptive control",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4776881/",
+            "Abstract": "In this work, the problem of force/position tracking for a robotic finger in compliant contact with a surface under non-parametric uncertainties is considered. In particular, structural uncertainties are assumed to characterize the compliance model as well as the robot dynamic model. A novel neuro-adaptive controller is proposed that exploits the approximation capabilities of the linear in the weights neural networks and the uniform ultimate boundedness of force and position error is proved. Simulation results illustrate the performance of the proposed controller",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A priori guaranteed evolution within the neural network approximation set and robustness expansion via prescribed performance control",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6151167/",
+            "Abstract": "A neuroadaptive control scheme for strict feedback systems is designed, which is capable of achieving prescribed performance guarantees for the output error while keeping all closed-loop signals bounded, despite the presence of unknown system nonlinearities and external disturbances. The aforementioned properties are induced without resorting to a special initialization procedure or a tricky control gains selection, but addressing through a constructive methodology the longstanding problem in neural network control of a priori guaranteeing that the system states evolve strictly within the compact region in which the approximation capabilities of neural networks hold. Moreover, it is proven that robustness against external disturbances is significantly expanded, with the only practical constraint being the magnitude of the required control effort. A comparative simulation study clarifies and verifies the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:u9iWguZQMMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An adaptive neuro-fuzzy tracking control for multi-input nonlinear dynamic systems",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109807004657",
+            "Abstract": "An adaptive neuro-fuzzy control design is suggested in this paper, for tracking of nonlinear affine in the control dynamic systems with unknown nonlinearities. The plant is described by a Takagi\u2013Sugeno (T\u2013S) fuzzy model, where the local submodels are realized through nonlinear dynamical input\u2013output mappings. Our approach relies upon the effective approximation of certain terms that involve the derivative of the Lyapunov function and the unknown system nonlinearities. The above task is achieved locally, using linear in the weights neural networks. A novel resetting scheme is proposed that assures validity of the control input. Stability analysis provides the control law and the adaptation rules for the network weights, assuring uniform ultimate boundedness of the tracking and the signals appearing in the closed-loop configuration. Illustrative simulations highlight the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:maZDTaKrznsC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Guaranteeing preselected tracking quality for uncertain strict-feedback systems with deadzone input nonlinearity and disturbances via low-complexity control",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109815000485",
+            "Abstract": "A continuous, low-complexity, static, state-feedback controller is proposed for strict-feedback systems with deadzone input nonlinearity and disturbances, utilizing the Prescribed Performance Control methodology. The scheme achieves preselected bounds on the transient and steady state output error performance despite the uncertainty in system nonlinearities and deadzone characteristics. Regarding the latter, a general class of admissible deadzones is considered compared to the current state-of-the-art, permitting nonsmooth and even locally decreasing behavior outside the dead-band. Furthermore, approximating structures, i.e., neural networks, fuzzy systems, etc., are not utilized and, moreover, the backstepping \u201cexplosion of complexity\u201d issue is eliminated without residing in filtering, thus deriving a low-complexity design. The proposed controller evades the construction of a deadzone inverse and does not \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Towards satisfying an application level quality measure via a neural network TCP-like protocol",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1583280/",
+            "Abstract": "A new TCP-like protocol is proposed in this paper aiming at regulating the packet round trip to satisfy a user imposed desired application sending time. For this purpose linear in the weights neural networks are employed to construct an on-line model for the estimated round trip depending on source rate (control input) and congestion level which is directly measured from the network via monitoring the state of the ECN bit for each packet acknowledgement. When the network has enough resources to support the user requirement, the neural network based rate control algorithm guarantees the uniform ultimate boundedness of the achieved round trip with respect to an arbitrarily small neighborhood of the desired round trip. In the unfortunate case of high congestion, the controller reduces the rate to the point of congestion escaping. To improve the achievable sending time, introducing the notion of communication \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Approximation-free prescribed performance control for unknown SISO pure feedback systems",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6669128/",
+            "Abstract": "A universal control scheme is designed for unknown pure feedback systems, capable of guaranteeing, for any initial system condition, output tracking with prescribed performance and bounded signals in the closed loop. In this paper, by prescribed performance, it is meant that the output error converges to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value. The proposed approximation-free and low-complexity control scheme isolates the output performance from the control gains selection and exhibits strong robustness against model uncertainties. In fact, any system in pure feedback form obeying certain controllability assumptions can be controlled by the proposed scheme without altering either the controller structure or the control gain values. Finally, a simulation study clarifies and verifies the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An experimental vision system for SMD component placement inspection",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9353236419064027876&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prescribed Performance Adaptive Control for Multi-Input Multi-Output Affine in the Control Nonlinear Systems",
+            "Publication year": 2010,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:pyW8ca7W8N0C",
+            "Publisher": "IEEE Control Systems Society"
+        },
+        {
+            "Title": "On Prescribed Contact Establishment",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S240589631731443X",
+            "Abstract": "In this paper, the problem of establishing contact of robots with a planar surface having unknown stiffness and position is considered. Given a free-space controller that achieves tracking of a position and orientation reference trajectory, a novel, continuous on time controller is designed, capable of establishing and maintaining contact. Additionally, the proposed control scheme guarantees the satisfaction of certain pre-defined bounds regarding the maximum overshoot, the minimum convergence rate and the maximum steady-state error for the contact force, the position, and the orientation tracking errors. Moreover, all remaining closed-loop signals are kept bounded. Simulation studies on a 6-DOF robot, clarify and verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A low-complexity global approximation-free control scheme with prescribed performance for unknown pure feedback systems",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109814000582",
+            "Abstract": "A universal, approximation-free state feedback control scheme is designed for unknown pure feedback systems, capable of guaranteeing, for any initial system condition, output tracking with prescribed performance and bounded closed loop signals. By prescribed performance, it is meant that the output error converges to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value, having maximum overshoot less than a preassigned level. The proposed state feedback controller isolates the aforementioned output performance characteristics from control gains selection and exhibits strong robustness against model uncertainties, while completely avoiding the explosion of complexity issue raised by backstepping-like approaches that are typically employed to the control of pure feedback systems. In this respect, a low complexity design is achieved. Moreover, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Adaptive neural network tracking control with disturbance attenuation for multiple-input nonlinear systems",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4749259/",
+            "Abstract": "A switching adaptive neural network controller for multiple-input nonlinear, affine in the control dynamical systems with unknown nonlinearities is designed, capable of arbitrarily attenuating  L 2  or  L infin  external disturbances. In the absence of disturbances, a uniform ultimate boundedness property of the tracking error with respect to an arbitrarily small set around the origin is guaranteed, as well as the uniform boundedness of all the signals in the closed loop. The proposed switching adaptive controller effectively avoids possible division by zero, while guaranteeing the continuity of switching. In this way, problems connected to existence of solutions and chattering phenomena are alleviated. Simulations illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Application of a neural-network scheduler on a real manufacturing system",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/911378/",
+            "Abstract": "In this paper a neural adaptive scheduling methodology approached machine scheduling as a control regulation problem is evaluated by comparing its performance with conventional schedulers, through simulation studies. The case study chosen constitutes an existing manufacturing cell which can be viewed as a deterministic job shop with extremely heterogenous part processing times. The results facilitate a thorough assessment of our algorithm in terms of the backlogging and inventory cost, system stability, and work in process.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust partial-state feedback prescribed performance control of cascade systems with unknown nonlinearities",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5772916/",
+            "Abstract": "A universal controller is designed for cascade systems, involving dynamic uncertainty, unknown nonlinearities, exogenous disturbances and/or time-varying parameters, capable of guaranteeing prescribed performance for the output tracking error, as well as uniformly bounded signals in the closed loop. By prescribed performance we mean that the output tracking error should converge to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value, exhibiting maximum overshoot less than a sufficiently small preassigned constant. The proposed control scheme is of low complexity, utilizes partial state feedback and requires reduced levels of a priori system knowledge. The results can be easily extended to systems affected by bounded state measurement errors, as well as to MIMO nonlinear systems in block triangular form. Simulations clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed Performance Control for Discontinuous Output Reference Tracking",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9301419/",
+            "Abstract": "This paper considers the problem of prescribed performance tracking control for a class of uncertain, multi-input multioutput (MIMO) nonlinear systems having a low-triangular structure, with possibly discontinuous reference signals. Prescribed performance means that the output tracking errors should converge to a prescribed maximum residual set in fixed time, exhibiting a predefined maximum overshoot. The controller we propose is of low-complexity and is designed according to the philosophy of the prescribed performance control (PPC) methodology. However, significant modifications on the standard PPC design are provided to successfully handle the presence of discontinuities in the reference. Key characteristic is the incorporation of impulsive dynamics in the control design, leading to an impulsive closed-loop system. Knowledge of neither the future values of the reference signal nor the time instants of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:JoZmwDi-zQgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fluid Flow Model Congestion Control",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2610608301677873354&hl=en&oi=scholarr",
+            "Abstract": "This chapter focuses on the fluid flow model formulation, whose study originates in as well as in the seminal work. In fluid flow approximation, packets are assumed to flow continuously like fluids and be governed by nonlinear differential equations. Information flow in packet switched networks is performed in a discrete fashion which complicates congestion control analysis. Any congestion control algorithm should be decentralized and no exchanging of information should take place among different control sites. The aforementioned practical restrictions establish primal algorithms as the only congestion control scheme that fulfills the end-to-end network considerations. The Internet was deployed and is currently expanding on the understanding that each user regulates its transmission rate based on feedback received from the network, which provides congestion notification measures without having access to link \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:LjlpjdlvIbIC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Identification of Dynamical Systems Using Recurrent High-Order Neural Networks",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-0785-9_2",
+            "Abstract": "The use of multilayer neural networks for pattern recognition and for modeling of \u201cstatic\u201d systems is currently well-known (see, for example, [1]). Given pairs of input-output data (which may be related by an unknown algebraic relation, a so-called \u201cstatic\u201d function) the network is trained to learn the particular input-output map. Theoretical work by several researchers, including Cybenko [16], and Funahashi [24], have proven that, even with one hidden layer, neural networks can approximate any continuous function uniformly over a compact domain, provided the network has a sufficient number of units, or neurons. Recently, interest has been increasing towards the usage of neural networks for modeling and identification of dynamical systems. These networks, which naturally involve dynamic elements in the form of feedback connections, are known as recurrent neural networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:SP6oXDckpogC",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Robust redesign of a neural network controller in the presence of unmodeled dynamics",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1353284/",
+            "Abstract": "This work presents a neural network control redesign, which achieves robust stabilization in the presence of unmodeled dynamics restricted to be input to output practically stable (IOpS), without requiring any prior knowledge on any bounding function. Moreover, the state of the unmodeled dynamics is permitted to go unbounded provided that the nominal system state and/or the control input also go unbounded. The neural network controller is equipped with a resetting strategy to deal with the problem of possible division by zero, which may appear since we consider unknown input vector fields with unknown signs. The uniform ultimate boundedness of the system output to an arbitrarily small set, plus the boundedness of all other signals in the closed-loop is guaranteed.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance adaptive control for multi-input multi-output affine in the control nonlinear systems",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5406132/",
+            "Abstract": "We consider the tracking problem of unknown, robustly stabilizable, multi-input multi-output (MIMO), affine in the control, nonlinear systems with guaranteed prescribed performance. By prescribed performance we mean that the tracking error converges to a predefined arbitrarily small residual set, with convergence rate no less than a prespecified value, exhibiting maximum overshoot as well as undershoot less than some sufficiently small preassigned constants. Utilizing an output error transformation, we obtain a transformed system whose robust stabilization is proven necessary and sufficient to achieve prescribed performance guarantees for the output tracking error of the original system, provided that initially the transformed system is well defined. Consequently, a switching robust control Lyapunov function (RCLF)-based adaptive, state feedback controller is designed, to solve the stated problem. The proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An impedance control modification guaranteeing compliance strictly within preselected spatial limits",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7353673/",
+            "Abstract": "In this work a modification of a Cartesian impedance controller is presented. The proposed controller guarantees compliance of the operated manipulator strictly within preselected spatial limits. Specifically, by introducing a nonlinear stiffness term into the control design, the manipulator is prevented from colliding with an explicitly defined hard boundary, like a human being or a fragile object. When operating in spatial regions sufficiently away from the boundary the manipulator behaves as if it were operated via a linear stiffness impedance controller, thus preserving in these regions its compliance and convergence characteristics. A comparative simulation with a linear stiffness impedance controller is performed to verify and clarify the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fault detection in mechanical systems with friction phenomena: An online neural approximation approach",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4267716/",
+            "Abstract": "In this paper, the problem of fault detection in mechanical systems performing linear motion, under the action of friction phenomena is addressed. The friction effects are modeled through the dynamic LuGre model. The proposed architecture is built upon an online neural network (NN) approximator, which requires only system's position and velocity. The friction internal state is not assumed to be available for measurement. The neural fault detection methodology is analyzed with respect to its robustness and sensitivity properties. Rigorous fault detectability conditions and upper bounds for the detection time are also derived. Extensive simulation results showing the effectiveness of the proposed methodology are provided, including a real case study on an industrial actuator.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:BqipwSGYUEgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving Safety in Human-Robot Collaboration via Dynamic Active Constraints Enforcement*",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9515497/",
+            "Abstract": "The problem of motion planning in obstacle cluttered environments is an important task in robotics. In the literature several methodologies exist to address the problem. In this work we consider using the feedback-based approach, where the solution comes from designing a controller capable of guaranteeing trajectory tracking with obstacle avoidance. Commonly, all respective studies consider simplified robot dynamics, which is usually insufficient in practical applications. In this work we focus on the collision avoidance problem with respect to a moving spherical object. We assume knowledge of a nominal controller that achieves tracking of a desired trajectory in the absence of obstacles, and we design an auxiliary control scheme to guarantee that the robot\u2019s end-effector will always operate in a safe distance from the moving obstacle\u2019s surface. The controller we develop does not take into account the actual robot \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:uLbwQdceFCQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Source-Based Congestion Control Mechanisms",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15696048620794253998&hl=en&oi=scholarr",
+            "Abstract": "This chapter presents representative source-based congestion control mechanisms including transmission control protocol (TCP) and its variants which were reported to extend the applicability of the traditional TCP to network environments that may include long-distance high-speed and/or wireless connections that may intend to support quality demanding applications. The key idea of traditional TCP is for a source to gently probe the network for spare capacity by linearly increasing its rate and exponentially reducing its rate when congestion is detected. TCP Reno has performed remarkably well and is generally believed to have prevented severe congestion as the Internet scaled up by magnitudes in size and speed. The interesting property of scalable TCP is that the recovery time after a loss event is decoupled from the window size. The traditional TCP implementations rely on packet loss as an indicator of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:PR6Y55bgFSsC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "A Resetting Neuro-Controller in the Presence of Unmodeled Dynamics",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1467027/",
+            "Abstract": "A neural network control redesign is presented in this paper, which achieves robust stabilization in the presence of unmodeled dynamics restricted to be input to output practically stable (IOpS), without requiring any prior knowledge on any bounding function. Moreover, the state of the unmodeled dynamics is permitted to go unbounded provided that the nominal system state and/or the control input also go unbounded. The neural network controller is equipped with a resetting strategy to deal with the problem of possible division by zero, which may appear since we consider unknown input vector fields with unknown signs. The uniform ultimate boundedness of the system output to an arbitrarily small set, plus the boundedness of all other signals in the closed loop is guaranteed",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance tracking of a variable stiffness actuated robot",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7051223/",
+            "Abstract": "This paper is concerned with the design of a state feedback control scheme for variable stiffness actuated (VSA) robots, which guarantees prescribed performance of the tracking errors despite the low range of mechanical stiffness. The controller does not assume knowledge of the actual system dynamics nor does it utilize approximating structures (e.g., neural networks and fuzzy systems) to acquire such knowledge, leading to a low complexity design. Simulation studies, incorporating a model validated on data from an actual variable stiffness actuator (VSA) at a multi-degrees-of-freedom robot, are performed. Comparison with a gain scheduling solution reveals the superiority of the proposed scheme with respect to performance and robustness.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stability of active constraints enforcement in sensitive regions defined by point-clouds for robotic surgical procedures",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8796278/",
+            "Abstract": "Robotic minimally invasive surgery provides images from the intraoperative field including organs and sensitive anatomic structures whose protection from non-voluntary destruction is imperative. To assist the surgeon, control methods that discourage motions towards these sensitive areas are advocated in the related literature. In this work, an active constraint controller is proposed and is proved to guarantee that sensitive/forbidden areas defined by a point cloud are never violated by the tool tip while the closed loop system remains passive and its state bounded under the exertion of a human guiding force. Experimental results are given utilizing a KUKA LWR4+ kinesthetically guided in a virtual surgical environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:wbdj-CoPYUoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An adaptive neuro-fuzzy control approach for nonlinear systems via Lyapunov function derivative estimation",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4776880/",
+            "Abstract": "An adaptive neuro-fuzzy controller is proposed in this paper to deal with the problem of tracking nonlinear affine in the control dynamical systems with unknown nonlinearities. The plant is described by means of a Takagi-Sugeno fuzzy model, including dynamic fuzzy rules of generalized form, where the local submodels are realized through nonlinear input-output mappings. Instead of modelling the plant dynamics directly, our approach relies upon the effective approximation of certain terms that involve the derivative of the Lyapunov function and the unknown system nonlinearities on a local basis using linear in the weights neural networks. A resetting scheme is proposed to assure validity of the control input. The uniform ultimate boundedness of the tracking error with respect to an arbitrarily small set of the origin is achieved, along with the boundedness of all other signals in the closed loop. Illustrative simulations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:tS2w5q8j5-wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Manufacturing Systems Scheduling",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-0785-9_5",
+            "Abstract": "Efficient management of the production process, in manufacturing systems is a vast subject with decisive impact on major economic entities, like productivity, competitiveness and viability. Production scheduling (i.e., organization and control of production operations in manufacturing systems), is essential for the efficient operation of a production environment. Production scheduling actually concerns the efficient allocation over time of resources for the manufacture of goods, involving decisions such as part release, routing, machine scheduling, set up times etc., with the objective of producing customers\u2019 demands in a timely and economic fashion. Consequently, scheduling attempts to find a way to assign and sequence the use of these shared resources, such that the production constraints are satisfied and production costs are minimized.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Prescribed performance adaptive control of SISO feedback linearizable systems with disturbance",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2817283957822278251&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A structural genetic algorithm to optimize High Order Neural Network architecture.",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9601855304764850505&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prescribed Performance Tracking using State Quantization for Uncertain Feedback Linearizable Systems",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896320313872",
+            "Abstract": "This paper addresses the problem of imposing pre-defined performance characteristics (by means of maximum steady-state error and minimum convergence rate) on the output tracking errors for a class of uncertain multi-input multi-output (MIMO) nonlinear system in the presence of state quantization implemented by uniform-hysteretic quantizers. A low-complexity control design that requires reduced system knowledge and utilizes only quantized measurements of the state is proposed. The desired performance is achieved by assuming knowledge of the step-size of the quantizers involved. Simulation results verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:5awf1xo2G04C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A Bayesian image analysis framework for post placement quality inspection of components",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1040009/",
+            "Abstract": "A novel framework is proposed to inspect the placement quality of surface mount technology devices (SMDs), immediately after they have been placed in wet solder paste on a printed circuit board (PCB). The considered approach comprises two stages, i.e., observation and Bayesian estimation. The first stage involves the indirect measurement of each lead displacement with respect to its ideal position, centralized on its pad region. This displacement is inferred from area measurements on the raw image data of the lead region through a classification process. To increase the accuracy in the computation of the displacement, the second stage develops a combined classification/estimation process, in which the individual lead displacement classifications are viewed as measurements (or observations) of the same physical quantity i.e., the displacement of the entire component as a rigid body. Experimental results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:xtRiw3GOFMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robustness of a neural controller in the presence of additive and multiplicative external perturbations",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/882891/",
+            "Abstract": "In this paper we discuss the tracking problem in the presence of additive and multiplicative external disturbances, for affine in the control nonlinear dynamical systems, whose nonlinearities are assumed unknown. Based on a recurrent high-order neural network (RHONN) model of the unknown plant, a smooth control law is designed to guarantee the uniform ultimate boundedness of all signals in the closed loop. Certain measures are utilized to test its performance. The controller, which can be viewed as a nonlinear combination of three high-order neural networks (HONN), does not require knowledge regarding upper bounds on the optimal weights, modeling error and external disturbances. Simulations performed on a simple example illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed contact establishment of a robot with a planar surface under position and stiffness uncertainties",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889017308266",
+            "Abstract": "Robot arms that operate in unstructured and dynamic environments often need to establish contact with a planar surface, while avoiding the appearance of excessive contact forces. This is a difficult task given that exact knowledge of the robot or the environment model parameters is not available. In this paper a novel, continuous in time, controller is designed, capable of establishing and maintaining contact of the robot with a planar surface of unknown stiffness and position. The proposed control scheme guarantees that the resulted contact force, normal to the surface, is a priori bounded by user-defined bounds, while imposing prescribed transient and steady-state performance attributes on the post-contact position and orientation error response. All remaining closed-loop signals are also kept bounded. The controller is validated via experimental studies performed on a KUKA LWR 4+ robot. Additionally, a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:eJXPG6dFmWUC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A simplified adaptive neural network prescribed performance controller for uncertain MIMO feedback linearizable systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6822557/",
+            "Abstract": "In this paper, the problem of deriving a continuous, state-feedback controller for a class of multiinput multioutput feedback linearizable systems is considered with special emphasis on controller simplification and reduction of the overall design complexity with respect to the current state of the art. The proposed scheme achieves prescribed bounds on the transient and steady-state performance of the output tracking errors despite the uncertainty in system nonlinearities. Contrary to the current state of the art, however, only a single neural network is utilized to approximate a scalar function that partly incorporates the system nonlinearities. Furthermore, the loss of model controllability problem, typically introduced owing to approximation model singularities, is avoided without attaching additional complexity to the control or adaptive law. Simulations are performed to verify and clarify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "End-to-End Adaptive Congestion Control in TCP/IP Networks",
+            "Publication year": 2017,
+            "Publication url": "https://www.taylorfrancis.com/books/end-end-adaptive-congestion-control-tcp-ip-networks-christos-houmkozlis-george-rovithakis/10.1201/b11870",
+            "Abstract": "Establishing adaptive control as an alternative framework to design and analyze Internet congestion controllers, End-to-End Adaptive Congestion Control in TCP/IP Networks employs a rigorously mathematical approach coupled with a lucid writing style to provide extensive background and introductory material on dynamic systems stability and neural network approximation; alongside future internet requests for congestion control architectures. Designed to operate under extreme heterogeneous, dynamic, and time-varying network conditions, the developed controllers must also handle network modeling structural uncertainties and uncontrolled traffic flows acting as external perturbations. The book also presents a parallel examination of specific adaptive congestion control, NNRC, using adaptive control and approximation theory, as well as extensions toward cooperation of NNRC with application QoS control.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:ZuybSZzF8UAC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Robust adaptive fuzzy control of nonaffine systems guaranteeing transient and steady state error bounds",
+            "Publication year": 2012,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2283",
+            "Abstract": "We consider the prescribed performance tracking problem of single\u2010input single\u2010output, unknown, nonaffine systems in the presence of exogenous disturbances. By prescribed performance, we mean that the tracking error should converge to a predefined arbitrarily small residual set, with convergence rate no less than a prespecified value, exhibiting maximum overshoot less than a sufficiently small preassigned constant. The aforementioned goal is obtained via an output error transformation, which incorporates the desired performance characteristics, and whose boundedness is proven a sufficient condition. Fuzzy systems are utilized to approximate the system uncertainties, and consequently, a smooth robust adaptive fuzzy controller is designed to achieve the target. Simulation studies clarify and verify the approach. Copyright \u00a9 2012 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:_kc_bZDykSQC",
+            "Publisher": "John Wiley & Sons, Ltd"
+        },
+        {
+            "Title": "A Bayesian framework for multilead SMD post-placement quality inspection",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1262516/",
+            "Abstract": "In this paper, a novel framework is proposed to inspect the placement quality of surface mount technology devices (SMDs), immediately after they have been placed in wet solder paste on a printed circuit board (PCB). The developed approach involves the indirect measurement of each lead displacement with respect to its ideal position, centralized on its pad region. This displacement is inferred from area measurements on the raw image data of the lead region through a classification process. To increase the accuracy in the computation of the lead displacement, we introduce a combined classification/estimation process, in which the individual lead displacement classifications are viewed as measurements (or observations) of the same physical quantity i.e., the displacement of the entire component as a rigid body. Certain geometric relations connecting lead shifts to component displacement are also derived \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Measuring Network Congestion",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2292693206719421240&hl=en&oi=scholarr",
+            "Abstract": "End-to-end congestion control in computer networks, including the current Internet, requires some form of feedback information from the congested links to the sources of data traffic, so that they can adjust their rates of sending data according to the bandwidth available. The Transmission Control Protocol (TCP) of the current Internet employs such an implicit feedback through timeouts and duplicate acknowledgments for lost packets. Specifically, TCP assumes that packet drops in a network occur mainly owing to congestion. The most significant representative of the class of packet drop schemes is random early detection, which uses queue size as a congestion measure. Packet dropping as an early warning congestion mechanism results in packet retransmission, which negatively affects the network traffic and increases packet delay. In TCP/Internet Protocol networks, the Explicit Congestion Notification protocol \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:WqliGbK-hY8C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Adaptive control with guaranteed transient and steady state tracking error bounds for strict feedback systems",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109808004676",
+            "Abstract": "Two robust adaptive control schemes for single-input single-output (SISO) strict feedback nonlinear systems possessing unknown nonlinearities, capable of guaranteeing prescribed performance bounds are presented in this paper. The first assumes knowledge of only the signs of the virtual control coefficients, while in the second we relax this assumption by incorporating Nussbaum-type gains, decoupled backstepping and non-integral-type Lyapunov functions. By prescribed performance bounds we mean that the tracking error should converge to an arbitrarily predefined small residual set, with convergence rate no less than a prespecified value, exhibiting a maximum overshoot less than a sufficiently small prespecified constant. A novel output error transformation is introduced to transform the original \u201cconstrained\u201d (in the sense of the output error restrictions) system into an equivalent \u201cunconstrained\u201done. It is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Prescribed performance output feedback/observer-free robust adaptive control of uncertain systems using neural networks",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5910411/",
+            "Abstract": "A neural network output feedback/observer-free continuous controller for multiple-input-multiple-output uncertain nonlinear systems is designed, which is capable of guaranteeing prescribed performance bounds on the system output, as well as the boundedness of all other closed-loop signals, despite the presence of additive external disturbances and unmodeled dynamics. The assumptions that were made concern the satisfaction of an unboundedness observability property and an output Lagrange stability condition of the unmodeled dynamics subsystem and that the nominal system is output feedback equivalent to a strictly passive one. Simulations on an induction motor system illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance control of strict feedback systems with deadzone input nonlinearity",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6760139/",
+            "Abstract": "A continuous, state-feedback controller is proposed for strict feedback systems with deadzone input nonlinearity. The scheme achieves prescribed bounds on the transient and steady state output error performance despite the uncertainty in system nonlinearities and deadzone characteristics. For the latter, only a locally Lipschitz property is assumed to hold, with strictly increasing nonlinearities outside the dead-band, thus forming a fairly general class of admissible deadzones. Furthermore, approximating structures, i.e., neural/fuzzy systems, etc., are not utilized and, moreover, the backstepping \u201cexplosion of complexity\u201d issue is eliminated without residing to filtering, thus resulting in a low complexity design. The proposed controller evades the construction of a deadzone inverse and does not employ a special analytical deadzone representation. Simulations are performed to verify the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A robust neuro-adaptive congestion control scheme with respect to exogenous disturbances and delay",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4433916/",
+            "Abstract": "A novel neuro-adaptive congestion controller is presented, capable of achieving certain time-quality characteristics, by regulating the per packet round trip. The controller is implemented at the source and is proven robust against modelling imperfections, exogenous disturbances (UDP traffic) and delays (propagation, buffering). The proposed source control theoretic framework is comprised of three dominant modules: i) an on-line desired round trip estimator, whose main objective is to output reliable piecewise constant predictions of feasible (i.e., achievable) round trip times; ii) an adaptive and saturated transmission rate controller, capable of precise tracking the desired round trip time commands that are downloaded from the first module and iii) a future path congestion level estimator, which provides critical information to the aforementioned two modules.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fairness guarantees in a neural network adaptive congestion control framework",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4783075/",
+            "Abstract": "The recently proposed neural network rate control (NNRC) framework that achieves queueing delay and queue length regulation, is expanded to further guarantee fair allocation of network resources among competing sources. This is possible by introducing a novel algorithm that controls in a stable and adaptive manner the number of communication channels in each source. Simulation studies performed on a heterogenous delay, long-distance high-speed network, illustrate all aspects of the developed methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Neuro-adaptive force/position control with prescribed performance and guaranteed contact maintenance",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5593885/",
+            "Abstract": "In this paper, we address unresolved issues in robot force/position tracking including the concurrent satisfaction of contact maintenance, lack of overshoot, desired speed of response, as well as accuracy level. The control objective is satisfied under uncertainties in the force deformation model and disturbances acting at the joints. The unknown nonlinearities that arise owing to the uncertainties in the force deformation model are approximated by a neural network linear in the weights and it is proven that the neural network approximation holds for all time irrespective of the magnitude of the modeling error, the disturbances, and the controller gains. Thus, the controller gains are easily selected, and potentially large neural network approximation errors as well as disturbances can be tolerated. Simulation results on a 6-DOF robot confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:XiSMed-E-HIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Joint position tracking with prescribed performance of uncertain robotic manipulators using only joint position measurements",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7402423/",
+            "Abstract": "We consider joint position tracking of a desired reference trajectory for a n-dof robotic manipulator, utilizing only joint position measurements. The proposed controller is structurally and computationally simple and achieves prescribed transient and steady state performance bounds on the joint position tracking error. Knowledge of the actual robot dynamics is not required. Furthermore, no approximating structures (i.e., neural networks, fuzzy systems) are utilized to compensate for the absence of such knowledge. The performance of the controller designed is demonstrated via simulations and experiments conducted on a KUKA LWR4+ robotic manipulator.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low Complexity Robust Output Synchronization Protocol with Prescribed Performance for High-order Heterogeneous Uncertain MIMO Nonlinear Multi-agent Systems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9484806/",
+            "Abstract": "We consider the problem of synchronizing, with prescribed transient and steady state performance guarantees, the output of high-order, nonlinear, multi-agent systems in a leader-following scenario. The agent dynamics are MIMO in lower triangular form and uncertain, as all nonlinearities are unknown and moreover they are perturbed by external additive disturbances. Further, no knowledge is provided regarding bounds or functions bounding the actual system nonlinearities. In addition, the dynamic orders of all agents may not be the same. Each agent utilizes only relative output information from its neighbors and its own state. The underlying communication graph is directed. The proposed control protocol is distributed and of low analytic and computational complexity; thus facilitating implementation. Simulation studies clarify the approach and highlight the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NNRC: Rate Control Design",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15081195699064306482&hl=en&oi=scholarr",
+            "Abstract": "This chapter focuses on the design of the feasible round trip time estimator and the rate control module of the Adaptive congestion control framework (NNRC) framework. Robustness against modeling imperfections, exogenous disturbances and delays are proven. The developed rate is guaranteed to be saturated, while modifications are provided to achieve its reduction whenever congestion is detected. Simulations performed on a small-scale network highlight the main attributes of the designed NNRC modules. The adaptive control formulation requires knowledge of a desired round trip time per packet value for all application packets. Unfortunately, no such information is available at the source a priori. To establish a feasible solution, an estimated sending time mechanism should be constructed at the source, aiming at providing reliable reference to the rate controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:1yQoGdGgb4wC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "A neuro-adaptive congestion control scheme for round trip regulation",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109807004384",
+            "Abstract": "A novel neuro-adaptive congestion controller is presented, capable of regulating the per packet round trip time (RTT) around a piecewise constant desired RTT, thus achieving almost piecewise constant delay. The controller is implemented at the source and is proven robust against modeling imperfections, exogenous disturbances (UDP traffic) and delays (propagation, queueing). The notion of communication channels is introduced for throughput improvement. The analysis is nonlinear and the tools used are approximation-based control and linear-in-the-weights neural networks. The proposed controller is guaranteed to be saturated. Moreover, modifications are also provided to achieve rate reduction whenever congestion is detected. Simulation studies illustrate the performance of the proposed control scheme and compare it with other well-established congestion control mechanisms.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Quality-of-service adaptive control of multimedia services in short-term resource reservation networks",
+            "Publication year": 2005,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01969720590908267",
+            "Abstract": "Present multimedia services are provided through a heterogeneous set of networks. Because of the heterogeneity of the networks, long-term resource availability guarantees are difficult to obtain. Consequently, even if the resource requirements throughout the service could be accurately mapped, it would not be feasible to provide overall performance guarantees. Application adaptation arises as an appropriate solution for quality-of-service assurance in such dynamic service infrastructures. Application adaptation basically involves adapting application characteristics according to the network resource availability. We formulate the problem of adaptation of multimedia applications to network infrastructure as well as to user- and application-imposed constraints and preferences. We benefit from the good approximation, identification, and control capabilities of recurrent high-order neural networks and we introduce an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Direct Adaptive Control",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-0785-9_4",
+            "Abstract": "This chapter is devoted to the development of direct adaptive neurocon-trollers for afflne in the control nonlinear dynamical systems possessing unknown nonlinearities. The recurrent high-order neural networks are used as models of the unknown plant, practically transforming the original unknown system into a RHONN model which is of known structure, but contains a number of unknown constant-value parameters, known as synaptic weights. When the RHONN model matches the unknown plant, we provide a comprehensive and rigorous analysis of the stability properties of the closed loop system. Convergence of the state to zero plus boundedness of all other signals in the closed loop is guaranteed without the need of parameter (weight) convergence, which is assured only if a sufficiency-of-excitation condition is satisfied. Moreover, certain sources of instability mechanisms, namely modeling errors \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:35N4QoGY0k4C",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Low-complexity prescribed performance control of uncertain MIMO feedback linearizable systems",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7272087/",
+            "Abstract": "A continuous, state-feedback controller guaranteeing zero overshoot, preselected bounds on the minimum admissible convergence rate and maximum allowable steady-state values of the output tracking error is proposed for a class of uncertain, multi-input, multi-output nonlinear systems. Contrary to the current state-of-the-art, a decisive step towards minimizing controller implementation complexity is taken by designing a static, approximation-free control scheme, defined by simple analytical expressions that scale well even for high relative degree systems. Simulations on a 2-dof robotic manipulator clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Controlling QoS at the application level for multimedia applications using artificial neural networks: Experimental results",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7075266/",
+            "Abstract": "In this paper we implement a recurrent high order neural network based controller (built into a Client-Server architecture), in order to provide QoS control. The scheme is based on a recently proposed QoS control algorithm with proven stability and robustness properties. Mild assumptions have been used to construct a user satisfaction function that depends on two media characteristics (i.e. color depth and frame rate). The above, along with bandwidth measurements obtained at per frame basis, provide the essential information to the controller, which outputs the appropriate values for the media characteristics in order to achieve the required user satisfaction without violating the available bandwidth constraint. The implementation is performed on a TCP/IP network and the QoS control, which is applied at the application level, is shown to hold a real time property. Experimental results highlight its performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Approximate adaptive output feedback stabilization via passivation of MIMO uncertain systems using neural networks",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4804700/",
+            "Abstract": "An adaptive output feedback neural network controller is designed, which is capable of rendering affine-in-the-control uncertain multi-input-multi-output nonlinear systems strictly passive with respect to an appropriately defined set. Consequently, a simple output feedback is employed to stabilize the system. The controlled system need not be in normal form or have a well-defined relative degree. Without requiring a zero-state detectability assumption, uniform ultimate boundedness, with respect to an arbitrarily small set, of both the system's state and the output is guaranteed, along with boundedness of all other signals in the closed loop. To effectively avoid possible division by zero, the proposed adaptive controller is of switching type. However, its continuity is guaranteed, thus alleviating drawbacks connected to existence of solutions and chattering phenomena. Simulations illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Book review: Intelligent control based on flexible neural networks",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1016/S0005-1098%2801%2900217-5",
+            "Abstract": "Book review: Intelligent control based on flexible neural networks: Automatica (Journal of IFAC): \nVol 38, No 3 ACM Digital Library home ACM home Google, Inc. (search) Advanced Search \nBrowse About Sign in Register Advanced Search Journals Magazines Proceedings Books \nSIGs Conferences People More Search ACM Digital Library SearchSearch Advanced Search \nAutomatica (Journal of IFAC) Periodical Home Latest Issue Archive Authors Affiliations Award \nWinners More HomeBrowse by TitlePeriodicalsAutomatica (Journal of IFAC)Vol. , No. Book \nreview: Intelligent control based on flexible neural networks article Book review: Intelligent \ncontrol based on flexible neural networks Share on Author: George A Rovithakis profile image \nGeorge A. Rovithakis Deptment of Electronic and Computer Engineering, Technical University \nof Crete, 73100, Chania, Greece Deptment of Electronic and Computer Engineering, of (\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Pergamon Press, Inc."
+        },
+        {
+            "Title": "Prescribed tracking performance under state-feedback quantization for uncertain nonlinear systems",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8795942/",
+            "Abstract": "In this paper the problem of prescribed tracking performance for a class of nonlinear systems in the presence of uncertain dynamics and state quantization is addressed. The proposed controller is capable of not only establishing stability for the closed-loop system but also guaranteeing predefined performance bounds on the transient and steady-state error performance. The control design procedure incorporates only quantized measurements, is model-free and of low-complexity, with respect to the specifications of the quantizer employed for the output measurement. For the quantization, static uniform-hysteretic quantizers are implemented, to simplify further the control solution, and guarantee the well-posedness of the closed-loop and the chattering-free quantization performance. Simulation studies clarify all design aspects and illustrate its effectiveness.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:J-pR_7NvFogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A neuro-adaptive TCP-like protocol with cost constraints",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4124898/",
+            "Abstract": "In this paper we design a neuro-adaptive congestion control system, via regulating the packet round trip time for each user application, without violating a maximum cost per packet value, prescribed by the user. Reliable desired round trip values are provided via a neural net estimator, which consequently are utilized for the design of a neural network rate controller. To improve the achievable application sending time, we introduce the notion of communication channels, whose number is kept constant throughout transmission, that operate in parallel (virtual sources). We assume the nonexistence of uncontrollable traffic flows (e.g., UDP) as well as negligible propagation delays. Simulation studies illustrate the approach",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed Performance Adaptive Control of Uncertain Nonlinear Systems: State\u2010of\u2010the\u2010art and Open Issues",
+            "Publication year": 2018,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pamm.201800134",
+            "Abstract": "Performance in adaptive control designs for uncertain nonlinear systems, whose uncertainty is not purely parametric, was traditionally restricted to enforcing, besides stability, desirable behavior at steady\u2010state. In the literature, rigorous proofs have been provided guaranteeing tracking error convergence to residual sets, whose size depends on design parameters and some bounded though unknown terms. Therefore, even controllable, steady\u2010state accuracy was impossible to be a priori selected by any systematic procedure. Furthermore, transient performance such as maximum overshoot and convergence rate, was difficult to be established analytically even for known systems. The problem was approached via minimizing certain performance indices, which unfortunately were connected only indirectly with the actual system response. Hence, even though performance improvement is anticipated, no connection to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:BrmTIyaxlBUC",
+            "Publisher": "WILEY\u2010VCH Verlag"
+        },
+        {
+            "Title": "Reduced dimensionality space for post placement quality inspection of components based on neural networks.",
+            "Publication year": 2004,
+            "Publication url": "https://www.researchgate.net/profile/Stefanos-Goumas/publication/221165982_Reduced_dimensionality_space_for_post_placement_quality_inspection_of_components_based_on_neural_networks/links/607599cc4585151ce1815d28/Reduced-dimensionality-space-for-post-placement-quality-inspection-of-components-based-on-neural-networks.pdf",
+            "Abstract": "The emergence of surface mount technology devices has resulted in several important advantages including increased component density and size reduction on the printed circuit board, on the expense of quality inspection. Classical visual inspection techniques require time-consuming image processing to improve the accuracy of the inspected results. In this paper we reduce the computational complexity of classical machine vision approaches by proposing two neural network based techniques. In the first we maintain image information only in the form of edges, whereas the second we preserve the entire content of info but compressed in a single dimension through image projections. Both algorithms are tested on real industrial data. The quality of inspection is preserved while reducing the computational time.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:70eg2SAEIzsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prescribed Performance Consensus of Heterogeneous Quantized High-Order Uncertain Multi-Agent Systems",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S240589632031329X",
+            "Abstract": "We consider the problem of guaranteeing output consensus, with prescribed transient and steady-state performance bounds, for a class of uncertain, heterogeneous, high-order, nonlinear multi-agent systems, in a leader-following scheme. The proposed control protocol is decentralized and of low-complexity. An interesting feature is that information (state measurements, control inputs) is exchanged only in quantized form. For that purpose, uniform-hysteric quantizers are utilized. Simulations illustrate the effectiveness of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A physical Human Robot Interaction architecture for flexible joint robots",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6961582/",
+            "Abstract": "In this work a physical Human Robot Interaction (pHRI) architecture for flexible joint robot is proposed. At its core, a prescribed performance tracking controller is designed at the operational space, to guarantee fast, accurate and robust position tracking. Assuming that a sensing and interpretation task of the human touch is accomplished, a position reference shaping signal reflecting the desired robot reaction is produced. Simulation studies are performed to clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:D03iK_w7-QYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance tracking of uncertain nonlinear systems with input quantization",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7984109/",
+            "Abstract": "In networked control systems, the presence of input quantization is a major source of destabilization and performance deterioration of the closed-loop system. In this paper, a continuous state-feedback controller is designed to guarantee not only the stability of the closed-loop system under input quantization but additionally the enforcement of prescribed performance attributes on the output tracking error in terms of maximum overshoot, minimum convergence rate and maximum steady-state error, irrespectively of the quantization density. The proposed controller is model-free and of low complexity (analytic-numerical), making its implementation straightforward. To avoid chattering, a hysteretic quantizer is incorporated. Simulation studies clarify all design aspects and illustrate its effectiveness.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance tracking for flexible joint robots with unknown dynamics and elasticity",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6224642/",
+            "Abstract": "In this paper a novel type of tracking controller for flexible joint robots is proposed. Joint elasticity is considered unknown and may be time varying. Robot and motor dynamics are also considered unknown. The controller guarantees link position performance specifications that have been a-priori set utilizing full state feedback. Simulation on a two link flexible joint robot validate the efficiency of the proposed control approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A neuro-adaptive TCP-like protocol with communication channels adaptation under cost constraints",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7068458/",
+            "Abstract": "In this paper we propose a new approach to control congestion in the Internet via regulating the packet round trip for each application, without violating a maximum cost per packet value, prescribed by the user. For this purpose, we construct an on-line model for the packet round trip time, depending on source rate and congestion measure. The proposed algorithm is comprised of a two level scheme. At the high level the packet round trip is estimated, while at the low, a neural net rate controller is designed to achieve the estimated values. To improve the application sending time, we introduce the notion of communication channels, whose number is updated via an appropriately designed algorithm, parallelizing the transmission process. Simulation studies illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Learning structural uncertainties of nonlinear systems with RBF neural networks via persistently exciting control",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6608925/",
+            "Abstract": "This work presents a scheme for learning, online, the actual nonlinearities of systems in canonical form. The proposed architecture comprises of an on-line Radial Basis Function (RBF) neural network identifier and a controller, with the signals issued by the latter guaranteeing the satisfaction of a Persistency of Excitation (PE) condition for the RBF regressors employed. As a consequence, the neural network weight estimates are proven to converge to small neighborhoods of their true values; thus succeeding learning the actual system nonlinearities with quality guarantees. Key characteristic is the isolation between identifier and controller design, increasing the robustness level of the proposed on-line learning scheme. Finally, a simulation study is provided to demonstrate its effectiveness.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:g5m5HwL7SMYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Prescribed performance control of strict-feedback systems with hysteresis input nonlinearity",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7331030/",
+            "Abstract": "A low-complexity, static and continuous controller is proposed for a class of strict-feedback systems of arbitrary relative degree preceded by a hysteresis input nonlinearity, which is represented by the Bouc-Wen model. The proposed controller achieves preselected bounds on both the transient and steady state performance of the output tracking error, despite the increased uncertainty in system nonlinearities and the hysteresis parameters. Further, the proposed control scheme efficiently evades the \u201cexplosion of complexity\u201d issue inherent in the backstepping control methodology, and does not incorporate approximating structures, i.e., neural networks, fuzzy systems, etc. Simulations are performed to verify and clarify the effectiveness of the proposed controller.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:EUQCXRtRnyEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Artificial neural networks analysis of laser-induced fluorescence spectra for characterization of peripheral vascular tissue",
+            "Publication year": 2001,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4158/0000/Artificial-neural-networks-analysis-of-laser-induced-fluorescence-spectra-for/10.1117/12.413797.short",
+            "Abstract": "This study concerns the identification of the state of human peripheral vascular tissue by using Artificial Neural Networks. The fluorescence spectra, obtained by dual wavelength excitation of the tissue samples, were passed through a non-linear filter, based on a High Order Neural Network (HONN). Then a classical Multi-Layer Perceptron was employed to serve as the classifier of the feature vector. The above process resulted in the successful discrimination between normal and different types of pathological tissue.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:ufrVoPGSRksC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Robust approximation free prescribed performance control",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5983022/",
+            "Abstract": "An approximation free controller is designed for strict feedback systems, in the presence of unknown nonlinearities, time-varying parameters and exogenous disturbances, capable of guaranteeing, for any a priori known initial state condition, bounded signals in the closed loop, as well as prescribed performance for the output tracking error. By prescribed performance we mean that the output tracking error converges to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value, exhibiting maximum overshoot less than some sufficiently small preassigned constant. The proposed control scheme is of low complexity and requires reduced levels of a priori system knowledge.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:K3LRdlH-MEoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Modeling and verifying an innovative biomass-based thermal energy system",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.513.3128&rep=rep1&type=pdf",
+            "Abstract": "Biomass exploitation systems are able to supply heat, steam and electricity for home or industrial users. However, modern utilization methods of biomass do not deal with the problem globally but usually get confined to empirical and non-optimal approaches. The innovative energy production unit which is designed and implemented in this paper suggests a universal processing and exploitation strategy using several different types of biomass while aiming at an effective combustion with minimum loses. System identification and modeling of the combustion process is implemented using a simplified model which can adequately describe the above process and lay strong foundations for a prospective robust control.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prescribed performance output feedback control: An approximate passivation approach",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5547626/",
+            "Abstract": "In this paper we address the Prescribed Performance Control problem for uncertain MIMO systems, through output feedback. In order to do so, we exploit the feedback passivation approach according to which a system is rendered passive with the use of an output feedback control law. Using a two phase controller design procedure we guarantee convergence of the output tracking error to a predefined arbitrarily small residual set, with rate no less than a prespecified value, exhibiting a maximum overshoot less than a sufficiently small constant. Moreover, all other signals in the closed loop are kept bounded. To avoid possible division by zero, the output feedback passivation controller is of switching type.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NNRC: Performance Evaluation",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2863517844841343628&hl=en&oi=scholarr",
+            "Abstract": "This chapter shows that Adaptive congestion control framework (NNRC) satisfies the aforementioned properties to a very good extent, outperforming FAST Transmission control protocol (TCP), which is the dominant protocol against all others reported in the relevant literature. It investigates the scalability of NNRC and FAST TCP protocols with respect to variations in maximum link buffer capacity, propagation delays and link bandwidths. Both NNRC and FAST TCP have been implemented and their performance is tested on a number of realistic simulation scenarios, utilizing the network configuration. The performance of NNRC and FAST TCP is studied in the presence of abrupt variations of the available bandwidth. The chapter considers the multi-bottleneck link network and examines their performance in sudden changes of the available bandwidth and propagation delays. Owing to link failures, insufficient link \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:W5xh706n7nkC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Congestion Issues and TCP",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13228824566451547787&hl=en&oi=scholarr",
+            "Abstract": "This chapter focuses on the presentation and analysis of the algorithms and mechanisms utilized by Transmission Control Protocol (TCP), to manage network congestion. TCP mechanisms allow packet flow control that reduces the transfer rate in the presence of a network congestion situation until normalized. When the TCP protocol opens a connection, the application protocols visualize the connection as a simple wire that connects the source to the destination. TCP was constructed to provide connection-oriented services, reliable data transfer and end to end communication between hosts in packet-switched computer networks. All mechanisms concerning the reliability and flow control require that TCP initialize and maintain a certain status of information for each data stream. One of the most important procedures in TCP is the way it handles the retransmission of packets that are lost. The Internet Protocol (IP \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:N5tVd3kTz84C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Output feedback approximation-free prescribed performance tracking control for uncertain MIMO nonlinear systems",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8972409/",
+            "Abstract": "We consider the problem of designing a low-complexity, approximation-free, output-feedback controller to achieve output tracking with prescribed transient and steady-state performance for uncertain, high relative degree, multi-input\u2013multi-output (MIMO) nonlinear systems, which are equivalent via a diffeomorphic coordinate transformation to the Byrnes\u2013Isidori canonical form, with uniform-bounded-input-bounded-state (UBIBS) stable internal dynamics and bounded external disturbances. The proposed controller utilizes the prescribed performance control methodology and high-gain observers. To avoid the propagation of the peaking phenomenon, the developed controller is appropriately saturated without compromising the closed-loop system performance attributes. Moreover, the selection of the observer gains is significantly relaxed owing to the fact that the adopted prescribed performance control technique \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:olpn-zPbct0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive neural network output feedback passivation of mimo uncertain systems",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4601996/",
+            "Abstract": "An adaptive output feedback neural network controller is designed, capable of rendering affine in the control uncertain MIMO nonlinear systems passive. Consequently, a linear output feedback is employed to stabilize the system. The controlled system need not be in normal form, or have a well defined relative degree. Under a zero state detectability assumption, uniform ultimate boundedness of the system's state is guaranteed, along with the boundedness of all other signals in the closed loop. The proposed adaptive controller is of switching type, to effectively avoid possible division by zero, while guaranteeing the continuity of switchings, thus alleviating drawbacks connected to existence of solutions and chattering phenomena. Simulations illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Direct Adaptive Control",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-0785-9_4",
+            "Abstract": "This chapter is devoted to the development of direct adaptive neurocon-trollers for afflne in the control nonlinear dynamical systems possessing unknown nonlinearities. The recurrent high-order neural networks are used as models of the unknown plant, practically transforming the original unknown system into a RHONN model which is of known structure, but contains a number of unknown constant-value parameters, known as synaptic weights. When the RHONN model matches the unknown plant, we provide a comprehensive and rigorous analysis of the stability properties of the closed loop system. Convergence of the state to zero plus boundedness of all other signals in the closed loop is guaranteed without the need of parameter (weight) convergence, which is assured only if a sufficiency-of-excitation condition is satisfied. Moreover, certain sources of instability mechanisms, namely modeling errors \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Constrained visual servoing under uncertain dynamics",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00207179.2018.1428362",
+            "Abstract": "In visual servoing, limitations in the field of view of the vision sensors are either ignored or treated at the kinematic level. The former can easily jeopardise task success, while the latter reduces the maximum achievable robotic motion speeds. In this work, the aforementioned literature gap is filled by designing and rigorously analysing a torque controller that guarantees prescribed transient and steady-state performance attributes on the image feature coordinate errors, while respecting the field-of-view constraints. No path planning and no information regarding the actual system dynamics are required. In addition, no approximation structures (i.e. neural networks, fuzzy systems, etc.) are utilised to acquire such knowledge. The proposed visual servo controller is static, involving very few and simple calculations to produce the control signal, making its implementation on embedded control platforms straightforward \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "High-order neural network structure selection for function approximation applications using genetic algorithms",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1262490/",
+            "Abstract": "Neural network literature for function approximation is by now sufficiently rich. In its complete form, the problem entails both parametric (i.e., weights determination) and structural learning (i.e., structure selection). The majority of works deal with parametric uncertainty assuming knowledge of the appropriate neural structure. In this paper we present an algorithmic approach to determine the structure of high order neural networks (HONNs), to solve function approximation problems. The method is based on a genetic algorithm (GA) and is equipped with a stable update law to guarantee parametric learning. Simulation results on an illustrative example highlight the performance and give some insight of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Leader-follower tracking with prescribed transient and steady state performance guarantees for a class of unknown nonlinear multi-agent systems",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7158892/",
+            "Abstract": "In this paper, we consider the leader-follower synchronization problem for a class of second order nonlinear multi-agent systems with unknown dynamics and environmental disturbances. The proposed scheme utilizes only local relative state information, it is fully distributed and solves the problem with transient and steady state performance guarantees. In fact, the designed controller has build-in the capability of enforcing pre-determined and designer specified performance bounds on the state tracking errors. Despite the high amount of uncertainty, the controller is structurally and computationally simple, avoiding the use of approximating structures i.e., neural networks, fuzzy systems etc. Simulations are also provided to clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Artificial neural networks for feature extraction and classification of vascular tissue fluorescence spectrums",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/860144/",
+            "Abstract": "The use of neural network structures for feature extraction and classification is addressed here. More precisely, a nonlinear filter based on higher order neural networks (HONN) whose weights are updated by stable learning laws is used to extract the characteristic features of fluorescence spectra corresponding to human tissue samples of different states. The features are then classified with a multi-layer perceptron (MLP). The high rates of success together with the small time needed to analyze the signals, proves our method very attractive for real time applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards Enhancing Robustness of Prescribed Performance Controllers in the Presence of Control Input Delays",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9030231/",
+            "Abstract": "In this paper, we propose a state-feedback controller, designed with the help of the prescribed performance control methodology, to achieve prescribed performance attributes (i.e., maximum overshoot, minimum convergence rate, maximum steady-state error) on the output tracking error, for a class of uncertain nonlinear systems of known high relative degree, and despite the presence of delays in the control input, which are constant and known. Besides being continuous, the proposed solution does not utilize either bounds of the system nonlinearities or high order derivatives of the desired output trajectory. In addition, no hard calculations, analytic or numerical, are required; making its implementation straightforward. Simulation studies clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A neuro-adaptive controller for the force/position tracking of a robot manipulator under model uncertainties in compliance and friction",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4124977/",
+            "Abstract": "In this work, we consider the force and position trajectory tracking for a robot manipulator in compliant contact with a surface in the presence of unknown stiffness and dynamic friction. A novel neuro-adaptive controller is proposed that exploits the approximation capabilities of the linear in the weights neural networks and the uniform ultimate boundedness of force and position error is proved. Simulation results illustrate the performance of the proposed controller",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards achieving rolling contact motion in a spherical robotic fingertip",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7158904/",
+            "Abstract": "Dexterity in human hand is connected with the fingertip rolling ability. Controlling the rolling motion of a spherical robot's tip upon a contacted surface is in this work addressed by solving the control of a wheel's rolling motion, moving upon the robot tip's line path. A model free prescribed performance controller of low complexity is proposed guaranteeing the wheel's rolling under any surface friction conditions. The stability of the closed loop system is proved while simulation results verify the achievement of the wheel's rolling motion towards a desired target location.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive control with recurrent high-order neural networks: theory and industrial applications",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=83rkBwAAQBAJ&oi=fnd&pg=PA9&dq=info:VXI0qr8Cs_0J:scholar.google.com&ots=WIbRzP5Eah&sig=5z7TXfS3f80DSMuEBqfF14XOrFw",
+            "Abstract": "The series Advances in Industrial Control aims to report and encourage technology transfer in control engineering. The rapid development of control technology has an impact on all areas of the control discipline. New theory, new controllers, actuators, sensors, new industrial processes, computer methods, new applications, new philosophies..., new challenges. Much of this development work resides in industrial reports, feasibility study papers and the reports of advanced collaborative projects. The series offers an opportunity for researchers to present an extended exposition of such new work in all aspects of industrial control for wider and rapid dissemination. Neural networks is one of those areas where an initial burst of enthusiasm and optimism leads to an explosion of papers in the journals and many presentations at conferences but it is only in the last decade that significant theoretical work on stability, convergence and robustness for the use of neural networks in control systems has been tackled. George Rovithakis and Manolis Christodoulou have been interested in these theoretical problems and in the practical aspects of neural network applications to industrial problems. This very welcome addition to the Advances in Industrial Control series provides a succinct report of their research. The neural network model at the core of their work is the Recurrent High Order Neural Network (RHONN) and a complete theoretical and simulation development is presented. Different readers will find different aspects of the development of interest. The last chapter of the monograph discusses the problem of manufacturing or production process scheduling.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:738O_yMBCRsC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Prescribed performance tracking for flexible joint robots with unknown dynamics and variable elasticity",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109813000435",
+            "Abstract": "In this paper, we consider the design of tracking controllers for flexible joint robots with unknown and possibly variable elasticity, achieving pre-set performance attributes on the link position error. The developed full state feedback controller, is realized without incorporating knowledge relative to the actual system nonlinearities. Furthermore, no approximators are employed to acquire such information. Comparative simulation results on a 2-d.o.f. flexible joint manipulator, illustrate the efficiency of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:UxriW0iASnsC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Robot force/position tracking with guaranteed prescribed performance",
+            "Publication year": 2009,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:tOudhMTPpwUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Bayesian image analysis framework for post placement quality inspection of components.",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14087394477927096524&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Decentralized robust synchronization of unknown high order nonlinear multi-agent systems with prescribed transient and steady state performance",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7419907/",
+            "Abstract": "In this paper, we consider the synchronization control problem for uncertain high-order nonlinear multi-agent systems in a leader-follower scheme, under a directed communication protocol. A robust decentralized control law of minimal complexity is proposed that achieves prescribed, arbitrarily fast and accurate synchronization of the following agents with the leader. The control protocol is decentralized in the sense that the control signal of each agent is calculated based solely on local relative state information from its neighborhood set. Additionally, no information regarding the agents' dynamic model is employed in the design procedure. Moreover, provided that the communication graph is connected and contrary to the related works on multi-agent systems, the controller-imposed transient and steady state performance bounds are fully decoupled from: 1) the underlying graph topology, 2) the control gains \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fault detection in mechanical systems with friction phenomena: an on-line neural approximation approach",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667017365758",
+            "Abstract": "In the paper, a fault detection methodology for mechanical systems with friction phenomena is addressed. The well known dynamic LuGrc model is used to model the effects of friction. The fault detection algorithm is built upon an on-line neural approximation scheme requiring system's position and velocity measurements but not measurements of the friction internal state. A theoretical analysis is performed addressing robustness of the detection scheme, fault detectability conditions, and upper bounds on the detection time. Effective simulation results are also included.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:vRqMK49ujn8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Prescribed performance output feedback adaptive control of uncertain strict feedback nonlinear systems",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016440139",
+            "Abstract": "An output feedback prescribed performance control design is presented for a class of strict feedback uncertain nonlinear systems. To overcome state unavailability an \u201cestimator-like\u201d system is introduced, which generates rough estimates of the unknown signals, thus avoiding the demanding task of constructing asymptotically convergent observers. Moreover this control approach avoids posing severe restrictions on the unknown system nonlinearities other than their continuity. To effectively avoid possible division by zero, the designed output feedback controller is of switching type. However, its continuity is guaranteed, thus alleviating any problems related to the existence and uniqueness of solutions. Simulations on a single-link manipulator actuated by a brush dc motor benchmark example illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:qUcmZB5y_30C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A simple controller for a variable stiffness joint with uncertain dynamics and prescribed performance guarantees",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6385859/",
+            "Abstract": "In this paper a simple tracking controller for a variable stiffness joint is proposed. System dynamics is considered unknown. The controller guarantees link and stiffness motor position performance specifications that have been apriori set, utilizing full state feedback. Simulation results on the previously published CompAct-VSA joint validate the efficiency of the proposed control approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A disturbance attenuating adaptive neural network controller for multi-input nonlinear systems",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7068307/",
+            "Abstract": "An adaptive neural network controller for multi-input nonlinear, affine in the control dynamical systems with unknown nonlinearities is designed, capable of attenuating L 2 ,L \u221e  external disturbances. In the absence of disturbances, a uniform ultimate boundedness property of the tracking error with respect to an arbitrarily small set around the origin is guaranteed, as well as uniform boundedness of all the signals in the closed loop. Possible division by zero is avoided with the use of a novel resetting procedure, capable of guaranteeing the boundedness away from zero of certain signals. Simulations illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Performance of a neural adaptive tracking controller for multi-input nonlinear dynamical systems in the presence of additive and multiplicative external disturbances",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/895896/",
+            "Abstract": "We discuss the tracking problem in the presence of additive and multiplicative external disturbances, for affine in the control nonlinear dynamical systems, whose nonlinearities are assumed unknown. Based on a recurrent high order neural network (RHONN) model of the unknown plant, a smooth control law is designed to guarantee the uniform ultimate boundedness of all signals in the closed loop. Certain measures are utilized to test its performance. The controller, which can be viewed as a nonlinear combination of three high order neural networks, does not require knowledge regarding upper bounds on the optimal weights, modeling error and external disturbances. Simulations performed on a simple example illustrate the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "End-to-End Adaptive Congestion Control in TCP/IP Networks",
+            "Publication year": 2017,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=YglEDwAAQBAJ&oi=fnd&pg=PP1&dq=info:t3D3QbVy8toJ:scholar.google.com&ots=AyJson2yaK&sig=7yKA7VW4UbvuGs8bLiRaginajYk",
+            "Abstract": "Establishing adaptive control as an alternative framework to design and analyze Internet congestion controllers, End-to-End Adaptive Congestion Control in TCP/IP Networks employs a rigorously mathematical approach coupled with a lucid writing style to provide extensive background and introductory material on dynamic systems stability and neural network approximation; alongside future internet requests for congestion control architectures. Designed to operate under extreme heterogeneous, dynamic, and time-varying network conditions, the developed controllers must also handle network modeling structural uncertainties and uncontrolled traffic flows acting as external perturbations. The book also presents a parallel examination of specific adaptive congestion control, NNRC, using adaptive control and approximation theory, as well as extensions toward cooperation of NNRC with application QoS control. Features: Uses adaptive control techniques for congestion control in packet switching networks Employs a rigorously mathematical approach with lucid writing style Presents simulation experiments illustrating significant operational aspects of the method; including scalability, dynamic behavior, wireless networks, and fairness Applies to networked applications in the music industry, computers, image trading, and virtual groups by techniques such as peer-to-peer, file sharing, and internet telephony Contains working examples to highlight and clarify key attributes of the congestion control algorithms presented Drawing on the recent research efforts of the authors, the book offers numerous tables and figures to increase clarity and summarize \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:YFjsv_pBGBYC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Model free force/position robot control with prescribed performance",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5547697/",
+            "Abstract": "In this paper, we consider the force/position tracking problem for a robot in compliant contact with a kinematically known planar surface. We propose a novel controller that achieves predefined performance indices regarding the transient and steady state response of the robot force/position tracking errors and ensures no loss of contact of the robot-end effector. The proposed controller is model free in the sense that it does not incorporate any information regarding either the robot dynamic model or the force deformation model. Moreover, the controller gains are easily selected since the only concern is to adjust them to yield reasonable input torques. Simulation results on a 3-DOF robot confirm the theoretical findings.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NNRC: An Adaptive Congestion Control Framework",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17689874441102354642&hl=en&oi=scholarr",
+            "Abstract": "This chapter presents an adaptive congestion control framework (NNRC) and analyses its main operational characteristics and functionalities. The main purpose of a congestion control mechanism is to achieve high network utilization, small queueing delays and some degree of fairness among flows. Dominantly, NNRC regulates the per packet round trip time to follow accurately and reliably a reference signal, while preventing link buffers from overflow, as well as empty queues. The most significant attribute of NNRC is probably its learning ability; allowing the protocol ingredients to dynamically adapt to changing network conditions, while maintaining stability and performance. NNRC framework requires knowledge of a desired and feasible round trip time per packet value for all application packets. According to the NNRC philosophy, regulation of the per packet round trip time is essential to achieve accurately and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:JQOojiI6XY0C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Neural network output feedback passivation of MIMO uncertain systems: The case of unmodeled dynamics",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7074914/",
+            "Abstract": "A robust adaptive output feedback neural network switching controller is designed, capable of rendering an affine in the control uncertain MIMO nonlinear system strictly passive, in the presence of unmodeled dynamics. Subsequently, a simple output feedback is employed to stabilize the system without using any measurement or estimation of the unmodeled state. Under an Unboundedness Observability property assumed for the unmodeled dynamics, uniform ultimate boundedness of both the system's output and of the nominal system's state is guaranteed, along with boundedness of all other closed loop signals.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "User QoS Adaptive Control",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12546733090613624043&hl=en&oi=scholarr",
+            "Abstract": "The Adaptive congestion control framework (NNRC) congestion controller communicates the calculated sending rate to the application Quality of Service (QoS) controller, forming the available bandwidth constraint. This chapter examines time-sensitive congestion control framework NNRC that was designed to provide guarantees on latency is combined with an application adaptation scheme that first appeared in, and that is based on dynamic neural networks and adaptive control techniques, to propose an integrated solution to the underlying problem. The underlying methodology that provides increased QoS levels from an end user standpoint is application adaptation and as such it has received much attention from the research community. Mapping between user satisfaction and QoS parameters may be achieved by combining the satisfaction function and the set of constraints. The purpose of the application QoS \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:VL0QpB8kHFEC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "A passive phri controller for assisting the user in partially known tasks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8995640/",
+            "Abstract": "In this article, a passive physical human-robot interaction (pHRI) controller is proposed to enhance pHRI performance in terms of precision, cognitive load, and user effort, in cases partial knowledge of the task is available. Partial knowledge refers to a subspace of SE(3) determined by the desired task, generally mixing both position and orientation variables, and is mathematically approximated by parametric expressions. The proposed scheme, which utilizes the notion of virtual constraints and the prescribed performance control methodology, is proved to be passive with respect to the interaction force, while guaranteeing constraint satisfaction in all cases. The control scheme is experimentally validated and compared with a dissipative control scheme utilizing a KUKA LWR4+ robot in a master-slave task; experiments also include an application to a robotic assembly case.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scheduling Using Rhonns: A Test Case",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4471-0785-9_6",
+            "Abstract": "In Chapter 5, the non-acyclic FMS scheduling problem was considered to be a control regulation problem, where system states (buffer levels), have to reach some prespecified production requirements, by means of control input commands. Based on a recurrent high-order neural-network model of the buffer states, an adaptive continuous-time neural-network controller was developed. Stable control and update laws guaranteeing system stability, boundedness of all signals in the closed-loop system and a uniform ultimate boundedness property of the control error were derived. Dispatching commands were issued by means of a discretization process of the continous control input. Furthermore, modeling errors and discretization effects were taken into account, thus rendering the controller robust and capable of driving system production to the required demand.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Reinforcing robustness of adaptive dynamic surface control",
+            "Publication year": 2013,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.2307",
+            "Abstract": "Adaptive dynamic surface control (ADSC) design was proposed as an alternative to adaptive backstepping, capable of curing the \u2018explosion of complexity\u2019 problem, caused by the repeated differentiations of the so called intermediate control signals. However,\u2009as it is clearly demonstrated in this work, ADSC schemes are sensitive to modeling uncertainties and/or additive external disturbances. In fact, it is shown that a uniformly bounded exogenous perturbation of unknown upper bound may easily destabilize the closed\u2010loop system. Subsequently, a constructive methodology based on the recently developed by the authors prescribed performance control technique, is proposed, which combined with an ADSC design, results in a modified scheme possessing significantly increased robustness properties. Simulation studies illustrate the approach. Copyright \u00a9\u20092012 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:3s1wT3WcHBgC",
+            "Publisher": "John Wiley & Sons, Ltd"
+        },
+        {
+            "Title": "Artificial Neural Networks in Manufacturing: Scheduling",
+            "Publication year": 2006,
+            "Publication url": "https://www.igi-global.com/chapter/artificial-neural-networks-manufacturing/5359",
+            "Abstract": "In this chapter, a neuroadaptive scheduling methodology, approaching machine scheduling as a control-regulation problem, is presented and evaluated by comparing its performance with conventional schedulers. Initially, after a brief reference to the context of existing solutions, the evaluated controller is thoroughly described. Namely, the employed dynamic neural network model, the subsequently derived continuous time neural network controller and the control input discretization that yield the actual dispatching times are presented. Next, the algorithm guaranteeing system stability and controller-signal boundedness and robustness are evaluated on an existing industrial test case that constitutes a highly nonacyclic deterministic job shop with extremely heterogeneous part-processing times. The major simulation study, employing the idealistic deterministic job-shop abstraction, provides extensive comparison \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Approximation-Free Prescribed Performance Control",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016435986",
+            "Abstract": "A universal controller is designed for strict feedback systems with unknown nonlinearities, capable of guaranteeing, for any a priori known initial state condition, bounded signals in the closed loop, as well as prescribed performance for the output tracking error. By prescribed performance we mean that the output tracking error converges to a predefined arbitrarily small residual set, with convergence rate no less than a certain prespecified value, exhibiting maximum overshoot less than some sufficiently small preassigned constant. The proposed control scheme is of low complexity and requires reduced levels of a priori system knowledge. A comparative simulation study verifies the superiority of the proposed control scheme against the well known backstepping technique, which has been the main tool for designing controllers for the class of systems considered.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Output feedback leader-follower with prescribed performance guarantees for a class of unknown nonlinear multi-agent systems",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7535895/",
+            "Abstract": "The design of an output feedback control protocol to address the leader-follower synchronization problem, for a class of second-order, nonlinear multi-agent having unknown dynamics, affected by environmental disturbances, is considered in this work. Assuming a directed communication protocol, the proposed scheme solves the problem introducing prescribed transient and steady-state performance attributes, regarding the minimum convergence rate and the maximum allowable steady-state error of the output disagreement errors. All other state errors are proven uniformly ultimately bounded with respect to arbitrarily small sets, while all closed-loop signals are kept bounded. Despite the uncertainty, the proposed controller is remarkably simple (structurally and computationally) avoiding the use of approximation structures i.e., neural networks, fuzzy systems etc. Simulations clarify and verify the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:p2g8aNsByqUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Stable adaptive neuro-control design via Lyapunov function derivative estimation",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0005109801000942",
+            "Abstract": "A new approach to the tracking problem, for affine in the control nonlinear dynamical systems, whose nonlinearities are assumed to be unknown, is presented in this paper. The philosophy of the developed technique is based on estimating the derivative of an unknown Lyapunov function, exploiting the approximation capabilities of the linear in the weights neural network structures. A novel resetting strategy guarantees the boundedness away from zero of certain signals. The uniform ultimate boundedness of the tracking error to an arbitrarily small set, plus the boundedness of all other signals in the closed loop is guaranteed.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Robust adaptive control of feedback linearizable MIMO nonlinear systems with prescribed performance",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4639441/",
+            "Abstract": "A novel robust adaptive controller for multi-input multi-output (MIMO) feedback linearizable nonlinear systems possessing unknown nonlinearities, capable of guaranteeing a prescribed performance, is developed in this paper. By prescribed performance we mean that the tracking error should converge to an arbitrarily small residual set, with convergence rate no less than a prespecified value, exhibiting a maximum overshoot less than a sufficiently small prespecified constant. Visualizing the prescribed performance characteristics as tracking error constraints, the key idea is to transform the ldquoconstrainedrdquo system into an equivalent ldquounconstrainedrdquo one, via an appropriately defined output error transformation. It is shown that stabilization of the ldquounconstrainedrdquo system is sufficient to solve the stated problem. Besides guaranteeing a uniform ultimate boundedness property for the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "fvaSCo0AAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A minimum invasive strategy to guarantee safety under unexpected unintentional human-robot contact",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7984140/",
+            "Abstract": "The problem of designing an active robot reaction scheme to increase safety against unexpected, unintentional robot contacts with a human or its environment, is considered in this work. Its main functionalities are a) the regulation of the interaction force profile within acceptable/safe boundaries and b) the prevention of undesirable after-contact collisions. The developed methodology is model-free and operates at the high level of reference trajectory determination, producing bounded and sufficiently smooth modifications of the nominal reference, leaving intact the embedded low-level, robot position controller. It is underlined that the proposed minimal invasive solution, is evaluated via experiments performed on a KUKA LWR4+ robotic manipulator equipped with a Shadow Hand-Lite having optoforce sensors attached at its fingertips.",
+            "Abstract entirety": 1,
+            "Author pub id": "fvaSCo0AAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

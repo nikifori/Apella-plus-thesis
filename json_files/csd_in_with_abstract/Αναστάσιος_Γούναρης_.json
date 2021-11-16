@@ -1,0 +1,1279 @@
+[{
+    "name": "\u0391\u03bd\u03b1\u03c3\u03c4\u03ac\u03c3\u03b9\u03bf\u03c2 \u0393\u03bf\u03cd\u03bd\u03b1\u03c1\u03b7\u03c2 ",
+    "romanize name": "Anastasios Gounaris ",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "\u0391\u03a0\u0398",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 21645,
+    "Scholar name": "Anastasios Gounaris",
+    "Scholar id": "JykpJccAAAAJ",
+    "Affiliation": "Associate Professor of Aristotle University of Thessaloniki",
+    "Citedby": 2124,
+    "Interests": [
+        "Informatics",
+        "Computer Science"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=JykpJccAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Multi-parameter streaming outlier detection",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8909612/",
+            "Abstract": "Distance-based outlier detection techniques is a wide-spread methodology for anomaly detection. Despite their effectiveness, a main limitation is that they heavily rely on the dataset and the parameters chosen in order to establish the right status of each data point. These parameters typically include, but are not limited to, the neighborhood radius and threshold. In continuous streaming environments, the need for real-time analysis does not permit for an algorithm to be restarted multiple times with different parameters until the right combination is specified. This gives rise to the need for one technique that combines an arbitrary number of parameterizations with the use of minimal yet sufficient computer resources. In this work we both compare the state-of-the-art techniques for handling multiple queries in distance-based outlier detection algorithms and we propose a novel technique for multi-parameter distance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "\u0391\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9 \u03a3\u03c5\u03bc\u03b2\u03bf\u03bb\u03bf\u03c3\u03b5\u03b9\u03c1\u03ce\u03bd",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/4017",
+            "Abstract": "\u03a0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03bf\u03c3\u03b5\u03b9\u03c1\u03ad\u03c2. \u039f \u03b1\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03c2 Rabin-Karp \u03b3\u03b9\u03b1 \u03b5\u03cd\u03c1\u03b5\u03c3\u03b7 \u03bc\u03bf\u03c4\u03af\u03b2\u03c9\u03bd \u03c3\u03b5 \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03bf\u03c3\u03b5\u03b9\u03c1\u03ad\u03c2. \u0394\u03ad\u03bd\u03b4\u03c1\u03bf \u03ba\u03b1\u03b9 \u03c0\u03af\u03bd\u03b1\u03ba\u03b1\u03c2 \u03b5\u03c0\u03b9\u03b8\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2. \u0397 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c3\u03cd\u03bd\u03c4\u03b1\u03be\u03b7\u03c2 (edit distance) \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03bb\u03ac\u03b8\u03bf\u03c5\u03c2 (Hamming distance) \u03ba\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03b1\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9. \u03a4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03c5\u03c0\u03bf\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03af\u03b1\u03c2.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:738O_yMBCRsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient load balancing in partitioned queries under random perturbations",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2168260.2168265",
+            "Abstract": "This work investigates a particular instance of the problem of designing efficient adaptive systems, under the condition that each adaptation decision incurs some nonnegligible cost when enacted. More specifically, we deal with the problem of dynamic, intraquery load balancing in parallel database queries across heterogeneous nodes in a way that takes into account the inherent cost of adaptations and thus avoids both overreacting and deciding when to adapt in a completely heuristic manner. The latter may lead to serious performance degradation in several cases, such as periodic and random imbalances. We follow a control theoretical approach to this problem; more specifically, we propose a multiple-input multiple-output feedback linear quadratic regulation (LQR) controller, which captures the tradeoff between reaching a balanced state and the cost inherent in such adaptations. Our approach, apart from \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A methodology for spark parameter tuning",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2214579617300114",
+            "Abstract": "Spark has been established as an attractive platform for big data analysis, since it manages to hide most of the complexities related to parallelism, fault tolerance and cluster setting from developers. However, this comes at the expense of having over 150 configurable parameters, the impact of which cannot be exhaustively examined due to the exponential amount of their combinations. The default values allow developers to quickly deploy their applications but leave the question as to whether performance can be improved open. In this work, we investigate the impact of the most important tunable Spark parameters with regards to shuffling, compression and serialization on the application performance through extensive experimentation using the Spark-enabled Marenostrum III (MN3) computing infrastructure of the Barcelona Supercomputing Center. The overarching aim is to guide developers on how to proceed to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "On knowledge transfer from cost-based optimization of data-centric workflows to business process redesign",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-62199-8_3",
+            "Abstract": "This work deals with redesigning business process models, e.g., in BPMN, based on cost-based optimization techniques that were initially proposed for data analytics workflows. More specifically, it discusses execution cost and cycle time improvements through treating business processes in the same way as data-centric workflows. The presented solutions are cost-based, i.e., they employ quantitative metadata and cost models. The advantage of this approach is that business processes can benefit from recent advances in data-intensive workflow optimization similarly to the manner they nowadays benefit from additional data analytics areas, e.g., in the area of process mining. Concrete use cases are presented that are capable of demonstrating that even in small, more conservative cases, the benefits are significant. The contribution of this work is to show how to automatically optimize the model structure of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Database Oriented Grid Middlewares",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5359301/",
+            "Abstract": "Efficient management of massive data sets is a key aspect in typical grid and e-science applications. To this end, the benefits of employing database technologies in such applications has been identified since the early days of grid computing, which aims at enabling coordinated resource sharing,knowledge generation and problem solving in dynamic,multi-institutional virtual organizations through a distributed,scalable, adaptive and autonomous infrastructure. Nowadays,databases are playing an increasingly important role, both when the data is (semi-) structured and when it is stored in flat files. This survey paper discusses in detail existing database oriented grid middleware. It focuses on several complementary aspects, such as dynamicity, autonomy, resilience to failures,and performance, and presents the characteristics, capabilities and limitations of existing solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "GPU processing of theta\u2010joins",
+            "Publication year": 2017,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4194",
+            "Abstract": "The GPGPU paradigm has recently been employed to accelerate the processing of big amounts of data through the utilization of the massive parallelism offered by modern GPUs. To date, several techniques have been proposed for the implementation of simple select, aggregate, and equality join operations on GPUs. In this paper, we study the efficient implementation of theta\u2010join queries between two relations using the CUDA framework. Theta\u2010joins are notoriously slow and thus can benefit from massively parallel execution. However, their GPU\u2010based implementation significantly differs from hash\u2010 and sort\u2010based equality joins and needs to be carefully crafted. The implementation is driven by two main objectives. The first relates to the attainment of high efficiency in the parallelization through data reuse, which relates to the minimization of accesses to the slow global memory. The second is about the most \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Parallel Query Processing on the Grid",
+            "Publication year": 2009,
+            "Publication url": "https://ebooks.iospress.nl/volumearticle/26318",
+            "Abstract": "Database queries offer an easy-to-use declarative manner for describing complex data management tasks. Query processing technologies have been evolving for decades; however the emergence of the Grid creates a new setting in which novel research issues and challenges have arisen. This chapter discusses how Grid-oriented and/or service-based query processors differ from traditional ones, and focuses on three complementary research issues, namely, how to schedule parallel database queries over non-dedicated, distributed resources; how to mitigate the impact of increased data transfer cost; and how to perform load balancing in this new setting. In addition, we discuss how parallel spatio-temporal query processing techniques can be applied to a Grid environment. The discussion revolves around the development of the OGSA-DQP system, which is a pioneer open-source service-based query \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Monitoring the execution of query plans",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.4350&rep=rep1&type=pdf",
+            "Abstract": "Monitoring the execution of a query plan is the activity concerned with the collection of information that becomes available from the completed or on-going parts of the execution. Monitoring can be classified in three categories according to the transmission of data and messages that are related to the monitoring procedure. First, monitoring can be performed at the level of physical operators that comprise the query plan. In that case, no data is conveyed, and consequently, there is no communication overhead. Second, monitoring may require a set of operators of the query plan on a node to communicate with each other. In that case, the communication overhead can remain very low. Third, operators or sets of operators on different nodes may send data to each other in order to monitor aspects of the query plan. The third case applies to situations in which the query plan is executed in a parallel or distributed setting. In the last two cases, the monitoring incurs communication overhead. In all cases there is a CPU overhead. In order to have a complete view about the quality of the execution of the query plan, apart from the query plan, the execution environment needs to be monitored as well (which can be seen as a fourth case of monitoring). In this report, the focus is on the first case of monitoring, in which no data is conveyed. The improvements in the quality of the derived information when monitoring falls in the other two categories are also discussed.The structure of the report is as follows: In the second section, how monitoring fits into the context of query processing is discussed. The following section deals with the different frequencies at which \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A bi-objective cost model for database queries in a multi-cloud environment",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2668260.2668271",
+            "Abstract": "Cost models are broadly used in query processing to drive the query optimization process, accurately predict the query execution time, schedule database query tasks, apply admission control and derive resource requirements to name a few applications. The main role of cost models is to produce the time needed to run the query on a specific machine. In a multi-cloud environment, this is insufficient in two aspects: firstly, the machines employed are not defined a-priori, and secondly, time estimates need to be complemented with monetary cost information, because both the economic cost and the performance are of primary importance. This work addresses these two shortcomings and aims to serve as the first proposal for a bi-objective query cost model that is suitable for queries executed over resources provided by potentially multiple cloud providers. Moreover, our approach is applicable to more generic data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Declarative expression and optimization of data-intensive flows",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40131-2_2",
+            "Abstract": "Data-intensive analytic flows, such as populating a datawarehouse or analyzing a click stream at runtime, are very common in modern business intelligence scenarios. Current state-of-the-art data flow management techniques rely on the users to specify the flow structure without performing automated optimization of that structure. In this work, we introduce a declarative way to specify flows, which is based on annotated descriptions of the output schema of each flow activity. We show that our approach is adequate to capture both a wide-range of arbitrary data transformations, which cannot be supported by traditional relational operators, and the precedence constraints between the various stages in the flow. Moreover, we show that we can express the flows as annotated queries and thus apply precedence-aware query optimization algorithms. We propose an approach to optimizing linear conceptual data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Continuous monitoring of distance-based outliers over data streams",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5767923/",
+            "Abstract": "Anomaly detection is considered an important data mining task, aiming at the discovery of elements (also known as outliers) that show significant diversion from the expected case. More specifically, given a set of objects the problem is to return the suspicious objects that deviate significantly from the typical behavior. As in the case of clustering, the application of different criteria lead to different definitions for an outlier. In this work, we focus on distance-based outliers: an object x is an outlier if there are less than k objects lying at distance at most R from x. The problem offers significant challenges when a stream-based environment is considered, where data arrive continuously and outliers must be detected on-the-fly. There are a few research works studying the problem of continuous outlier detection. However, none of these proposals meets the requirements of modern stream-based applications for the following \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Driver input selection for main-memory multi-way joins",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2480362.2480521",
+            "Abstract": "Stream query processing has a particularly broad range of applications from sensor data processing and internet traffic analysis to runtime monitoring of stock market and server logs, and scientific simulations. This work focuses on multi-way join queries over streamed data, which are processed with the help of a n-ary join. More specifically, we propose a novel main-memory variant of the influential MJoin operator proposed in [35], which processes input data in batches with a view to improving the CPU efficiency, and explicitly controls the order of execution within each batch without being restricted by the time of input arrival, as current state-of-the-art solutions do. To this end, we also propose policies for selecting the execution order, and we show that our approach can yield important performance benefits.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A service-oriented system for distributed data querying and integration on Grids",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X08001945",
+            "Abstract": "Data Grids rely on the coordinated sharing of and interaction across multiple autonomous database management systems. They provide transparent access to heterogeneous and autonomous data resources stored on Grid nodes. Data sharing tools for Grids must include both distributed query processing and data integration functionality. This paper presents the implementation of a data sharing system that (i) is tailored to data Grids, (ii) supports well established and widely spread relational DBMSs, and (iii) adopts a hybrid architecture by relying on a peer model for query reformulation to retrieve semantically equivalent expressions, and on a wrapper-mediator integration model for accessing and querying distributed data sources. The system builds upon the infrastructure provided by the OGSA-DQP distributed query processor and the XMAP query reformulation algorithm. The paper discusses the implementation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:ufrVoPGSRksC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A service-oriented system to support data integration on data grids",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4215431/",
+            "Abstract": "Data Grids provide transparent access to heterogeneous and autonomous data resources. The main contribution of this paper is the presentation of a data sharing system that (i) is tailored to data grids, (ii) supports well established and widely spread relational DBMSs, and (iii) adopts a hybrid architecture by relying on a peer model for query reformulation for retrieving semantically equivalent expressions, and on a wrapper-mediator integration model for accessing and querying distributed data sources. The system builds upon the infrastructure provided by the OGSA-DQP distributed query processor and the XMAP query reformulation algorithm. The paper discusses the implementation methodology, and also presents empirical evaluation results.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Investigation of Database Models for Evolving Graphs",
+            "Publication year": 2021,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2021/14782/",
+            "Abstract": "We deal with the efficient implementation of storage models for time-varying graphs. To this end, we present an improved approach for the HiNode vertex-centric model based on MongoDB. This approach, apart from its inherent space optimality, exhibits significant improvements in global query execution times, which is the most challenging query type for entity-centric approaches. Not only significant speedups are achieved but more expensive queries can be executed as well, when compared to an implementation based on Cassandra due to the capability to exploit indices to a larger extent and benefit from in-database query processing.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Hinode",
+            "Publication year": 2019,
+            "Publication url": "http://ikee.lib.auth.gr/record/304128",
+            "Abstract": "Over the past few years, there has been a rapid increase of data originating from evolving networks such as social networks, sensor networks and others. A major challenge that arises when handling such networks and their respective graphs is the ability to issue a historical query on their data, that is, a query that is concerned with the state of the graph at previous time instances. While there has been a number of works that index the historical data in a time-centric manner (ie according to the time instance an update event occurs), in this work, we focus on the less-explored vertex-centric storage approach (ie according to the entity in which an update event occurs). We demonstrate that the design choices for a vertex-centric model are not trivial, by proposing two different modelling and storage models that leverage NoSQL technology and investigating their tradeoffs. More specifically, we experimentally evaluate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:_B80troHkn4C",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Honoring SLAs on cloud computing services: a control perspective",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7074401/",
+            "Abstract": "This work contains a short survey of recent results in the literature with a view to opening up new research directions for the problem of honoring SLAs on cloud computing services. This is a new problem that has attracted significant interest recently, due to the urgent need for providers to provide reliable, customized and QoS guaranteed computing dynamic environments for end-users as agreed in contracts on the basis of certain Service Level Agreements (SLAs). Honoring SLAs is a multi-faceted problem that may involve optimal use of the available resources, optimization of the system's performance and availability or maximization of the provider's revenue and it poses a significant challenge for researchers and system administrators due to the volatile, huge and unpredictable Web environments where these computing systems reside. The use of algorithms possessing run-time adaptation features, such as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Online analysis of security risks in elastic cloud applications",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7742266/",
+            "Abstract": "Security-related concerns in elastic cloud applications call for a risk-based approach due to the inherent trade-offs among security and other nonfunctional requirements, such as performance. To this end, the authors advocate a solution that can be efficiently realized through modeling the application behavior as a Markov decision process, on top of which probabilistic model checking is applied. The article explains the main steps in this approach and illustrates its use in online analysis and decision making regarding elasticity decisions. The runtime analysis is capable of providing evidence for key security-related aspects of the running applications, such as the probability of data leakage in the next hour.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Methodology for Runtime Detection and Extraction of Threat Patterns",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s42979-020-00226-8.pdf",
+            "Abstract": "As the confidentiality and integrity of modern health infrastructures is threatened by intrusions and real-time attacks related to privacy and cyber-security, there is a need for proposing novel methodologies to predict future incidents and identify new threat patterns. The main scope of this article is to propose an advanced extension to current Intrusion Detection System (IDS) solutions, which (i) harvests the knowledge out of health data sources or network monitoring to construct models for new threat patterns and (ii) encompasses methods for detecting threat patterns utilizing also advanced unsupervised machine learning data analytic methodologies. Although the work is motivated by the health sector, it is developed in a manner that is directly applicable to other domains.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Springer Singapore"
+        },
+        {
+            "Title": "\u0391\u03bb\u03b3\u03bf\u03c1\u03b9\u03b8\u03bc\u03b9\u03ba\u03ad\u03c2 \u03a4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ad\u03c2",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/4011",
+            "Abstract": "\u0398\u03b5\u03bc\u03b5\u03bb\u03b9\u03ce\u03b4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03b3\u03bf\u03c1\u03b9\u03b8\u03bc\u03b9\u03ba\u03ad\u03c2 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd. \u039c\u03ad\u03b3\u03b9\u03c3\u03c4\u03cc \u03ac\u03b8\u03c1\u03bf\u03b9\u03c3\u03bc\u03b1 \u03c5\u03c0\u03bf\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03af\u03b1\u03c2, \u03bc\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b5\u03be\u03b1\u03bd\u03c4\u03bb\u03b7\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7\u03c2, \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b4\u03b9\u03b1\u03af\u03c1\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c3\u03af\u03bb\u03b5\u03c5\u03b5. \u03a4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c4\u03bf\u03c0\u03bf\u03b8\u03ad\u03c4\u03b7\u03c3\u03b7\u03c2 8 \u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03c3\u03c3\u03ce\u03bd \u03bc\u03b5 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b4\u03b9\u03b1\u03ba\u03bb\u03ac\u03b4\u03c9\u03c3\u03b7\u03c2 \u03bc\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc \u03ba\u03b1\u03b9 \u03b5\u03be\u03b1\u03bd\u03c4\u03bb\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b5\u03cd\u03bf\u03bd\u03c4\u03bf\u03c2 \u03c0\u03c9\u03bb\u03b7\u03c4\u03ae \u03bc\u03b5 \u03b1\u03c0\u03bb\u03b7\u03c3\u03c4\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03cc \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03cc.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An efficient load balancing LQR controller in parallel database queries under random perturbations",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5280982/",
+            "Abstract": "This work investigates the problem of dynamic, intra-query load balancing in parallel database queries across heterogeneous nodes in a way that takes into account the inherent cost of adaptations and thus avoids both over-reacting and deciding when to adapt in a completely heuristic manner. The latter may lead to serious performance degradation in several cases, such as periodic and random imbalances. We follow a control theoretical approach to this problem; more specifically, we propose a multiple-input multiple-output feedback linear quadratic regulation (LQR) controller, which captures the tradeoff between reaching a balanced state and the cost inherent in such adaptations. Our approach, apart from benefitting from and being characterized by a solid theoretical foundation, exhibits better performance than state-of-the-art heuristics in realistic situations, as verified by thorough evaluation.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dependable horizontal scaling based on probabilistic model checking",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7152469/",
+            "Abstract": "The focus of this work is the on-demand resource provisioning in cloud computing, which is commonly referredto as cloud elasticity. Although a lot of effort has been invested in developing systems and mechanisms that enable elasticity, the elasticity decision policies tend to be designed without quantifying or guaranteeing the quality of their operation. We present an approach towards the development of more formalized and dependable elasticity policies. We make two distinct contributions. First, we propose an extensible approach to enforcing elasticity through the dynamic instantiation and online quantitative verification of Markov Decision Processes(MDP) using probabilistic model checking. Second, various concrete elasticity models and elasticity policies are studied. We evaluate the decision policies using traces from a realNoSQL database cluster under constantly evolving externalload. We reason about the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A micro-service-based machinery monitoring solution towards realizing the Industry 4.0 vision in a real environment",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1877050921007031",
+            "Abstract": "This work presents a modular Smart Maintenance Platform (SMP), which offers a toolbox of condition monitoring tools for the day-to-day inspection of the machinery equipment in a real industrial environment. SMP complements the manual inspection performed by the maintenance engineers with advanced data-analytics solutions that utilize both reactive and proactive techniques based on state-of-the-art machine learning proposals. Appropriate data acquisition mechanisms are built to acquire the sensorial data and transform them to suitable forms for data processing. Higher-level monitoring policies are enabled, through the fusion of multiple monitoring tasks increasing the precision of the results. The generated results are persisted for the continuous enhancement of the solution through the retraining of the proactive approach or the re-configuration of the reactive ones. The generated results are visualized in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Detecting anomalous behavior towards predictive maintenance",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-20948-3_7",
+            "Abstract": "A key Industry 4.0 element is predictive maintenance, which leverages machine learning, IoT and big data applications to ensure that the required equipment is fully functional at all times. In this work, we present a case study of smart maintenance in a real-world setting. The rationale is to depart from model-based and simple rule-based techniques and adopt an approach, which detects anomalous events in an unsupervised manner. Further, we explore how incorporation of domain knowledge can assist the unsupervised anomaly detection process and we discuss practical issues.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:geHnlv5EZngC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Continuous outlier mining of streaming data in flink",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306437920300594",
+            "Abstract": "In this work, we focus on distance-based outliers in a metric space, where the status of an entity as to whether it is an outlier is based on the number of other entities in its neighborhood. In recent years, several solutions have tackled the problem of distance-based outliers in data streams, where outliers must be mined continuously as new elements become available. An interesting research problem is to combine the streaming environment with massively parallel systems to provide scalable stream-based algorithms. However, none of the previously proposed techniques refer to a massively parallel setting. Our proposal fills this gap and investigates the challenges in transferring state-of-the-art techniques to Apache Flink, a modern platform for intensive streaming analytics. We thoroughly present the technical challenges encountered and the alternatives that may be applied, of which a micro-clustering-based one is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Online load balancing in parallel database queries with model predictive control",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6313692/",
+            "Abstract": "This work deals with a commonly encountered instantiation of the more generic problem of runtime load balancing. More specifically, we study load balancing in the context of query plans that include partitioned database operators running on remote nodes with time-varying connection speeds and loads. In such query plans, data is processed by similar operator instances placed on different machines in parallel, e.g., using a cloud infrastructure. The goal is to adaptively distribute the data to respond to changes in the environment, in such a way that all machines finish at the same time. Dynamic modifications in the data distribution policy are easily enforced, but they result in non-negligible adaptation overheads due to associated data movements. The emphasis of our approach is on taking into account the inherent cost of adaptations with a view to avoiding over-reacting, which may lead to serious performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Speeding-up the Verification Phase of Set Similarity Joins in the GPGPU paradigm",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1812.09141",
+            "Abstract": "We investigate the problem of exact set similarity joins using a co-process CPU-GPU scheme. The state-of-the-art CPU solutions split the wok in two main phases. First, filtering and index building takes place to reduce the candidate sets to be compared as much as possible; then the pairs are compared to verify whether they should become part of the result. We investigate in-depth solutions for transferring the second, so-called verification phase, to the GPU addressing several challenges regarding the data serialization and layout, the thread management and the techniques to compare sets of tokens. Using real datasets, we provide concrete experimental proofs that our solutions have reached their maximum potential, since they totally overlap verification with CPU tasks, and manage to yield significant speed-ups, up to 2.6X in our cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spark parameter tuning via trial-and-error",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-47898-2_24",
+            "Abstract": "Spark has been established as an attractive platform for big data analysis, since it manages to hide most of the complexities related to parallelism, fault tolerance and cluster setting from developers. However, this comes at the expense of having over 150 configurable parameters, the impact of which cannot be exhaustively examined due to the exponential amount of their combinations. In this work, we investigate the impact of the most important of the tunable Spark parameters on the application performance and guide developers on how to proceed to changes to the default values. We conduct a series of experiments and we offer a trial-and-error methodology for tuning parameters in arbitrary applications based on evidence from a very small number of experimental runs. We test our methodology in three case studies, where we manage to achieve speedups of more than 10 times.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "HiNode: an asymptotically space-optimal storage model for historical queries on graphs",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-017-7207-z",
+            "Abstract": "Most modern networks are perpetually evolving and can be modeled by graph data structures. By collecting and indexing the state of a graph at various time instances we are able to perform queries on its entire history and thus gain insight into its fundamental features and attributes. This calls for advanced solutions for graph history storing and indexing that are capable of supporting application queries efficiently while coping with the aggravated space requirements. To this end, we advocate a purely vertex-centric storage model that is asymptotically space-optimal and more space efficient than any other proposal to date. In addition to space efficiency, the model\u2019s purely vertex-centric approach shows great promise with respect to the efficiency and functionality of update and query operations. Furthermore, we make a qualitative comparison with other general methods for graph history storage identifying the pros \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Parallel continuous outlier mining in streaming data",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8631496/",
+            "Abstract": "In this work, we focus on distance-based outliers in a metric space, where the status of an entity as to whether it is an outlier is based on the number of other entities in its neighborhood. In the recent years, several solutions have tackled the problem of distance-based outliers in data streams, where outliers must be mined continuously as new elements become available. An interesting research problem is to combine the streaming environment with massively parallel systems to provide scalable stream-based algorithms. However, none of the previously proposed techniques refer to a massively parallel setting. Our proposal fills this gap and studies transferring state-of-the-art techniques in Apache Flink, a modern platform for intensive streaming analytics. We thoroughly present the technical challenges encountered and the alternatives that may be applied. We show speed-ups up to 117 (resp. 2076) times over a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:XiSMed-E-HIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Distributed query processing on the grid",
+            "Publication year": 2003,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/10943420030174002",
+            "Abstract": "Distributed query processing (DQP) has been widely used in data intensive                applications where data of relevance to users are stored at multiple locations. This                paper argues: (i) that DQP can be important in the Grid, as a means of providing                high-level, declarative languages for integrating data access and analysis; and (ii)                that the Grid provides resource management facilities that are useful to developers                of DQP systems. As well as discussing and illustrating how DQP technologies can be                deployed within the Grid, the paper describes Polar*, a prototype implementation of                a DQP system running over Globus. Polar* can handle complex data by adopting the                ODMG object model and its query language OQL, which supports the invocation of                user-defined operations. The Globus components are accessed through the MPICH-G                interface \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Sage Publications"
+        },
+        {
+            "Title": "Towards a common multimedia ontology framework",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4444036545916223374&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Probabilistic model checking at runtime for the provisioning of cloud resources",
+            "Publication year": 2015,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=JAuVCgAAQBAJ&oi=fnd&pg=PA275&dq=info:3ynsGouu0egJ:scholar.google.com&ots=V5mEyT8VEX&sig=trprUbuefncoNPgNp7Sf_vU13Ts",
+            "Abstract": "We elaborate on the ingredients of a model-driven approach for the dynamic provisioning of cloud resources in an autonomic manner. Our solution has been experimentally evaluated using a NoSQL database cluster running on a cloud infrastructure. In contrast to other techniques, which work on a best-effort basis, we can provide probabilistic guarantees for the provision of sufficient resources. Our approach is based on the probabilistic model checking of Markov Decision Processes (MDPs) at runtime. We present:(i) the specification of an appropriate MDP model for the provisioning of cloud resources,(ii) the generation of a parametric model with system-specific parameters,(iii) the dynamic instantiation of MDPs at runtime based on logged and current measurements and (iv) their verification using the PRISM model checker for the provisioning/deprovisioning of cloud resources to meet the set goals (This research has been co-financed by the European Union (European Social Fund-ESF) and Greek national funds through the Operational Program \u201cEducation and Lifelong Learning of the National Strategic Reference Framework (NSRF)-Research Funding Program: Thales. Investing in knowledge society through the European Social Fund.\u201d).",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A fast solution for bi-objective traffic minimization in geo-distributed data flows",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3331076.3331107",
+            "Abstract": "Geo-distributed analytics is becoming an increasingly common-place as IoT, fog computing and big data processing platforms are nowadays integrating with each other. In this work, we deal with a problem encountered when complex Spark workflows run on top of geographically dispersed nodes, either data centers or individual machines. There have been proposals that optimize the execution of such workflows in terms of the aggregate traffic generated or the latency (which is due to data transmission), or both metrics. However, the state-of-the-art solutions that target both objectives are either significantly sub-optimal or suffer from high optimization overhead. In this work, we address this limitation. The main solutions that we propose are both efficient and effective; based on either the extremal optimization or the greedy algorithm design paradigm, they can yield significant improvements having an optimization \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A 14 ConceptualAssessing Model for Security and Privacy Risks in Healthcare Information Infrastructures",
+            "Publication year": 2021,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=YjZIEAAAQBAJ&oi=fnd&pg=PA285&dq=info:0Rf7dnEDOeUJ:scholar.google.com&ots=cNxA8OJGJS&sig=ERW03ll3QwQncaaW2T0Ej5-5b2w",
+            "Abstract": "Nowadays, a uniform and widely adopted model of the healthcare processes and medical records constitutes an emerging need with a view to standardizing health data processing and facilitating the sharing of medical records, for example, to allow patients to receive informed treatment even when they are away from the location where they have received treatment in the past. To this end, several new data models and standards have been proposed. In this chapter, after providing an overview of these efforts, an important gap in both the literature and practice is identified, namely, to adopt a formalized procedure to assess the healthcare infrastructure in terms of privacy and cybersecurity risks, which is an essential step toward establishing trust in sharing and processing medical records across health institutions. To fill this gap, a conceptual model is introduced, which is materialized in the context of",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Knowledge and data management in grids: Notes on the state of the art",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/41882457/a_novel_approach_to_semantics_based_exception_handling_for_service.pdf",
+            "Abstract": "Knowledge and data management is a key topic in Grid computing. Today and in the near future, data, information, and knowledge are critical elements in the application of Grids in several sectors of our society. As Grids become pervasive in human activities, the management of data and the derivation and manipulation of knowledge play an increasingly significant role in enabling high-level applications in wired and wireless settings where Grids are used as enabling platforms, engines and tools for complex information systems. Our view is that the Grid should be effectively exploited for deploying data-driven and knowledge-based services and applications. To support this class of applications, tools and services for data and knowledge management are vital, so that, in the coming years the Grid will be used as a platform for implementing and deploying geographically dispersed data intensive applications, distributed knowledge discovery systems and knowledge management platforms. This white paper is provided by the Institute on Knowledge and Data Management (KDM) of the CoreGRID NoE. The work originates from work done by the Institute members and its aim is to present the current state of the art with respect to Grid data and knowledge management and provide the context of the related research activities, focusing on the areas of Grid storage, information processing and data mining.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "April"
+        },
+        {
+            "Title": "Binary Theta-Joins using MapReduce: Efficiency Analysis and Improvements.",
+            "Publication year": 2014,
+            "Publication url": "http://ceur-ws.org/Vol-1133/paper-02.pdf",
+            "Abstract": "We deal with binary theta-joins in a MapReduce environment, and we make two contributions. First, we show that the best known algorithm to date for this problem can reach the optimal trade-off between the size of the input a reducer can receive and the incurred communication cost when the join selectivity is high. Second, when the join selectivity is low, we present improvements upon the state-of-the-art with a view to decreasing the communication cost and the maximum load a reducer can receive, taking also into account the load imbalance across the reducers.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Security-aware elasticity for NoSQL databases in multi-cloud environments",
+            "Publication year": 2017,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJIIDS.2017.087237",
+            "Abstract": "We focus on horizontally scaling NoSQL databases in a cloud environment, in order to meet performance requirements while respecting security constraints. The performance requirements refer to strict latency limits on the query response time. The security requirements are derived from the need to address two specific kinds of threats that exist in cloud databases, namely data leakage, mainly due to malicious activities of actors hosted on the same physical machine, and data loss after one or more node failures. A key feature of our approach is that we account for multiple cloud providers offering resources of different characteristics. We explain that usually there is a trade-off between performance and security requirements and we derive a model checking approach to drive runtime decisions that strike a user-defined balance between them taking into account the infrastructure heterogeneity. Finally, we evaluate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:a0OBvERweLwC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "Cloud elasticity: a survey",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-29919-8_12",
+            "Abstract": "Cloud elasticity is a unique feature of cloud environments, which allows for the on demand (de-)provisioning or reconfiguration of the resources of cloud deployments. The efficient handling of cloud elasticity is a challenge that attracts the interest of the research community. This work constitutes a survey of research efforts towards this direction. The main contribution of this work is an up-to-date review of the latest elasticity handling approaches and a detailed classification scheme, focusing on the elasticity decision making techniques. Finally, we discuss various research challenges and directions of further research, regarding all phases of cloud elasticity, which can be deemed as a special case of autonomic behavior of computing systems (This research has been co-financed by the European Union (European Social Fund - ESF) and Greek national funds through the Operational Program \u201cEducation and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Adaptive workload allocation in query processing in autonomous heterogeneous environments",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-008-7032-5",
+            "Abstract": "The increasing prevalence of networked storage and computational resources, along with middleware for managing resource access and sharing, raises the prospect that queries can be run over resources obtained on demand, rather than on dedicated infrastructures. However, the movement of query processing into non-dedicated environments means that it is necessary to take account of the partial information and unstable conditions that characterise autonomous, shared, distributed settings. Thus, query processing on grid platforms needs to be adaptive, revising evaluation strategies at query runtime in response to the evolving environment, such as changes to machine load and availability. To address this challenge, adaptive techniques are described that: (i) balance load across plan partitions supporting intra-operator parallelism; (ii) remove bottlenecks in pipelined plans supporting inter-operator \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Sequence detection in event log files.",
+            "Publication year": 2021,
+            "Publication url": "https://datalab-old.csd.auth.gr/~gounaris/2021EDBT.pdf",
+            "Abstract": "Sequential pattern analysis has become a mature topic, with a lot of techniques for a variety of sequential pattern mining-related problems. Moreover, tailored solutions for specific domains, such as business process mining, have been developed. However, there is a gap in the literature for advanced techniques for efficient detection of arbitrary sequences in large collections of activity logs. In this work, we make a threefold contribution:(i) we propose a system architecture for incrementally maintaining appropriate indices that enable fast sequence detection;(ii) we investigate several alternatives for index building; and (iii) we compare our solution against existing state-of-the-art proposals and we highlight the benefits of our proposal.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Continuous outlier detection in data streams: an extensible framework and state-of-the-art algorithms",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2463676.2463691",
+            "Abstract": "Anomaly detection is an important data mining task, aiming at the discovery of elements that show significant diversion from the expected behavior; such elements are termed as outliers. One of the most widely employed criteria for determining whether an element is an outlier is based on the number of neighboring elements within a fixed distance (R), against a fixed threshold (k). Such outliers are referred to as distance-based outliers and are the focus of this work. In this demo, we show both an extendible framework for outlier detection algorithms and specific outlier detection algorithms for the demanding case where outlier detection is continuously performed over a data stream. More specifically: i) first we demonstrate a novel flavor of an open-source publicly available tool for Massive Online Analysis (MOA) that is endowed with capabilities to encapsulate algorithms that continuously detect outliers and ii) second \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u0391\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9 \u03a7\u03b1\u03bc\u03b7\u03bb\u03bf\u03cd \u0395\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/4010",
+            "Abstract": "\u0398\u03b5\u03bc\u03b5\u03bb\u03b9\u03ce\u03b4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9 \u03c3\u03b5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2. \u03a0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03c6\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03b1\u03ba\u03b5\u03c1\u03b1\u03af\u03c9\u03bd \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03af\u03c1\u03b5\u03c3\u03b7 \u03b1\u03ba\u03b5\u03c1\u03b1\u03af\u03c9\u03bd. \u03a0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b1\u03bb\u03ac \u03c1\u03c9\u03c3\u03b9\u03ba\u03ac. \u039a\u03cc\u03c3\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03ce\u03bd \u03c4\u03c9\u03bd \u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03c9\u03b4\u03ce\u03bd \u03b1\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd \u03c3\u03b1\u03bd \u03c3\u03c5\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03bb\u03ae\u03b8\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd bits \u03c4\u03c9\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03ce\u03bd \u03ae \u03c4\u03bf\u03c5 \u03c0\u03bb\u03ae\u03b8\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03ce\u03bd \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ac\u03c3\u03c7\u03bf\u03c5\u03bd. \u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b1\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd \u03b3\u03b9\u03b1 \u03b5\u03cd\u03c1\u03b5\u03c3\u03b7 \u03b4\u03cd\u03bd\u03b1\u03bc\u03b7\u03c2, \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1\u03c3\u03b9\u03b1\u03c3\u03bc\u03cc \u03c0\u03b9\u03bd\u03ac\u03ba\u03c9\u03bd \u03bc\u03b5\u03c4\u03b1\u03c4\u03c1\u03bf\u03c0\u03ae \u03b4\u03c5\u03b1\u03b4\u03b9\u03ba\u03bf\u03cd \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c3\u03b5 \u03b4\u03b5\u03ba\u03b1\u03b4\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u03b5\u03cd\u03c1\u03b5\u03c3\u03b7 \u03c0\u03c1\u03ce\u03c4\u03c9\u03bd \u03b1\u03c1\u03b9\u03b8\u03bc\u03ce\u03bd \u03bc\u03b5 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03b9\u03ce\u03b4\u03b5\u03b9\u03c2 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ad\u03c2.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive filter ordering in spark",
+            "Publication year": 2019,
+            "Publication url": "https://arxiv.org/abs/1905.01349",
+            "Abstract": "This report describes a technical methodology to render the Apache Spark execution engine adaptive. It presents the engineering solutions, which specifically target to adaptively reorder predicates in data streams with evolving statistics. The system extension developed is available as an open-source prototype. Indicative experimental results show its overhead and sensitivity to tuning parameters.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Experimenting with big data computing for scaling data quality-aware query processing",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0957417421002992",
+            "Abstract": "Combining query processing techniques with data quality management approaches enables enforcement of quality constraints, such as timeliness, accuracy and completeness, as part of ad-hoc query specification and execution, improving the quality of query results. Despite the emergence of novel data quality processing tools, there is a dearth of studies assessing performance and scalability in the execution of data quality assessment tasks during query processing. This paper reports on an empirical study aiming to investigate the extent to which a big data computing framework (Spark) can offer significant gains in performance and scalability when executing data quality querying tasks over a range of computational platforms including a single commodity multi-core machine and a cluster-based platform for a wide range of workloads. Our results show that substantial performance and scalability gains can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:HE397vMXCloC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Homomorphically encrypted k-means on cloud-hosted servers with low client-side load",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s00607-019-00711-w",
+            "Abstract": "The significance of data analytics has been acknowledged in many scientific and business domains. However, the required processing power and memory capacity is a prohibiting factor for performing data analytics on proprietary platforms. An obvious solution is the outsourcing of data analytics to cloud storage and cloud computing providers but this entails that privacy and security issues are raised, given the fact that data can be valuable and/or personal. The aim of this paper is the development of a server-side k-means algorithm over encrypted data using homomorphic encryption in order to overcome both the lack of resources of the data owner and the security concerns. Current solutions that deal with homomorphic encryption impose a heavy load on the side of the data owner; this limitation is now addressed in this work. More specifically, in this paper, we present a framework for the implementation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Springer Vienna"
+        },
+        {
+            "Title": "Using OGSA-DQP to support scientific applications for the grid",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11423287_2",
+            "Abstract": "The data management problems in grid computing are often challenging in many aspects such as data volumes, heterogeneity, structural complexity and semantic content. Thus, e-Scientists and scientific application developers stand to benefit from tools and environments that either hide, or help to manage, the inherent complexity involved in accessing and making concerted use of the diverse resources. This paper describes OGSA-DQP, a high level data integration tool for service-based grids, and illustrates how it can be used to support grid users, via an example scientific study in bioinformatics. The paper also discusses various options for employing OGSA-DQP to handle data integration tasks as service orchestrations involving both data and analysis services.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Self-optimizing block transfer in web service grids",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1316902.1316911",
+            "Abstract": "Nowadays, Web Services (WSs) play an increasingly important role in Web data management solutions, since they offer a practical solution for accessing and manipulating data sources spanning administrative domains. Nevertheless, they are notoriously slow and transferring large data volumes across WSs becomes the main bottleneck in such WS-based applications. This paper deals with the problem of minimizing at runtime, in a self-managing way, the datatransfer cost of a WS encapsulating a data source. To reducethe transfer cost, the data volume is typically divided intoblocks. In this case, response time exhibits a quadratic-like, non-linear behavior with regards to the block size; as such, minimizing the transfer cost entails finding the optimum block size. This situation is encountered in several systems, such as WS Management Systems (WSMSs) for DBMS-like data management over wide area service \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Practical adaptation to changing resources in grid query processing",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1617533/",
+            "Abstract": "Grid computational resources, as well as being heterogeneous, may also exhibit unpredictable, volatile behaviour. Therefore, query processing on the Grid needs to be adaptive in order to cope with evolving resource characteristics, such as machine load and availability. To address this challenge in a Grid environment, the non-adaptive OGSA-DQP1 system described in [1] has been enhanced with adaptive capabilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hinode: implementing a vertex-centric modelling approach to maintaining historical graph data",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s00607-019-00715-6",
+            "Abstract": "Over the past few years, there has been a rapid increase of data originating from evolving networks such as social networks, sensor networks and others. A major challenge that arises when handling such networks and their respective graphs is the ability to issue a historical query on their data, that is, a query that is concerned with the state of the graph at previous time instances. While there has been a number of works that index the historical data in a time-centric manner (i.e. according to the time instance an update event occurs), in this work, we focus on the less-explored vertex-centric storage approach (i.e. according to the entity in which an update event occurs). We demonstrate that the design choices for a vertex-centric model are not trivial, by proposing two different modelling and storage models that leverage NoSQL technology and investigating their tradeoffs. More specifically, we experimentally \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Springer Vienna"
+        },
+        {
+            "Title": "Resource scheduling for parallel query processing on computational grids",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1382857/",
+            "Abstract": "Advances in network technologies and the emergence of grid computing have both increased the need and provided the infrastructure for computation and data intensive applications to run over collections of heterogeneous and autonomous nodes. In the context of database query processing, existing parallelisation techniques cannot operate well in grid environments because the way they select machines and allocate tasks compromises partitioned parallelism. The main contribution of this paper is the proposal of a low-complexity, practical resource selection and scheduling algorithm that enables queries to employ partitioned parallelism, in order to achieve better performance in a grid setting.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Applications of Data Science: blending system design and engineering, advanced analytics and large-scale experimentation foreword",
+            "Publication year": 2021,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17533944936770834020&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:PELIpwtuRlgC",
+            "Publisher": "SPRINGER WIEN"
+        },
+        {
+            "Title": "\u03a3\u03c7\u03b5\u03b4\u03af\u03b1\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03b1\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd",
+            "Publication year": 2015,
+            "Publication url": "https://repository-web.kallipos.gr/handle/11419/4005",
+            "Abstract": "\u03a4\u03bf \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \u03c4\u03c9\u03bd \u0391\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd \u03ba\u03b1\u03b9 \u0394\u03bf\u03bc\u03ce\u03bd \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03be\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac \u03c0\u03bb\u03bf\u03cd\u03c3\u03b9\u03bf \u03ba\u03b1\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c0\u03bf\u03bb\u03bb\u03ac \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03b5\u03be\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac \u03b1\u03be\u03b9\u03cc\u03bb\u03bf\u03b3\u03b1 \u03b2\u03b9\u03b2\u03bb\u03af\u03b1 \u03c4\u03cc\u03c3\u03bf \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1. \u03a4\u03bf \u03c0\u03b1\u03c1\u03cc\u03bd \u03c3\u03cd\u03b3\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u03b1\u03c0\u03bf\u03c4\u03cd\u03c0\u03c9\u03c3\u03b7\u03c2 \u03b5\u03bd\u03cc\u03c2 \u03c5\u03bb\u03b9\u03ba\u03bf\u03cd \u03ba\u03b1\u03b9 \u03bc\u03af\u03b1\u03c2 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03bd\u03c4\u03c1\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03bf\u03bb\u03bb\u03ac \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03af\u03b1\u03c2 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03b5 \u0391\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u0394\u03bf\u03bc\u03ad\u03c2 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u0398\u03b5\u03c9\u03c1\u03af\u03b1 \u0393\u03c1\u03b1\u03c6\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd. \u03a3\u03ba\u03bf\u03c0\u03cc\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b8\u03b5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03bf\u03bc\u03bf\u03b3\u03b5\u03bd\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae \u03bc\u03af\u03b1\u03c2 \u03b4\u03b9\u03b4\u03b1\u03ba\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03c1\u03bf\u03c3\u03ad\u03b3\u03b3\u03b9\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03c3\u03c4\u03b9\u03ac\u03c3\u03b5\u03b9 \u03b9\u03b4\u03b9\u03b1\u03b9\u03c4\u03ad\u03c1\u03c9\u03c2 \u03c3\u03c4\u03bf \u03c3\u03ba\u03ad\u03bb\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7\u03c2 \u0391\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03bf\u03b9\u03c7\u03b1 \u03ba\u03bb\u03b1\u03c3\u03b9\u03ba\u03ac \u03b2\u03b9\u03b2\u03bb\u03af\u03b1 \u03ba\u03b1\u03b9 \u03ac\u03c1\u03b8\u03c1\u03b1, \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03ba\u03bb\u03b1\u03c3\u03b9\u03ba\u03ce\u03bd \u0394\u03bf\u03bc\u03ce\u03bd \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd (\u03ba\u03ac\u03c4\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03ac \u03b5\u03c6\u03b9\u03ba\u03c4\u03cc \u03bc\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03b5\u03be\u03b1\u03bc\u03b7\u03bd\u03b9\u03b1\u03af\u03bf \u03bc\u03ac\u03b8\u03b7\u03bc\u03b1 \u0394\u03bf\u03bc\u03ce\u03bd \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd). \u039a\u03bf\u03b9\u03bd\u03cc\u03c2 \u03b4\u03b5 \u03c0\u03b1\u03c1\u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03c4\u03ae\u03c2 \u03c4\u03c9\u03bd \u03b5\u03be\u03b5\u03c4\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03b5\u03bd \u03c4\u03ad\u03bb\u03b5\u03b9 \u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03bc\u03b5\u03b8\u03bf\u03b4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03bc\u03b5 \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7 \u03ba\u03ac\u03b8\u03b5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03bc\u03ad\u03c3\u03c9 \u03cc\u03c3\u03bf \u03c4\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03bf\u03c4\u03ad\u03c1\u03c9\u03bd \u03b5\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03ce\u03bd \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03bd, \u03c0\u03bf\u03c5 \u03c3\u03c5\u03b3\u03ba\u03c1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03be\u03b9\u03bf\u03bb\u03bf\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9. \u03a4\u03bf \u03c3\u03cd\u03b3\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03b1\u03c5\u03c4\u03cc \u03b8\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03ad\u03bd\u03b1\u03bd \u03b1\u03be\u03b9\u03cc\u03bb\u03bf\u03b3\u03bf \u03b2\u03bf\u03b7\u03b8\u03cc \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03b5\u03af \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03ae\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03bd\u03bd\u03bf\u03b9\u03b1 \u03c4\u03c9\u03bd \u0391\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd \u03b1\u03c6\u03bf\u03cd \u03b8\u03b1 \u03b4\u03af\u03bd\u03b5\u03b9 \u03bc\u03af\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bc\u03b1\u03c4\u03b9\u03ac \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03b8\u03ad\u03bc\u03b1\u03c4\u03b1.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distributed query processing on the grid",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36133-2_26",
+            "Abstract": "Distributed query processing (DQP) has been widely used in data intensive applications where data of relevance to users is stored in multiple locations. This paper argues: (i) that DQP can be important in the Grid, as a means of providing high-level, declarative languages for integrating data access and analysis; and (ii) that the Grid provides resource management facilities that are useful to developers of DQP systems. As well as discussing and illustrating how DQP technologies can be deployed within the Grid, the paper describes a prototype implementation of a DQP system running over Globus.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Service choreography for data integration on the grid",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-37831-2_2",
+            "Abstract": "To date there have been several efforts with a view to developing services that support and enable data integration on the Grid; however there is a lack of a comprehensive solution to this issue. This paper summarises the work thus far on the XMAP data integration framework and query reformulation algorithm and on middleware with regard to Grid query processing services, namely OGSA-DQP. Furthermore, it presents an architecture for data integration-enabled query processing on the Grid, which combines the two aforementioned pieces of work and provides an extended set of e-Services. These services allow users to submit queries over a single database and receive the results from multiple databases that are semantically correlated with the former one. The paper focuses on the service choreography involved by elaborating on the interactions between the services, and discusses the extensions to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "Access Methods.",
+            "Publication year": 2014,
+            "Publication url": "https://datalab-old.csd.auth.gr/~gounaris/2014accessmethods.pdf",
+            "Abstract": "We are witnessing a tremendous growth in the size of the data gathered, stored and processed by various kinds of information systems. Therefore, no matter how big memories become, there is always the need to store data in",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Incorporating change detection in the monitoring phase of adaptive query processing",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1186/s13174-016-0049-5",
+            "Abstract": "Recent Big Data research typically emphasizes on the need to address the challenges stemming from the volume, velocity, variety and veracity aspects. However, another cross-cutting property of Big Data is volatility. In database technology, volatility is addressed with the help of adaptive query processing (AQP), which has become the dominant paradigm for executing queries in dynamic and/or streaming environments. As the characteristics of the runtime environment may vary significantly along time, AQP techniques employ a three-phase adaptivity loop to process the input queries, comprising feedback collection, analysis and re-optimization. In the monitoring phase, the standard approach is to collect feedback in a fixed-size sliding window. However, several problems arise when the techniques adopt a fixed-size sliding window for maintaining runtime collected feedback. In this work, we tackle this limitation and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "Approach for Data Protection in Databases with Focus on Data Confidentiality",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4170174880774853296&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Probabilistic model checking at runtime for the provisioning of cloud resources",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-23820-3_18",
+            "Abstract": "We elaborate on the ingredients of a model-driven approach for the dynamic provisioning of cloud resources in an autonomic manner. Our solution has been experimentally evaluated using a NoSQL database cluster running on a cloud infrastructure. In contrast to other techniques, which work on a best-effort basis, we can provide probabilistic guarantees for the provision of sufficient resources. Our approach is based on the probabilistic model checking of Markov Decision Processes (MDPs) at runtime. We present: (i) the specification of an appropriate MDP model for the provisioning of cloud resources, (ii) the generation of a parametric model with system-specific parameters, (iii) the dynamic instantiation of MDPs at runtime based on logged and current measurements and (iv) their verification using the PRISM model checker for the provisioning/deprovisioning of cloud resources to meet the set goals (This \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "An Evaluation of Large Set Intersection Techniques on GPUs.",
+            "Publication year": 2021,
+            "Publication url": "https://datalab.csd.auth.gr/wp-content/papercite-data/pdf/BellasG21Dolap.pdf",
+            "Abstract": "In this paper, we focus on large set intersection, which is a pivotal operation in information retrieval, graph analytics and database systems. We aim to experimentally detect under which conditions, using a graphics processing unit (GPU) is beneficial over CPU techniques and which exact techniques are capable of yielding improvements. We cover and adapt techniques initially proposed for graph analytics, while we investigate new hybrids for completeness. Finally, we present a comprehensive evaluation highlighting the main characteristics of the techniques examined when both a single pair of two large sets are processed and all pairs in a dataset are examined.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive query processing in distributed settings",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-28323-9_9",
+            "Abstract": "In this survey chapter,we discuss adaptive query processing (AdQP) techniques for distributed environments. We also investigate the issues involved in extending AdQP techniques originally proposed for single-node processing so that they become applicable to multi-node environments as well. In order to make it easier for the reader to understand the similarities among the various proposals, we adopt a common framework, which decomposes the adaptivity loop into the monitoring, analysis, planning and actuation (or execution) phase. The main distributed AdQP techniques developed so far tend to differ significantly from their centralized counterparts, both in their objectives and in their focus. The objectives in distributed AdQP are more tailored to distributed settings, whereas more attention is paid to issues relating to the adaptivity cost, which is significant, especially when operators and data are moved \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic configuration of partitioning in spark applications",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7807262/",
+            "Abstract": "Spark has become one of the main options for large-scale analytics running on top of shared-nothing clusters. This work aims to make a deep dive into the parallelism configuration and shed light on the behavior of parallel spark jobs. It is motivated by the fact that running a Spark application on all the available processors does not necessarily imply lower running time, while may entail waste of resources. We first propose analytical models for expressing the running time as a function of the number of machines employed. We then take another step, namely to present novel algorithms for configuring dynamic partitioning with a view to minimizing resource consumption without sacrificing running time beyond a user-defined limit. The problem we target is NP-hard. To tackle it, we propose a greedy approach after introducing the notions of dependency graphs and of the benefit from modifying the degree of partitioning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Skew Handling in Aggregate Streaming Queries on GPUs",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1309.0634",
+            "Abstract": "Nowadays, the data to be processed by database systems has grown so large that any conventional, centralized technique is inadequate. At the same time, general purpose computation on GPU (GPGPU) recently has successfully drawn attention from the data management community due to its ability to achieve significant speed-ups at a small cost. Efficient skew handling is a well-known problem in parallel queries, independently of the execution environment. In this work, we investigate solutions to the problem of load imbalances in parallel aggregate queries on GPUs that are caused by skewed data. We present a generic load-balancing framework along with several instantiations, which we experimentally evaluate. To the best of our knowledge, this is the first attempt to present runtime load-balancing techniques for database operations on GPUs.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Service-based distributed querying on the grid",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24593-3_32",
+            "Abstract": "Service-based approaches (such as Web Services and the Open Grid Services Architecture) have gained considerable attention recently for supporting distributed application development in e-business and e-science. The emergence of a service-oriented view of hardware and software resources raises the question as to how database management systems and technologies can best be deployed or adapted for use in such an environment. This paper explores one aspect of service-based computing and data management, viz., how to integrate query processing technology with a service-based Grid. The paper describes in detail the design and implementation of a service-based distributed query processor for the Grid. The query processor is service-based in two orthogonal senses: firstly, it supports querying over data storage and analysis resources that are made available as services, and, secondly, its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Optimization of decentralized multi-way join queries over pipelined filtering services",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/article/10.1007/s00607-012-0209-9",
+            "Abstract": "The capability to optimize and execute complex queries over multiple remote services (e.g., web services) is of high significance for efficient data management in large scale distributed computing infrastructures, such as those enabled by grid and cloud computing technology. In this work, we investigate the optimization of queries that involve multiple data resources, each of which is processed by non-overlapping sets of remote filtering services. The main novelty of this work is the proposal of optimization algorithms that produce an ordering of calls to services so that the query response time is minimized. The distinctive features of our work lie in the consideration of direct, heterogenous links among services and of multiple data resources. To the best of our knowledge, there is no known algorithm for this problem and the evaluation results show that the proposed algorithms can yield significant performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Springer Vienna"
+        },
+        {
+            "Title": "Efficient Distributed Outlier Detection in Data Streams",
+            "Publication year": 2019,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-02100486/",
+            "Abstract": "Anomaly detection is one of the major data mining tasks in modern applications. An element that shows significant deviation from the \"usual\" behavior is marked as an outlier. This means that this element either corresponds to noise or it requires more careful examination because it may be important. Also, many clustering algorithms are very sensitive to outliers. In any case, outliers must be identified and explored further, meaning that efficient outlier mining techniques are required. In this paper, we focus on distributed density-based outlier detection over multi-dimensional data streams. In particular, we focus on the approximation method for computing the Local Correlation Integral (LOCI) of multi-dimensional points. Each object p is assigned a score score(p) which represents the outlier score of p. Thus, one can select the top-k elements from the dataset that have the highest outlier scores. Our proposal has been implemented in Apache Spark using Scala and experiments have been conducted in a physical cluster running Apache Hadoop 2.7 and Apache Spark 2.4.0. Performance evaluation results demonstrate that the proposed algorithm is efficient and scalable and therefore it can be used to mine outliers in large distributed datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal tradeoff between energy consumption and response time in large-scale mapreduce clusters",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6065041/",
+            "Abstract": "The increasing growth of the size of the digital databases has given rise to the need for the development of infrastructures, such as large scale data centers and computational clusters, which are capable of storing and processing very large volumes of data. To date, most clusters have been designed for performance. Due to non-linear speed-ups that are common to typical applications, performance maximization involves the decision of the number of the nodes to process a specific (intensive) task, as opposed to the utilization of the full cluster. In addition, energy consumption has recently attracted significant attention, given that the cost to operate a cluster may well exceed its acquisition cost. This issue calls for judicious use of resources as well. The aim of this study is to present a method that achieves the optimal tradeoff between energy consumption and response time in distributed clusters, such as Map Reduce \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust Runtime Optimization of Data Transfer in",
+            "Publication year": 0,
+            "Publication url": "http://www.cs.man.ac.uk/~rizos/papers/icde08.pdf",
+            "Abstract": "Self-managing solutions have recently attracted a lot of interest from the database community. The need for self-* properties is more evident in distributed applications comprising heterogeneous and autonomous databases and functionality providers. Such resources are typically exposed as Web Services (WSs), which encapsulate remote DBMSs and functions called from within database queries. In this setting, database queries are over WSs, and the data transfer cost becomes the main bottleneck. To reduce this cost, data is shipped to and from WSs in chunks; however the optimum chunk size is volatile, depending on both the resources' runtime properties and the query. In this paper we propose a robust control theoretical solution to the problem of optimizing the data transfer in queries over WSs, by continuously tuning at runtime the block size and thus tracking the optimum point. Also, we develop online system identification mechanisms that are capable of estimating the optimum block size analytically. Both contributionsare evaluated via both empirical experimentation in a real environment and simulations, and have been proved to be more effective and efficient than static solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Security-aware elasticity for nosql databases",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-23781-7_15",
+            "Abstract": "We focus on horizontally scaling NoSQL databases in a cloud environment, in order to meet performance requirements while respecting security constraints. The performance requirements refer to strict latency limits on the query response time. The security requirements are derived from the need to address two specific kinds of threats that exist in cloud databases, namely data leakage, mainly due to malicious activities of actors hosted on the same physical machine, and data loss after one or more node failures. We explain that usually there is a trade-off between performance and security requirements and we derive a model checking approach to drive runtime decisions that strike a user-defined balance between them. We evaluate our proposal using real traces to prove the effectiveness in configuring the trade-offs.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficiency assessment of event-based predictive maintenance in Industry 4.0.",
+            "Publication year": 2019,
+            "Publication url": "https://datalab-old.csd.auth.gr/wp-content/uploads/publications/NG19ICDM.pdf",
+            "Abstract": "Predictive maintenance has evolved from a vision to reality for several industries. Notwithstanding, there is not yet a clear view on the behavior of the algorithmic tools proposed. The aim of this work is to fill this gap and perform an insightful comparison and sensitivity analysis of the main representatives for event-based predictive maintenance, which typically rely on pattern mining and machine learning. We provide a publicly available environment to compare techniques and we perform extensive experiments. The results of our work show that fine tuning is required and judicious feature generation and selection are two important aspects in efficiently predicting faults.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:D_sINldO8mEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Bi-objective traffic optimization in geo-distributed data flows",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2214579618302193",
+            "Abstract": "Recently, there have been several proposals in the area of geo-distributed big data processing. In this work, we aim to address a limitation of the existing solutions, namely to optimize task allocation across geographically distributed data centers, in a way that both the total traffic and the running time of the whole processing in complex multi-stage flows are targeted. Apart from proposing concrete efficient solutions for this combinatorial problem, we advocate to take a critical stand on the broadly spread claim that transferring distributed data to a single or fewer places is too costly. In our proposal, we judiciously reduce the participation of some data centers in the flow execution, and we show that, in a wide range of settings, this yields significant benefits. We show that a stochastic solution is superior to a fast greedy one, at the expense of optimization time of up to a few minutes. Compared to a state-of-the-art solution \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Adaptive memory-aware chunk sizing techniques for data-intensive queries over Web Services",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2480362.2480522",
+            "Abstract": "Modern applications of Web Services (WSs) that involve the processing of large amounts of data tend to transmit data in chunks. Several performance control techniques have been proposed to dynamically select the appropriate chunk size with a view to minimize the communication cost. However, when the data consumer is slower than the data producer, the consumer applications may suffer from memory shortage if high volumes of data arrive in the incoming buffers. To this end, we propose a specific approach to coupling performance control with congestion control features, in order to consider both performance and memory overflow issues in an integrated manner. The performance results with real data show that we can combine these controllers effectively and efficiently, so that no memory overflow occurs at the expense of negligible performance degradation.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cost-aware horizontal scaling of NoSQL databases using probabilistic model checking",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/article/10.1007/s10586-017-0816-5",
+            "Abstract": "In this work we target horizontal scaling of NoSQL databases, which exhibit highly varying, unpredictable and difficult to model behavior coupled with transient phenomena during VM removals and/or additions. We propose a solution that is cost-aware, systematic, dependable while it accounts for performance unpredictability and volatility. To this end, we model the elasticity as a dynamically instantiated Markov decision process, which can be both solved and verified using probabilistic model checking. Further, we propose a range of complementary decision making policies, which are thoroughly evaluated in workloads from real traces. The evaluation provides strong insights into the trade-offs between performance and cost that our policies can achieve and prove that we can avoid both over- and under-provisioning.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "HySet: A hybrid framework for exact set similarity join using a GPU",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167819121000442",
+            "Abstract": "Set similarity join is a fundamental operation used in a wide range of applications such as data mining, data cleaning and entity resolution. Existing methods proposed for set similarity join conform to a filter-verification framework where potential candidate pairs are generated in the filtering phase and then undergo a verification phase to output the final result. Several different kinds of filtering techniques have been proposed and techniques also differentiate in the manner they couple filtering with verification. However, it has been shown that no globally dominant technique exists. Depending on the dataset and query characteristics, each technique has its own strong and weak points. Based on these findings, the main contribution of this work is the development of a hybrid framework for the set similarity join operation for a single GPU-equipped machine setting. Our framework encapsulates a partitioning mechanism \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A novel approach to resource scheduling for parallel query processing on computational grids",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-006-8490-2",
+            "Abstract": "Advances in network technologies and the emergence of Grid computing have both increased the need and provided the infrastructure for computation and data intensive applications to run over collections of heterogeneous and autonomous nodes. In the context of database query processing, existing parallelisation techniques cannot operate well in Grid environments because the way they select machines and allocate tasks compromises partitioned parallelism. The main contribution of this paper is the proposal of a low-complexity, practical resource selection and scheduling algorithm that enables queries to employ partitioned parallelism, in order to achieve better performance in a Grid setting. The evaluation results show that the scheduler proposed outperforms current techniques without sacrificing the efficiency of resource utilisation.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Adaptive query processing: A survey",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45495-0_2",
+            "Abstract": "In wide-area database systems, which may be running on unpredictable and volatile environments (such as computational grids), it is difficult to produce efficient database query plans based on information available solely at compile time. A solution to this problem is to exploit information that becomes available at query runtime and adapt the query plan to changing conditions during execution. This paper presents a survey on adaptive query processing techniques, examining the opportunities they offer to modify a plan dynamically and classifying them into categories according to the problem they focus on, their objectives, the nature of feedback they collect from the environment, the frequency at which they can adapt, their implementation environment and which component is responsible for taking the adaptation decisions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Robust runtime optimization of data transfer in queries over web services",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4497468/",
+            "Abstract": "Self-managing solutions have recently attracted a lot of interest from the database community. The need for self-* properties is more evident in distributed applications comprising heterogeneous and autonomous databases and functionality providers. Such resources are typically exposed as Web Services (WSs), which encapsulate remote DBMSs and functions called from within database queries. In this setting, database queries are over WSs, and the data transfer cost becomes the main bottleneck. To reduce this cost, data is shipped to and from WSs in chunks; however the optimum chunk size is volatile, depending on both the resources' runtime properties and the query. In this paper we propose a robust control theoretical solution to the problem of optimizing the data transfer in queries over WSs, by continuously tuning at runtime the block size and thus tracking the optimum point. Also, we develop online system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An experience report on designing and building OGSA-DQP: a service based distributed query processor for the grid",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.9242&rep=rep1&type=pdf",
+            "Abstract": "OGSA-DQP is a distributed query processor exposed to users as an OGSA-compliant Grid service. This service supports the compilation and evaluation of queries that combine data obtained from multiple services on the Grid, including Grid Database Services (GDSs) provided by OGSA-DAI project. Not only does OGSA-DQP support integrated access to multiple Grid services, it is itself implemented as a collection of interacting Grid services. Thus, OGSA-DQP is an example of a Grid service with a significant amount of aggregated functionality that, in addition, illustrates how Grid service orchestrations can be used to perform reasonably complex, data-intensive parallel computations. OGSA-DQP prototype has been released and it is downloadable from www. ogsadai. org. uk/dqp/. This paper contributes an experience report on the design of OGSA-DQP, with a particular emphasis on the issues, challenges and trade-offs that the OGSA-DQP development team have had to contend with.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Session Chair: William Wu",
+            "Publication year": 0,
+            "Publication url": "https://pdfs.semanticscholar.org/1f38/083d7874a73bca73d159bfd631be7c68939c.pdf",
+            "Abstract": "Scalable Cloud-based ETL for Self-serving Analytics Eftim Zdravevski, Cas Apanowicz, \nKrzysztof Stencel, Dominik Slezak Context A Page 1 First Conference Day - Wendsday July \n17th, 2019 09:00-09:15 Opening Prof. Petra Perner Invited Talk Session Chair: Petra Perner \n09:15-10:00 Machine Learning using Medical Data: Revolution or Evolution? Prof. Dr. Mehmed \nKantardzic 10:00-10:15 Coffee Break Session Chair: Krysztof Stenzel 10:15-10:35 Scalable \nCloud-based ETL for Self-serving Analytics Eftim Zdravevski, Cas Apanowicz, Krzysztof Stencel, \nDominik Slezak 10:35-10:55 Context Aware Image Annotation in Active Learning Yingcheng \nSun and Kenneth Loparo 10:55-11:15 Predicting e-commerce customer conversion from \nminimal temporal patterns on symbolized clickstream trajectories Jacopo Tagliabue et al. Final \nProgram Industrial Conference on Data Mining ICDM 2019 Page 2 11:15-10:30 Coffee : Wu \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Minimization of the response time in parallel database queries: An adaptive cost-aware mpc-based solution",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5983031/",
+            "Abstract": "Load balancing in partitioned database queries is a significant issue in efficient data management of large datasets. When such queries are processed in a volatile and unpredictable setting, as is the typical case today, continuous workload re-assignments need to take place to ensure that the workload allocated to each participating machine reflects its actual capabilities, so that the query response time is minimized. The main challenge is to continuously adapt the load balancing policy, while considering the inherent control cost. The problem is modeled as a constrained optimization problem and, in this work, we present an efficient and effective MPC-based solution, which improves upon previous work.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Implementing private k-means clustering using a LWE-based cryptosystem",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8024510/",
+            "Abstract": "Combining data analytics with homomorphic encryption is an interesting topic, which finds several applications in the healthcare domain because it enables clients with low computational and/or storage capacity to outsource the analysis of potentially large datasets to the cloud while protecting sensitive data from unwanted access. In this work, we propose a framework for evaluating k-means clustering using a cryptosystem based on the Learning With Errors (LWE) problem. We implemented three variants of this framework in the computer algebra system Sagemath and executed many experiments to test the performance for various values of k-means and LWE parameters.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An overview of the CUREX platform",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8787402/",
+            "Abstract": "Health sector is becoming more and more dependent on digital information every day. This fact can be exploited by cyber criminals who may obtain very lucrative benefits from stolen data. Moreover, a breach of integrity of health data can have terrible consequences for the patients. CUREX project aims to protect the confidentiality of health data and to maintain its integrity by producing a novel, flexible and scalable situational awareness-oriented platform. CUREX has been conceived as GDPR compliant by design. This design has been thought as a decentralised architecture enhanced with a private blockchain infrastructure. Thus, it ensures the integrity of the risk assessment process and of all data transactions.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "IVUS image processing and semantic analysis for Cardiovascular Diseases risk prediction",
+            "Publication year": 2010,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBET.2010.0327",
+            "Abstract": "The work presented in this paper is part of a system able to perform risk classification of patients based on medical image analysis and on the semantically structured information of patient data from medical records and biochemical data. More specifically, the paper focuses on Intravascular Ultrasound (IVUS) image processing and the automated segmentation developed to extract the useful arterial boundaries. This is coupled with the design and implementation of a semantic reasoning-enabled knowledge base in OWL that integrates data from heterogeneous sources and incorporates functionality for DL classification. Performance evaluation of both IVUS image processing and knowledge base is discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Towards Causal Explanations of Community Detection in Networks",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-65347-7_14",
+            "Abstract": "Community detection is a significant research problem in Network Science since it identifies groups of nodes that may have certain functional importance - termed communities. Our goal is to further study this problem from a different perspective related to the questions of the cause of belongingness to a community. To this end, we apply the framework of causality and responsibility developed by Halpern and Pearl [11]. We provide an algorithm-semi-agnostic framework for computing causes and responsibility of belongingness to a community. To the best of the authors\u2019 knowledge, this is the first work that examines causality in community detection. Furthermore, the proposed framework is easily adaptable to be also used in other network processing operations apart from community detection.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Towards automated performance optimization of BPMN business processes",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-44066-8_2",
+            "Abstract": "Business Process Model and Notation (BPMN) provides a standard for the design of business processes. It focuses on bridging the gap between the analysis and the technical perspectives, and aims to deliver process automation. The aim of this work is to complement this effort by transferring knowledge from the related field of data-centric workflows aiming to provide automated performance optimization of the business process execution. As a key step towards this goal, the contribution of this work is to provide a methodology to map BPMNv2.0 models to annotated directed acyclic graphs, which emphasize the volume of the tokens exchanged and are amenable to existing automated optimization algorithms. In addition, concrete examples of mappings are given, while the optimization opportunities that are opened are explained.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A control theoretical approach to self-optimizing block transfer in web service grids",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1352789.1352791",
+            "Abstract": "Nowadays, Web Services (WS) play an important role in the dissemination and distributed processing of large amounts of data that become available on the Web. In many cases, it is essential to retrieve and process such data in blocks, in order to benefit from pipelined parallelism and reduced communication costs. This article deals with the problem of minimizing at runtime, in a self-managing way, the total response time of a call to a database exposed to a volatile environment, like the Grid, as a WS. Typically, in this scenario, response time exhibits a concave, nonlinear behavior depending on the client-controlled size of the individual requests comprising a fixed size task. In addition, no accurate profiling or internal state information is available, and the optimum point is volatile. This situation is encountered in several systems, such as WS Management Systems (WSMS) for DBMS-like data management over wide \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Hybrid Ontology and Visual-based Retrieval for Cultural Heritage Multimedia Libraries",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4427492/",
+            "Abstract": "Nowadays, an increasingly growing demand for the creation of digital multimedia libraries is arising, as huge amounts of digital visual content are becoming available. The content that resides in these libraries should be easily retrievable and classified in order to be fully accessible. This paper introduces a hybrid multimedia retrieval model accompanied by the presentation of a search engine that is capable of retrieving visual content cultural heritage multimedia libraries as in three modes: (i) based on semantic annotation with the help of an ontology; (ii) based on the visual features with a view to finding similar content; and (iii) based on the combination of these two strategies. The main novelty is the way in which these two co-operate transparently during the evaluation of a single query in a hybrid fashion, making recommendations to the user and retrieving content that is both visually and semantically similar.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "OGSA-DQP: A service for distributed querying on the grid",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24741-8_58",
+            "Abstract": "OGSA-DQP is a distributed query processor exposed to users as an Open Grid Services Architecture (OGSA)-compliant Grid service. This service supports the compilation and evaluation of queries that combine data obtained from multiple services on the Grid, including Grid Database Services (GDSs) and computational web services. Not only does OGSA-DQP support integrated access to multiple Grid services, it is itself implemented as a collection of interacting Grid services. OGSA-DQP illustrates how Grid service orchestrations can be used to perform complex, data-intensive parallel computations. The OGSA-DQP prototype is downloadable from www.ogsadai.org.uk/dqp/. This demonstration aims to illustrate the capabilities of OGSA-DQP prototype via a GUI Client over a collection of bioinformatics databases and analysis tools.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Spark deployment and performance evaluation on the marenostrum supercomputer",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7363768/",
+            "Abstract": "In this paper we present a framework to enable data-intensive Spark workloads on MareNostrum, a petascale supercomputer designed mainly for compute-intensive applications. As far as we know, this is the first attempt to investigate optimized deployment configurations of Spark on a petascale HPC setup. We detail the design of the framework and present some benchmark data to provide insights into the scalability of the system. We examine the impact of different configurations including parallelism, storage and networking alternatives, and we discuss several aspects in executing Big Data workloads on a computing system that is based on the compute-centric paradigm. Further, we derive conclusions aiming to pave the way towards systematic and optimized methodologies for fine-tuning data-intensive application on large clusters emphasizing on parallelism configurations.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adapting to changing resource performance in grid query processing",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11611950_4",
+            "Abstract": "The Grid provides facilities that support the coordinated use of diverse resources, and consequently, provides new opportunities for wide-area query processing. However, Grid resources, as well as being heterogeneous, may also exhibit unpredictable, volatile behaviour. Thus, query processing on the Grid needs to be adaptive, in order to cope with evolving resource characteristics, such as machine load. To address this challenge, an architecture is proposed that has been empirically evaluated over a prototype Grid-enabled adaptive query processor instantiating it.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "\u0395\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03a0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd \u03c4\u03bf\u03c5 SQL Server 2014",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/277",
+            "Abstract": "\u03a4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u03bf \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7\u03c2 \u03b8\u03b1 \u03b4\u03b5\u03b9 \u03c0\u03ce\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c4\u03bf\u03bd SQL Server 2014. \u03a3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1, \u03c3\u03c4\u03bf \u03c0\u03b1\u03c1\u03cc\u03bd \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03b2\u03b1\u03c3\u03b9\u03ba\u03ac \u03b2\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 SQL Server. \u0395\u03c0\u03b9\u03c0\u03bb\u03ad\u03bf\u03bd, \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03bf \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9, \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03b8\u03b5\u03af \u03b7 \u03ba\u03b1\u03bb\u03ae \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2. \u03a4\u03ad\u03bb\u03bf\u03c2, \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b7 \u03be\u03b5\u03bd\u03ac\u03b3\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf \u03b2\u03b1\u03c3\u03b9\u03ba\u03cc \u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd \u03c4\u03bf\u03c5 SQL Server Management Studio.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Eligibility of BPMN models for business process redesign",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/489372",
+            "Abstract": "Business process redesign (BPR) is an organizational initiative for achieving competitive multi-faceted advantages regarding business processes, in terms of cycle time, quality, cost, customer satisfaction and other critical performance metrics. In spite of the fact that BPR tools and methodologies are increasingly being adopted, process innovation efforts have proven ineffective in delivering the expected outcome. This paper investigates the eligibility of BPMN process models towards the application of redesign methods inspired by data-flow communities. In previous work, the transformation of a business process model to a directed acyclic graph (DAG) has yielded notable optimization results for determining average performance of process executions consisting of ad-hoc processes. Still, the utilization encountered drawbacks due to a lack of input specification, complexity assessment and normalization of the BPMN model and application to more generic business process cases. This paper presents an assessment mechanism that measures the eligibility of a BPMN model and its capability to be effectively transformed to a DAG and be further subjected to data-centric workflow optimization methods. The proposed mechanism evaluates the model type, complexity metrics, normalization and optimization capability of candidate process models, while at the same time allowing users to set their desired complexity thresholds. An indicative example is used to demonstrate the assessment phases and to illustrate the usability of the proposed mechanism towards the advancement and facilitation of the optimization phase. Finally, the authors review BPMN \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Optimization of data flow execution in a parallel environment",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-018-7243-3",
+            "Abstract": "Although the modern data flows are executed in parallel and distributed environments, e.g. on a multi-core machine or on the cloud, current cost models, e.g., those considered by state-of-the-art data flow optimization techniques, do not accurately reflect the response time of real data flow execution in these execution environments. This is mainly due to the fact that the impact of parallelism, and more specifically, the impact of concurrent task execution on the running time is not adequately modeled in current cost models. The contribution of this work is twofold. Firstly, we propose an advanced cost model that aims to reflect the response time of a data flow that is executed in parallel more accurately. Secondly, we show that existing optimization solutions are inadequate and develop new optimization techniques targeting the proposed cost model. We focus on the single multi-core machine environment \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:SP6oXDckpogC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Developing a real-time traffic reporting and forecasting back-end system",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-50316-1_4",
+            "Abstract": "This work describes the architecture of the back-end engine of a real-time traffic data processing and satellite navigation system. The role of the engine is to process real-time feedback, such as speed and travel time, provided by in-vehicle devices and derive real-time reports and traffic predictions through leveraging historical data as well. We present the main building blocks and the versatile set of data sources and processing platforms that need to be combined together to form a working and scalable solution. We also present performance results focusing on meeting system requirements keeping the need for computing resources low. The lessons and results presented are of value to additional real-time applications that rely on both recent and historical data.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Main Conference PC members",
+            "Publication year": 0,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/big-data/2019/09006034/1hJrLRFKnAI",
+            "Abstract": "Big Data 2019 Program Committee IEEE.org Help Cart Jobs Board Create Account Toggle \nnavigation IEEE Computer Society Digital Library Jobs Tech News Resource Center Press \nRoom Browse By Date Advertising About Us IEEE IEEE Computer Society IEEE Computer \nSociety Digital Library My Subscriptions Magazines Journals Conference Proceedings \nInstitutional Subscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center \nPress Room Browse By Date Advertising About Us Cart All Advanced Search Conference Cover \nImage Download 1.Home 2.Proceedings 3.big-data 2019 Big Data 2019 Program Committee \n2019, pp. ix, DOI Bookmark: 10.1109/BigData47090.Keywords Authors Abstract Provides a \nlisting of current committee members and society officers. Program Committee, ,Main Conference \nPC members ,Name ,Organization ,Country/State ,Abdelmounaam Rezgui ,New Mexico ,,\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Lifting the burden of history in adaptive ordering of pipelined stream filters",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6313697/",
+            "Abstract": "Ordering of commutative and correlated pipelined stream filters in a dynamic environment is a problem of high interest due to its application in data stream scenarios and its relevance to many query optimization problems. Current state-of-the-art adaptive techniques continuously reoptimize filter orderings utilizing statistics that are collected during the execution of the query, however, both the up-to-date and the out-of-date collected statistical data may be considered with the consequence of not always taking effective reoptimization decisions. In this work, we propose a technique for adaptive filter ordering that tries to lift the burden of out-of-date statistical data after detecting changes in the filter drop probabilities. To this end, we propose a novel drop probability change detection algorithm. The experimental evaluation shows that the proposed technique can yield significant performance improvements while \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Incorporating change detection in network coordinate systems for large data transfers",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2491845.2491864",
+            "Abstract": "The performance of large scale applications, such as those enabled by service-oriented, grid and cloud technologies, heavily relies on aspects related to the network topology and latency. As such, predicting the actual communication latencies is of high interest. The current state-of-the-art solutions to the problem of estimating the latency among distributed nodes comprise algorithms that tend to build upon the notion of network coordinates (NCs). Since network conditions change continuously, NCs need to be updated very frequently and, thus, are prone to oscillations. We present a variant of the pioneer NC algorithm, called Vivaldi, which encapsulates a change detection mechanism to prohibit NCs updates unless the network conditions change significantly. The contribution of this paper is twofold: first, to assess the impact of change detection and, second, to evaluate the NC algorithms in a realistic service-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cost models for geo-distributed massively parallel streaming analytics",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2105.12507",
+            "Abstract": "This report is part of the DataflowOpt project on optimization of modern dataflows and aims to introduce a data quality-aware cost model that covers the following aspects in combination: (1) heterogeneity in compute nodes, (2) geo-distribution, (3) massive parallelism, (4) complex DAGs and (5) streaming applications. Such a cost model can be then leveraged to devise cost-based optimization solutions that deal with task placement and operator configuration.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Modular adaptive query processing for service-based grids",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1662415/",
+            "Abstract": "Distributed and heterogeneous environments present significant challenges to complex software systems, which must operate in the context of continuously changing loads, with partial or out-of-date information on resource capabilities. A distributed query processor (DQP) can be used to access and integrate data from distributed sources, as well as for combining data access with data analysis. However in heterogeneous environments, statically constructed query plans may commit a query evaluator to following significantly suboptimal strategies. As such, there is considerable interest in using adaptive query processors (AQPs) in such settings to provide self-optimizing behaviour. However, with many possible adaptive strategies available, it is important that AQPs can be constructed in a systematic and efficient manner. This paper outlines an approach to the development of AQPs in which adaptive behaviour is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Flexible partitioning for selective binary theta-joins in a massively parallel setting",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-017-7214-0",
+            "Abstract": "Efficient join processing plays an important role in big data analysis. In this work, we focus on generic theta joins in a massively parallel environment, such as MapReduce and Spark. Theta joins are notoriously slow due to their inherent quadratic complexity, even when their selectivity is low, e.g., 1%. The main performance bottleneck differs between cases, and is due to any of the following factors or their combination: amount of data being shuffled, memory load on reducers, or computation load on reducers. We propose an ensemble-based partitioning approach that tackles all three aspects. In this way, we can save communication cost, we better respect the memory and computation limitations of reducers and overall, we reduce the total execution time. The key idea behind our partitioning is to cluster join key values following two techniques, namely matrix re-arrangement and agglomerative clustering \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Detecting Temporal Anomalies in Business Processes Using Distance-Based Methods",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-61527-7_40",
+            "Abstract": "Outlier detection in process mining refers to either infrequent behavior in relation to the underlying business process models or to anomalous latencies of task execution (temporal anomalies). In this work, we focus on the latter form of anomalies and we propose distance-based methods. Compared to solutions relying on probability distribution analysis and based on the experimental evaluation presented, our proposal is shown to be capable of covering both trace and event outliers, and being more efficient and effective. More specifically, running times of our technique are lower by up to an order of magnitude, while we achieve significantly higher precision and recall.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:5ugPr518TE4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Event-Based Predictive Maintenance on Top of Sensor Data in a Real Industry 4.0 Case Study.",
+            "Publication year": 2019,
+            "Publication url": "https://datalab-old.csd.auth.gr/wp-content/uploads/publications/NKTGVC20.pdf",
+            "Abstract": "We deal with a real predictive maintenance case study encountered in modern Industry 4.0 settings: based on logs of past failures, we train a model to predict critical failures of equipment without any other domain expert knowledge well in advance. We propose a novel methodology that combines and extends the state-of-the-art in eventbased predictions with advanced time-series analytics. This renders our technique applicable directly onto the sensor data, as it is produced in a modern factory setting. Further, we show that employing unsupervised learning techniques, such as continuous outlier monitoring, is a competitive approach. Although our techniques are developed and tested in a specific case study, they can be transferred to arbitrary settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Decentralized execution of linear workflows over web services",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X10001433",
+            "Abstract": "The development of workflow management systems (WfMSs) for the effective and efficient management of workflows in wide-area infrastructures has received a lot of attention in recent years. Existing WfMSs provide tools that simplify the workflow composition and enactment actions, while they support the execution of complex tasks on remote computational resources usually through calls to web services (WSs). Nowadays, an increasing number of WfMSs employ pipelining during the workflow execution. In this work, we focus on improving the performance of long-running workflows consisting of multiple pipelined calls to remote WSs when the execution takes place in a totally decentralized manner. The novelty of our algorithm lies in the fact that it considers the network heterogeneity, and although the optimization problem becomes more complex, it is capable of finding an optimal solution in a short time. Our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Practical algorithms for execution engine selection in data flows",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X14002453",
+            "Abstract": "Data-intensive flows are increasingly encountered in various settings, including business intelligence and scientific scenarios. At the same time, flow technology is evolving. Instead of resorting to monolithic solutions, current approaches tend to employ multiple execution engines, such as Hadoop clusters, traditional DBMSs, and stand-alone tools. We target the problem of allocating flow activities to specific heterogeneous and interdependent execution engines while minimizing the flow execution cost. To date, the state-of-the-art is limited to simple heuristics. Although the problem is intractable, we propose practical anytime solutions that are capable of outperforming those simple heuristics and yielding allocation plans in seconds even when optimizing large flows on ordinary machines. Moreover, we prove the NP-hardness of the problem in the generic case and we propose an exact polynomial solution for a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Efficient and flexible algorithms for monitoring distance-based outliers over data streams",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306437915001349",
+            "Abstract": "Anomaly detection is considered an important data mining task, aiming at the discovery of elements (known as outliers) that show significant diversion from the expected case. More specifically, given a set of objects the problem is to return the suspicious objects that deviate significantly from the typical behavior. As in the case of clustering, the application of different criteria leads to different definitions for an outlier. In this work, we focus on distance-based outliers: an object x is an outlier if there are less than k objects lying at distance at most R from x. The problem offers significant challenges when a stream-based environment is considered, where data arrive continuously and outliers must be detected on-the-fly. There are a few research works studying the problem of continuous outlier detection. However, none of these proposals meets the requirements of modern stream-based applications for the following \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Experience on performance evaluation with OGSA-DQP",
+            "Publication year": 2005,
+            "Publication url": "http://delab.csd.auth.gr/~gounaris/dqp-ahm2005.pdf",
+            "Abstract": "OGSA-DQP is an open source service-based Distributed Query Processor; as such, it supports the evaluation of queries over collections of potentially remote data access and analysis services. As it operates over several layers of service-oriented infrastructure, one particular need (both among the developer team and the relevant community) has been to investigate the impact of the infrastructure layers, understand performance issues, identify bottlenecks and improve the response times of queries where possible. This paper conveys experiences gained in doing so, by describing the experiments carried out and presenting the results obtained.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive query processing and the grid: Opportunities and challenges",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1333525/",
+            "Abstract": "Grid technologies have been developed in response to an increase in demand for computing applications designed to yield the benefits from collaboration, data sharing and sophisticated interaction of autonomous and geographically dispersed resources. Distributed query processing (DQP) is an appealing solution for expressing and efficiently evaluating requests across grid resources. In this paper: (i) we identify parts of the grid infrastructure that facilitate, and open new directions for, query processing over grid-enabled heterogeneous and autonomous databases, stressing the need for adaptive query processing (AQP); (ii) we discuss some basic challenges arising from the new opportunities and outline the unsuitability for use in a grid setting and narrow specialisation of existing proposals for AQP; and (iii) we suggest a generic adaptivity framework as a promising way forward.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "PROUD: parallel outlier detection for streams",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3318464.3384688",
+            "Abstract": "We introduce PROUD, standing for PaRallel OUtlier Detection for streams, which is an extensible engine for continuous multi-parameter parallel distance-based outlier (or anomaly) detection tailored to big data streams. PROUD is built on top of Flink. It defines a simple API for data ingestion. It supports a variety of parallel techniques, including novel ones, for continuous outlier detection that can be easily configured. In addition, it graphically reports metrics of interest and stores main results into a permanent store to enable future analysis. It can be easily extended to support additional techniques. Finally, it is publicly provided in open-source.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Asymptotically Space-Optimal Storage Model for Historical Queries on Graphs",
+            "Publication year": 0,
+            "Publication url": "https://eclass.upatras.gr/modules/document/file.php/CEID1175/Pool-of%20Research-Papers%5B1%5D/histgraph-DAPD.pdf",
+            "Abstract": "Most modern networks are perpetually evolving and can be modeled by graph data structures. By collecting and indexing the state of a graph at various time instances we are able to perform queries on its entire history and thus gain insight into its fundamental features and attributes. This calls for advanced solutions for graph history storing and indexing that are capable of supporting application queries efficiently while coping with the aggravated space requirements. To this end, we advocate a purely vertex-centric approach and we propose a storage model that is more space efficient than any other proposal to date, and, moreover, is asymptotically space-optimal. We also describe its basic operations and applications. Furthermore, we implement and incorporate our technique in the G\u2217 parallel graph processing system, we conduct thorough experimental evaluation and we show that we can yield improvements up to an order of magnitude.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A bi-objective cost model for optimizing database queries in a multi-cloud environment",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2352664515000036",
+            "Abstract": "Cost models are broadly used in query processing to drive the query optimization process, accurately predict the query execution time, schedule database query tasks, apply admission control and derive resource requirements to name a few applications. The main role of cost models is to estimate the time needed to run the query on a specific machine. In a multi-cloud environment, cost models should be easily calibrated for a wide range of different physical machines, and time estimates need to be complemented with monetary cost information, since both the economic cost and the performance are of primary importance. This work aims to serve as the first proposal for a bi-objective query cost model suitable for queries executed over resources provided by potentially multiple cloud providers. We leverage existing calibrating modeling techniques for time estimates and we couple such estimates with monetary cost \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:RGFaLdJalmkC",
+            "Publisher": "No longer published by Elsevier"
+        },
+        {
+            "Title": "\u0391\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c2 \u03ba\u03b1\u03b9 \u039a\u03cd\u03b2\u03bf\u03b9 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/281",
+            "Abstract": "\u03a4\u03bf \u03ad\u03bd\u03b1\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03bc\u03af\u03b1 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03c3\u03c4\u03bf\u03c5\u03c2 OLAP cubes. \u03a3\u03c4\u03bf \u03ba\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03bf \u03c4\u03c1\u03cc\u03c0\u03bf\u03c2 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2 \u03b5\u03bd\u03cc\u03c2 cube. \u03a0\u03b9\u03bf \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b1, \u03b5\u03b9\u03c3\u03ac\u03b3\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03bd\u03ad\u03bf project \u03bc\u03af\u03b1 \u0392\u03ac\u03c3\u03b7 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7 \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd\u03bc\u03b5 \u03c4\u03bf\u03bd cube \u03bc\u03b5 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03c5\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u0392\u03ac\u03c3\u03b7\u03c2 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd. \u03a3\u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03b2\u03bb\u03ad\u03c0\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03ad\u03bd\u03b1 grid, \u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b1 dimensions \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03b5\u03b9.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:u_35RYKgDlwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exact set similarity joins for large datasets in the GPGPU paradigm",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3329785.3329919",
+            "Abstract": "We investigate the problem of exact set similarity joins using a co-process CPU-GPU scheme. We focus on large instances of the problem, ie, using datasets of> 1M entries, which may take hours to complete if not approached with care, due to the inherent quadratic complexity of the problem. We introduce a novel CPU-GPU co-process scheme, which performs initial filtering and indexing on the CPU and delegates final verification to the GPU. Further, we show that this scheme improves upon the state-of-the-art in both the CPU and GPU standalone solutions in several cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Queries over web services",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-17551-0_6",
+            "Abstract": "Nowadays, technologies such as grid and cloud computing infrastructures and service-oriented architectures have become adequately mature and have been adopted by a large number of enterprizes and organizations [2,19,36]. A Web Service (WS) is a software system designed to support interoperable machine-to-machine interaction over a network and is implemented using open standards and protocols. WSs became popular data management entities; some of their benefits are interoperability and reuseability.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Analysis of key flavors of event-driven predictive maintenance using logs of phenomena described by Weibull distributions",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2101.07033",
+            "Abstract": "This work explores two approaches to event-driven predictive maintenance in Industry 4.0 that cast the problem at hand as a classification or a regression one, respectively, using as a starting point two state-of-the-art solutions. For each of the two approaches, we examine different data preprocessing techniques, different prediction algorithms and the impact of ensemble and sampling methods. Through systematic experiments regarding the aspectsmentioned above,we aimto understand the strengths of the alternatives, and more importantly, shed light on how to navigate through the vast number of such alternatives in an informed manner. Our work constitutes a key step towards understanding the true potential of this type of data-driven predictive maintenance as of to date, and assist practitioners in focusing on the aspects that have the greatest impact.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data Base Management Systems (DBMSs): Meeting the requirements of the EU data protection legislation",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0268401203000239",
+            "Abstract": "As the size of the databases containing personal data is expanding very fast worldwide, the mass collection and processing of personal data has raised a lot of concerns about the manner in which the personal data of an individual are processed. In an effort to address privacy concerns, the European Parliament adopted the Data Protection Directive, which enforces organisations to take steps to ensure their compliance. Current database technology fails to allow organisations to comply with the requirements of the new data protection legislation. In this paper, a complete set of the DBMS operability requirements is presented, in order to support the EU Directive. These requirements affect the database facilities to identify individuals and for audit trail, the security and processing mechanisms of the DBMSs, and the kind of data that needs to be stored. An implementation model is also proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Elton: a cloud resource scaling-out manager for nosql databases",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8509417/",
+            "Abstract": "We present the Elton tool, a publicly available cloud resource elasticity management system tailored to NoSQL databases. Elton is integrated in the Ganetimgr web platform, and offers an easy to use web interface, through which monitoring and horizontal scaling of NoSQL databases can be performed and what-if analysis queries are enabled. Elton uses Markov Decision Processes (MDPs) as the underlying modeling framework, and encapsulates state-of-the-art horizontal scaling policies that offer different trade-offs between performance and monetary deployment cost. Its main novelty is that it employs probabilistic model checking to allow for both efficient elasticity decisions and analysis of scaling actions and serves as a case study about the benefits of model checking in online decision making and analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Data integration and query reformulation in service-based grids",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-387-47658-2_1",
+            "Abstract": "This paper describes the XMAP data integration framework and query reformulation algorithm, provides insights into the performance of the algorithm, and about its use in implementing query processing services. Here we propose an approach for data integration-enabled distributed query processing on Grids by embedding the XMAP reformulation algorithm within the OGSA-DQP distributed query processor. To this aim we exploit the OGSA-DQP XML representation of relational schemas by applying the XMAP algorithm on them. Moreover, we introduce a technique to rewrite an XPath query into an equivalent OQL one. Finally, the paper presents a roadmap for the integration system implementation aiming at constructing an extended set of services that will allow users to submit queries over a single database and receive the results from multiple databases that are semantically correlated with the former one.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "A hybrid ontology and visual-based retrieval model for cultural heritage multimedia collections",
+            "Publication year": 2008,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJMSO.2008.023566",
+            "Abstract": "This paper introduces a hybrid multimedia retrieval model that is capable of retrieving cultural heritage multimedia content, based on their semantic annotation with the help of an ontology and on low level visual features with a view to finding similar content. The main novelty is the way in which these techniques cooperate transparently during the evaluation of a single query in a hybrid fashion, making recommendations to the user. A search engine has been developed implementing this model, which is capable of searching through cultural heritage multimedia collections, and indicative examples are discussed, along with insights into its performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Evaluation of Heuristics for Product Data Models",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-66498-5_26",
+            "Abstract": "Product Data Model (PDM) is an example of a data-centric approach to modelling information-intensive business processes, which offers flexibility and facilitates process optimization. It is declarative, and as such, there may be multiple workflow designs that can produce the end product. To this end, several heuristics have been proposed. The contributions of this work are twofold:(i) we propose new heuristics that capitalize on established techniques for optimizing data-intensive workflows; and (ii) we extensively evaluate the existing solutions. Our results shed light on the merits of each heuristic and show that our proposal can yield significant benefits in certain cases. We provide our implementation as an open-source product.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Optimization of Data-intensive Flows: Is it Needed? Is it Solved?",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2666158.2666174",
+            "Abstract": "Modern data analysis is increasingly employing data-intensive flows for processing very large volumes of data. As the data flows become more and more complex and operate in a highly dynamic environment, we argue that we need to resort to automated cost-based optimization solutions rather than relying on efficient designs by human experts. We further demonstrate that the current state-of-the-art in flow optimizations needs to be extended and we propose a promising direction for optimizing flows at the logical level, and more specifically, for deciding the sequence of flow tasks.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Ogsa-dqp: A service-based distributed query processor for the grid",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/30611970/708.pdf",
+            "Abstract": "The Grid is an emerging infrastructure that supports the discovery, access and use of distributed computational resources. The emergence of a serviceoriented view of hardware and software resources on the grid raises the question as to how database management systems and technologies can best be deployed or adapted for use in such an environment.We argue that distributed query processing (DQP) can provide effective declarative support for service orchestration, and we describe an approach to service-based DQP (OGSA-DQP) on the Grid that supports queries over Grid Data Services (GDS) s provided by OGSA-DAI project, and over other services available on the Grid, thereby combining data access with analysis; uses the facilities of the OGSA to dynamically obtain the resources necessary for efficient evaluation of a distributed query; adapts techniques from parallel databases to provide implicit parallelism for complex data-intensive requests; and uses the emerging standard for GDSs to provide consistent access to database metadata and to interact with databases on the Grid.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multi-objective optimization of data flows in a multi-cloud environment",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2486767.2486769",
+            "Abstract": "As cloud-based solutions have become one of the main choices for intensive data analysis both for business decision making and scientific purposes, users face the problem of choosing among different cloud providers. In this work, we deal with data analysis flows that can be split in stages, and each stage can run on multiple cloud infrastructures. For each stage, a cloud provider may make a bid in the form of a continuous function in the time delay-monetary cost domain. The goal is to compute the optimal combination of bids according to how much a user is prepared to pay for the total time delay to execute the analysis task. The contributions of this work are (i) to provide a solution that can be computed in pseudo-polynomial time and with bounded relative error for the generic case;(ii) to provide exact polynomial solutions for specific cases; and (iii) to experimentally evaluate our proposal against other techniques \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An empirical evaluation of exact set similarity join techniques using GPUs",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S030643791930537X",
+            "Abstract": "Exact set similarity join is a notoriously expensive operation, for which several solutions have been proposed. Recently, there have been studies that present a comparative analysis using MapReduce or a non-parallel setting. Our contribution is that we complement these works through conducting a thorough evaluation of the state-of-the-art GPU-enabled techniques. These techniques are highly diverse in their key features and our experiments manage to reveal the key strengths of each one. As we explain, in real-life applications there is no dominant solution. Depending on specific dataset and query characteristics, each solution, even not using the GPU at all, has its own sweet spot. All our work is repeatable and extensible.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:eflP2zaiRacC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Self-monitoring query execution for adaptive query processing",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169023X04000813",
+            "Abstract": "Adaptive query processing generally involves a feedback loop comprising monitoring, assessment and response. So far, individual proposals have tended to group together an approach to monitoring, a means of assessment, and a form of response. However, there are many benefits in decoupling these three phases, and in constructing generic frameworks for each of them. To this end, this paper discusses monitoring of query plan execution as a topic in its own right, and advocates an approach based on self-monitoring algebraic operators. This approach is shown to be generic and independent of any specific adaptation mechanism, easily implementable and portable, sufficiently comprehensive, appropriate for heterogeneous distributed environments, and more importantly, capable of driving on-the-fly adaptations of query plan execution. An experimental evaluation of the overheads and of the quality of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Brief announcement: on the quest of optimal service ordering in decentralized queries",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1835698.1835763",
+            "Abstract": "This paper deals with pipelined queries over services. The execution plan of such queries defines an order in which the services are called. We present the theoretical underpinnings of a newly proposed algorithm that produces the optimal linear ordering corresponding to a query being executed in a decentralized manner, ie, when the services communicate directly with each other. The optimality is defined in terms of query response time, which is determined by the bottleneck service in the plan. The properties discussed in this work allow a branch-and-bound approach to be very efficient.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimal service ordering in decentralized queries over web services",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/content/67716",
+            "Abstract": "The problem of ordering expensive predicates (or filter ordering) has recently received renewed attention due to emerging computing paradigms such as processing engines for queries over remote Web Services, and cloud and grid computing. The optimization of pipelined plans over services differs from traditional optimization significantly, since execution takes place in parallel and thus the query response time is determined by the slowest node in the plan, which is called the bottleneck node. Although polynomial algorithms have been proposed for several variants of optimization problems in this setting, the fact that communication links are typically heterogeneous in wide-area environments has been largely overlooked. The authors propose an attempt to optimize linear orderings of services when the services communicate directly with each other and the communication links are heterogeneous. The authors \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Optimal task ordering in chain data flows: exploring the practicality of non-scalable solutions",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-64283-3_2",
+            "Abstract": "Modern data flows generalize traditional Extract-Transform-Load and data integration workflows in order to enable end-to-end data processing and analytics. The more complex they become, the more pressing the need for automated optimization solutions. Optimizing data flows comes in several forms, among which, optimal task ordering is one of the most challenging ones. We take a practical approach; motivated by real-world examples, such as those captured by the TPC-DI benchmark, we argue that exhaustive non-scalable solutions are indeed a valid choice for chain flows. Our contribution is that we thoroughly discuss the three main directions for exhaustive enumeration of task ordering alternatives, namely backtracking, dynamic programming and topological sorting, and we provide concrete evidence up to which size and level of flexibility of chain flows they can be applied.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "\u0392\u03ac\u03c3\u03b5\u03b9\u03c2 \u0391\u03c0\u03bf\u03b8\u03ae\u03ba\u03b5\u03c2 \u03ba\u03b1\u03b9 \u0395\u03be\u03cc\u03c1\u03c5\u03be\u03b7 \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd: \u03a3\u03c4\u03bf \u0395\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03bc\u03b5 \u03c4\u03bf\u03bd SQL Server",
+            "Publication year": 2015,
+            "Publication url": "https://bia.unibz.it/view/delivery/39UBZ_INST/12235289520001241/13251384420001241",
+            "Abstract": "\u0391\u03c5\u03c4\u03cc \u03c4\u03bf \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03ad\u03bd\u03b1\u03bd \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03cc \u03bf\u03b4\u03b7\u03b3\u03cc \u03c3\u03b5 \u03b8\u03ad\u03bc\u03b1\u03c4\u03b1 \u03b2\u03ac\u03c3\u03b5\u03c9\u03bd, \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b5\u03be\u03cc\u03c1\u03c5\u03be\u03b7\u03c2 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03bc\u03b5 \u03c4\u03bf\u03bd MS SQL Server. To ebook \u03b1\u03be\u03b9\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c4\u03c9\u03bd tablets \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5, \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03bf\u03bd \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ad\u03c2 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b1 \u03c3\u03c5\u03bc\u03b2\u03b1\u03c4\u03b9\u03ba\u03ac \u03b2\u03b9\u03b2\u03bb\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c0\u03c1\u03cc\u03c4\u03b9\u03bd\u03bf\u03c2 \u03c4\u03c1\u03cc\u03c0\u03bf \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03af\u03b1\u03c2 \u03c3\u03c4\u03bf \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:Mojj43d5GZwC",
+            "Publisher": "\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ce\u03bd \u0391\u03ba\u03b1\u03b4\u03b7\u03bc\u03b1\u03ca\u03ba\u03ce\u03bd \u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03b7\u03ba\u03ce\u03bd"
+        },
+        {
+            "Title": "A Hybrid Ontology and Content-Based Search Engine For Multimedia Retrieval.",
+            "Publication year": 2006,
+            "Publication url": "https://mklab.iti.gr/files/A%20Hybrid%20Ontology%20and%20Content-Based%20Search%20Engine%20For%20Multimedia%20Retrieval.pdf",
+            "Abstract": "Huge amounts of digital visual content are currently available, thus placing a demand for advanced multimedia search engines. The contribution of this paper is the presentation of a search engine that is capable of retrieving images based on their keyword annotation with the help of an ontology, or based on the image content to find similar images, or on both these strategies. To this end, the search engine is composed of two different subsystems, a low-level image feature analysis and retrieval system and a high-level ontology-based metadata structure. The novel feature is that the two subsystems can co-operate during the evaluation of a single query in a hybrid fashion. The system has been evaluated and experimental results on real cultural heritage collections are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cloud elasticity using probabilistic model checking",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1405.4699",
+            "Abstract": "Cloud computing has become the leading paradigm for deploying large-scale infrastructures and running big data applications, due to its capacity of achieving economies of scale. In this work, we focus on one of the most prominent advantages of cloud computing, namely the on-demand resource provisioning, which is commonly referred to as elasticity. Although a lot of effort has been invested in developing systems and mechanisms that enable elasticity, the elasticity decision policies tend to be designed without guaranteeing or quantifying the quality of their operation. This work aims to make the development of elasticity policies more formalized and dependable. We make two distinct contributions. First, we propose an extensible approach to enforcing elasticity through the dynamic instantiation and online quantitative verification of Markov Decision Processes (MDP) using probabilistic model checking. Second, we propose concrete elasticity models and related elasticity policies. We evaluate our decision policies using both real and synthetic datasets in clusters of NoSQL databases. According to the experimental results, our approach improves upon the state-of-the-art in significantly increasing user-defined utility values and decreasing user-defined threshold violations.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive Distributed Partitioning in Apache Flink",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9094131/",
+            "Abstract": "Dynamically adapting the workload of each worker in Flink is a challenging issue. In this work, we deal with a special case, where the data are conceptually split in contiguous overlapping regions. This scenario is encountered in several streaming applications, such as those employing nearest neighbor queries. We propose (i) an architecture for allowing such adaptations in Flink and (ii) specific data repartitioning techniques. We apply our proposal to a specific use case, namely continuous distancebased outlier detection. Our experimental evaluation provides insights into the efficiency and effectiveness of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mining uncertain graphs: An overview",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-57045-7_6",
+            "Abstract": "Graphs play an important role in modern world, due to their widespread use for modeling, representing and organizing linked data. Taking into consideration that most of the \u201ckiller\u201d applications require a graph-based representation (e.g., the Web, social network management, protein-protein interaction networks), efficient query processing and analysis techniques are required, not only because these graphs are massive but also because the operations that must be supported are complex, requiring significant computational resources. In many cases, each graph edge e is annotated by a probability value p(e), expressing its existential uncertainty. This means that with probability p(e) the edge will be present in the graph and with probability  the edge will be absent. This gives rise to the concept of probabilistic graphs (also known as uncertain graphs). Formally, a probabilistic graph  is a triplet (V, E, p \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "\u0391\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9 \u03a4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7\u03c2 \u03a3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03c9\u03bd",
+            "Publication year": 2015,
+            "Publication url": "https://repository.kallipos.gr/handle/11419/4013",
+            "Abstract": "\u03a4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae. \u0393\u03c1\u03ae\u03b3\u03bf\u03c1\u03b7 \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03c3\u03c4\u03b7 \u03bc\u03ad\u03c3\u03b7 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7. \u0395\u03cd\u03c1\u03b5\u03c3\u03b7 \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u03b4\u03b9\u03ac\u03c4\u03b1\u03be\u03b7\u03c2 \u03c3\u03b5 \u03bc\u03ad\u03c3\u03bf \u03b3\u03c1\u03b1\u03bc\u03bc\u03b9\u03ba\u03cc \u03c7\u03c1\u03cc\u03bd\u03bf \u03cc\u03c0\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b9\u03ba\u03cc \u03c7\u03c1\u03cc\u03bd\u03bf \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b7\u03c2 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7\u03c2. \u03a4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03c3\u03c5\u03b3\u03c7\u03ce\u03bd\u03b5\u03c5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03ac\u03c4\u03c9 \u03c6\u03c1\u03ac\u03b3\u03bc\u03b1 \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c3\u03c5\u03b3\u03ba\u03c1\u03af\u03c3\u03b5\u03b9\u03c2. \u0391\u03bb\u03b3\u03cc\u03c1\u03b9\u03b8\u03bc\u03bf\u03b9 \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd \u03bc\u03cc\u03bd\u03bf \u03c3\u03c5\u03b3\u03ba\u03c1\u03af\u03c3\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03ba\u03ac\u03c0\u03bf\u03b9\u03b5\u03c2 \u03c5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03cc\u03c0\u03c9\u03c2, \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03bc\u03ad\u03c4\u03c1\u03b7\u03bc\u03b1, \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b7 \u03c1\u03af\u03b6\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03ba\u03ac\u03b4\u03bf\u03c5\u03c2.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On optimizing workflows using query processing techniques",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-31235-9_43",
+            "Abstract": "Workflow management systems stand to significantly benefit from database techniques, although current workflow systems have not exploited well-established data management solutions to their full potential. In this paper, we focus on optimization issues and we discuss how techniques inspired by database query plan compilation can enhance the quality of workflows in terms of response time.",
+            "Abstract entirety": 1,
+            "Author pub id": "JykpJccAAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The many faces of data-centric workflow optimization: a survey",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s41060-018-0107-0",
+            "Abstract": "Workflow technology is rapidly evolving and, rather than being limited to modeling the control flow in business processes, is becoming a key mechanism to perform advanced data management, such as big data analytics. This survey focuses on data-centric workflows (or workflows for data analytics or data flows), where a key aspect is data passing through and getting manipulated by a sequence of steps. The large volume and variety of data, the complexity of operations performed, and the long time such workflows take to compute give rise to the need for optimization. In general, data-centric workflow optimization is a technology in evolution. This survey focuses on techniques applicable to workflows comprising arbitrary types of data manipulation steps and semantic inter-dependencies between such steps. Further, it serves a twofold purpose: firstly, to present the main dimensions of the relevant \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Modeling data flow execution in a parallel environment",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-64283-3_14",
+            "Abstract": "Although the modern data flows are executed in parallel and distributed environments, e.g. on a multi-core machine or on the cloud, current cost models, e.g., those considered by state-of-the-art data flow optimization techniques, do not accurately reflect the response time of real data flow execution in these execution environments. This is mainly due to the fact that the impact of parallelism, and more specifically, the impact of concurrent task execution on the running time is not adequately modeled. In this work, we propose a cost modeling solution that aims to accurately reflect the response time of a data flow that is executed in parallel. We focus on the single multi-core machine environment provided by modern business intelligence tools, such as Pentaho Kettle, but our approach can be extended to massively parallel and distributed settings. The distinctive features of our proposal is that we model both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Resource aware query processing on the grid.",
+            "Publication year": 2005,
+            "Publication url": "https://search.proquest.com/openview/6c44859927bf4b72eba163d591382e76/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+            "Abstract": "The Grid provides facilities that support the coordinated use of diverse, autonomous resources, and consequently, provides new opportunities for wide-area computations. Such computations can be effectively expressed and evaluated as database queries, when they involve integration of data from remote databases and calls to analysis tools. In this way, they can benefit from implicit, transparent to the user parallelisation across multiple computational resources that the Grid makes available, and from well-established optimisation techniques. However, Grid resources, as well as being heterogeneous, may also exhibit unpredictable, volatile behaviour. Thus, query processing on the Grid needs (i) to be capable of taking account of the resource heterogeneity; and (ii) to be adaptive, in order to cope with evolving resource characteristics, such as machine load and availability. The work presented in this thesis \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A vision for next generation query processors and an associated research agenda",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-03715-3_1",
+            "Abstract": "Query processing is one of the most important mechanisms for data management, and there exist mature techniques for effective query optimization and efficient query execution. The vast majority of these techniques assume workloads of rather small transactional tasks with strong requirements for ACID properties. However, the emergence of new computing paradigms, such as grid and cloud computing, the increasingly large volumes of data commonly processed, the need to support data driven research, intensive data analysis and new scenarios, such as processing data streams on the fly or querying web services, the fact that the metadata fed to optimizers are often missing at compile time, and the growing interest in novel optimization criteria, such as monetary cost or energy consumption, create a unique set of new requirements for query processing systems. These requirements cannot be met by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Cost optimization of data flows based on task re-ordering",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-55696-2_4",
+            "Abstract": "Analyzing big data with the help of automated data flows attracts a lot of attention because of the growing need for end-to-end processing of this data. Modern data flows may consist of a high number of tasks and it is difficult for flow designers to define an efficient execution order of the tasks manually given that, typically, there is significant freedom in the valid positioning for some of the tasks. Several automated execution plan enumeration techniques have been proposed. These solutions can be broadly classified into three categories, each having significant limitations: (i) the optimizations are based on rewrite rules similar to those used in databases, such as filter and projection push-down, but these rules cover only the flow tasks that correspond to extended relational algebra operators. To cover arbitrary tasks, the solutions (ii) either rely on simple heuristics, or (iii) they exhaustively check all orderings \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "JykpJccAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        }
+    ]
+}]

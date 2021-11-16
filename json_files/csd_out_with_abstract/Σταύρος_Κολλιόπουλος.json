@@ -1,0 +1,388 @@
+[{
+    "name": "\u03a3\u03c4\u03b1\u03cd\u03c1\u03bf\u03c2 \u039a\u03bf\u03bb\u03bb\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+    "romanize name": "Stavros Kolliopoulos",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uoa",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 18495,
+    "Scholar name": "Stavros Kolliopoulos",
+    "Scholar id": "1jZJgWQAAAAJ",
+    "Affiliation": "National and Kapodistrian University of Athens",
+    "Citedby": 1781,
+    "Interests": [
+        "Design and Analysis of Algorithms",
+        "Combinatorial Optimization"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=1jZJgWQAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Planar disjoint-paths completion",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-015-0046-2",
+            "Abstract": "We introduce Planar Disjoint Paths Completion, a completion counterpart of the Disjoint Paths problem, and study its parameterized complexity. The problem can be stated as follows: given a, not necessarily connected, plane graph G,  k pairs of terminals, and a face F of G,  find a minimum-size set of edges, if one exists, to be added inside F so that the embedding remains planar and the pairs become connected by k disjoint paths in the augmented network. Our results are twofold: first, we give an upper bound on the number of necessary additional edges when a solution exists. This bound is a function of k, independent of the size of G. Second, we show that the problem is fixed-parameter tractable, in particular, it can be solved in time .",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "On minimizing the total weighted tardiness on a single machine",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24749-4_16",
+            "Abstract": "Given a single machine and a set of jobs with due dates, the classical NP-hard problem of scheduling to minimize total tardiness is a well-understood one. Lawler gave an FPTAS for it some twenty years ago. If the jobs have positive weights the problem of minimizing total weighted tardiness seems to be considerably more intricate. To our knowledge there are no approximability results for it. In this paper, we initiate the study of approximation algorithms for the problem. We examine first the weighted problem with a fixed number of due dates and we design a pseudopolynomial algorithm for it. We show how to transform the pseudopolynomial algorithm to an FPTAS for the case where the weights are polynomially bounded. For the general case with an arbitrary number of due dates, we provide a quasipolynomial randomized algorithm which produces a schedule whose expected value has an additive error \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Minimum-cost single-source 2-splittable flow",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020019004003679",
+            "Abstract": "In the single-source unsplittable flow problem, commodities must be routed simultaneously from a common source vertex to certain sinks in a given directed graph with edge capacities and costs. The demand of each commodity must be routed along a single path so that the total flow through any edge is at most its capacity. Moreover the cost of the solution should not exceed a given budget. An important open question is whether a simultaneous (2, 1)-approximation can be achieved for minimizing congestion and cost, ie, the budget constraint should not be violated. In this note we show that this is possible for the case of 2-splittable flows, ie, flows where the demand of each commodity is routed along at most two paths. Our result holds under the \u201cno-bottleneck\u201d assumption, ie, the maximum demand does not exceed the minimum capacity.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Integrality gaps for strengthened linear relaxations of capacitated facility location",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s10107-015-0916-z",
+            "Abstract": "Metric uncapacitated facility location is a well-studied problem for which linear programming methods have been used with great success in deriving approximation algorithms. Capacitated facility location (Cfl) is a generalization for which there are local-search-based constant-factor approximations, while there is no known compact relaxation with constant integrality gap. This paper produces, through a host of impossibility results, the first comprehensive investigation of the effectiveness of mathematical programming for metric capacitated facility location, with emphasis on lift-and-project methods. We show that the relaxations obtained from the natural LP at  levels of the semidefinite Lov\u00e1sz\u2013Schrijver hierarchy for mixed programs, and at  levels of the Sherali\u2013Adams hierarchy, have an integrality gap of , where  is the number of facilities, partially answering an open question of An et al. (Centrality of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Exponential lower bounds on the size of approximate formulations in the natural encoding for capacitated facility location",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1312.1819",
+            "Abstract": "The metric capacitated facility location is a well-studied problem for which, while constant factor approximations are known, no efficient relaxation with constant integrality gap is known. The question whether there is such a relaxation is among the most important open problems of approximation algorithms \\cite{ShmoysWbook}. In this paper we show that, if one is restricted to linear programs that use the natural encoding for facility location, at least an exponential number of constraints is needed to achieve a constant gap. Our proof does not assume any special property of the relaxation such as locality or symmetry.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Irrelevant vertices for the planar disjoint paths problem",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0095895616300879",
+            "Abstract": "The Disjoint Paths Problem asks, given a graph G and a set of pairs of terminals (s 1, t 1),\u2026,(s k, t k), whether there is a collection of k pairwise vertex-disjoint paths linking s i and t i, for i= 1,\u2026, k. In their f (k)\u22c5 n 3 algorithm for this problem, Robertson and Seymour introduced the irrelevant vertex technique according to which in every instance of treewidth greater than g (k) there is an \u201cirrelevant\u201d vertex whose removal creates an equivalent instance of the problem. This fact is based on the celebrated Unique Linkage Theorem, whose\u2013very technical\u2013proof gives a function g (k) that is responsible for an immense parameter dependence in the running time of the algorithm. In this paper we give a new and self-contained proof of this result that strongly exploits the combinatorial properties of planar graphs and achieves g (k)= O (k 3/2\u22c5 2 k). Our bound is radically better than the bounds known for general graphs.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:mB3voiENLucC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Tight bounds for linkages in planar graphs",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-22006-7_10",
+            "Abstract": "The Disjoint-Paths Problem asks, given a graph G and a set of pairs of terminals (s 1,t 1),\u2026,(s  k ,t  k ), whether there is a collection of k pairwise vertex-disjoint paths linking s  i  and t  i , for i\u2009=\u20091,\u2026,k. In their f(k)\u00b7n 3 algorithm for this problem, Robertson and Seymour introduced the irrelevant vertex technique according to which in every instance of treewidth greater than g(k) there is an \u201cirrelevant\u201d vertex whose removal creates an equivalent instance of the problem. This fact is based on the celebrated Unique Linkage Theorem, whose \u2013 very technical \u2013 proof gives a function g(k) that is responsible for an immense parameter dependence in the running time of the algorithm. In this paper we prove this result for planar graphs achieving g(k)\u2009=\u20092 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An FPTAS for the minimum total weighted tardiness problem with a fixed number of distinct due dates",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2344422.2344430",
+            "Abstract": "Given a sequencing of jobs on a single machine, each one with a weight, processing time, and a due date, the tardiness of a job is the time needed for its completion beyond its due date. We present an FPTAS for the basic scheduling problem of minimizing the total weighted tardiness when the number of distinct due dates is fixed. Previously, an FPTAS was known only for the case where all jobs have a common due date.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Planar Disjoint Paths in Linear Time",
+            "Publication year": 2019,
+            "Publication url": "https://arxiv.org/abs/1907.05940",
+            "Abstract": "The Disjoint Paths problem asks whether a fixed number of pairs of terminals in a graph  can be linked by pairwise disjoint paths. In the context of this problem, Robertson and Seymour introduced the celebrated irrelevant vertex technique that has since become standard in graph algorithms. The technique consists of detecting a vertex that is irrelevant in the sense that its removal creates an equivalent instance of the problem. That way, one may solve the problem in  steps, as the detection of an irrelevant vertex takes  time and at most  vertices may need to be removed. In this paper we study the Planar Disjoint Paths problem where the input graph is planar. We introduce an extension of the irrelevant vertex technique where all the irrelevant vertices are removed simultaneously so that an instance of the Planar Disjoint Paths problem can be transformed in a linear number of steps to an equivalent one that has bounded treewidth. As a consequence, the Planar Disjoint Paths problem can be solved in linear time for every fixed number of terminals.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Selfish routing in the presence of side constraints",
+            "Publication year": 2003,
+            "Publication url": "https://www.researchgate.net/profile/George-Karakostas-2/publication/279174114_Selfish_routing_in_the_presence_of_side_constraints/links/558afe6108aee99ca9ca3baa/Selfish-routing-in-the-presence-of-side-constraints.pdf",
+            "Abstract": "The natural approach for describing network flow problems is to introduce side constraints that capture restrictions of a logical or technological nature, eg, capacity or budgetary constraints. We study the traffic equilibria arising from selfish routing of individual users in networks with side constraints. For the problem without side constraints the classic Wardrop principle suggests that in equilibrium for each origin-destination pair the latency on all the used routes is equal or less to the latency on all unused routes. In this paper we use a natural extension of the Wardrop principle [13] in order to obtain results on selfish routing with side constraints. The extended Wardrop principle suggests that in equilibrium flow is routed along paths of minimal latency according to a modified function that essentially incorporates penalty terms for the side constraints. This approach provides a basis for the systematic application of relevant optimization theory to selfish routing problems.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Nearly Linear-Time Approximation Scheme for the Euclidean k-Median Problem",
+            "Publication year": 2007,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S0097539702404055",
+            "Abstract": "This paper provides a randomized approximation scheme for the k-median problem when the input points lie in the d-dimensional Euclidean space. The worst-case running time is  which is nearly linear for any fixed  and d. Moreover, our method provides the first polynomial-time approximation scheme for and uncapacitated facility location instances in d-dimensional Euclidean space for any fixed  Our work extends techniques introduced originally by Arora for the Euclidean traveling salesman problem (TSP). To obtain the improvement we develop a structure theorem to describe hierarchical decomposition of solutions. The theorem is based on an adaptive decomposition scheme, which guesses at every level of the hierarchy the structure of the optimal solution and accordingly modifies the parameters of the decomposition. We believe that our methodology is of independent interest \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Approximating disjoint-path problems using packing integer programs",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1007/s10107-002-0370-6",
+            "Abstract": "In a packing integer program, we are given a matrix  and column vectors  with nonnegative entries. We seek a vector  of nonnegative integers, which maximizes  subject to  The edge and vertex-disjoint path problems together with their unsplittable flow generalization are NP-hard problems with a multitude of applications in areas such as routing, scheduling and bin packing. These two categories of problems are known to be conceptually related, but this connection has largely been ignored in terms of approximation algorithms. We explore the topic of approximating disjoint-path problems using polynomial-size packing integer programs. Motivated by the disjoint paths applications, we introduce the study of a class of packing integer programs, called column-restricted. We develop improved approximation algorithms for column-restricted programs, a result that we believe is of independent \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Partially-ordered knapsack and applications to scheduling",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45749-6_54",
+            "Abstract": "In the partially-ordered knapsack problem (POK) we are given a set N of items and a partial order \u227ap on N. Each item has a size and an associated weight. The objective is to pack a set N\u2019\u2286 N of maximum weight in a knapsack of bounded size. N\u2019 should be precedence-closed, i.e., be a valid prefix of \u227ap . POK is a natural generalization, for which very little is known, of the classical Knapsack problem. In this paper we advance the state-of-the-art for the problem through both positive and negative results. We give an FPTAS for the important case of a 2-dimensional partial order, a class of partial orders which is a substantial generalization of the series-parallel class, and we identify the first non-trivial special case for which a polynomial-time algorithm exists. We also characterize cases where the natural linear relaxation for POK is useful for approximation and we demonstrate its limitations. Our results have \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Implementing approximation algorithms for the single-source unsplittable flow problem",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24838-5_16",
+            "Abstract": "In the single-source unsplittable flow problem, commodities must be routed simultaneously from a common source vertex to certain sinks in a given graph with edge capacities. The demand of each commodity must be routed along a single path so that the total flow through any edge is at most its capacity. This problem was introduced by Kleinberg [12] and generalizes several NP-complete problems. A cost value per unit of flow may also be defined for every edge. In this paper, we implement the 2-approximation algorithm of Dinitz, Garg, and Goemans [6] for congestion, which is the best known, and the (3,1)-approximation algorithm of Skutella [19] for congestion and cost, which is the best known bicriteria approximation. We study experimentally the quality of approximation achieved by the algorithms and the effect of heuristics on their performance. We also compare these algorithms against the previous best \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Edge-Disjoint Paths and Unsplittable Flow.",
+            "Publication year": 2007,
+            "Publication url": "http://cgi.di.uoa.gr/~sgk/papers/ufp-survey-update.pdf",
+            "Abstract": "Finding disjoint paths in graphs is a problem that has attracted considerable attention from at least three perspectives: graph theory, VLSI design and network routing/flow. The corresponding literature is extensive. In this chapter we limit ourselves mostly to results on offline approximation algorithms for problems on general graphs as influenced from the network flow perspective. Surveys examining the underlying graph theory, combinatorial problems in VLSI, and disjoint paths on special graph classes can be found in [35, 36, 86, 88, 76, 83, 75, 51].An instance of disjoint paths consists of a (directed or undirected) graph G=(V, E) and a multiset T={(si, ti): si\u2208 V, ti\u2208 V, i= 1,..., k} of k source-sink pairs. Any source or sink is called a terminal. An element of T is also called a commodity. One seeks a set of edge-(or vertex-) disjoint paths P1, P2,..., Pk, where Pi is an si\u2212 ti path, i= 1,..., k. In the case of vertex-disjoint paths we are interested in paths that are internally disjoint, ie, a terminal may appear in more than one pair in T. We abbreviate the edge-disjoint paths problem by Edp. The notation introduced will be used throughout the chapter to refer to an input instance. We will also denote| V| by n and| E| by m for the corresponding graph. Based on whether G is directed or undirected and the edge-or vertex-disjointness condition one obtains 1",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Edge pricing of multicommodity networks for selfish users with elastic demands",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-008-9181-3",
+            "Abstract": "We examine how to induce selfish heterogeneous users in a multicommodity network to reach an equilibrium that minimizes the social cost. In the absence of centralized coordination, we use the classical method of imposing appropriate taxes (tolls) on the edges of the network. We significantly generalize previous work (Yang and Huang in Transp. Res. Part B 38:1\u201315, [2004]; Karakostas and Kolliopoulos in Proceedings of the 45th Annual IEEE Symposium on Foundations of Computer Science, pp. 268\u2013276, [2004]; Fleischer et al. in Proceedings of the 45th Annual IEEE Symposium on Foundations of Computer Science, pp. 277\u2013285, [2004]) by allowing user demands to be elastic. In this setting the demand of a user is not fixed a priori but it is a function of the routing cost experienced, a most natural assumption in traffic and data networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Tight bounds on the Lov\u00e1sz-Schrijver rank for approximate capacitated facility location",
+            "Publication year": 2013,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.5761&rep=rep1&type=pdf",
+            "Abstract": "In the Capacitated facility location (Cfl) problem we are given a set F of facilities and a set C of clients in a common metric space. Every facility has a hard capacity ui. Opening a facility i incurs a nonnegative cost fi, while assigning a client j to facility i incurs a nonnegative connection cost cij. The goal is to open a subset F\u2286 F of the facilities and assign each client to an open facility so that at most ui clients are assigned to facility i and the total cost is minimized. Cfl is approximable within a constant factor via local search but the natural LP relaxation has an unbounded integrality gap. It is an open question whether there is a relaxation-based approximation algorithm for Cfl or even if an LP with constant integrality gap exists. We present the first study of a comprehensive family of strengthened linear programs for this problem. We consider the hierarchy of polytopes resulting from repeated applications of the Lov\u00e1sz-Schrijver lift-and-project operator on the standard fractional polytope. We show that the LP relaxation for Cfl resulting in \u2126 (n) rounds, where n is the number of facilities in the instance, has an unbounded integrality gap. The Lov\u00e1sz-Schrijver procedure is known to yield an exact formulation for Cfl in at most n rounds.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Single-item lot-sizing with quantity discount and bounded inventory",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S016763772100153X",
+            "Abstract": "In this paper, an efficient O (n 2) algorithm is proposed to solve a special case of single-item lot-sizing problems (SILSP) in which both the production and holding costs are piecewise linear, there is an all-unit discount with one breakpoint for the production cost, and the inventory is bounded. The algorithm is based on a key structural property that may be of more general interest, that of a just-in-time ordering policy. Finally, we show that when the problem is extended to two items, it is NP-complete.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:BqipwSGYUEgC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Implementing approximation algorithms for the single-source unsplittable flow problem",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1064546.1180614",
+            "Abstract": "In the single-source unsplittable flow problem, commodities must be routed simultaneously from a common source vertex to certain sinks in a given graph with edge capacities. The demand of each commodity must be routed along a single path so that the total flow through any edge is at most, its capacity. This problem was introduced by Kleinberg [1996a] and generalizes several NP-complete problems. A cost value per unit of flow may also be defined for every edge. In this paper, we implement the 2-approximation algorithm of Dinitz et al. [1999] for congestion, which is the best known, and the (3, 1)-approximation algorithm of Skutella [2002] for congestion and cost, which is the best known bicriteria approximation. We experimentally study the quality of approximation achieved by the algorithms and the effect of heuristics on their performance. We also compare these algorithms against the previous best ones by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Approximation algorithms for scheduling problems with a modified total weighted tardiness objective",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167637706001337",
+            "Abstract": "We study the approximability of minimum total weighted tardiness with a modified objective which includes an additive constant. This ensures the existence of a positive lower bound for the minimum value. Moreover the new objective has a natural interpretation in just-in-time production systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Stackelberg strategies for selfish routing in general multicommodity networks",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s00453-007-9018-5",
+            "Abstract": " A natural generalization of the selfish routing setting arises when some of the users obey a central coordinating authority, while the rest act selfishly. Such behavior can be modeled by dividing the users into an \u03b1 fraction that are routed according to the central coordinator\u2019s routing strategy (Stackelberg strategy), and the remaining 1\u2212\u03b1 that determine their strategy selfishly, given the routing of the coordinated users. One seeks to quantify the resulting price of anarchy, i.e., the ratio of the cost of the worst traffic equilibrium to the system optimum, as a function of \u03b1. It is well-known that for \u03b1=0 and linear latency functions the price of anarchy is at most 4/3 (J. ACM 49, 236\u2013259, 2002). If \u03b1 tends to 1, the price of anarchy should also tend to 1 for any reasonable algorithm used by the coordinator.  We analyze two such algorithms for Stackelberg routing, LLF and SCALE. For general topology networks \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "The 2-valued case of makespan minimization with assignment constraints",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S002001901200261X",
+            "Abstract": "We consider the following special case of minimizing makespan. A set of jobs J and a set of machines M are given. Each job j\u2208 J can be scheduled on a machine from a subset M j of M. The processing time of j is the same on all machines in M j. The jobs are of two sizes, namely b (big) and s (small). We present a polynomial-time algorithm that approximates the value of the optimal makespan within a factor of 1.883 and some further improvements when every job can be scheduled on at most two machines.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Tight approximation results for general covering integer programs",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/959928/",
+            "Abstract": "In this paper we study approximation algorithms for solving a general covering integer program. An n-vector x of nonnegative integers is sought, which minimizes c/sup T//spl middot/x, subject to Ax/spl ges/b, x/spl les/d. The entries of A, b, c are nonnegative. Let m be the number of rows of A. Covering problems have been heavily studied in combinatorial optimization. We focus on the effect of the multiplicity constraints, x/spl les/d, on approximately. Two longstanding open questions remain for this general formulation with upper bounds on the variables. (i) The integrality gap of the standard LP relaxation is arbitrarily large. Existing approximation algorithms that achieve the well-known O(log m)-approximation with respect to the LP value do so at the expense of violating the upper bounds on the variables by the same O(log m) multiplicative factor. What is the smallest possible violation of the upper bounds that still \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Edge pricing of multicommodity networks for selfish users with elastic demands",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11809678_5",
+            "Abstract": "We examine how to induce selfish heterogeneous users in a multicommodity network to reach an equilibrium that minimizes the social cost. In the absence of centralized coordination, we use the classical method of imposing appropriate taxes (tolls) on the edges of the network. We significantly generalize previous work [20,13,9] by allowing user demands to be elastic. In this setting the demand of a user is not fixed a priori but it is a function of the routing cost experienced, a most natural assumption in traffic and data networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Techniques for scheduling with rejection",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0196677403000786",
+            "Abstract": "We consider the general problem of scheduling a set of jobs where we may choose not to schedule certain jobs, and thereby incur a penalty for each rejected job. More specifically, we focus on choosing a set of jobs to reject and constructing a schedule for the remaining jobs so as to optimize the sum of the weighted completion times of the jobs scheduled plus the sum of the penalties of the jobs rejected. We give several techniques for designing scheduling algorithms under this criterion. Many of these techniques show how to reduce a problem with rejection to a (potentially more complex) scheduling problem without rejection. Some of the reductions are based on general properties of certain kinds of linear-programming relaxations of optimization problems, and therefore are applicable to problems outside of scheduling; we demonstrate this by giving an approximation algorithm for a variant of the facility-location \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Disjoint Paths and Unsplittable Flow (Version 2.7)",
+            "Publication year": 2016,
+            "Publication url": "http://cgi.di.uoa.gr/~sgk/papers/ufp-survey-2016-ss.pdf",
+            "Abstract": "Finding disjoint paths in graphs is a problem that has attracted considerable attention from at least three perspectives: graph theory, VLSI design and network routing/flow. The corresponding literature is extensive. In this chapter we focus mostly on results on offline approximation algorithms for problems on general graphs as influenced from the network flow perspective. Surveys examining the underlying graph theory, combinatorial problems in VLSI, and disjoint paths on special graph classes can be found in [70, 71, 139, 141, 120, 132, 119, 88]. We sporadically mention some results on fixed-parameter tractability, but this is not an aspect this survey covers at any depth.An instance of edge-disjoint (vertex-disjoint) paths consists of a graph G=(V, E) and a multiset T={(si, ti): si\u2208 V, ti\u2208 V, i= 1,..., k} of k source-sink pairs. Any source or sink is called a terminal. An element of T is also called a commodity. In the decision problem, one asks whether there is aa set of edge-disjoint (vertex-disjoint) paths P1, P2,..., Pk, where Pi is an si-ti path, i= 1,..., k. The graph G can be either directed or undirected. Typically, a terminal may appear in more than one pair in T. For vertex-disjoint paths one requires that the terminal pairs are mutually disjoint. We abbreviate the edge-disjoint paths problem by Edp and vertex-disjoint paths by Vdp. The notation introduced will be used throughout the chapter to refer to an input instance. We will also denote| V| by n and| E| by m for the corresponding graph. Based on whether G is directed or undirected and the edge-or vertex-disjointness condition one obtains four basic problem versions. The following polynomial-time reductions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Edge pricing of multicommodity networks for heterogeneous selfish users",
+            "Publication year": 2004,
+            "Publication url": "http://www.cas.mcmaster.ca/~gk/papers/focs04.pdf",
+            "Abstract": "We examine how the selfish behavior of heterogeneous users in a network can be regulated through economic disincentives, ie, through the introduction of appropriate taxation. One wants to impose taxes on the edges so that any traffic equilibrium reached by the selfish users who are conscious of both the travel latencies and the taxes will minimize the social cost, ie, will minimize the total latency. We generalize previous results of Cole, Dodis and Roughgarden that held for a single origin-destination pair to the multicommodity setting. Our approach, which could be of independent interest, is based on the formulation of traffic equilibria as a nonlinear complementarity problem by Aashtiani and Magnanti [1]. We extend this formulation so that each of its solutions will give us a set of taxes that forces the network users to conform, at equilibrium, to a certain prescribed routing. We use the special nature of the prescribed minimum-latency flow in order to reduce the difficult nonlinear complementarity formulation to a pair of primal-dual linear programs. LP duality is then enough to derive our results.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Disjoint paths and unsplittable flow",
+            "Publication year": 2018,
+            "Publication url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781351235426-11/disjoint-paths-unsplittable-flow-stavros-kolliopoulos",
+            "Abstract": "Finding disjoint paths in graphs is a problem that has attracted considerable attention from at least three perspectives: graph theory, VLSI design, and network routing/flow. The corresponding literature is extensive. In the current chapter, we focus mostly on results on offline approximation algorithms for problems on general graphs as influenced from the network flow perspective. Surveys examining the underlying graph theory, combinatorial problems in VLSI, and disjoint paths on special graph classes can be found in References 1\u20138. We sporadically mention some results on fixed-parameter tractability, but this is not an aspect this survey covers at any depth.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:blknAaTinKkC",
+            "Publisher": "Chapman and Hall/CRC"
+        },
+        {
+            "Title": "Approximation algorithms for single-source unsplittable flow",
+            "Publication year": 2001,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S0097539799355314",
+            "Abstract": "In the single-source unsplittable flow problem, we are given a network G, a source vertex s, and k commodities with sinks ti and real-valued demands   We seek to route the demand  of each commodity i along a single s-ti flow path so that the total flow routed across any edge e is bounded by the edge capacity ue. The conceptual difficulty of this NP-hard problem arises from combining packing constraints due to the existence of capacities with path selection in a graph of arbitrary topology. In this paper we give a generic framework, which yields approximation algorithms that are simpler than those previously known and achieve significant improvements upon the approximation ratios. Our framework, with appropriate subroutines, applies to all optimization versions previously considered and, unlike previous work, treats in a unified manner directed and undirected graphs. We provide extensions of our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Approximation algorithms for covering/packing integer programs",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0022000005000656",
+            "Abstract": "Given matrices A and B and vectors a, b, c and d, all with non-negative entries, we consider the problem of computing min {c T x: x\u2208 Z+ n, Ax\u2a7e a, Bx\u2a7d b, x\u2a7d d}. We give a bicriteria-approximation algorithm that, given \u03b5\u2208(0, 1], finds a solution of cost O (ln (m)/\u03b5 2) times optimal, meeting the covering constraints (Ax\u2a7e a) and multiplicity constraints (x\u2a7d d), and satisfying Bx\u2a7d(1+ \u03b5) b+ \u03b2, where \u03b2 is the vector of row sums \u03b2 i=\u2211 j B ij. Here m denotes the number of rows of A. This gives an O (ln m)-approximation algorithm for CIP\u2014minimum-cost covering integer programs with multiplicity constraints, ie, the special case when there are no packing constraints Bx\u2a7d b. The previous best approximation ratio has been O (ln (max j\u2211 i A ij)) since 1982. CIP contains the set cover problem as a special case, so O (ln m)-approximation is the best possible unless P= NP.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "The efficiency of optimal taxes",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11527954_2",
+            "Abstract": "It is well known that the selfish behavior of users in a network can be regulated through the imposition of the so-called optimal taxes on the network edges. Any traffic equilibrium reached by the selfish users who are conscious of both the travel latencies and the taxes will minimize the social cost, i.e., will minimize the total latency.Optimal taxes incur desirable behavior from the society point of view but they cause disutility to the network users since the users\u2019 total cost is in general increased [4]. Excessive disutility due to taxation may be undesirable from the societal perspective as well. In this work we examine the efficiency of taxation as a mechanism for achieving the desired goal of minimizing the social cost. We show that for large classes of latency functions the total disutility due to taxation that is caused to the users and/or the system is bounded with respect to the social optimum. In addition, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Sherali-Adams gaps, flow-cover inequalities and generalized configurations for capacity-constrained Facility Location",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1312.0722",
+            "Abstract": "Metric facility location is a well-studied problem for which linear programming methods have been used with great success in deriving approximation algorithms. The capacity-constrained generalizations, such as capacitated facility location (CFL) and lower-bounded facility location (LBFL), have proved notorious as far as LP-based approximation is concerned: while there are local-search-based constant-factor approximations, there is no known linear relaxation with constant integrality gap. According to Williamson and Shmoys devising a relaxation-based approximation for \\cfl\\ is among the top 10 open problems in approximation algorithms. This paper advances significantly the state-of-the-art on the effectiveness of linear programming for capacity-constrained facility location through a host of impossibility results for both CFL and LBFL. We show that the relaxations obtained from the natural LP at  levels of the Sherali-Adams hierarchy have an unbounded gap, partially answering an open question of \\cite{LiS13, AnBS13}. Here,  denotes the number of facilities in the instance. Building on the ideas for this result, we prove that the standard CFL relaxation enriched with the generalized flow-cover valid inequalities \\cite{AardalPW95} has also an unbounded gap. This disproves a long-standing conjecture of \\cite{LeviSS12}. We finally introduce the family of proper relaxations which generalizes to its logical extreme the classic star relaxation and captures general configuration-style LPs. We characterize the behavior of proper relaxations for CFL and LBFL through a sharp threshold phenomenon.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Minimum-Cost Single-Source 2-Splittable Flow",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1571065304010388",
+            "Abstract": "In the single-source unsplittable flow problem, commodities must be routed simultaneously from a common source vertex to certain sinks in a given graph with edge capacities and costs. The demand of each commodity must be routed along a single path so that the total flow through any edge is at most its capacity. Moreover the cost of the solution should not exceed a given budget. An important open question is whether a simultaneous (2,1)-approximation can be achieved for minimizing congestion and cost, i.e., the budget constraint should not be violated. In this note we show that this is possible for the case of 2-splittable flows, i.e., flows where the demand of each commodity is routed along at most two paths.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:_kc_bZDykSQC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "On the existence of optimal taxes for network congestion games with heterogeneous users",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-16170-4_15",
+            "Abstract": "We consider network congestion games in which a finite number of non-cooperative users select paths. The aim is to mitigate the inefficiency caused by the selfish users by introducing taxes on the network edges. A tax vector is strongly (weakly)-optimal if all (at least one of) the equilibria in the resulting game minimize(s) the total latency. The issue of designing optimal tax vectors for selfish routing games has been studied extensively in the literature. We study for the first time taxation for networks with atomic users which have unsplittable traffic demands and are heterogeneous, i.e., have different sensitivities to taxes. On the positive side, we show the existence of weakly-optimal taxes for single-source network games. On the negative side, we show that the cases of homogeneous and heterogeneous users differ sharply as far as the existence of strongly-optimal taxes is concerned: there are parallel-link \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Approximation algorithms for minimizing the total weighted tardiness on a single machine",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S030439750500900X",
+            "Abstract": "Given a single machine and a set of jobs with due dates, the classical NP-hard problem of scheduling to minimize total tardiness is a well-understood one. Lawler gave a fully polynomial-time approximation scheme (FPTAS) for it some 20 years ago. If the jobs have positive weights the problem of minimizing total weighted tardiness seems to be considerably more intricate. it. In this paper, we give some of the first approximation algorithms for it. We examine first the weighted problem with a fixed number of due dates and we design a pseudopolynomial algorithm for it. We show how to transform the pseudopolynomial algorithm to an FPTAS for the case where the weights are polynomially bounded. For the case with an arbitrary number of due dates and polynomially bounded processing times, we provide a quasipolynomial algorithm which produces a schedule whose value has an additive error proportional to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Extended Formulation Lower Bounds via Hypergraph Coloring?",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1410.1150",
+            "Abstract": "Exploring the power of linear programming for combinatorial optimization problems has been recently receiving renewed attention after a series of breakthrough impossibility results. From an algorithmic perspective, the related questions concern whether there are compact formulations even for problems that are known to admit polynomial-time algorithms. We propose a framework for proving lower bounds on the size of extended formulations. We do so by introducing a specific type of extended relaxations that we call product relaxations and is motivated by the study of the Sherali-Adams (SA) hierarchy. Then we show that for every approximate relaxation of a polytope P, there is a product relaxation that has the same size and is at least as strong. We provide a methodology for proving lower bounds on the size of approximate product relaxations by lower bounding the chromatic number of an underlying hypergraph, whose vertices correspond to gap-inducing vectors. We extend the definition of product relaxations and our methodology to mixed integer sets. However in this case we are able to show that mixed product relaxations are at least as powerful as a special family of extended formulations. As an application of our method we show an exponential lower bound on the size of approximate mixed product formulations for the metric capacitated facility location problem, a problem which seems to be intractable for linear programming as far as constant-gap compact formulations are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Integrality gaps for strengthened LP relaxations of Capacitated and Lower-Bounded Facility Location",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1305.5998",
+            "Abstract": "The metric uncapacitated facility location problem (UFL) enjoys a special stature in approximation algorithms as a testbed for various techniques. Two generalizations of UFL are capacitated facility location (CFL) and lower-bounded facility location (LBFL). In the former, every facility has a capacity which is the maximum demand that can be assigned to it, while in the latter, every open facility is required to serve a given minimum amount of demand. Both CFL and LBFL are approximable within a constant factor but their respective natural LP relaxations have an unbounded integrality gap. According to Shmoys and Williamson, the existence of a relaxation-based algorithm for CFL is one of the top 10 open problems in approximation algorithms. In this paper we give the first results on this problem. We provide substantial evidence against the existence of a good LP relaxation for CFL by showing unbounded integrality gaps for two families of strengthened formulations. The first family we consider is the hierarchy of LPs resulting from repeated applications of the lift-and-project Lov\\'{a}sz-Schrijver procedure starting from the standard relaxation. We show that the LP relaxation for CFL resulting after  rounds, where  is the number of facilities in the instance, has unbounded integrality gap. Note that the Lov\\'{a}sz-Schrijver procedure is known to yield an exact formulation for CFL in at most  rounds. We also introduce the family of proper relaxations which generalizes to its logical extreme the classic star relaxation, an equivalent form of the natural LP. We characterize the integrality gap of proper relaxations for both LBFL and CFL and show a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Approximating covering integer programs with multiplicity constraints",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0166218X0200598X",
+            "Abstract": "In a covering integer program (CIP), we seek an n-vector x of nonnegative integers, which minimizes c T\u00b7 x, subject to Ax\u2a7e b, where all entries of A, b, c are nonnegative. In their most general form, CIPs include also multiplicity constraints of the type x\u2a7d d, ie, arbitrarily large integers are not acceptable in the solution. The multiplicity constraints incur a dichotomy with respect to approximation between (0, 1)-CIPs whose matrix A contains only zeros and ones and the general case. Let m denote the number of rows of A. The well known O (log m) cost approximation with respect to the optimum of the linear relaxation is valid for general CIPs, but multiplicity constraints can be dealt with effectively only in the (0, 1) case. In the general case, existing algorithms that match the integrality gap for the cost objective violate the multiplicity constraints by a multiplicative O (log m) factor. We make progress by defining column \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:0EnyYjriUFMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Partially ordered knapsack and applications to scheduling",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0166218X0600388X",
+            "Abstract": "In the partially ordered knapsack problem (POK) we are given a set N of items and a partial order\u227a P on N. Each item has a size and an associated weight. The objective is to pack a set N\u2032\u2286 N of maximum weight in a knapsack of bounded size. N\u2032 should be precedence-closed, ie, be a valid prefix of\u227a P. POK is a natural generalization, for which very little is known, of the classical Knapsack problem. In this paper we present both positive and negative results. We give an FPTAS for the important case of a two-dimensional partial order, a class of partial orders which is a substantial generalization of the series-parallel class, and we identify the first non-trivial special case for which a polynomial-time algorithm exists. Our results have implications for approximation algorithms for scheduling precedence-constrained jobs on a single machine to minimize the sum of weighted completion times, a problem closely related \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:WF5omc3nYNoC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "An FPTAS for the minimum total weighted tardiness problem with a fixed number of distinct due dates",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-02882-3_24",
+            "Abstract": "Given a sequencing of jobs on a single machine, each one with a weight, processing time, and a due date, the tardiness of a job is the time needed for its completion beyond its due date. We present an FPTAS for the basic scheduling problem of minimizing the total weighted tardiness when the number of distinct due dates is fixed. Previously, an FPTAS was known only for the case where all jobs have a common due date.",
+            "Abstract entirety": 1,
+            "Author pub id": "1jZJgWQAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Scheduling algorithms for input-queued switches: randomized techniques and experimental evaluation",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/832562/",
+            "Abstract": "A basic problem faced by designers of high-bandwidth switches and routers is to provide effective techniques for scheduling the routing of cells through crossbars. The problem is particularly important under heavy loads or when quality-of-service (QoS) is to be supported. Much previous work on scheduling has focused on maximum bipartite matching (MBM), maximum weight bipartite matching (MWBM), and heuristics to approximate MBM and MWBM solutions. In this paper, we introduce the shakeup technique: a randomized approach that can be used in conjunction with a number of existing heuristics to substantially improve solution quality. The shakeup approach is conceptually simple and is supported by both theoretical and experimental results. In addition, this paper provides for the first time a framework for experimental scheduler analysis. We give extensive head-to-head comparisons of stability ranges for a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1jZJgWQAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

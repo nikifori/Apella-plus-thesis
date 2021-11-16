@@ -1,0 +1,298 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039c\u03b1\u03ba\u03c1\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Georgios Makrakis",
+    "School-Department": "\u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd & \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 17699,
+    "Scholar name": "George N. Makrakis",
+    "Scholar id": "0uErzsEAAAAJ",
+    "Affiliation": "Dept. Math. Appl. Math., Univ. Crete & IACM/FORTH",
+    "Citedby": 364,
+    "Interests": [
+        "Wave propagation",
+        "asymptotic methods-Inverse scattering-Mechanics-Acoustics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=0uErzsEAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "On the system of Hamilton\u2013Jacobi and transport equations arising in high frequency paraxial approximation of waves",
+            "Publication year": 2003,
+            "Publication url": "http://alainphilippe.blanc.free.fr/tex/system.pdf",
+            "Abstract": "We consider the propagation of time-harmonic waves at frequency \u03c9, in an inhomogeneous medium with speed c= c (x, y, z). The wave function is then governed by the Helmholtz equation (\u2206+ k2\u03b72 (x, y, z)) u (x, y, z)= 0,(x, y, z)\u2208 D\u2282 IR3,(1.1) where \u03b7 (x, y, z)= c0/c (x, y, z) is the refraction index, and k= \u03c9/c0 is the wavenumber corresponding to a reference velocity c0. Assuming that the waves propagate in a narrow cone around the z direction (paraxial propagation), we decompose the wave function [20],[33],[14] in the form u (x, y, z)= exp (ikz) \u03c8 (z, x, y),(1.2) where \u03c8= \u03c8 (z, x, y) is the slowly varying component of the wave field with respect to the main direction of of propagation ie|\u2202 2 z \u03c8|\u226a 2k|\u2202 z\u03c8|. Substituting the decomposition (1.2) into (1.1), we obtain\u2206\u22a5 \u03c8+ 2ik\u2202 z\u03c8+ k2 (\u03b72\u2212 1) \u03c8= 0,(1.3) where\u2207\u22a5=(\u2202 x,\u2202 y) and\u2206\u22a5=\u2207\u22a5\u00b7\u2207\u22a5=\u2202 2 x+\u2202 2 y, are the gradient and Laplace operators in the plane which is perpendicular to the main propagation direction. Equation (1.3) can be written in the form i k\u2202 z\u03c8=\u2212",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Rytov approximation of tomographic receptions in weakly range-dependent ocean environments",
+            "Publication year": 2006,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.2202891",
+            "Abstract": "An approximation method based on the Born and Rytov approximation is presented for the wave-theoretic prediction of acoustic arrival patterns associated with long-range pulse propagation in weakly range-dependent ocean environments. The environment is considered as a perturbation of a range-independent background state, and normal-mode theory is used, for the representation of the background Green\u2019s function. Using the Born and Rytov approximations, the perturbed Green\u2019s function corresponding to the range-dependent environment is expressed for each frequency within the source bandwidth in terms of the background Green\u2019s function and the medium (sound-speed) perturbation. The actual arrival pattern in the time domain is then computed through the inverse Fourier transform. Using the normal-mode representation, closed-form expressions for the first and second Born and Rytov approximations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Inverse problems in underwater acoustics",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=ARL5BwAAQBAJ&oi=fnd&pg=PR5&dq=info:B9XmwXWZgbUJ:scholar.google.com&ots=5RbJXiCW_N&sig=9iSNfGSqIBmYEXljZtrKNVAwezo",
+            "Abstract": "Inverse problems have a long history in acoustics, optics, electromagnetics and geophysics, but only recently have the signals provided by ocean acoustic sensors become numerous and sophisticated enough to allow for realistic identification of the ocean parameters. Acoustic signals propagating for long distances in the water column and reflections of underwater sound from the ocean boundaries provide novel problems of interpretation and inversion. The chapters in this volume discuss some of the contemporary aspects of these problems. They provide recent and useful results for bottom recognition, inverse scattering in acoustic wave guides, and ocean acoustic tomography, as well as a discussion of some of the new algorithms, such as those related to matched-field processing, that have recently been used for inverting experimental data. Each chapter is by a noted expert in the field and represents the state of the art. The chapters have all been edited to provide a uniform format and level of presentation.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Uniformization of WKB functions by Wigner transform",
+            "Publication year": 2014,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00036811.2013.794939",
+            "Abstract": "We develop a technique for uniformizing WKB functions which fail to correctly represent wave fields on caustics due to geometric singularities of ray fields. The uniformization technique is based on appropriate asymptotic surgery of the Wigner transform of the WKB functions, in different regions of the phase space. We present the details of the computation for the model example of the semiclassical Airy equation and we explain how the method can be applied to higher dimensional WKB functions for fold caustics",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "An approximate series solution of the semiclassical Wigner equation",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/pdf/1705.06754",
+            "Abstract": "We propose a new approximate series solution of the semiclassical Wigner equation by uniformization of WKB approximations of the Schr\\\"odinger eigenfunctions.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New formulas for Maslov\u2019s canonical operator in a neighborhood of focal points and caustics in two-dimensional semiclassical asymptotics",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11232-013-0123-0.pdf",
+            "Abstract": "We suggest a new representation of Maslov\u2019s canonical operator in a neighborhood of caustics using a special class of coordinate systems (eikonal coordinates) on Lagrangian manifolds. We present the results in the two-dimensional case and illustrate them with examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Tangent linear and second\u2010order models from the Born and Rytov approximations",
+            "Publication year": 2006,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.4786052",
+            "Abstract": "Adjoint and higher\u2010order methods for the solution of inverse problems in underwater acoustics rely on tangent linear and higher\u2010order models of the forward propagation problem, with respect to the underlying parameters of interest. The use of Born and Rytov approximations is examined for the representation of perturbations of the Green\u2019s function and perturbations of the phase, respectively, caused by range\u2010dependent variations of the sound\u2010speed distribution about a range\u2010independent background environment. Using the normal\u2010mode representation for the background Green\u2019s function and applying the stationary\u2010phase approach in combination with analytic evaluation at singular points, closed\u2010form expressions are derived for the first\u2010 and second\u2010order perturbations of the Green\u2019s function, generalizing previous perturbation results derived under the assumption of range independence. The resulting \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Transmutation of non-local boundary conditions in ocean acoustics",
+            "Publication year": 2014,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00036811.2013.829566",
+            "Abstract": "We employ a transmutation technique to construct a new non-local boundary condition for the paraxial approximation in ocean acoustics. The transmutation operator introduced by De Santo and Polyanskii, when applied to the Helmholtz equation governing the acoustic pressure in the water column, leads to the so-called parabolic equation of Fock and Tappert. This transmutation operator acting on the N-D map at the water\u2013bottom interface yields an intermediate non-local boundary condition for the parabolic equation which eliminates the backscattering terms in the Schwartz kernel of the N-D map. The kernel of the intermediate condition is approximated by a uniform stationary phase formula taking account of the possible coalescence of the brach points of the integrand with the stationary points of the phase, and it leads to a non-local boundary condition of Volterra-type for the parabolic equation. This condition is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "On the evolution of the semi-classical Wigner function in higher dimensions",
+            "Publication year": 2006,
+            "Publication url": "https://www.cambridge.org/core/journals/european-journal-of-applied-mathematics/article/on-the-evolution-of-the-semiclassical-wigner-function-in-higher-dimensions/F2D120162122820C08478149D8EE9BC5",
+            "Abstract": "The limit Wigner measure of a WKB function satisfies a simple transport equation in phase-space and is well suited for capturing oscillations at scale of order -dependent regularization of the limit Wigner measure, it obeys a transport-dispersive evolution law in phase space, and it is well defined even at simple caustics.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "A study of the eigenvalues of the \u2018Depth Problem\u00ef in shallow water acoustic propagation modelling over an elastic halfspace",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2039501985728034825&hl=en&oi=scholarr",
+            "Abstract": "The problem of determining the acoustic field due to a point monochromatic acoustic source in a shallow waveguide over an elastic half-space is usually solved by applying a series representation of the acoustic pressure in the water column, based on the eigenfunctions of a suitably defined \u201cdepth problem\u201d associated with the Helmholtz equation. The series representation using orthogonal functions is an effective and accurate means for the calculation of the acoustic field especially in cases of range-dependent environments, where integral representations are not easily applicable and the parabolic approximation is not accurate enough. Thus the calculation of the eigenvalues of the \u201cdepth problem\u201d is of primary importance.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Anisotropic Gaussian Semi-Classical Schr\\\"{o} dinger Propagator",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2108.11077",
+            "Abstract": "We present a construction of the Anisotropic Gaussian Semi-Classical Schr\\\"{o}dinger Propagator, emblematic of a class of Fourier Integral Operators of quadratic phase kernels related to the Schr\\\"{o}dinger equation. We deduce a set of algebraic relations of the variational matrices, solutions of the variational system pertaining to single Gaussian wave packet semi-classical time evolution, representing the symplectic and other invariances of the dynamics, which are subsequently used to derive the Van Vleck formula from the semi-classical propagator, as an argument for the practical importance of the later relations in the relevant wave packet calculus.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Inverse boundary value problem for ocean acoustics using point sources",
+            "Publication year": 2004,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.504",
+            "Abstract": "We prove the uniqueness for the identification of the refraction index for an inhomogeneity of compact support in an oceanic acoustic waveguide, assuming as observation data the Green's function on the surface of a vertical cylinder surrounding the inhomogeneity. Copyright \u00a9 2004 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Perturbation solutions of the semiclassical Wigner equation",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1402.6194",
+            "Abstract": "We present a perturbation analysis of the semiclassical Wigner equation which is based on the interplay between configuration and phase spaces via Wigner transform. We employ the so-called harmonic approximation of the Schr odinger eigenfunctions for single-well potentials in configuration space, to construct an asymptotic expansion of the solution of the Wigner equation. This expansion is a perturbation of the Wigner function of a harmonic oscillator but it is not a genuine semiclassical expansion because the correctors depend on the semiclassical parameter. However, it suggests the selection of a novel ansatz for the solution of the Wigner equation, which leads to an efficient regular perturbation scheme in phase space. The validity of the approximation is proved for particular classes of initial data. The proposed ansatz is applied for computing the energy density of a a quartic oscillator on caustics (focal points). The results are compared with those derived from the so-called classical approximation whose principal term is the solution of Liouville equation with the same initial data. It turns out that the results are in good approximation when the coupling constant of the anharmonic potential has certain dependence on the semiclassical parameter.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Asymptotics for the Phase Space Schr\\\"{o} dinger Equation",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2005.08558",
+            "Abstract": "We consider semi-classical time evolution for the phase space Schr\\\"{o}dinger equation. We construct a semi-classical phase space propagator in terms of semi-classical wave packets by the Anisotropic Gaussian Approximation, related to the Nearby Orbit Approximation. We deduce the canonical system in double phase space, related to the Berezin-Shubin-Marinov canonical system and construct a semi-classical asymptotic solution of the Cauchy problem for the phase space Schr\\\"{o}dinger equation for initial WKB states. We illustrate the method for sub-quadratic potentials in .",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "INVERSE BOUNDARY VALUE PROBLEM FOR OCEAN ACOUSTICS USING POINT SOURCES",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=ARL5BwAAQBAJ&oi=fnd&pg=PA148&dq=info:jiRAnltgKkwJ:scholar.google.com&ots=5RbJXiCW_O&sig=SLjHezzR5SA0WWB28XjO897cxjA",
+            "Abstract": "We formulate and prove uniqueness for the reconstruction of a compact inhomogeneity of the sound speed embedded in a uniform ocean acoustic channel of finite depth. As input data, we use the Green function on a vertical cylinder enclosing the inhomogeneity, at constant frequency.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Multivalued solutions to the eikonal equation in stratified media",
+            "Publication year": 2001,
+            "Publication url": "https://www.ams.org/journals/qam/2001-59-02/S0033-569X-2001-1828459-5/",
+            "Abstract": "In the present paper we study the geometric properties of the multivalued solutions to the eikonal equation and we give the appropriate classification theorems. Our motivation stems from geometrical optics for approximating high frequency waves in stratified media. We consider the case of a fixed Hamiltonian imposed by the medium, and we present the geometric framework that describes the geometric solutions, using the notion of Legendrian immersions with an initial point source or an initial smooth front. Then, we study the singularities of the solutions in the case of a smooth or piecewise Hamiltonian in a boundaryless stratified medium. Finally, we study the singularities of the solutions in a domain with a boundary that describes the propagating field in a waveguide.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fourier integrals and a new representation of Maslov's canonical operator near caustics",
+            "Publication year": 2013,
+            "Publication url": "https://core.ac.uk/download/pdf/19475106.pdf",
+            "Abstract": "We suggest a new representation of Maslov\u2019s canonical operator in a neighborhood of the caustics using a special class of coordinate systems (\u201ceikonal coordinates\u201d) on Lagrangian manifolds.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "High frequency waves near cusp caustics",
+            "Publication year": 2003,
+            "Publication url": "https://www.ams.org/qam/2003-61-01/S0033-569X-2003-1955226-1/",
+            "Abstract": "It is well known that the usual harmonic ansatz of geometrical optics fails near caustics. However, uniform expansions exist which are valid near and on the caustics, and reduce asymptotically to the usual geometric field far enough from them. In this paper, we apply the Kravtsov-Ludwig technique for computing high-frequency fields near cusp caustics. We compare these fields, with those predicted by the geometrical optics, for a couple of model problems: first, the cusp generated by the evolution of a parabolic initial front in a homogeneous medium, a problem which arises in the high-frequency treatment of cylindrical aberrations, and second, the cusp formed by refraction of the rays emitted from a point source in a stratified medium with a weak interface. It turns out that inside and near the cusp, the geometrical optics solution is significantly different than the Kravtsov-Ludwig solution, but far enough from the caustic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Parabolic approximation of nonlocal boundary conditions for elastic seabeds: Elastic seabeds",
+            "Publication year": 2001,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00036810108840915",
+            "Abstract": "A parabolic approximation of the nonlocal boundary condition is constructed to model the elastic seabed of an ocean acoustic waveguide. The construction departs from the Neumann to Dirichlet (NtD) map that transfers the seabed dynamics at the interface of the coupled acousto-elastic system. The main tool is an appropriate asymptotic decomposition of the kernel of the NtD map, which reveals the outgoing and incoming compo nents of the trace of the wavefleld on the interface far from the sources. This decomposition, in combination with the narrow-angle parabolic approximation of the field in the interior of the waveguide, leads to a Volterra-type nonlocal boundary condition for the parabolic equation (impedance bound ary condition). This boundary condition is radically different from the con dition derived by assuming from the beginning the narrow-angle parabolic approximation of the wave field in the elastic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Gordon and Breach Science Publishers"
+        },
+        {
+            "Title": "Asymptotic Solutions of the Phase Space Schr odinger Equation: Anisotropic Gaussian Approximation",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1402.6854",
+            "Abstract": "We consider the singular semiclassical initial value problem for the phase space Schr odinger equation. We approximate semiclassical quantum evolution in phase space by analyzing initial states as superpositions of Gaussian wave packets and applying individually semiclassical anisotropic Gaussian wave packet dynamics, which is based on the the nearby orbit approximation; we accordingly construct a semiclassical approximation of the phase space propagator, the semiclassical wave packet propagator. By the semiclassical propagator we construct asymptotic solutions of the phase space Schr odinger equation, noting the connection of this construction to the initial value repsresentations.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Asymptotic Approximations for the Phase Space Schrodinger Equation",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2108.11075",
+            "Abstract": "We consider semi-classical time evolution for the phase space Schr\\\"{o}dinger equation and present two methods of constructing short time asymptotic solutions. The first method consists of constructing a semi-classical phase space propagator in terms of semi-classical Gaussian wave packets on the basis of the Anisotropic Gaussian Approximation, related to the Nearby Orbit Approximation, by which we derive an asymptotic solution for configuration space WKB initial data. The second method consists of constructing a phase space narrow beam asymptotic solution, following the Complex WKB Theory developed by Maslov, on the basis of a canonical system in double phase space related to the Berezin-Shubin-Marinov Hamilton-Jacobi and transport equations. We illustrate the methods for sub-quadratic potentials in .",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fourier integrals and a new representation of Maslov\u2019s canonical operator near caustics",
+            "Publication year": 2014,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Vb-lBAAAQBAJ&oi=fnd&pg=PA95&dq=info:35n_OAjLZSIJ:scholar.google.com&ots=fjyPlrbCWX&sig=s0vo0ZZ4rWZLAMof3mCUdKF0Uck",
+            "Abstract": "We propose a new representation of Maslov\u2019s canonical operator in a neighborhood of the caustics using a special class of coordinate systems (\u201ceikonal coordinates\u201d) on Lagrangian manifolds.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computation of high frequency fields near caustics",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218202501000842",
+            "Abstract": "It is well known that although the usual harmonic ansatz of geometrical optics fails near a caustic, uniform expansions can be found which remain valid in the neighborhood of the caustic, and reduce asymptotically to the usual geometric field far enough from it. Such expansions can be constructed by several methods which make essentially use of the symplectic structure of the phase space.  In this paper we efficiently apply the Kravtsov\u2013Ludwig method of relevant functions, in conjunction with Hamiltonian ray tracing to define the topology of the caustics and compute high-frequency scalar wave fields near smooth and cusp caustics.  We use an adaptive Runge\u2013Kutta method to successfully retrieve the complete ray field in the case of piecewise smooth refraction indices. We efficiently match the geometric and modified amplitudes of the multi-valued field to obtain numerically the correct asymptotic behavior of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Low shear asymptotics for elastic seabeds",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0895717700002867",
+            "Abstract": "This paper deals with the low shear asymptotics of the sound field propagating in a fluid layer with a homogeneous elastic seabed. Using the displacement formulation and applying WKB, we show that although the problem is formally a singular perturbation problem, it can be reduced to a regular one, and we construct a regular expansion for the elastodynamic field in the bottom. The same results come out using alternative formulations, based either on Lam\u00e8 potentials or on the Love function. The later formulation appears to have independent interest, as it explains why the problem under investigation does not fall in the existing framework of coercive singular perturbations which appear in one-dimensional elasticity.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Inverse boundary value problem for ocean acoustics",
+            "Publication year": 2001,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/1099-1476(20010110)24:1%3C1::AID-MMA177%3E3.0.CO;2-A",
+            "Abstract": "For an ocean with constant depth and rigid bottom which contains compactly supported inhomogeneity of the water sound velocity, we prove uniqueness for the identification of the inhomogeneity from the Dirichlet\u2010to\u2010Neumann (DtN) map on the surface of a bounded region containing the inhomogeneity. The DtN map is the map which maps the pressure applied on the boundary of this region to the corresponding flux (displacement). In an analogous geometric configuration and with similar boundary conditions, the uniqueness for the inverse electroconductivity problem from the DtN map (i.e. voltage\u2010to\u2010current map) can be proved in the same framework. Copyright \u00a9 2001 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:qjMakFHDy7sC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Conservation equations for the semiclassical Schr\u00f6dinger equation near caustics",
+            "Publication year": 2007,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00036810701355000",
+            "Abstract": "We derive an infinite hierarchy of conservation equations for the semiclassical Schr\u00f6dinger equation, by employing the moments of the solutions of the Wigner (quantum Liouville) equation. The Wigner equation retains terms of any order with respect to the small parameter, and contrary to the moment equations derived form the classical Liouville equation, it provides a hierarchy of conservation equations which is uniformly valid when the wave field develops caustics. We confirm the validity of the equations with analytical examples for simple caustics, namely the focal points of a harmonic oscillator and the fold caustic generated from the initial data in the case of the free Schr\u00f6dinger equation. We also make some new observations concerning the relation of the derived conservation equations with those coming from the application of Noether's variational theorem. We get some evidence that for general potentials \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Geometrical optics and viscosity solutions",
+            "Publication year": 2001,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812799807_0001",
+            "Abstract": "In the present paper we use the method of relevant functions to show a way for computing the correct asymptotic solution of the Helmholtz equation near caustics, provided that the various branches of the multivalued solution of the eikonal equation are given. We also describe how to compute the multivalued solution to the eikonal equation, by using viscosity solution eikonal solvers. Finally, we make some remarks on the role played by the viscosity solution in shadow zone.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Semiclassical Wigner function and geometrical optics",
+            "Publication year": 2003,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/S1540345902409797",
+            "Abstract": "We consider the problem of high-frequency asymptotics for the time-dependent one-dimensional Schr\u00f6dinger equation with rapidly oscillating initial data. This problem is commonly studied via the WKB method. An alternative method is based on the limit Wigner measure. This approach recovers geometrical optics, but, like the WKB method, it fails at caustics. To remedy this deficiency we employ the semiclassical Wigner function which is a formal asymptotic approximation of the scaled Wigner function but also a regularization of the limit Wigner measure. We obtain Airy-type asymptotics for the semiclassical Wigner function. This representation is shown to be exact in the context of concrete examples. In these examples we compute both the semiclassical and the limit Wigner function, as well as the amplitude of the wave field near a fold or a cusp caustic, which evolve naturally from suitable initial data.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Asymptotic approximation of ocean-acoustic pulse propagation in the time domain",
+            "Publication year": 2004,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218396X04002225",
+            "Abstract": "Broadband and narrowband time-domain asymptotics are proposed for pulse propagation in range-independent ocean environments. The broadband approximation results by applying the stationary-phase method to the Fourier transform of the Green's function, expressed in terms of normal modes. The narrowband approximation is obtained by incorporating the shape function of the emitted signal \u2014 assumed Gaussian \u2014 into the phase term and applying the steepest-descent method. The roots of the frequency-derivative of the phase are located in the complex plane by using a second-order expansion of the eigenvalues. The performance of the two approximations is studied numerically. While the broadband approximation improves with increasing bandwidth, the narrowband approximation improves when the bandwidth decreases. Both approximations improve with increasing range, and they can be used for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "0uErzsEAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IMACS"
+        },
+        {
+            "Title": "Maslov\u2019s canonical operator, H\u00f6rmander\u2019s formula, and localization of the Berry-Balazs solution in the theory of wave beams",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11232-014-0187-5.pdf",
+            "Abstract": "For three-dimensional Schr\u00f6dinger equations, we study how to localize exact solutions represented as the product of an Airy function (Berry-Balazs solutions) and a Bessel function and known as Airy-Bessel beams in the paraxial approximation in optics. For this, we represent such solutions in the form of Maslov\u2019s canonical operator acting on compactly supported functions on special Lagrangian manifolds. We then use a result due to H\u00f6rmander, which permits using the formula for the commutation of a pseudodifferential operator with Maslov\u2019s canonical operator to \u201cmove\u201d the compactly supported amplitudes outside the canonical operator and thus obtain effective formulas preserving the structure based on the Airy and Bessel functions. We discuss the influence of dispersion effects on the obtained solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Pleiades Publishing"
+        },
+        {
+            "Title": "Formal asymptotic expansion of the Faddeev-Green function in unbounded domains",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1402.4641",
+            "Abstract": "We consider the Faddeev-Green function in the three-dimensional space and in a slab, and we construct formal asymptotic expansions for the large complex parameter appearing in this function. The basic idea of the construction is to express the Faddeev-Green function through the standard exponential integral and to use the standard asymptotic expansion of this special function. In the three-dimensional space, the constructed expansion of the Faddeev-Green function clearly suggests the form of the rigorous estimate proved by Sylvester and Uhlmann. and which is the basis of complex-geometric optics' techniques in inverse problems. A similar estimate is suggested for the slab case",
+            "Abstract entirety": 1,
+            "Author pub id": "0uErzsEAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

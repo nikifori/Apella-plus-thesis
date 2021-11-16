@@ -1,0 +1,885 @@
+[{
+    "name": "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2 \u0391\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+    "romanize name": "Vasileios Anastasopoulos",
+    "School-Department": "\u03a6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2",
+    "University": "upatras",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 17596,
+    "Scholar name": "Vassilis Anastassopoulos",
+    "Scholar id": "BycshrUAAAAJ",
+    "Affiliation": "Professor of Electronics, University of Patras",
+    "Citedby": 2730,
+    "Interests": [
+        "Signal Processing and Detection",
+        "Image Analysis",
+        "Remote Sensing",
+        "Information Fusion"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=BycshrUAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Fully Polarimetric Land Cover Classification Based on Hidden Markov Models Trained with Multiple Observations",
+            "Publication year": 2021,
+            "Publication url": "https://www.scirp.org/journal/paperinformation.aspx?paperid=112286",
+            "Abstract": "A land cover classification procedure is presented utilizing the information content of fully polarimetric SAR images. The Cameron coherent target decomposition (CTD) is employed to characterize each pixel, using a set of canonical scattering mechanisms in order to describe the physical properties of the scatterer. The novelty of the proposed classification approach lies on the use of Hidden Markov Models (HMM) to uniquely characterize each type of land cover. The motivation to this approach is the investigation of the alternation between scattering mechanisms from SAR pixel to pixel. Depending on the observations-scattering mechanisms and exploiting the transitions between the scattering mechanisms we decide upon the HMM-land cover type. The classification process is based on the likelihood of observation sequences been evaluated by each model. The performance of the classification approach is assessed my means of fully polarimetric SLC SAR data from the broader area of Vancouver, Canada and was found satisfactory, reaching a success from 87% to over 99%.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Scientific Research Publishing"
+        },
+        {
+            "Title": "Fusion and super-resolution in multispectral data using neural networks for improved RGB representation",
+            "Publication year": 2005,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1179/136821905X43945",
+            "Abstract": "A new method, which aims at creating a high-quality RGB fused representation with increased spatial resolution from multispectral data, is proposed. For this purpose, a feed-forward neural network is employed, and a successive training procedure is applied in order to incorporate into the network structure knowledge about recovering folded frequencies and, therefore, obtain output colour images with fine resolution. The successive training of the network takes place in three consecutive steps. The training data used in each step are of higher resolution than those used in the previous step. A decimation procedure, based on a generally acceptable super-resolution model, is employed to create from the original multispectral bands all the required down-sampled series of input training data vectors. The output (target) training vectors are obtained by fusing the multispectral images. Fusion is carried out by means of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Super-resolution image reconstruction employing Kriging interpolation technique",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4381174/",
+            "Abstract": "In this paper a high-resolution (MR) image is reconstructed from a sequence of subpixel shifted, aliased low-resolution (LR) frames by means of a novel nonuniform interpolation super-resolution (SR) method. A gradient-based algorithm estimates the horizontal and vertical shifts for each frame. Then, the uniformly spaced sampling points of the UK image are produced by means of Kriging interpolation. Wiener filtering is employed to deal with the restoration problem. The novelty of the proposed nonuniform interpolation approach to SR image reconstruction lies in the employment of Kriging interpolation technique. Comparisons with the original image demonstrate the superiority of our method to a conventional nonuniform interpolation one of SR image reconstruction.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The 11 years solar cycle as the manifestation of the dark Universe",
+            "Publication year": 2014,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0217732314400082",
+            "Abstract": "Sun's luminosity in the visible changes at the 10-3 level, following the 11 years period. This variation increases with energy, and in X-rays, which should not even be there, the amplitude varies up to ~ 105 times stronger, making their mysterious origin since the discovery in 1938 even more puzzling, and inspiring. We suggest that the multifaceted mysterious solar cycle is due to some kind of dark matter streams hitting the Sun. Planetary gravitational lensing enhances (occasionally) slow moving flows of dark constituents toward the Sun, giving rise to the periodic behavior. Jupiter provides the driving oscillatory force, though its 11.8 years orbital period appears slightly decreased, just as 11 years, if the lensing impact of other planets is included. Then, the 11 years solar clock may help to decipher (overlooked) signatures from the dark sector in laboratory experiments or observations in space.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:yD5IFk8b50cC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "arXiv: Search for streaming dark matter axions or other exotica",
+            "Publication year": 2018,
+            "Publication url": "https://cds.cern.ch/record/2312304",
+            "Abstract": "We suggest a new approach to search for galactic axions or other similar exotica. Streaming dark matter (DM) could have a better discovery potential because of flux enhancement, due to gravitational lensing when the Sun and/or a planet are aligned with a DM stream. Of interest are also axion miniclusters, in particular, if the solar system has trapped one during its formation. Wide-band axion antennae fit this concept, but also the proposed fast narrow band scanning. A network of detectors can provide full time coverage and a large axion mass acceptance. Other DM searches may profit from this proposal.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multispectral image fusion method using perceptual attributes",
+            "Publication year": 2004,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5238/0000/Multispectral-image-fusion-method-using-perceptual-attributes/10.1117/12.510651.short",
+            "Abstract": "In this work a pixel-level fusion technique for enhancing the visual interpretation of multispectral images is proposed. The technique takes into consideration the inherent high correlation of the RGB bands of natural color images, a fact strictly related to the color perception attributes of the human eye. The method provides dimensionality reduction in the multispectral vector space, while the resulting RGB color image tends to be perceptually optimal. The proposed method is compared with two other existing techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Fully Polarimetric Land Cover Classification Based on Markov Chains",
+            "Publication year": 2021,
+            "Publication url": "https://www.scirp.org/journal/paperinformation.aspx?paperid=110928",
+            "Abstract": "A novel land cover classification procedure is presented utilizing the information content of fully polarimetric SAR images. The Cameron coherent target decomposition (CTD) is employed to characterize land cover pixel by pixel. Cameron\u2019s CTD is employed since it provides a complete set of elementary scattering mechanisms to describe the physical properties of the scatterer. The novelty of the proposed land classification approach lies on the fact that the features used for classification are not the types of the elementary scatterers themselves, but the way these types of scatterers alternate from pixel to pixel on the SAR image. Thus, transition matrices that represent local Markov models are used as classification features for land cover classification. The classification rule employs only the most important transitions for decision making. The Frobenius inner product is employed as similarity measure. Ten different types of land cover are used for testing the proposed method. In this aspect, the classification performance is significantly high.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:N5tVd3kTz84C",
+            "Publisher": "Scientific Research Publishing"
+        },
+        {
+            "Title": "Regularized super-resolution image reconstruction employing robust error norms",
+            "Publication year": 2009,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-48/issue-11/117004/Regularized-super-resolution-image-reconstruction-employing-robust-error-norms/10.1117/1.3265543.short",
+            "Abstract": "A high-resolution image is reconstructed from a sequence of subpixel shifted, aliased low-resolution frames, by means of stochastic regularized super-resolution (SR) image reconstruction. The Tukey (T), Lorentzian (L), and Huber (H) cost functions are employed for the data-fidelity term. The performance of the particular error norms, in SR image reconstruction, is presented. Actually, their employment in SR reconstruction is preceded by dilating and scaling their influence functions to make them as similar as possible. Thus, the direct comparison of these norms in rejecting outliers takes place. The bilateral total variation (BTV) regularization is incorporated as a priori knowledge about the solution. The outliers effect is significantly reduced, and the high-frequency edge structures of the reconstructed image are preserved. The proposed TTV, LTV, and HTV methods are directly compared with a former SR method that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Fusion of correlated decisions for writer verification",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320399002101",
+            "Abstract": "A fusion approach is proposed for improving the efficiency of writer verification systems. A short handwritten sentence is employed for this purpose. Each word of the sentence is used to tackle an individual verification problem. Then, the word-level (local) decisions are fused in order to obtain a more reliable global decision by means of the Neyman\u2013Pearson approach. The correlation of the local decisions is extensively studied and incorporated in the fusion procedure by means of the Bahadur\u2013Lazarsfeld expansion series. A database containing 4800 sentences is employed to validate the performance of the method. The improvement in verification performance is due to both the fusion procedure applied and the full discretion of the writer to choose his own secret word.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Delta-sigma modulators: modeling, design and applications",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=-Nj9ZhdIO5AC&oi=fnd&pg=PR5&dq=info:VQ5jY6rOB1EJ:scholar.google.com&ots=_siMGitGyJ&sig=3nBeh426sGuJsmj9gI-alCXTbSQ",
+            "Abstract": "This important book deals with the modeling and design of higher-order single-stage delta-sigma modulators. It provides an overview of the architectures, the quantizer models, the design techniques and the implementation issues encountered in the study of the delta-sigma modulators. A number of applications are discussed, with emphasis on use in the design of analog-to-digital converters and in frequency synthesis. The book is education-rather than research-oriented, containing numerical examples and unsolved problems. It is aimed at introducing the final-year undergraduate, the graduate student or the electronic engineer to this field. Contents: Analog to Digital Conversion; ou Modulators OCo Architectures; Single-Bit Single-Stage ou Modulators, Modeling and Design; Implementation of ou Modulators; Practical Limitations of ou Modulators; Stabilization and Suppression of Tones for the Higher-Order Single-Stage ou Modulators; Decimation, Interpolation and Converters; Applications. Readership: Final-year undergraduates; graduate students; electrical, electronic and systems engineers.\"",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Imperial College Press"
+        },
+        {
+            "Title": "Polarimetric decomposition for the selection of persistent scatterers",
+            "Publication year": 2017,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/2150704X.2016.1264022",
+            "Abstract": "In this paper, the issue of employing polarimetric processing methods for persistent scatterers (PS) selection is addressed. The scope of the paper regards the processing methods for PS generation by means of coherent target decomposition (CTD). The key is to exploit scatterer physical characteristics, besides scatterer coherence and stability, so as to classify them as PS utilizing as less data sets as possible. Cameron\u2019s CTD is proposed for PS classification based on scatterers physical properties as an alternative to polarization phase difference (PPD) for it can eliminate the scatterer initial orientation angle. Additionally, provides a complete set of elemental scattering mechanisms in order to describe the physical properties of the scatterer, and thus create a more reliable PS net. These assets make Cameron\u2019s CTD outperform PPD in exploiting scatterer physical properties for PS selection. The study also focuses \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Simple Face Thermal Features for Gender Discrimination",
+            "Publication year": 2020,
+            "Publication url": "https://csitcp.com/paper/10/108csit03.pdf",
+            "Abstract": "A very simple approach is proposed for gender discrimination using thermal infrared images of the persons' face. The selected features are actually based on the mean value of the pixels of specific locations on the face. It is proved that the discrimination is feasible either by simple visualization in the feature space or by using a relatively simple neural network for this purpose. All cases of persons from the used database, males and females, are correctly distinguished based on the mean value of the employed locations of the face. Classification results are verified using two conventional approaches, namely: a. the simplest possible neural network so that generalization is achieved along with successful discrimination between all persons and b. the leave-one-out approach to demonstrate the classification performance on unknown persons using the simplest classifiers possible.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Ship detection modules based on ASAR and terassar data for Greek areas of interest",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6064684/",
+            "Abstract": "Ship detection has attracted researchers for more than a decade and is now becoming more and more mature and an operational service. In this work ship detection modules related to clutter modeling, parameter estimation and detection are employed for different types of SAR data. Namely, both ASAR and TerraSAR-X data are used and Weibull fitting is used for both cases. The suggested scheme provides reliable detection results for both cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Drunk person identification using local difference patterns",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7738259/",
+            "Abstract": "In this work, facial thermal infrared images are employed for intoxicated person discrimination. Specifically, the region of the forehead of the face of the sober and the intoxicated person are used to test if the employed local difference patterns can result into discriminative features. For an intoxicated person, vessels on the forehead become more active so that the intensity of the pixels in this region is modified accordingly. The behavior of the local difference patterns for a drunk person is different than that of a sober one and accordingly drunkenness can be ascertained by only using the thermal infrared image of the intoxicated person. The proposed method can be incorporated into a non-invasive inspection system used by the police as a first step for intoxicated person detection. The identification success of the used simple local difference pattern is over 85 per cent while other simple difference patterns are currently \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:8AbLer7MMksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A novel ship identification system based on polarimetric ASAR data [6748-35]",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16206745901277711594&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:GnPB-g6toBAC",
+            "Publisher": "International Society for Optical Engineering; 1999"
+        },
+        {
+            "Title": "TGRS Space Technology Special Section List of Reviewers",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6133472/",
+            "Abstract": "TGRS Space Technology Special Section List of Reviewers Page 1 IEEE TRANSACTIONS ON \nGEOSCIENCE AND REMOTE SENSING, VOL. 50, NO. 2, FEBRUARY 2012 337 TGRS Space \nTechnology Special Section List of Reviewers THE following is a list of reviewers who assisted \nwith those papers submitted for publication consideration to the IEEE TRANSACTIONS ON \nGEOSCIENCE AND REMOTE SENSING Special Section on Space Technology. \nAnastassopoulos, V. Anton, M. Bouganis, C.-S. Cerutti-Maori, D. Chang, C.-I. Clark, A. Datcu, \nM. Del Frate, F. Dim, J. Doll, CNH Dubois-Fernandez, P. Elvidge, C. Fei, C. Foody, G. George, \nV. Jiang, D. Kasetkasem, T. Kim, SK Manolakis, D. Marshall, D. Martinis, S. McElroy, T. Ng, A. \nPacifici, F. Peratt, A. Petrou, M. Pulvirenti, L. Seo, E.-S. Thomas, W. Tsagaris, V. Wiesbeck, W. \nZhang, F. Digital Object Identifier 10.1109/TGRS.2011.2175850 0196-2892/$31.00 \u00a9 2012 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Solar X-rays from axions: rest-mass dependent signatures",
+            "Publication year": 2010,
+            "Publication url": "https://arxiv.org/abs/1003.2181",
+            "Abstract": "The spectral shape of solar X-rays is a power law. The more active the Sun is, the less steep the distribution. This behaviour can be explained by axion regeneration to X-rays occurring ~400km deep into the photosphere. Their down-comptonization reproduces the measured spectral shape, pointing at axions with rest mass m_a~17 meV/c2, without contradicting astrophysical-laboratory limits. Directly measured soft X-ray spectra from the extremely quiet Sun during 2009 (SphinX mission), though hitherto overlooked, fitt the axion scenario.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3-D FFT moving object signatures for velocity filtering",
+            "Publication year": 2014,
+            "Publication url": "https://www.academia.edu/download/40328420/-D_FFT_Moving_Object_Signatures_for_Velo20151124-28614-opmqc9.pdf",
+            "Abstract": "In this paper a bank of velocity filters is devised to be used for isolating a moving object with specific velocity (amplitude and direction) in a sequence of frames. The approach used is a 3-D FFT based experimental procedure without applying any theoretical concept from velocity filters. Accordingly, each velocity filter is built using the spectral signature of an object moving with specific velocity. Experimentation reveals the capabilities of the constructed filter bank to separate moving objects as far as the amplitude as well as the direction of the velocity are concerned. Accordingly, weak objects can be detected when moving with different velocity close to strong vehicles. Accelerating objects can be detected only on the part of their trajectory they have the specific velocity. Problems which arise due to the discontinuities at the edges of the frame sequences are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Association of Computer Electronics and Electrical Engineers (ACEEE)"
+        },
+        {
+            "Title": "Third-order Spectral Analysis of Geolectrical Signals",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1630282/",
+            "Abstract": "A third-order spectral analysis for the detection of nonlinearities in geoelectric signals is presented in this work. Specifically, the bispectrum and bicoherence function are employed for the case of the geoelectrical signal acquired over the period of 1993-2002 in the area of Patras, Greece. This is an area of intense seismic activity and the possible relation between this activity and the non-linear mechanism of the geoelectrical signal is explored",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Dark Universe is not invisible",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/1187576",
+            "Abstract": "Evidence of dark matter (DM) comes from long-range gravitational observations, where it is understood to not interact with ordinary matter. However, on a much smaller scale, a number of unexpected phenomena contradict this idea of DM. This is because some solar activity and the dynamic Earth atmosphere might arise from DM streams. Gravitational (self-)focusing effects by the Sun or its planets of streaming DM fit as the underlying process, e.g., for the otherwise puzzling 11-year solar cycle, the mysterious heating of the solar corona with its fast temperature inversion, etc. Observationally driven, we arrive to suggest an external impact by as yet overlooked \u201cstreaming invisible matter\u201d, which reconciles some of the investigated mysterious observations. Unexpected planetary relationships exist for the dynamic Sun and Earth atmosphere and are considered as the signature for streaming DM. Then, focusing of DM streams could also occur in exoplanetary systems, suggesting for the first time the carrying out of investigations by searching for the associated stellar activity as a function of the exoplanetary orbital phases. The entire observationally driven reasoning is suggestive for highly cross-disciplinary approaches that also include (puzzling) biomedical phenomena. Favoured candidates from the dark sector are the highly ionizing anti-quark nuggets, magnetic monopoles and also particles such as dark photons.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Textural characterization from various representations of MERIS data",
+            "Publication year": 2007,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01431160600821051",
+            "Abstract": "Texture characteristics of MERIS data based on the Gray\u2010Level Co\u2010occurrence Matrices (GLCM) are explored in this work as far as their classification capabilities are concerned. Classification is employed in order to reveal four different land cover types, namely: water, forest, field and urban areas. The classification performance for each cover type is studied separately on each spectral band, while the combined performance of the most promising spectral bands is explored. In addition to GLCM, spectral co\u2010occurrence matrices (SCM) formed by measuring the transition from band\u2010to\u2010band are employed for improving classification results. Conventional classifiers and voting techniques are used for the classification stage. Furthermore, the properties of texture characteristics are explored on various types of grayscale or RGB representations of the multispectral data, obtained by means of principal components \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:4DMP91E08xMC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "A proposal to measure the proton electric dipole moment with 10\u2212 29 e\u00b7 cm sensitivity",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5590105700428263855&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Search for streaming dark matter axions or other exotica",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1803.08588",
+            "Abstract": "We suggest a new approach to search for galactic axions or other similar exotica. Streaming dark matter (DM) could have a better discovery potential because of flux enhancement, due to gravitational lensing when the Sun and/or a planet are aligned with a DM stream. Of interest are also axion miniclusters, in particular, if the solar system has trapped one during its formation. Wide-band axion antennae fit this concept, but also the proposed fast narrow band scanning. A network of detectors can provide full time coverage and a large axion mass acceptance. Other DM searches may profit from this proposal.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Espadero, JM, 2497",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6992766115063774604&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Interpolation in multispectral data using neural networks",
+            "Publication year": 2004,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5573/0000/Interpolation-in-multispectral-data-using-neural-networks/10.1117/12.565649.short",
+            "Abstract": "A novel procedure which aims in increasing the spatial resolution of multispectral data and simultaneously creates a high quality RGB fused representation is proposed in this paper. For this purpose, neural networks are employed and a successive training procedure is applied in order to incorporate in the network structure knowledge about recovering lost frequencies and thus giving fine resolution output color images. MERIS multispectral data are employed to demonstrate the performance of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "The mysterious Sun: a source and a trap of exotica",
+            "Publication year": 2011,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1742-6596/309/1/012021/meta",
+            "Abstract": "A few solar phenomena are given whose origin remains rather mysterious. The claimed observations of anomalous nuclear decays suggest new experiments, whose design should be observationally driven, ie, going beyond conventional thinking. Also, the non-observation of delayed solar radioactivity after few large flares makes this issue more puzzling, while the solar flare trigger is considered anyhow as one of the biggest solar mysteries.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Global measure for assessing image fusion methods",
+            "Publication year": 2006,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-45/issue-2/026201/Global-measure-for-assessing-image-fusion-methods/10.1117/1.2174005.short",
+            "Abstract": "The objective evaluation of the performance of pixel level fusion methods is addressed. For this purpose a global measure based on information theory is proposed. The measure employs mutual and conditional mutual information to assess and represent the amount of information transferred from the source images to the final fused gray-scale image. Accordingly, the common information contained in the source images is considered only once in the performance evaluation procedure. The experimental results clarify the applicability of the proposed measure in comparing different fusion methods or in optimizing the parameters of a specific algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Robust discrimination of permanent scatterers using Cameron Decomposition",
+            "Publication year": 2014,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9245/92450M/Robust-discrimination-of-permanent-scatterers-using-Cameron-Decomposition/10.1117/12.2067216.short",
+            "Abstract": "One of the main difficulties encountered in Differential Interferometry (DInSAR) applications is temporal and spatial decorrelation over time. Single pixels, called Permanent Scatterers (PS), overcome this difficulty since they are coherent over time and over wide look-angle variations. Permanent Scatterers identification using interferographic techniques is unfeasible since they require the use of many acquisitions. Samsonov and Tiampo have presented a technique that selects Permanent Scatterers by analyzing their Polarization Phase Difference (PPD). The PPD approach would work just fine looking for single bounce scatterers because they are invariant to any initial arbitrary rotation between the scatterer and the radar Line of Sight (LOS). We propose to replace the PPD technique with Cameron\u2019s Coherent Target Decomposition (CTD) because it is more accurate in finding the single and double bounce \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:NhqRSupF_l8C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Classification of multitemporal SAR images for the broader area of Athens",
+            "Publication year": 2005,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5982/59820V/Classification-of-multitemporal-SAR-images-for-the-broader-area-of/10.1117/12.627536.short",
+            "Abstract": "A comparison of different classification approaches for multitemporal SAR images data sets is provided in this work. The aim is to assess the performance of estimators of the backscatter temporal variability in terms of classification accuracy for a typical four-class problem. Different approaches in forming an appropriate feature vector are discussed and compared with multichannel classifiers like the fuzzy k-means. Finally, a classifier that employs a feature fusion step based on principal components analysis is proven promising since it provides increased classification accuracy and reduced computational complexity.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Intoxicated person discrimination using infrared signature of facial blood vessels",
+            "Publication year": 2016,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00450618.2015.1060522",
+            "Abstract": "In this work, facial thermal infrared images are employed for intoxicated person discrimination. The activity of the facial blood vessels of sober and intoxicated people comes into sight when nonlinear anisotropic diffusion and top-hat transformation are applied to enhance and isolate the vessels from the rest of the information on the face. For an intoxicated person, vessels around the nose and eyes as well as on the forehead become more active, whereas for a person who is sober the vessels\u2019 activity is smoother all over the face\u2019s thermal image. Accordingly, drunkenness can be ascertained by only using the thermal infrared image of the intoxicated person. The proposed method can be incorporated into a non-invasive inspection system used by the police as a first step for intoxicated person detection. The Student\u2019s t-test is employed to assess the degree of confidence in separating the thermal images \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Improved search for solar chameleons with a GridPix detector at CAST",
+            "Publication year": 2019,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/032/meta",
+            "Abstract": "We report on a new search for solar chameleons with the CERN Axion Solar Telescope (CAST). A GridPix detector was used to search for soft X-ray photons in the energy range from 200 eV to 10 keV from converted solar chameleons. No significant excess over the expected background has been observed in the data taken in 2014 and 2015. We set an improved limit on the chameleon photon coupling, \u03b2 \u03b3 lesssim# 5.7\u00d7 10 10 for 1< \u03b2 m< 10 6 at 95% CL improving our previous results by a factor two and for the first time reaching sensitivity below the solar luminosity bound for tachocline magnetic fields up to 12.5 T.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:bnK-pcrLprsC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Management and development of research at the University of Patras: A big challenge (full text in Greek)",
+            "Publication year": 2011,
+            "Publication url": "https://efe.lis.upatras.gr/index.php/academia/article/viewFile/78/148",
+            "Abstract": "This text is a transcript of an oral presentation made by the former Vice President of the University of Patras at the Network\u2019s doctoral level seminar, entitled\";;;;;;; European Policy on Education: Theory, methodology, analysis, interpretation\";;;;;;;. The purpose of the presentation is to examine the management and development of research at the University of Patras, 2005-2009. Through his personal experience, Anastassopoulos attempts to outline, on the one hand, the overall context in which the Greek University operates in the fields of research and policy, and, on the other hand, endeavors to fulfill its development in particular at the University of Patras during the period in question.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Information fusion in ad hoc wireless sensor networks for aircraft health monitoring",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4020-9402-6_25",
+            "Abstract": "In this paper the use of an ad hoc wireless sensor network for implementing a structural health monitoring system is discussed. The network is consisted of sensors deployed throughout the aircraft. These sensors being in the form of a microelectronic chip and consisted of sensing, data processing and communicating components could be easily embedded in any mechanical aircraft component. The established sensor network, due to its ad hoc nature is easily scalable, allowing adding or removing any number of sensors. The position of the sensor nodes need not necessarily to be engineered or predetermined, giving this way the ability to be deployed in inaccessible points. Information collected from various sensors of different modalities throughout the aircraft is then fused in order to provide a more comprehensive image of the aircraft structural health. Sensor level fusion along with decision quality \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Springer, Dordrecht"
+        },
+        {
+            "Title": "Eye temperature distribution in drunk persons using thermal imagery",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6617161/",
+            "Abstract": "Temperature distribution on the eyes of sober and drunk persons is studied and preliminary results are given regarding temperature changes. It is observed using simple image processing algorithms and histogram modification techniques that the temperature difference between the sclera and the iris increases when somebody consumes alcohol. Iris becomes darker, which means that its temperature decreases compared to sclera temperature.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:D03iK_w7-QYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "arXiv: Search for axions in streaming dark matter",
+            "Publication year": 2017,
+            "Publication url": "https://cds.cern.ch/record/2262548",
+            "Abstract": "A new search strategy for the detection of the elusive dark matter (DM) axion is proposed. The idea is based on streaming DM axions, whose flux might get temporally enormously enhanced due to gravitational lensing. This can happen if the Sun or some planet (including the Moon) is found along the direction of a DM stream propagating towards the Earth location. The experimental requirements to the axion haloscope are a wide-band performance combined with a fast axion rest mass scanning mode, which are feasible. Once both conditions have been implemented in a haloscope, the axion search can continue parasitically almost as before. Interestingly, some new DM axion detectors are operating wide-band by default. In order not to miss the actually unpredictable timing of a potential short duration signal, a network of co-ordinated axion antennae is required, preferentially distributed world-wide. The reasoning presented here for the axions applies to some degree also to any other DM candidates like the WIMPs.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Information measure for assessing pixel-level fusion methods",
+            "Publication year": 2004,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5573/0000/Information-measure-for-assessing-pixel-level-fusion-methods/10.1117/12.565597.short",
+            "Abstract": "An objective measure for evaluating the performance of pixel level fusion methods is introduced in this work. The proposed measure employs mutual information and conditional mutual information in order to assess and represent the amount of information transferred from the source images to the final fused greyscale image. Accordingly, the common information contained in the source images is considered only once in the formation of the final image. The measure can be used regardless the number of source images or the assumptions about the intensity values and there is no need for an ideal or test image. The experimental results clarify the usefulness of the proposed measure.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "arXiv: aKWISP: investigating short-distance interactions at sub-micron scales",
+            "Publication year": 2018,
+            "Publication url": "https://cds.cern.ch/record/2312303",
+            "Abstract": "The sub-micron range in the field of short distance interactions has yet to be opened to experimental investigation, and may well hold the key to understanding al least part of the dark matter puzzle. The aKWISP (advanced-KWISP) project introduces the novel Double Membrane Interaction Monitor (DMIM), a combined source-sensing device where interaction distances can be as short as 100 nm or even 10 nm, much below the 1-10 micron distance which is the lower limit encountered by current experimental efforts. aKWISP builds on the technology and the results obtained with the KWISP opto-mechanical force sensor now searching at CAST for the direct coupling to matter of solar chameleons. It will reach the ultimate quantum-limited sensitivity by exploiting an array of technologies, including operation at milli-Kelvin temperatures. Recent suggestions point at short-distance interactions studies as intriguing possibilities for the detection of axions and of new physical phenomena.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Facial blood vessels activity in drunk persons using thermal infrared",
+            "Publication year": 2011,
+            "Publication url": "https://digital-library.theiet.org/content/conferences/10.1049/ic.2011.0108",
+            "Abstract": "In this work, the activity of the facial blood vessels of drunk persons is studied using thermal infrared images. Nonlinear anisotropic diffusion is applied to enhance the vessels on the images and after that top-hat transformation is used for isolating them from the rest information on the face. Simple thresholding is applied to raise the more active vessels. Registration procedures are employed to easily compare the vessel activity on the face of the drunk person with that on the sober person. In drunk persons, vessels around nose and eyes as well as on the forehead become more active. This work constitutes a preliminary study, which aims at qualitative and not quantitative results. Basically, the restricted number of the 20 persons that participated in the experiment is not considered adequate for statistical inference. (5 pages)",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:BqipwSGYUEgC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Detection of retinal pigment epithelium detachment from OCT images using multiscale Gaussian filtering",
+            "Publication year": 2019,
+            "Publication url": "https://content.iospress.com/articles/technology-and-health-care/thc181501",
+            "Abstract": "Macular diseases, including neovascular age-related macular degeneration (nvAMD), are leading causes of irreversible blindness and visual impairment. One prominent feature of nvAMD is the detachment of the retinal pigment epithelium. The aim of this study is to implement an automated method for the segmentation of the pigment epithelial detachment (PED) using optical coherence tomography (OCT). OCT datasets from 8 patients with nvAMD were acquired during multiple sessions. At each session, 17 images with a resolution of 1020\u00d7 640 pixels were obtained. The images were segmented using Gaussian filtering and template matching for the detection of the upper and lower border of the PED, respectively. The results of the method were compared with the ones obtained from the manual segmentation of the images by an expert. Four well-known metrics were used to evaluate the performance of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "Signatures for solar axions/WISPs",
+            "Publication year": 2010,
+            "Publication url": "https://arxiv.org/abs/1011.0629",
+            "Abstract": "Standard solar physics cannot account for the X-ray emission and other puzzles, the most striking example being the solar corona mystery. The corona temperature rise above the non-flaring magnetized sunspots, while the photosphere just underneath becomes cooler, makes this mystery more intriguing. The paradoxical Sun is suggestive of some sort of exotic solution, axions being the (only?) choice for the missing ingredient. We present atypical axion signatures, which depict solar axions with a rest mass max ~17 meV/c2. Then, the Sun has been for decades the overlooked harbinger of new particle physics.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Markov chain model based on Cameron's CTD ship detection scheme",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7738205/",
+            "Abstract": "In this paper we address the issue of ship detection by employing fully polarimetric data. A novel ship detection scheme based on first order Markov Models along with Cameron's decomposition elemental scatterers will be introduced. Our aim is to connect polarimetric decompositions with stochastic methods to achieve an automatic and systematic ship detection procedure based on the geometric properties of the scene scatterers. Cameron's symmetric scatterers will be used as the quantized structural elements of the scene. However though, the scene scatterers distribution is solely owed to the local topography of the scene and the random position of the ships. Thus, in order to overcome the stochastic nature of the composition of the scene a first order Markov chain model will be utilized. A running kernel on the image scene will feed the Markov chain model with data which in turn will be processing every pixel in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:geHnlv5EZngC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DESY: Search for streaming dark matter axions or other exotica",
+            "Publication year": 2018,
+            "Publication url": "https://cds.cern.ch/record/2677497",
+            "Abstract": "We suggest a new approach to search for galactic axions or other similar exotica. Streaming dark matter (DM) could have a better discovery potential because of flux enhancement, due to gravitational lensing when the Sun and/or a planet are aligned with a DM stream [1]. Of interest are also axion miniclusters, in particular, if the solar system has trapped one during its formation. Wide-band axion antennae fit this concept, but also the proposed fast narrow band scanning. A network of detectors can provide full time coverage and a large axion mass acceptance. Other DM searches may profit from this proposal.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A polarimetric CFAR ship detector based on the joint probability function of simulated first-order Markov chains",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1579379",
+            "Abstract": "In this work, a novel ship detection procedure is presented for radar signals whose backscattering power is of the same order while their polarimetric characteristics differ greatly. The stochastic nature of the polarimetric characteristics of the background (clutter) and the target signal (ship) can be adequately described by first-order Markov chains (FMCs). The proposed feature corresponds to the joint probability of sequential states of variable finite sequential segments of the FMCs. The classic Constant False Alarm Rate (CFAR) detection theory is adapted to the discrete space of the Markov experimental distributions of the proposed feature while the adaptive thresholding technique is overcome by considering a global model for describing the clutter. Performance assessment of the proposed detection procedure is carried out by means of three sets of FMCs each one corresponding to a clutter-target pair for different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Delta-sigma Modulators: Modeling, Design And Applications",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Gum3CgAAQBAJ&oi=fnd&pg=PR5&dq=info:NtRj_yGjH9cJ:scholar.google.com&ots=YcBYM6hcEf&sig=fkSu72jM2azAuJybPFtWVafR2SQ",
+            "Abstract": "This important book deals with the modeling and design of higher-order single-stage delta-sigma modulators. It provides an overview of the architectures, the quantizer models, the design techniques and the implementation issues encountered in the study of the delta-sigma modulators. A number of applications are discussed, with emphasis on use in the design of analog-to-digital converters and in frequency synthesis. The book is education-rather than research-oriented, containing numerical examples and unsolved problems. It is aimed at introducing the final-year undergraduate, the graduate student or the electronic engineer to this field.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Markov chain CFAR detection for polarimetric data using data fusion",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6018292/",
+            "Abstract": "This paper proposes a new Markov-chain-based constant false alarm rate (CFAR) detector for polarimetric data using low-level data fusion and high-level decision fusion. The Markov-chain-based CFAR detector extends traditional probability density function (pdf) based CFAR detection to first-order Markov chain model by considering both correlation between neighboring pixels and pdf information in CFAR detection. With the additional correlation information, the proposed approach results in advancing the performance of conventional CFAR detectors. Moreover, to take advantage of full polarizations of polarimetric data, various data fusion methods are considered to improve detection performance, including polarimetric transformation, principal component analysis, and decision fusion. Our experimental results confirm the superiority of the new Markov chain polarimetric CFAR detector over conventional pdf \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A storage ring experiment to detect a proton electric dipole moment",
+            "Publication year": 2016,
+            "Publication url": "https://aip.scitation.org/doi/abs/10.1063/1.4967465",
+            "Abstract": "A new experiment is described to detect a permanent electric dipole moment of the proton with a sensitivity of 10\u221229 e \u22c5 cm by using polarized \u201cmagic\u201d momentum 0.7 GeV/c protons in an all-electric storage ring. Systematic errors relevant to the experiment are discussed and techniques to address them are presented. The measurement is sensitive to new physics beyond the standard model at the scale of 3000 TeV.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "AIP Publishing LLC"
+        },
+        {
+            "Title": "Feature extraction of Meris data",
+            "Publication year": 2004,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.331.7222&rep=rep1&type=pdf",
+            "Abstract": "A feature extraction method is at the core of most multispectral or hyperspectral processing algorithms aiming at classification, compression, colour representation etc. In this work a comparison between three different feature extraction methods, for the case of MERIS data is carried out. This comparison reveals the different properties and drawbacks of each method.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multispectral image fusion for improved rgb representation based on perceptual attributes",
+            "Publication year": 2005,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01431160500127609",
+            "Abstract": "A pixel\u2010level fusion technique for RGB representation of multispectral images is proposed. The technique results in highly correlated RGB components, a fact which occurs in natural colour images and is strictly related to the colour perception attributes of the human eye. Accordingly, specific properties for the covariance matrix of the final RGB image are demanded. Mutual information is employed as an objective criterion for quality refinement. The method provides dimensionality reduction, while the resulting RGB colour image is perceptually of high quality. Comparisons with existing techniques are carried out using both subjective and objective measures.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "the following:\u2014",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1704948/",
+            "Abstract": "List of reviewers Page 1 IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING, \nVOL. 44, NO. 10, OCTOBER 2006 2625 List of Reviewers THE following is a list of reviewers who \nassisted with those papers submitted for publication consideration to the IEEE TRANSACTIONS \nON GEOSCIENCE AND REMOTE SENSING IGARSS\u201905 Special Issue. Adams, I. Alparone, L. \nAmbrosia, V. Amein, A. Anastassopoulos, V. Balick, L. Barducci, A. Berthier, E. Brown, G. \nCabot, F. Camps, A. Casey, K. Chang, C.-I Christodoulou, C. Christophe, E. Cloude, S. \nCorbella, I. Crawford, M. Cumming, I. Del Frate, F. English, S. Font, J. Foucher, S. Franceschetti, \nG. Fusco, A. Gaiser, P. Gamba, P. Geerts, B. Giglio, L. Grodecki, J. Gupta, M. Ho, C.-H. Jin, \nY.-Q. Kasetkasem, T. Kerekes, J. Kim, K.-E. Kim, S.-W. Kim, SJ Kim, Y.-I. Knott, E. Krogager, \nE. Kucera, P. Kunkee, D. Lee, C. Lee, H. Lee, J.-S. Lee, K.-S. Leslie, R. Leverington, D. Li.\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:rO6llkc54NcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New CAST limit on the axion-photon interaction",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1705.02290",
+            "Abstract": "During 2003--2015, the CERN Axion Solar Telescope (CAST) has searched for  conversion in the 9 T magnetic field of a refurbished LHC test magnet that can be directed toward the Sun. In its final phase of solar axion searches (2013--2015), CAST has returned to evacuated magnet pipes, which is optimal for small axion masses. The absence of a significant signal above background provides a world leading limit of  (95% C.L.) on the axion-photon coupling strength for  eV. Compared with the first vacuum phase (2003--2004), the sensitivity was vastly increased with low-background x-ray detectors and a new x-ray telescope. These innovations also serve as pathfinders for a possible next-generation axion helioscope.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DSM generation using multiple radar data for relief change detection in North Peloponnese",
+            "Publication year": 2016,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9688/96880C/DSM-generation-using-multiple-radar-data-for-relief-change-detection/10.1117/12.2241124.short",
+            "Abstract": "Interferometry constitutes a technique of acquisition height information with a range of applications, such as Digital Surface Model (DSM) generation in order to monitoring the Earth's surface. This work is focused on interferometric DSM creation utilizing radar data of Sentinel-1 and TerraSAR-X missions, covering the wider area of Northern Peloponnese. This area is characterized of loose geological formations and intense active tectonics resulting in continuous and intense relief changes. In this context, the accuracy and the update of the DSMs is essential in order to detect and map any terrain change. The selection of Sentinel-1 and TerraSAR-X images was based on the fact that both missions provide timely, with short revisiting period and satisfactory spatial resolution data. In particular, two ranges of radar data from both missions were submitted in interferometric process aimed at DSM creation. The produced \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:sSrBHYA8nusC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Ship Identification Using Signatures from Cross-Polarized SAR Images",
+            "Publication year": 2008,
+            "Publication url": "http://www.wseas.us/e-library/conferences/2008/venice/remote/remote05.pdf",
+            "Abstract": "Ship identification using cross-polarized SAR images is addressed in this correspondence. Crosspolarized images from SAR sensors give information about the capability of the background scatterers to change the polarization of the incidence EM radiation. The amount of this change is used as a measure for characterizing the scattering properties of each pixel on the ship. The ship signature (feature) is formed considering the whole vessel as a distributed target. The Total Degree of Rotation (TDR) of the electromagnetic (EM) radiation constitutes the proposed feature and is measured over all vessel pixels. Pseudo-coloring is employed for visualization purposes. The data used are from Advance-SAR sensor of ENVISAT satellite with VV and VH polarization.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel ship identification system based on polarimetric ASAR data",
+            "Publication year": 2007,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6748/67480X/A-novel-ship-identification-system-based-on-polarimetric-ASAR-data/10.1117/12.737570.short",
+            "Abstract": "The use of satellite imagery and specifically SAR data for vessel detection and identification has attracted researchers during the last decade. The objective of this work is to provide a novel approach for ship identification based mainly on polarimetric data, taking into consideration the different behaviour of the ship in various polarizations. For this purpose new measures and accordingly a new feature vector is proposed. The feature vector is employed in order to create a vessel signatures database and its efficiency is tested on ASAR data.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Scatterer Characterization Based on the Condiagonalization of the Sinclair Backscattering Matrix",
+            "Publication year": 2019,
+            "Publication url": "https://www.jpier.org/PIERM/pier.php?paper=19010902",
+            "Abstract": "In this paper we revisit the condiagonalization of the Sinclair backscattering matrix, to overcome the Huynen decomposition issues, so as to correctly extract scatterer polarimetric properties. The correct extraction of scatterer polarimetric properties will lead to the correct classification of the scatterer predominant scattering mechanism. Huynen used the congruence transformation by a special unitary matrix to diagonalize the Sinclair matrix into a real and nonnegative diagonal matrix. He also expressed the special unitary matrix in terms of the polarization ellipse parameters and associated them with the scatterer orientation, asymmetry, and skip angle. Unfortunately, this association was found misleading. As a result, it makes the scatterer classification ambiguous, for it is based on the scatterer skip angle and the diagonal matrix. To overcome these ambiguities, we perform the diagonalization procedure founded on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:PELIpwtuRlgC",
+            "Publisher": "EMW Publishing"
+        },
+        {
+            "Title": "Statistical and spectral properties of irreducible Markov chains",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028274/",
+            "Abstract": "The spectral and high order statistical characteristics of irreducible Markov chains are studied. A Markov chain, which corresponds to a single-class state-space, is completely determined by its transition matrix. The paper explains analytically how the type of probability density function (PDF), describing the Markov chain, is determined by its transition matrix. Furthermore, it is shown that the correlation properties (power spectrum) and the high order spectra (HOS) of the Markov chain are also expressed by means of specific terms of the transition matrix.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "CAST: An Inspiring Axion Helioscope \u00e0 \u2113a Sikivie",
+            "Publication year": 2010,
+            "Publication url": "https://aip.scitation.org/doi/abs/10.1063/1.3489542",
+            "Abstract": "CAST is a data taking axion helioscope using a recycled LHC test magnet, CERN\u2019s detector technology and cryogenics expertise. An imaging X\u2010ray telescope improves substantially the detection sensitivity and axion\u2010ID. Massive axion\u2010like particles of the Kaluza\u2010Klein type were first introduced to explain the paradox of the hot corona, which is even hotter at locations overlying magnetic spots. This is suggesting that the CAST detection principle might be at work there, but being somehow modified and performing better. Remarkably, the density profile of the Sun allows for resonance crossing (maxionc2\u2248\u0127\u03c9plasma), which axion helioscopes are aiming to reach. The restless Sun favours this occasionally even further. Then, such processes can give rise to a chimera of converted axions or the like, making the Sun appear, within known physics, as mysterious and unpredictable as it is. CAST axion limits were used to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "American Institute of Physics"
+        },
+        {
+            "Title": "Morphological waveform coding for writer identification",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320399000631",
+            "Abstract": "Writer identification is carried out using handwritten text. The feature vector is derived by means of morphologically processing the horizontal profiles (projection functions) of the words. The projections are derived and processed in segments in order to increase the discrimination efficiency of the feature vector. Extensive study of the statistical properties of the feature space is provided. Both Bayesian classifiers and neural networks are employed to test the efficiency of the proposed feature. The achieved identification success using a long word exceeds 95%.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Delta-Sigma Modulators: Modeling",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9865850785883653625&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:eMMeJKvmdy0C",
+            "Publisher": "Imperial College Press"
+        },
+        {
+            "Title": "Drunk person screening using eye thermal signatures",
+            "Publication year": 2016,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1556-4029.12989",
+            "Abstract": "Temperature distribution on the eyes of drunk persons is studied by means of thermal infrared images. The sclera and the iris are of the same temperature for the sober person, while for the intoxicated person, the sclera temperature increases. Consequently, only the thermal images from the drunk persons are necessary for intoxication screening. Forty\u2010one participants drank in a controlled alcohol consumption procedure. Their breath alcohol concentration was above the threshold of 0.2 mg/L of exhaled air, which corresponds to about 0.5 mg of alcohol per cubic centimeter of blood. Histogram modification algorithms were employed to prove that for 36 among the 41 intoxicated persons, the sclera becomes hotter. The Student t\u2010test verified with over 99% confidence the drunk discrimination capabilities of the procedure. The forensic science potential contribution of the method is that face infrared imagery is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Interpolation in multispectral data using neural networks",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=703690284194289694&hl=en&oi=scholarr",
+            "Abstract": "A novel procedure which aims in increasing the spatial resolution of multispectral data and simultaneously creates a high quality RGB fused representation is proposed in this paper. For this purpose, neural networks are employed and a successive training procedure is applied in order to incorporate in the network structure knowledge about recovering lost frequencies and thus giving fine resolution output color images. MERIS multispectral data are employed to demonstrate the performance of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A measure for evaluation of the information content in color images",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1529776/",
+            "Abstract": "The Kullback-Leibler (KL) divergence, a fundamental concept in information theory used to quantify probability density differences, is herein employed in assessing the color content of digital images. For this purpose digital images are encoded in the CIELAB color space and modeled as discrete random fields, which are assumed to be described sufficiently by three-dimensional probability density functions. Subsequently, using the KL divergence, a global quality assessment of an image is presented as the information content of the CIELAB encoding of the image relative to channel capacity. This is expressed by an image with \"maximum realizable color information (MRCI)\" defined in this paper. Additionally, one-dimensional estimates of the marginal distributions in luminance, chroma, and hue are explored, and the proposed quality assessment is examined relative to KL divergences based on these distributions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Delta sigma Modulators, Modeling, Design & simulation",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13363854107716041164&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Imperial college press"
+        },
+        {
+            "Title": "Towards a medium-scale axion helioscope and haloscope",
+            "Publication year": 2017,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1748-0221/12/11/P11019/meta",
+            "Abstract": "We discuss the physics case for and the concept of a medium-scale axion helioscope with sensitivities in the axion-photon coupling a few times better than CERN Axion Solar Telescope (CAST). Search for an axion-like particle with these couplings is motivated by several persistent astrophysical anomalies. We present early conceptual design, existing infrastructure, projected sensitivity and timeline of such a helioscope (Troitsk Axion Solar Telescope Experiment, TASTE) to be constructed in the Institute for Nuclear Research, Troitsk, Russia. The proposed instrument may be also used for the search of dark-matter halo axions.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:D_sINldO8mEC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Scanned images resolution improvement using neural networks",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/article/10.1007/s00521-007-0106-x",
+            "Abstract": "A novel method of improving the spatial resolution of scanned images, by means of neural networks, is presented in this paper. Images of different resolution, originating from scanner, successively train a neural network, which learns to improve resolution from 25 to 50 pixels-per-inch (ppi), then from 100 to 200 ppi and finally, from 50 to 100 ppi. Thus, the network is provided with consistent knowledge regarding the point spread function (PSF) of the scanner, whilst it gains the generalization ability to reconstruct finer resolution images unfamiliar to it. The novelty of the proposed image-resolution-enhancement technique lies in the successive training of the neural structure with images of increasing resolution. Comparisons with the image scanned at 400 ppi demonstrate the superiority of our method to conventional interpolation techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "\" AUG Signals Ltd., TRDL, 560 Lauder Ave.",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=HtPkBwAAQBAJ&oi=fnd&pg=PA261&dq=info:NiehToe0yTEJ:scholar.google.com&ots=4bguE_9N64&sig=kZDoDYyNVAacSrahGVLf3ts8YVA",
+            "Abstract": "A new generalized compound polf (GC-pdf) is proposed to model the amplitude statistics of SAR images. This model is introduced because the K-polf which has been used in the past\" for this purpose, occasionally fails to do so. Such cases are met when the speckle of the clutter deviates from Rayleigh pdf due to the small area of the resolution cell. The speckle and the modulation components of the new compound polf are described using the generalized gamma polf (GT-pdf). A thermal noise component is incorporated in the statistical model. Although it is not possible to have a closed form expression for the model itself, its moments can be obtained in relatively simple expressions and consequently be used for clutter characterization. Using the equivalence of theoretical and experimental moments, real data show very good agreement with the proposed model. The K-polf is proved to be a special case of the GC-pdf.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Signature verification based on line directionality",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1579890/",
+            "Abstract": "A novel technique is presented for off-line signature recognition and verification. The feature extraction procedure employs directional-vectors, similar to those used in chain codes, which provide a global measure of the signature image. The signature trace is transformed into the feature vector by measuring the directional strength of line segments having a chessboard distance equal to two. A probabilistic neural topology is employed for the design of the classifier. In order to obtain comparable results, the method was applied to a database already used in the literature. The verification procedure provides low classification error for authentic signatures while it eliminates the forgers.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Search for axions in streaming dark matter",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1703.01436",
+            "Abstract": "A new search strategy for the detection of the elusive dark matter (DM) axion is proposed. The idea is based on streaming DM axions, whose flux might get temporally enormously enhanced due to gravitational lensing. This can happen if the Sun or some planet (including the Moon) is found along the direction of a DM stream propagating towards the Earth location. The experimental requirements to the axion haloscope are a wide-band performance combined with a fast axion rest mass scanning mode, which are feasible. Once both conditions have been implemented in a haloscope, the axion search can continue parasitically almost as before. Interestingly, some new DM axion detectors are operating wide-band by default. In order not to miss the actually unpredictable timing of a potential short duration signal, a network of co-ordinated axion antennae is required, preferentially distributed world-wide. The reasoning presented here for the axions applies to some degree also to any other DM candidates like the WIMPs.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Edge detection of multispectral images using nonparametric local density estimation",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/40328466/Edge_Detection_of_Multispectral_Images_u20151124-28614-61sa4h.pdf",
+            "Abstract": "Detection of edges in multispectral images has been a challenging task in the research community over the past few years. In this work, a novel vector-based approach is adopted for edge detection in multichannel remotely sensed images. The discontinuity between homogeneous regions in the image is detected using the image density value estimated at the mean vector of the sliding window. The proposed algorithm is nonparametric, computationally simple to implement, providing us with dimensionality reduction in the multivariate feature space.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Off-line metrology on SEM images using gray scale morphology",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s00604-006-0564-3",
+            "Abstract": "Discrimination and metrology results of microlithographic patterns from top-down SEM images are explored by means of morphological image analysis. The method relies on the use of various morphological filters on a top down SEM image. The resulted images are segmented in order to derive a quality factor which discriminates the candidate images as under- or fully-developed. Furthermore, the fully developed images are processed in order to extract useful measurements. The proposed image analysis methodology achieves for first time, to the authors\u2019 knowledge, successful off-line discrimination between under-developed and fully-developed cases. For the latter case, the measuring method relies upon the evaluation of the connected regions in the SEM image after segmentation. This is expressed by the Useful Threshold Range (UTR), which corresponds to that specific value of connected regions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Using synthetic aperture radar data to detect and identify ships",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1981942482435485769&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Assessing information content in color images",
+            "Publication year": 2005,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-14/issue-4/043007/Assessing-information-content-in-color-images/10.1117/1.2137641.short",
+            "Abstract": "The Kullback-Leibler (KL) divergence, which is a fundamental concept in information theory used to quantify probability density differences, is employed in assessing the color content of digital images. For this purpose, digital images are encoded in the CIELAB color space and modeled as discrete random fields, which are assumed to be described sufficiently by 3-D probability density functions. Subsequently, using the KL divergence, a global quality assessment of an image is presented as the information content of the CIELAB encoding of the image relative to channel capacity. This is expressed by an image with \"maximum realizable color information\" (MRCI), which we define. Additionally, 1-D estimates of the marginal distributions in luminance, chroma, and hue are explored, and the proposed quality assessment is examined relative to KL divergences based on these distributions. The proposed measure is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:8k81kl-MbHgC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Fusion of Dissimilar Features from Thermal Imaging for Improving Drunk Person Identification",
+            "Publication year": 2017,
+            "Publication url": "http://www.ijsps.com/uploadfile/2017/1220/20171220032810405.pdf",
+            "Abstract": "In this work two different types of feature vectors are employed for drunk person identification. Both features are coming from the thermal images of the face of the inspected persons and have been derived using different image analysis techniques. Thus, they convey dissimilar information, which has to be transferred onto the same framework and fused to result into a decision with improved reliability. For this purpose conventional data association techniques are employed to explore the available information. These data association techniques are gating, normalization and weighting. After that, fusion of the information is carried out using Support Vector Machines. The resulting decision is of higher reliability compared to those achieved using the individual features separately. Experimental results are provided based on an existing sober-drunk database. The main advantage of the method is that it is not invasive and all the information is acquired remotely. In practice, an electronic system incorporating the proposed approach will point out to the police to whom an extended inspection for alcohol consumption is due. 1",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Clutter and target characterization using Markov chains",
+            "Publication year": 2003,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4885/0000/Clutter-and-target-characterization-using-Markov-chains/10.1117/12.463165.short",
+            "Abstract": "In this paper a new approach for clutter and target characterization is proposed. The method is based on the use of Markov chains for representing the samples of both the clutter and the target. The mathematical representation of the clutter and the target is based on the transition matrix of an irreducible Markov chain. This kind of representation incorporates a full description of the underlying pdf as well as any order of statistical correlation. Among the useful and meaningful parameters of the transition matrix are its eigenvalues. In natural signals, transition matrices have only a small number of their elements with significant value. This fact can be used to device relatively simple Markov chain models for clutter representation. The target statistics can also be modeled by means of a Markov chain model. However, in this case, the model may be simpler since the target samples or pixels are highly correlated and their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:dhFuZR0502QC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Velocity Filter Banks using 3-D FFT",
+            "Publication year": 2013,
+            "Publication url": "https://www.researchgate.net/profile/Georgia-Koukiou/publication/244994139_Velocity_Filter_Banks_using_3-D_FFT/links/0046351ec14f6b7319000000/Velocity-Filter-Banks-using-3-D-FFT.pdf",
+            "Abstract": "In this paper a bank of velocity filters is devised to be used for isolating a moving object with specific velocity in a sequence of frames. The approach used is a 3-D FFT based experimental procedure without applying any theoretical concept from velocity filters. Accordingly, velocity filters are built using the spectral signature of each separate moving object. Experimentation reveals the capabilities of the constructed filter bank to separate moving objects as far as the amplitude as well as the direction of the velocity are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:u_35RYKgDlwC",
+            "Publisher": "World Academy of Science, Engineering and Technology (WASET)"
+        },
+        {
+            "Title": "Development of a polarimetric CFAR detector using Markov chains",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4721036/",
+            "Abstract": "The paper proposes a novel constant false alarm rate (CFAR) detector using Markov chain models, an innovative new technique that will utilize the finer resolution of RADARSAT-2 to yield improved detection performance for higher-resolution objects. The Markov chain based CFAR detector extends traditional PDF based CFAR detection to first-order Markov chain model by considering both correlation between neighboring pixels and PDF information in CFAR detection. With the additional correlation information, the proposed approach results in advancing the performance of conventional CFAR detectors. Our both analytical and experimental results both show that the new Markov chain CFAR detector can improve the conventional PDF CFAR detector about 30% in terms of detection probability gain and about 2.84 dB in terms of signal-to-clutter ratio gain.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Enigmatic sun: Laboratory for new physics",
+            "Publication year": 2008,
+            "Publication url": "https://indico.cern.ch/event/44405/contributions/1936523/attachments/942371/1336579/Zioutas.pdf",
+            "Abstract": "The enigmatic sun: laboratory for new physics. Page 1 The enigmatic sun: laboratory for new \nphysics. K. Zioutas University of Patras & CERN f ll f i C T d! \u2192 follow-up of axions \u2192 CAST \nmotivated! + V. Anastassopoulos, Th. Papaevangelou, Y. Semertzidis, M. Tsagri. p p g g Further \nreading: http://axion wimp desy de/e30/e252/talk 21 zioutas pdf Further reading: \nhttp://axion-wimp.desy.de/e30/e252/talk-21-zioutas.pdf ICPP Bogazici University, Istanbul, \nTurkey Istanbul, Turkey 27th October 2008 Page 2 Probing eV-scale axions with CAST. g By \nCAST Collaboration (: E. Arik et al.). Oct 2008. 17pp. e-Print: arXiv:0810.4482 [hep-ex] Page 3 \nThe CAST Collaboration Page 4 Why axions? Page 5 Physics motivation for axions: y to solve \nthe strong CP problem \u2192 to solve the strong CP problem \u2192 why nEDM \u2192 0 y spin-parity \u21d2 0 - \n\u21d2 \u2248 \u03c0\u03bf , \u03b3 (M1) pp y \u03b3 ( ) A i \u2192 l \u2190 dk tt dk tt Axions \u2192 cosmology \u2190 dark matter + Sun, \u2026 \u2192 ?! ?\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The use of ASAR data for class cover identification from small swatches",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4423096/",
+            "Abstract": "In this work we address the problem of land cover classification in advanced synthetic aperture radar (ASAR) images. The derivation and assessment of texture features for ASAR image segmentation is investigated using full multidimensional co-occurrence matrices as features. Expansion of local patches in terms of Walsh functions helps identify the optimal distance for the calculation of the co-occurrence matrices. The defined distance agrees with the one chosen by performing exhaustive tests where many distances were tried and the best was chosen from the training data. The well known chi-square test of statistical significance has been used for classification.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Drunk person identification using thermal infrared images",
+            "Publication year": 2012,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2012.049747",
+            "Abstract": "Drunk person identification is carried out using thermal infrared images. Two different approaches are proposed for distinguishing a drunk person by means of radiometric values on its face. The features used in the first approach are simply the pixel values of specific points on the face of the person. It is proved that the cluster of a specific person moves in the feature space as the person consumes alcohol. Fisher linear discriminant approach is used for space dimensionality reduction. The feature space is found to be of very low dimensionality. The majority of the clusters moves towards the same direction and the feature space can easily be separated into the \u2018sober\u2019 and \u2018drunk\u2019 regions. Thus the \u2018drunk\u2019 feature space is introduced. In the second approach thermal differences between various locations on the face are evaluated and their value is monitored. It was found that specific areas in the face of a drunk person \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Inderscience Publishers Ltd"
+        },
+        {
+            "Title": "Using synthetic aperture radar data to detect and identify ships",
+            "Publication year": 2008,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.538.9824&rep=rep1&type=pdf",
+            "Abstract": "Synthetic aperture radar (SAR) systems are active sensors offering unique high spatial resolution regardless of weather or other conditions, with wide area coverage over swaths up to 500km across. Furthermore, SAR data can be acquired with great reliability to enable precision monitoring of Earth\u2019s surface. These properties make SAR data the first candidate for operational, near-real-time applications like natural crisis monitoring and surveillance of extensive areas. In the field of Earth observation, SAR is a useful tool for operational or pilot services related to security and the environment. For example, ship detection and identification based on SAR data is a key part of any service or system dealing with maritime traffic, illegal fishery, or sea border activity, or with ocean and coastal management issues such as oil spill detection and monitoring. SAR images have high spatial resolution, so they can be used in sea surface ship monitoring. Ships are typically constructed from large flat metal sheets and hence are usually radar bright and detectable in SAR imagery. 1 Oceangoing ships tend to be larger and made of metal, whereas coastal boats are smaller and may be made of wood or fiberglass. Moreover, when oil slicks occur, they are typically associated with ships. A ship detection system generally consists of five stages, shown in Figure 1. After the image is registered, the land is masked, since most ship detectors produce false alarms when applied to land areas. In some cases, a preprocessing step is necessary to provide more accurately calibrated SAR data. The third step is the actual detection process, which uses constant false alarm rate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fusion of visible and infrared imagery for night color vision",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0141938205000442",
+            "Abstract": "A combined approach for fusing night-time infrared with visible imagery is presented in this paper. Night color vision is thus accomplished and the final scene has a natural day-time color appearance. Fusion is based either on non-negative matrix factorization or on a transformation that takes into consideration perceptual attributes. The final obtained color images possess a natural day-time color appearance due to the application of a color transfer technique. In this way inappropriate color mappings are avoided and the overall discrimination capabilities are enhanced. Two different data sets are employed and the experimental results establish the overall method as being efficient, compact and perceptually meaningful.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Search for chameleons with CAST",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0370269315005596",
+            "Abstract": "In this work we present a search for (solar) chameleons with the CERN Axion Solar Telescope (CAST). This novel experimental technique, in the field of dark energy research, exploits both the chameleon coupling to matter (\u03b2 m) and to photons (\u03b2 \u03b3) via the Primakoff effect. By reducing the X-ray detection energy threshold used for axions from 1 keV to 400 eV CAST became sensitive to the converted solar chameleon spectrum which peaks around 600 eV. Even though we have not observed any excess above background, we can provide a 95% CL limit for the coupling strength of chameleons to photons of \u03b2 \u03b3\u2272 10 11 for 1< \u03b2 m< 10 6.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Modeling the pattern spectrum as a Markov process and its use for efficient shape classification",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5414424/",
+            "Abstract": "In this work the most important morphological granulometry, i.e. the pattern spectrum, is modeled, for the first time in the literature, as a first order Markov process. In addition, each of the terms of the process is shown to be normally distributed. The classification procedure followed for this specific application is based on modeling each separate class as a Markov process and making extensive use of the chain rule. Experimental results support the proposed classification procedure as quite promising, especially when compared to conventional classification techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Koehler, Martin, DESY Kotthaus, Rainer, MPI, Munich Kuster, Markus, Technical University of Darmstadt Laarmann, Tim, DESY Lanfranchi, Jean-Come, University of Munich",
+            "Publication year": 2008,
+            "Publication url": "https://bib-pubdb1.desy.de/record/297006/files/proc08-02.pdf#page=187",
+            "Abstract": "Koehler, Martin, DESY Kotthaus, Rainer, MPI, Munich Kuster, Markus, Technical University of \nDarmstadt Laarmann, Tim, DESY Lanfranchi, Jean-Come, University of Munich Page 187 List \nof Participants Anastassopoulos, Vassilis, University of Patras Baker, Oliver, Yale University \nBaudis, Laura, University of Zurich Boyarsky, Alexey, CERN Bruch, Tobias, University of Zurich \nGiovanni, Cantatore, INFN Cerdeno, David, University of Madrid Chelouche, Doron, Princeton \nChou, Aaron, Fermilab Davenport, Martyn, CERN De Angelis, Alessandro, University of Udine \nEhret, Klaus, DESY Fouch, Mathilde, Universit de Toulouse Frede, Maik, LHZ, Hannover \nGalaverni, Matteo, University of Ferrara Guendelman, Eduardo, Ben Gurion University, Israel \nGuthoerk, Tillmann, University of Freiburg Hildebrandt, Matthias, LHZ, Hannover Huber, \nPatrick, CERN Incicchitti, Antonella, INFN Jaeckel, Joerg, Durham University Karuza, Marin, \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Super-resolution image reconstruction techniques: Trade-offs between the data-fidelity and regularization terms",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1566253510000941",
+            "Abstract": "Stochastic regularized methods are quite advantageous in super-resolution (SR) image reconstruction problems. In the particular techniques, the SR problem is formulated by means of two terms, the data-fidelity term and the regularization term. The present work examines the effect of each one of these terms on the SR reconstruction result with respect to the presence or absence of noise in the low-resolution (LR) frames. Experimentation is carried out with the widely employed L2, L1, Huber and Lorentzian estimators for the data-fidelity term. The Tikhonov and Bilateral (B) Total Variation (TV) techniques are employed for the regularization term. The extracted conclusions can, in practice, help to select an effective SR method for a given sequence of LR frames. Thus, in case that the potential methods present common data-fidelity or regularization term, and frames are noiseless, the method which employs the most \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Local difference patterns for drunk person identification",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-017-4892-6",
+            "Abstract": "In this work, facial thermal infrared images are employed for intoxicated person discrimination. Specifically, the region of the forehead of the face of the sober and the corresponding intoxicated person is used to test if the employed Local Difference Patterns (LDPs) constitute discriminative features. For an intoxicated person, vessels on the forehead become more active so that the intensity of the pixels in this region is affected accordingly. The LDPs employed ignore orientation of the pixels distribution and give emphasis on the first and second norms of the differences as well as the ordered values of the pixels in the employed kernels. The statistics of the LDPs for the drunk person are different from those of the sober one and accordingly drunkenness can be ascertained by comparing the thermal infrared image of the corresponding sober and intoxicated person. Six from the eight LDPs examined to be used \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Fusion of hyperspectral data using segmented PCT for color representation and classification",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1512407/",
+            "Abstract": "Fusion of hyperspectral data is proposed by means of partitioning the hyperspectral bands into subgroups, prior to principal components transformation (PCT). The first principal component of each subgroup is employed for image visualization. The proposed approach is general, with the number of bands in each subgroup being application dependent. Nevertheless, the paper focuses on partitions with three subgroups suitable for RGB representation. One of them employs matched-filtering based on the spectral characteristics of various materials and is very promising for classification purposes. The information content of the hyperspectral bands as well as the quality of the obtained RGB images are quantitatively assessed using measures such as the correlation coefficient, the entropy, and the maximum energy-minimum correlation index. The classification performance of the proposed partitioning approaches is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Neural networks for identifying drunk persons using thermal infrared imagery",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0379073815001681",
+            "Abstract": "Neural networks were tested on infrared images of faces for discriminating intoxicated persons. The images were acquired during controlled alcohol consumption by forty-one persons. Two different experimental approaches were thoroughly investigated. In the first one, each face was examined, location by location, using each time a different neural network, in order to find out those regions that can be used for discriminating a drunk from a sober person. It was found that it was mainly the face forehead that changed thermal behaviour with alcohol consumption. In the second procedure, a single neural structure was trained on the whole face. The discrimination performance of this neural structure was tested on the same face, as well as on unknown faces. The neural networks presented high discrimination performance even on unknown persons, when trained on the forehead of the sober and the drunk person \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The Euler feature vector",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/903719/",
+            "Abstract": "Three topological quantities are proposed in order to be used in combination with the Euler number in shape classification procedures. These quantities are evaluated using the convex deficiency of the shape as well as orientation dependent variations of its convex hull. The proposed topological feature vector is prone to problems or instabilities imposed by the rectangular grid. The computational load is related to the time needed for convex hull and Euler number evaluation. Its classification results are satisfactory when it is used in separating typewritten letters or a small number of binary silhouettes.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Search for chameleons with CAST",
+            "Publication year": 2015,
+            "Publication url": "http://nemertes.library.upatras.gr/jspui/handle/10889/11474",
+            "Abstract": "In this work we present a search for (solar) chameleons with the CERN Axion Solar Telescope (CAST). This novel experimental technique, in the field of dark energy research, exploits both the chameleon coupling to matter (\u03b2m) and to photons (\u03b2\u03b3) via the Primakoff effect. By reducing the X-ray detection energy threshold used for axions from 1 keV to 400 eV CAST became sensitive to the converted solar chameleon spectrum which peaks around 600 eV. Even though we have not observed any excess above background, we can provide a 95% C.L. limit for the coupling strength of chameleons to photons of \u03b2\u03b3 1011for 1 <\u03b2m<106.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Higher order spectral analysis of nonlinear behavior in/spl Sigma/-/spl Delta/modulator",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028270/",
+            "Abstract": "Higher order spectral properties of /spl Sigma/-/spl Delta/ sequences are studied. For this purpose a first-order single stage /spl Sigma/-/spl Delta/ modulator is considered having as input a pure sinusoid. The nonlinear behavior of the /spl Sigma/-/spl Delta/ modulator is examined by means of the bispectrum and the bicoherence. These functions reveal the statistical properties of the quantization noise, its dependence on the signal as well as the phase coupling between the signal and the noise. The quantizer and the integrator of the /spl Sigma/-/spl Delta/ modulator have been studied, using different functions, to simulate the deviations from the ideal behavior.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Clutter and target characterization using Markov chains [4885-34]",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=276736497738138389&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:HDshCWvjkbEC",
+            "Publisher": "International Society for Optical Engineering; 1999"
+        },
+        {
+            "Title": "Fusion using neural networks for intoxication identification",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8401556/",
+            "Abstract": "Fusion of dissimilar features by means of neural networks is demonstrated in this work aiming at improving the performance of these features for drunk person identification. The features are coming from the thermal images of the face of the inspected persons and have been derived using different image analysis techniques. Thus, they convey dissimilar information, which has to be transferred onto the same framework and fused to result into a decision with improved reliability. Conventional data association techniques are employed to explore the available information. After that, fusion of the information is carried out using Neural Networks. The resulting decision is of higher reliability compared to those achieved using the individual features separately. Experimental results are provided based on an existing sober-drunk database. The main advantage of the method is that it is not invasive and all the information is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Super-resolution reconstruction of thermal infrared images",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7815536764075867897&hl=en&oi=scholarr",
+            "Abstract": "In this paper a high-resolution (HR) thermal infrared image is reconstructed from a sequence of subpixel shifted, aliased low-resolution (LR) frames, by means of a stochastic regularized super-resolution (SR) method. The Huber (H) cost function is employed to measure the difference between the projected estimate of the HR image and each LR frame. The bilateral Total Variation (TV) regularization is incorporated as a priori knowledge about the solution. The proposed HTV super-resolution approach that employs the Huber norm in combination with the bilateral TV regularization exhibits superior performance to former SR method. Thus the effect of outliers is significantly reduced and the high-frequency edge structures of the reconstructed HR thermal infrared image are preserved. The proposed technique is also tested on frames that are corrupted by Gaussian noise and proves superior when compared to existing regularized SR method.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Axion searches with helioscopes and astrophysical signatures for axion (-like) particles",
+            "Publication year": 2009,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1367-2630/11/10/105020/meta",
+            "Abstract": "Axions should be produced copiously in stars such as the Sun. The first part of this paper reviews the capabilities and performance of axion helioscopes. The mechanism they rely on is described and the experimental results for the interaction of solar axions and axion-like particles with matter are given. The second part is actually observationally driven. New results obtained with Monte Carlo simulation reconstruct solar observations, previously dismissed, supporting an axion (-like) involvement with m a\u2248 1\u20132\u00d7 10\u2212 2 eV c\u2212 2. To further quantify the suggested solar observations as being originated by axions, additional theoretical work is needed. However, the recently suggested axion interaction with magnetic field gradients is a generic theoretical example that seems to reconcile for the first time current limits, derived from axion helioscopes, and potential axion-related solar x-ray activity, thus avoiding \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "The Enigmatic Sun",
+            "Publication year": 2008,
+            "Publication url": "https://bib-pubdb1.desy.de/record/297006/files/proc08-02.pdf#page=153",
+            "Abstract": "The Sun, a typical middle-aged star, is the most important astronomical body for life on Earth, and since ancient times its phenomena have had a key role in revealing new physics. Answering the question of why the Sun moves across the sky led to the heliocentric planetary model, replacing the ancient geocentric system and foreshadowing the laws of gravity. In 1783 a Sun-like star led the Revd. John Mitchell to the idea of the black hole, and in 1919 the bending of starlight by the Sun was a triumphant demonstration of general relativity. The Sun even provides a laboratory for subatomic physics. The understanding that it shines by nuclear fusion grew out of the nuclear physics of the 1930s; more recently the solution to the solar neutrino \u201cdeficit\u201d problem has implied new physics.This progress in science, triggered by the seemingly pedestrian Sun, seems set to continue, as a variety of solar phenomena still defy theoretical understanding. It may be that one answer lies in astroparticle physics and the curious hypothetical particle known as the axion. Neutral, light, and very weakly interacting, this particle was proposed more than 25 years ago to explain the absence of charge-parity (CP) symmetry violation in the strong interaction. So what are the problems with the Sun? These lie, perhaps surprisingly, with the more visible, outermost layers, which have been observed for hundreds, if not thousands, of years. First, why is the corona-the Suns atmosphere with a density of only a few ngr/m3-so hot, with a temperature of millions of degrees? This question has challenged astronomers since Walter Grotrian, of the Astrophysikalisches Observatorium in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "BYcshrUAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "aKWISP: investigating short-distance interactions at sub-micron scales",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1803.07685",
+            "Abstract": "The sub-micron range in the field of short distance interactions has yet to be opened to experimental investigation, and may well hold the key to understanding al least part of the dark matter puzzle. The aKWISP (advanced-KWISP) project introduces the novel Double Membrane Interaction Monitor (DMIM), a combined source-sensing device where interaction distances can be as short as 100 nm or even 10 nm, much below the 1-10 micron distance which is the lower limit encountered by current experimental efforts. aKWISP builds on the technology and the results obtained with the KWISP opto-mechanical force sensor now searching at CAST for the direct coupling to matter of solar chameleons. It will reach the ultimate quantum-limited sensitivity by exploiting an array of technologies, including operation at milli-Kelvin temperatures. Recent suggestions point at short-distance interactions studies as intriguing possibilities for the detection of axions and of new physical phenomena.",
+            "Abstract entirety": 1,
+            "Author pub id": "BYcshrUAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

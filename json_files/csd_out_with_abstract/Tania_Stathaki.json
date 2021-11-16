@@ -1,0 +1,1381 @@
+[{
+    "name": "Tania Stathaki",
+    "romanize name": "Tania Stathaki",
+    "School-Department": "Electrical and Electronic Engineering",
+    "University": "Imperial College",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 5624,
+    "Scholar name": "Tania Stathaki",
+    "Scholar id": "sAB5gI8AAAAJ",
+    "Affiliation": "Imperial College London",
+    "Citedby": 2808,
+    "Interests": [
+        "Object Tracking",
+        "Image Fusion",
+        "Image Registration",
+        "Image Processing",
+        "Machine Learning"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=sAB5gI8AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Smooth signal extraction from instantaneous mixtures",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4130402/",
+            "Abstract": "The problem of blind separation of statistically independent sources from instantaneous mixtures, using the efficient framework of independent component analysis (ICA), has been widely addressed in the literature. In this letter, the authors propose a sequential blind signal extraction algorithm that attempts to identify smooth sources in instantaneous mixtures. The approach incorporates smoothness constraints in the traditional negentropy cost function to extract smooth components, using an approximate second-order optimization method",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast head-shoulder proposal for deformable part model based pedestrian detection",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7868599/",
+            "Abstract": "In this paper we propose a fast head-shoulder detector as a means to facilitating faster pedestrian detection. The proposed approach is based on the observation that human head-shoulder regions share relatively robust features. The purpose is to address the problem of high computational speed of the deformable part model (DPM) detector by selecting candidate regions with higher likelihood to contain pedestrians. The proposed head-shoulder detector is based on the simple, yet effective normed gradient features. Head-shoulder detector outputs regions which are strong candidates for the presence of pedestrians and therefore, pedestrian detection processes are performed only within these regions, avoiding exhaustive sliding window search across the entire test image. Additionally, a two-pedestrian detector is applied to reinforce the detection accuracy especially in scenarios where pedestrians are close to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image fusion using optimisation",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7991210701977776588&hl=en&oi=scholarr",
+            "Abstract": "Let us have K source images X1,..., X x describing different realisations of the same true scene F. The available images have been acquired from different sensors (multisensor scenario) or they are of the same type but exhibit different types of distortion, as for example blurring (multi-focus scenario). Our aim is to create from these images a single image Y which will be perceptually enhanced. The composite image should contain a more useful description of the scene than the one provided by any of the individual sources, and therefore, should be more useful for human visual or machine perception. The task of combining images to form a single improved image is called image fusion. Image fusion has been used in many fields such as aerial and satellite imaging, med-",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:olpn-zPbct0C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Tensor feature hallucination for few-shot learning",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2106.05321",
+            "Abstract": "Few-shot classification addresses the challenge of classifying examples given not just limited supervision but limited data as well. An attractive solution is synthetic data generation. However, most such methods are overly sophisticated, focusing on high-quality, realistic data in the input space. It is unclear whether adapting them to the few-shot regime and using them for the downstream task of classification is the right approach. Previous works on synthetic data generation for few-shot classification focus on exploiting complex models, e.g. a Wasserstein GAN with multiple regularizers or a network that transfers latent diversities from known to novel classes. We follow a different approach and investigate how a simple and straightforward synthetic data generation method can be used effectively. We make two contributions, namely we show that: (1) using a simple loss function is more than enough for training a feature generator in the few-shot setting; and (2) learning to generate tensor features instead of vector features is superior. Extensive experiments on miniImagenet, CUB and CIFAR-FS datasets show that our method sets a new state of the art, outperforming more sophisticated few-shot data augmentation methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:URolC5Kub84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Texture analysis with the Volterra model using conjugate gradient optimisation",
+            "Publication year": 2001,
+            "Publication url": "https://eprints.soton.ac.uk/255922/1/paper.pdf",
+            "Abstract": "Texture is an important characteristic differentiating objects or regions of interest in an image. A variety of approaches to texture analysis has previously been proposed; the approach in this paper is from the stochastic field, whereby a two-dimensional Volterra model is used to represent a texture field. Statistical moments are introduced as a means of determining the Volterra model generator for an unknown texture, with a view to using this model subsequently for recognition. However, an overdetermined set of equations results. These can be solved in the least squares sense using a conjugate gradient descent method with multiple restarts.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Joint fusion and blind restoration for multiple image scenarios with missing data",
+            "Publication year": 2007,
+            "Publication url": "https://academic.oup.com/comjnl/article-abstract/50/6/660/334919",
+            "Abstract": "Image fusion systems aim at transferring \u2018interesting\u2019 information from the input sensor images to the fused image. The common assumption for most fusion approaches is the existence of a high-quality reference image signal for all image parts in all input sensor images. In the case that there are common degraded areas in at least one of the input images, the fusion algorithms cannot improve the information provided there, but simply convey a combination of this degraded information to the output. The authors propose a combined spatial-domain method of fusion and restoration in order to identify these common degraded areas in the fused image and use a regularized restoration approach to enhance the content in these areas. The proposed approach was tested on both multi-focus and multi-modal image sets and produced interesting results.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Automatic crack detection for tunnel inspection using deep learning and heuristic image post-processing",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10489-018-01396-y",
+            "Abstract": "In this paper, a crack detection mechanism for concrete tunnel surfaces is presented. The proposed methodology leverages deep Convolutional Neural Networks and domain-specific heuristic post-processing techniques to address a variety of challenges, including high accuracy requirements, low operational times and limited hardware resources, poor and variable lighting conditions, low textured lining surfaces, scarcity of training data, and abundance of noise. The proposed framework leverages the representational power of the convolutional layers of CNNs, which inherently selects effective features, thus obviating the need for the tedious task of handcrafted feature extraction. Additionally, the good performance rates attained by the proposed framework are acquired at a significantly lower execution time compared to other techniques. The presented mechanism was designed and developed as a core \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:UHK10RUVsp4C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Discrimination of vegetation height categories with passive satellite sensor imagery using texture analysis",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7061969/",
+            "Abstract": "Vegetation height is a crucial factor in environmental studies, landscape analysis, and mapping applications. Its estimation may prove cost and resource demanding, e.g., employing light detection and ranging (LiDAR) data. This study presents a cost-effective framework for height estimation, built around texture analysis of a single very high-resolution passive satellite sensor image. A number of texture features are proposed, based on local variance, entropy, and binary patterns. Their potential in discriminating among classes in a wide range of height values used for habitat mapping (from less than 5 cm to 40 m) is tested in an area with heath, tree, and shrub vegetation. A number of missing data handling, outlier removal, and data normalization methods are evaluated to enhance the proposed framework. Its performance is tested with different classifiers, including single and ensemble tree ones and support vector \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FOREST BIOMASS SPECIES CATEGORIZATION AND EVALUATION OF THEIR CONDITION AND QUALITY USING AERIAL IMAGES",
+            "Publication year": 2019,
+            "Publication url": "https://www.researchgate.net/profile/Vasiliki-Kamperidou-2/publication/338356926_FOREST_BIOMASS_SPECIES_CATEGORIZATION_AND_EVALUATION_OF_THEIR_CONDITION_AND_QUALITY_USING_AERIAL_IMAGES/links/5e0eea1a4585159aa4adc1c0/FOREST-BIOMASS-SPECIES-CATEGORIZATION-AND-EVALUATION-OF-THEIR-CONDITION-AND-QUALITY-USING-AERIAL-IMAGES.pdf",
+            "Abstract": "In recent years, the effects of climate change have become more intense and the role played by the forest ecosystems and the forest biomass produced, seems to become increasingly important. Forest biomass is a source of large quantities of timber, but also of a great variety of valuable materials, chemicals and biofuels, and therefore, the identification of the species, the categorization of them into tree and non-tree species, the monitoring and assessment of their health status, as well as quality characteristics, where feasible, constitute crucial actions of a plan for the protection and rational management of the forest biomass. In the current work, for the identification and recording of trees and shrub vegetation species, the disease detection and the assessment of the biomass condition and quality in an operationally, time and power cost efficient manner, the use of aerial data is proposed. Specifically, using the abovementioned data, we propose the segmentation of trees and shrubs applying an energy minimization approach and then, assuming that the forest areas and forest biomass quality depends on trees and shrubs vegetation condition, their modelling through the extraction of multi-pyramid textural features through linear dynamical systems. The experimental results presented use images of a forest area in Greece, where fir trees prevail, and reveal the great potential of the proposed methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:evX43VCCuoAC",
+            "Publisher": "Editura Universitatii\" Transilvania\" din Brasov"
+        },
+        {
+            "Title": "Subpixel registration with gradient correlation",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5648352/",
+            "Abstract": "We address the problem of subpixel registration of images assumed to be related by a pure translation. We present a method which extends gradient correlation to achieve subpixel accuracy. Our scheme is based on modeling the dominant singular vectors of the 2-D gradient correlation matrix with a generic kernel which we derive by studying the structure of gradient correlation assuming natural image statistics. Our kernel has a parametric form which offers flexibility in modeling the functions obtained from various types of image data. We estimate the kernel parameters, including the unknown subpixel shifts, using the Levenberg-Marquardt algorithm. Experiments with LANDSAT and MRI data show that our scheme outperforms recently proposed state-of-the-art phase correlation methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimal edge detection using multiple operators for image understanding",
+            "Publication year": 2011,
+            "Publication url": "https://asp-eurasipjournals.springeropen.com/articles/10.1186/1687-6180-2011-28",
+            "Abstract": "Extraction of features, such as edges for the understanding of aerial images, has been an important objective since the early days of remote sensing. This work aims at describing a new framework which allows for the quantitative combination of a preselected set of edge detectors based on the correspondence between their outcomes. This is inspired from the problem that despite the enormous amount of literature on edge detection techniques, there is no single technique that performs well in every possible image context. Two approaches are proposed for this purpose. The first approach is the well-known receiver operating characteristics analysis which is introduced for a sound quality evaluation of the edge maps estimated by combining different edge detectors. In the second approach, the so-called kappa statistics are employed in a novel fashion to amalgamate the above-mentioned selected edge maps to form an improved final edge image. This method is unique in the sense that the balance between the false detections (false positives and false negatives) is explicitly determined in advance and incorporated in the proposed method in a mathematical fashion. For the performance evaluation of the proposed techniques, a sample set of the RADIUS/DARPA-IU Fort Hood aerial image database with known ground truth has been used.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:YOwf2qJgpHMC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "Digital image watermarking using block-based Karhunen-Loeve transform",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1296458/",
+            "Abstract": "This paper proposes a novel method for watermarking of single realisations of greyscale digital images using the Karhunen-Loeve transform (KLT). The utilisation of the KLT normally implies the availability of multiple realisations of the image of interest. However, the derivation of the KLT in the case of a single realisation is possible under certain assumptions. The KLT transforms the original image into a new image with components (pixels) which ideally are statistically independent. The watermark is introduced during the transformation process. The proposed method is encouraging as far as imperceptibility and robustness are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Introduction to Face Recognition and Recent Work",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14867526117013652487&hl=en&oi=scholarr",
+            "Abstract": "Tianrui Liu, a, b Wan-Chi Siu, a Cigdem Turan, a Shun-Cheung Lai, a",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:epqYDVWIO7EC",
+            "Publisher": "Jenny Stanford Publishing"
+        },
+        {
+            "Title": "Fast head-shoulder proposal for scare-aware pedestrian detection",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3056540.3076202",
+            "Abstract": "In this paper, we propose a scare-aware pedestrian detection method assisted by a fast head-shoulder detection process to pre-estimate the candidate regions that may contain target pedestrians. Based on the observation that human head-shoulder regions share relatively robust features, we propose a head-shoulder detector using six aggregated feature channels. Motivated by fact that visual appearance of the large-size and small-size pedestrians are significantly different, we apply a scale-aware detection mechanism. Two detectors are used, each focuses on the detection of either large-size or small-size pedestrians. The detection results from two detectors are weighted combined so that final detection results can be reinforced by a proper detector with respect to the size of the candidate pedestrian.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A rule-based classification methodology to handle uncertainty in habitat mapping employing evidential reasoning and fuzzy logic",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S016786551300425X",
+            "Abstract": "Habitat mapping is a core element in numerous tasks related to sustainability management, conservation planning and biodiversity monitoring. Land cover classifications, extracted in a timely and area-extensive manner through remote sensing data, can be employed to derive habitat maps, through the use of domain expert knowledge and ancillary information. However, complete information to fully discriminate habitat classes is rarely available, while expert knowledge may suffer from uncertainty and inaccuracies. In this study, a rule-based classification methodology for habitat mapping through the use of a pre-existing land cover map and remote sensing data is proposed to deal with uncertainty, missing information, noise afflicted data and inaccurate rule thresholds. The use of the Dempster\u2013Shafer theory of evidence is introduced in land cover to habitat mapping, in combination with fuzzy logic. The framework is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:_kc_bZDykSQC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Fusion of edge maps using statistical approaches",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PA273&dq=info:CuSmizq1134J:scholar.google.com&ots=Can0HrSEzw&sig=6TyXpZObY6u_qBrXxg7Z7rw1DcM",
+            "Abstract": "This work aims at describing a new framework which allows for the quantitative fusion of edge maps that arise from both different preselected edge detectors and multiple image realisations. This work is inspired from the problem that despite the enormous amount of literature on edge detection techniques, there is no single one that performs well in every possible image context. Two approaches are proposed for this purpose. The first one is the so-called Receiver Operating Characteristics (ROC) analysis which is introduced for a sound performance evaluation of the edge maps that emerge from different parameter specifications. In the second one, the Kappa Statistics are employed in a novel fashion to estimate the accuracy of the above edge maps in order to form the optimum final edge image. This method is unique in the sense that the balance between the false detections (False Positives and False Negatives) is explicitly assessed in advance and incorporated in the estimation of the optimum threshold. The results of applying the above two techniques are demonstrated and compared.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Region-based ICA image fusion using textural information",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6622678/",
+            "Abstract": "Image Fusion is the procedure of combining useful features from multiple sensor image inputs to form a single composite image. In this work, the authors extend the previously proposed Image Fusion framework, based on self-trained Independent Component Analysis (ICA) bases, to a more sophisticated region-based Image Fusion system. The input images are segmented into three areas of different activity : edges, texture and constant background. A hierarchical set of fusion rules employing textural information from the spatial-domain in the form of local variance, entropy and fourier energy is introduced. The proposed system improves the performance of our previous system.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:2P1L_qKh6hAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optimal contrast correction for ICA-based fusion of multimodal images",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4675635/",
+            "Abstract": "In this paper, the authors revisit the previously proposed Image Fusion framework, based on self-trained independent component analysis (ICA) bases. In the original framework, equal importance was given to all input images in the reconstruction of the ldquofusedrdquo image's intensity. Even though this assumption is valid for all applications involving sensors of the same modality, it might not be optimal in the case of multiple modality inputs of different intensity range. The authors propose a method for estimating the optimal intensity range (contrast) of the fused image via optimization of an image fusion index. The proposed approach can be employed in a general fusion scenario including multiple sensors.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DFT algorithm based on FIR filter banks",
+            "Publication year": 2003,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/el_20030031",
+            "Abstract": "A discrete Fourier transform (DFT) algorithm based on filter banks (FBs) for computation of an N-point DFT from M DFTs of length N/M is presented. The input signal of length N is analysed with an M-band finite impulse response (FIR) FB yielding M subband signals. These are aliased in the time-domain to produce M sequences of length N/M the DFTs of which are then adequately combined to yield the DFT of the input. A significant reduction in computational complexity results if the DFT of the input signal is estimated using some instead of all the M lower-length DFTs. In this case the proposed algorithm outperforms the subband DFT (SB-DFT) method with respect to estimation accuracy. More specifically, due to the highly frequency selective filters used to analyse the input data, the proposed method substantially reduces the aliasing encountered with SB-DFT, while due to the perfect reconstruction property of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Human Detection from Ground Truth Cameras through Combined Use of Histogram of Oriented Gradients and Body Part Models.",
+            "Publication year": 2016,
+            "Publication url": "https://pdfs.semanticscholar.org/fa0d/0eac805e9382cbdaff923ce6d17f7fbd0b43.pdf",
+            "Abstract": "Vision based human detection continuously attracts research interest since it is a topic of practical significance. The well-established Histogram of Oriented Gradients (HOG) human detector, though regarded as a reference for human detection, still suffers from the typical problem of the trade-off between precision and recall, relying on the threshold of its classifiers. In this paper, we propose a human detection system which can provide both good precision and recall without the need for adjusting the classification thresholds. Our strategy is to combine the HOG detector with a body part model in order to eliminate the false detections that do not match the human silhouette (body) model. For this purpose, a probabilistic model of the human body is learned to describe the relative position between the distinctive body parts. A HOG detection would be retained if the body parts can be detected in the confidence areas provided by the learned body model. Moreover, the body parts detectors are boosted cascade classifier learned with the Haar, HOG or LBP features. The multi-modal feature representation of the different human body parts is more robust against variations in human appearances. Experiment results on the INRIA data sets show that our human detector achieves a precision of 70% at a recall of 50%, which cannot be achieved by the HOG detector under any parameter settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Convergence analysis of an adaptive filtering structure using a new adaptation scheme",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1188124/",
+            "Abstract": "The convergence analysis of a maximally decimated (MD) adaptive filtering structure (AFS) employing a new adaptation scheme is presented. The structure was based on uniform perfect reconstruction (PR) filter banks (FB), their dual transmultiplexers (TMUX) and a model for the system under identification of interpolated FIR (IFIR) filters connected in parallel. A new algorithm was used for the adaptation of the subband filter coefficients employing a new power normalisation (PN) scheme introduced in Papoulis et al. (2002). This structure is briefly described here, the adaptive algorithm is presented and an extensive convergence analysis is then given. Reference then is made to the relevant work reported in Petraglia et al. (2000), namely to a structure that can be considered as the dual of the one presented here and employed an adaptive algorithm that is a simplified version of the one we proposed. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:eJXPG6dFmWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mean shift tracking through scale and occlusion",
+            "Publication year": 2012,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-spr.2011.0136",
+            "Abstract": "This study describes a method for tracking objects through scale and occlusion. The technique presented is based on the mean shift algorithm, which provides an efficient way to track objects based on their colour characteristics. A novel and efficient method is derived for tracking through changes in the target scale, where an object of interest moves away or towards the camera and therefore appears to change size in the image plane. The method works by interleaving spatial mean shift iterations with scale iterations. It is shown that this method is considerably more efficient than other methods and possesses other advantages too. It is also demonstrated that the Bhattacharyya coefficient, a histogram similarity metric that is used in the mean shift framework, can be used to reliably detect when target occlusion occurs. In such situations, the motion of an object can be extrapolated to give an accurate estimate of its \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:8k81kl-MbHgC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Texture characterization using autoregressive models with applications to medical imaging",
+            "Publication year": 2005,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=wUFb-RmQQ0IC&oi=fnd&pg=PA185&dq=info:TdEPaDmCXaMJ:scholar.google.com&ots=JxW0JInQn0&sig=YXUOKveQgJ1V49boZD0seEKB1Ao",
+            "Abstract": "In this chapter, we introduce texture characterization using autoregressive (AR) models and demonstrate its potential use in medical-image analysis. The one-dimensional AR modeling technique has been used extensively for one-dimensional biomedical signals, and some examples are given in Section 5.1. 1. For two-dimensional biomedical signals, the idea of applying the two-dimensional AR modeling technique has not been explored, as only a couple of examples can be found in the literature, as shown in Section 5.1. 2.In the following sections, we concentrate on a two-dimensional AR modeling technique whose results can be used to describe textured surfaces in images under the assumption that every distinct texture can be represented by a different set of two-dimensional AR model coefficients. The conventional Yule-Walker system of equations is one of the most widely used methods for solving AR model coefficients, and the variances of the estimated coefficients obtained from a large number of realizations, ie, simulations using the output of a same set of AR model coefficients but randomly generated driving input, are sufficiently low. However, estimations fail when large external noise is added onto the system; if the noise is Gaussian, we are tempted to work in the third-order statistical domain, where the third-order moments are employed, and therefore the external Gaussian noise can be eliminated [1, 2]. This method leads to higher variances from the estimated AR model coefficients obtained from a number of realizations. We propose three methods for estimation of two-dimensional AR model coefficients. The first method relates \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:SeFeTyx0c_EC",
+            "Publisher": "CRC Taylor & Francis Group"
+        },
+        {
+            "Title": "Gated multi-layer convolutional feature extraction network for robust pedestrian detection",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9054437/",
+            "Abstract": "Pedestrian detection methods have been significantly improved with the development of deep convolutional neural networks. Nevertheless, it remains a challenging problem how to robustly detect pedestrians of varied sizes and with occlusions. In this paper, we propose a gated multi-layer convolutional feature extraction method which can adaptively generate discriminative features for candidate pedestrian regions. The proposed gated feature extraction framework consists of squeeze units, gate units and concatenation layers which perform feature dimension squeezing, feature manipulation and features combination from multiple CNN layers, respectively. We proposed two different gate models that can manipulate the regional feature maps in a channel-wise selection manner and a spatial-wise selection manner, respectively. Experiments on the challenging CityPersons dataset demonstrate the effectiveness of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:tKAzc9rXhukC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Two-dimensional autoregressive modelling using joint second and third order statistics and a weighting scheme",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7080117/",
+            "Abstract": "The two-dimensional autoregressive modelling problem is attempted using a combination of the Yule-Walker system of equations and the Yule-Walker system of equations in the third-order statistical domain. A novel weighting scheme that relates the contribution of the two systems is proposed and some simulations results are provided to verify the improved estimations.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:JV2RwH3_ST0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A New Approach to System Identification Based on the Generalised Structural Subband Decomposition",
+            "Publication year": 2001,
+            "Publication url": "http://www.ee.ucl.ac.uk/lcs/previous/LCS2001/LCS025.pdf",
+            "Abstract": "Eftychios V. Papoulis and Tania Stathaki Communications & Signal Processing Group Imperial College, London Abstract: The System Identification (SI) problem is addressed from the viewpoint of the Generalised Structural Subband Decomposition (GSSD). We present a System Identification Structure (SIS) for the identification of the Generalised Polyphase Components (GPC\u2019s) of the unknown system. Sparsity constraints are imposed on the input for the identification of PC\u2019s to be feasible. Significant computational savings, improved tracking capability and a substantial increase in the convergence rate (CR) in coloured input environments, are the main characteristics/features of the proposed approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "UCL PRESS LTD"
+        },
+        {
+            "Title": "Iterative label cleaning for transductive and semi-supervised few-shot learning",
+            "Publication year": 2021,
+            "Publication url": "http://openaccess.thecvf.com/content/ICCV2021/html/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.html",
+            "Abstract": "Few-shot learning amounts to learning representations and acquiring knowledge such that novel tasks may be solved with both supervision and data being limited. Improved performance is possible by transductive inference, where the entire test set is available concurrently, and semi-supervised learning, where more unlabeled data is available. Focusing on these two settings, we introduce a new algorithm that leverages the manifold structure of the labeled and unlabeled data distribution to predict pseudo-labels, while balancing over classes and using the loss value distribution of a limited-capacity classifier to select the cleanest labels, iteratively improving the quality of pseudo-labels. Our solution surpasses or matches the state of the art results on four benchmark datasets, namely miniImageNet, tieredImageNet, CUB and CIFAR-FS, while being robust over feature space pre-processing and the quantity of available data. The publicly available source code can be found in https://github. com/MichalisLazarou/iLPC",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:nrtMV_XWKgEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Skeleton-based human action recognition through third-order tensor representation and spatio-temporal analysis",
+            "Publication year": 2019,
+            "Publication url": "https://www.mdpi.com/408528",
+            "Abstract": "Given the broad range of applications from video surveillance to human\u2013computer interaction, human action learning and recognition analysis based on 3D skeleton data are currently a popular area of research. In this paper, we propose a method for action recognition using depth sensors and representing the skeleton time series sequences as higher-order sparse structure tensors to exploit the dependencies among skeleton joints and to overcome the limitations of methods that use joint coordinates as input signals. To this end, we estimate their decompositions based on randomized subspace iteration that enables the computation of singular values and vectors of large sparse matrices with high accuracy. Specifically, we attempt to extract different feature representations containing spatio-temporal complementary information and extracting the mode-n singular values with regards to the correlations of skeleton joints. Then, the extracted features are combined using discriminant correlation analysis, and a neural network is used to recognize the action patterns. The experimental results presented use three widely used action datasets and confirm the great potential of the proposed action learning and recognition method. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:W5xh706n7nkC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Pixel-based and region-based image fusion schemes using ICA bases",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1566253505000801",
+            "Abstract": "The task of enhancing the perception of a scene by combining information captured by different sensors is usually known as image fusion. The pyramid decomposition and the Dual-Tree Wavelet Transform have been thoroughly applied in image fusion as analysis and synthesis tools. Using a number of pixel-based and region-based fusion rules, one can combine the important features of the input images in the transform domain to compose an enhanced image. In this paper, the authors test the efficiency of a transform constructed using Independent Component Analysis (ICA) and Topographic Independent Component Analysis bases in image fusion. The bases are obtained by offline training with images of similar context to the observed scene. The images are fused in the transform domain using novel pixel-based or region-based rules. The proposed schemes feature improved performance compared to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Faster R-CNN for robust pedestrian detection using semantic segmentation network",
+            "Publication year": 2018,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fnbot.2018.00064/full",
+            "Abstract": "Convolutional neural networks (CNN) have enabled significant improvements in pedestrian detection owing to the strong representation ability of the CNN features. However,it is generally difficult to reduce false positives on hard negative samples such as tree leaves, traffic lights, poles, etc. Some of these hard negatives can be removed by making use of high level semantic vision cues. In this paper, we propose a region-based CNN method which makes use of semantic cues for better pedestrian detection. Our method extends the Faster R-CNN detection framework by adding a branch of network for semantic image segmentation. The semantic network aims to compute complementary higher level semantic features to be integrated with the convolutional features. We make use of multi-resolution feature maps extracted from different network layers in order to ensure good detection accuracy for pedestrians at different scales. Boosted forest is used for training the integrated features in a cascaded manner for hard negatives mining. Experiments on the Caltech-USA pedestrian dataset show improvements on detection accuracy with the semantic network. With the deep VGG16 model, our pedestrian detection method achieves robust detection performance on the Caltech-USA dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:ZuybSZzF8UAC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Applied multi-dimensional fusion",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8129997/",
+            "Abstract": "The purpose of the Applied Multi-dimensional Fusion Project is to investigate the benefits that data fusion and related techniques may bring to future military Intelligence Surveillance Target Acquisition and Reconnaissance systems. In the course of this work, it is intended to show the practical application of some of the best multi-dimensional fusion research in the UK. This paper highlights the work done in the area of multi-spectral synthetic data generation, super-resolution, joint fusion and blind image restoration, multi-resolution target detection and identification and assessment measures for fusion. The paper also delves into the future aspirations of the work to look further at the use of hyper-spectral data and hyper-spectral fusion. The paper presents a wide work base in multi-dimensional fusion that is brought together through the use of common synthetic data, posing real-life problems faced in the theatre of war \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:Zph67rFs4hoC",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Automatic target recognition strategy for synthetic aperture radar images based on combined discrimination Trees",
+            "Publication year": 2017,
+            "Publication url": "https://www.hindawi.com/journals/cin/2017/7186120/",
+            "Abstract": "A strategy is introduced for achieving high accuracy in synthetic aperture radar (SAR) automatic target recognition (ATR) tasks. Initially, a novel pose rectification process and an image normalization process are sequentially introduced to produce images with less variations prior to the feature processing stage. Then, feature sets that have a wealth of texture and edge information are extracted with the utilization of wavelet coefficients, where more effective and compact feature sets are acquired by reducing the redundancy and dimensionality of the extracted feature set. Finally, a group of discrimination trees are learned and combined into a final classifier in the framework of Real-AdaBoost. The proposed method is evaluated with the public release database for moving and stationary target acquisition and recognition (MSTAR). Several comparative studies are conducted to evaluate the effectiveness of the proposed algorithm. Experimental results show the distinctive superiority of the proposed method under both standard operating conditions (SOCs) and extended operating conditions (EOCs). Moreover, our additional tests suggest that good recognition accuracy can be achieved even with limited number of training images as long as these are captured with appropriately incremental sample step in target poses.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:SdhP9T11ey4C",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Frequency-Domain Joint Motion and Disparity Estimation Using Steerable Filters",
+            "Publication year": 2018,
+            "Publication url": "https://www.mdpi.com/260764",
+            "Abstract": "In this paper, the problem of joint disparity and motion estimation from stereo image sequences is formulated in the spatiotemporal frequency domain, and a novel steerable filter-based approach is proposed. Our rationale behind coupling the two problems is that according to experimental evidence in the literature, the biological visual mechanisms for depth and motion are not independent of each other. Furthermore, our motivation to study the problem in the frequency domain and search for a filter-based solution is based on the fact that, according to early experimental studies, the biological visual mechanisms can be modelled based on frequency-domain or filter-based considerations, for both the perception of depth and the perception of motion. The proposed framework constitutes the first attempt to solve the joint estimation problem through a filter-based solution, based on frequency-domain considerations. Thus, the presented ideas provide a new direction of work and could be the basis for further developments. From an algorithmic point of view, we additionally extend state-of-the-art ideas from the disparity estimation literature to handle the joint disparity-motion estimation problem and formulate an algorithm that is evaluated through a number of experimental results. Comparisons with state-of-the-art-methods demonstrate the accuracy of the proposed approach. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2106.03941",
+            "Abstract": "Salient object detection(SOD) aims at locating the most significant object within a given image. In recent years, great progress has been made in applying SOD on many vision tasks. The depth map could provide additional spatial prior and boundary cues to boost the performance. Combining the depth information with image data obtained from standard visual cameras has been widely used in recent SOD works, however, introducing depth information in a suboptimal fusion strategy may have negative influence in the performance of SOD. In this paper, we discuss about the advantages of the so-called progressive multi-scale fusion method and propose a mask-guided feature aggregation module(MGFA). The proposed framework can effectively combine the two features of different modalities and, furthermore, alleviate the impact of erroneous depth features, which are inevitably caused by the variation of depth quality. We further introduce a mask-guided refinement module(MGRM) to complement the high-level semantic features and reduce the irrelevant features from multi-scale fusion, leading to an overall refinement of detection. Experiments on five challenging benchmarks demonstrate that the proposed method outperforms 11 state-of-the-art methods under different evaluation metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:vDijr-p_gm4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Two-dimensional Chebyshev polynomials for image fusion",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5702526/",
+            "Abstract": "This report documents in detail the research carried out by the author throughout his first year. The paper presents a novel method for fusing images in a domain concerning multiple sensors and modalities. Using Chebyshev polynomials as basis functions, the image is decomposed to perform fusion at feature level. Results show favourable performance compared to previous efforts on image fusion, namely ICA and DT-CWT, in noise affected images. The work presented here aims at providing a novel framework for future studies in image analysis and may introduce innovations in the fields of surveillance, medical imaging and remote sensing.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive image fusion using ICA bases",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1660471/",
+            "Abstract": "Image fusion can be viewed as a process that incorporates essential information from different modality sensors into a composite image. The use of bases trained using independent component analysis (ICA) for image fusion has been highlighted recently. Common fusion rules can be used in the ICA fusion framework with promising results. In this paper, the authors propose an adaptive fusion scheme, based on the ICA fusion framework, that maximises the sparsity of the fusion image in the transform domain",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spatially adaptive intensity bounds for image restoration",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1155/S1110865703308066",
+            "Abstract": "Spatially-adaptive intensity bounds on the image estimate are shown to be an effective means of regularising the ill-posed image restoration problem. For blind restoration, the local intensity constraints also help to further define the solution, thereby reducing the number of multiple solutions and local minima. The bounds are defined in terms of the local statistics of the image estimate and a control parameter which determines the scale of the bounds. Guidelines for choosing this parameter are developed in the context of classical (nonblind) image restoration. The intensity bounds are applied by means of the gradient projection method, and conditions for convergence are derived when the bounds are refined using the current image estimate. Based on this method, a new alternating constrained minimisation approach is proposed for blind image restoration. On the basis of the experimental results provided, it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:7PzlFSSx8tAC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "A novel low false alarm rate pedestrian detection framework based on single depth images",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885615001316",
+            "Abstract": "Pedestrian detection is an important image understanding problem with many potential applications. There has been little success in creating an algorithm which exhibits a high detection rate while keeping the false alarm in a relatively low rate. This paper presents a method designed to resolve this problem. The proposed method uses the Kinect or any similar type of sensors which facilitate the extraction of a distinct foreground. Then potential regions, which are candidates for the presence of human(s), are detected by employing the widely used Histogram of Oriented Gradients (HOG) technique, which performs well in terms of good detection rates but suffers from significantly high false alarm rates. Our method applies a sequence of operations to eliminate the false alarms produced by the HOG detector based on investigating the fine details of local shape information. Local shape information can be identified by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A Probabilistic Feature Fusion for Building Detection in Satellite Images.",
+            "Publication year": 2015,
+            "Publication url": "https://www.scitepress.org/papers/2015/52605/52605.pdf",
+            "Abstract": "Building segmentation from 2D images can be a very challenging task due to the variety of objects that appear in an urban environment. Many algorithms that attempt to automatically extract buildings from satellite images face serious problems and limitations. In this paper, we address some of these problems by applying a novel approach that is based on the fusion of Histogram of Oriented Gradients (HOG), Normalized Difference Vegetation Index (NDVI) and Features from Accelerated Segment Test (FAST) features. We will demonstrate that by taking advantage of the multi-spectral nature of a satellite image and by employing a probabilistic fusion of the aforementioned features, we manage to create a novel methodology that increases the performance of a building detector compared to other state-of-the-art methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Car detection in high-resolution urban scenes using multiple image descriptors",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6977449/",
+            "Abstract": "Robust and efficient detection of cars in urban scenes has many useful applications. This paper introduces a framework for car detection from high-resolution satellite images, wherein a novel extended image descriptor is used to depict the geometric, spectral and colour distribution properties of cars. The proposed framework is based on a sliding-window detection approach and it begins with a pre-prepossessing stage, which discards detection windows that are very unlikely to contain cars, e.g., plain areas and vegetation, followed by the computation of a concatenated feature vector of Histogram of Oriented Gradients, Fourier and truncated Pyramid Colour Self-Similarity image descriptors that is then fed to a pre-trained linear Support Vector Machine classifier to discriminate between the feature and non-feature subspaces. For post-processing, a non-maximum suppression technique is used to eliminate multiple \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:bEWYMUwI8FkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Region-based image fusion using a combinatory Chebyshev-ICA method",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5946628/",
+            "Abstract": "The aim of this paper is to provide an algorithm for image fusion which combines the techniques of Chebyshev polynomial (CP) approximation and independent component analysis (ICA), based on the regional information of input images. We present a region-based method that combines the merits of both techniques. It utilises segmentation to identify edges, texture and other important features in the input image and subsequently apply the different fusion methods according to regions. The proposed method exhibits better perceptual performance than individual CP and ICA fusion approaches especially in noise corrupted images.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cable fault recognition using multiple wavelet neural networks",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4635780/",
+            "Abstract": "The aim of this paper is to realize the online fault recognition instead of the current state-of-the-art of offline fault recognition of the power cable. A novel online fault recognition method of a multiple wavelet neural networks is proposed based on the wavelet energy function of the traveling wave. In the new method, the difference of the zero-order currents between the fault cable and the normal cable are selected as the original fault recognition features. Then the sub-band energy functions of wavelet package of the original features are designed and calculated to serve as the input vectors of the neural networks. Furthermore, an intelligent cable fault diagnosis system is designed. The system consists of 4 wavelet neural networks to recognize the fault and 1 wavelet fault locator to determine the fault position. Finally, the simulation results show that the cable fault recognitions can be implemented correctly. The fault \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A unifying approach to moment-based shape orientation and symmetry classification",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4685872/",
+            "Abstract": "In this paper, the problem of moment-based shape orientation and symmetry classification is jointly considered. A generalization and modification of current state-of-the-art geometric moment-based functions is introduced. The properties of these functions are investigated thoroughly using Fourier series analysis and several observations and closed-form solutions are derived. We demonstrate the connection between the results presented in this work and symmetry detection principles suggested from previous complex moment-based formulations. The proposed analysis offers a unifying framework for shape orientation/symmetry detection. In the context of symmetry classification and matching, the second part of this work presents a frequency domain method, aiming at computing a robust moment-based feature set based on a true polar Fourier representation of image complex gradients and a novel periodicity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Comparison of single channel indices for U-Net based segmentation of vegetation in satellite images",
+            "Publication year": 2020,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/1143319/Comparison-of-single-channel-indices-for-U-Net-based-segmentation/10.1117/12.2556374.short",
+            "Abstract": "Hyper-spectral satellite imagery, consisting of multiple visible or infrared bands, is extremely dense and weighty for deep operations. Regarding problems related to vegetation as, more specifically, tree segmentation, it is difficult to train deep architectures due to lack of large-scale satellite imagery. In this paper, we compare the success of different single channel indices, which are constructed from multiple bands, for the purpose of tree segmentation in a deep convolutional neural network (CNN) architecture. The utilized indices are either hand-crafted such as excess green index (ExG) and normalized difference vegetation index (NDVI) or reconstructed from the visible bands using feature space transformation methods such as principle component analysis (PCA). For comparison, these features are fed to an identical CNN architecture, which is a standard U-Net-based symmetric encoder-decoder design with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:fEOibwPWpKIC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Video event recounting using mixture subclass discriminant analysis",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6738901/",
+            "Abstract": "In this paper, a new feature selection method is used, in combination with a semantic model vector video representation, in order to enumerate the key semantic evidences of an event in a video signal. In particular, a set of semantic concept detectors is firstly used for estimating a model vector for each video signal, where each element of the model vector denotes the degree of confidence that the respective concept is depicted in the video. Then, a novel feature selection method is learned for each event of interest. This method is based on exploiting the first two eigenvectors derived using the eigenvalue formulation of the mixture subclass discriminant analysis. Subsequently, given a video-event pair, the proposed method jointly evaluates the significance of each concept for the detection of the given event and the degree of confidence with which this concept is detected in the given video, in order to decide which \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "INVISIBLE TEXTURE IMAGE WATERMARKING USING THE",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=vVvJINURimIC&oi=fnd&pg=PA246&dq=info:DtkmVLgsmd0J:scholar.google.com&ots=EoSJt0sjHM&sig=13y2xe6Y7big4O9XSv9GuGA0CI4",
+            "Abstract": "This paper proposes a novel method for watermarking of single realisations of greyscale textured images using the Karhunen-Loeve transform (KLT). The utilisation of the KLT normally implies the availability of multiple realisations of the image of interest. However, the derivation of the KLT in the case of a single realisation is possible under certain assumptions. The KLT transforms the original image into a new image with components (pixels) which ideally are statistically independent. The watermark is introduced during the transformation process. The proposed method is encouraging as far as imperceptibility and robustness are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:ipzZ9siozwsC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Blind signal recovery using a novel system identification approach",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028203/",
+            "Abstract": "The blind equalization approaches that have been developed and employed in the literature, in relation to moving average (MA) systems give encouraging results provided that the length of the equalizer is significantly greater than that of the channel. Motivated from a desire to reduce this length, the problem is cast in the context of system identification, in which case any length for the adaptive filter that is equal to or greater than that of the original system may be assumed. To implement the identification problem, a novel low order block based cost function of the constant modulus type is formulated, which is minimized using a zero tolerance optimization approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Blind separation of skewed signals in instantaneous mixtures",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1579903/",
+            "Abstract": "The problem of source separation of instantaneous mixtures has been addressed thoroughly in literature in the past. The assumption of statistical independence between the source signals, led to the introduction of independent component analysis (ICA). A number of methods, based on the ICA framework, can identify nonGaussian sources in instantaneous mixtures with robust convergence and performance. However, in several biomedical applications, there is a need to identify and separate signals that, apart from being nonGaussian, are not symmetric. In this article, the authors present a method for blind identification and separation of skewed (non-symmetric) signals in a linear instantaneous mixture.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Few-shot learning via tensor hallucination",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2104.09467",
+            "Abstract": "Few-shot classification addresses the challenge of classifying examples given only limited labeled data. A powerful approach is to go beyond data augmentation, towards data synthesis. However, most of data augmentation/synthesis methods for few-shot classification are overly complex and sophisticated, e.g. training a wGAN with multiple regularizers or training a network to transfer latent diversities from known to novel classes. We make two contributions, namely we show that: (1) using a simple loss function is more than enough for training a feature generator in the few-shot setting; and (2) learning to generate tensor features instead of vector features is superior. Extensive experiments on miniImagenet, CUB and CIFAR-FS datasets show that our method sets a new state of the art, outperforming more sophisticated few-shot data augmentation methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:zLWjf1WUPmwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Linear subclass support vector machines",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6236010/",
+            "Abstract": "In this letter, linear subclass support vector machines (LSSVMs) are proposed that can efficiently learn a piecewise linear decision function for binary classification problems. This is achieved using a nongaussianity criterion to derive the subclass structure of the data, and a new formulation of the optimization problem that exploits the subclass information. LSSVMs provide low computation cost during training and evaluation, and offer competitive recognition performance in comparison to other popular SVM-based algorithms. Experimental results on various datasets confirm the advantages of LSSVMs.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive weighted least squares algorithm for volterra signal modeling",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/841856/",
+            "Abstract": "This paper presents a novel algorithm for least squares (LS) estimation of both stationary and nonstationary signals which arise from Volterra models. The algorithm concerns the recursive implementations of the method of LS which usually have a weighting factor in the cost function. This weighting factor enables nonstationary signal models to be tracked. In particular, the behavior of the weighting factor is known to influence the performance of the LS estimation. However there are certain constraints on the weighting factor. In this paper, we have reformulated the LS estimation with the commonly used exponential weighting factor as a constrained optimization problem. Specifically, we have addressed this constrained optimization using the Lagrange programming neural networks (LPNNs) thereby enabling the weighting factor to be adapted. The utility of our adaptive weighted least squares (AWLS) algorithm is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Recent developments in deep learning for engineering applications",
+            "Publication year": 2018,
+            "Publication url": "https://www.hindawi.com/journals/cin/2018/8141259/",
+            "Abstract": "Deep learning is among the most rapidly growing fields enabling computational models of multiple processing layers to learn and represent data with multiple levels of abstraction thus implicitly capturing intricate structures of large-scale data. The recent surge of interest in deep learning methods is mainly due to the abundance of complex data from different sources (visual, medical, social, and sensor) and in a variety of application domains, but also due to the fact that deep learning approaches have been shown to significantly outperform previous state-of-the-art techniques in several research problems.The aim of this Special Issue is to present new academic research advances and industrial developments of machine learning with emphasis on deep learning for engineering applications. We received twenty-four (24) submissions and each paper was reviewed by at least two experts. Nine (9) papers were accepted for publication in this Special Issue, covering a variety of topics.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:hkOj_22Ku90C",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Blind identification of volterra models using minimax optimization with higher order cumulants",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1452607/",
+            "Abstract": "In this paper, we examine the identification of a nonlinear system which is expressed as the output of a Volterra filter driven by a Gaussian input signal. Both the input signal and filter parameters are unknown, and hence, the problem can be classified as blind since we can only employ some properties of the output. The estimation of the parameters is achieved based on second and higher order cumulants properties and optimization methods. In this approach, we formulate equations that relate the unknown parameters of the model with the statistical properties of the observed output signal. The solution of these highly nonlinear equations is achieved through constrained minimax optimization techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spatial kernel K-harmonic means clustering for multi-spectral image segmentation",
+            "Publication year": 2007,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/iet-ipr_20050320",
+            "Abstract": "The problem of image segmentation using intensity clustering approaches has been addressed in the literature. Grouping pixels of similar intensity to form clusters in an image have been tackled using a number of methods, such as the K-means (KM) algorithm. The K-harmonic means (KHM) was proposed to overcome the sensitivity of KM to centre initialisation. The use of a spatial kernel-based KHM (SKKHM) algorithm on the problem of image segmentation has been investigated. Instead of the original Euclidean intensity distance, a robust kernel-based KHM metric is employed to reduce the effect of outliers and noise. Spatial image information is also incorporated in the proposed clustering scheme, derived from Markov random field modelling. An extension of the proposed algorithm to multi-spectral imaging applications is also presented. Experimental results for both single-channel and multi-channel images \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Underdetermined source separation using mixtures of warped Laplacians",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74494-8_30",
+            "Abstract": "In a previous work, the authors have introduced a Mixture of Laplacians model in order to cluster the observed data into the sound sources that exist in an underdetermined two-sensor setup. Since the assumed linear support of the ordinary Laplacian distribution is not valid to model angular quantities, such as the Direction of Arrival to the set of sensors, the authors investigate the performance of a Mixture of Warped Laplacians to perform efficient source separation with promising results.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A hybrid chebyshev-ica image fusion method based on regional saliency",
+            "Publication year": 2017,
+            "Publication url": "https://www.researchgate.net/profile/Zaid-Omar-2/publication/317799487_A_Hybrid_Chebyshev-ICA_Image_Fusion_Method_Based_on_Regional_Saliency/links/59d06c3eaca2721f43619f7e/A-Hybrid-Chebyshev-ICA-Image-Fusion-Method-Based-on-Regional-Saliency.pdf",
+            "Abstract": "An image fusion method that performs robustly for image sets heavily corrupted by noise is presented in this paper. The approach combines the advantages of two state-of-the-art fusion techniques, namely Independent Component Analysis (ICA) and Chebyshev Poly-nomial Analysis (CPA) fusion. Fusion using ICA performs well in transferring the salient features of the input images into the composite output, but its performance deteriorates severely under mild to moderate noise conditions. CPA fusion is robust under severe noise conditions, but eliminates the high frequency information of the images involved. We pro-pose to use ICA fusion within high activity image areas, identified by edges and strong textured surfaces and CPA fusion in low activity areas identified by uniform background regions and weak texture. A binary image map is used for selecting the appropriate method, which is constructed by a standard edge detector followed by morphological operators. The results of the proposed approach are very encouraging as far as joint fusion and denoising is concerned. The works presented may prove beneficial for future image fusion tasks in real world applications such as surveillance, where noise is heavily present.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Ahmad Dahlan University"
+        },
+        {
+            "Title": "Detection of cars in high-resolution aerial images of complex urban environments",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7982952/",
+            "Abstract": "Detection of small targets, more specifically cars, in aerial images of urban scenes, has various applications in several domains, such as surveillance, military, remote sensing, and others. This is a tremendously challenging problem, mainly because of the significant interclass similarity among objects in urban environments, e.g., cars and certain types of nontarget objects, such as buildings' roofs and windows. These nontarget objects often possess very similar visual appearance to that of cars making it hard to separate the car and the noncar classes. Accordingly, most past works experienced low precision rates at high recall rates. In this paper, a novel framework is introduced that achieves a higher precision rate at a given recall than the state of the art. The proposed framework adopts a sliding-window approach and it consists of four stages, namely, window evaluation, extraction and encoding of features \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:_B80troHkn4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast wavelet-based pansharpening of multi-spectral images",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5548451/",
+            "Abstract": "Remote Sensing systems enhance the spatial quality of low-resolution Multi-Spectral (MS) images using information from Pan-chromatic (PAN) images under the pansharpening framework. Most decimated multi-resolution pansharpening approaches upsample the low-resolution MS image to match the resolution of the PAN image. Consequently, a multi-level wavelet decomposition is performed, where the edge information from the PAN image is injected in the MS image. In this paper, the authors propose a pansharpening framework that eliminates the need of upsampling of the MS image, using a B-Spline biorthogonal wavelet decomposition scheme. The proposed method features similar performance to the state-of-the-art pansharpening methods without the extra computational cost induced by upsampling.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Phase amplified correlation for improved sub-pixel motion estimation",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8624546/",
+            "Abstract": "Phase correlation (PC) is widely employed by several sub-pixel motion estimation techniques in an attempt to accurately and robustly detect the displacement between two images. To achieve sub-pixel accuracy, these techniques employ interpolation methods and function-fitting approaches on the cross-correlation function derived from the PC core. However, such motion estimation techniques still present a lower bound of accuracy that cannot be overcome. To allow room for further improvements, we propose, in this paper, the enhancement of the sub-pixel accuracy of motion estimation techniques by employing a completely different approach: the concept of motion magnification. To this end, we propose the novel phase amplified correlation (PAC) that integrates motion magnification between two compared images inside the PC part of the frequency-based motion estimation algorithms and thus directly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multimodal image registration for potential diagnosis and monitoring of morphoea using a hybrid NGC method",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7869818/",
+            "Abstract": "In medicine, thermal imaging diagnostic tool is increasingly employed thanks to its low cost, non-harmful and non-invasive nature. However, a thermogram can be quite ambiguous due to its low spatial resolution. This ambiguity can be reduced by incorporating information or data from different imaging sensors. This paper is an extension of a modified Normalized Gradient Correlation (NGC) employed in the initial phase of this study for multimodal image registration to assist in diagnosis and monitoring of linear morphoea. The proposed method is an improved, hybrid version of the modified NGC that incorporates an iterative based normalized cross-correlation coefficient (NCC) method for retrieval of translational differences based on the spatial domain in the initial method. The hybrid NGC method is found to reduce misregistration due to inaccurate retrieval of translational differences suffered by the initial NGC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:HE397vMXCloC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enhancement of multiple sensor images using joint image fusion and blind restoration",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PA299&dq=info:yVJYX9GmGMsJ:scholar.google.com&ots=Can0HrSEzA&sig=HI2q1gLl_sPLVL8VErMLVnntuqE",
+            "Abstract": "Image fusion systems aim at transferring \u2018interesting\u2019information from the input sensor images to the fused image. The common assumption for most fusion approaches is the existence of a high-quality reference image signal for all image parts in all input sensor images. In the case that there are common degraded areas in at least one of the input images, the fusion algorithms cannot improve the information provided there, but simply convey a combination of this degraded information to the output. In this study, the authors propose a combined spatial-domain method of fusion and restoration in order to identify these common degraded areas in the fused image and use a regularised restoration approach to enhance the content in these areas. The proposed approach was tested on both multi-focus and multi-modal image sets and produced interesting results.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:u_35RYKgDlwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A modular CNN-based building detector for remote sensing images",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1389128619304475",
+            "Abstract": "Convolutional neural networks (CNNs) have resurged lately due to their state-of-the-art performance in various disciplines, such as computer vision, audio and text processing. However, CNNs have not been widely employed for remote sensing applications. In this paper, we propose a CNN architecture, named Modular-CNN, to improve the performance of building detectors that employ Histogram of Oriented Gradients (HOG) and Local Binary Patterns (LBP) in a remote sensing dataset. Additionally, we propose two improvements to increase the classification accuracy of Modular-CNN. The first improvement combines the power of raw and normalised features, while the second one concerns the Euler transformation of feature vectors. We demonstrate the effectiveness of our proposed Modular-CNN and the novel improvements in remote sensing and other datasets in a comparative study with other state-of-the-art \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Pixel-level image fusion metrics",
+            "Publication year": 2011,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PA429&dq=info:CCt671Irp3UJ:scholar.google.com&ots=Can0HrSEzA&sig=BVb7zLPFnolSaCIpYQxs-tp4GgM",
+            "Abstract": "The topic of objective metrics that are designed to quantify the performance of pixellevel image fusion systems is discussed in this chapter. The key principle that drives both the development and the subjective relevance of these metrics is the preservation of input image related visual information. Of course, image visual information can be defined in many ways and this can lead to the formulation of several possible pixel-level image fusion metrics. Initially, important visual information is considered that relates to \u2018edge\u2019-based information and associated image regions. This concept is then expanded with the involvement of Human Visual System modelling within the metric formulation process. A number of such image fusion measures are therefore developed and their characteristics are examined for accurately predicting fusion system performance as compared to that obtained from subjective tests. Extensive experimentation allows for the detailed analysis, optimisation, and understanding of the comparative behaviour of these image fusion performance measures.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:_Ybze24A_UAC",
+            "Publisher": "Academic"
+        },
+        {
+            "Title": "Global based Thermal Image Registration for Diagnosis of Morphoea",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-981-10-0266-3_16",
+            "Abstract": "Analyzing and interpreting of thermograms have been increasingly employed in the diagnosis and monitoring of diseases thanks to its non-invasive, non-harmful nature and low cost. This paper presents a thermal image analysis system based on image registration for morphoea disease diagnosis. A novel system is proposed to improve the diagnosis and monitoring of morphoea based on integration with the published lines of Blaschko. In this application, image registration based on global and local registration methods are found inevitable. A modified normalized gradient cross-correlation (NGC) method to reduce large geometrical differences between two multimodal images of different subjects that are represented by smooth gray edge maps is proposed for the global registration approach. It is shown in this paper that the NGC method outperforms phase correlation (PC) method by a lower rate of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:NhqRSupF_l8C",
+            "Publisher": "Springer, Singapore"
+        },
+        {
+            "Title": "Improved performance adaptive algorithm for system identification under impulsive noise",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/document/1207250/",
+            "Abstract": "The recently introduced normalised robust mixed-norm (NRMN) algorithm improved the performance of its predecessor robust mixed-norm (RMN), proposed for system identification under impulsive noise (IN) environments. The NRMN inherited the mixing parameter of RMN, the definition of which however was not based upon any statistical information for the IN. An improved performance NRMN algorithm is proposed which defines its mixing parameter and normalised step-size in a novel way based upon a model choice for the IN. The proposed algorithm outperforms the NRMN with respect to the convergence rate and misadjustment.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:TQgYirikUcIC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Video event detection using a subclass recoding error-correcting output codes framework",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6607530/",
+            "Abstract": "In this paper, complex video events are learned and detected using a novel subclass recoding error-correcting outputs (SRECOC) design. In particular, a set of pre-trained concept detectors along different low-level visual feature types are used to provide a model vector representation of video signals. Subsequently, a subclass partitioning algorithm is used to divide only the target event class to several subclasses and learn one subclass detector for each event subclass. The pool of the subclass detectors is then combined under a SRECOC framework to provide a single event detector. This is achieved by first exploiting the properties of the linear loss-weighted decoding measure in order to derive a probability estimate along the different event subclass detectors, and then utilizing the sum probability rule along event subclasses to retrieve a single degree of confidence for the presence of the target event in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Novel statistical approaches to the quantitative combination of multiple edge detectors",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11867586_18",
+            "Abstract": "This paper aims at describing a new framework which allows for the quantitative combination of different edge detectors based on the correspondence between the outcomes of a preselected set of operators. This is inspired from the problem that despite the enormous amount of literature on edge detection techniques, there is no single one that performs well in every possible image context. The so called Kappa Statistics are employed in a novel fashion to enable a sound performance evaluation of the edge maps emerged from different parameter specifications. The proposed method is unique in the sense that the balance between the false detections (False Positives and False Negatives) is explicitly assessed in advanced and incorporated in the estimation of the optimum threshold. Results of this technique are demonstrated and compared to individual edge detection methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Optimal contrast for color image fusion using ICA bases",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4632419/",
+            "Abstract": "Image fusion is the procedure of combining useful features from multiple sensor image inputs to a single composite image. In this work, the authors revise the previously proposed image fusion framework, based on self-trained independent component analysis (ICA) bases. In the original framework, equal importance was given to all input images in the reconstruction of the ldquofusedrdquo imagepsilas intensity. Even though this assumption holds for applications involving sensors of the same modality, it might not be valid in the case of multiple modality inputs of different intensity range. The authors propose a method of estimating the optimal intensity range (contrast) of the fused image via optimization of an image fusion index. The proposed approach is extended in the case of color visual inputs, in order to produce a color fused image.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:kNdYIx-mwKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Iterative regularized least-mean mixed-norm image restoration",
+            "Publication year": 2002,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-41/issue-10/0000/Iterative-regularized-least-mean-mixed-norm-image-restoration/10.1117/1.1503072.short",
+            "Abstract": "We develop a regularized mixed-norm image restoration algorithm to deal with various types of noise. A mixed-norm functional is introduced, which combines the least mean square (LMS) and the least mean fourth (LMF) functionals, as well as a smoothing functional. Two regularization parameters are introduced: one to determine the relative importance of the LMS and LMF functionals, which is a function of the kurtosis, and another to determine the relative importance of the smoothing functional. The two parameters are chosen in such a way that the proposed functional is convex, so that a unique minimizer exists. An iterative algorithm is utilized for obtaining the solution, and its convergence is analyzed. The novelty of the proposed algorithm is that no knowledge of the noise distribution is required, and the relative contributions of the LMS, the LMF, and the smoothing functionals are adjusted based on the partially \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Mammogram analysis using two-dimensional autoregressive models: Sufficient or not?",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11553595_110",
+            "Abstract": "Two-dimensional (2\u2013D) autoregressive (AR) models have been used as one of the methods to characterise the textures of tumours in mammograms. Previously, the 2\u2013D AR model coefficients were estimated for the block containing the tumour and the blocks in its 3 \u00d7 3 neighbourhood. In this paper, the possibility of having the estimated set of AR model coefficients of the block containing the tumour as a unique set of AR model coefficients for the entire mammogram is looked into. Based on the information given from the MiniMammography database, the possible number of blocks of the same size of the block containing the tumour is obtained from the entire mammogram and for each block a set of AR model coefficients is estimated using a method that combines both the Yule-Walker system of equations and the Yule-Walker system of equations in the third-order statistical domain. These sets of AR model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A vegetation height classification approach based on texture analysis of a single VHR image",
+            "Publication year": 2014,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1755-1315/17/1/012210/meta",
+            "Abstract": "Vegetation height is a crucial feature in various applications related to ecological mapping, enhancing the discrimination among different land cover or habitat categories and facilitating a series of environmental tasks, ranging from biodiversity monitoring and assessment to landscape characterization, disaster management and conservation planning. Primary sources of information on vegetation height include in situ measurements and data from active satellite or airborne sensors, which, however, may often be non-affordable or unavailable for certain regions. Alternative approaches on extracting height information from very high resolution (VHR) satellite imagery based on texture analysis, have recently been presented, with promising results. Following the notion that multispectral image bands may often be highly correlated, data transformation and dimensionality reduction techniques are expected to reduce \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:-f6ydRqryjwC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "GLCM-based metric for image fusion assessment",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6289827/",
+            "Abstract": "This paper introduces a novel metric for image fusion evaluation that is based on texture. Among the applications of image fusion are surveillance and remote sensing, where the combination of relevant information from multiple image sources are preserved in a fused output. From these, the conservation of background textural details is especially important as they help to define the image structure. The concept is brought forth in our work, which aims to evaluate the performance of image fusion algorithms based on their ability to retain textural details from the fusion process. We utilise the GLCM model to extract second-order statistical features for the derivation of an image textural measure. This is used to replace the edge-based calculations in the Petrovic metric. Performance evaluation on established fusion methods verify that the proposed metric is accurate, especially for multimodal scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SAM-RCNN: Scale-aware multi-resolution multi-channel pedestrian detection",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1808.02246",
+            "Abstract": "Convolutional neural networks (CNN) have enabled significant improvements in pedestrian detection owing to the strong representation ability of the CNN features. Recently, aggregating features from multiple layers of a CNN has been considered as an effective approach, however, the same approach regarding feature representation is used for detecting pedestrians of varying scales. Consequently, it is not guaranteed that the feature representation for pedestrians of a particular scale is optimised. In this paper, we propose a Scale-Aware Multi-resolution (SAM) method for pedestrian detection which can adaptively select multi-resolution convolutional features according to pedestrian sizes. The proposed SAM method extracts the appropriate CNN features that have strong representation ability as well as sufficient feature resolution, given the size of the pedestrian candidate output from a region proposal network. Moreover, we propose an enhanced SAM method, termed as SAM+, which incorporates complementary features channels and achieves further performance improvement. Evaluations on the challenging Caltech and KITTI pedestrian benchmarks demonstrate the superiority of our proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:N5tVd3kTz84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New structures for adaptive filtering in subbands based on transmultiplexers",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5744912/",
+            "Abstract": "A maximally decimated (MD) structure is presented for adaptive filtering based on perfect reconstruction (PR) transmultiplexers (TMUXs) and a system representation that results from their dual filter banks (FBs). The structure is computationally very efficient adapting at the low data rate a number of coefficients that exceeds only by a small amount the length of the unknown system. For colored inputs the structure presents a higher convergence rate (CR) from the Full-band LMS algorithm. These characteristics are investigated through simulation experiments where the proposed structure is also compared with other recently proposed approaches and found to have a similar performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:bFI3QPDXJZMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Batch and online underdetermined source separation using laplacian mixture models",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4276761/",
+            "Abstract": "In this paper, we explore the problem of sound source separation and identification from a two-sensor instantaneous mixture. The estimation of the mixing and the sources is performed using Laplacian mixture models (LMM). The proposed algorithm fits the model using batch processing of the observed data and performs separation using either a hard or a soft decision scheme. An extension of the algorithm to online source separation, where the samples are arriving in a real-time fashion, is also presented. The online version demonstrates several promising source separation possibilities in the case of nonstationary mixing.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A novel shape matching descriptor for real-time hand gesture recognition",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2101.03923",
+            "Abstract": "The current state-of-the-art hand gesture recognition methodologies heavily rely in the use of machine learning. However there are scenarios that machine learning cannot be applied successfully, for example in situations where data is scarce. This is the case when one-to-one matching is required between a query and a dataset of hand gestures where each gesture represents a unique class. In situations where learning algorithms cannot be trained, classic computer vision techniques such as feature extraction can be used to identify similarities between objects. Shape is one of the most important features that can be extracted from images, however the most accurate shape matching algorithms tend to be computationally inefficient for real-time applications. In this work we present a novel shape matching methodology for real-time hand gesture recognition. Extensive experiments were carried out comparing our method with other shape matching methods with respect to accuracy and computational complexity using our own collected hand gesture dataset and a modified version of the MPEG-7 dataset.%that is widely used for comparing 2D shape matching algorithms. Our method outperforms the other methods and provides a good combination of accuracy and computational efficiency for real-time applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:yB1At4FlUx8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detection of cars in complex urban areas",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7986801/",
+            "Abstract": "Detection of cars in airborne images of typical urban areas has various applications in several domains, such as surveillance, military and remote sensing. It is a tremendously-challenging problem, mainly because of the significant inter-class similarity among various objects in urban environments. In this paper, a novel framework is introduced that adopts a sliding-window approach and it depicts, in a novel way, the local distribution of gradients, colours and texture. A linear support vector machine classifier is used to differentiate between descriptors that belong to cars and descriptors that belong to other objects in a hyperspace of 3838 dimensions. Descriptors are computed over a newly-proposed adaptive distribution of cells that enables the use of various rotation-variant image descriptors. The proposed framework has been evaluated on the Vaihin-gen dataset and results corroborate its superiority as it achieves \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:eMMeJKvmdy0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A two-dimensional autoregressive modelling technique using a constrained optimisation formulation and the minimum hierarchical clustering scheme",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1399447/",
+            "Abstract": "The problem of texture characterisation is attempted using a two-dimensional (2-D) autoregressive (AR) modelling technique. Each distinct texture is represented by a different set of 2-D AR model coefficients. A method to estimate AR model coefficients is proposed by relating the extended Yule-Walker system of equations in the third-order statistical domain to the same system in the second-order statistical domain using a constrained optimisation formulation. This method is applied to an image with a constant texture in block-by-block process, so that a number of sets of AR model coefficients are obtained. The minimum hierarchical clustering technique and a weighting scheme are then applied to these sets of coefficients, in order to obtain the final estimation.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SRHRF+: Self-example enhanced single image super-resolution using hierarchical random forests",
+            "Publication year": 2017,
+            "Publication url": "http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Huang_SRHRF_Self-Example_Enhanced_CVPR_2017_paper.html",
+            "Abstract": "Example-based single image super-resolution (SISR) methods use external training datasets and have recently attracted a lot of interest. Self-example based SISR methods exploit redundant non-local self-similar patterns in natural images and because of that are more able to adapt to the image at hand to generate high quality super-resolved images. In this paper, we propose to combine the advantages of example-based SISR and self-example based SISR. A novel hierarchical random forests based super-resolution (SRHRF) method is proposed to learn statistical priors from external training images. Each layer of random forests reduce the estimation error due to variance by aggregating prediction models from multiple decision trees. The hierarchical structure further boosts the performance by pushing the estimation error due to bias towards zero. In order to further adaptively improve the super-resolved image, a self-example random forests (SERF) is learned from an image pyramid pair constructed from the down-sampled SRHRF generated result. Extensive numerical results show that the SRHRF method enhanced using SERF (SRHRF+) achieves the state-of-the-art performance on natural images and yields substantially superior performance for image with rich self-similar patterns.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Object identification in complex scenes using shape context descriptors and multi-stage clustering",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4288564/",
+            "Abstract": "This paper introduces a novel technique for the automatic identification of real world objects in complex scenes. The identification problem requires the comparison of assemblies of image regions with a previously stored view of a known prototype. Shape context representation and matching are employed for recovering point correspondences between the image and the prototype object. This work is inspired from the problem that, a number of ambient conditions such as partial object occlusion and contour distortion, may affect the performance of the matching process and consequently the identification result. In our approach, subtractive clustering is applied in a novel fashion to enable the identification of regions of interest on the complex scene, based on a density metric. In order to increase the robustness of the identifier to mismatches and reduce the computational cost of the process, a selection of the initial \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Monitoring of trees\u2019 health condition using a uav equipped with low-cost digital camera",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8683128/",
+            "Abstract": "Invasive insect pests and fungi, which are introduced accidentally to forests and affect tree growth and survival, constitute a serious threat for the forests and trees acting on climate change and its impacts. Thus, the need for early and accurate health determination process of forest regions, has significantly increased the interest in automatic monitoring methods. In this paper, in order to overcome the great variety of trees' characteristics and forests' heterogeneity that affects the diversity of their color and texture making the detection of diseases a difficult task, a methodology for individual tree detection applying energy minimization, visualizing HOG features across tree canopies and using a dynamically clustering method is proposed. Then, in order to achieve classification based on their health condition, multi-pyramid textural features are proposed and extracted. The experimental results presented use images of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:Fu2w8maKXqMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive Chebyshev Fusion of Vegetation Imagery based on SVM Classifier",
+            "Publication year": 2016,
+            "Publication url": "https://journals.utm.my/jurnalteknologi/article/view/9175",
+            "Abstract": "A novel adaptive image fusion method by using Chebyshev polynomial analysis (CPA), for applications in vegetation satellite imagery, is introduced in this paper. Fusion is a technique that enables the merging of two satellite cameras: panchromatic and multi-spectral, to produce higher quality satellite images to address agricurtural and vegetation issues such as soiling, floods and crop harvesting. Recent studies show Chebyshev polynomials to be effective in image fusion mainly in medium to high noise conditions, as per real-life satellite conditions. However, its application was limited to heuristics. In this research, we have proposed a way to adaptively select the optimal CPA parameters according to user specifications. Support vector machines (SVM) is used as a classifying tool to estimate the noise parameters, from which the appropriate CPA degree is utilised to perform image fusion according to a look-up table. Performance evaluation affirms the approach\u00e2\u20ac\u2122 s ability in reducing the computational complexity to perform fusion. Overall, adaptive CPA fusion is able to optimize an image fusion system\u00e2\u20ac\u2122 s resources and processing time. It therefore may be suitably incorporated onto real hardware for use on vegetation satellite imagery. \u00c2 \u00c2 \u00c2",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:bnK-pcrLprsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Equiripple minimum phase FIR filter design from linear phase systems using a novel technique for polynomial factorisation",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/891919/",
+            "Abstract": "We propose a method for a minimum phase finite impulse response (FIR) equiripple filter design from a given linear phase FIR filter with the same amplitude response. We are concentrating on very high degree polynomials (transfer functions) for which factorisation procedures for root extraction are unreliable. The initial linear phase transfer functions are obtained by standard design algorithms and particularly in this study by the Remez algorithm. The approach taken involves the use of the Cauchy residue theorem applied to the logarithmic derivative of the appropriate curves. This leads into a set of parameters related directly to the polynomial coefficients, which facilitate the factorisation problem. The results of the proposed design scheme are very encouraging as far as robustness and computational complexity are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Novel Framework for Object Recognition under Severe Occlusion",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-28696-4_9",
+            "Abstract": "This work introduces a novel technique for the automatic identification of real world objects in complex scenes. The identification problem requires the comparison of assemblies of image regions with a previously stored view of a known prototype. Shape context representation and matching are employed for recovering point correspondences between the image and the prototype. Assuming that the prototype view is sufficiently similar in configuration with an object in the complex scene, the correspondence process will succeed. However, a number of ambient conditions such as partial object occlusion and contour distortion, may affect the performance of the matching process and consequently the identification result. A novel multistage type of clustering of suspicious image locations is applied in a novel fashion to enable the identification of regions of interest on the complex scene, based on a set of density \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:yD5IFk8b50cC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Early fire detection based on aerial 360-degree sensors, deep convolution neural networks and exploitation of fire dynamic textures",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/841746",
+            "Abstract": "The environmental challenges the world faces have never been greater or more complex. Global areas that are covered by forests and urban woodlands are threatened by large-scale forest fires that have increased dramatically during the last decades in Europe and worldwide, in terms of both frequency and magnitude. To this end, rapid advances in remote sensing systems including ground-based, unmanned aerial vehicle-based and satellite-based systems have been adopted for effective forest fire surveillance. In this paper, the recently introduced 360-degree sensor cameras are proposed for early fire detection, making it possible to obtain unlimited field of view captures which reduce the number of required sensors and the computational cost and make the systems more efficient. More specifically, once optical 360-degree raw data are obtained using an RGB 360-degree camera mounted on an unmanned aerial vehicle, we convert the equirectangular projection format images to stereographic images. Then, two DeepLab V3+ networks are applied to perform flame and smoke segmentation, respectively. Subsequently, a novel post-validation adaptive method is proposed exploiting the environmental appearance of each test image and reducing the false-positive rates. For evaluating the performance of the proposed system, a dataset, namely the \u201cFire detection 360-degree dataset\u201d, consisting of 150 unlimited field of view images that contain both synthetic and real fire, was created. Experimental results demonstrate the great potential of the proposed system, which has achieved an F-score fire detection rate equal to 94.6%, hence reducing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Robust FFT-based scale-invariant image registration",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.584.5105&rep=rep1&type=pdf",
+            "Abstract": "We present a fast and robust gradient-based scale-invariant image registration technique which operates in the frequency domain. The algorithm combines the natural advantages of good feature selection offered by gradient-based methods with the robustness and speed provided by FFT-based correlation schemes. Experimentation with real images taken from a popular database showed that, unlike any other Fourier-based techniques, the method was able to estimate translations, arbitrary rotations and scale factors up to 6.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:JQOojiI6XY0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Local Image Fusion Using Dispersion Minimisation",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1660484/",
+            "Abstract": "On the spatial domain, image fusion can be approached by estimating a set of fusion weights, that optimally measure the contribution of each pixel in source images to the fused one. Combining fusion weights with source images yields the fused result with improved visual perception. This paper aims to find these weights by minimising a constant-modulus (CM) cost function that describes the dispersion of the fused image. In order to accelerate convergence rate and avoid spurious solutions, we also introduce optimal learning rates while updating fusion weights. Experimental results reveal that our scheme provides comparable performance on fusing multifocus images to multi-scale wavelet methods, such as shift-invariant discrete wavelet transform (SI-DWT)",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A transmultiplexer-based adaptive filtering structure using a new adaptation scheme",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1010158/",
+            "Abstract": "A maximally decimated (MD) adaptive filtering structure (AFS) is presented based on perfect reconstruction (PR) filter banks (FBs) and their dual transmultiplexers (TMUXs). The system under identification is modeled as a parallel structure of interpolated FIR (IFIR) filters and its output is analysed with the PR-FB this model results from. The new AFS results then from this IFIR system model and the TMUX corresponding to it. The proposed structure adapts at a low rate a number of coefficients practically equal to the length of the system under identification. Hence, this method is computationally efficient for the large system lengths usually encountered in practice. A new algorithm is presented for the adaptation of the subband filter coefficients employing a new power normalisation (PN) scheme that significantly increases the convergence rate (CR) for colored input processes. Experimental results demonstrate the good \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image fusion using optimisation of statistical measurements",
+            "Publication year": 2011,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PA251&dq=info:_uDhX-xtPEYJ:scholar.google.com&ots=Can0HrSFqt&sig=JZM_Rbuumq2lVpVnrXXi6eUkrXI",
+            "Abstract": "The purpose of image fusion is to create a perceptually enhanced image from a set of multi-focus or multi-sensors images. In the methods we are about to describe we do not a priori know the ground truth image: these are blind fusion methods. There are mainly two groups of fusion methods depending on the signal domain they are applied: spatial domain methods and transform domain methods. The Dispersion Minimisation Fusion (DMF) and Kurtosis Maximisation Fusion (KMF) based techniques we are going to discuss are spatial domain methods that is to say the fusion is simply performed on the image itself. In this work we propose to linearly combine the input images with appropriate weights estimated using specific mathematical performance criteria which evaluate in various ways improvement in visual perception. More specifically, in order to estimate the weights we propose iterative methods which use cost functions based on two statistical parameters, ie the dispersion and the kurtosis. The optimisation of the proposed cost functions enables us to obtain a fused image which is less distorted compared to the input ones.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel two-level shape descriptor for pedestrian detection",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6552190/",
+            "Abstract": "The demand for pedestrian detection and tracking algorithms is rapidly increasing with applications in security systems, human computer interaction and human activity analysis. A pedestrian is a person standing in an upright position. Previous work involves using various types of image descriptors to detect humans. However, the existing approaches, although exhibit low misdetection rate, result in high rate of false alarms in the case of complex image backgrounds. In this work, a novel approach for pedestrian detection is proposed which is based on the combined use of two object detection approaches with the aim of reducing the false alarm rate of the individual detectors. These are the Histogram of Oriented Gradients (HOG) and a Shape Context based object detector (SC). Preliminary results are very encouraging and demonstrate clearly the ability of the proposed system to reduce the number of false alarms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:XiSMed-E-HIC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Extension of generalised subband decomposition-based adaptive FIR structure",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/document/1222705/",
+            "Abstract": "An extension of the generalised subband decomposition (GSD)-based adaptive FIR STRucture (GSD-STR) is presented. The system identification is performed through the DFTs of the subband sequences resulting from the decomposition of either the system under modelling or its blocks using an FIR filter bank (FB). Thus, the coefficient solutions are related not only to the system under identification but also to the FB which underlies the proposed STR. For specific values of its parameters the new STR degenerates into the GSD-STR, the transform domain LMS (TD-LMS), or the transversal full-band LMS (FB-LMS) FIR filter.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "An improved image denoising algorithm based on weighted adaptive local bounds",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1415335/",
+            "Abstract": "In this paper, we tackle the problem of image denoising. Given an image distorted by additive noise of unknown probability distribution, the intensity difference between the distorted and the original unknown images must be bounded. This idea is exploited here and we design a series of weighted adaptive local bounds based on local intensity information, such as the mean, variance, median and etc. The proposed method is tested and compared with other standard techniques, such as wavelet thresholding, for image denoising. Apart from the simplicity of implementation, the results are very encouraging, as far as both visual quality of the denoised images and quantitative metrics of improvement are concerned. More importantly it provides simultaneous denoising of mixed noise, which is not obtainable by using single conventional denoising methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:geHnlv5EZngC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multidimensional steerable filters and 3D flow estimation",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7025403/",
+            "Abstract": "In this work, the 3D flow estimation problem is formulated in the 4D spatiotemporal frequency domain, and it is shown that 3D motion manifests itself as energy concentration along hyper-planes in that domain. Based on this, the construction and use of appropriate directional multidimensional \u201csteerable\u201d filters, which can extract directional energy in spacetime, is proposed. Steerable filters have been constructed for up to 3 dimensions. We extend the relevant mathematical definitions to multiple dimensions and formulate filter-based algorithms for 3D flow estimation. Experimental results on simulated and real data verify the efficiency of the algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "LTI discrete-time systems in transform domain",
+            "Publication year": 2008,
+            "Publication url": "https://www.commsp.ee.ic.ac.uk/~tania/teaching/dsp/Lecture%206%20LTI%20Discrete-Time%20Systems%20in%20the%20Transform%20Domain.pdf",
+            "Abstract": "\u2022 Several other classifications are also used\u2022 In the case of digital transfer functions with frequency-selective frequency responses (filters), one classification is based on the shape of the magnitude function or the form of the phase function \u03b8 (\u03c9)\u2022 Based on the above, four types of ideal filters are usually defined|)(| \u03c9j eH",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:J-pR_7NvFogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multidimensional directional steerable filters\u2014Theory and application to 3D flow estimation",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885618300039",
+            "Abstract": "In this paper, a thorough theoretical analysis on the construction of multi-dimensional directional steerable filters is given. Steerable filters have been constructed for up to three dimensions. We extend the relevant theory to multiple dimensions and construct multi-dimensional steerable filters, as well as quadrature pairs of such filters. Formulating the multi-dimensional motion estimation problem in the spatiotemporal frequency domain, it is shown that motion manifests itself as energy concentration along \u201cmotion hyper-planes\u201d in that domain. Subsequently, using the constructed multi-dimensional filters, we formulate the \u201chyper-donut\u201d mechanism, i.e. a mechanism to efficiently \u201cmeasure\u201d the \u201cmotion energy\u201d on a \u201cmotion hyper-plane\u201d. On top of that, rigorous mathematical analysis on the use of the constructed filters in the dense flow estimation task is given. Based on the theoretical developments, a steerable filter \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:WqliGbK-hY8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A 3D Feature for Building Segmentation based on Shape-from-Shading.",
+            "Publication year": 2015,
+            "Publication url": "https://www.scitepress.org/papers/2015/54563/54563.pdf",
+            "Abstract": "An important cue that can assist towards an accurate building detection and segmentation is 3D information. Because of their height, buildings can easily be distinguished from the ground and small objects, allowing for their successful segmentation. Unfortunately, 3D knowledge is not always available, but there are ways to infer 3D information from 2D images. Shape-from-shading techniques extract height and surface normal information from a single 2D image by taking into consideration knowledge about illumination, reflectance and shape. In this paper, a novel feature is proposed that can describe the 3D information of reconstructed images based on a shape-from-shading technique in order to successfully acquire building boundaries. The results are promising and show that such a 3D feature can significantly assist in a correct building boundary detection and segmentation.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:LPZeul_q3PIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Symmetry detection using frequency domain motion estimation techniques",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4517746/",
+            "Abstract": "A frequency domain approach for the detection of symmetries in real images is presented. Our framework is based on recent state-of-the-art research where motion estimation techniques are employed to sequentially determine all the associated parameters. In particular, we introduce several modifications regarding the order of symmetry estimation and the detection of the axes of possible bilateral symmetry. Preliminary results demonstrate the efficiency of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Novel Framework for Early Fire Detection Using Terrestrial and Aerial 360-Degree Images",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-40605-9_6",
+            "Abstract": "In this paper, in order to contribute to the protection of the value and potential of forest ecosystems and global forest future we propose a novel fire detection framework, which combines recently introduced 360-degree remote sensing technology, multidimensional texture analysis and deep convolutional neural networks. Once 360-degree data are obtained, we convert the distorted 360-degree equirectangular projection format images to cubemap images. Subsequently, we divide the extracted cubemap images into blocks using two different sizes. This allows us to apply h-LDS multidimensional spatial texture analysis to larger size blocks and then, depending on the probability of fire existence, to smaller size blocks. Thus, we aim to accurately identify the candidate fire regions and simultaneously to reduce the computational time. Finally, the candidate fire regions are fed into a CNN network in order to distinguish \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Building detection using enhanced HOG\u2013LBP features and region refinement processes",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7563843/",
+            "Abstract": "Building detection from two-dimensional high-resolution satellite images is a computer vision, photogrammetry, and remote sensing task that has arisen in the last decades with the advances in sensors technology and can be utilized in several applications that require the creation of urban maps or the study of urban changes. However, the variety of irrelevant objects that appear in an urban environment and resemble buildings, and the significant variations in the shape and generally the appearance of buildings render building detection a quite demanding task. As a result, automated methods that can robustly detect buildings in satellite images are necessary. To this end, we propose a building detection method that consists of two modules. The first module is a feature detector that extracts histograms of oriented gradients (HOG) and local binary patterns (LBP) from image regions. Using a novel approach, a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:tOudhMTPpwUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Equiripple minimum phase FIR filter design from linear phase systems using root moments",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/943328/",
+            "Abstract": "In this brief we propose to design a minimum phase finite-impulse response (FIR) digital filter transfer function from a given equiripple linear phase FIR transfer function which has identical amplitude. The brief deals with two important issues. The first issue is that we are concentrating on very high degree polynomials for which factorization procedures for root extraction are unreliable. A novel approach is taken, that involves the use of a set of parameters called root moments of a polynomial, derivable directly from the polynomial coefficients that immensely facilitate the factorization of polynomials of very large order. The second issue is that the polynomials we deal with have roots on the unit circle. In the paper we propose a method to overcome this problem. The results of the proposed design scheme are very encouraging as far as robustness and computational complexity are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An affine invariant function using PCA bases with an application to within-class object recognition",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4217197/",
+            "Abstract": "The problem of shape-based recognition of objects under affine transformations is considered. We focus on the construction of a robust and highly discriminative affine invariant function that can be used for within-class object recognition applications. Using the boundaries of the objects of interest, a training scheme, based on principal component analysis (PCA), is proposed to derive a set of basis functions with desired properties. The derived bases are then used for the construction of a novel affine invariant function. The proposed invariant function is evaluated for the problem of aircraft silhouette identification and appears to achieve comparable performance to a popular wavelet-based affine invariant function. At the same time, the proposed framework is much simpler than that based on wavelet analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:UxriW0iASnsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Texture Characterisation Using Constrained Optimisation Techniques with Application to Mammography",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5336968064988315019&hl=en&oi=scholarr",
+            "Abstract": "Texture characterisation problem is attempted using two-dimensional (2\u2212 D) autoregressive (AR) modelling under the assumption that different textures can be described by different sets of 2\u2212 D AR model coefficients. The AR model coefficients are estimated using a proposed technique which relates the conventional Yule-Walker system of equations with the Yule-Walker system of equations in the third-order statistical domain through a constrained optimisation formulation with equality constraints. The method is applied to characterise textures in mammograms.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Automated Procedure for Crack Detection",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-87383-7_27",
+            "Abstract": "Nowadays the civil infrastructure is exposed to several challenges such as daily vehicular traffic and extreme weather conditions, i.e. ghastly winds, strong rain etc. It is well known that these may determine structural deterioration and damages, which can even cause catastrophic collapses related to significant socio-economic losses. For this reason it is evident that automatic inspection and maintenance must play a decisive role in the future. With the objective of quality assessment, cracks on concrete buildings have to be identified and monitored continuously. Due to the availability of cheap devices, techniques based on image processing have been gaining in popularity, but they require a rigorous analysis of large amounts of data. Moreover, the detection of fractures in images is still a challenging task, being these structures sensitive to noise and to changes in environmental conditions. This paper \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:ML0RJ9NH7IQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Shape signature matching for object identification invariant to image transformations and occlusion",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74272-2_88",
+            "Abstract": "This paper introduces a novel shape matching approach for the automatic identification of real world objects in complex scenes. The identification process is applied on isolated objects and requires the segmentation of the image into separate objects, followed by the extraction of representative shape features and the similarity estimation of pairs of objects. In order to enable an efficient object representation, a novel boundary-based shape descriptor is introduced, formed by a set of one dimensional signals called shape signatures. During identification, the cross-correlation metric is used in a novel fashion to gauge the degree of similarity between objects. The invariance of the method to uniform-scaling and partial occlusion is achieved by considering both cases as possible scenarios when correlating shape signatures. The proposed vision system is robust to ambient conditions (partial occlusion) and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Remote sensing for biodiversity monitoring: a review of methods for biodiversity indicator extraction and assessment of progress towards international targets",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s10531-015-0947-z",
+            "Abstract": "Recognizing the imperative need for biodiversity protection, the convention on biological diversity (CBD) has recently established new targets towards 2020, the so-called Aichi targets, and updated proposed sets of indicators to quantitatively monitor the progress towards these targets. Remote sensing has been increasingly contributing to timely, accurate, and cost-effective assessment of biodiversity-related characteristics and functions during the last years. However, most relevant studies constitute individual research efforts, rarely related with the extraction of widely adopted CBD biodiversity indicators. Furthermore, systematic operational use of remote sensing data by managing authorities has still been limited. In this study, the Aichi targets and the related CBD indicators whose monitoring can be facilitated by remote sensing are identified. For each headline indicator a number of recent remote sensing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Overcomplete source separation using Laplacian mixture models",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1407919/",
+            "Abstract": "The authors explore the use of Laplacian mixture models (LMMs) to address the overcomplete blind source separation problem in the case that the source signals are very sparse. A two-sensor setup was used to separate an instantaneous mixture of sources. A hard and a soft decision scheme were introduced to perform separation. The algorithm exhibits good performance as far as separation quality and convergence speed are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Wood species dataset",
+            "Publication year": 2019,
+            "Publication url": "https://spiral.imperial.ac.uk/handle/10044/1/66054",
+            "Abstract": "Wood Species Dataset (8544 Macroscopic Images)- Imperial College London - Aristotle University of Thessaloniki (Version 1).  File description: SpeciesCategory_PhotoNumber (Ex. 45_3 - 45th Photo - 3rd species category)",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Two dimensional Volterra parameter estimation using a zero tolerance optimisation formulation",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/900951/",
+            "Abstract": "This paper forms a part of a series of previous studies we have undertaken, where the problem of nonlinear textured image modeling is examined. We assume that the observed \"output\" image is derived from a Volterra filter that is driven by a Gaussian input. Both the filter parameters and the input signal are unknown and therefore the problem can be classified as blind or unsupervised in nature. In the statistical approach to the solution of the above problem we seek for equations that relate the unknown parameters of the Volterra model with the statistical parameters of the \"output\" image to be modeled. These equations are highly nonlinear and their solution is achieved through a novel constrained optimisation formulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Car detection in aerial images of dense urban areas",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7994611/",
+            "Abstract": "With the ever-increasing demand in the analysis and understanding of aerial images in order to remotely recognize targets, this paper introduces a robust system for the detection and localization of cars in images captured by air vehicles and satellites. The system adopts a sliding-window approach. It compromises a window-evaluation and a window-classification subsystems. The performance of the proposed framework was evaluated on the Vaihingen dataset. Results demonstrate its superiority to the state of the art.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:tkaPQYYpVKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Design and convergence analysis of a multirate structure for adaptive filtering",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1046384/",
+            "Abstract": "A Multi-Rate (MR) Adaptive Filtering Structure (AFS) that identifies the Generalised Polyphase Components (GPCs) of the Polyphase Components (PCs) of an unknown system is proposed. This new method consists of incorporating the Generalised Structural Subband Decomposition (GSSD) in the subband signals of an MR structure to increase the Convergence Rate (CR) when the input signal is coloured. The increase in the CR comes practically at no expense to the computational complexity. A new result related to Cosine Modulated (CM) Filter Banks (FBs) is given which is then used to show that the introduced generalisation does not affect the performance of the structure when the input signal is white. Experimental results show the improvement in the performance resulting from the proposed modifications.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image Fusion",
+            "Publication year": 2009,
+            "Publication url": "http://sutlib2.sut.ac.th/sut_contents/H119595.pdf",
+            "Abstract": "2.1 Introduction 27 2.2 Multiresolution analysis 30 2.2. 1 Fundamental principles 30 2.2. 2 Undecimated discrete wavelet transform 33 2.2. 3 Multi-level decomposition of wavelet transforms 33 2.2. 4 Translation-invariant wavelet decomposition of a 2~ D image 34 2.2. 5'\u00c0 trous' wavelet decomposition of an image 36 2.2. 6 Laplacian pyramid 38 2.3 MTF-tailored multiresolution analysis 40 2.4 Context-driven multiresolution data fusion 41 2.4. 1 Undecimated wavelet-based data fusion scheme 43 2.4. 2 Pyramid-based data fusion scheme 44",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Texture characterisation using a novel optimisation formulation for two-dimensional autoregressive modelling and K-means algorithm",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1292256/",
+            "Abstract": "In this paper, texture characterisation is attempted by two-dimensional autoregressive (AR) modelling, which is achieved by using a proposed constrained optimisation technique followed by the application of the k-means algorithm. The constrained optimisation formulation relates both second and third-order statistical parameters of the image with the AR model formulation. The k-means algorithm is applied to sets of AR model coefficients obtained by the proposed method in block-by-block process. A weighting scheme is then used to calculate the final estimated AR model coefficients.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Randomised forests for people detection",
+            "Publication year": 2011,
+            "Publication url": "https://digital-library.theiet.org/content/conferences/10.1049/ic.2011.0148",
+            "Abstract": "People detection is an important task with applications in fields such as surveillance and human computer interaction. A popular approach to this problem is to train a classifier on a data set using a particular set of features. A great deal of empirical evidence suggests that edge features are particularly discriminative for this task. In this paper we explore the use of randomised forests (sometimes referred to as randomised decision forests) for people detection. A randomised forest classifier is trained for people detection with edge orientation features. These features capture information concerning the distribution of edges with specific orientations. The classifier is trained and tested on the INRIA person data set, and some results are presented. (5 pages)",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:08ZZubdj9fEC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Land cover to habitat map conversion using remote sensing data: A supervised learning approach",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6947538/",
+            "Abstract": "The derivation of habitat maps is enhanced if land cover maps are used as basis for the mapping procedure. In this study, a supervised learning framework is proposed to perform object-based classification to General Habitat Categories. A Land Cover Classification System map is used as basis, and an approach to generate numerical features from the object land cover class names and attributes is introduced. An additional number of spectral, morphological, and topological features are extracted from very high resolution satellite imagery and classification accuracies up to 80.4% for 14 classes are reached. Inclusion of LiDAR (Light Detection And Ranging) data or proposed texture analysis features, improve accuracies to 86% and around 83%, respectively, with the latter proving as promising surrogates of LiDAR data features. The method outperformed rule-based approaches, indicating its potential in accurate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Salient object detection combining a self-attention module and a feature pyramid network",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/858626",
+            "Abstract": "Salient object detection has achieved great improvements by using the Fully Convolutional Networks (FCNs). However, the FCN-based U-shape architecture may cause dilution problems in the high-level semantic information during the up-sample operations in the top-down pathway. Thus, it can weaken the ability of salient object localization and produce degraded boundaries. To this end, in order to overcome this limitation, we propose a novel pyramid self-attention module (PSAM) and the adoption of an independent feature-complementing strategy. In PSAM, self-attention layers are equipped after multi-scale pyramid features to capture richer high-level features and bring larger receptive fields to the model. In addition, a channel-wise attention module is also employed to reduce the redundant features of the FPN and provide refined results. Experimental analysis demonstrates that the proposed PSAM effectively contributes to the whole model so that it outperforms state-of-the-art results over five challenging datasets. Finally, quantitative results show that PSAM generates accurate predictions and integral salient maps, which can provide further help to other computer vision tasks, such as object detection and semantic segmentation. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:z_wVstp3MssC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Image Restoration",
+            "Publication year": 2012,
+            "Publication url": "https://www.commsp.ee.ic.ac.uk/~tania/teaching/DIP%202014/DIP%20Restoration%202018.pdf",
+            "Abstract": "Image Restoration refers to a class of methods that aim at reducing or removing various types of distortions of the image of interest. These can be:\u2022 Distortion due to sensor noise.\u2022 Out-of-focus camera.\u2022 Motion blur.\u2022 Weather conditions.\u2022 Scratches, holes, cracks caused by aging of the image.\u2022 Others.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Regularized kernel discriminant analysis with a robust kernel for face recognition and verification",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6129513/",
+            "Abstract": "We propose a robust approach to discriminant kernel-based feature extraction for face recognition and verification. We show, for the first time, how to perform the eigen analysis of the within-class scatter matrix directly in the feature space. This eigen analysis provides the eigenspectrum of its range space and the corresponding eigenvectors as well as the eigenvectors spanning its null space. Based on our analysis, we propose a kernel discriminant analysis (KDA) which combines eigenspectrum regularization with a feature-level scheme (ER-KDA). Finally, we combine the proposed ER-KDA with a nonlinear robust kernel particularly suitable for face recognition/verification applications which require robustness against outliers caused by occlusions and illumination changes. We applied the proposed framework to several popular databases (Yale, AR, XM2VTS) and achieved state-of-the-art performance for most of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Estimation of extent of trees and biomass infestation of the suburban forest of Thessaloniki (Seich Sou) using UAV imagery and combining R-CNNs and multichannel texture analysis",
+            "Publication year": 2020,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11433/114333C/Estimation-of-extent-of-trees-and-biomass-infestation-of-the/10.1117/12.2556378.short",
+            "Abstract": "Given the urgent priority around protecting the forests and limiting the impacts of the climate change, the constant monitoring of forests towards the achievement of accurate and timely detection of infestations and the catastrophic action of invasive insects, pests and fungi is an important and challenging task. More precisely, new species of insects that are introduced or already existing insect species whose population multiply uncontrollably into the forest area, affect tree growth, their survival, as well as the quality of forest biomass and constitute a serious threat to the mechanisms of such forest ecosystems. Thus, new concepts are needed that will overcome difficulties faced by existing remote sensing techniques and that would allow the timely and accurate health determination process of forest regions, assisting scientists and authorities to take action in order to protect the forests. In this paper, we propose a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:j8SEvjWlNXcC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Novel computational tools in biosignal processing",
+            "Publication year": 2015,
+            "Publication url": "https://www.hindawi.com/journals/tswj/2015/984702/",
+            "Abstract": "Biosignal processing has become a popular part of modern computational science, physics, and biological science. It is desired to develop novel computational tools to analyze biosignals, which are able to provide utilizable approaches to enhance our understanding of complex biological systems. Novel methods were proposed for analyzing biosignals, such as electroencephalogram (EEG) and electrocardiogram (ECG), which might provide researchers with the current state-of-the-art knowledge of this interdisciplinary research field.The paper titled \u201cDual Adaptive Filtering by Optimal Projection Applied to Filter Muscle Artifacts on EEG and Comparative Study\u201d by S. Boudet et al. proposes a dual adaptive filtering by optimal projection (DAFOP) method to automatically remove artifacts on EEG recordings. It is demonstrated that the DAFOP is significantly more efficient than the canonical correlation analysis (CCA) and conventional low-pass filtering methods. The paper titled \u201cStudy of Driving Fatigue Alleviation by Transcutaneous Acupoints Electrical Stimulations\u201d by F. Wang and H. Wang investigates the driving fatigue by calculating the relative power spectrum of drivers\u2019 EEG signals, which were collected from the drivers who were electrically stimulated and the drivers without electrical stimulation. They found that the electrical stimulation method stimulating the L\u00e1og\u00f3ng point of the human body can alleviate driving fatigue effectively.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Blind separation of skewed signals in instantaneous",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17399402263381846642&hl=en&oi=scholarr",
+            "Abstract": "The problem of source separation of instantaneous (in fact only one is allowed to be Gaussian) with a number of mixtures has been addressed thoroughly in literature in the different methodologies. Some approaches perform separation past. The assumption of statistical independence between the by minimising the Kullback-Leibler (KL) divergence between source signals, led to the introduction of Independent Component",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "LiDAR technology and linear dynamical systems for classification of tropical tree species.",
+            "Publication year": 2018,
+            "Publication url": "https://www.alice.cnptia.embrapa.br/handle/doc/1130677",
+            "Abstract": "Description: To protect the value and potential of wood and forests, forest commissions, environmental agencies and scientists are focused on innovative solutions for environmental monitoring and management. To this end, a framework for tree classification that can contribute in the monitoring of wood resources, timber management and environmental protection is proposed in this paper. More specifically, we use LiDAR sensing technology and extract the skeleton of trees using the Fast Marching method. Then, we model them using linear dynamical systems taking advantage of the fact that each one of the tree species has been grown in a specific way and exhibits specific properties in the growing direction of it. This is achieved by dividing the tree skeletons into overlapping segments in the direction of z axes and creating higher-order patches consisting of trees? skeleton branching coordinates of each segment. Finally, due to the fact that the structure of tropical trees is complex, classification is performed introducing descriptors that take into account the combination of dynamic, appearance and noise parameters. For the evaluation of the proposed system, a dataset consisting of fifteen point clouds of common Caatinga tropical trees was created. Experimental results presented in this paper show the great application of the proposed methodology",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:EkHepimYqZsC",
+            "Publisher": "In: INTERNATIONAL CONFERENCE ON WOOD SCIENCE AND TECHNOLOGY, 29., 2018, Zagreb. Implementation of wood science in woodworking sector: proceedings. Zagreb: University of Zagreb, 2018."
+        },
+        {
+            "Title": "A Frequency Domain Approach to Roto-translation Estimation using Gradient Cross-Correlation.",
+            "Publication year": 2008,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.8556&rep=rep1&type=pdf",
+            "Abstract": "A novel frequency domain approach to roto-translation estimation is presented. The baseline gradient cross-correlation method is extended to handle rotations. A key feature of the proposed scheme is the ability to achieve good performance in the presence of both large translations and rotations as well as noise, a scenario for which other Fourier-based methods typically fail. Robustness and accuracy in conjunction with computational efficiency, offered by the frequency domain formulation, make the algorithm useful in a number of image processing tasks such as image registration.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A method for FIR filter design from joint amplitude and group delay characteristics",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/986998/",
+            "Abstract": "In this contribution we propose a method for the design of Finite Impulse Response (FIR) filters from joint specifications in amplitude and group delay responses. The fundamental concepts rely on the use of root moments, a set of parameters directly related to the transfer function of the desirable FIR filter. We derive appropriate relationships that link both the amplitude response and the group delay response of an FIR filter with the root moments of the required transfer function. From the relationship between the estimated root moments and the filter coefficients we finally determine the required transfer function. The results demonstrate that the proposed approach is eminently useful as a design tool.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Gait recognition method for arbitrary straight walking paths using appearance conversion machine",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925231215009868",
+            "Abstract": "We investigate the problem of multi-view human gait recognition along any straight walking paths. It is observed that the gait appearance changes as the view changes while certain amount of correlated information exists among different views. Taking advantage of that type of correlation, a multi-view gait recognition method is proposed in this paper. First, we estimate the viewing angle of the monitor equipment in terms of the probe subject. To this end, our method considers this as a classification problem, where the classification signals are the viewing angles, and the classification features are the elements of the transformation matrix that is estimated by the Transformation Invariant Low-Rank Texture (TILT) algorithm. Then, the gallery gait appearances are converted to the view of the probe subject using the proposed Appearance Conversion Machine (ACM), where the gait features of the spatially neighbouring \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Blind identification of two dimensional Volterra models using minimax type of optimization and higher-order cumulants",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1399212/",
+            "Abstract": "In this contribution, we further examine our previous studies on the nonlinear texture image modelling based on Volterra series. The observed image, which is assumed to be expressed as an output of a two dimensional Volterra filter driven by a Gaussian input image, is corrupted by an independent Gaussian random noise. Both of the input image and filter parameters are unknown and hence, the problem can be classified as blind system identification. To estimate the unknown parameters, we formulate the equations that relate the parameters of the image model with the cumulant properties of the observed output image. The solution of the formulated equations which are highly nonlinear, is achieved through minimax type of optimization.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:P5F9QuxV20EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image fusion schemes using ICA bases",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PA85&dq=info:NIT-UzrawZsJ:scholar.google.com&ots=Can0HrSFqw&sig=TjPIYU9MWQ74QPwvWGbXe_HDBJQ",
+            "Abstract": "Component Analysis bases for image fusion. The bases are trained offline using images of similar context to the observed scene. The images are fused in the transform domain using novel pixel-based or region-based rules. An unsupervised adaptation ICA-based fusion scheme is also introduced. The proposed schemes feature improved performance compared to approaches based on the wavelet transform and slightly increased computational complexity.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Robust recognition of planar shapes under affine transforms using principal component analysis",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4303087/",
+            "Abstract": "A scheme, based on principal component analysis (PCA), is proposed that can be used for the recognition of 2-D planar shapes under affine transformations. A PCA step is first used to map the object boundary to its canonical form, reducing the problem of the nonuniform sampling of the object contour introduced by the affine transformation. Then, a PCA-based scheme is employed to train a set of basis functions on the signals extracted from the objects' boundaries. The derived bases are used to analyze the boundary locally. Based on the theory of invariants and local boundary analysis, a novel invariant function is constructed. The performance of the proposed framework is compared with a standard wavelet-based approach with promising results.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Region-based Fusion Scheme for Human Detection in Autonomous Navigation Applications",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8927517/",
+            "Abstract": "Human and object detection is a continuously explored subject in tracking and navigation applications as well as within the machine vision community. More precisely, in navigation applications that are designed for robotics purposes or in order to support car drivers, the real-time detection of presence of humans and other objects is an important and challenging task. Specifically, human and object detection is a significant part of a human-computer collaboration in the sense of allowing automatic navigation and control systems to obtain a better model of the real world. Thus, new concepts are needed that will overcome difficulties faced by existing human detection approaches and will allow navigation systems to perform accurately. This paper offers a general classification scheme combining different detector systems towards navigation tasks. To evaluate the performance of the proposed methodology we used \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:tzM49s52ZIMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving the performance of an adaptive filtering structure by applying the generalised structural subband decomposition",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1181041/",
+            "Abstract": "In this paper a method is presented for improving the performance of an adaptive filtering structure (AFS) by applying the generalised structural subband decomposition (GSSD). The method is applied to a maximally decimated (MD) structure, which has been recently proposed in the literature, and a way is developed for identifying the generalised polyphase components (GPC) of the polyphase components (PC) of the system under modelling. A detailed convergence analysis is presented and experimental results are given that demonstrate the improvement in the convergence rate (CR) the proposed solution offers for coloured input processes. Particular attention is paid to the white input case. Specifically, a new result related to cosine modulated (CM) filter banks (FB) is given and used to show that the introduced application of GSSD does not affect the CR when the input is white. Finally, the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:BrmTIyaxlBUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust FFT-based scale-invariant image registration with image gradients",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5467089/",
+            "Abstract": "We present a robust FFT-based approach to scale-invariant image registration. Our method relies on FFT-based correlation twice: once in the log-polar Fourier domain to estimate the scaling and rotation and once in the spatial domain to recover the residual translation. Previous methods based on the same principles are not robust. To equip our scheme with robustness and accuracy, we introduce modifications which tailor the method to the nature of images. First, we derive efficient log-polar Fourier representations by replacing image functions with complex gray-level edge maps. We show that this representation both captures the structure of salient image features and circumvents problems related to the low-pass nature of images, interpolation errors, border effects, and aliasing. Second, to recover the unknown parameters, we introduce the normalized gradient correlation. We show that, using image gradients to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dynamic Knowledge Distillation with A Single Stream Structure for RGB-DSalient Object Detection",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2106.09517",
+            "Abstract": "RGB-D salient object detection(SOD) demonstrates its superiority on detecting in complex environments due to the additional depth information introduced in the data. Inevitably, an independent stream is introduced to extract features from depth images, leading to extra computation and parameters. This methodology which sacrifices the model size to improve the detection accuracy may impede the practical application of SOD problems. To tackle this dilemma, we propose a dynamic distillation method along with a lightweight framework, which significantly reduces the parameters. This method considers the factors of both teacher and student performance within the training stage and dynamically assigns the distillation weight instead of applying a fixed weight on the student model. Extensive experiments are conducted on five public datasets to demonstrate that our method can achieve competitive performance compared to 10 prior methods through a 78.2MB lightweight structure.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:BUYA1_V_uYcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive Chebyshev polynomial analysis for fusion of remote sensing vegetation imagery",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6863094/",
+            "Abstract": "This paper describes a novel approach of an adaptive fusion method by using Chebyshev polynomial analysis (CPA) for use in remote sensing vegetation imagery. Chebyshev polynomials have been effectively used in image fusion mainly in medium to high noise conditions, though its application is limited to heuristics. In this research, we have proposed a way to adaptively select the optimal CPA parameters according to user specifications. Performance evaluation affirms the approach's ability in reducing computational complexity for remote sensing images affected by noise.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A POLYNOMIAL FACTORISATION METHOD FOR LOW GROUP DELAY FIR EQUIRIPPLE FILTER DESIGN FROM LINEAR PHASE SYSTEMS",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.1622&rep=rep1&type=pdf",
+            "Abstract": "In this contribution we propose a method for reduced-groupdelay Finite Impulse Response (FIR) equiripple filter design from a given linear phase FIR filter. Our restriction is to keep the amplitude response identical. We are concentrating on very high degree polynomials (transfer functions) for which factorisation procedures for root extraction are unreliable. The initial linear phase transfer functions are obtained by standard design algorithms and particularly in this study by the Remez algorithm. The approach taken involves the use of the Cauchy Residue Theorem applied to the contour integral of the logarithmic derivative of the transfer function around appropriate curves. This leads into a set of parameters related directly to the polynomial coefficients, which facilitate the factorisation problem. The results of the proposed design scheme are very encouraging as far as robustness and computational complexity are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Edge detection using quantitative combination of multiple operators",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1579893/",
+            "Abstract": "Although a number of diverse edge detection techniques can be found in many image processing publications, there is no single detection method that performs well in every possible image context. Information that could be missed by one detector may be captured by another. The purpose of this paper is to describe a new framework which allows us to quantitatively combine the methods of different edge detection operators in order to yield improved results for edge detection in an image. The so called receiver operating characteristics (ROC) analysis is employed in a novel fashion to form an optimum edge map that matches the outcomes of a preselected set of edge detectors. The results of applying the above ROC analysis technique are demonstrated and compared with individual edge detection methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enhanced pedestrian detection using deep learning based semantic image segmentation",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8096045/",
+            "Abstract": "Pedestrian detection and semantic segmentation are highly correlated tasks which can be jointly used for better performance. In this paper, we propose a pedestrian detection method making use of semantic labeling to improve pedestrian detection results. A deep learning based semantic segmentation method is used to pixel-wise label images into 11 common classes. Semantic segmentation results which encodes high-level image representation are used as additional feature channels to be integrated with the low-level HOG+LUV features. Some false positives, such as falsely detected pedestrians located on a tree, can be easier eliminated by making use of the semantic cues. Boosted forest is used for training the integrated feature channels in a cascaded manner for hard negatives mining. Experiments on the Caltech-USA pedestrian dataset show improvements on detection accuracy by using the additional \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:dTyEYWd-f8wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Coupled network for robust pedestrian detection with gated multi-layer feature extraction and deformable occlusion handling",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9271862/",
+            "Abstract": "Pedestrian detection methods have been significantly improved with the development of deep convolutional neural networks. Nevertheless, detecting ismall-scaled pedestrians and occluded pedestrians remains a challenging problem. In this paper, we propose a pedestrian detection method with a couple-network to simultaneously address these two issues. One of the sub-networks, the gated multi-layer feature extraction sub-network, aims to adaptively generate discriminative features for pedestrian candidates in order to robustly detect pedestrians with large variations on scale. The second sub-network targets on handling the occlusion problem of pedestrian detection by using deformable regional region of interest (RoI)-pooling. We investigate two different gate units for the gated sub-network, namely, the channel-wise gate unit and the spatio-wise gate unit, which can enhance the representation ability of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:2KloaMYe4IUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FFT-based estimation of large motions in images: A robust gradient-based approach",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4959747/",
+            "Abstract": "A fast and robust gradient-based motion estimation technique which operates in the frequency domain is presented. The algorithm combines the natural advantages of a good feature selection offered by gradient-based methods with the robustness and speed provided by FFT-based correlation schemes. Experimentation with real images taken from a popular database showed that, unlike any other Fourier-based techniques, the method was able to estimate translations, arbitrary rotations and scale factors in the range 4-6.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mixture subclass discriminant analysis link to restricted Gaussian model and other generalizations",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6360018/",
+            "Abstract": "In this paper, a theoretical link between mixture subclass discriminant analysis (MSDA) and a restricted Gaussian model is first presented. Then, two further discriminant analysis (DA) methods, i.e., fractional step MSDA (FSMSDA) and kernel MSDA (KMSDA) are proposed. Linking MSDA to an appropriate Gaussian model allows the derivation of a new DA method under the expectation maximization (EM) framework (EM-MSDA), which simultaneously derives the discriminant subspace and the maximum likelihood estimates. The two other proposed methods generalize MSDA in order to solve problems inherited from conventional DA. FSMSDA solves the subclass separation problem, that is, the situation in which the dimensionality of the discriminant subspace is strictly smaller than the rank of the inter-between-subclass scatter matrix. This is done by an appropriate weighting scheme and the utilization of an iterative \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Invisible texture image watermarking using the Karhunen-Loeve transform",
+            "Publication year": 2003,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812704337_0045",
+            "Abstract": "This paper proposes a novel method for watermarking of single realisations of greyscale textured images using the Karhunen-Loeve transform (KLT). The utilisation of the KLT normally implies the availability of multiple realisations of the image of interest. However, the derivation of the KLT in the case of a single realisation is possible under certain assumptions. The KLT transforms the original image into a new image with components (pixels) which ideally are statistically independent. The watermark is introduced during the transformation process. The proposed method is encouraging as far as imperceptibility and robustness are concerned.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Classification and Detection of Symbols in Ancient Papyri.",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=3d7bDwAAQBAJ&oi=fnd&pg=PA120&dq=info:uD3sRCXXW1AJ:scholar.google.com&ots=TK5VH9lFne&sig=O9NYOzTid_Nqt1vN54DRIngdm5c",
+            "Abstract": "The advent of powerful image processing and machine learning tools has generated opportunities for more automated and efficient paleography. In this work, methods were developed to automate aspects of the transcription process of ancient papyri. First, a technique is proposed that employs color thresholding and contouring for the automatic extraction of symbols from papyri photographs. Second, two symbol classifiers are considered: a support vector machine that intakes Histogram of Oriented Gradients features, and a convolutional neural network. Finally, a novel system is described based on the sliding window approach that limits the number of windows to be considered and uses a combination of a support vector machine and a convolutional neural network to benefit from both accurate and fast detections. The performance of these methods was evaluated on a set of papyri photographs from the Petrie Museum of Egyptian Archaeology.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:VLnqNzywnoUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Image fusion: algorithms and applications",
+            "Publication year": 2011,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=VmvY4MTMFTwC&oi=fnd&pg=PP1&dq=info:j82XlXctT7oJ:scholar.google.com&ots=Can0HrSFqx&sig=EhArpx1-tKC4r8N7uKsDjsTOjcA",
+            "Abstract": "The growth in the use of sensor technology has led to the demand for image fusion: signal processing techniques that can combine information received from different sensors into a single composite image in an efficient and reliable manner. This book brings together classical and modern algorithms and design architectures, demonstrating through applications how these can be implemented. Image Fusion: Algorithms and Applications provides a representative collection of the recent advances in research and development in the field of image fusion, demonstrating both spatial domain and transform domain fusion methods including Bayesian methods, statistical approaches, ICA and wavelet domain techniques. It also includes valuable material on image mosaics, remote sensing applications and performance evaluation. This book will be an invaluable resource to R&D engineers, academic researchers and system developers requiring the most up-to-date and complete information on image fusion algorithms, design architectures and applications. Combines theory and practice to create a unique point of reference Contains contributions from leading experts in this rapidly-developing field Demonstrates potential uses in military, medical and civilian areas",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Image fusion: An overview",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7280926/",
+            "Abstract": "An extensive overview of the field of image fusion is presented in this paper. The study firstly delves into the problem of multiple modalities that form the motivation for fusion, and discusses the main advantages of image fusion. Further, it discusses in detail the history of fusion algorithms that comprise various transform-domain and data driven methods. A section on image fusion applications, ranging from geo-spatial, medical to security fields, is also presented. Overall the paper aims to bring to light the advances and state-of-the-art within the image fusion research area so as to benefit other fields.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:zA6iFVUQeVQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enhancement of multiple sensor",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=9850928015989872806&hl=en&oi=scholarr",
+            "Abstract": "Image fusion systems aim at transferring'interesting information from the input sensor images to the fused image. The common assumption for most fusion approaches is the existence of a high-quality reference image signal for all image parts in all input sensor images. In the case that there are common degraded areas in at least one of the input images, the fusion algorithms cannot improve the information provided there, but simply convey a combination of this degraded information to the output. In this study, the authors propose a combined spatial-domain method of fusion and restoration in order to identify these common degraded areas in the fused image and use a regularised restoration approach to enhance the content in these areas. The proposed approach was tested on both multi-focus and multi-modal image sets and produced interesting results.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:uc_IGeMz5qoC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "A normalized robust mixed-norm adaptive algorithm for system identification",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1255924/",
+            "Abstract": "A normalized robust mixed-norm (NRMN) algorithm for system identification in the presence of impulsive noise is introduced. The standard robust mixed-norm (RMN) algorithm exhibits slow convergence, requires a stationary operating environment, and employs a constant step-size that needs to be determined a priori. To overcome these limitations, the proposed NRMN algorithm introduces a time-varying learning rate and, thus, no longer requires a stationary environment, a major drawback of the RMN algorithm. The proposed NRMN exhibits increased convergence rate and substantially reduces the steady-state coefficient error, as compared to the least mean square (LMS), normalized LMS (NLMS), least absolute deviation (LAD), and RMN algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Endomorphic modelling for two-dimensional time-varying autoregressive model signals",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1394508/",
+            "Abstract": "Physical signals are often non-stationary. We assume that images are non-stationary and each pixel is the output of a different set of two-dimensional autoregressive (AR) model coefficients; therefore, texture cannot be characterised by applying AR modelling techniques to the entire image. A multistage modelling technique, which appears in the literature as \"endomorphic modelling\", is applied to this kind of signal. The signal is divided into sub-sets of samples and each sub-set is modelled using an AR model. A new image is formed using the same AR model coefficient estimated from different blocks, then the new image is re-modelled using AR models again. This process ends when the variance of the estimated parameters is sufficiently small. The simulation results show that the variances obtained from the estimated coefficients at the second stage are much smaller than the ones from the first stage",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:SP6oXDckpogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "New structures for adaptive filtering based on the generalised structural subband decomposition",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/974086/",
+            "Abstract": "The system identification (SI) problem is addressed from the viewpoint of the generalised structural subband decomposition (GSSD). A system identification structure (SIS) that provides significant computational savings and a substantial increase in the convergence rate (CR) in coloured input environments is presented for the identification of the generalised polyphase components (GPC) of the unknown system. Sparsity constraints are imposed on the input for the identification of polyphase components to be feasible. The proposed structure is then modified so as to relax the imposed constraints on its input and render it appropriate for applications such as the acoustic echo cancellation. The result is an efficient-with respect its computational complexity-adaptive filtering structure that provides an attractive solution in situations where the concern is the reduction in the complexity.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:8AbLer7MMksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Online fault recognition of electric power cable in coal mine based on the minimum risk neural network",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s12404-008-0106-1.pdf",
+            "Abstract": "Firstly, the concepts of the traveling wave entropy and the feature function of traveling wave entropy were defined. Then the statistic characters of the traveling wave entropy feature function, mean value and variance were analyzed after the zero-order component of the traveling wave of online cable was selected to serve as the observed object. Finally, the new recognition algorithm of minimum risk neural network was presented. The simulation experiments show that the recognitions of the early fault states can be completed correctly by using the proposed recognition algorithm. The classes of cable faults include in 1-phase ground faults, and the 2-phase short circuit faults or ground faults, and the 3-phase short circuit faults or ground faults, open circuit. The fault resistance range is 1\u00d710\u22121\u223c1\u00d7109 \u03a9.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "China Coal Society"
+        },
+        {
+            "Title": "Iterative regularized mixed norm multichannel image restoration",
+            "Publication year": 2005,
+            "Publication url": "https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-14/issue-1/013004/Iterative-regularized-mixed-norm-multichannel-image-restoration/10.1117/1.1867452.short",
+            "Abstract": "We present a regularized mixed norm multichannel image restoration algorithm. The problem of multichannel restoration using both within- and between-channel deterministic information is considered. For each channel a functional that combines the least mean squares (LMS), the least mean fourth (LMF), and a smoothing functional is proposed. We introduce a mixed norm parameter that controls the relative contribution between the LMS and the LMF, and a regularization parameter that defines the degree of smoothness of the solution, both updated at each iteration according to the noise characteristics of each channel. The novelty of the proposed algorithm is that no knowledge of the noise distribution for each channel is required, and the parameters just mentioned are adjusted based on the partially restored image.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:4TOpqqG69KYC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "A novel shape matching descriptor for real-time static hand gesture recognition",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314221000850",
+            "Abstract": "The current state-of-the-art hand gesture recognition methodologies heavily rely in the use of machine learning. However there are scenarios that machine learning cannot be applied successfully, for example in situations where data is scarce. This is the case when one-to-one matching is required between a query and a dataset of hand gestures where each gesture represents a unique class. In situations where learning algorithms cannot be trained, classic computer vision techniques such as feature extraction can be used to identify similarities between objects. Shape is one of the most important features that can be extracted from images, however the most accurate shape matching algorithms tend to be computationally inefficient for real-time applications. In this work we present a novel shape matching methodology for real-time hand gesture recognition. Extensive experiments were carried out comparing our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Adaptive volterra parameter estimation using a zero tolerance optimisation formulation",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7075485/",
+            "Abstract": "This paper forms a part of a series of recent studies we have undertaken, where the problem of nonlinear signal modelling is examined. We assume that an observed \"output\" signal is derived from a Volterra filter that is driven by a Gaussian input. Both the filter parameters and the input signal are unknown and therefore the problem can be classified as blind or unsupervised in nature. In the statistical approach to the solution of the above problem we seek for equations that relate the unknown parameters of the Volterra model with the statistical parameters of the \"output\" signal to be modelled. These equations are highly nonlinear and their solution is achieved through a novel constrained optimisation formulation. The results of the entire modelling scheme are compared with recent contributions.",
+            "Abstract entirety": 1,
+            "Author pub id": "sAB5gI8AAAAJ:u9iWguZQMMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Tropical Tree Species 3D Modelling and Classification Based on LiDAR Technology",
+            "Publication year": 2020,
+            "Publication url": "https://www.igi-global.com/chapter/tropical-tree-species-3d-modelling-and-classification-based-on-lidar-technology/254583",
+            "Abstract": "Over the last decade or so, laser scanning technology has become an increasingly popular and important tool for forestry inventory, enabling accurate capture of 3D information in a fast and environmentally friendly manner. To this end, the authors propose here a system for tropical tree species classification based on 3D scans of LiDAR sensing technology. In order to exploit the interrelated patterns of trees, skeleton representations of tree point clouds are extracted, and their structures are divided into overlapping equal-sized 3D segments. Subsequently, they represent them as third-order sparse structure tensors setting the value of skeleton coordinates equal to one. Based on the higher-order tensor decomposition of each sparse segment, they 1) estimate the mode-n singular values extracting intra-correlations of tree branches and 2) model tropical trees as linear dynamical systems extracting appearance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "sAB5gI8AAAAJ:t7zJ5fGR-2UC",
+            "Publisher": "IGI Global"
+        }
+    ]
+}]

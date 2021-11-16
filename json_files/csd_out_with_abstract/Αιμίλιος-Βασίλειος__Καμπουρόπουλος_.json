@@ -1,0 +1,731 @@
+[{
+    "name": "\u0391\u03b9\u03bc\u03af\u03bb\u03b9\u03bf\u03c2-\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2  \u039a\u03b1\u03bc\u03c0\u03bf\u03c5\u03c1\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 ",
+    "romanize name": "Aimilios-Vasileios  Kampouropoulos ",
+    "School-Department": "\u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ce\u03bd \u03a3\u03c0\u03bf\u03c5\u03b4\u03ce\u03bd",
+    "University": "auth",
+    "Rank": " \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 19655,
+    "Scholar name": "Emilios Cambouropoulos",
+    "Scholar id": "ZibN-roAAAAJ",
+    "Affiliation": "Associate professor in Music Informatics, Aristotle University of Thessaloniki",
+    "Citedby": 2334,
+    "Interests": [
+        "Music informatics",
+        "computational musicology",
+        "music and artificial intelligence"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=ZibN-roAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Symbolic Representation and Processing of Musical Structure: Stream Segments, Pitch Interval Patterns, General Chord Types",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-77411-0_14",
+            "Abstract": "The difficulty of modelling musical structure in a general and cognitively plausible manner is due primarily to music\u2019s inter-dependent multi-parametric and multi-level nature that allows multiple structural interpretations to emerge. Traditional AI symbolic processing methods, however, can be used effectively for modelling particular analytic and creative aspects of musical structure. In this paper three specific problems of music structure, namely, segmentation and streaming, pattern extraction, harmonic abstraction and generation, will be addressed with a view to highlighting the importance of problem definitions, music representation and multi-parametric hierarchical cognitively-inspired processing methodologies. Existing proof-of-concept models are used as a basis for a theoretical discussion.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Musical voice integration/segregation: VISA revisited",
+            "Publication year": 2009,
+            "Publication url": "http://delab.csd.auth.gr/papers/SMC09rcm.pdf",
+            "Abstract": "The Voice Integration/Segregation Algorithm (VISA) proposed by Karydis et al.[7] splits musical scores (symbolic musical data) into different voices, based on a perceptual view of musical voice that corresponds to the notion of auditory stream. A single \u2018voice\u2019may consist of more than one synchronous notes that are perceived as belonging to the same auditory stream. The algorithm was initially tested against a handful of musical works that were carefully selected so as to contain a steady number of streams (contrapuntal voices or melody with accompaniment). The initial algorithm was successful on this small dataset, but was proven to run into serious problems in cases were the number of streams/voices changed during the course of a musical work. A new version of the algorithm has been developed that attempts to solve this problem; the new version, additionally, includes an improved mechanism for context-dependent breaking of chords and for keeping streams homogeneous. The new algorithm performs equally well on the old dataset, but gives much better results on the new larger and more diverse dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Learning and blending harmonies in the context of a melodic harmonisation assistant",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-44944-9_46",
+            "Abstract": "How can harmony in diverse idioms be represented in a machine learning system and how can learned harmonic descriptions of two musical idioms be blended to create new ones? This paper presents a creative melodic harmonisation assistant that employs statistical learning to learn harmonies from human annotated data in practically any style, blends the harmonies of two user-selected idioms and harmonises user-input melodies. To this end, the category theory algorithmic framework for conceptual blending is utilised for blending chord transition of the input idioms, to generate an extended harmonic idiom that incorporates a creative combination of the two input ones with additional harmonic material. The results indicate that by learning from the annotated data, the presented harmoniser is able to express the harmonic character of diverse idioms in a creative manner, while the blended harmonies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:a0OBvERweLwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Visualisation of different harmonisations varying in mode, consonance & dissonance",
+            "Publication year": 2021,
+            "Publication url": "https://psyarxiv.com/jcq23/",
+            "Abstract": "Visual associations with auditory stimuli have been the subject of numerous studies. Colour, shape, size, and several other parameters have been linked to musical elements like timbre and pitch. In this paper we aim to examine the relationship between harmonisations with varying degrees of dissonance and visual roughness. Based on past research in which high sensory dissonance was associated with angular shapes, we argued that non-tonal and highly dissonant harmonisations will be associated with angular and rough images, while more consonant stimuli will be associated with images of low visual roughness. A fixed melody was harmonised in 7 different styles, including highly tonal, non-tonal, and random variations. Through a listening task, musically trained participants rated the stimuli in terms of enjoyment, familiarity, and matched them to images of variable roughness. The overall consonance of the stimuli was calculated using two distinct models (Wang et al., 2013; Harrison & Pearce, 2020) and a variant of the aggregate dyadic consonance index (Huron, 1994). Our results demonstrate that dissonance, as calculated by all models, was highly correlated with visual roughness, and enjoyment and familiarity followed expected patterns compared to tonal and non-tonal stimuli. In addition to sensory dissonance, however, it appears that other factors, such as the typicality of chord progressions and the sense of tonality may also influence this cross-modal interaction.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:1qzjygNMrQYC",
+            "Publisher": "PsyArXiv"
+        },
+        {
+            "Title": "Concept invention and music: Creating novel harmonies via conceptual blending",
+            "Publication year": 2014,
+            "Publication url": "https://www.research.ed.ac.uk/en/publications/concept-invention-and-music-creating-novel-harmonies-via-conceptu",
+            "Abstract": "Conceptual blending is a cognitive theory whereby elements from diverse, but structurally-related, mental spaces are \u201cblended\u201d giving rise to new conceptual spaces that often possess newpowerful interpretative properties, allowing better understanding ofknown concepts or the emergence of novel concepts altogether. Thispaper provides an overview of the wide computational methodologicalspectrum that is being developed towards building an automaticmelodic harmonization system that employs conceptual blending, yielding harmonizations that inherit characteristics from multipleidioms. Examples of conceptual blending in harmony are presentedthat exhibit the effectiveness of the developed model in inventingnovel harmonic concepts. These examples discuss the invention ofwell-known jazz cadences through blending the underlying conceptsof classical music cadences, as well as the construction of largerchord sequences. Furthermore, examples of a conceptual blendinginterpretation in human compositions that motivated the goals ofthe system\u2019s design are given. Finally, conceptual blending betweenharmonic and non-harmonic domains is discussed, offering tools thatallow for intuitive human intervention in the harmonization process.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:5ugPr518TE4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Horizontal and vertical integration/segregation in auditory streaming: a voice separation algorithm for symbolic musical data",
+            "Publication year": 2007,
+            "Publication url": "https://www.academia.edu/download/38584843/50.pdf",
+            "Abstract": "Listeners are thought to be capable of perceiving multiple voices in music. Adopting a perceptual view of musical \u2018voice\u2019that corresponds to the notion of auditory stream, a computational model is developed that splits a musical score (symbolic musical data) into different voices. A single \u2018voice\u2019may consist of more than one synchronous notes that are perceived as belonging to the same auditory stream; in this sense, the proposed algorithm, may separate a given musical work into fewer voices than the maximum number of notes in the greatest chord (eg a piece consisting of four or more concurrent notes may be separated simply into melody and accompaniment). This is paramount, not only in the study of auditory streaming per se, but also for developing MIR systems that enable pattern recognition and extraction within musically pertinent \u2018voices\u2019(eg melodic lines). The algorithm is tested qualitatively and quantitatively against a small dataset that acts as groundtruth.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structural blending of harmonic spaces: A computational approach",
+            "Publication year": 2015,
+            "Publication url": "https://www.researchgate.net/profile/Maximos-Kaliakatsos-Papakostas/publication/283070195_Structural_Blending_of_Harmonic_Spaces_a_Computational_Approach/links/562880d608ae22b1702e3b59/Structural-Blending-of-Harmonic-Spaces-a-Computational-Approach.pdf",
+            "Abstract": "This research focuses on concept invention processes and suggests that structural blending is a powerful mechanism that gives rise to novel musical concepts. Structural blending is omnipresent across several formal musical levels, from individual pieces harmoniously combining music characteristics of different pieces/styles, to entire musical styles having emerged as a result of blending between diverse music idioms. In this paper, we focus on conceptual blending in the domain of musical harmony and present primarily computational examples in the following harmonic domains: chord-level blending, chord sequence blending, scale blending, harmonic structure level blending, melody-harmony level blending. Structural blending can be used not only for music analysis and music understanding, but more so it may form the basis for creative/generative music systems; processes of conceptual blending can be incorporated in computational compositional systems, facilitating the creation of original music structures/pieces/styles and contributing to a richer comprehension/experience of music.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Asymmetric beat/tactus: Investigating the performance of beat-tracking systems on traditional asymmetric rhythms",
+            "Publication year": 2012,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.7841&rep=rep1&type=pdf",
+            "Abstract": "Theories of western metrical structure commonly hypothesize an isochronous beat level (tactus) upon which the concept of metre is built. This assumption is challenged by this study. It is proposed that time at the tactus level may be measured by isochronous or asymmetric temporal \u2018scales\u2019 depending on the musical data (just like asymmetric pitch scales are adequate for organizing tonal pitch space). This study examines the performance of beat tracking systems on music that features asymmetric rhythms (eg 5/8, 7/8) and proposes potential improvement of theoretical and practical aspects relating to beat perception that can allow the construction of more general idiom-independent beat trackers. The tactus of asymmetric/complex musical rhythms is non-isochronous; for instance, a 7/8 song is often counted/taped/danced at a level 3+ 2+ 2 (not at a lower or higher level). Two state-of-the-art beat-tracking systems (Dixon 2007; Davies & Plumbley 2007) and a beat/tempo induction system (Pikrakis et al. 2004) are tested on a number of traditional Greek (dance) songs that feature asymmetric rhythms. The beat output of the algorithms is measured against the corresponding beat structures indicated by expert musicians, and the algorithms are compared to each other. As expected, the beat-trackers cannot cope well with asymmetric rhythms. The metre/tempo induction system performs better in processing asymmetric rhythms; it does not always find the correct beat level but this level exists implicitly in the model (in between sub-and super-beat levels).",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "From MIDI to traditional musical notation",
+            "Publication year": 2000,
+            "Publication url": "http://users.auth.gr/emilios/papers/aaai2000.pdf",
+            "Abstract": "In this paper a system that is designed to extract the musical score from a MIDI performance is described. The proposed system comprises of a number of modules that perform the following tasks: identification of elementary musical objects, calculation of accent (salience) of musical events, beat induction, beat tracking, onset quantisation, streaming, duration quantisation and pitch spelling. The system has been applied on 13 complete Mozart sonata performances giving very encouraging results.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pattern processing in melodic sequences: Challenges, caveats and prospects",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1002646129893",
+            "Abstract": "In this paper a number of issues relating to theapplication of string processing techniques on musicalsequences are discussed. A brief survey of somemusical string processing algorithms is given and someissues of melodic representation, abstraction,segmentation and categorisation are presented. Thispaper is not intended to provide solutions tostring processing problems but rather tohighlight possible stumbling-block areas andraise awareness of primarily music\u2010elatedparticularities that can cause problems in matchingapplications.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "The Shape of Music-The Music of Shape.",
+            "Publication year": 2015,
+            "Publication url": "http://ceur-ws.org/Vol-1616/invited2.pdf",
+            "Abstract": "Musicians make use of the notion of shape in relation to music performance, teaching, composition, improvisation; they often think and talk about the shape of a musical phrase or melody, the shape of a single sound event, the shape of a longer section or piece, the expressive shaping of music during performance. But how can a primarily spatial term such as shape (meaning \u201cthe external form, contour, or outline of someone or something\u201d according to the Oxford dictionary), be applied in the temporal domain of music? How can one talk of shape in regards to a temporally emitted sequence of sound events?Many researchers have studied the correspondence between space and time in human conceptualisation, and more specifically the use of spatial metaphors in temporal reasoning [1, 2]. Johnson and Larson [3] discuss the relation between music motion and space, and, more specifically, the employment of two basic spatialisation metaphors of time in the conceptualisation of musical time and motion. Frequency/pitch is also commonly conceptualised in terms of spatial metaphors, namely along the high/low spatial axis [4, 5]. The combination of the x-axis spatial representation of time with an orthogonal high/low pitch y-axis gives rise to the most common 2D representation of music (standard score notation, piano-roll notation, spectrogram, various graphic scores)\u2013see [6] for a cross-cultural study on visual representation schemes of melodic shape. The correspondence between time and space is so strong that it is difficult to conceptualise music without thinking about shape or pattern.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Voice and stream: Perceptual and computational modeling of voice separation",
+            "Publication year": 2008,
+            "Publication url": "https://online.ucpress.edu/mp/article-abstract/26/1/75/62376",
+            "Abstract": " LISTENERS ARE THOUGHT TO BE CAPABLE of perceiving multiple voices in music. This paper presents different views of what 'voice' means and how the problem of voice separation can be systematically described, with a view to understanding the problem better and developing a systematic description of the cognitive task of segregating voices in music. Well-established perceptual principles of auditory streaming are examined and then tailored to the more specific problem of voice separation in timbrally undifferentiated music. Adopting a perceptual view of musical voice, a computational prototype is developed that splits a musical score (symbolic musical data) into different voices. A single 'voice' may consist of one or more synchronous notes that are perceived as belonging to the same auditory stream. The proposed model is tested against a small dataset that acts as ground truth. The results support \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:ufrVoPGSRksC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "The musical surface: Challenging basic assumptions",
+            "Publication year": 2010,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/10298649100140S209",
+            "Abstract": "This paper addresses problems and misconceptions pertaining to the notion of the musical surface, a notion that is commonly thought to be relatively straight-forward and is often taken as a given in computational and cognitive research. It is suggested that the musical surface is comprised of (complex) musical events perceived as wholes within coherent musical streams - the musical surface is not merely an unstructured sequence of atomic note events, such as score notes or a piano-roll representation. Additionally, it is maintained that the emergence of the musical surface involves rather complex mechanisms that require, not only multi-pitch extraction from the acoustic signal, but, the employment of cognitive processes such as beat-tracking, metre induction, chord identification and stream/voice separation. Such processes do not come into play after the surface has been formed, but are, rather, an integral part of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Probabilistic harmonization with fixed intermediate chord constraints.",
+            "Publication year": 2014,
+            "Publication url": "http://ikee.lib.auth.gr/record/276111/files/icmc-smc2014-cHMM.pdf",
+            "Abstract": "During the last decades, several methodologies have been proposed for the harmonization of a given melody with algorithmic means. Among the most successful are methodologies that incorporate probabilistic mechanisms and statistical learning, since they have the ability to generate harmonies that statistically adhere to the harmonic characteristics of the idiom that the training pieces belong to. The current paper discusses the utilization of a well\u2013studied probabilistic methodology, the hidden Markov model (HMM), in combination with additional constraints that incorporate intermediate fixed\u2013chord constraints. This work is motivated by the fact that some parts of a phrase (like the cadence) or a piece (eg points of modulation, peaks of tension, intermediate cadences etc.) are characteristic about the phrase\u2019s or piece\u2019s idiomatic identity. The presented methodology allows to define and isolate such important parts/functions and include them as constraints in a probabilistic harmonization methodology. To this end, the constrained HMM (CHMM) is developed, harnessed with the novel general chord type (GCT) representation, while the study focuses on examples that highlight the diversity that constraints introduce in harmonizations.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Influence of musical similarity on melodic segmentation: Representations and algorithms",
+            "Publication year": 2004,
+            "Publication url": "http://users.auth.gr/emilios/papers/smc2004.pdf",
+            "Abstract": "In this paper a computational model is presented that extracts patterns from a given melodic surface and, then, following the assumption that the beginning and ending points of'significant'repeating musical patterns influence the segmentation of a musical surface, the discovered patterns are used as a means to determine probable segmentation points of the melody.\u2018Significant\u2019patterns are defined primarily in terms of frequency of occurrence and pattern length. The special status of non-overlapping immediately repeating patterns is examined. All the discovered patterns merge into a single \u2018pattern\u2019segmentation profile that signifies points in the surface that are most likely to be perceived as points of segmentation. The effectiveness of the proposed melodic representations and algorithms is tested against a series of melodic examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Conceptualizing music: Cognitive structure, theory, and analysis",
+            "Publication year": 2003,
+            "Publication url": "https://www.jstor.org/stable/10.1525/mp.2003.21.1.135",
+            "Abstract": "\u201cHow [is it] that we can make some sort of sense of an unfamiliar music almost immediately and yet have this same work provide continued reward in our further experiences with it [?]\u201d(p. 333). Zbikowski\u2019s book attempts to shed light into this \u201cabiding mystery.\u201d Based on the assumption that \u201cmusical understanding relies not on specialized capacities unique to the processing of patterned sound but on the specialized use of general capacities that humans use to structure their understanding of the everyday",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "Conceptual blending of high-level features and data-driven salience computation in melodic generation",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1389041718307794",
+            "Abstract": "Conceptual Blending (CB) theory describes the cognitive mechanisms underlying the way humans process the emergence of new conceptual spaces by blending two input spaces. CB theory has been primarily used as a method for interpreting creative artefacts, while recently it has been utilised in the context of computational creativity for algorithmic invention of new concepts. Examples in the domain of music include the employment of CB interpretatively as a tool to explain musical semantic structures based on lyrics of songs or on the relations between body gestures and music structures. Recent work on generative applications of CB has shown that proper low-level representation of the input spaces allows the generation of consistent and sometimes surprising blends. However, blending high-level features (as discussed in the interpretative studies) of music explicitly, is hardly feasible with mere low-level \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:geHnlv5EZngC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A directional interval class representation of chord transitions",
+            "Publication year": 2012,
+            "Publication url": "http://users.auth.gr/~emilios/papers/ICMPC-ESCOM-2012-chordTransitions.pdf",
+            "Abstract": "Chords are commonly represented, at a low level, as absolute pitches (or pitch classes) or, at a higher level, as chords types within a given tonal/harmonic context (eg roman numeral analysis). The former is too elementary, whereas, the latter, requires sophisticated harmonic analysis. Is it possible to represent chord transitions at an intermediate level that is transposition-invariant and idiom-independent (analogous to pitch intervals that represent transitions between notes)? In this paper, a novel chord transition representation is proposed. A harmonic transition between two chords can be represented by a Directed Interval Class (DIC) vector. The proposed 12-dimensional vector encodes the number of occurrence of all directional interval classes (from 0 to 6 including+/-for direction) between all the pairs of notes of two successive chords. Apart from octave equivalence and interval inversion equivalence, this representation preserves directionality of intervals (up or down). Interesting properties of this representation include: easy to compute, independent of root finding, independent of key finding, incorporates voice leading qualities, preserves chord transition asymmetry (eg different vector for I\u2192 V and V\u2192 I), transposition invariant, independent of chord type, applicable to tonal/post-tonal/atonal music, and, in most instances, constituent chords from a chord transition can be uniquely derived from a DIC vector. DIC vectors can be organised in different categories depending on their content, and distance between vectors can be used to calculate harmonic similarity between different music passages. Preliminary tests are presented using simple tonal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Conceptual blending of harmonic spaces for creative melodic harmonisation",
+            "Publication year": 2017,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/09298215.2017.1355393",
+            "Abstract": "In computational creativity, new concepts can be invented through conceptual blending of two independent conceptual spaces. In music, conceptual blending has been primarily used for analysing relations between musical and extra-musical elements in composed music rather than generating new music. This paper presents a probabilistic melodic harmonisation assistant that employs conceptual blending to combine learned, potentially diverse, harmonic idioms and generate new harmonic spaces that can be used to harmonise melodies given by the user. The key feature of this system is the application of creative conceptual blending to the most common chord transitions (pairs of consecutive chords) of two initial harmonic idioms. The proposed methodology integrates newly created blended chords and transitions in a compound probabilistic harmonic space, that preserves combined characteristics from both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:SP6oXDckpogC",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "Human preferences for tempo smoothness",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.385.5604&rep=rep1&type=pdf",
+            "Abstract": "In this study we investigate the relationship between beat and musical performance. It is hypothesised that listeners prefer beat sequences that are smoother than beat tracks that are fully aligned with the actual onsets of performed notes. In order to examine this hypothesis, an experiment was designed whereby six different smoothed beat tracks generated are rated by subjects in relation to how well they correspond to a number of performed piano excerpts. It is shown that there is a preference of listeners for beat sequences that are slightly smoother than the onset times of the corresponding musical notes. This outcome was strongly supported by the results obtained from the group of trained musicians whereas it seems to have no bearing for the group of non-musicians.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluating Human-Computer Co-creative Processes in Music: A Case Study on the CHAMELEON Melodic Harmonizer",
+            "Publication year": 2021,
+            "Publication url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.603752/full",
+            "Abstract": "CHAMELEON is a computational melodic harmonisation assistant. It can harmonise a given melody according to a number of independent harmonic idioms or blends between idioms based on principles of conceptual blending theory. Thus, the system is capable of offering a wealth of possible solutions and viewpoints for melodic harmonisation. This study investigates how human creativity may be influenced by the use of CHAMELEON in a melodic harmonisation task. Professional and novice music composers participated in an experiment where they were asked to harmonise two similar melodies under two different conditions: one with and one without computational support. A control group harmonised both melodies without computational assistance. The influence of the system was examined both behaviourally, by comparing metrics of user-experience, and in terms of the properties of the artifacts (i.e., pitch class distribution and number of chord types characterising each harmonisation) that were created between the two experimental conditions. Results suggest that appreciation of the system was expertise-dependent (i.e., novices appreciated the computational support more than professionals). At the same time, users seemed to adopt more explorative strategies as a result of interaction with CHAMELEON based on the fact that the harmonisations created this way were more complex, diverse and unexpected in comparison to the ones of the control group.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Frontiers"
+        },
+        {
+            "Title": "Auditory Streams in Ligeti's Continuum: A theoretical and perceptual study",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/5243782/cim08_abstracts_proceedings.pdf#page=41",
+            "Abstract": "AIMSThe aim of this paper is to show how a number of auditory streaming principles may be used to obtain a better understanding of a specific musical work, namely Ligeti\u2019s Continuum for harpsichord. We show that \u2018traditional\u2019music analytic methodologies are insufficient to account for the listening challenges posed by the specific work, and that music perception can shed new light in our understanding of the musical structure of this piece.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Perceptual smoothness of tempo in expressively performed music",
+            "Publication year": 2006,
+            "Publication url": "https://www.jstor.org/stable/10.1525/mp.2006.23.3.195",
+            "Abstract": "Many beat-tracking models attempt to find the beat given only a sequence of onsets (Longuet-Higgins & Lee, 1982; Povel & Essens, 1985; Desain, 1992; Cemgil, Kappen, Desain, & Honing, 2000; Rosenthal, 1992; Large & Kolen, 1994; Large & Jones, 1999; Desain & Honing, 1999), whereas some recent attempts also take into account elementary aspects of musical salience or accent (Toiviainen & Snyder, 2003; Dixon & Cambouropoulos, 2000; Parncutt, 1994; Goto & Muraoka, 1995, 1999). An assumption made in most models is that a preferred beat track should contain as few empty positions as possible, that is, beats on which no note is played, as in cases of syncopation or rests. A related underlying assumption is that musical events may appear only on or off the beat. However, a musical event may both correspond to a beat but at the same time not coincide precisely with the beat. That is, a nominally on-beat \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "V ISA3: REFINING THE VOICE INTEGRATION/SEGREGATION ALGORITHM",
+            "Publication year": 2016,
+            "Publication url": "https://users.ionio.gr/~karydis/my_papers/MKarydisC2016%20-%20VISA3%20Refining%20the%20Voice%20Integration-Segregation%20Algorithm.pdf",
+            "Abstract": "Human music listeners are capable of identifying multiple \u2018voices\u2019 in musical content. This capability of grouping notes of polyphonic musical content into entities is of great importance for numerous processes of the Music Information Research domain, most notably for the better understanding of the underlying musical content\u2019s score. Accordingly, we present the VISA3 algorithm, a refinement of the family of VISA algorithms for integration/segrega-tion of voice/streams focusing on musical streams. VISA3 builds upon its previous editions by introduction of new characteristics that adhere to previously unused general perceptual principles, address assignment errors that accumulate affecting the precision and tackle more generic musical content. Moreover, a new small dataset with human-expert ground-truth quantised symbolic data annotation is utilised. Experimental results indicate the significant performance amelioration the proposed algorithm achieves in relation to its predecessors. The increase in precision is evident for both the dataset of the previous editions as well as for a new dataset that includes musical content with characteristics such that of non-parallel motion that are common and have not yet been examined.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Proceedings of the 8th Folk Music Analysis International Workshop [FMA 2018].",
+            "Publication year": 2018,
+            "Publication url": "https://sophia.mus.auth.gr/xmlui/handle/123456789/1897",
+            "Abstract": "The 8th International Workshop on Folk Music Analysis was held from 26 to 29 June 2018 in Thessaloniki, Greece. This International Workshop brings together researchers from the fields of ethnomusicology, musicology and music information retrieval (MIR). It provides a forum that encourages sharing of ideas, needs, research methods and discoveries, among ethnomusicologists, musicians, librarians, students, museum curators, computer science experts and music information retrieval researchers. The aim is to foster cross-disciplinary collaborative networks and the development of new interdisciplinary tools and techniques that promote an enriched understanding of traditional musics and the preservation/dissemination of world musical cultural heritage. We believe that the discussions we had during this workshop were diverse and encouraging, also thanks to the Analytic Approaches to World Music Conference (AAWM) that was hold at the same venue in parallel to the FMA. We see that the year-long effort to continue the FMA resulted in a highly interdisciplinary community between Humanities and Sciences, and we hope to see a continuation of this throughout the next years. We would like to thank the local team in Thessaloniki, all students and administrative staff who helped us. We would like to thank Emmanouil Benetos for the keynote talk that built bridges to the AAWM community. We would like to thank the musicians who created a great atmosphere during the evenings. And, last but not least, all participants and reviewers who support the FMA.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:vRqMK49ujn8C",
+            "Publisher": "School of Music Studies--Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Computational invention of cadences and chord progressions by conceptual chord-blending",
+            "Publication year": 2015,
+            "Publication url": "https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/11139",
+            "Abstract": "We present a computational framework for chord invention based on a cognitive-theoretic perspective on conceptual blending. The framework builds on algebraic specifications, and solves two musicological problems. It automatically finds transitions between chord progressions of different keys or idioms, and it substitutes chords in a chord progression by other chords of a similar function, as a means to create novel variations. The approach is demonstrated with several examples where jazz cadences are invented by blending chords in cadences from earlier idioms, and where novel chord progressions are generated by inventing transition chords.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A probabilistic approach to determining bass voice leading in melodic harmonisation",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-20603-5_13",
+            "Abstract": "Melodic harmonisation deals with the assignment of harmony (chords) over a given melody. Probabilistic approaches to melodic harmonisation utilise statistical information derived from a training dataset to harmonise a melody. This paper proposes a probabilistic approach for the automatic generation of voice leading for the bass note on a set of given chords from different musical idioms; the chord sequences are assumed to be generated by another system. The proposed bass voice leading (BVL) probabilistic model is part of ongoing work, it is based on the hidden Markov model (HMM) and it determines the bass voice contour by observing the contour of the melodic line. The experimental results demonstrate that the proposed BVL method indeed efficiently captures (in a statistical sense) the characteristic BVL features of the examined musical idioms.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Idiom-independent harmonic pattern recognition based on a novel chord transition representation",
+            "Publication year": 2013,
+            "Publication url": "https://dspace.library.uu.nl/bitstream/handle/1874/276246/fma2013_proceedings.pdf#page=21",
+            "Abstract": "In this paper, a novel chord transition representation (Cambouropoulos 2012) is explored in a harmonic recognition task. This representation allows the encoding of chord transitions at a level higher that individual notes that is transposition-invariant and idiom-independent (analogous to pitch intervals that represent transitions between notes). A harmonic transition between two chords is represented by a Directed Interval Class (DIC) vector. The proposed 12-dimensional vector encodes the number of occurrence of all directional interval classes (from 0 to 6 including+/-for direction) between all the pairs of notes of two successive chords. Apart from octave equivalence and interval inversion equivalence, this representation preserves directionality of intervals (up or down).A small database is constructed comprising of chord sequences derived from diverse music idioms/styles (tonal music, different traditional harmonic idioms, 20th century nontonal harmonic idioms). The proposed DIC representation is evaluated on a harmonic recognition task, ie we examine the accuracy of recognition of harmonic queries in this database. The results of the algorithm are judged by human music analysis experts.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Good artists copy, great artists steal: strategies for creative exploitation of the chameleon harmonisation assistant",
+            "Publication year": 2020,
+            "Publication url": "http://ikee.lib.auth.gr/record/328163/files/Cambouropoulos%20et%20al.pdf",
+            "Abstract": "This paper presents an experiment designed to investigate the influence of a creativity support tool on music creation. Twenty five participants were asked to harmonise two very similar melodies, the first on their own and the second while given the opportunity to interact with the CHAMELEON harmonisation assistant. CHAMELEON can offer a variety of solutions in a melodic harmonisation task by harmonising according to a number of idioms and/or their blends. Comparison between the produced harmonisations by the participants and their selection of favourite CHAMELEON examples indicated that the majority of them were directly influenced by the solutions offered by the system. Three strategies by which participants exploited CHAMELEON were identified: borrowing of full measures or long chord sequences, borrowing of one or more single chords and finally, adoption of general concepts existing in the CHAMELEON examples. We argue that these findings indicate that the system has the potential to stimulate and promote creative thinking.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detection of Stream Segments in Symbolic Musical Data.",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2415109475417804868&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated motivic analysis via melodic clustering",
+            "Publication year": 2000,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/09298210008565464",
+            "Abstract": "In this paper a computational model will be presented that attempts to organise melodic segments into \u2018significant\u2019 musical categories (e.g., motives). Given a segmentation of a melodic surface, the proposed algorithm constructs an appropriate representation for each segment in terms of a number of attributes (these reflect melodic and rhythmic aspects of the segment at the surface and at various abstract levels) and then a clustering algorithm (the Unscramble algorithm) is applied for the organisation of these segments into \u2018meaningful\u2019 categories. The proposed clustering algorithm automatically determines an appropriate number of clusters and also the characteristic attributes of each category. As a test case this computational model has been used for obtaining a motivic analysis of Schumann's Tr\u00e4umerei and Debussy's Syrinx. ",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "VISA: The voice integration/segregation algorithm",
+            "Publication year": 2007,
+            "Publication url": "https://ci.nii.ac.jp/naid/10026767094/",
+            "Abstract": "CiNii \u8ad6\u6587 - VISA : The Voice Integration/Segregation Algorithm CiNii \u56fd\u7acb\u60c5\u5831\u5b66\u7814\u7a76\u6240 \u5b66\u8853\n\u60c5\u5831\u30ca\u30d3\u30b2\u30fc\u30bf[\u30b5\u30a4\u30cb\u30a3] \u65e5\u672c\u306e\u8ad6\u6587\u3092\u3055\u304c\u3059 \u5927\u5b66\u56f3\u66f8\u9928\u306e\u672c\u3092\u3055\u304c\u3059 \u65e5\u672c\u306e\u535a\u58eb\u8ad6\u6587\u3092\u3055\u304c\u3059 \u65b0\u898f\n\u767b\u9332 \u30ed\u30b0\u30a4\u30f3 English \u691c\u7d22 \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u3059\u3079\u3066 \u672c\u6587\u3042\u308a \u9589\u3058\u308b \u30bf\u30a4\u30c8\u30eb \u8457\u8005\u540d \u8457\u8005ID \u8457\u8005\n\u6240\u5c5e \u520a\u884c\u7269\u540d ISSN \u5dfb\u53f7\u30da\u30fc\u30b8 \u51fa\u7248\u8005 \u53c2\u8003\u6587\u732e \u51fa\u7248\u5e74 \u5e74\u304b\u3089 \u5e74\u307e\u3067 \u691c\u7d22 \u691c\u7d22 \u691c\u7d22 VISA : The \nVoice Integration/Segregation Algorithm KARYDIS I. \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6 \u8457\u8005 KARYDIS I. \u53ce\u9332\n\u520a\u884c\u7269 Proceedings of the International Conference on Music Information Retrieval (ISMIR07), \nVienna Proceedings of the International Conference on Music Information Retrieval (ISMIR07), \nVienna, 2007 \u88ab\u5f15\u7528\u6587\u732e: 1\u4ef6\u4e2d 1-1\u4ef6\u3092 \u8868\u793a 1 \u30b3\u30f3\u30c6\u30a3\u30b0\u30de\u30c3\u30d4\u30f3\u30b0\u624b\u6cd5\u306b\u57fa\u3065\u304f\u30dd\u30ea\u30d5\u30a9\u30cb\u30fc\n\u97f3\u697d\u306e\u58f0\u90e8\u5206\u96e2\u3068\u8272\u4ed8\u3051\u697d\u8b5c\u306e\u751f\u6210 \u77f3\u57a3 \u9ebb\u5b50 , \u677e\u539f \u6b63\u6a39 , \u658e\u85e4 \u535a\u662d \u60c5\u5831\u51e6\u7406\u5b66\u4f1a\u7814\u7a76\u5831\u544a. \n[\u97f3\u697d\u60c5\u5831\u79d1\u5b66] 86, X1-X8, 2010-07-28 \u53c2\u8003\u6587\u732e17\u4ef6 Tweet \u5404\u7a2e\u30b3\u30fc\u30c9 NII\u8ad6\u6587ID(NAID) \u8cc7\u6599//\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Concept invention and music: Creating novel harmonies via conceptual blending",
+            "Publication year": 2014,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.724.8614&rep=rep1&type=pdf",
+            "Abstract": "Conceptual blending is a cognitive theory whereby elements from diverse, but structurally-related, mental spaces are \u201cblended\u201d giving rise to new conceptual spaces that often possess new powerful interpretative properties, allowing better understanding of known concepts or the emergence of novel concepts altogether. This paper provides an overview of the wide computational methodological spectrum that is being developed towards building an automatic melodic harmonization system that employs conceptual blending, yielding harmonizations that inherit characteristics from multiple idioms. Examples of conceptual blending in harmony are presented that exhibit the effectiveness of the developed model in inventing novel harmonic concepts. These examples discuss the invention of well-known jazz cadences through blending the underlying concepts of classical music cadences, as well as the construction of larger chord sequences. Furthermore, examples of a conceptual blending interpretation in human compositions that motivated the goals of the system\u2019s design are given. Finally, conceptual blending between harmonic and non-harmonic domains is discussed, offering tools that allow for intuitive human intervention in the harmonization process.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Effect of Context on Cross-Cultural Music Memory Performance",
+            "Publication year": 2012,
+            "Publication url": "https://www.scholars.northwestern.edu/en/publications/the-effect-of-context-on-cross-cultural-music-memory-performance",
+            "Abstract": "Previous research has shown that both expert and novice listeners demonstrate an \u201cenculturation effect\u201d where they have more difficulty processing and remembering music that is culturally unfamiliar (Demorest, et al., 2008; Morrison et al., 2008; Wong, et al., 2009). What is less clear is the influence of contextual variables like timbre and tuning systems on memory responses. Another competing hypothesis is that affective response (eg preference) rather than cultural familiarity per se influences memory performance of culturally unfamiliar music",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:eflP2zaiRacC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The harmonic musical surface and two novel chord representation schemes",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-25931-4_2",
+            "Abstract": "Selecting an appropriate representation for chords is important for encoding pertinent harmonic aspects of the musical surface, and, at the same time, is crucial for building effective computational models for music analysis. This chapter, initially, addresses musicological, perceptual and computational aspects of the harmonic musical surface. Then, two novel general chord representations are presented: the first, the General Chord Type (GCT) representation, is inspired by the standard Roman numeral chord type labelling, but is more general and flexible so as to be applicable to any idiom; the second, the Directed Interval Class (DIC) vector, captures the intervallic content of a transition between two chords in a transposition-invariant idiom-independent manner. Musical examples and preliminary evaluations of both encoding schemes are given, illustrating their potential to form a basis for harmonic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Algorithms for computing approximate repetitions in musical sequences",
+            "Publication year": 2002,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00207160213939",
+            "Abstract": "Here we introduce two new notions of approximate matching with application in computer assisted music analysis. We present algorithms for each notion of approximation: for approximate string matching and for computing approximate squares.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Melodic cue abstraction, similarity, and category formation: A formal model",
+            "Publication year": 2001,
+            "Publication url": "https://online.ucpress.edu/mp/article-abstract/18/3/347/61887",
+            "Abstract": "In the first part of this article, the notions of identity, similarity, categorization, and feature salience are explored; musical examples are provided at various stages of the discussion. Then, formal working definitions are proposed that inextricably bind these concepts together. These definitions readily lend themselves to the development of a formal model for clustering - the Unscramble algorithm - which, given a set of objects and an initial set of properties, generates a range of plausible categorizations for a given context. Finally, as a test case, the clustering algorithm is used to organize a number of melodic segments, taken from a monophonic piece by J. S. Bach, into motivic categories; the algorithm also determines a prototype for each cluster and uses these prototypical descriptions for membership prediction tasks. The results of the computational system are compared with the empirical results obtained for the same \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "Pitch spelling: A computational model",
+            "Publication year": 2003,
+            "Publication url": "https://online.ucpress.edu/mp/article-abstract/20/4/411/62153",
+            "Abstract": "In this article, cognitive and musicological aspects of pitch and pitch interval representations are explored via computational modeling. The specific task under investigation is pitch spelling, that is, how traditional score notation can be derived from a simple unstructured 12-tone representation (e.g., pitch-class set or MIDI pitch representation). This study provides useful insights both into the domain of pitch perception and into musicological aspects of score notation strategies. A computational model is described that transcribes polyphonic MIDI pitch files into the Western traditional music notation. Input to the proposed algorithm is merely a sequence of MIDI pitch numbers in the order they appear in a MIDI file. No a priori knowledge such as key signature, tonal centers, time signature, chords, or voice separation is required. Output of the algorithm is a sequence of \"correctly\" spelled pitches. The algorithm is based on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "Musical blending and creativity: An empirical evaluation of the CHAMELEON melodic harmonisation assistant",
+            "Publication year": 2018,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/1029864917712580",
+            "Abstract": "This article presents the CHAMELEON melodic harmonisation assistant that utilises the principles of conceptual blending theory as a means for the invention of hybrid or novel harmonic idioms and an empirical evaluation of a number of computer-generated melodic harmonisation blends. Melodies originating from various idioms were harmonised either according to the harmonic rules of the original idiom, according to the rules of a different idiom (melody\u2013harmony blends), or by blending idioms, modes and transported versions of the same idiom (harmony\u2013harmony blends). In two similar experimental set ups, the task of the listeners was to i) perform idiom, mode or type of chromaticism classification, ii) report their preference, and iii) rate the degree of expectancy characterising each harmonisation. The results show that harmonic blending (either melody\u2013harmony or harmony\u2013harmony) influences the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:WbkHhVStYXYC",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "The role of pitch and timbre in the synaesthetic experience",
+            "Publication year": 2012,
+            "Publication url": "http://icmpc-escom2012.web.auth.gr/files/papers/751_Proc.pdf",
+            "Abstract": "Synaesthesia is a condition, an involuntary process which occurs, when a stimulus not only stimulates the appropriate sense, but also stimulates another modality at the same time. In order to examine if pitch and timbre influence the synaesthetic visual experience, induced by sound, an experiment with sound-colour synaesthetes (N= 22) was conducted. It was found that a) high pitched sounds conclude to a presence of hue, b) low pitched sounds to an absence of hue, c) single frequencies cause a uni-colour sensation and d) multiple high pitched frequencies induce a multi-colour sensation. Variation of chromatic colour, which is present in the sensation, depends on the timbre of the sound. These findings suggest that the synaesthetic mechanism (in case of sound-colour synaesthesia) maps sound to visual sensations depending on the mechanisms underlying temporal and spectral auditory processing.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Probabilistic Modular Bass Voice Leading in Melodic Harmonisation.",
+            "Publication year": 2015,
+            "Publication url": "https://www.academia.edu/download/39352263/voiceLayout.pdf",
+            "Abstract": "Probabilistic methodologies provide successful tools for automated music composition, such as melodic harmonisation, since they capture statistical rules of the music idioms they are trained with. Proposed methodologies focus either on specific aspects of harmony (eg, generating abstract chord symbols) or incorporate the determination of many harmonic characteristics in a single probabilistic generative scheme. This paper addresses the problem of assigning voice leading focussing on the bass voice, ie, the realisation of the actual bass pitches of an abstract chord sequence, under the scope of a modular melodic harmonisation system where different aspects of the generative process are arranged by different modules. The proposed technique defines the motion of the bass voice according to several statistical aspects: melody voice contour, previous bass line motion, bass-to-melody distances and statistics regarding inversions and note doublings in chords. The aforementioned aspects of voicing are modular, ie, each criterion is defined by independent statistical learning tools. Experimental results on diverse music idioms indicate that the proposed methodology captures efficiently the voice layout characteristics of each idiom, whilst additional analyses on separate statistically trained modules reveal distinctive aspects of each idiom. The proposed system is designed to be flexible and adaptable (for instance, for the generation of novel blended melodic harmonisations).",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "How similar is similar?",
+            "Publication year": 2009,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/102986490901300102",
+            "Abstract": "In the first part of the paper a theoretical discussion is presented regarding the fundamental concept of similarity and its relation to cue abstraction and categorisation. It is maintained that similarity is by definition context-dependent and strongly Interrelated to cue abstraction and categorisation. Emphasis is given to determining the \u201cmusical surface\u201d that can act as a musically pertinent lowest level of abstraction on which similarity between musical entities can be measured. Then, each of these concepts is examined in more detail with respect to a number of research studies presented in the recent special issue of Music\u00e6 Scienti\u00e6 on musical similarity (Discussion Forum 4A, 2007). Views claiming that a geometric piano-roll-like representation is the most appropriate choice for polyphonic pattern matching, or that musical repetition is structurally significant if at least fifty percent of a pattern is equivalent (i.e. if it is more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:roLk4NBRz8UC",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Coinvent: Towards a computational concept invention theory",
+            "Publication year": 2014,
+            "Publication url": "https://digital.csic.es/handle/10261/131372",
+            "Abstract": "We aim to develop a computationally feasible, cognitively-inspired, formal model of concept invention, drawing on Fauconnier and Turner\u2019s theory of conceptual blending, and grounding it on a sound mathematical theory of concepts. Conceptual blending, although successfully applied to describing combinational creativity in a varied number of fields, has barely been used at all for implementing creative computational systems, mainly due to the lack of sufficiently precise mathematical characterisations thereof. The model we will define will be based on Goguen\u2019s proposal of a Unified Concept Theory, and will draw from interdisciplinary research results from cognitive science, artificial intelligence, formal methods and computational creativity. To validate our model, we will implement a proof of concept of an autonomous computational creative system that will be evaluated in two testbed scenarios: mathematical reasoning and melodic harmonisation. We envisage that the results of this project will be significant for gaining a deeper scientific understanding of creativity, for fostering the synergy between understanding and enhancing human creativity, and for developing new technologies for autonomous creative systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Creative conceptual blending in music",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17781364576668505689&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "SAGE PUBLICATIONS LTD"
+        },
+        {
+            "Title": "Modelling Cadence Perception Via Musical Parameter Tuning to Perceptual Data",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-44944-9_49",
+            "Abstract": "Conceptual blending when used as a creative tool combines the features of two input spaces, generating new blended spaces that share the common structure of the inputs, as well as different combinations of their non-common parts. In the case of music, conceptual blending has been employed creatively, among others, in generating new cadences (pairs of chords that conclude musical phrases). Given a specific set of input cadences together with their blends, this paper addresses the following question: are some musical features of cadences more salient than others in defining perceived relations between input and blended cadences? To this end, behavioural data from a pairwise dissimilarity listening test using input and blended cadences as stimuli were collected, thus allowing the construction of a \u2018ground-truth\u2019 human-based perceptual space of cadences. Afterwards, the salience of each cadence \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Beat extraction from expressive musical performances",
+            "Publication year": 2001,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.2666&rep=rep1&type=pdf",
+            "Abstract": "In order to analyse timing in musical performance, it is necessary to develop reliable and efficient methods of deriving musical timing information (eg tempo, beat and rhythm) from the physical timing of audio signals or MIDI data. We report the results of an experiment in which subjects were asked to mark the positions of beats in musical excerpts, using a multimedia interface which provides various forms of audio and visual feedback. Six experimental conditions were tested, which involved disabling various parts of the system\u2019s feedback to the user. Even in extreme cases such as no audio feedback or no visual feedback, subjects were often able to find the regularities corresponding to the musical beat. In many cases, the subjects\u2019 placement of markers corresponded closely to the onsets of on-beat notes (according to the score), but the beat sequences were much more regular than the corresponding note onset times. The form of feedback provided by the system had a significant effect on the chosen beat times: visual feedback encouraged a closer alignment of beats with notes, whereas audio feedback led to a smoother beat sequence.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fragmentations with pitch, rhythm and parallelism constraints for variation matching",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-12976-1_19",
+            "Abstract": "Composers commonly employ ornamentation and elaboration techniques to generate varied versions of an initial core melodic idea. Dynamic programming techniques, based on edit operations, are used to find similarities between melodic strings. However, replacements, insertions and deletions may give non-musically pertinent similarities, especially if rhythmic or metrical structure is not considered. We propose, herein, to compute the similarity between a reduced query and a melody employing only fragmentation operations. Such fragmentations transform one note from the reduced query into a possible large set of notes, taking into account pitch and rhythm constraints, as well as elementary parallelism information. We test the proposed algorithm on four \u201ctheme and variations\u201d piano pieces by W. A. Mozart and L. van Beethoven and show that the proposed constrained fragmentation operations are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A Probabilistic Approach to Determining Bass Voice Leading in Melodic Harmonisation",
+            "Publication year": 2015,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=8MDpCQAAQBAJ&oi=fnd&pg=PA128&dq=info:3FQBeTnq5zcJ:scholar.google.com&ots=Ii-z5Sd2V3&sig=CrzvXyXmV9D23CKVUUrkueb3ko0",
+            "Abstract": "Melodic harmonisation deals with the assignment of harmony (chords) over a given melody. Probabilistic approaches to melodic harmonisation utilise statistical information derived from a training dataset to harmonise a melody. This paper proposes a probabilistic approach for the automatic generation of voice leading for the bass note on a set of given chords from different musical idioms; the chord sequences are assumed to be generated by another system. The proposed bass voice leading (BVL) probabilistic model is part of ongoing work, it is based on the hidden Markov model (HMM) and it determines the bass voice contour by observing the contour of the melodic line. The experimental results demonstrate that the proposed BVL method indeed efficiently captures (in a statistical sense) the characteristic BVL features of the examined musical idioms.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Voice separation: theoretical, perceptual and computational perspectives",
+            "Publication year": 2006,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.608.9256&rep=rep1&type=pdf",
+            "Abstract": "The notions of \u2018voice\u2019, as well as, homophony and polyphony, are thought to be well understood by musicians. Listeners are thought to be capable of perceiving multiple \u2018voices\u2019 in music. However, there exists no systematic theory that describes how \u2018voices\u2019 can be identified, especially, when polyphonic and homophonic elements are mixed together. The paper presents different views of what \u2018voice\u2019means and how the problem of voice separation can be described systematically, with a view to understanding the problem better and developing a systematic perceptually-based description of the cognitive task of segregating \u2018voices\u2019 in music. Vague (or even contradicting) treatments of this issue will be presented. Elements of a systematic theory that can be implemented as a computer program are also proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Conceptual Blending in Music Cadences: A Formal Model and Subjective Evaluation.",
+            "Publication year": 2015,
+            "Publication url": "https://www.coinvent.uni-osnabrueck.de/fileadmin/publications/Zacharakis_et_al_ISMIR15.pdf",
+            "Abstract": "Conceptual blending is a cognitive theory whereby elements from diverse, but structurally-related, mental spaces are \u2018blended\u2019giving rise to new conceptual spaces. This study focuses on structural blending utilising an algorithmic formalisation for conceptual blending applied to harmonic concepts. More specifically, it investigates the ability of the system to produce meaningful blends between harmonic cadences, which arguably constitute the most fundamental harmonic concept. The system creates a variety of blends combining elements of the penultimate chords of two input cadences and it further estimates the expected relationships between the produced blends. Then, a preliminary subjective evaluation of the proposed blending system is presented. A pairwise dissimilarity listening test was conducted using original and blended cadences as stimuli. Subsequent multidimensional scaling analysis produced spatial configurations for both behavioural data and dissimilarity estimations by the algorithm. Comparison of the two configurations showed that the system is capable of making fair predictions of the perceived dissimilarities between the blended cadences. This implies that this conceptual blending approach is able to create perceptually meaningful blends based on self-evaluation of its outcome.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Extracting\u2019Significant\u2019Patterns from Musical Strings: Some Interesting Problems",
+            "Publication year": 2000,
+            "Publication url": "http://users.auth.gr/~emilios/papers/lsd2000.pdf",
+            "Abstract": "In this paper a number of issues relating to the application of string processing techniques on musical sequences are discussed. Special attention is given to musical pattern extraction. Firstly, a number of general problems are presented in terms of musical representation and pattern processing methodologies. Then a number of interesting melodic pattern matching problems are presented. Finally, issues relating to pattern extraction are discussed, with special attention being drawn to defining musical pattern \u2018significance\u2019. This paper is not intended towards providing solutions to string processing problems but rather towards raising awareness of primarily musicrelated particularities that can cause problems in matching applications and also suggesting some interesting string processing problems that require efficient computational solutions.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An argument-based creative assistant for harmonic blending",
+            "Publication year": 2016,
+            "Publication url": "https://arxiv.org/abs/1603.01770",
+            "Abstract": "Conceptual blending is a powerful tool for computational creativity where, for example, the properties of two harmonic spaces may be combined in a consistent manner to produce a novel harmonic space. However, deciding about the importance of property features in the input spaces and evaluating the results of conceptual blending is a nontrivial task. In the specific case of musical harmony, defining the salient features of chord transitions and evaluating invented harmonic spaces requires deep musicological background knowledge. In this paper, we propose a creative tool that helps musicologists to evaluate and to enhance harmonic innovation. This tool allows a music expert to specify arguments over given transition properties. These arguments are then considered by the system when defining combinations of features in an idiom-blending process. A music expert can assess whether the new harmonic idiom makes musicological sense and re-adjust the arguments (selection of features) to explore alternative blends that can potentially produce better harmonic spaces. We conclude with a discussion of future work that would further automate the harmonisation process.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Creating musical cadences via conceptual blending: Empirical evaluation and enhancement of a formal model",
+            "Publication year": 2017,
+            "Publication url": "https://online.ucpress.edu/mp/article-abstract/35/2/211/92034",
+            "Abstract": "The cognitive theory of conceptual blending may be employed to understand the way music becomes meaningful and, at the same time, it may form a basis for musical creativity per se. This work constitutes a case study whereby conceptual blending is used as a creative tool for inventing musical cadences. Specifically, the perfect and the renaissance Phrygian cadential sequences are used as input spaces to a cadence blending system that produces various cadential blends based on musicological and blending optimality criteria. A selection of \u201cnovel\u201d cadences is subject to empirical evaluation in order to gain a better understanding of perceptual relationships between cadences. Pairwise dissimilarity ratings between cadences are transformed into a perceptual space and a verbal attribute magnitude estimation method on six descriptive axes (preference, originality, tension, closure, expectancy, and fit) is used to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:p2g8aNsByqUC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "All maximal-pairs in step\u2013leap representation of melodic sequence",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020025506003525",
+            "Abstract": "This paper proposes an efficient pattern extraction algorithm that can be applied on melodic sequences that are represented as strings of abstract intervallic symbols; the melodic representation introduces special \u201cbinary don\u2019t care\u201d symbols for intervals that may belong to two partially overlapping intervallic categories. As a special case the well established \u201cstep\u2013leap\u201d representation is examined. In the step\u2013leap representation, each melodic diatonic interval is classified as a step (\u00b1s), a leap (\u00b1l) or a unison (u). Binary don\u2019t care symbols are used to represent the possible overlapping between the various abstract categories eg\u2217= s,\u2217= l and#=-s,#=-l. We propose an O (n+ d (n-d)+ z)-time algorithm for computing all maximal-pairs in a given sequence x= x [1.. n], where x contains d occurrences of binary don\u2019t cares and z is the number of reported maximal-pairs.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The local boundary detection model (LBDM) and its application in the study of expressive timing",
+            "Publication year": 2001,
+            "Publication url": "https://www.researchgate.net/profile/Emilios-Cambouropoulos/publication/228580163_The_Local_Boundary_Detection_Model_LBDM_and_its_Application_in_the_Study_of_Expressive_Timing/links/004635194957ea6022000000/The-Local-Boundary-Detection-Model-LBDM-and-its-Application-in-the-Study-of-Expressive-Timing.pdf",
+            "Abstract": "In this paper two main topics are addressed. Firstly, the Local Boundary Detection Model (LBDM) is described; this computational model enables the detection of local boundaries in a melodic surface and can be used for musical segmentation. The proposed model is tested against the punctuation rule system developed by Friberg et al.(1998) at KTH, Stockholm. Secondly, the expressive timing deviations found in a number of expert piano performances are examineded in relation to the local boundaries discovered by LBDM. As a result of a set of preliminary experiments, it is suggested that the assumption of final-note lengthening of a melodic gesture is not always valid and that, in some cases, the end of a melodic group is marked by lengthening the second-to-last note (or, seeing it from a different viewpoint, by delaying the last note).",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "of book/volume",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10993004271776053213&hl=en&oi=scholarr",
+            "Abstract": "This paper investigates the concept of variation in music from the perspective of music similarity. Music similarity is a central concept in Music Information Retrieval (MIR), however there exists no comprehensive approach to music similarity yet. As a consequence, MIR faces the challenge on how to relate musical features to the experience of similarity by listeners. Musicologists and studies in music cognition have argued that variation in music leads to the experience of similarity. In this paper we review the concept of variation from three different research strands: MIR, Musicology, and cognitive Science. We show that all of these disciplines have contributed insights to the study of variation that are important for modelling variation as a foundation for similarity. We introduce research steps that need to be taken to model variation as a base for music similarity estimation within a computational approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:u_35RYKgDlwC",
+            "Publisher": "School of Music Studies, Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Harmony in the polyphonic songs of epirus: Representation, statistical analysis and generation",
+            "Publication year": 2014,
+            "Publication url": "https://www.academia.edu/download/51550845/Turkish_Folk_Music_Phonetic_Notation_System_CantOvation_Sing___See.pdf#page=28",
+            "Abstract": "This paper examines a previously unstudied musical corpus derived from the polyphonic singing tradition of Epirus employing statistical methods. This analysis will mainly focus on unique harmonic aspects of these songs, which feature, for instance, unresolved dissonances (major second and minor seventh intervals) at structurally stable positions of the pieces (eg cadences). Traditional triadic tonal chord types are inadequate for this corpus\u2019 unconventional harmonic language; pc-set theoretic tools are too general/abstract. A novel chord representation has been devised that adapts to different non-standard tonal harmonic spaces. In the General Chord Type (GCT) representation, the notes of a harmonic simultaneity are re-arranged, depending on a given classification of intervals (that reflects culturallydependent notions of consonance/dissonance), such that abstract idiom-specific types of chords may be derived. Based on these harmonic representations, statistical analyses are performed that provide insights regarding underlying harmony and, especially, on the idiosyncratic use of consonance/dissonance within this idiom. Then, characteristics of harmonic successions are examined via statistical analysis of the common chord transitions in the idiom. Finally, the learned statistical features are used to generate new harmonisations in the Epirus-song style for unseen Epirus-song melodies or for melodies from other distant idioms.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:k_IJM867U9cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Development and Empirical Evaluation in the Case of the CHAMELEON System",
+            "Publication year": 2018,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=MXxxDwAAQBAJ&oi=fnd&pg=PA241&dq=info:xXhAniGV2d0J:scholar.google.com&ots=6eEkZ84llY&sig=BkW58NO0DqMLKSJCdPTsP4fnTVY",
+            "Abstract": "This chapter presents the CHAMELEON melodic harmonisation assistant that learns different aspects of harmony from expert-annotated data, blends learnt harmonies from different idioms using the COINVENT framework and harmonises user-given melodies. The learnt harmonic elements include chord types, chord transitions, cadences and bass voice leading, while blending is employed on the level of chord transitions. A methodology that integrates chord transition blending is utilised for constructing a compound chord transition probability matrix that combines information of two initial learnt harmonic idioms. This chapter also presents the key-findings of empirical studies on the perception of blends, focusing initially on results obtained from cadence blending and afterwards on the output of the CHAMELEON system. The empirical evaluation of the CHAMELEON system was performed through tests that were specifically designed for evaluating blending; results indicate that the COINVENT framework for conceptual blending is a promising tool for computational creativity in music.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "An idiom-independent representation of chords for computational music analysis and generation",
+            "Publication year": 2014,
+            "Publication url": "http://users.auth.gr/tsougras/resources/pdf/2014-Cambouropoulos,-Kaliakatsos,-Tsougras-ICMC40-SMC11-proceedings-Athens.pdf",
+            "Abstract": "In this paper we focus on issues of harmonic representation and computational analysis. A new idiomindependent representation is proposed of chord types that is appropriate for encoding tone simultaneities in any harmonic context (such as tonal, modal, jazz, octatonic, atonal). The General Chord Type (GCT) representation, allows the re-arrangement of the notes of a harmonic simultaneity such that abstract idiom-specific types of chords may be derived; this encoding is inspired by the standard roman numeral chord type labeling, but is more general and flexible. Given a consonance-dissonance classification of intervals (that reflects culturallydependent notions of consonance/dissonance), and a scale, the GCT algorithm finds the maximal subset of notes of a given note simultaneity that contains only consonant intervals; this maximal subset forms the base upon which the chord type is built. The proposed representation is ideal for hierarchic harmonic systems such as the tonal system and its many variations, but adjusts to any other harmonic system such as post-tonal, atonal music, or traditional polyphonic systems. The GCT representation is applied to a small set of examples from diverse musical idioms, and its output is illustrated and analysed showing its potential, especially, for computational music analysis & music information retrieval.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Melodic string matching via interval consolidation and fragmentation",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33412-2_47",
+            "Abstract": "In this paper, we address the problem of melodic string matching that enables identification of varied (ornamented) instances of a given melodic pattern. To this aim, a new set of edit distance operations adequate for pitch interval strings is introduced. Insertion, deletion and replacement operations are abolished as irrelevant. Consolidation and fragmentation are retained, but adapted to the pitch interval domain, i.e., two or more intervals of one string may be matched to an interval from a second string through consolidation or fragmentation. The melodic interval string matching problem consists of finding all occurrences of a given pattern in a melodic sequence that takes into account exact matches, consolidations and fragmentations of intervals in both the sequence and the pattern. We show some properties of the problem and an algorithm that solves this problem is proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Automatic pitch spelling: From numbers to sharps and flats",
+            "Publication year": 2001,
+            "Publication url": "http://users.auth.gr/emilios/papers/fortaleza2001.pdf",
+            "Abstract": "In this paper a computational model is described that transcribes polyphonic MIDI pitch files into the Western traditional music notation. Input to the proposed algorithm input is merely a sequence of MIDI pitch numbers in the order they appear in a MIDI file. No a priori knowledge is required such as key signature, tonal centers, time signature, voice separation and so on. Output of the algorithm is a sequence of \u2018correctly\u2019spelled pitches. The algorithm was evaluated on 8 complete piano sonatas by Mozart and had a success rate that is greater than 96%(10476 pitches were spelled correctly out of 10900 notes that required accidentals\u2013overall number of pitches in 8 sonatas is 40058). The proposed algorithm was also compared to and tested against other pitch spelling algorithms. Pitch spelling algorithms are important not only for applications such as musical notation software packages but also for a multitude of tonal analytical tasks such as key-finding and harmonic analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Musical pattern extraction for melodic segmentation",
+            "Publication year": 2003,
+            "Publication url": "http://users.auth.gr/emilios/papers/escom2003.pdf",
+            "Abstract": "Despite the fact that musical parallelism is considered as an important factor for musical segmentation, there have been very few attempts to describe systematically how exactly it affects grouping processes. The main problem is that musical parallelism itself is very difficult to formalise. In this paper a computational model will be presented that extracts melodic patterns from a given melodic surface. Following the assumption that the beginning and ending points of'significant'repeating musical patterns influence the segmentation of a musical surface, the discovered patterns are used as a means to determine probable segmentation points of the melody.\u2018Significant\u2019patterns are defined primarily in terms of frequency of occurrence and length of pattern. The special status of non-overlapping immediately-repeating patterns is examined. All the discovered patterns merge into a single \u2018pattern\u2019segmentation profile that signifies points in the surface that are most likely to be perceived as points of segmentation. The effectiveness of the algorithm is tested against a series of musical surfaces illustrating both strengths and weaknesses of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Conceptual Blending in Melodic Harmonisation: Development and Empirical Evaluation in the Case of the CHAMELEON System",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-65602-1_9",
+            "Abstract": "This chapter presents the CHAMELEON melodic harmonisation assistant that learns different aspects of harmony from expert-annotated data, blends learnt harmonies from different idioms using the COINVENT framework and harmonises user-given melodies. The learnt harmonic elements include chord types, chord transitions, cadences and bass voice leading, while blending is employed on the level of chord transitions. A methodology that integrates chord transition blending is utilised for constructing a compound chord transition probability matrix that combines information of two initial learnt harmonic idioms. This chapter also presents the key-findings of empirical studies on the perception of blends, focusing initially on results obtained from cadence blending and afterwards on the output of the CHAMELEON system. The empirical evaluation of the CHAMELEON system was performed through tests that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Auditory streams in Ligeti\u2019s Continuum: A theoretical and perceptual approach",
+            "Publication year": 2009,
+            "Publication url": "http://users.auth.gr/~emilios/papers/jims2009.pdf",
+            "Abstract": "Background in music theory/analysis. Musical analysis focuses primarily on aspects of compositional design, mathematical/formal relations between musical materials or on musical theoretic forms and functions that have been established as musicologically pertinent through the centuries (eg, traditional harmonic analysis, Schenkerian analysis). Listeners\u2019 perception is not usually the explicit goal of analytical methodologies. Background in music psychology. The coherence of a progression of tones or sonorities depends on a number of perceptual factors that have been described in the domain of auditory scene analysis. Principles of musical stream perception may be used to understand of the way a listener \u2018makes sense\u2019of a musical work. The way a musical work is perceived by a listener may be significantly different from the organization of notes suggested by a score, or even from analytic results given by different musical analytic methodologies. Aims. The aim of this paper is to show how a number of auditory streaming principles may be used to obtain a better understanding of a specific musical work, namely Ligeti\u2019s Continuum for harpsichord. We show that \u2018traditional\u2019music analytic methodologies are insufficient to account for the listening challenges posed by the specific work, and that music perception can shed new light in our understanding of the musical structure of this piece. Main contribution. Ligeti\u2019s Continuum is a representative example of his meccanico style, in which extremely fast isochronous pitch successions unfold gradually creating a smoothly evolving musical continuum. In the current study, auditory streaming processes \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Beat tracking with musical knowledge",
+            "Publication year": 2000,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.8439&rep=rep1&type=pdf",
+            "Abstract": "When a person taps a foot in time with a piece of music, they are performing beat tracking. Beat tracking is fundamental to the understanding of musical structure, and therefore an essential ability for any system which purports to exhibit musical intelligence or understanding. We present an off-line multiple agent beat tracking system which estimates the locations of musical beats in MIDI performance data. This approach to beat tracking requires no prior information about the input data, such as the tempo or time signature; all required information is derived from the performance data. For constant tempo performances, previous beat tracking systems have proved successful; however, these systems fail when there are large variations in tempo. We examine the role of musical knowledge in guiding the beat tracking process, and show that a system equipped with knowledge of musical salience is able to track the beat of music even in the presence of large tempo variations. Results are presented for a large corpus of expressively performed classical piano music (13 complete sonatas), containing a full range of tempos and much variability in tempo within sections. With the musical knowledge disabled, the beats are tracked about 75% correctly; the inclusion of musical knowledge raises this figure to over 90%.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Enriching the blend: Creative extensions to conceptual blending in music",
+            "Publication year": 2015,
+            "Publication url": "http://users.auth.gr/~emilios/papers/2015-Stefanou-EnrichingTheBlend-ESCOM.pdf",
+            "Abstract": "In this paper we critically investigate the application of Fauconnier & Turner\u2019s Conceptual Blending Theory (CBT) in music, to expose a series of questions and aporias highlighted by current and recent theoretical work in the field. Investigating divisions between different levels of musical conceptualization and blending, we question the common distinction between intra-and extra-musical blending as well as the usually retrospective and explicative application of CBT. In response to these limitations, we argue that more emphasis could be given to bottom-up, contextual, creative and collaborative perspectives of conceptual blending in music. This discussion is illustrated by recent and in-progress practical research developed as part of the COINVENT project, and investigating structural and cross-domain blending in computational and social creativity contexts.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:ldfaerwXgEUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Obtaining General Chord Types from Chroma Vectors",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2814895.2814932",
+            "Abstract": "This paper presents two novel strategies for processing chroma vectors corresponding to polyphonic audio, and producing a symbolic representation known as GCT (General Chord Type). This corresponds to a fundamental step in the conversion of general polyphonic audio files to this symbolic representation, which is required for enlarging the current corpus of harmonic idioms used for conceptual blending in the context of the COINVENT project. Preliminary results show that the strategies proposed produce correct results, even though harmonic ambiguities (eg between a major chord with added major 6th and a minor chord with minor 7th) might be resolved differently according to each strategy.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A pattern extraction algorithm for abstract melodic representations that allow partial overlapping of intervallic categories",
+            "Publication year": 2005,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.396.1713&rep=rep1&type=pdf",
+            "Abstract": "This paper proposes an efficient pattern extraction algorithm that can be applied on melodic sequences that are represented as strings of abstract intervallic symbols; the melodic representation introduces special \u201cdon\u2019t care\u201d symbols for intervals that may belong to two partially overlapping intervallic categories. As a special case the well established \u201cstep-leap\u201d representation is examined. In the step-leap representation, each melodic diatonic interval is classified as a step (\u00b1s), a leap (\u00b1l) or a unison (u). Binary don\u2019t care symbols are introduced to represent the possible overlapping between the various abstract categories eg\u2217= s,\u2217= l and#=\u2212 s,#=\u2212 l. For such a sequence, we are interested in finding maximal repeating pairs and repetitions with a hole (two matching subsequences separated with an intervening non-matching symbol). We propose an O (n+ d (n\u2212 d)+ z)-time algorithm for computing all such repetitions in a given sequence x= x [1.. n] with d binary don\u2019t care symbols, where z is the output size.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "VISA3",
+            "Publication year": 2016,
+            "Publication url": "http://ikee.lib.auth.gr/record/292539/?ln=en",
+            "Abstract": "Human music listeners are capable of identifying multiple \u2018voices\u2019 in musical content. This capability of grouping notes of polyphonic musical content into entities is of great importance for numerous processes of the Music Information Research domain, most notably for the better understanding of the underlying musical content\u2019s score. Accordingly, we present the V ISA3 algorithm, a refinement of the family of VISA algorithms for integration/segregation of voice/streams focusing on musical streams. V ISA3 builds upon its previous editions by introduction of new characteristics that adhere to previously unused general perceptual principles, address assignment errors that accumulate affecting the precision and tackle more generic musical content. Moreover, a new small dataset with humanexpert ground-truth quantised symbolic data annotation is utilised. Experimental results indicate the significant performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:D_sINldO8mEC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "MUSICAL STRUCTURE",
+            "Publication year": 2008,
+            "Publication url": "https://www.academia.edu/download/5546859/cim08_abstracts_proceedings.pdf",
+            "Abstract": "The Conference on Interdisciplinary Musicology (CIM) is a forum for constructive interaction among all musically and musicologically relevant disciplines, including acoustics, anthropology, theory/analysis, composition, computing, cultural studies, education, ethnology, history, linguistics, performance, physiology, medicine, psychology, therapy, philosophy, aesthetics and sociology. CIM especially promotes collaborations between sciences and humanities, between theory and practice, as well as interdisciplinary combinations that are new, unusual, creative, or otherwise especially promising.The fourth Conference on Interdisciplinary Musicology (CIM08) is taking place in Thessaloniki, Greece from 3\u20106 July 2008. The theme of CIM08 is musical structure from the viewpoint of all musically and musicologically relevant disciplines. The conference aims to bring together representatives of the humanities, the sciences and musical practice who are involved in research on musical structure. Researchers from all relevant disciplines have been invited to contribute theoretical, empirical and computational studies. CIM08 is hosted by the Department of Music Studies, Aristotle University of Thessaloniki, and presented in collaboration with the European Society for Cognitive Sciences of Music (ESCOM), the International Musicological Society (IMS), and the European Seminar in Ethnomusicology (ESEM).",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Traditional asymmetric rhythms: A refined model of meter induction based on asymmetric meter templates",
+            "Publication year": 2013,
+            "Publication url": "https://dspace.library.uu.nl/bitstream/handle/1874/276246/fma2013_proceedings.pdf#page=35",
+            "Abstract": "The aim of this study is to examine the performance of an existing meter and tempo induction model (Pikrakis et al, 2004) on music that features asymmetric rhythms (eg 5/8, 7/8) and to propose potential improvement by incorporating knowledge about asymmetric rhythm patterns. We assume knowledge of asymmetric rhythms in the form of metric templates (consisting of both isochronous and asymmetric pulse levels). Such knowledge seems to aid the induction process for symmetric/asymmetric rhythms and thus improve the performance of the aforementioned model.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluating the General Chord Type Representation in Tonal Music and Organising GCT Chord Labels in Functional Chord Categories.",
+            "Publication year": 2015,
+            "Publication url": "https://www.academia.edu/download/39352241/gct_KP_grouping1.pdf",
+            "Abstract": "The General Chord Type (GCT) representation is appropriate for encoding tone simultaneities in any harmonic context (such as tonal, modal, jazz, octatonic, atonal). The GCT allows the re-arrangement of the notes of a harmonic sonority such that abstract idiom-specific types of chords may be derived. This encoding is inspired by the standard roman numeral chord type labelling and is, therefore, ideal for hierarchic harmonic systems such as the tonal system and its many variations; at the same time, it adjusts to any other harmonic system such as post-tonal, atonal music, or traditional polyphonic systems. In this paper the descriptive potential of the GCT is assessed in the tonal idiom by comparing GCT harmonic labels with human expert annotations (Kostka & Payne harmonic dataset). Additionally, novel methods for grouping and clustering chords, according to their GCT encoding and their functional role in chord sequences, are introduced. The results of both harmonic labelling and functional clustering indicate that the GCT representation constitutes a suitable scheme for representing effectively harmony in computational systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cognitive Musicology and Artificial Intelligence: Harmonic Analysis, Learning, and Generation",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-72116-9_10",
+            "Abstract": "In this chapter, recent research in the domain of melodic harmonization and computational creativity is presented with a view to highlighting strengths and weaknesses of the classical cognitively inspired symbolic AI approach (often in juxtaposition to contemporary deep learning methodologies). A modular melodic harmonization system that learns chord types, chord transitions, cadences, and bassline voice leading from diverse harmonic datasets is presented. Then, it is shown that the harmonic knowledge acquired by this system can be used creatively in a cognitively inspired conceptual blending model that creates novel harmonic spaces, combining in meaningful ways the various harmonic components of different styles. This system is essentially a proof-of-concept creative model that demonstrates that new concepts can be invented which transcend the initial harmonic input spaces. It is argued that such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Learning and creating novel harmonies in diverse musical idioms: An adaptive modular melodic harmonisation system",
+            "Publication year": 2016,
+            "Publication url": "https://www.jcms.org.uk/article/id/504/",
+            "Abstract": "Melodic harmonisation is a sophisticated creative process that involves deep musical understanding and a specialised knowledge of music relating to melodic structure, harmony, rhythm, texture, and form. In this article a new melodic harmonisation assistant is presented that is adaptive (learns from data), general (can cope with any tonal or non-tonal harmonic idiom) and modular (learns different aspects of harmonic structure such as chord types, chord transitions, cadences, and voice-leading). This melodic harmonisation system can be used not only to mimic given harmonic styles, but to generate novel harmonisations for diverse melodies and create new harmonic spaces, allowing for the imposition of user-defined chord constraints, leading to new unforeseen harmonic realisations. The various components of the proposed model are explained, then, a number of creative harmonisations of different melodies are presented to illustrate the potential of the system.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Semiotic analysis and computational modelling: Two case studies on works by Debussy and Xenakis",
+            "Publication year": 2017,
+            "Publication url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315090801-11/semiotic-analysis-computational-modelling-two-case-studies-works-debussy-xenakis-christina-anagnostopoulou-emilios-cambouropoulos",
+            "Abstract": "This chapter investigates some aspects of formalizing semiotic analysis in terms of computational modelling. It focuses on the methodology as it relates to music analysis, rather than on algorithmic and implementation details. The chapter describes that paradigmatic analysis has so far resisted full formalization that may allow the implementation of sophisticated computational musical analytic systems. There have been several reasons for the unpopularity of the paradigmatic analysis among non-computational approaches; one of them may be the rigour in its application, regarding several issues that need to be addressed. The chapter focuses on three problem areas that relate to the selection of salient musical parameters for the description of musical entities, the hierarchic organization of musical structure, and the segmentation of a musical surface. It overviews and discusses analytical issues related to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Routledge"
+        },
+        {
+            "Title": "Melodic clustering: Motivic analysis of Schumann\u2019s Tr\u00e4umerei",
+            "Publication year": 2000,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-03133096/",
+            "Abstract": "In this paper a formal model will be presented that attempts to organise melodic segments into \u2018significant\u2019 musical categories (e.g. motives). Given a segmentation of a melodic surface, the proposed model constructs an appropriate representation for each segment in terms of a number of attributes (these reflect melodic and rhythmic aspects of the segment at the surface and at various abstract levels) and then a clustering algorithm (the Unscramble algorithm) is applied for the organisation of these segments into \u2018meaningful\u2019 categories. The proposed clustering algorithm automatically determines an appropriate number of clusters and also the characteristic (or defining) attributes of each category. As a test case this computational model has been used for obtaining a motivic analysis of Schumann\u2019s Tr\u00e4umerei.",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Musical parallelism and melodic segmentation:: A computational approach",
+            "Publication year": 2006,
+            "Publication url": "https://www.jstor.org/stable/10.1525/mp.2006.23.3.249",
+            "Abstract": "extracts melodic patterns from a given melodic surface is presented; following the assumption that the beginning and ending points of \u201csignificant\u201d repeating musical patterns (primarily in terms of frequency of occurrence and length of pattern) influence the segmentation of a musical surface, the discovered patterns are used as a means to determine probable segmentation points of the melody. All the discovered patterns merge into a single \u201cpattern\u201d segmentation profile that signifies points in the surface most likely to be perceived as points of segmentation. The study focuses on a special type of repetition, referred to as formative repetition by D. Lidov (1979), that involves immediately repeating patterns that often diverge toward their endings, contain small variations, and may be transposed; the function of this type of repetition is to \u201cform\u201d motives and phrases.This study does not provide a comprehensive standalone \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "University of California Press"
+        },
+        {
+            "Title": "CIM08. 4th Conference on Interdisciplinary Musicology",
+            "Publication year": 2008,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-01010115/",
+            "Abstract": "Universit\u00e9 Paris 8 - CIM08. 4th Conference on Interdisciplinary Musicology Acc\u00e9der directement \nau contenu Acc\u00e9der directement \u00e0 la navigation Toggle navigation CCSD HAL HAL HALSHS \nTEL M\u00e9diHAL Liste des portails AUR\u00e9HAL API Data Documentation Episciences.org \nEpisciences.org Revues Documentation Sciencesconf.org Support Universit\u00e9 Paris 8 HAL - \nhal.archives-ouvertes.fr Accueil D\u00e9p\u00f4t Consultation Par auteur Par laboratoire Par ann\u00e9e de \npublication Par type de publication Par domaine Par collection Recherche Tutoriels Qu'est-ce \nque HAL ? FAQ Questions juridiques li\u00e9es au d\u00e9p\u00f4t Comment d\u00e9poser un fichier dans HAL ? \nComment ajouter le texte int\u00e9gral \u00e0 une notice existante ? Quelles m\u00e9tadonn\u00e9es renseigner \npar type de document ? Comment saisir les donn\u00e9es auteur(s) et les affiliations ? Comment \ncr\u00e9er son IdHAL ? Documentation HAL hal-01010115, version 1 Direction d'ouvrage, , . 4th ':\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "zibN-roAAAAJ:hMod-77fHWUC",
+            "Publisher": "Aristotle University of Thessaloniki"
+        },
+        {
+            "Title": "Symbolic Encoding of Simultaneities: Re-designing the General Chord Type Representation",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3469013.3469022",
+            "Abstract": "Encoding note simultaneities (chords) has been approached in different ways, such as Roman numerals for tonal harmony, or pitch class sets encountered in atonal and non-tonal music. A novel chord representation, the General Chord Type (GCT) representation, was developed to be adaptable to a broad variety of harmonic idioms from tonal to atonal. Given a binary classification of intervals into consonant or dissonant, GCT rearranges the notes of a given simultaneity such that the base of the chord encoding is consonant. This study proposes a refined elegant version of the GCT algorithm that takes into account a graded raking of intervallic consonance, maintains the core characteristics of GCT and resolves known problems such as certain types of chord ambiguities (more than one chord types for a single pitch collection) and orderings of intervals (wrong base/root and chord extensions).",
+            "Abstract entirety": 1,
+            "Author pub id": "zibN-roAAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

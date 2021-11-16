@@ -1,0 +1,1327 @@
+[{
+    "name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+    "romanize name": "Giannis Papadopoulos",
+    "School-Department": "Computer Science",
+    "University": "University of Hull",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 720,
+    "Scholar name": "Yiannis Papadopoulos",
+    "Scholar id": "GpwIX-QAAAAJ",
+    "Affiliation": "Professor of Computer Science, University of Hull",
+    "Citedby": 3535,
+    "Interests": [
+        "Artificial Intelligence",
+        "Reliability",
+        "Safety",
+        "Dependability",
+        "Genetic Algorithms"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=GpwIX-QAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "A synthesis of logic and bio-inspired techniques in the design of dependable systems",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1367578816300116",
+            "Abstract": "Much of the development of model-based design and dependability analysis in the design of dependable systems, including software intensive systems, can be attributed to the application of advances in formal logic and its application to fault forecasting and verification of systems. In parallel, work on bio-inspired technologies has shown potential for the evolutionary design of engineering systems via automated exploration of potentially large design spaces. We have not yet seen the emergence of a design paradigm that effectively combines these two techniques, schematically founded on the two pillars of formal logic and biology, from the early stages of, and throughout, the design lifecycle. Such a design paradigm would apply these techniques synergistically and systematically to enable optimal refinement of new designs which can be driven effectively by dependability requirements. The paper sketches such a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:SP6oXDckpogC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Variability management in safety\u2010critical systems design and dependability analysis",
+            "Publication year": 2019,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2202",
+            "Abstract": "Safety\u2010critical systems are of paramount importance for many application domains, where safety properties are a key driver to engineer critical aspects and avoid system failures. For the benefits of large\u2010scale reuse, software product lines (SPL) have been adopted in critical systems industry. However, the integration of safety analysis in the SPL development process is nontrivial. Also, the different usage contexts of safety\u2010critical systems complicates component fault modeling tasks and the identification of potential hazards. In this light, better methods become necessary to estimate the impact of dependability properties during Hazard Analysis and Risk Assessment. Existing methods incorporating the analysis of safety properties in SPL are limited as they do not include hazard analysis and component fault modeling. In this paper, we present the novel DEPendable Software Product Line Engineering (DEPendable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:eMMeJKvmdy0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automatic decomposition and allocation of safety integrity levels using a penalty-based genetic algorithm",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-38577-3_46",
+            "Abstract": "Automotive Safety Integrity Levels (ASILs) are used in the new automotive functional safety standard, ISO 26262, as a key part of managing safety requirements throughout a top-down design process. The ASIL decomposition concept, outlined in the standard, allows the safety requirements to be divided between multiple components of the system whilst still meeting the ASILs initially allocated to system-level hazards. Existing exhaustive automatic decomposition techniques drastically reduce the effort of performing such tasks manually. However, the combinatorial nature of the problem leaves such exhaustive techniques with a scalability issue. To overcome this problem, we have developed a new technique that uses a penalty-based genetic algorithm to efficiently explore the search space and identify optimum assignments of ASILs to the system components. The technique has been applied to a hybrid \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On cost\u2010effective reuse of components in the Design of Complex Reconfigurable Systems",
+            "Publication year": 2017,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.2112",
+            "Abstract": "Design strategies that benefit from the reuse of system components can reduce costs while maintaining or increasing dependability\u2014we use the term dependability to tie together reliability and availability. D3H2 (aDaptive Dependable Design for systems with Homogeneous and Heterogeneous redundancies) is a methodology that supports the design of complex systems with a focus on reconfiguration and component reuse. D3H2 systematizes the identification of heterogeneous redundancies and optimizes the design of fault detection and reconfiguration mechanisms, by enabling the analysis of design alternatives with respect to dependability and cost. In this paper, we extend D3H2 for application to repairable systems. The method is extended with analysis capabilities allowing dependability assessment of complex reconfigurable systems. Analysed scenarios include time\u2010dependencies between failure events \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:738O_yMBCRsC",
+            "Publisher": "John Wiley & Sons, Ltd"
+        },
+        {
+            "Title": "Safety analysis of a remote patient monitoring system with a guideline based decision support",
+            "Publication year": 2013,
+            "Publication url": "https://pdfs.semanticscholar.org/5195/f6d2908b6b840ea37e57e16078634f3e09c2.pdf",
+            "Abstract": "Safety Analysis of a Remote Patient Monitoring System with a Guideline Based Decision \nSupport Page 1 Al-Qora\u2019n L, Sharvia S, Gordon N, Papadopoulos Y University of Hull, \nDepartment of Computer Science United Kingdom Safety Analysis of a Remote Patient \nMonitoring System with a Guideline Based Decision Support Page 2 \u25ba Background \u25ba HiP-HOPS \n\u25ba Case Study \u25ba Failure Annotation \u25ba Results \u25ba Contributions Page 3 \u25ba Safety of a system is \nthe state of being safe where recognised hazards are controlled. \u25ba Safety analysis focuses on \nthe consequences to be avoided within the system\u2019s context. \u25ba Various safety analysis methods \nhave been developed. \u25ba Home Telemonitoring systems are safety-critical systems which are \nrequired to operate in nominal conditions as well as degraded situations . Page 4 \u25ba Our aim \nis to provide reliable, efficient, safe, and individualised care for patients when using home \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Integrated safety and architecture modeling for automotive embedded systems",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00502-011-0007-7.pdf",
+            "Abstract": "EAST-ADL is an architecture description language (ADL) for model-based development of automotive embedded systems. The formalization of domain-specific engineering information and methodology brings a potential for a wide range of benefits for information management, system design and integration, tool interaction, documentation and communication. This paper describes the EAST-ADL language support for safety requirements, faults/failures, hazards and safety constraints in the context of ISO/DIS 26262 reference safety lifecycle. Based on the language support, the safety related information can be derived and managed seamlessly along with its target nominal system architecture model with multiple abstraction levels and view extensions. Through model transformation and tool integration, automated safety analysis is allowed.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "A hybrid modular approach for dynamic fault tree analysis",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9098861/",
+            "Abstract": "Over the years, several approaches have been developed for the quantitative analysis of dynamic fault trees (DFTs). These approaches have strong theoretical and mathematical foundations; however, they appear to suffer from the state-space explosion and high computational requirements, compromising their efficacy. Modularisation techniques have been developed to address these issues by identifying and quantifying static and dynamic modules of the fault tree separately by using binary decision diagrams and Markov models. Although these approaches appear effective in reducing computational effort and avoiding state-space explosion, the reliance of the Markov chain on exponentially distributed data of system components can limit their widespread industrial applications. In this paper, we propose a hybrid modularisation scheme where independent sub-trees of a DFT are identified and quantified in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:35r97b3x0nAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Component Failure Behaviour: Patterns and Reuse in Automated System Safety Analysis",
+            "Publication year": 2006,
+            "Publication url": "https://www.jstor.org/stable/44667835",
+            "Abstract": "Recent work in the area of safety analysis has shown that system Fault Trees and Failure Modes and Effects Analyses (FMEAs) can be automatically derived from a topological model of the system that has been annotated with local, component-level, specifications of failure. In this paper, the concept of a component failure specification is extended to enable description and reuse of generalized patterns of failure behaviour that are commonly exhibited by components. A language for the description of such patterns is specified, useful patterns are presented and the use of such patterns is demonstrated on an example of a Time-Triggered system. The paper tentatively concludes that careful reuse of failure patterns in conjunction with automated fault tree and FMEA synthesis algorithms can help to rationalize, and simplify, complex safety assessments.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "SAE International"
+        },
+        {
+            "Title": "Metaheuristics for the design of safety critical systems: A synthesis of logic and biology in system design",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7397188/",
+            "Abstract": "The technologies of model-based design and dependability analysis in the design of safety critical systems, including software intensive systems, have advanced in recent years. Much of this development can be attributed to the application of advances in formal logic and its application to verification of systems. In parallel, bio-inspired technologies have shown potential for the evolutionary design of engineering systems via automated exploration of potentially large design spaces. However, we have not yet seen the emergence of a design paradigm that combines effectively and throughout the design lifecycle these two techniques which are schematically founded on the two pillars of formal logic and biology. Such a design paradigm would apply these techniques synergistically and systematically from the early stages of design to enable optimal refinement of new designs which can be driven effectively by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Continuous assessment of designs and re-use in model-based safety analysis",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016374493",
+            "Abstract": "To deliver complex functionalities in a cost effective manner, distributed manufacturing systems should ideally be based on standard interoperable components and be flexible and easily extensible. At the same time, systems must be demonstrably safe and reliable. In this paper, we argue that to balance these conflicting demands effective safety analysis techniques are required that partly automate and simplify off-line safety assessment. We outline a technique that automates the construction of fault trees and FMEAs and explain how this technique can be repeatedly applied in the course of the design life-cycle on functional and architectural models to enable continuous assessment of evolving designs. Finally, we discuss the issue of re-use of safety analyses and give examples of how such reuse simplifies the assessment.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Uncertainty-aware dynamic reliability analysis framework for complex systems",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8375086/",
+            "Abstract": "Critical technological systems exhibit complex dynamic characteristics such as time-dependent behavior, functional dependencies among events, sequencing and priority of causes that may alter the effects of failure. Dynamic fault trees (DFTs) have been used in the past to model the failure logic of such systems, but the quantitative analysis of DFTs has assumed the existence of precise failure data and statistical independence among events, which are unrealistic assumptions. In this paper, we propose an improved approach to reliability analysis of dynamic systems, allowing for uncertain failure data and statistical and stochastic dependencies among events. In the proposed framework, DFTs are used for dynamic failure modeling. Quantitative evaluation of DFTs is performed by converting them into generalized stochastic Petri nets. When failure data are unavailable, expert judgment and fuzzy set theory are used \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Simulation model based risk and reliability analysis using extended simulationX system models to generate FMEA tables",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=6341516697473840437&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:TFP_iSt0sucC",
+            "Publisher": "VDI; 1999"
+        },
+        {
+            "Title": "Modelling support for design of safety-critical automotive embedded systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-87698-4_9",
+            "Abstract": "This paper describes and demonstrates an approach that promises to bridge the gap between model-based systems engineering and the safety process of automotive embedded systems. The basis for this is the integration of safety analysis techniques, a method for developing and managing Safety Cases, and a systematic approach to model-based engineering \u2013 the EAST-ADL2 architecture description language. Three areas are highlighted: (1) System model development on different levels of abstraction. This enables fulfilling many requirements on software development as specified by ISO-CD-26262; (2) Safety Case development in close connection to the system model; (3) Analysis of mal-functional behaviour that may cause hazards, by modelling of errors and error propagation in a (complex and hierarchical) system model.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic effect of perfect preventive maintenance on system reliability and cost using HiP-HOPS",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016309016",
+            "Abstract": "The occurrence of failure in a safety critical engineering system can be reduced through the use of preventive maintenance (PM). Each time a component of the system is maintained its effective age is reduced; the extent of this age reduction depends on the effectiveness of the PM known as the improvement factor. While some components may need to be maintained every PM interval T, typically most components will possess a PM interval which is a multiple of T (\u03b1T), where \u03b1 is the coefficient of maintenance interval (CoMI). Where PM completely rejuvenates the component being maintained, it is termed perfect preventive maintenance (PPM). This paper investigates the effect of PPM on system reliability, unavailability and cost. Firstly, a model of the effect of PPM actions on the reliability, unavailability, and cost of components, calculated using a Weibull distribution, is established. Secondly, HiP-HOPS, a semi \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A method and tool support for model-based semi-automated failure modes and effects analysis of engineering designs",
+            "Publication year": 2004,
+            "Publication url": "https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV47Papadopoulos.pdf",
+            "Abstract": "Limitations in scope but also difficulties with the efficiency and scalability of present algorithms seem to have so far limited the industrial uptake of existing automated FMEA technology. In this paper, we describe a new tool for the automatic synthesis of FMEAs which builds upon our earlier work on fault tree synthesis. The tool constructs FMEAs from engineering diagrams (eg developed in Matlab-Simulink) that have been augmented with information about component failures. To generate a system FMEA, the tool first generates a \u201cforest\u201d of interconnected system fault trees by traversing the system model. This \u201cforest\u201d is then mechanically translated into a simple table of direct relationships between component and system failures, effectively a system FMEA. We describe the architecture of the tool and demonstrate its application on a steer-by-wire prototype. We also discuss its performance and show that this approach could lead to efficient ways of generating useful analyses from design representations..",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "11 the east-adl architecture description language for automotive embedded software",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-16277-0_11",
+            "Abstract": "Current trends in automotive embedded systems focus on how to manage the increasing software content, with a strong emphasis on standardization of the embedded software structure. The management of engineering information remains a critical challenge in order to support development and other stages of the life-cycle. System modelling based on an Architecture Description Language (ADL) is a way to keep these assets within one information structure. This paper presents the EAST-ADL2 modelling language, developed in the ITEA EAST-EEA project and further enhanced in the ATESST project (www.atesst.org). EAST-ADL2 supports comprehensive model-based development of embedded systems and provides dedicated constructs to facilitate variability and product line management, requirements engineering, representation of functional as well as software/hardware solutions, and timing and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "4 Dynamic Fault Tree Analysis",
+            "Publication year": 2020,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=aPjrDwAAQBAJ&oi=fnd&pg=PA73&dq=info:UMITsDGilWUJ:scholar.google.com&ots=a77e6Kx3IG&sig=UYZlADGnTXNSp792cxf9GNgBTUw",
+            "Abstract": "Safety critical systems have become an integral part of our life. Over the years, new functionalities and capabilities have been added to such systems, and information and communication technologies are increasingly used to make them more sophisticated. While additional features and sophistication bring significant benefits, this might lead to additional complexity, making system development, safety assurance, and reliability properties more challenging. Safety is the avoidance of harm to people and the environment, and reliability is the ability to perform the intended function",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:uJ-U7cs_P_0C",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Automatic allocation of safety integrity levels",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1772643.1772646",
+            "Abstract": "In this paper, we describe a concept for the automatic allocation of general Safety Integrity Levels (SILs) to subsystems and components of complex hierarchical networked architectures that deliver sets of safety critical functions. The concept is generic and can be adapted to facilitate the safety engineering approach defined in several standards that employ the concept of integrity or assurance levels including ISO 26262, the emerging automotive safety standard. SIL allocation is facilitated by HiP-HOPS, an automated safety analysis tool, and can be performed in the context of development using EAST-ADL2, an automotive architecture description language. The process rationalizes complex risk allocation and leads to optimal/economic allocation of SILs.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Maintaining safety arguments via automatic allocation of safety requirements",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896316324296",
+            "Abstract": "The \u2018safety case\u2019 documents the safety argument developers of safety-critical systems employ to convince of their systems\u2019 safety, in compliance with safety standard regulation and advice. Despite the considerable body of knowledge that has evolved, constructing and maintaining a safety case remains a significant challenge. Especially for contemporary systems, due to their scale and complexity, safety cases can grow to require hundreds of pages of documentation. In this paper, we propose a method which aims to address these concerns. In numerous safety standards, such as the aerospace ARP4754-A, the concept of Development Assurance Levels (DALs) is used to control the safety assessment process and influence the safety case. Our method is based on automatically constructing a safety argument from an annotated system architecture model. To perform this construction, we employ previous work \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Toward Improving Confidence in Autonomous Vehicle Software: A Study on Traffic Sign Recognition Systems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9504680/",
+            "Abstract": "This article proposes an approach named SafeML II, which applies empirical cumulative distribution function-based statistical distance measures in a designed human-in-theloop procedure to ensure the safety of machine learning-based classifiers in autonomous vehicle software.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:zLWjf1WUPmwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using simulation to evaluate dynamic systems with weibull or lognormal distributions",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-07013-1_17",
+            "Abstract": "Most techniques for quantitatively analysing the temporal fault trees of safety-critical systems are used with the assumption that the systems under study have exponentially distributed component failures. However, it is not impossible for real world systems to have various components with different failure distributions. This paper presents a simulation approach \u2013 Monte Carlo \u2013 for modelling, simulating and estimating the total system failure of state-of-the-art dynamic systems featuring Weibull or lognormal distributions. The proposed techniques have been formulated using the time-to-failure of these distributions to model temporal behaviours; they can be extended to model systems with other distributions.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Techniques and tools for automated safety analysis & decision support for redundancy allocation in automotive systems",
+            "Publication year": 2003,
+            "Publication url": "https://www.computer.org/csdl/proceedings-article/compsac/2003/20200105/12OmNzxyiKo",
+            "Abstract": "Recent growth in the area of model-based product development in the automotive industry means that system models in electronic form become increasingly more available as they progressively find more applications in the course of the development process. Such models, Matlab-Simulink models for example, are currently used for simulation, fault injection and source code generation. In our work, the utility of such models is pushed further into a hitherto unexplored area that of safety and reliability analysis. We propose a design process in which techniques for semi-automatic safety and reliability analysis of such models are combined with multi-criteria optimisation techniques to assist the gradual development of designs that can meet set reliability and safety targets within pragmatic cost constraints. The proposed process relies on tools to automate some aspects of the design that we believe could be automated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Explicit modelling and treatment of repair in prediction of dependability",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8413119/",
+            "Abstract": "In engineering practice, multiple repair actions are considered carefully by designers, and their success or failure defines further control actions and the evolution of the system state. Such treatment is not fully supported by the current state-of-the-art in dependability analysis. We propose a novel approach for explicit modelling and analysis of repairable systems, and describe an implementation, which builds on HiP-HOPS, a method and tool for model-based synthesis of dependability evaluation models. HiP-HOPS is augmented with Pandora, a temporal logic for the qualitative analysis of Temporal Fault Trees (TFTs), and capabilities for quantitative dependability analysis via Stochastic Activity Networks (SAN). Dependability prediction is achieved via explicit modelling of local failure and repair events in a system model and then by: (i) propagation of local effects through the model and synthesis of repair-aware TFTs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-based synthesis of fault trees from matlab-simulink models",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/941393/",
+            "Abstract": "We outline a new approach to safety analysis in which concepts of computer HAZOP are fused with the idea of software fault tree analysis to enable a continuous assessment of an evolving programmable design developed in Matlab-Simulink. We also discuss the architecture of a tool that we have developed to support the new method and enable its application in complex environments. We show that the method and the tool enable the integrated hardware and software analysis of a programmable system and that in the course of that analysis they automate and simplify the development of fault trees for the system. Finally, we propose a demonstration of the method and the tool and we outline the experimental platform and aims of that demonstration.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model transformation for multi-objective architecture optimisation of dependable systems",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-08964-5_6",
+            "Abstract": "The promise of model-based engineering is that by use of an integrated and coherent system model both functional and non-functional requirements may be analysed, implemented and tested in a rigorous and cost-effective manner. An important part of model-based engineering is the use of analysis and design languages. The Architecture Analysis Design Language (AADL) is a new modelling language which is increasingly being used for high dependability embedded systems development. Such languages are ideally suited to model-based engineering but the use of new languages threatens to isolate existing tools which use different languages. This is a particular problem when these tools provide an important development or analysis function. System optimization is such a function.System designers seek an optimal trade-off between high dependability and low cost. For large systems, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Model transformation for analyzing dependability of AADL model by using HiP-HOPS",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121219300299",
+            "Abstract": "The Architecture Analysis and Design Language (AADL) has emerged as a potential future standard in aerospace, automobile and avionics industries for model-based development of dependability-critical systems. As AADL is relatively new, some existing analysis methods and tools are not able to accept AADL models. In this paper we show that, by using model transformation techniques, we can automatically transform AADL models into a form that is directly executable by fault-tree-based dependability analysis and optimisation tools. This model transformation opens a path by which AADL models may benefit from automatic synthesis and analysis of fault trees, temporal fault tree analysis, multiple failure mode and effects analysis and model architecture optimisation.In this paper, we present a new model transformation framework. The core of the framework is a novel transformation from a state machine-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:olpn-zPbct0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "East-ADL: An architecture description language for automotive software-intensive systems in the light of recent use and research",
+            "Publication year": 2016,
+            "Publication url": "https://www.igi-global.com/article/east-adl/156512",
+            "Abstract": "EAST-ADL is an Architecture Description Language (ADL) initially defined in several European-funded research projects and aligned with AUTOSAR and ISO26262. It provides a comprehensive approach for defining automotive electronic systems through an information model that captures engineering information in a standardized form. Aspects covered include vehicle features, requirements, analysis functions, software and hardware components and communication. The representation of the system's implementation is not defined in EAST-ADL itself but by AUTOSAR. However, traceability is supported from EAST-ADL's lower abstraction levels to the implementation level elements in AUTOSAR. In this article the authors describe EAST-ADL in detail, show how it relates to AUTOSAR as well as other significant automotive standards and present recent research work on using and advancing EAST-ADL, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:p2g8aNsByqUC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Integrated application of compositional and behavioural safety analysis",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-21393-9_14",
+            "Abstract": "The design complexity of modern safety critical systems presents various challenges for its safety assessment process. In recent years, Model-Based Safety Analysis (MBSA) has been proposed to achieve more-robust and effective safety assessment techniques through automation of the synthesis and analysis of predictive models. Two prominent paradigms of MBSA are Compositional Safety Analysis (CSA) and Behavioural Safety Analysis (BSA). These techniques have emerged with little integration. In this chapter, we present a technique which systematically integrates the application of CSA and BSA. The process starts from CSA and utilizes its analysis results to provide a systematic construction and refinement of state machines, which can be subsequently analyzed through BSA. An example of a car brake-by-wire system is presented to illustrate the application of the proposed technique.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Safety-Directed Design Refinement: How to Optimise the Allocation of Safety Requirements",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5015504489246977078&hl=en&oi=scholarr",
+            "Abstract": "\u2022 Each element of the architecture is examined for plausible errors E (i) at outputs. For each E (i) we assume one collective internal cause c (i) and determine how E (i) is caused by a logical expression connecting the c (i) and plausible errors E (j) received at inputs",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic system safety analysis in HiP-HOPS with Petri Nets and Bayesian Networks",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925753517314911",
+            "Abstract": "Dynamic systems exhibit time-dependent behaviours and complex functional dependencies amongst their components. Therefore, to capture the full system failure behaviour, it is not enough to simply determine the consequences of different combinations of failure events: it is also necessary to understand the order in which they fail. Pandora temporal fault trees (TFTs) increase the expressive power of fault trees and allow modelling of sequence-dependent failure behaviour of systems. However, like classical fault tree analysis, TFT analysis requires a lot of manual effort, which makes it time consuming and expensive. This in turn makes it less viable for use in modern, iterated system design processes, which requires a quicker turnaround and consistency across evolutions. In this paper, we propose for a model-based analysis of temporal fault trees via HiP-HOPS, which is a state-of-the-art model-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:geHnlv5EZngC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Compositional synthesis of temporal fault trees from state machines",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2185395.2185444",
+            "Abstract": "Dependability analysis of a dynamic system which is embedded with several complex interrelated components raises two main problems. First, it is difficult to represent in a single coherent and complete picture how the system and its constituent parts behave in conditions of failure. Second, the analysis can be unmanageable due to a considerable number of failure events, which increases with the number of components involved. To remedy this problem, in this paper we outline an analysis approach that converts failure behavioural models (state machines) to temporal fault trees (TFTs), which can then be analysed using Pandora -- a recent technique for introducing temporal logic to fault trees. The approach is compositional and potentially more scalable, as it relies on the synthesis of large system TFTs from smaller component TFTs. We show, by using a Generic Triple Redundant (GTR) system, how the approach \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Model-connected safety cases",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-64119-5_4",
+            "Abstract": " We propose the concept of a model-connected safety case that could simplify certification of complex systems. System design models support the synthesis of both the structure of the safety case and the evidence that supports this structure. The resultant safety case argues that all hazards are adequately addressed through meeting the system safety requirements. This overarching claim is demonstrated via satisfaction of the integrity requirements that are assigned to subsystems and components of the system through a sound process of model-based allocation that respects the system design and follows industry standards. The safety evidence that substantiates claims is supported by evidence which is also auto-constructed from the system model. As the system model evolves during design, the corresponding model-connected safety case can be auto-updated. The approach is underpinned by a data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A Novel Approach Based on Stochastic Hybrid Fault Tree to Compare Alternative Flare Gas Recovery Systems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9389717/",
+            "Abstract": "Flaring has always been an inseparable part of oil production and exploration. Previously, waste gas collected from different parts of facilities was released for safety or operational reasons and combusted on top of a flare stack since there was not the possibility to treat or use this type of gas. Concerns about global warming led to several initiatives for reducing flaring or even eliminating combustion. Treating flare gas was made possible by the introduction of flare gas recovery systems that have become increasingly obligatory. Most solutions add a flare gas recovery system to an existing flare system. In a typical scenario, after analyzing the existing facility and collecting the necessary data, alternative designs are proposed and criteria are determined to make a choice between the proposed alternatives. In this paper two designs of a gas control system are proposed, and reliability was chosen as the deciding factor \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:EkHepimYqZsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The CVM Framework-A Prototype Tool for Compositional Variability Management.",
+            "Publication year": 2010,
+            "Publication url": "https://www.academia.edu/download/48679088/The_CVM_Framework_-_A_Prototype_Tool_for20160908-3438-14d7ea1.pdf",
+            "Abstract": "This article announces the first public release of an experimental research tool for variability management, called \u201cCVM framework\u201d and provides an overview of the tool\u2019s capabilities and architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Synthesis and analysis of temporal fault trees with PANDORA: The time of Priority AND gates",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1751570X06000574",
+            "Abstract": "Classical Fault Tree Analysis (FTA) can determine the effects of combinations of failure events on a system but cannot capture the significance of the temporal order of events, which may be critical. In this paper, we propose an extension based on formal definition and use of Priority AND gates that enables representation of event sequences and analysis of temporal relationships in FTA. In addition, we show how this type of temporal analysis can be used in conjunction with a recently proposed method for automated fault tree synthesis to allow accurate failure analyses of system models to be carried out efficiently. The approach is demonstrated on a generic system with a shared backup component. The paper tentatively concludes that this type of temporal FTA can provide a more precise and ultimately more correct insight into the failure behaviour of a system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Automating aspects of safety design in contemporary automotive system engineering",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11645788752754044889&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Applications of Bayesian networks and Petri nets in safety, reliability, and risk assessments: A review",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925753518305435",
+            "Abstract": "System safety, reliability and risk analysis are important tasks that are performed throughout the system life-cycle to ensure the dependability of safety-critical systems. Probabilistic risk assessment (PRA) approaches are comprehensive, structured and logical methods widely used for this purpose. PRA approaches include, but not limited to, Fault Tree Analysis (FTA), Failure Mode and Effects Analysis (FMEA), and Event Tree Analysis (ETA). Growing complexity of modern systems and their capability of behaving dynamically make it challenging for classical PRA techniques to analyse such systems accurately. For a comprehensive and accurate analysis of complex systems, different characteristics such as functional dependencies among components, temporal behaviour of systems, multiple failure modes/states for components/systems, and uncertainty in system behaviour and failure data are needed to be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Combining ship machinery system design and first principle safety analysis",
+            "Publication year": 2003,
+            "Publication url": "https://www.researchgate.net/profile/Yiannis-Papadopoulos/publication/317949855_COMBINING_SHIP_MACHINERY_SYSTEM_DESIGN_AND_FIRST_PRINCIPLE_SAFETY_ANALYSIS/links/59526665458515a207f7db26/COMBINING-SHIP-MACHINERY-SYSTEM-DESIGN-AND-FIRST-PRINCIPLE-SAFETY-ANALYSIS.pdf",
+            "Abstract": "Ship machinery system design is currently based on prescriptive type regulations embodied in SOLAS and on rules issued by classification societies. These rules are largely based on historical data and experience with their application. While they work well for designs that follow established design principles, innovative design proposals call for new approaches to ensure system safety and integrity. It is argued that where first principles are applied in the design process, first principles should also be used in assessing the safety of these designs. To address this issue, this paper describes a method that combines system analysis in the design process with safety analysis, drawing on techniques such as hazard and operability studies (HAZOP) and fault tree analysis (FTA). In this method, the analysis is performed on a structural model of the system upon which computerized algorithms are applied to automate the synthesis of system fault trees. This process is largely automated and can make use of system models from the early stages of the design, thus reducing the effort required to examine system safety and to study the effect of design modifications. In this paper, we describe the process and give an example to illustrate application on a typical system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Capture and reuse of composable failure patterns",
+            "Publication year": 2010,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCCBS.2010.03171",
+            "Abstract": "Emerging safety analysis techniques use composition of failure models or fault simulation in formal models of a system to determine relationships between the causes and effects of failure. Most recent work has focused on developing system modelling and algorithms for automatic safety analysis. However, little work has focused on developing principles to improve reuse of safety analyses in the context of these techniques. In this paper, we describe a generalised failure logic (GFL) that can capture abstract reusable characteristics of failure behaviour and show how the GFL can be used with templates for the specification of reusable and inheritable component failure patterns. Finally, we illustrate how such patterns can be used with HiP-HOPS, an automated fault tree and FMEA synthesis tool, in order to simplify safety analysis while formalising and improving reuse. Benefits of this approach are discussed in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "Systems modeling with EAST-ADL for fault tree analysis through HiP-HOPS",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015339938",
+            "Abstract": "EAST-ADL is a domain-specific modeling framework with methodology and language support for the engineering of automotive embedded systems. In regard to functional safety, it aims to provide the maximum possible support for ISO 26262 so that all safety related information can be consolidated seamlessly in a common system model together with the requirements specification. This paper describes the EAST-ADL support for the modeling of plausible error behaviors as an orthogonal system view. We introduce in particular an integration of such EAST-ADL models with the HiP-HOPS method for automated temporal fault tree analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A study of automatic allocation of automotive safety requirements in two modes: components and failure modes",
+            "Publication year": 2018,
+            "Publication url": "https://www.sae.org/publications/technical-papers/content/2018-01-1076/",
+            "Abstract": "ISO 26262 describes a safety engineering approach in which the safety of a system is considered from the early stages of design through a process of elicitation and allocation of system safety requirements. These are expressed as automotive safety integrity levels (ASILs) at system level and are then progressively allocated to subsystems and components of the system architecture. In recent work, we have demonstrated that this process can be automated using a novel combination of model-based safety analysis and optimization metaheuristics. The approach has been implemented in the HiP-HOPS tool, and it leads to optimal economic decisions on component ASILs. In this paper, first, we discuss this earlier work and demonstrate automatic ASIL decomposition on an automotive example. Secondly, we describe an experiment where we applied two different modes of ASIL decomposition. In HiP-HOPS, it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "SAE Technical Paper"
+        },
+        {
+            "Title": "International Journal of System Dynamics Applications",
+            "Publication year": 2016,
+            "Publication url": "https://www.igi-global.com/pdf.aspx?tid%3D156509%26ptid%3D132185%26ctid%3D15%26t%3Dtable+of+contents%26isxn%3D9781466693609",
+            "Abstract": "Table of Contents Page 1 The International Journal of System Dynamics Applications is indexed \nor listed in the following: ACM Digital Library; Bacon\u2019s Media Directory; Cabell\u2019s Directories; \nDBLP; Google Scholar; INSPEC; JournalTOCs; MediaFinder; ProQuest Advanced Technologies \n& Aerospace Journals; ProQuest Computer Science Journals; ProQuest Illustrata: Technology; \nProQuest SciTech Journals; ProQuest Technology Journals; The Standard Periodical Directory; \nUlrich\u2019s Periodicals Directory Research Articles 1 EAST-ADL: An Architecture Description \nLanguage for Automotive Software-intensive Systems in the Light of Recent use and Research \nHans Blom, Volvo Group, Gothenburg, Sweden De-Jiu Chen, School of Industrial Engineering \nand Management, Department of Machine Design, KTH Royal Institute of Technology, \nStockholm, Sweden Henrik Kaijser, Volvo Group, Gothenburg, Sweden Henrik , , , -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Enhancing the EAST-ADL Error Model with HiP-HOPS Semantics",
+            "Publication year": 2014,
+            "Publication url": "https://www.atiner.gr/journals/technology/2014-1-2-3-Papadopoulos.pdf",
+            "Abstract": "Model-based engineering has become increasingly important in managing the ongoing advances in functionality and complexity of modern safety-critical embedded systems. There is a growing development in domain-specific modelling languages to support the design lifecycle from the early requirements stage up to the detailed hardware and software designs. Such languages aim to address the challenges arising from the management of nominal system design, design refinement and evolution, as well as the safety requirements and error behaviours.EAST-ADL (EAST-ADL, 2014) is an Architecture Description Language (ADL) which provides an integrated and systematic support for modelling of automotive systems. EAST-ADL facilitates multi-level abstractions which allow design and engineering concerns to be better managed. The specification of the EAST-ADL includes an error model which describes potential failures of the design elements. Specifications using the error model can be used to assess of the effects and propagations of these failures through the system. To perform this assessment, however, a connection between the modelling language and a model-based safety analysis tool needs to be established. Consideration for safety and reliability has been crucial throughout the development of safety critical systems. Various model-based safety analysis techniques (Joshi et al., 2006; Sharvia & Papadopoulos, 2011) have been proposed and developed throughout recent years. These techniques can be based on architectural decomposition of the system, eg the HiP-HOPS technique (Papadopoulos, et al., 2001), or they may be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimisation of networked control systems using model-based safety analysis techniques",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4239029/",
+            "Abstract": "We propose a novel approach to the optimization of networked embedded safety critical systems in which genetic algorithms are used to find optimal tradeoffs among safety, reliability and cost in the design of such systems. The aim is to automatically evolve initial designs that do not necessarily meet dependability requirements to designs that fulfil such requirements with minimal costs. The approach departs from earlier work in that the safety and reliability model (i.e. a set of system fault trees) is automatically synthesised from an engineering model of the system. It also moves beyond the classical \"success-failure\" model by introducing a failure scheme in which components can exhibit more that one failure modes which include the loss but also the commission of functions as well as value and timing failures. We discuss the approach, and compare the performance of two implementations, based on two different \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automated safety monitoring: A review and classification of methods",
+            "Publication year": 2001,
+            "Publication url": "https://www.researchgate.net/profile/Yiannis-Papadopoulos/publication/228784850_Automated_safety_monitoring_A_review_and_classification_of_methods/links/00463518b7381036af000000/Automated-safety-monitoring-A-review-and-classification-of-methods.pdf",
+            "Abstract": "The role of automated safety monitors in safety critical systems is to detect conditions that signal potentially hazardous disturbances, and assist the operators of the system in the timely control of those disturbances. In this paper, we re-define the problem of safety monitoring in terms of three principal dimensions: the optimisation of low-level status information and alarms, fault diagnosis, and failure control and correction. Within this framework, we discuss state of the art systems and research prototypes, and develop a critical review and classification of safety monitoring methods. We also arrive at a set of properties that, in our view, should characterise an effective approach to the problem and draw some conclusions about the current state of research in the field.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automated failure modes and effects analysis of systems on-board ship",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12476934602236205784&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computational Intelligence for Safety Assurance of Cooperative Systems of Systems",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9269913/",
+            "Abstract": "Cooperative systems of systems (CSoSs) form a new technological frontier for their enormous economic and societal potentials in various domains. This article presents a novel framework for dynamic safety assurance of CSoSs that integrates design time models and runtime techniques to provide continuous assurance during CSoS operation.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:yB1At4FlUx8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Evolutionary algorithms for safety-cost trade-offs in control system design",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015358596",
+            "Abstract": "In the design of safety critical systems, engineers have to find trade-offs between different safety attributes, as well as between safety and costs, because in most cases the improvement of one safety attribute can't be achieved without causing extra costs or decreasing another safety attribute. This paper proposes the usage of evolutionary algorithms as multi-objective optimisation strategies to automatically find Pareto-optimal solutions that could be used as an input for the decision making process. The benefit of using evolutionary algorithms is in the ability to deal with complex solution spaces.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Compositional temporal fault tree analysis",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75101-4_12",
+            "Abstract": "HiP-HOPS (Hierarchically-Performed Hazard Origin and Propaga-tion Studies) is a recent technique that partly automates Fault Tree Analysis (FTA) by constructing fault trees from system topologies annotated with component-level failure specifications. HiP-HOPS has hitherto created only classical combinatorial fault trees that fail to capture the often significant temporal ordering of failure events. In this paper, we propose temporal extensions to the fault tree notation that can elevate HiP-HOPS, and potentially other FTA techniques, above the classical combinatorial model of FTA. We develop the formal foundations of a new logic to represent event sequences in fault trees using Priority-AND, Simultaneous-AND, and Priority-OR gates, and present a set of temporal laws to identify logical contradictions and remove redundancies in temporal fault trees. By qualitatively analysing these temporal trees to obtain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Automated model-based attack tree analysis using HiP-HOPS",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-32872-6_17",
+            "Abstract": "As Cyber-Physical Systems (CPS) grow increasingly complex and interact with external CPS, system security remains a non-trivial challenge that continues to scale accordingly, with potentially devastating consequences if left unchecked. While there is a significant body of work on system security found in industry practice, manual diagnosis of security vulnerabilities is still widely applied. Such approaches are typically resource-intensive, scale poorly and introduce additional risk due to human error. In this paper, a model-based approach for Security Attack Tree (SAT) analysis using the HiP-HOPS dependability analysis tool is presented. The approach is demonstrated within the context of a simple web-based medical application to automatically generate attack trees, encapsulated as Digital Dependability Identities (DDIs), for offline security analysis. The paper goes on to present how the produced DDIs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:_Ybze24A_UAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Reliability analysis of dynamic systems by translating temporal fault trees into Bayesian networks",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-12214-4_8",
+            "Abstract": "Classical combinatorial fault trees can be used to assess combinations of failures but are unable to capture sequences of faults, which are important in complex dynamic systems. A number of proposed techniques extend fault tree analysis for dynamic systems. One of such technique, Pandora, introduces temporal gates to capture the sequencing of events and allows qualitative analysis of temporal fault trees. Pandora can be easily integrated in model-based design and analysis techniques. It is, therefore, useful to explore the possible avenues for quantitative analysis of Pandora temporal fault trees, and we identify Bayesian Networks as a possible framework for such analysis. We describe how Pandora fault trees can be translated to Bayesian Networks for dynamic dependability analysis and demonstrate the process on a simplified fuel system model. The conversion facilitates predictive reliability analysis \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Supporting the automated generation of modular product line safety cases",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-19216-1_30",
+            "Abstract": "The effective reuse of design assets in safety-critical Software Product Lines (SPL) would require the reuse of safety analyses of those assets in the variant contexts of certification of products derived from the SPL. This in turn requires the traceability of SPL variation across design, including variation in safety analysis and safety cases. In this paper, we propose a method and tool to support the automatic generation of modular SPL safety case architectures from the information provided by SPL feature modeling and model-based safety analysis. The Goal Structuring Notation (GSN) safety case modeling notation and its modular extensions supported by the D-Case Editor were used to implement the method in an automated tool support. The tool was used to generate a modular safety case for an automotive Hybrid Braking System SPL.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Application of the D3H2 methodology for the cost-effective design of dependable systems",
+            "Publication year": 2016,
+            "Publication url": "https://www.mdpi.com/133114",
+            "Abstract": "The use of dedicated components as a means of achieving desirable levels of fault tolerance in a system may result in high costs. A cost effective way of restoring failed functions is to use heterogeneous redundancies: components that, besides performing their primary intended design function, can also restore compatible functions of other components. In this paper, we apply a novel design methodology called D3H2 (aDaptive Dependable Design for systems with Homogeneous and Heterogeneous redundancies) to assist in the systematic identification of heterogeneous redundancies, the design of hardware/software architectures including fault detection and reconfiguration, and the systematic dependability and cost assessments of the system. D3H2 integrates parameter uncertainty and criticality analyses to model inexact failure data in dependability assessment. The application to a railway case study is presented with a focus on analysing different reconfiguration strategies as well as types and levels of redundancies. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:UxriW0iASnsC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "DDI: A novel technology and innovation model for dependable, collaborative and autonomous systems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9474049/",
+            "Abstract": "Digital transformation fundamentally changes established practices in public and private sector. Hence, it represents an opportunity to improve the value creation processes (e.g., \u201cindustry 4.0\u201d) and to rethink how to address customers' needs such as \u201cdata-driven business models\u201d and \u201cMobility-as-a-Service\u201d. Dependable, collaborative and autonomous systems are playing a central role in this transformation process. Furthermore, the emergence of data-driven approaches combined with autonomous systems will lead to new business models and market dynamics. Innovative approaches to reorganise the value creation ecosystem, to enable distributed engineering of dependable systems and to answer urgent questions such as liability will be required. Consequently, digital transformation requires a comprehensive multi-stakeholder approach which properly balances technology, ecosystem and business \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:uWiczbcajpAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-Based Safety and Assessment: 5th International Symposium, IMBSA 2017, Trento, Italy, September 11\u201313, 2017, Proceedings",
+            "Publication year": 2017,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=qaUzDwAAQBAJ&oi=fnd&pg=PP6&dq=info:mVJuTUdq8WoJ:scholar.google.com&ots=aRBZH8zWiH&sig=YuevXpLNajFmTqwX2GZTKuKpP5Y",
+            "Abstract": "\u200b This book constitutes the proceedings of the 5th International Symposium on Model-Based Safety and Assessment, IMBSA 2017, held inTrento, Italy, in September 2017. The 17 revised full papers presented were carefully reviewed and selected from 29 initial submissions. The papers are organized in topical sections on safety process; safety models and languages; fault detection and propagation; safety assessment in the automotive domain; and case studies.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Non-coherent modelling in compositional fault tree analysis",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016395945",
+            "Abstract": "The inclusion of NOT gates in a fault tree creates a \u201cnon-coherent\u201d structure in which not only the failure of a component but also the negation of failure, i.e. the working state of the component, can contribute to the undesirable effects on a system. This type of non-coherent modelling remains controversial; its usefulness is still debated among academics, which explains why NOT gates have not been included in the Fault Tree Handbook. In this paper, we review work on non-coherent fault trees and highlight circumstances where non-coherent modelling is appropriate and useful. We then describe an extension to HiP-HOPS (Hierarchically Performed Hazard Origin and Propagation Studies), a recently proposed compositional safety analysis method, that enables model-based synthesis and analysis of non-coherent fault trees. A small example is given to illustrate application of the extended method and demonstrate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A translation of state machines to temporal fault trees",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5542620/",
+            "Abstract": "State Machines (SMs) are increasingly being used to gain a better understanding of the failure behaviour of safety-critical systems. In dependability analysis, SMs are translated to other models, such as Generalized Stochastic Petri Nets (GSPNs) or combinatorial fault trees. The former does not enable qualitative analysis, whereas the second allows it but can lead to inaccurate or erroneous results, because combinatorial fault trees do not capture the temporal semantics expressed by SMs. In this paper, we discuss the problem and propose a translation of SMs to temporal fault trees using Pandora, a recent technique for introducing temporal logic to fault trees, thus preserving the significance of the temporal sequencing of faults and allowing full qualitative analysis. Since dependability models inform the design of condition monitoring and failure prevention measures, improving the representation and analysis of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "System dependability modelling and analysis using AADL and HiP-HOPS",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016333870",
+            "Abstract": "The Architecture Analysis and Design Language (AADL) is gaining widespread acceptance in aerospace, automobile and avionics industries for designing dependability-critical systems. The design process of dependable systems must address both cost and dependability (safety, reliability, availability, maintainability) concerns. This requires translating concepts of the design domain to the dependability analysis domain. We automate such a translation between AADL and the dependability analysis tool HiP-HOPS by using model transformation techniques. A generic primary-standby example system is used to show the mechanics of the transformation and the potential for highlighting problems and assisting design work using this technology.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "EAST-ADL: An Architecture Description Language for",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7864549176524323540&hl=en&oi=scholarr",
+            "Abstract": "EAST-ADL is an Architecture Description Language (ADL) initially defined in several Europeanfunded research projects and aligned with AUTOSAR and ISO26262. It provides a comprehensive approach for defining automotive electronic systems through an information model that captures engineering information in a standardized form. Aspects covered include vehicle features, requirements, analysis functions, software and hardware components and communication. The representation of the system\u2019s implementation is not defined in EAST-ADL itself but by AUTOSAR. However, traceability is supported from EAST-ADL\u2019s lower abstraction levels to the implementation level elements in AUTOSAR. In this article the authors describe EAST-ADL in detail, show how it relates to AUTOSAR as well as other significant automotive standards and present recent research work on using and advancing EAST-ADL, the functional safety standard ISO 26262, heterogeneous multi/many core architectures, security and for multi-objective optimization.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Model-based distributed on-line safety monitoring",
+            "Publication year": 2011,
+            "Publication url": "https://www.researchgate.net/profile/Yiannis-Papadopoulos/publication/317721727_Model-Based_Distributed_On-line_Safety_Monitoring/links/594a88060f7e9ba3beafa3c7/Model-Based-Distributed-On-line-Safety-Monitoring.pdf",
+            "Abstract": "On-line safety monitoring, ie the tasks of fault detection and diagnosis, alarm annunciation, and fault controlling, is an essential task in the operational phase of critical systems. Although current safety monitors deliver this task to some extent, the problem of effective and timely safety monitoring is still largely unresolved. In this paper, we propose a Distributed On-line Safety Monitor (DOSM) that can achieve a range of real-time safety monitoring tasks: fault detection and diagnosis, alarm annunciation and control of hazardous failures. The monitor consists of a Multi-agent Monitoring System (MaMS) operating on a Distributed Monitoring Model (DMM) that contains reference knowledge derived from offline safety assessments, and a number of Distributed Data Structures (DDSs) that provide up-to-date sensory measurements. Guided by the knowledge contained in the DMM and real-time observations of the system provided by the DSSs, agents are hierarchically deployed and work collaboratively to integrate and deliver safety monitoring tasks, both locally at the sub-system levels and globally overseeing the overall behaviour of the system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automatic decomposition of safety integrity levels: Optimization by tabu search",
+            "Publication year": 2013,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-00848213/",
+            "Abstract": "Automotive Safety Integrity Levels (ASILs) are used by ISO 26262, the new automotive functional safety standard, to categorize the stringency of safety requirements. In the course of a hierarchical system design, ASILs are it-eratively allocated to subsystems and components. This ASIL decomposition allows for redundant elements to share the responsibility of meeting a given ASIL and finding efficient decomposition solutions has a significant, positive, impact on development costs. This paper describes a novel technique that uses Tabu Search to explore the solution space efficiently. We have applied the technique to a case study of a hybrid braking system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Supporting group maintenance through prognostics-enhanced dynamic dependability prediction",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0951832016308626",
+            "Abstract": "Condition-based maintenance strategies adapt maintenance planning through the integration of online condition monitoring of assets. The accuracy and cost-effectiveness of these strategies can be improved by integrating prognostics predictions and grouping maintenance actions respectively. In complex industrial systems, however, effective condition-based maintenance is intricate. Such systems are comprised of repairable assets which can fail in different ways, with various effects, and typically governed by dynamics which include time-dependent and conditional events. In this context, system reliability prediction is complex and effective maintenance planning is virtually impossible prior to system deployment and hard even in the case of condition-based maintenance. Addressing these issues, this paper presents an online system maintenance method that takes into account the system dynamics. The method \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:tOudhMTPpwUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An Approach to Safety Analysis of Clinical Workflows",
+            "Publication year": 2014,
+            "Publication url": "https://www.atiner.gr/journals/health/2014-1-3-4-Papadopoulos.pdf",
+            "Abstract": "A clinical workflow considers the information and processes that are involved in providing a clinical service. They are safety critical since even minor faults have the potential to propagate and consequently cause harm to a patient, or even for a patient's life to be lost. Experiencing these kinds of failures has a destructive impact on all the involved parties. Due to the large number of processes and tasks included in the delivery of a clinical service, it can be difficult to determine the individuals or the processes that are responsible for adverse events, since such an analysis is typically complex and slow to do manually. Using automated tools to carry out an analysis can help in determining the root causes of potential adverse events and consequently help in avoiding preventable errors through either the alteration of existing workflows, or the design of a new workflow. This paper describes a technical approach to safety analysis of clinical workflows, utilising a safety analysis tool (Hierarchically-Performed Hazard Origin and Propagation Studies (HiP-HOPS)) that is already in use in the field of mechanical systems. The paper then demonstrates the applicability of the approach to clinical workflows by applying it to analyse the workflow in a radiology department. We conclude that the approach is applicable to this area of healthcare and provides a mechanism both for the systematic identification of adverse events and for the introduction of possible safeguards in clinical workflows.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Model-based assessment of energy-efficiency, dependability, and cost-effectiveness of waste heat recovery systems onboard ship",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0029801818303408",
+            "Abstract": "Technological systems are not merely designed with a narrow function in mind. Good designs typically aim at reducing operational costs, e.g. through achieving high energy efficiency and improved dependability (i.e. reliability, availability and maintainability). When there is a choice of alternative design options that perform the same function, it makes sense to compare alternatives so that the variant that minimises operational costs can be selected. In this paper, we examine this issue in the context of the design of Waste Heat Recovery Systems (WHRS) for main engines of large commercial freight vessels. We propose a method that can predict the operational cost of a WHRS via thermodynamic analysis which shows costs related to energy utilisation, and dependability analysis which shows costs related to system unavailability and repair. Our approach builds on recent advances in thermodynamic simulation and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:8AbLer7MMksC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Multi-agent safety monitor",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015301221",
+            "Abstract": "On-line safety monitoring, i.e. the real-time detection, diagnosis and correction of hazardous failures, is an essential task in the operational phase of most safety-critical systems. Although current safety monitoring schemes deliver this task to some extent, the problem of effective and timely safety monitoring is still largely unresolved. In this paper, we address the safety monitoring problem through an intelligent distributed safety monitor. This monitor is based on a Multi-agent system (MAS) and uses knowledge about normal and failure operational behaviour that is derived from a systematic safety analysis process. By exploiting this knowledge and real-time observations of the target system, agents deliver a wide range of monitoring tasks which include detection, diagnosis and correction of failures, both locally and globally via MAS collaboration.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Hard real-time development environments",
+            "Publication year": 2005,
+            "Publication url": "https://research.tue.nl/en/publications/hard-real-time-development-environments",
+            "Abstract": "Hard real-time development environments \u2014 Eindhoven University of Technology research \nportal Skip to main navigation Skip to search Skip to main content Eindhoven University of \nTechnology research portal Logo Help & FAQ English Nederlands Home Researchers \nResearch Output Organisational units Activities Projects Prizes Press / Media Facilities / \nEquipment Datasets Courses Research areas Student theses Hard real-time development \nenvironments JCM Baeten, P. Baufreton, A. Benveniste, S. Boutin, B. Bouyssounouse, D. Bri\u00e8re, \nP. Caspi, W. Damm, E. Fuchs, V. Gafni, T. Gautier, D. Goshen, G. Gruensteidl, N. Halbwachs, H. \nKopetz, KG Larsen, H. Le Berre, R. Leupers, B. Nielsen, E.-R. Olderog Show 13 more Show less \nY. Papadopoulos, P. Peti, M. Pisecky, P. Puschner, J. Rennhack, A. Sangiovanni-Vincentelli, \nC. Scheidler, A. Skou, Y. Sorel, U. Virnich, B. Vogel-Heuser, R. Wilhelm, TAC Willemse Model : \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Model-based semiautomatic safety analysis of programmable systems in automotive applications",
+            "Publication year": 2001,
+            "Publication url": "https://digital-library.theiet.org/content/conferences/10.1049/cp_20010498",
+            "Abstract": "We discuss our work towards the development of a safety analysis method. The analysis in the proposed method is performed using an algorithm for the automatic synthesis of fault trees that can be applied on the system at different stages of its design. At the early stages of the design, the algorithm can generate fault trees on the basis of abstract functional specifications of the system. Mechanical analysis of those fault trees, cut-set analysis for example, can help to identify conceptual design flaws and refine the initial design. This process can then be repeated down to low levels of the hardware and software implementation. By partly mechanising the safety analysis process, the proposed method could help, we believe, in managing the increasing complexity that the automotive sector is likely to experience in safety assessments with the introduction of safety-related integrated driver assistance systems in the future.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "An Evolutionary Process for the Design of Safe Computer-based Systems",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667017361189",
+            "Abstract": "New design processes in many safety critical industries must address both cost and safety concerns and maximise the potential for automation to address the problem of increasing technological complexity. In this paper, we propose a design process in which techniques for semi-automatic safety and reliability analysis of systems are combined with multi-criteria optimisation techniques to assist the gradual development of designs that can meet reliability and safety requirements within pragmatic cost and profit constraints. The proposed process relies on tools to automate aspects of the design that we believe could be automated, and thus be simplified, without loss of the creative input brought in the process by designers.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Techniques and Tools for Automated Safety Analysis & Decision Support for Redundancy Allocation in Automative Systems",
+            "Publication year": 2003,
+            "Publication url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:258073",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A runtime safety analysis concept for open adaptive systems",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-32872-6_22",
+            "Abstract": "In the automotive industry, modern cyber-physical systems feature cooperation and autonomy. Such systems share information to enable collaborative functions, allowing dynamic component integration and architecture reconfiguration. Given the safety-critical nature of the applications involved, an approach for addressing safety in the context of reconfiguration impacting functional and non-functional properties at runtime is needed. In this paper, we introduce a concept for runtime safety analysis and decision input for open adaptive systems. We combine static safety analysis and evidence collected during operation to analyse, reason and provide online recommendations to minimize deviation from a system\u2019s safe states. We illustrate our concept via an abstract vehicle platooning system use case.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:uLbwQdceFCQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Failure mode reasoning in model based safety analysis",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-58920-2_9",
+            "Abstract": "Failure Mode Reasoning (FMR) is a novel approach for analyzing failure in a Safety Instrumented System (SIS). The method uses an automatic analysis of an SIS program to calculate potential failures in parts of the SIS. In this paper we use a case study from the power industry to demonstrate how FMR can be utilized in conjunction with other model-based safety analysis methods, such as HiP-HOPS and CFT, in order to achieve a comprehensive safety analysis of SIS. In this case study, FMR covers the analysis of SIS inputs while HiP-HOPS/CFT models the faults of logic solver and final elements. The SIS program is analyzed by FMR and the results are exported to HiP-HOPS/CFT via automated interfaces. The final outcome is the collective list of SIS failure modes along with their reliability measures. We present and review the results from both qualitative and quantitative perspectives.  ",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:2KloaMYe4IUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Model-Based Safety and Assessment: 6th International Symposium, IMBSA 2019, Thessaloniki, Greece, October 16\u201318, 2019, Proceedings",
+            "Publication year": 2019,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=fm21DwAAQBAJ&oi=fnd&pg=PP6&dq=info:A8YjcGSoh1kJ:scholar.google.com&ots=0mojLLjQBX&sig=x5_kjgX9e_XCDSAivBIiIAJpxYo",
+            "Abstract": "This book constitutes the proceedings of the 6th International Symposium on Model-Based Safety and Assessment, IMBSA 2019, held inThessaloniki, Greece, in October 2019. The 24 revised full papers presented were carefully reviewed and selected from 46 initial submissions. The papers are organized in topical sections on safety models and languages; dependability analysis process; safety assessment; safety assessment in automotive industry; AI in safety assessment.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "INCLUDING SYSTEMATIC FAULTS INTO FAULT TREE ANALYSIS",
+            "Publication year": 2006,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-00348072/",
+            "Abstract": "Fault Tree Analysis (FTA) is a technique widely used for fault forecasting of physical systems. Although FTA is considered a well established safety analysis technique, paradoxically classical Fault Trees include only random faults. However, in modern automated systems, undesirable events arise not only from random hardware faults but also from defects in the logic of software controllers that control the physical system. Faults generated by these software controllers are systematic faults caused by coding errors or misinterpretations of control requirements. This paper proposes an extension to the basic Fault Trees construction process which takes into account this category of faults and advocates the use of dynamic and temporal gates to model it.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "2006-01-1332 Component Failure Behavior: Patterns and Reuse in Automated System Safety Analysis",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5476682087064093166&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "AMERICAN TECHNICAL PUBLISHERS LTD"
+        },
+        {
+            "Title": "TIMAEUS: Three-dimensional Illuminated Media Augmented Sculptures",
+            "Publication year": 2017,
+            "Publication url": "https://www.academia.edu/download/66052945/YiannisPapadopoulos_McKie_3_.pdf",
+            "Abstract": "In this paper, we discuss the background, inspiration and current state of Timaeus, a digital art studio environment that enables the creation of personalised 3-dimensional sculptures built with expanding and interconnected volumes of atomic blocks.Timaeus sculptures can be customised with media, eg, pictures, videos and music which are overlaid or seeded in the sculpture. Media can represent memories or more generally facts, including live internet feeds that can be used to create artistic narratives in space. Such facts are embedded in the sculpture and can be experienced in different ways with the capability of zooming in and out, rotating, viewing from different angles, and applying sounds and soundtracks. Sculptures are hollow and translucent. They can be illuminated, and the space that they enclose can be viewed internally. TIMAEUS incorporates generative components. Features of images, videos or music can be algorithmically extracted and used to modify the shape or movement of a perpetually mutating or dancing sculpture where these media have been applied.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An outline of an architecture-based method for optimizing dependability attributes of software-intensive systems",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74035-3_9",
+            "Abstract": "Dependability requirements such as safety and availability often conflict with one another making the development of dependable systems challenging. It is not always possible to design a system that fulfils all of its dependability requirements and consequently, it is necessary to identify conflicts early in the development process and to optimize the architectural design with regard to dependability and cost. This paper first provides an overview of fifteen different approaches to optimizing system designs at an architectural level. Then an abstract method is proposed that synthesises the main points of the different approaches to yield a generic approach that could be applied across a wide variety of different system attributes.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A model-based approach to support the automatic safety analysis of multiple product line products",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7091158/",
+            "Abstract": "Software product lines (SPL) have been successfully used in the development of automotive and avionics critical embedded systems. Hazards and their causes may change according to the selection of variants in a particular SPL product. Thereby, lower-level assets like fault trees and FMEA (Failure Modes and Effects Analysis) cannot be reused because they are dependent upon the selection of product variants. In this paper, model-based safety analysis techniques and SPL variability management tools are used together to reduce the effort of product safety analysis by: reusing SPL hazard analysis, and providing automatic safety analysis for each SPL product. Therefore, we propose a model-based approach to support the generation of safety analysis assets for multiple safety-critical SPL products. The proposed approach is illustrated using the Hephaestus variability management tool and the HiP-HOPS model \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-based safety analysis of software product lines",
+            "Publication year": 2016,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2016.080387",
+            "Abstract": "Software product lines (SPLs) provide an engineering basis for the systematic reuse of artefacts used for development, assessment, and management of critical embedded systems. Hazards and their causes are safety properties that may change according to the selection of variants in a particular SPL product. Therefore, safety analysis assets such as fault trees and failure modes and effects analysis (FMEA) cannot be directly reused because they are dependent upon the selection of product variants. In this paper, model-based safety analysis techniques and SPL variability management tools are used together to reduce the effort of product safety analysis by: reusing SPL hazard analysis, and providing automatic safety analysis for each SPL product. The benefit of applying the approach is the reduction of effort to perform product safety analysis. The proposed approach is illustrated using the Hephaestus variability \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "A language for failure patterns and application in safety analysis",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4573039/",
+            "Abstract": "Components and families of components in mechatronic systems often exhibit failure characteristics that are independent of system context and repeatable across applications. In this paper, we show that it is possible to capture and reuse such patterns for the purposes of system safety analysis. We describe a language that enables expression of failure behaviour and describe a number of useful patterns in this language. The paper shows how careful reuse of failure patterns in conjunction with a tool that automates Fault Tree and Failure Modes and Effects Analysis can help to simplify complex safety assessments.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An approach to optimization of fault tolerant architectures using HiP-HOPS",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15539987065600008269&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Variability management in safety-critical software product line engineering",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-90421-4_1",
+            "Abstract": " Safety-critical systems developed upon SPLE approach have to address safety standards, which establish guidance for analyzing and demonstrating dependability properties of the system at different levels of abstraction. However, the adoption of an SPLE approach for developing safety-critical systems demands the integration of safety engineering into SPLE processes. Thus, variability management in both system design and dependability analysis should be considered through SPLE life-cycle. Variation in design and context may impact on dependability properties during Hazard Analysis and Risk Assessment (HARA), allocation of functional and non-functional safety requirements, and component fault analysis. This paper presents DEPendable-SPLE, a model-based approach that extends traditional SPLE methods, to support variability modeling/management in dependability analysis. The approach \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A hierarchical method for the reduction of temporal expressions in pandora",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1772630.1772634",
+            "Abstract": "Fault Tree Analysis (FTA) is a popular safety analysis technique used to determine the logical combination of events needed to cause a particular system failure. However, FTA is purely combinatorial and cannot analyse the effects of sequences of events. A recent technique named Pandora was proposed as one method of overcoming this limitation by introducing a temporal logic to fault trees, but the resulting expressions are generally more complex. In this paper, we propose a hierarchical method for reducing these expressions to simpler logical equivalents, which can be more easily understood and thus provide a better view of the system failure behaviour.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automatic optimisation of system architectures using EAST-ADL",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121213000885",
+            "Abstract": "There are many challenges which face designers of complex system architectures, particularly safety\u2013critical or real-time systems. The introduction of Architecture Description Languages (ADLs) has helped to meet these challenges by consolidating information about a system and providing a platform for modelling and analysis capabilities. However, managing this wealth of information can still be problematic, and evaluation of potential design decisions is still often performed manually. Automatic architectural optimisation can be used to assist this decision process, enabling designers to rapidly explore many different options and evaluate them according to specific criteria. In this paper, we present a multi-objective optimisation approach based on EAST-ADL, an ADL in the automotive domain, with the goal of combining the advantages of ADLs and architectural optimisation. The approach is designed to be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Experience from application of semi-automatic fault tree synthesis to reliability and availability analysis of ship systems",
+            "Publication year": 2012,
+            "Publication url": "https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE12/All-ISOPE12/ISOPE-I-12-627/13068",
+            "Abstract": "The increasing complexity and scale of ship machinery systems pose significant challenges to failure analysis. There is a tendency to optimize systems via the introduction of new technologies in order to achieve, for example, improved energy efficiency or expand the operation area to extreme environments. Although such improvements are welcome, they typically also cause significant design changes that need to be supported by dedicated reliability and availability analysis. Recently, substantial work towards addressing these challenges has resulted in semi-automatic approaches to the synthesis of system failure prediction models, such as fault trees. This paper presents, with the help of application examples, the experience gained from the use of the semi-automatic fault tree synthesis method and tool \u201cHierarchically Performed Hazard Origin & Propagation Studies\u201d(HiP-HOPS) together with the simulation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "OnePetro"
+        },
+        {
+            "Title": "SafeML: Safety Monitoring of Machine Learning Classifiers Through Statistical Difference Measures",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-58920-2_13",
+            "Abstract": "Ensuring safety and explainability of machine learning (ML) is a topic of increasing relevance as data-driven applications venture into safety-critical application domains, traditionally committed to high safety standards that are not satisfied with an exclusive testing approach of otherwise inaccessible black-box systems. Especially the interaction between safety and security is a central challenge, as security violations can lead to compromised safety. The contribution of this paper to addressing both safety and security within a single concept of protection applicable during the operation of ML systems is active monitoring of the behavior and the operational context of the data-driven system based on distance measures of the Empirical Cumulative Distribution Function (ECDF). We investigate abstract datasets (XOR, Spiral, Circle) and current security-specific datasets for intrusion detection (CICIDS2017) of simulated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:evX43VCCuoAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Automating allocation of development assurance levels: an extension to HiP-HOPS",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896315007053",
+            "Abstract": "Controlling the allocation of safety requirements across a system's architecture from the early stages of development is an aspiration embodied in numerous major safety standards. Manual approaches of applying this process in practice are ineffective due to the scale and complexity of modern electronic systems. In the work presented here, we aim to address this issue by presenting an extension to the dependability analysis and optimisation tool, HiP-HOPS, which allows automatic allocation of such requirements. We focus on aerospace requirements expressed as Development Assurance Levels (DALs); however, the proposed process and algorithms can be applied to other common forms of expression of safety requirements such as Safety Integrity Levels. We illustrate application to a model of an aircraft wheel braking system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Model-based functional safety analysis and architecture optimisation",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/content/76951",
+            "Abstract": "The scale and complexity of computer-based safety critical systems pose significant challenges in the safety analysis of such systems. In this chapter, the authors discuss two approaches that define the state of the art in this area: failure logic modelling and behavioural modelling safety analyses. They also focus on Hierarchically Performed Hazard Origin and Propagation Studies (HiP-HOPS)\u2014one of the advanced failure logic modelling approaches\u2014and discuss its scientific and practical contributions. These include a language for specification of inheritable and reusable component failure patterns, a temporal logic that enables assessment of sequences of faults in safety analysis as well as algorithms for top-down allocation of safety requirements to components during design, bottom-up verification via automatic synthesis of Fault Trees and Failure Modes and Effects Analyses, and dependability versus cost \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "Dedicated Modeling Support for the Automotive Functional Safety Standard",
+            "Publication year": 2010,
+            "Publication url": "http://www.cse.chalmers.se/edu/year/2013/course/DAT220/Documents/Literature/EAST-ADL_FunctionalSafety.pdf",
+            "Abstract": "The ISO/DIS 26262 standard on functional safety for road vehicles has a wide implication on the need for information exchange among partners in the automotive domain. As most development today is distributed among several companies and departments, it is important that all information exchange is precise enough to enable the OEM to take full responsibility of the entire functional safety. Still, there is also a need to protect Intellectual Property, because giving away detailed design information may jeopardize the commercial advantage for a company. The solution to this dilemma is a dedicated language for exchanging exactly the needed information in an unambiguous way. In ISO/DIS 26262 there is a standardized reference life cycle in which information should be generated and communicated in each phase. In this paper we show how dedicated language support can facilitate this in the distributed automotive industry structure of today. All phases are covered, but this paper has a special focus on the needs for the concept phase. The dedicated language support is a part of the EAST-ADL2 language. EASTADL2 is an AUTOSAR compliant architectural language covering the more abstract views of an automotive E/E system. It is an extendable modular language giving the possibility to add dedicated packages for special purposes. This paper describes the module of EAST-ADL2 dedicated for ISO/DIS 26262 support",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computer Software & Applications",
+            "Publication year": 2005,
+            "Publication url": "https://koasas.kaist.ac.kr/handle/10203/15961",
+            "Abstract": "DSpace at KOASAS: Special issue: Computer Software & Applications KOASAS menu About \nKOASAS KAIST Library \uac80\uc0c9 Advanced Search Browse Communities & Collections Researchers \nat KAIST Titles Subject By Date rss_1.rss_2.atom_1.sherpa SEARCH DSpace at KOASAS \nCollege of Engineering(\uacf5\uacfc\ub300\ud559)School of Computing(\uc804\uc0b0\ud559\ubd80)CS-Journal Papers(\uc800\ub110\ub17c\ubb38) \nSpecial issue: Computer Software & Applications Cited 0 time in webofscience Cited 0 time in \nscopus Hit : 197 Download : 2 Export DC(XML) Excel Bae, Doo-Hwanresearcher Publisher \nELSEVIER SCIENCE INC Issue Date 2005-04 Language English Article Type Editorial Material \nCitation JOURNAL OF SYSTEMS AND SOFTWARE, v.76, no.1, pp.1 - 2 ISSN 0164-1212 \nURI http://hdl.handle.net/10203/15961 Appears in Collection CS-Journal Papers(\uc800\ub110\ub17c\ubb38\n) Files in This Item Display Full Item Record qr_code \ud2b8\uc717\ud558\uae30 mendeley citeulike Items -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "ELSEVIER SCIENCE INC"
+        },
+        {
+            "Title": "Integrating model checking with HiP-HOPS in model-based safety analysis",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0951832014002725",
+            "Abstract": "The ability to perform an effective and robust safety analysis on the design of modern safety\u2013critical systems is crucial. Model-based safety analysis (MBSA) has been introduced in recent years to support the assessment of complex system design by focusing on the system model as the central artefact, and by automating the synthesis and analysis of failure-extended models. Model checking and failure logic synthesis and analysis (FLSA) are two prominent MBSA paradigms. Extensive research has placed emphasis on the development of these techniques, but discussion on their integration remains limited. In this paper, we propose a technique in which model checking and Hierarchically Performed Hazard Origin and Propagation Studies (HiP-HOPS) \u2013 an advanced FLSA technique \u2013 can be applied synergistically with benefit for the MBSA process. The application of the technique is illustrated through an example \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:a0OBvERweLwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Improved dynamic dependability assessment through integration with prognostics",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7924411/",
+            "Abstract": "The use of average data for dependability assessments results in an outdated system-level dependability estimation, which can lead to incorrect design decisions. With increasing availability of online data, there is room to improve traditional dependability assessment techniques. Namely, prognostics is an emerging field, which provides asset-specific failure information that can be reused to improve the system-level failure estimation. This paper presents a framework for prognostics-updated dynamic dependability assessment. The dynamic behavior comes from runtime updated information, asset interdependencies, and time-dependent system behavior. A case study from the power generation industry is analyzed, and results confirm the validity of the approach for improved near real-time unavailability estimations.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-based on-line monitoring using a state sensitive fault propagation model",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45732-1_23",
+            "Abstract": "As the safety analyses of critical systems typically cease or reduce in their utility after system certification useful knowledge about the behaviour of the system in conditions of failure remains unused in the operational phase of the system lifecycle. In this paper, we show that this knowledge could be usefully exploited in the context of an on- line hazard-directed monitoring scheme in which a suitable specification derived from design models and safety analyses forms a reference monitoring model. As a practical application of this approach, we propose a safety monitor that can operate on such models to support the on-line detection, diagnosis and control of hazardous failures in real-time. We discuss the development of the monitoring model and report on a case study that we performed on a laboratory model of an aircraft fuel system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:4DMP91E08xMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dynamic Fault Tree Analysis: State-of-the-Art in Modeling, Analysis, and Tools",
+            "Publication year": 2020,
+            "Publication url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9780429268922-4/dynamic-fault-tree-analysis-koorosh-aslansefat-sohag-kabir-youcef-gheraibia-yiannis-papadopoulos",
+            "Abstract": "Safety and reliability are two important aspects of dependability that are needed to be rigorously evaluated throughout the development life-cycle of a system. Over the years, several methodologies have been developed for the analysis of failure behavior of systems. Fault tree analysis (FTA) is one of the well-established and widely used methods for safety and reliability engineering of systems. Fault tree, in its classical static form, is inadequate for modeling dynamic interactions between components and is unable to include temporal and statistical dependencies in the model. Several attempts have been made to alleviate the aforementioned limitations of static fault trees (SFT). Dynamic fault trees (DFT) were introduced to enhance the modeling power of its static counterpart. In DFT, the expressiveness of fault tree was improved by introducing new dynamic gates. While the introduction of the dynamic gates helps to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:VLnqNzywnoUC",
+            "Publisher": "CRC Press"
+        },
+        {
+            "Title": "Model-driven safety evaluation with state-event-based component failure annotations",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11424529_3",
+            "Abstract": "Over the past years, the paradigm of component-based software engineering has been established in the construction of complex mission-critical systems. Due to this trend, there is a practical need for techniques that evaluate critical properties (such as safety, reliability, availability or performance) of these systems. In this paper, we review several high-level techniques for the evaluation of safety properties for component-based systems and we propose a new evaluation model (State Event Fault Trees) that extends safety analysis towards a lower abstraction level. This model possesses a state-event semantics and strong encapsulation, which is especially useful for the evaluation of component-based software systems. Finally, we compare the techniques and give suggestions for their combined usage.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Safety-directed system monitoring using safety cases",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.58.9941&rep=rep1&type=pdf",
+            "Abstract": "Currently, the safety studies of the system (which are also collectively known as the safety case) cease or reduce in their utility after system certification, and with that, a vast amount of knowledge about the failure (or safe) behaviour of the system is usually rendered useless. In this thesis, we argue that this knowledge could be usefully exploited in the context of an appropriate on-line safety monitoring scheme. As a practical application of our approach, we propose a safety monitor that operates on safety cases to support the on-line detection and control of hazardous failures in safety critical systems. Firstly, we identify a number of problems encountered in the development of safety cases using classical safety analysis techniques, and propose a new safety analysis method which can guarantee the consistency and improve, to some extent, the completeness and correctness of the safety case. The new method enables the assessment of hierarchically described complex systems that may exhibit either static or dynamic behaviour or structure. The assessment process in the proposed method revolves around a hierarchical structural and behavioural model of the system under examination. The result of the assessment is a semi-mechanically synthesised, well-formed, layered, safety case, which is composed of a collection of inter-related design models and safety analyses, and which enables automated checks that confirm the consistent integration of those models and analyses. We show that such a safety case can be mechanically transformed into an executable specification, upon which an automated monitor could operate in real-time.In the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automating aspects of safety design in comtemporary automotive systems",
+            "Publication year": 2004,
+            "Publication url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:243639",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pandora 2: The time of priority-OR gates",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015310909",
+            "Abstract": "Pandora is a recently proposed technique that extends classical Fault Tree Analysis to incorporate the effects of the temporal ordering of failure events. In this paper, we extend the conceptual foundation of Pandora with a new Priority-OR (POR) gate and we introduce the concept of a Temporal Truth Table as a mechanism that can be used to prove equivalence of expressions in Pandora logic. We also show how logical reduction can be performed using a set of temporal laws in the new logic and how such analysis can enrich the results of an extended FTA performed on a generic example that exhibits both PAND and POR failure characteristics.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Dynamic reliability assessment of flare systems by combining fault tree analysis and Bayesian networks",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/15567036.2019.1670287",
+            "Abstract": "Flaring is a combustion process commonly used in the oil and gas industry to dispose flammable waste gases. Flare flameout occurs when these gases escape unburnt from the flare tip causing the discharge of flammable and/or toxic vapor clouds. The toxic gases released during this process have the potential to initiate safety hazards and cause serious harm to the ecosystem and human health. Flare flameout could be caused by environmental conditions, equipment failure, and human error. However, to better understand the causes of flare flameout, a rigorous analysis of the behavior of flare systems under failure conditions is required. In this article, we used fault tree analysis (FTA) and the dynamic Bayesian network (DBN) to assess the reliability of flare systems. In this study, we analyzed 40 different combinations of basic events that can cause flare flameout to determine the event with the highest impact on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Part 2-Architectural Components and Patterns-An Outline of an Architecture-Based Method for Optimizing Dependability Attributes of Software-Intensive Systems",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2388447955434743530&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Generalizable safety annotations for specification of failure patterns",
+            "Publication year": 2010,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.966",
+            "Abstract": "Components in programmable systems often exhibit patterns of failure that are independent of function or system context. In this paper, we show that it is possible to capture, and reuse where appropriate, such patterns for the purposes of system safety analysis. We describe a language that enables abstract specification of failure behaviour and define the syntax and semantics of this language. The language extends concepts originally defined in HiP\u2010HOPS, a technique that enables a largely automated form of compositional system safety analysis. The paper describes how this language can be used to describe component failure patterns and demonstrates how it can be applied using a simple fuel system example. The approach is evaluated on a set of retrospective industrial case studies, where data\u2010mining and reverse engineering techniques are applied in order to identify hidden patterns in legacy safety \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "A Runtime Safety Analysis Concept for Open Adaptive Systems",
+            "Publication year": 2019,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=fm21DwAAQBAJ&oi=fnd&pg=PA332&dq=info:OKdzeE1Cp_8J:scholar.google.com&ots=0mojLLjQBZ&sig=dO9fSCbDw_UfVSCFo5mXIGUG05U",
+            "Abstract": "In the automotive industry, modern cyber-physical systems feature cooperation and autonomy. Such systems share information to enable collaborative functions, allowing dynamic component integration and architecture reconfiguration. Given the safety-critical nature of the applications involved, an approach for addressing safety in the context of reconfiguration impacting functional and non-functional properties at runtime is needed. In this paper, we introduce a concept for runtime safety analysis and decision input for open adaptive systems. We combine static safety analysis and evidence collected during operation to analyse, reason and provide online recommendations to minimize deviation from a system\u2019s safe states. We illustrate our concept via an abstract vehicle platooning system use case.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:W5xh706n7nkC",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "Exploring the impact of different cost heuristics in the allocation of safety integrity levels",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-12214-4_6",
+            "Abstract": "Contemporary safety standards prescribe processes in which system safety requirements, captured early and expressed in the form of Safety Integrity Levels (SILs), are iteratively allocated to architectural elements. Different SILs reflect different requirements stringencies and consequently different development costs. Therefore, the allocation of safety requirements is not a simple problem of applying an allocation \"algebra\" as treated by most standards; it is a complex optimisation problem, one of finding a strategy that minimises cost whilst meeting safety requirements. One difficulty is the lack of a commonly agreed heuristic for how costs increase between SILs. In this paper, we define this important problem; then we take the example of an automotive system and using an automated approach show that different cost heuristics lead to different optimal SIL allocations. Without automation it would have been \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Fuzzy temporal fault tree analysis of dynamic systems",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0888613X16300743",
+            "Abstract": "Fault tree analysis (FTA) is a powerful technique that is widely used for evaluating system safety and reliability. It can be used to assess the effects of combinations of failures on system behaviour but is unable to capture sequence dependent dynamic behaviour. A number of extensions to fault trees have been proposed to overcome this limitation. Pandora, one such extension, introduces temporal gates and temporal laws to allow dynamic analysis of temporal fault trees (TFTs). It can be easily integrated in model-based design and analysis techniques. The quantitative evaluation of failure probability in Pandora TFTs is performed using exact probabilistic data about component failures. However, exact data can often be difficult to obtain. In this paper, we propose a method that combines expert elicitation and fuzzy set theory with Pandora TFTs to enable dynamic analysis of complex systems with limited or absent \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Comparing automatic allocation of safety integrity levels in the aerospace and automotive domains",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896316302270",
+            "Abstract": "Safety standards guide the development of systems whose operation raises concerns about safety. We focus our attention on the automotive and aerospace standards, ISO 26262 and ARP4754-A respectively. Both standards advocate a process for controlled allocation of safety integrity requirements that starts early in the design and continues as the system architecture is being refined. This procedure may generate a plethora of feasible design variants, all satisfying system safety requirement, but each having different allocations of integrity to components and different costs. In this paper, we describe a model-based safety analysis method for automating this allocation process in a way that cost-optimal design variants are selected. We show that the proposed method is generic and can satisfy both the automotive and aerospace safety standards with application to both industries. We apply the method using both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Semi automatic failure analysis based on simulation models",
+            "Publication year": 2008,
+            "Publication url": "https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2008/265/331096",
+            "Abstract": "Classical risk assessment and risk management which is gaining importance in many industries is usually based on well defined processes and uses techniques like FTA and FMEA. However, classical risk analysis techniques like FTA and FMEA should ideally be automated, at least to some extent and without loss of effectiveness, to enable fast and cost effective iterations of system modelling and risk analysis that can meet the tight cost and time constraints of most offshore projects. This paper is focused on the presentation of a new concept and tool extension for model-based synthesis of fault trees and FMEAs in which these failure analyses are automatically constructed from engineering design models, e.g. simulation models that have been augmented with information about the local propagation of failures. The simulation model is developed in the commercial system modelling tool SimulationX. The proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Qualitative temporal analysis: Towards a full implementation of the Fault Tree Handbook",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S096706610800186X",
+            "Abstract": "The Fault Tree Handbook has become the de facto standard for fault tree analysis (FTA), defining the notation and mathematical foundation of this widely used safety analysis technique. The Handbook recognises that classical combinatorial fault trees employing only Boolean gates cannot capture the potentially critical significance of the temporal ordering of failure events in a system. Although the Handbook proposes two dynamic gates that could remedy this, a Priority-AND and an Exclusive-OR gate, these gates were never accurately defined. This paper proposes extensions to the logical foundation of fault trees that enable use of these dynamic gates in an extended and more powerful FTA. The benefits of this approach are demonstrated on a generic triple-module standby redundant system exhibiting dynamic behaviour.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "DEIS: dependability engineering innovation for industrial CPS",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-66972-4_13",
+            "Abstract": "The open and cooperative nature of Cyber-Physical Systems (CPS) poses new challenges in assuring dependability. The DEIS project (Dependability Engineering Innovation for automotive CPS. This project has received funding from the European Union\u2019s Horizon 2020 research and innovation programme under grant agreement No 732242, see                    http://www.deis-project.eu                                    ) addresses these challenges by developing technologies that form a science of dependable system integration. In the core of these technologies lies the concept of a Digital Dependability Identity (DDI) of a component or system. DDIs are modular, composable, and executable in the field facilitating (a) efficient synthesis of component and system dependability information over the supply chain and (b) effective evaluation of this information in-the-field for safe and secure composition of highly distributed and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Can aquatic flightless birds allocate automotive safety requirements?",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7397214/",
+            "Abstract": "Many emerging safety standards use the concept of Safety Integrity Levels (SILs) for guiding designers on how to specify system safety requirements and then allocate these requirements to elements of the system architecture. These standards include the new automotive safety standard ISO 26262 in which SILs are called automotive SILs (or ASILs) and these will be used to illustrate the application of the techniques presented in this paper. In this paper, we propose a new approach in which the allocation of ASILs is performed by a new nature-inspired metaheuristic known as Penguins Search Optimisation Algorithm (PeSOA). PeSOA mimics the collaborative hunting strategy of penguins, using the metaphor of oxygen reserves as a search intensification operator. This allows the penguins to preserve energy, consuming it only in areas of the search space that are rich in good solutions. The performance of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "IACoB-SA: An approach towards integrated safety assessment",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6042514/",
+            "Abstract": "Model-Based Safety Analysis (MBSA) techniques have been introduced to address the challenges arising from the increasing scale and complexity of modern safety critical systems. Focus has been placed on automating the synthesis and analysis of failure-extended models. The two most prominent paradigms in MSBA are the Compositional Safety Analysis (CSA) and Behavioural Safety Analysis (BSA). These techniques have emerged with little integration and often viewed as competing alternatives. In this paper, we propose a technique in which the application of CSA and BSA can be synergistically combined. The results from CSA can provide the basis for systematic construction and refinement of state machines, which can be verified through BSA. The application of the proposed approach is illustrated through an example of an aircraft wheel-brake system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "WAP: digital dependability identities",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7381825/",
+            "Abstract": "Cyber-Physical Systems (CPS) provide enormous potential for innovation but a precondition for this is that the issue of dependability has been addressed. This paper presents the concept of a Digital Dependability Identity (DDI) of a component or system as foundation for assuring the dependability of CPS. A DDI is an analyzable and potentially executable model of information about the dependability of a component or system. We argue that DDIs must fulfill a number of properties including being universally useful across supply chains, enabling off-line certification of systems where possible, and providing capabilities for in-field certification of safety of CPS. In this paper, we focus on system safety as one integral part of dependability and as a practical demonstration of the concept, we present an initial implementation of DDIs in the form of Conditional Safety Certificates (also known as ConSerts). We explain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Engineering of Runtime Safety Monitors for Cyber-Physical Systems with Digital Dependability Identities",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-54549-9_1",
+            "Abstract": "Cyber-Physical Systems (CPS) harbor the enormous potential for societal improvement in terms of safety, comfort and economic efficiency. However, these benefits will only be unlocked if the safety of these systems can be assured with a sufficient level of confidence. Traditional safety engineering and assurance approaches alone cannot address the CPS-inherent uncertainties and unknowns induced by openness and adaptivity. Runtime safety assurance approaches such as Conditional Safety Certificates (ConSerts) represent novel means to cope with CPS assurance challenges by introducing modular and formalized safety arguments with variant support, thereby shifting the final safety certification step to runtime. However, the systematic engineering of ConSerts at design-time is a complex task which, up to now, has not been sufficiently addressed. Without systematic safety assurance at both design-time and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:-_dYPAW6P2MC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Achieving tradeoffs between functionality and safety in early system design",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667016374432",
+            "Abstract": "In this paper, we propose a novel method that helps designers to form design concepts that achieve optimal tradeoffs among functionality, cost and safety early in the design. The method combines genetic algorithms with preliminary risk analysis and is largely automated thus satisfying the preconditions for application in complex systems. A Pareto multi-objective optimisation approach helps to generate a set of design concepts that represent optimal solutions for different levels of expenditure and risk, while the final decision on which design concepts are most promising is left to humans.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Automatic optimisation of system architectures using EAST-ADL",
+            "Publication year": 2013,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-00846268/",
+            "Abstract": "With today's highly complex embedded systems, it is becoming increasingly difficult to find design solutions that meet all functional and non-functional requirements, such as performance, dependability and cost. In addition, there is often not a single optimal solution but a conflict of goals between requirements leads to a set of so-called Pareto optima. Such a multi-objective optimisation has received increasing attention in research and practice over the past few years. This paper presents current research in progress on developing a comprehensive optimisation approach that incorporates a flexible number of ob-jectives together with the corresponding external analyses for evaluating them and uses only a single system model as information repository for all objectives and analyses. This central model is defined using the modelling language EAST-ADL, an architecture description language for the automotive domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Engineering failure analysis and design optimisation with HiP-HOPS",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1350630710001779",
+            "Abstract": "The scale and complexity of computer-based safety critical systems, like those used in the transport and manufacturing industries, pose significant challenges for failure analysis. Over the last decade, research has focused on automating this task. In one approach, predictive models of system failure are constructed from the topology of the system and local component failure models using a process of composition. An alternative approach employs model-checking of state automata to study the effects of failure and verify system safety properties.In this paper, we discuss these two approaches to failure analysis. We then focus on Hierarchically Performed Hazard Origin & Propagation Studies (HiP-HOPS) \u2013 one of the more advanced compositional approaches \u2013 and discuss its capabilities for automatic synthesis of fault trees, combinatorial Failure Modes and Effects Analyses, and reliability versus cost optimisation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Systems engineering for time triggered architectures",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15040593041341608119&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:ipzZ9siozwsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "EAST-ADL: An architecture description language for automotive software-intensive systems",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/chapter/content/76970",
+            "Abstract": "EAST-ADL is an Architecture Description Language (ADL) initially defined in several European-funded research projects and subsequently refined and aligned with the more recent AUTOSAR automotive standard. It provides a comprehensive approach for defining automotive electronic systems through an information model that captures engineering information in a standardized form. Aspects covered include vehicle features, requirements, analysis functions, software and hardware components, and communication. The representation of the system\u2019s implementation is not defined in EAST-ADL itself but by AUTOSAR. However, traceability is supported from EAST-ADL\u2019s lower abstraction levels to the implementation level elements in AUTOSAR. In this chapter, the authors describe EAST-ADL in detail, show how it relates to AUTOSAR as well as other significant automotive standards, and present current research \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:TQgYirikUcIC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "An Integrated Approach to Support the Process-Based Certification of Variant-Intensive Systems",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-58920-2_12",
+            "Abstract": "Component-based approaches and software product lines have been adopted by industry to manage the diversity of configurations on safety-critical software. Safety certification demands compliance with standards. ISO 26262 standard uses the concept of Automotive Safety Integrity Level (ASIL) to allocate safety requirements to components of a system under design. Compliance with standards is demonstrated through achieving those ASILs which can be very expensive when requirements are high. While achieving safety certification of variant-intensive components without being unnecessarily stringent or expensive is desirable for economy, it poses challenges to safety engineering. In this paper, we propose an approach to manage the diversity of safety goals and supporting safety certification of software components. Our approach is built upon the integration among ASIL decomposition, software process \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Systems engineering of time-triggered architectures-The SETTA approach",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667017367277",
+            "Abstract": "SETTA addresses the systems engineering of safety-critical distributed real\u00actime systems with a special focus on time-triggered architectures. An innovative meth\u00acodology and a corresponding engineering environment is developed which aims for a higher maturity at early development steps. Key features are the support for a virtual systems integration and the tighter interconnection between the functional development process and the safety analysis process. The supporting tool components are designed and implemented in the course of the SETTA project. The methodology is evaluated by pilot applications from the automotive, aerospace, and railway domain.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Evolving car designs using model-based automated safety analysis and optimisation techniques",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S016412120400130X",
+            "Abstract": "Development processes in the automotive industry need to evolve to address increasing demands for integration of car functions over common networked infrastructures. New processes must address cost and safety concerns and maximize the potential for automation to address the problem of increasing technological complexity. In this paper, we propose a design process in which techniques for semi-automatic safety and reliability analysis of systems models are combined with multi-objective optimisation techniques to assist the gradual development of designs that can meet reliability and safety requirements and maximise profit within pragmatic development cost constraints. The proposed process relies on tools to automate some aspects of the design that we believe could be automated and thus simplified without loss of the creative input brought in the process by designers.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A model-based extension to HiP-HOPS for dynamic fault propagation studies",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-64119-5_11",
+            "Abstract": " HiP-HOPS is a model-based approach for assessing the dependability of safety-critical systems. The method combines models, logic, probabilities and nature-inspired algorithms to provide advanced capabilities for design optimisation, requirement allocation and safety argument generation. To deal with dynamic systems, HiP-HOPS has introduced temporal operators and a temporal logic to represent and assess event sequences in component failure modelling. Although this approach has been shown to work, it is not entirely consistent with the way designers tend to express operational dynamics in models which show mode and state sequences. To align HiP-HOPS better with typical design techniques, in this paper, we extend the method with the ability to explicitly consider different modes of operation. With this added capability HiP-HOPS can create and analyse temporal fault trees from architectural \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Effective multicriteria redundancy allocation via model-based safety analysis",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015403428",
+            "Abstract": "The design of safety critical systems that meet dependability (e.g. safety and reliability) criteria is a hard combinatorial problem and there is a need for tools that make use of systematic optimisation algorithms to provide technological assistance. This paper describes a method that combines a Pareto-based multi-objective genetic algorithm with an automated safety analysis process. The aim is to automatically evolve an initial design, which does not meet dependability requirements, to produce a selection of trade-off designs that fulfil such requirements with minimal costs. For the purposes of demonstration, the general problem of dependability optimisation has been constrained to one of optimal redundancy allocation and the approach has been applied to a benchmark problem with results that represent improvement to those reported in earlier works.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Pandora: The time of priority-AND gates",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015358547",
+            "Abstract": "Classical Fault Tree Analysis (FTA) can determine the effects of combinations of failure events on a system but cannot capture the significance of the temporal ordering of events, which may be critical. In this paper, we propose a temporal extension based on formal definition and use of Priority AND gates to allow relative temporal ordering and analysis of temporal relationships in FTA. In this work, the classical notion of minimal cut-sets is replaced with the notion of minimal cut-sequences and a methodology is proposed for qualitative analysis of temporal fault trees and the derivation of minimal cut-sequences. The approach is demonstrated on a generic two stage standby recovery system. The paper tentatively concludes that this type of temporal FTA can provide a more precise and ultimately more correct insight into the failure behaviour of a system.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Evolving car designs using model-based automated safety analysis and optimisation techniques",
+            "Publication year": 2004,
+            "Publication url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:243627",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Model-based dependability analysis: State-of-the-art, challenges, and future outlook",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780128023013000120",
+            "Abstract": "Over the past two decades, the study of model-based dependability analysis (MBDA) has gathered significant research interest. Different approaches have been developed to automate and address various limitations of classical dependability techniques to contend with the increasing complexity and challenges of modern safety-critical system. Two leading paradigms have emerged, one which constructs predictive system failure models from component failure models compositionally using the topology of the system. The other utilizes design models\u2014typically state automata\u2014to explore system behavior through fault injection. This chapter reviews a number of prominent techniques under these two paradigms, and provides an insight into their working mechanism, applicability, strengths, and challenges, as well as recent developments within these fields. We also discuss the emerging trends on integrated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "Title": "PeSOA: penguins search optimisation algorithm for global optimisation problems",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1809.09895",
+            "Abstract": "This paper develops Penguin search Optimisation Algorithm (PeSOA), a new metaheuristic algorithm which is inspired by the foraging behaviours of penguins. A population of penguins located in the solution space of the given search and optimisation problem is divided into groups and tasked with finding optimal solutions. The penguins of a group perform simultaneous dives and work as a team to collaboratively feed on fish the energy content of which corresponds to the fitness of candidate solutions. Fish stocks have higher fitness and concentration near areas of solution optima and thus drive the search. Penguins can migrate to other places if their original habitat lacks food. We identify two forms of penguin communication both intra-group and inter-group which are useful in designing intensification and diversification strategies. An efficient intensification strategy allows fast convergence to a local optimum, whereas an effective diversification strategy avoids cyclic behaviour around local optima and explores more effectively the space of potential solutions. The proposed PeSOA algorithm has been validated on a well-known set of benchmark functions. Comparative performances with six other nature-inspired metaheuristics show that the PeSOA performs favourably in these tests. A run-time analysis shows that the performance obtained by the PeSOA is very stable at any time of the evolution horizon, making the PeSOA a viable approach for real world applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multi-objective Optimization of Dependability Attributes Using An Asynchronous Heterogeneous Hierarchical Parallel Genetic Algorithm",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015355658",
+            "Abstract": "The optimal satisfaction of dependability attributes and cost, in the design of engineering systems, is a hard multi-objective optimization problem which requires automated algorithms that can effectively search large design spaces. In this paper, a recently proposed Asynchronous Heterogeneous Hierarchical Parallel Genetic Algorithm (AHHPGA) is extended with multi-objective optimization capabilities and applied to a particular, benchmark, redundancy allocation formulation of the problem that takes into account the reliability, cost and weight of a system. A new model-based safety and reliability evaluation technique is also employed to overcome the limitations imposed by the use of Reliability Block Diagrams in earlier work.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:k_IJM867U9cC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A conceptual framework to incorporate complex basic events in HiP-HOPS",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-32872-6_8",
+            "Abstract": "Reliability evaluation for ensuring the uninterrupted system operation is an integral part of dependable system development. Model-based safety analysis (MBSA) techniques such as Hierarchically Performed Hazard Origin and Propagation Studies (HiP-HOPS) have made the reliability analysis process less expensive in terms of effort and time required. HiP-HOPS uses an analytical modelling approach for Fault tree analysis to automate the reliability analysis process, where each system component is associated with its failure rate or failure probability. However, such non-state-space analysis models are not capable of modelling more complex failure behaviour of component like failure/repair dependencies, e.g., spares, shared repair, imperfect coverage, etc. State-space based paradigms like Markov chain can model complex failure behaviour, but their use can lead to state-space explosion, thus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:JQOojiI6XY0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Semi-automatic fmea supporting complex systems with combinations and sequences of failures",
+            "Publication year": 2009,
+            "Publication url": "https://www.sae.org/publications/technical-papers/content/2009-01-0738/",
+            "Abstract": "Failure Modes and Effects Analysis (FMEA) is a well established safety analysis technique used for the assessment of safety critical engineering systems in the automotive industry. Although FMEA has been shown to be useful, the analysis is typically restricted to the effects of single component failures; even partial analysis of combinations or sequences of multiple failures is in practice considered too complex, laborious and costly to perform. In this paper, we describe a new technique in which FMEAs are semi-automatically built from the topology of a system and component-level specifications of failure data. The proposed technique allows an extended form of \u201ccombinatorial & sequential FMEA\u201d in which assessment of the effects of combinations and sequences of failures becomes feasible and cost effective. We show how this technique can address difficulties encountered in classical FMEA and, drawing from a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Driving design refinement: How to optimize allocation of software development assurance or integrity requirements",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/B9780128023013000119",
+            "Abstract": "There is increasing agreement that, to achieve high dependability in complex systems, design processes should move in a direction where dependability and other quality attributes are controlled from the early stages rather than left to emerge (or not) at the end. This is clearly a very desirable goal that would greatly benefit several industries, and it is enshrined in contemporary standards like the aerospace ARP4754-A and the automotive ISO 26262 safety standards. These documents prescribe processes in which dependability requirements, captured early through system level hazard analysis and risk assessment, are rationally allocated to progressively more refined subsystem elements of the architecture\u2014with respect to software\u2014in the form of Development Assurance Levels (DALs), Safety Integrity Levels, or other similar concepts.A study of the problem shows that the manual processes described in the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Morgan Kaufmann"
+        },
+        {
+            "Title": "Modelling Support for the Automotive Functional Safety Standard",
+            "Publication year": 2011,
+            "Publication url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:496172",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Oficyna Wydawnicza Politechniki Wroclawskiej"
+        },
+        {
+            "Title": "A review of applications of fuzzy sets to safety and reliability engineering",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0888613X18301671",
+            "Abstract": "Safety and reliability are rigorously assessed during the design of dependable systems. Probabilistic risk assessment (PRA) processes are comprehensive, structured and logical methods widely used for this purpose. PRA approaches include, but not limited to Fault Tree Analysis (FTA), Failure Mode and Effects Analysis (FMEA), and Event Tree Analysis (ETA). In conventional PRA, failure data about components is required for the purposes of quantitative analysis. In practice, it is not always possible to fully obtain this data due to unavailability of primary observations and consequent scarcity of statistical data about the failure of components. To handle such situations, fuzzy set theory has been successfully used in novel PRA approaches for safety and reliability evaluation under conditions of uncertainty. This paper presents a review of fuzzy set theory based methodologies applied to safety and reliability \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Combined optimisation of system architecture and maintenance",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015339823",
+            "Abstract": "The dependability analysis of safety-critical engineering systems during the early stages of design helps ensure that requirements are met and also reduces cost that may be incurred due to modifications later in the process. One attribute that can be analysed during the infancy of design is scheduled preventive maintenance (PM) through optimisation. PM is normally optimised in isolation to other system design improvement mechanisms. It is however helpful if PM could be optimised in combination with other mechanisms such improving the system's architecture. By combining these optimization objectives more design possibilities can be simultaneously explored, therefore helping to make better design decisions. In this paper we explore this type of optimization by using HiP-HOPS a scalable dependability analysis and optimisation tool.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Synthesis of Runtime Safety Monitors for Cyber-Physical Systems with Digital Dependability Identities",
+            "Publication year": 2020,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3239635429502359166&hl=en&oi=scholarr",
+            "Abstract": "Cyber-Physical Systems (CPS) harbor the enormous potential for societal improvement in terms of safety, comfort and economic efficiency. However, these benefits will only be unlocked if the safety of these systems can be assured with a sufficient level of confidence. Traditional safety engineering and assurance approaches alone cannot address the CPS-inherent uncertainties and unknowns induced by openness and adaptivity. Runtime safety assurance approaches such as Conditional Safety Certificates (ConSerts) represent novel means to cope with CPS assurance challenges by introducing modular and formalized safety arguments with variant support, thereby shifting the final safety certification step to runtime. However, the systematic engineering of ConSerts at design-time is a complex task which, up to now, has not been sufficiently addressed. Without systematic safety assurance at both design-time and runtime, CPS will hardly be assurable with acceptable confidence given the uncertainties and unknowns. In this paper, we present an engineering method for synthesizing ConSerts based on Digital Dependability Identities (DDI). The approach is demonstrated for a cooperative vehicle platooning function (CACC) from an industrial case study.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:tzM49s52ZIMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automating the failure modes and effects analysis of safety critical systems",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1281774/",
+            "Abstract": "Failure modes and effects analysis (FMEA) is a classical system safety analysis technique which is currently widely used in the automotive, aerospace and other safety critical industries. In the process of an FMEA, analysts compile lists of component failure modes and try to infer the effects of those failure modes on the system. System models, typically simple engineering diagrams, assist analysts in understanding how the local effects of component failures propagate through complex architectures and ultimately cause hazardous effects at system level. Although there is software available that assists engineers in performing clerical tasks, such as forming tables and filling in data, the intelligent part of an FMEA process remains a manual and laborious process. Thus, one of the main criticisms of FMEA is that the time taken to perform the analysis can often exceed the period of the design and development phases and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Assisted assignment of automotive safety requirements",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6594996/",
+            "Abstract": "ISO 26262, a functional-safety standard, uses Automotive Safety Integrity Levels (ASILs) to assign safety requirements to automotive-system elements. System designers initially assign ASILs to system-level hazards and then allocate them to elements of the refined system architecture. Through ASIL decomposition, designers can divide a function's safety requirements among multiple components. However, in practice, manual ASIL decomposition is difficult and produces varying results. To overcome this problem, a new tool automates ASIL allocation and decomposition. It supports the system and software engineering life cycle by enabling users to efficiently allocate safety requirements regarding systematic failures in the design of critical embedded computer systems. The tool is applicable to industries with a similar concept of safety integrity levels.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:BqipwSGYUEgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic allocation of safety requirements to components of a software product line",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896315018352",
+            "Abstract": "Safety critical systems developed as part of a product line must still comply with safety standards. Standards use the concept of Safety Integrity Levels (SILs) to drive the assignment of system safety requirements to components of a system under design. However, for a Software Product Line (SPL), the safety requirements that need to be allocated to a component may vary in different products. Variation in design can indeed change the possible hazards incurred in each product, their causes, and can alter the safety requirements placed on individual components in different SPL products. Establishing common SILs for components of a large scale SPL by considering all possible usage scenarios, is desirable for economies of scale, but it also poses challenges to the safety engineering process. In this paper, we propose a method for automatic allocation of SILs to components of a product line. The approach is applied \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Analysis and synthesis of the behaviour of complex programmable electronic systems in conditions of failure",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0951832000000764",
+            "Abstract": "This paper introduces a new method for safety analysis which modifies, automates and integrates a number of classical safety analysis techniques to address some of the problems currently encountered in complex safety assessments. The method enables the analysis of a complex programmable electronic system from the functional level through to low levels of its hardware and software implementation. In the course of the assessment, the method integrates design and safety analysis and harmonises hardware safety analysis with the hazard analysis of software architectures. It also introduces an algorithm for the synthesis of fault trees, which mechanises and simplifies a large and traditionally problematic part of the assessment, the development of fault trees. In this paper, we present the method and discuss its application on a prototypical distributed brake-by-wire system for cars. We argue that the method can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Quantitative evaluation of pandora temporal fault trees via petri nets",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896315016985",
+            "Abstract": "Using classical combinatorial fault trees, analysts are able to assess the effects of combinations of failures on system behaviour but are unable to capture sequence dependent dynamic behaviour. Pandora introduces temporal gates and temporal laws to fault trees to allow sequence-dependent dynamic analysis of events. Pandora can be easily integrated in model-based design and analysis techniques; however, the combinatorial quantification techniques used to solve classical fault trees cannot be applied to temporal fault trees. Temporal fault trees capture state and therefore require a state space solution for quantification of probability. In this paper, we identify Petri Nets as a possible framework for quantifying temporal trees. We describe how Pandora fault trees can be mapped to Petri Nets for dynamic dependability analysis and demonstrate the process on a fault tolerant fuel distribution system model.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Reliability Optimization of Series-Parallel Systems Using Asynchronous Heterogeneous Hierarchical Parallel Genetic Algorithm",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/David-Parker-17/publication/253324121_Reliability_Optimization_of_Series-Parallel_Systems_Using_Asynchronous_Heterogeneous_Hierarchical_Parallel_Genetic_Algorithm/links/53d7afaa0cf2631430bfbf54/Reliability-Optimization-of-Series-Parallel-Systems-Using-Asynchronous-Heterogeneous-Hierarchical-Parallel-Genetic-Algorithm.pdf",
+            "Abstract": "Redundancy allocation of series-parallel systems is a multiobjective optimization problem. In this paper, a new parallel genetic algorithm, named asynchronous heterogeneous hierarchical parallel genetic algorithm (AHHPGA), is proposed to solve reliability optimization of series-parallel systems. The AHHPGA is a hierarchical model, which uses coarse-grained model as upper layer, and fine-grained model as lower layer. The new parallel genetic algorithm is a heterogeneous model, different exploration/exploitation degree and different topology are assigned to each subpopulation. The migration model of AHHPGA is asynchronous, which includes asynchronous reception and asynchronous emigration. A new model-based reliability evaluation technique, which is called HiP-HOPS, is used to overcome the limitations imposed by reliability block diagrams. The simulation result of well known Fyffe\u2019s problem is better than traditional genetic algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An approach to optimization of fault tolerant architectures using HiP\u2010HOPS",
+            "Publication year": 2011,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.1044",
+            "Abstract": "New processes for the design of dependable systems must address both cost and dependability concerns. They should also maximize the potential for automation to address the problem of increasing technological complexity and the potentially immense design spaces that need to be explored. In this paper we show a design process that integrates system modelling, automated dependability analysis and evolutionary optimization techniques to achieve the optimization of designs with respect to dependability and cost from the early stages. Computerized support is provided for difficult aspects of fault tolerant design, such as decision making on the type and location of fault detection and fault tolerant strategies. The process is supported by HiP\u2010HOPS, a scalable automated dependability analysis and optimization tool. The process was applied to a Pre\u2010collision system for vehicles at an early stage of its design. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:0EnyYjriUFMC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Including systematic faults into fault tree analysis",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015345092",
+            "Abstract": "Fault Tree Analysis (FTA) is a technique widely used for fault forecasting of physical systems. Although FTA is considered a well established safety analysis technique, paradoxically classical Fault Trees include only random faults. However, in modern automated systems, undesirable events arise not only from random hardware faults but also from defects in the logic of software controllers that control the physical system. Faults generated by these software controllers are systematic faults caused by coding errors or misinterpretations of control requirements. This paper proposes an extension to the basic Fault Trees construction process which takes into account this category of faults and advocates the use of dynamic and temporal gates to model it.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Systematic Anticipation and Validation of Scenarios of Failure Propagation and Mitigation in PLC Controlled Processes",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.576.5456&rep=rep1&type=pdf",
+            "Abstract": "In this paper we present a new method for safety analysis of complex hierarchical designs. The method helps analysts to identify potential functional failures of the system at the application level and then to systematically determine the causes of those failures in progressively lower levels of the design. The method can ensure the consistency of the results from the safety studies of the system that are performed at various levels of the design decomposition. The method, though, cannot ensure that the assumptions about the behaviour of the system that underlie those studies are correct. Our second aim in this paper is, precisely, to show an approach to validating those assumptions using system modelling and simulation. Here, we present a tool that we have developed and which enables testing of anticipated scenarios of failure and recovery in PLC controlled processes. Finally, we discuss the application of our approach on a case study that we performed on a simulated emergency fuel supply system. We present fragments from the safety analyses that we have derived for this system and discuss some of the simulation experiments.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpwIX-QAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Model-based system monitoring and diagnosis of failures using statecharts and fault trees",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0951832003000954",
+            "Abstract": "Models such as statecharts and fault trees become increasingly more available in electronic form as they progressively find more useful applications in the development of safety critical systems. As these models typically reduce in their utility after system certification, however, useful knowledge about the behaviour of the system remains unused in the operational phase of the system lifecycle. In this paper, we show that this knowledge could be exploited in the context of an on-line hazard-directed monitoring scheme in which a suitable specification derived from design models and safety analyses forms a reference monitoring model. As a practical application of this approach, we propose a generic safety monitor that can operate on statecharts and fault trees to support the on-line detection, diagnosis and control of hazardous failures in real-time. We discuss the structuring of the monitoring model, the monitoring \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Safety+ AI: a novel approach to update safety models using artificial intelligence",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8839038/",
+            "Abstract": "Safety-critical systems are becoming larger and more complex to obtain a higher level of functionality. Hence, modeling and evaluation of these systems can be a difficult and error-prone task. Among existing safety models, Fault Tree Analysis (FTA) is one of the well-known methods in terms of easily understandable graphical structure. This study proposes a novel approach by using Machine Learning (ML) and real-time operational data to learn about the normal behavior of the system. Afterwards, if any abnormal situation arises with reference to the normal behavior model, the approach tries to find the explanation of the abnormality on the fault tree and then share the knowledge with the operator. If the fault tree fails to explain the situation, a number of different recommendations, including the potential repair of the fault tree, are provided based on the nature of the situation. A decision tree is utilized for this purpose \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Synthesis of Logic and Biology in the Design of Dependable Systems",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2405896315007041",
+            "Abstract": "The technologies of model-based design and dependability analysis in the design of dependable systems, including software intensive systems, have advanced in recent years. Much of this development can be attributed to the application of advances in formal logic and its application to fault forecasting and verification of systems. In parallel, work on bio-inspired technologies has shown potential for the evolutionary design of engineering systems via automated exploration of potentially large design spaces. We have not yet seen the emergence of a design paradigm that combines effectively and throughout the design lifecycle these two techniques which are schematically founded on the two pillars of formal logic and biology. Such a design paradigm would apply these techniques synergistically and systematically from the early stages of design to enable optimal refinement of new designs which can be driven \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpwIX-QAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Elsevier"
+        }
+    ]
+}]

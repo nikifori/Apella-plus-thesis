@@ -1,0 +1,992 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03a6\u03b9\u03ba\u03b9\u03ce\u03c1\u03b7\u03c2",
+    "romanize name": "Georgios Fikioris",
+    "School-Department": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03cc\u03b3\u03c9\u03bd \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd & \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "ntua",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 17895,
+    "Scholar name": "George Fikioris",
+    "Scholar id": "q2lX-zgAAAAJ",
+    "Affiliation": "Associate Professor of Electrical Engineering and Computer Science, National Technical University of Athens, Greece",
+    "Citedby": 1284,
+    "Interests": [
+        "Electromagnetics",
+        "Antennas",
+        "Applied Mathematics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=q2lX-zgAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Superoscillatory field features with evanescent waves",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0030401815300225",
+            "Abstract": "We show how to obtain optical fields possessing superoscillatory features by superposing the evanescent tails of waves undergoing total internal reflection at a plane dielectric interface. In doing so, we essentially extend the definition of superoscillations to functions expressed as a continuum of slowly decaying exponentials, while not necessarily being bandlimited in the standard (Fourier) sense. We obtain such functions by complexifying the argument of standard bandlimited superoscillatory functions with a strictly positive spectrum. Combined with our recent method for superoscillations with arbitrary polynomial shape, the present approach offers flexibility for locally shaping the evanescent field near dielectric interfaces for applications such as particle or atom trapping.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:M05iB0D1s5AC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Analytical evaluation of certain integrals occurring in studies of wireless communications systems using the Mellin-transform method",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1874490718302143",
+            "Abstract": "This paper illustrates the effectiveness of the Mellin-transform (MT) method for the exact calculation of certain one-dimensional definite integrals occurring in studies of wireless communications systems. The MT method, though it often requires laborious calculations, is a straightforward and extremely powerful technique for the closed-form evaluation of definite integrals. Only basic information is provided with regard to the MT and the closely related class of Mellin\u2013Barnes (MB) integrals. On this basis, the MT method is applied to several examples of integrals occurring in studies of fading channels and wireless transmission systems. Closed-form expressions are obtained, which are either new or provided without proof in the literature. The new formulas are suitable for numerical evaluation.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The method of auxiliary sources applied to three-dimensional acoustic scattering: Convergence issues and inherent oscillations",
+            "Publication year": 2016,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2016/00000102/00000002/art00014",
+            "Abstract": "The method of auxiliary sources (MAS) is a computational method widely used for the modeling of wave scattering and radiation problems. In this paper, fundamental issues related to the MAS solution of three-dimensional (3-D) scattering problems are analytically and numerically investigated. Two 3-D scattering problems are considered. In both, the respective singularities of the analytic continuation of the scattered field in the scatterer's interior can be explicitly determined; the location of these singularities plays a crucial role to the application of the MAS. The first problem concerns the acoustic scattering by a soft sphere when excited by an exterior point source. The analytic solution of this problem is directly compared with the numerical solution obtained by the MAS for varying locations of the auxiliary sources (AS's). The second problem concerns the plane wave acoustic scattering by a soft ellipsoid. This may \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "S. Hirzel Verlag"
+        },
+        {
+            "Title": "Differences between extended-integral-equation and method-of-auxiliary-sources solutions of a simple scattering problem",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5637379/",
+            "Abstract": "The auxiliary surface current, determined by applying the Method of Auxiliary Sources (MAS) to scattering problems by perfect conductors, may exhibit a certain form of oscillations, which are inherent to MAS and are independent of the word-length and the numerical-integration routines. The purpose of the present work is to demonstrate analytically that the \u201cextended integral equation\u201d (which is similar to the MAS one with the main difference that the unknown is the actual surface current on the scatterer) does not exhibit oscillations of the type described above. Hence, oscillations occurring in the extended integral equation are likely to be due to finite word-length or numerical integration errors.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Properties of aluminum-substituted YIG with applications in tunable notched UWB antennas",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6996494/",
+            "Abstract": "Reconfigurable antennas based on ferrite materials require lower values of saturation magnetization than that of YIG to operate properly below 5 GHz. To this end, we turned to aluminum-substituted YIG. Six Y 3 Fe 5-x Al x O 12  samples, with x = 0.0, 0.25, 0.5, 0.7, 0.8 and 0.9, were synthesized with the standard solid state reaction method. Isothermal magnetization measurements at T = 295\u00b0K showed ferrimagnetic behaviour with ferromagnetic saturation magnetic moment which diminishes linearly with x. Ferromagnetic resonance measurements revealed that the mixed compounds exhibit approximately half the losses of pure YIG. The YIG-Al compound was then applied in the design of a tunable notched UWB antenna operating in the 1.7-8 GHz range. The ferrite was biased by small permanent magnets. The biased and unbiased states of the YIG-Al block produce isolated stopbands. Moreover, in these \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:lSLTfruPkqcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reply to \u201cComments onSuperdirective-type near fields in the method of auxiliary sources'\u201d",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6472029/",
+            "Abstract": "Summary form only given, as follows. We would like to thank Dr. Skobelev for bringing to the authors' attention the paper by N.P. Malakshinov and V.G. Yerikhov: \"On one numerical method for solving diffraction problems\" in Antennas, no. 25, pp. 53-65, 1977 (in Russian), which, to the best of their knowledge, has not been translated into English. Having now located and read the interesting paper by N.P. Malakshinov and V.G. Yerikhov the authors' of the above-named article (ibid., vol. 60, no. 6, pp. 3056-3060, June 2012) agree with Dr. Skobolev that the IEEE article discusses relations between the Method of Auxiliary Sources (MAS) and superdirectivity in more detail than in the Russian article. In the IEEE article the authors \"go beyond the rather obvious similarity that both MAS and superdirective arrays exhibit oscillating currents.\" Rather, they focus on developing asymptotic formulas for the near field that allow \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:mB3voiENLucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A new method of internal auxiliary source-sinks (MIASS) for two-dimensional interior Dirichlet acoustic problems",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0377042720305227",
+            "Abstract": "A new Method of Internal Auxiliary Source\u2013Sinks (MIASS) is developed for the numerical solution of the two-dimensional interior Dirichlet acoustic problem for the Helmholtz equation. We give two versions of MIASS, one for a closed auxiliary curve (MIASS-C) and another for an open auxiliary curve (MIASS-O). The mathematical and numerical foundations of both versions are provided. In particular, we show that the integral operator that pertains to the associated integral equation has a dense range. We then demonstrate completeness and linear independence of the discrete system of source-sinks. Indicative numerical results are given and numerical implementation aspects are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:tOudhMTPpwUC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Towards 600 MHz LTE smartphones via tunable magnetodielectric Printed Inverted-F Antennas",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7915331/",
+            "Abstract": "The use of magnetodielectric reconfigurable antennas on smartphones was investigated aiming to meet the requirements of the lower bands of current 4G standards and beyond. Since physical dimensions are constrained by the size of the mobile terminal, a reconfigurability mechanism based on partial magnetodielectric substrates and superstrates was studied in order to shift the resonance frequency lower while maintaining low system complexity. A printed inverted-F antenna (PIFA) was used to demonstrate continuous tuning, as opposed to the discrete tuning states of other methods, e.g., aperture tuning by means of switched capacitors. The numerical analysis of the PIFA started with lossy, isotropic ferrites, and then it elevated to gyromagnetic anisotropy. It was found that some of the benefits of tunable magnetodielectric loading are the ability to cover the 600-960 MHz band with just 3-5 sub-bands requiring \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:a0OBvERweLwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the application of numerical methods to Hallen's equation",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/918612/",
+            "Abstract": "The so-called Hallen integral equation for the current on a finite linear antenna center-driven by a delta-function generator takes two forms depending on the choice of kernel. The two kernels are usually referred to as the exact and the approximate or reduced kernel. With the approximate kernel, the integral equation has no solution. Nevertheless, the same numerical method is often applied to both forms of the integral equation. In this paper, the behavior of the numerical solutions thus obtained is investigated, and the similarities and differences between the two numerical solutions are discussed. The numerical method is Galerkin's method with pulse functions. We first apply this method to the two corresponding forms of the integral equation for the current on a linear antenna of infinite length. In this case, the method yields an infinite Toeplitz system of algebraic equations in which the width of the pulse basis \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mutual coupling control in a multiple antenna system using ferrimagnetic substrate",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7228713/",
+            "Abstract": "In this paper, we present the design of a printed multiple antenna system that uses a ferrimagnetic compound (YIG) as part of the substrate. We investigate the influence of this material on the mutual coupling between the antenna elements when an external magnetic field is applied. It is proved that the proper application of the magnetic field changes the polarization of the elements from linear to circular and additionally reduces their mutual coupling.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the use of nonsingular kernels in certain integral equations for thin-wire circular-loop antennas",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4427336/",
+            "Abstract": "Fundamental properties of certain popular integral equations for thin-wire circular-loop antennas with nonsingular kernels are studied. The cornerstone of our study is a large-asymptotic formula for the n'th Fourier coefficient of the nonsingular kernel. Four different methods of driving the circular loop are considered; namely, the delta-function generator, the finite-gap generator, a certain type of frill generator, and the case of plane-wave incidence. The excitation model is crucial to our discussions, since it determines the behavior of the solution convergence. Also discussed are associated difficulties that may arise when moment methods are applied to the aforementioned equations, as well as a simple improvement to the Fourier-series method for determining the current in the case of the frill generator. The main results herein closely parallel recent results for the case of the straight antenna, and similarities and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On methods employing auxiliary sources for 2-D electromagnetic scattering by noncircular shapes",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8410885/",
+            "Abstract": "Methods employing auxiliary sources are applied to electromagnetic scattering problems by 2-D noncircular scatterers. Specific cases are considered for which the singularities of the analytic continuation of the scattered field into the interior of the scatterer can be analytically determined. Then, it is shown that the amplitudes (currents) of the sources diverge and oscillate when the auxiliary curve does not enclose these singularities. Still, the electric fields computed by means of the divergent and oscillatory currents are convergent and correct. The correctness of the computed fields is validated by comparison with the exact solutions (where possible) as well as with the numerical solutions computed via commercial field simulation software.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Method-of-moments analysis of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5993504/",
+            "Abstract": "We perform a method-of-moments (MoM) analysis of a circular array of cylindrical dipoles. The array is known from earlier theoretical and experimental studies to possess very narrow resonances. The earlier theoretical studies were carried out using the \u201ctwo-term theory.\u201d The present paper is a direct continuation of a recent work showing that the problem possesses unique and particular difficulties. The main difficulties are overcome herein using a set of improved kernels in the usual Hall\u00e9n-type integral equations (these kernels had been developed in previous works, and were successfully incorporated into the aforementioned two-term theory analyses). We make a detailed comparison of our MoM results to two-term theory results and, also, to the earlier experimental results.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Difficulties in MoM analyses of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/document/1393466/",
+            "Abstract": "Previous studies have shown that a properly dimensioned, large circular array of cylindrical dipoles possesses very narrow resonances. Only one dipole is driven and the rest are parasitic. Those studies made use of the 'two-term theory'. In the present Letter, the Numerical Electromagnetics Code is applied to the aforementioned circular array. At some frequencies, meaningless results - large, negative driving-point conductances - are found. An attempt is made to explain why such results occur and to propose remedies when possible.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Regularised discretisations obtained from first\u2010kind Fredholm operator equations",
+            "Publication year": 2021,
+            "Publication url": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/mia2.12047",
+            "Abstract": "Judicious discretisations of certain first\u2010kind Fredholm operator equations are tantamount to Fredholm infinite\u2010matrix equations of the second kind. We give detailed explanations for the occurrence of this interesting and useful phenomenon and carefully examine the behaviour of the discretisations, especially with respect to matrix condition numbers. Our main tool is a certain equivalence of the discretisations\u2015\u2015within the context of finite matrices\u2015to discretisations of Fredholm operator equations of the second kind.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Accelerating and abruptly-autofocusing beam waves in the fresnel zone of antenna arrays",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6565397/",
+            "Abstract": "We introduce the concept of spatially accelerating (curved) beam waves in the Fresnel region of properly designed antenna arrays. These are transversely localized EM waves that propagate in free space in a diffraction-resisting manner, while at the same time laterally shifting their amplitude pattern along a curved trajectory. The proposed beams are the radiowave analogue of Airy and related accelerating optical waves, which, in contrast to their optical counterparts, are produced by the interference of discrete radiating elements rather than by the evolution of a continuous wavefront. Two dyadic array configurations are proposed comprising 2D line antennas: linear phased arrays with a power-law phase variation and curved power-law arrays with in-phase radiating elements. Through analysis and numerical simulations, the formation of broadside accelerating beams with power-law trajectories is studied versus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Corrections to \u201cOn the use of Nonsingular Kernels in Certain Integral Equations for Thin-Wire Circular-Loop Antennas\u201d[Jan 08 151-157]",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5504042/",
+            "Abstract": "Errors were identified in the above titled paper (ibid., vol. 56, no. 1, pp. 151-157, Jan. 08), including several numerical errors on Table I. The errors do not affect the discussions. Corrections are presented here.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:maZDTaKrznsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Unphysical moment-method solutions of an approximate integral equation of electrostatics [open problems in computational em]",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7938471/",
+            "Abstract": "The electrostatic charge distribution on a conducting cylindrical wire exactly satisfies an integral equation. Many textbooks discuss an approximate form of this equation and solve it using the method of moments (MoM). This approximate electrostatics equation admits MoM solutions that are unphysical, and we will explain why such solutions occur and propose several remedies. We include a rigorous theorem pertinent to the solvability of the equation. Our approach has parallels in recent works on Hallen's and Pocklington's equations (HE/PE), in particular, because we use the wire of infinite length as a means of deducing information about the actual (finite-length) wire. Our analysis of the infinite wire has particular difficulties that are not present in the works on HE/PE.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:f2IySw72cVMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dual band circularly polarized patch antenna using ferrimagnetic material",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6546656/",
+            "Abstract": "In this paper, we present a patch antenna design that uses a ferrimagnetic compound (YIG) as part of its substrate. We investigate its influence on the antenna characteristics under the application of an external magnetic field. It was found that the proper application of the magnetic field changes the antenna resonance and polarization characteristics. The antenna is reconfigured from a single band linear polarized to a dual band circular polarized one, with different polarization sense in each resonance band.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Rapidly converging spectral-domain analysis of rectangularly shielded layered microstrip lines",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1201807/",
+            "Abstract": "A moment-method-oriented direct integral-equation technique is presented for the exact analysis of rectangularly shielded layered microstrip lines. This technique retains the simplicity of conventional moment methods while optimizing them by recasting all matrix elements into rapidly converging series. Filling up the matrix requires no numerical integration. The proposed algorithms yield highly accurate results both for the modal currents and propagation constants.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Faster convergence for MoM analysis of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/document/6294532/",
+            "Abstract": "Method-of-moments analyses of resonant circular arrays of cylindrical dipoles present unique and particular difficulties. A previous publication overcame the major difficulties by using a set of improved kernels in the usual Hall\u00e9n-type integral equations and by applying an appropriate convergence acceleration method. Based on previous works dealing with the isolated cylindrical dipole, proposed is a better method of calculating the constant C (m) appearing in the aforementioned equations; this results both in improved accuracy and in faster overall convergence of the authors' moment method.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Integral evaluation using the Mellin transform and generalized hypergeometric functions: Tutorial and applications to antenna problems",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4020394/",
+            "Abstract": "This is a tutorial presentation of the Mellin-transform (MT) method for the exact calculation of one-dimensional definite integrals, and an illustration of the application of this method to antenna/electromagnetics problems. Once the basics have been mastered, one quickly realizes that the MT-method is extremely powerful, often yielding closed-form expressions very difficult to come up with other methods or to deduce from the usual tables of integrals. Yet, as opposed to other methods, the MT-method is very straightforward to apply; it usually requires laborious calculations, but little ingenuity. In fact, the MT-method is used by Mathematica to symbolically calculate definite integrals. The first part of this paper is a step-by-step tutorial, proceeding from first principles. It includes basic information on Mellin-Barnes integrals and generalized hypergeometric functions, and summarizes the key ideas of the MT-method. In the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A possible remedy for the oscillations occurring in thin-wire MoM analysis of cylindrical antennas",
+            "Publication year": 2007,
+            "Publication url": "https://www.jpier.org/PIER/pier.php?paper=06120502",
+            "Abstract": "Approximate, non-singular kernels are often used in moment-method formulations coping with thin-wire structures. Their use has important consequences, one of which is the appearance of oscillations in the computed currents when the number of sub-domain basis functions is sufficiently large. These oscillations are not due to round-off errors. In this paper, a smoothing procedure is used in conjunction with Galerkin's formulation with piecewise sinusoidal functions, which yields non-oscillating current distributions. Special attention is paid to the solutions over a wide range of discretization levels (number of basis/testing functions), in order to examine and illustrate the similarities and differences between results obtained with and without the proposed remedy. Finally, a comparison with results derived with the exact kernel is provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "EMW Publishing"
+        },
+        {
+            "Title": "On the asymptotics of a cotangent sum related to the Estermann zeta function",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1807.08527",
+            "Abstract": "The sum  is related to the Estermann zeta function. A recent paper computes the first two terms of the large- asymptotic expansion of . Using the Poisson summation formula for finite sums, we find three additional terms.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The approximate integral equation for a cylindrical scatterer has no solution",
+            "Publication year": 2001,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1163/156939301X01075",
+            "Abstract": "    Using an analytic-continuation argument, it is shown that the Hall\u00e9n-type integral equation for the current distribution on an unloaded receiving antenna does not have a solution if the approximate kernel is used. Generalizations and consequences of this nonsolvability are discussed.  The aforementioned argument does not apply when the exact kernel, which is logarithmically singular, is used.   ",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Estimation of permeability tensor and dielectric permittivity of ferrites using a wave guide method under a dc magnetic field",
+            "Publication year": 2014,
+            "Publication url": "https://www.epj-conferences.org/articles/epjconf/abs/2014/12/epjconf_jems2014_06005/epjconf_jems2014_06005.html",
+            "Abstract": "Using a vector network analyzer equipped with a calibrated rectangular wave guide the electric permittivity and the element of the magnetic permeability tensor for Y3Fe5O12, ZnFe2O4 and NiFe2O4 are measured. The electric permittivity can be estimated from the body resonances (d = n\u03bb/2) if a sufficient long sample is used. The estimation of the magnetic permeability tensors\u2019 parameters can be estimated comparing the experimental results with computer simulations using the magnetic properties of the materials as derived from the magnetic measurements.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "EDP Sciences"
+        },
+        {
+            "Title": "Fundamentals of thin-wire integral equations with the finite-gap generator\u2014Part I",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6630111/",
+            "Abstract": "We discuss certain fundamental properties of Hall\u00e9n's and Pocklington's equations with the finite-gap generator (FGG), which has long been used as a feed model for cylindrical antennas. For the case of the exact kernel, we focus on whether important quantities are finite or infinite and compare to corresponding quantities obtained using the delta-function generator (DFG). For the approximate kernel, we focus on the unsolvability of the two equations and the relation of unsolvability to the important phenomenon of unphysical oscillations. We also extend to the FGG the so-called effective-current method; this is an easy-to-apply remedy for the oscillatory solutions that allows one to obtain reasonable answers for important quantities such as current distributions and the input impedance. It is shown here that these answers are close to those obtained with the exact kernel. We show that, in a certain sense, the method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Convergence Analysis of the Currents and Fields Involved in the Method of Auxiliary Sources Applied to Scattering by PEC Cylinders",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9375497/",
+            "Abstract": "The method of auxiliary sources (MAS) is an established technique for the numerical solution of electromagnetic shielding and scattering problems exhibiting an increasing interest for the simulation of various electromagnetic compatibility (EMC) applications. In previous works, it was shown that for the problem of transverse magnetic illumination of a perfect electric conducting cylinder by an electric current filament, it is possible for large numbers    of auxiliary sources that the MAS currents diverge and oscillate, while the generated MAS field converges to the exact solution. In this article, we further analyze the convergence issues and oscillations encountered in the MAS by considering the transverse electric case due to excitation by a magnetic current filament. We demonstrate analytically that the convergence/divergence phenomena of the currents and fields also occur in this problem and then study the nature of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improved kernels for method-of-moments analyses of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5611416/",
+            "Abstract": "We perform a Method-of-Moments (MoM) analysis of a circular array of cylindrical dipoles. Such arrays are known from earlier theoretical and experimental studies to possess very narrow resonances. The earlier studies were carried out using the \u201ctwo-term theory.\u201d The present work is a direct continuation of a recent paper showing that the problem possesses unique and particular difficulties. The main difficulties are overcome herein using a set of improved kernels in the usual Halliin-type integral equations (these kernels had been developed in previous works, and were successfully incorporated into the aforementioned two-term theory analyses). We make a comparison of our MoM results to two-term theory results for the case of a 20-element array.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the extended thin-wire kernel",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7454699/",
+            "Abstract": "A number of recent works have shown that moment-method solutions of Hall\u00e9n's and Pocklington's equations with the approximate kernel present undesirable and unphysical oscillations near the ends of the antenna and possibly (depending on the feed model) near the driving point. Such oscillations have been associated with the nonsolvability of the underlying integral equations. They necessarily occur when the number of basis functions is sufficiently large and cannot be blamed on finite computer word length or matrix ill-conditioning effects. In this communication, we show that similar phenomena occur when one uses the extended thin-wire kernel, originally proposed by Poggio and Adams in the 1970s and currently used by the Numerical Electromagnetics Code, which is an antenna modeling software suite that has many variants (e.g., GNEC, EZNEC Pro, SuperNeC, MiniNEC). We discuss the nature and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mode Analysis by the Method of Auxiliary Sources With an Excitation Source",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9419792/",
+            "Abstract": "The method of auxiliary sources (MAS) is one of the numerical methods employed for the determination of the cutoff wavenumbers (eigenvalues) of cylindrical waveguides. According to the general scheme of MAS, the eigenvalues are obtained by requiring the square impedance matrix to be singular and therefore its determinant to be zero (or its condition number to be large). For large matrices, such computations are complicated and time-consuming. Additionally, these schemes are frequently contaminated with spurious eigenvalues. To overcome the difficulties, an efficient method based on MAS along with an excitation source has been proposed. The eigenvalues are obtained by measuring the physical response of the waveguide's domain to this source; thus, an interior problem is always solved. This article is a comprehensive presentation of this method and its variants and aims to emphasize fundamental and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Alleviating oscillatory approximate-kernel solutions for cylindrical antennas embedded in a conducting medium: a numerical and asymptotic study",
+            "Publication year": 2020,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1402-4896/ab6f96/meta",
+            "Abstract": "We alleviate the unnatural oscillations occurring in the current distribution along a linear cylindrical antenna center-driven by a delta-function generator and embedded in a conducting medium. The intensely fluctuating current arises as a small-z 0 asymptotic (or numerical) solution of the classical integral equations of antenna theory, for a cylindrical dipole of infinite (or finite) length, where z 0 is the discretization length. To alleviate the oscillations, we employ an appropriate effective current further to the recent remedy of oscillations attained for a perfectly conducting linear cylindrical antenna of finite length for the case where the surrounding medium is free space. We derive asymptotic formulas for the infinite antenna, which are then put to numerical test. Furthermore, we point to the physical significance of the effective current whose function transcends a mere computational device.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Asymptotic expansions pertaining to the logarithmic series and related trigonometric sums",
+            "Publication year": 2015,
+            "Publication url": "http://files.ele-math.com/articles/jca-07-11.pdf",
+            "Abstract": "The partial sum of the Maclaurin series of\u2212 ln (1\u2212 z) is fn (z)\u2261\u2211 n\u2212 1 k= 1 zk/k. We find concise closed-form expressions, involving Eulerian polynomials, for the full asymptotic expansion of fn (z) as n\u2192\u221e. We then use our expressions to find large-n compound asymptotic expansions, involving real quantities only, for cn (\u03b8)\u2261\u2211 n\u2212 1 k= 1 cosk\u03b8/k, sn (\u03b8)\u2261\u2211 n\u2212 1 k= 1 sink\u03b8/k, rn (\u03b8)\u2261\u2211 n\u2212 1 k= 0 (\u2212 1) k cos [(2k+ 1) \u03b8]/(2k+ 1), and a number of other trigonometric sums. Many of these sums are ubiquitous in the literature on the Gibbs phenomenon in the context of Fourier series.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Note on acoustic pseudopotentials: energy viewpoint, real scatterers and linear arrays",
+            "Publication year": 2011,
+            "Publication url": "https://www.ingentaconnect.com/content/dav/aaua/2011/00000097/00000003/art00002",
+            "Abstract": "A study of scalar acoustic pseudopotentials and their connection to actual spherical scatterers is presented. The pseudopotential concept and the governing scattering equations are established through an alternative energy viewpoint from which the operator-based definition follows. Limiting formulas are derived for spherical acoustic scatterers with subwavelength size and it is shown that pseudopotentials can approximate only certain scattering types: impedance or soft impenetrable ones or penetrable ones having equal density but diff erent compressibility from the surrounding medium. The accuracy of the approximation is investigated numerically and mapped versus the scatterer size and distance of the observation point. As an application, the infinite linear periodic array of small spheres is considered and it is shown that the frequency dependence of a scatterer's responsivity to the incident field forbids the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:IWHjjKOFINEC",
+            "Publisher": "S. Hirzel Verlag"
+        },
+        {
+            "Title": "Field patterns of resonant noncircular closed-loop arrays: Further analysis",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1549971/",
+            "Abstract": "Previous papers have introduced the continuous-current model for resonant closed-loop arrays of cylindrical dipoles and, for a certain class of array shapes, have determined the resulting field patterns analytically. Those analytical calculations involve several approximations. In the present paper, we first study the aforementioned model numerically for the case of elliptical closed-loop arrays. The results-which involve fewer approximations than those of the previous papers, but which refer to different array shapes-imply that elliptical arrays have a bidirectional, highly directive field and, unlike conventional arrays, have no sidelobes. Combining analytical and numerical methods, we then investigate the relationship between the aforementioned continuous-current model and what we call the discrete-current model which, in a certain sense, is more realistic. The results indicate that, subject to suitable conditions, the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Asymptotic formulas for Vasyunin cotangent sums",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0096300320303441",
+            "Abstract": "We study the Vasyunin-type cotangent sum c 0 (h/k)=\u2212\u2211 m= 1 k\u2212 1 (m/k) cot (\u03c0 h m/k), where h and k are positive coprime integers. This sum is related to Estermann zeta function. By applying the Euler-Maclaurin summation formula to a suitable function, we improve a previous large-k asymptotic approximation of c 0 (h/k). We also provide a procedure to compute an arbitrary number of terms of the approximation.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A modified synthesis procedure for first order stochastic differential equations for the simulation of baseband random processes",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168407002186",
+            "Abstract": "An extra condition is added in the synthesis procedure of first order stochastic differential equations so that the hitting time statistics of the actual process are simulated as well, along with the actual process\u2019 first- and second-order statistics. The hitting time is a random variable which resembles the well known fade and inter-fade duration. The aforementioned new condition is motivated by the operation mechanism of control-loops often applied in radio frequency channels. It is expected that this extra condition could lead to a stochastic differential equation that better reproduces the generation mechanism of the actual process. Besides, to make our synthesis procedure applicable, analytical or semi-analytical methods are demonstrated for the calculation of both second order and hitting time statistics for the case of a first order stochastic differential equation. The first method (which has been used in the past) concerns \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Improved model of pseudopotentials for array elements",
+            "Publication year": 2012,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mop.26971",
+            "Abstract": "A recent article has proposed a simplified model, based on the quantum\u2010mechanical concept of the pseudopotential, for certain types of array elements, particularly for short linear dipoles. A modification of that model that works for a large number of cases is presented here. The modification consists of replacing the complex pseudopotential parameter A by a properly defined real value of A, and is expected to greatly enable future analytical studies. The range of the dipoles' parameters for which the modified model is successful and carefully described. \u00a9 2012 Wiley Periodicals, Inc. Microwave Opt Technol Lett 54:1874\u20131879, 2012; View this article online at wileyonlinelibrary.com. DOI 10.1002/mop.26971",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Wiley Subscription Services, Inc., A Wiley Company"
+        },
+        {
+            "Title": "On the use of entire-domain basis functions in Galerkin methods applied to certain integral equations for wire antennas with the approximate kernel",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4939366/",
+            "Abstract": "When the approximate kernel is used, Hallen's integral equation for the current distribution on a center-driven, straight-wire antenna does not have a solution. This is true for at least two types of feed: the delta-function generator and the frill generator. For the case of subsectional basis functions in Galerkin's method, recent papers have shown that the main associated difficulty is the unavoidable appearance of oscillations near the center and/or the ends of the antenna. In this paper, we investigate the nature of the difficulties for the case of entire-domain, cosine basis functions. We find that the difficulties are similar to those of the subsectional case, something that we had not expected beforehand. In particular, undesirable oscillations appear when the number of basis functions is greater than a number dependent on the length-to-radius ratio, giving one a simple rule for choosing the number of basis functions so as to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Selected asymptotic methods with applications to electromagnetics and antennas",
+            "Publication year": 2013,
+            "Publication url": "https://www.morganclaypool.com/doi/abs/10.2200/S00525ED1V01Y201307CEM031",
+            "Abstract": " Download Free Sample  This book describes and illustrates the application of several asymptotic methods that have proved useful in the authors' research in electromagnetics and antennas. We first define asymptotic approximations and expansions and explain these concepts in detail. We then develop certain prerequisites from complex analysis such as power series, multivalued functions (including the concepts of branch points and branch cuts), and the all-important gamma function. Of particular importance is the idea of analytic continuation (of functions of a single complex variable); our discussions here include some recent, direct applications to antennas and computational electromagnetics. Then, specific methods are discussed. These include integration by parts and the Riemann-Lebesgue lemma, the use of contour integration in conjunction with other methods, techniques related to Laplace's method \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Morgan & Claypool Publishers"
+        },
+        {
+            "Title": "Experimental evaluation of patch antennas with ferrite loaded substrate at 5GHz frequency band",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8671666/",
+            "Abstract": "In this paper we evaluate through measurements in 5GHz frequency band on experimental prototype the performance of patch antennas with substrates loaded with ferrimagnetic material. Two types of ferrite-loaded antennas are studied: a) a proximity-coupled fed microstrip patch antenna with a cylindrical bulk ferrimagnetic YIG inserted into its substrate and b) a microstrip patch antenna printed on a YIG-Epoxy composite substrate. Both antennas operate in two states; \"OFF\" state and \"ON\" state. By applying an external DC magnetic field (\"ON\" state), the polarization of the proposed antennas changes (from linear to circular). A comparison study is presented in order to evaluate the antenna performance in terms of axial ratio and radiation efficiency. It is proved through extensive 3D radiation diagram measurements that the radiation efficiency of the proximity coupled fed patch antenna loaded with a bulk ferrite \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:UxriW0iASnsC",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "Spectral properties of Kac\u2013Murdock\u2013Szeg\u00f6 matrices with a complex parameter",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0024379518302350",
+            "Abstract": "When 0< \u03c1< 1, the Kac\u2013Murdock\u2013Szeg\u00f6 matrix K n (\u03c1)=[\u03c1| j\u2212 k|] j, k= 1 n is a Toeplitz correlation matrix with many applications and very well known spectral properties. We study the eigenvalues and eigenvectors of K n (\u03c1) for the general case where \u03c1 is complex, pointing out similarities and differences to the case 0< \u03c1< 1. We then specialize our results to real \u03c1 with \u03c1> 1, emphasizing the continuity of the eigenvalues as functions of \u03c1. For \u03c1> 1, we develop simple approximate formulas for the eigenvalues and pinpoint all eigenvalues' locations. Our study starts from a certain polynomial whose zeros are connected to the eigenvalues by elementary formulas. We discuss relations of our results to earlier results of WF Trench.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Cylindrical antennas and arrays",
+            "Publication year": 2002,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=rWFyiJ-TyUsC&oi=fnd&pg=PP1&dq=info:tNzWPO-EZJ0J:scholar.google.com&ots=AOl39vY41V&sig=MYdAEMdmbF1GG41yIHn0etDHlTE",
+            "Abstract": "Cylindrical arrays lie at the heart of the antenna systems of most major radio communication systems, including broadcasting networks, cellular'phone systems and radar. In this book, the authors present practical theoretical methods for determining current distributions, input admittances and field patterns of a wide variety of cylindrical antennas, including the isolated antenna, the two-element array, the circular array, curtain arrays, Yagi and log-periodic arrays, planar arrays and three-dimensional arrays. Coverage includes analysis of horizontal antennas over, on and in the earth and sea, large resonant arrays of electrically short dipoles and a chapter on the theory and techniques of experimental measurement. Written by three of the leading engineers in the field, and based on world-class research carried out at Harvard over the last forty years, Cylindrical Antennas and Arrays is destined to become established as the basic reference for practising engineers and advanced students for many years to come.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Convergence analysis and oscillations in the method of fictitious sources applied to dielectric scattering problems",
+            "Publication year": 2012,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=josaa-29-1-1",
+            "Abstract": "Several wave scattering phenomena in optics are modeled by the method of fictitious sources (MFS). Despite its interesting features, the effectiveness of the MFS and its applicability are restricted by open issues, including the placement of the fictitious sources (FS) and the fields\u2019 convergence. Concerning these issues, we investigate here the MFS convergence and study oscillations in its solutions for a representative scattering problem of a dielectric cylinder illuminated by a current filament. It is shown analytically that, when the FS radii lie in the interior and exterior of two disks with certain critical radii, the MFS currents\u2019 series diverge while the respective fields converge, as the FS number N tends to infinity. Asymptotic formulas of the divergent currents are established, exhibiting that they increase exponentially with N and oscillate. Numerical simulations are included, demonstrating that (i) the divergent currents \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Reply to \u201cComments on \u2018Fundamentals of Thin-Wire Integral Equations With the Finite-Gap Generator\u2019\u201d",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6782734/",
+            "Abstract": "In papers [1], [2], the authors extend the so-called effective current method to the Hallen's and Pocklington's equations with the finite-gap generator (FGG). The indicated method considered earlier in [3] with a reference to [4] is associated with application of the method of auxiliary sources to the analysis of cylindrical dipole antennas [5]-[7]. The purpose of these comments is to draw the authors' and readers' attention to the existence ofpaper [8] where the Pocklington's equation with the FGG is solved for the axial current considered there to be auxiliary. The equation is solved by the Galerkin method using the piecewise sinusoidal basis and testing functions. The auxiliary axial current is used further for calculation of the surface current (which is referred to as the effective current in [1]-[4]), and the surface current itself is used for calculation of the input impedance. So, in some respects papers [1]-[7] just repeat the main \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A reconfigurable patch antenna printed on YIG-epoxy composite substrate",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7481572/",
+            "Abstract": "In this paper we present the design, fabrication and characterization of a reconfigurable microstrip patch antenna with a substrate made of Epoxy bonded Yttrium Iron Garnet (YIG). This antenna is suitable for applications in 5 GHz band requiring frequency and polarization agility. We investigate the influence of the external magnetic field strength on the antenna's operating frequency and polarization properties. It is proved via simulation and measurements that we can control the antenna polarization by changing the magnitude of the external DC magnetic field applied perpendicular to the antenna substrate.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Two-term theory for infinite linear array and application to study of resonances",
+            "Publication year": 2006,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1163/156939306776137809",
+            "Abstract": "    The \"two-term theory\" is an approximate solution to the integral equations for the currents on arrays of parallel, electrically short cylindrical dipoles. For finite arrays, this theory is concisely summarized in a recent book. The present paper draws upon that summary to extend the  two-term theory to uniform linear arrays with an infinite number of elements. Certain desirable features of the formulas thus developed are pointed out. The formulas are studied in detail with respect to the phenomenon of resonances, and representative numerical results illustrating resonances  and associated phenomena are presented; these studies parallel previous ones for circular arrays. Similarities and differences between circular and infinite arrays are discussed.   ",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "Dyadic Green\u2019s Function Studies for the Three-shell Head Model",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9232296/",
+            "Abstract": "In this work, we employ analytical expressions for the calculation of the dyadic Green\u2019s function (DGF) of the isotropic three-shell head model, due to an infinitesimal electric dipole located in the internal core that corresponds to the brain. We compute the electric field obtained from this DGF and compare and validate our analytical results with HFSS commercial software when the dipole is inside a single sphere. Then, we numerically examine the behavior of the electric field due to the placement of the dipole inside a three-shell spherical head model. Finally, we discuss how the isotropic model can be extended to the more complicated anisotropic one by considering a volume integral equation approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Eliminating oscillations arising in method-of-moments solutions to Hall\u00e9n's and Pocklington's equations",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5666261/",
+            "Abstract": "Previous works have discussed in detail the difficulties occurring when one applies numerical methods to Hall\u00e9n's and Pocklington's integral equations for the current distribution along a linear antenna. When the so-called approximate kernel is used, the main difficulty is the appearance of unphysical oscillations near the driving point and/or near the ends of the antenna. Another work has proposed an easy-to-apply, possible method to overcome these unnatural oscillations. The basic idea is to define a new current from the near magnetic field produced by the original oscillating current. In the present paper, for the case of an antenna center-driven by a delta-function generator, we place this remedy on a much firmer basis.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Analytical studies supplementing the smith chart",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1296788/",
+            "Abstract": "The study of transmission lines is basic in undergraduate electrical engineering education. In relevant courses, a key subject is the Smith chart (SC), which is a graphical device providing insight. This paper develops certain formulas that can further enhance students' understanding, including an unconventional set of conductance/susceptance transformation equations, as well as simplified versions useful for highly mismatched lines, where it is sometimes difficult to use the SC. All formulas are developed from well-known facts of transmission-line theory. SC interpretations of many of the analytical results are provided. The analytical investigations thus supplement the SC. For highly mismatched lines, the formulas bring out certain resemblances to the resonant series RLC circuit, thus providing an interesting connection to the familiar subject of ordinary circuit theory. Lastly, students can also benefit from the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Rain attenuation power spectrum of slant path",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/document/1041011/",
+            "Abstract": "Analytical and asymptotic expressions of the rain attenuation power spectrum based on rainfall rate time series are presented. They are directly applicable to rain fade mitigation techniques for satellite links using frequencies above 10 GHz. A spatio-temporal structure of the autocovariance relation of rainfall rate is also introduced.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IET"
+        },
+        {
+            "Title": "A subsemigroup of the rook monoid",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2111.01863",
+            "Abstract": "We define a subsemigroup  of the rook monoid  and investigate its properties. To do this, we represent the nonzero elements of  (which are  matrices) via certain triplets of integers, and develop a closed-form expression representing the product of two elements; these tools facilitate straightforward deductions of a great number of properties. For example, we show that  consists solely of idempotents and nilpotents, find the numbers of idempotents and nilpotents, and compute nilpotency indexes. Furthermore, we give a necessary and sufficient condition for the th root of a nonzero element to exist in , show that existence implies uniqueness, and compute the said root explicitly. We also point to several combinatorial aspects, describe a number of subsemigroups of , and graphically interpret many of our results.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fundamentals of Thin-Wire Integral Equations With the Finite-Gap Generator\u2014Part II",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6630111/",
+            "Abstract": "We discuss certain fundamental properties of Hall\u00e9n's and Pocklington's equations with the finite-gap generator (FGG), which has long been used as a feed model for cylindrical antennas. For the case of the exact kernel, we focus on whether important quantities are finite or infinite and compare to corresponding quantities obtained using the delta-function generator (DFG). For the approximate kernel, we focus on the unsolvability of the two equations and the relation of unsolvability to the important phenomenon of unphysical oscillations. We also extend to the FGG the so-called effective-current method; this is an easy-to-apply remedy for the oscillatory solutions that allows one to obtain reasonable answers for important quantities such as current distributions and the input impedance. It is shown here that these answers are close to those obtained with the exact kernel. We show that, in a certain sense, the method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Conditions for solution convergence in integral equation analysis of thin, circular loop antennas",
+            "Publication year": 2007,
+            "Publication url": "https://digital-library.theiet.org/content/conferences/10.1049/ic.2007.1168",
+            "Abstract": "Basic properties of standard integral equations for thin wire, circular loop antennas with approximate kernels are examined. The study is based on an asymptotic formula for the Fourier coefficients of the reduced kernel. The excitation type is critical to our discussions, since its mathematical model determines the behavior of the solution convergence. Four different feeding models are therefore studied, and their relative effects on the solution are highlighted. Two different versions of the moment methods (MoM) are invoked for the numerical treatment of the aforementioned equations, and arising associated difficulties are also discussed. (5 pages)",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Eigenvalue bifurcations in Kac\u2013Murdock\u2013Szeg\u0151 matrices with a complex parameter",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0024379520303797",
+            "Abstract": "For complex \u03c1, the spectral properties of the Toeplitz matrix K n (\u03c1)=[\u03c1| j\u2212 k|] j, k= 1 n, often called the Kac\u2013Murdock\u2013Szeg\u0151 matrix, have been examined in detail in two recent papers. The second paper, in particular, introduced the concept of borderline curves. These are two closed curves in the complex-\u03c1 plane that consist of all the \u03c1 for which K n (\u03c1) possesses some eigenvalue whose magnitude equals the matrix dimension n. The purpose of the present paper is to examine eigenvalue bifurcations in both a qualitative and a quantitative manner, and to discuss connections between bifurcations and the borderline curves.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:XiSMed-E-HIC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Double, borderline, and extraordinary eigenvalues of Kac\u2013Murdock\u2013Szeg\u0151 matrices with a complex parameter",
+            "Publication year": 2019,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0024379519301697",
+            "Abstract": "For all sufficiently large complex \u03c1, and for arbitrary matrix dimension n, it is shown that the Kac\u2013Murdock\u2013Szeg\u0151 matrix K n (\u03c1)=[\u03c1| j\u2212 k|] j, k= 1 n possesses exactly two eigenvalues whose magnitude is larger than n. We discuss a number of properties of the two \u201cextraordinary\u201d eigenvalues. Conditions are developed that, given n, allow us\u2014without actually computing eigenvalues\u2014to find all values \u03c1 that give rise to eigenvalues of magnitude n, termed \u201cborderline\u201d eigenvalues. The aforementioned values of \u03c1 form two closed curves in the complex-\u03c1 plane. We describe these curves, which are n-dependent, in detail. An interesting borderline case arises when an eigenvalue of K n (\u03c1) equals\u2212 n: apart from certain exceptional cases, this occurs if and only if the eigenvalue is a double one; and if and only if the point \u03c1 is a cusp-like singularity of one of the two closed curves.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Traveling waves in two parallel infinite linear point-scatterer arrays",
+            "Publication year": 2011,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=josaa-28-6-962",
+            "Abstract": "Traveling waves in two coupled parallel infinite linear point-scatterer arrays are studied analytically for the first time to our knowledge. The two arrays are considered to be generally offset in the axial direction. It is found that slow quasi-even/odd supermodes are supported, as a result of the coupling-induced splitting of the modes of the single array, in direct analogy to standard optical waveguide couplers. Exactly even/odd supermodes are supported when the axial offset is zero. Mode splitting, dispersion curves, and coupling length are numerically investigated versus the inter-element spacing, the inter-array distance, and the axial offset. Potential applications of the concept are in directional optical couplers made of metallic or dielectric nanoparticle chains.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "A note on the method of analytical regularization",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/924602/",
+            "Abstract": "Many problems of electromagnetics are governed by singular integral equations of the first kind. As discussed by Nosich (1999), it is often possible to obtain a different equation describing the problem by applying the method of analytical regularization, and analytically inverting part of the original equation. The transformed equation is of the second kind. Therefore, as a rule, it is usually preferable to apply a numerical method to the transformed equation than to the original one. What appears to be an exception to that rule is discussed in the present paper: under proper conditions, and for a particular numerical method, results obtained by application to the transformed equation are shown to be identical to those obtained by application to the original equation. Some consequences of this equivalence are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Suboscillations with arbitrary shape",
+            "Publication year": 2017,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1751-8121/aa7c67/meta",
+            "Abstract": "We report a method for constructing bandpass functions that approximate a given analytic function with arbitrary accuracy over a finite interval. A corollary is that bandpass functions can be obtained which oscillate arbitrarily slower than their minimum frequency component, a counter-intuitive phenomenon known as suboscillations.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:D03iK_w7-QYC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Near fields of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4494508/",
+            "Abstract": "The far fields of resonant circular arrays of cylindrical dipoles with only one or two dipoles driven have been examined in a number of recent works. The discrete currents on such arrays can be thought of as a slow standing or traveling wave. In the present paper, the near fields of such arrays are studied. In order to better understand the somewhat unusual behavior of the near fields, we first discuss some simpler two-dimensional problems involving slow traveling current waves. We find that the associated fields possess certain surface-wave characteristics. We also find important differences from the case of linear arrays, which has been extensively studied in the past. Our discussions include methods to measure the efficiencies of our radiators, the extent of the near-field region, and the onset of the far-field region.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficiency measurements of multiband and circularly polarized magneto-dielectric antennas by the equivalent-circuit wheeler cap",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901769/",
+            "Abstract": "Accurate Wheeler cap measurements, either in a narrow or a wide band, are critically affected by the postprocessing method employed to deduce efficiency values from raw data. Stringent cases like multiband or circularly polarized (CP) antennas cannot be handled accurately by typical postprocessing methods, but lend themselves to post-processing based on equivalent circuits. This paper revisits the equivalent-circuit Wheeler cap (EC-WCap) and modifies all steps of the algorithm, thus significantly enhancing its simplicity and speed, while maintaining a wideband measurement capacity. This enhancement of EC-WCap was driven by the need to accurately characterize multiband CP magneto-dielectric antennas built on externally biased ferrimagnetic compounds, which resist characterization by other Wheeler-cap-related post-processing methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Convergence of fictitious sources methods applied to three-dimensional scattering problems",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7571364/",
+            "Abstract": "Computational methods, utilizing representations of the approximate solution of a boundary value problem as a finite superposition of fields of fictitious sources located outside the problem's domain, are widely used in the numerical modeling of wave scattering and radiation problems. In this work, we investigate certain convergence issues related to the field solutions derived by the application of fictitious sources methods to three-dimensional (3-D) scattering problems. The main result concerns the divergence and oscillations of the source strengths and the simultaneous convergence of the field generated by these divergent strengths. The origin of the oscillations is discussed and it is shown that they are not due to round-off errors or matrix ill-conditioning.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Surface-wave and superdirectivity aspects of effective current for linear antennas",
+            "Publication year": 2013,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/120892155",
+            "Abstract": "Previous papers have defined the concept of effective current for linear antennas as a method of postprocessing the unphysical solutions obtained by applying discretization (Galerkin) methods to the usual integral equations that employ the \u201capproximate\u201d or \u201creduced\u201d kernel. Such an unphysical solution can be thought of as an auxiliary,  rapidly oscillating current located on the axis of the linear antenna, while the effective current is the magnetic field due to the oscillating current at a distance equal to the antenna radius (multiplied by a factor equal to the antenna circumference). In the present paper, we focus on the rapid decrease of the aforementioned magnetic field and point out similarities to surface waves, to the well-known phenomenon of superdirectivity, and to the method of auxiliary sources (MAS). Our study sheds light on the unusual nature of electromagnetic waves generated by currents with very rapid \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "On the thin-wire integral equations for carbon nanotube antennas",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8337793/",
+            "Abstract": "For the case of perfectly conducting (PC) antennas, the difficulties inherent in the process of discretizing, certain thin-wire integral equations were examined in detail in the literature by means of an analytical study of the antenna of infinite length. This paper extends the previous results to corresponding integral equations applicable to carbon nanotube antennas. Connections between the finite and infinite cases are discussed in detail. While there are many similarities with the PC case, we show that there exist new difficulties, with no counterpart for the PC antennas. We discuss their nature through both the analytical and numerical results.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Generalized Multipole Technique for Light Scattering",
+            "Publication year": 2018,
+            "Publication url": "http://ikee.lib.auth.gr/record/305231",
+            "Abstract": "A very simple scattering problem is considered, together with its solution obtained via the Method of Auxiliary Sources (MAS). We show that it is possible to concurrently have divergence of the auxiliary currents together with convergence of the scattered field generated by these divergent currents. The divergence manifests itself as rapid, unphysical oscillations in the auxiliary currents. It is stressed that the oscillations are not due to effects such as roundoff, matrix ill-conditioning, or to the well-studied phenomenon of internal resonances. We arrive at our conclusions using a number of means including asymptotic methods and a thorough discussion of the singularities of the analytic continuation of the scattered field. We also make a detailed comparison to corresponding discretizations of the Extended Integral Equation (EIE), in which similar phenomena do not occur. Analogies to superdirectivity and extensions to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Eliminating unphysical oscillations arising in Galerkin solutions to classical integral equations of antenna theory: An asymptotic study",
+            "Publication year": 2011,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/100785727",
+            "Abstract": "Previous works have discussed in detail the difficulties occurring when one applies numerical methods to Hall\u00e9n's and Pocklington's integral equations for the current distribution along a linear antenna. When the so-called approximate kernel is used, the main difficulty is the appearance of unphysical oscillations near the driving point and/or near the ends of the antenna. Another work has proposed an easy-to-apply, possible remedy to overcome these unnatural oscillations. The basic idea is to define a new current from the near magnetic field produced by the original oscillating current. In the present paper, for the case of an antenna center-driven by a delta-function generator, we place this remedy on a much firmer basis by means of an asymptotic study for the case of the linear antenna of infinite length. We provide specific connections of our study to actual finite-length antennas.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "Field induced in inhomogeneous spheres by external sources. I. The scalar case",
+            "Publication year": 2002,
+            "Publication url": "https://asa.scitation.org/doi/abs/10.1121/1.1498274",
+            "Abstract": "The evaluation of acoustic or electromagnetic fields induced in the interior of inhomogeneous penetrable bodies by external sources is based on well-known volume integral equations; this is particularly true for bodies of arbitrary shape and/or composition, for which separation of variables fails. In this paper the investigation focuses on acoustic (scalar fields) in inhomogeneous spheres of arbitrary composition, i.e., with r-, \u03b8- or even \u03c6-dependent medium parameters. The volume integral equation is solved by a hybrid (analytical\u2013numerical) method, which takes advantage of the orthogonal properties of spherical harmonics, and, in particular, of the so-called Dini\u2019s expansions of the radial functions, whose convergence is optimized. The numerical part comes at the end; it involves the evaluation of certain definite integrals and the matrix inversion for the expansion coefficients of the solution. The scalar case treated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Acoustical Society of America"
+        },
+        {
+            "Title": "Pseudopotentials: a simplified model for certain types of array elements",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4804080/",
+            "Abstract": "The results obtained by modeling an infinite linear array of electrically short dipoles by an array of pseudopotentials (the pseudopotential is a quantum-mechanical analog of the dipole) can be used for the analysis of finite linear dipole arrays. This idea is utilized to investigate properties of finite arrays such as resonances, grating lobes, and end effects. For a wide range of parameter values, it is found that the pseudopotentials can quantitatively describe all aforementioned properties of the actual finite array. Certain extentions to waveguide arrays are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Complex electric permittivity and magnetic permeability of ferrites calculated from scattering parameters",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901770/",
+            "Abstract": "The problem of scattering parameters (S 11 , S 21 ) for a rectangular waveguide (width a and height b) loaded with a dielectric and gyro tropic material of length d is considered, targeting the estimation of the electric permittivity and the parameters of the permeability tensor. The measurements are collected with a vector network analyzer equipped with a calibrated rectangular wave guide loaded with a parallelepiped Y 3 Fe 5 O 12 , with dimensions a s  \u2248 3/4\", b s  \u2248 3/8\" and length d \u2248 15.1 mm. The electric permittivity as a function of frequency is estimated by comparing the experimental measurements with the theoretically calculated, using a Debye type of relaxation for \u03f5 = \u03f5' - j \u03f5\" with \u03f5 dc  = 16.5 and relaxation time \u03c4 = 1 \u00d7 10 -15  s. The parameters of the magnetic permeability tensors are estimated by comparing the experimental data (|S 11 | and |S 21 |) measured under a dc-magnetic field with results of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Superdirective-type near fields in the method of auxiliary sources",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6183462/",
+            "Abstract": "According to recent works, when one applies the method of auxiliary sources (MAS) to scattering problems, it is possible for the MAS currents to be strongly oscillatory. For two simple geometries, the \u201ccylindrical\u201d and \u201cplanar\u201d problems, we study the near field generated by these oscillatory currents analytically and numerically and point out analogies to the near fields of superdirective antennas. For both geometries, the source is an infinitely long electric current filament while the respective scatterers are an infinitely long perfect electric conductor (PEC) circular cylinder, and an infinite PEC planar ground plane.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dipole Admittances Obtained via Convergence Acceleration Methods: Fast and Accurate Computations",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9076654/",
+            "Abstract": "Provided that the exact kernel is used, the application of simple and popular numerical methods to Hall?n-type integral equations for increasing numbers of basis functions (or points per wavelength) yields sequences of driving-point conductance and susceptance that can be extrapolated via properly selected convergence acceleration methods (CAMs). Such methods can lead to accurate final or converged results without the need for cumbersome and exhaustive runs or tests. Easy-to-apply CAMs are considered and highly accurate results are provided for the driving-point admittances of dipole antennas. The numerical results thus obtained are compared to well-known measured monopole admittances. These measured results are discussed in detail and some interpretations that allow a firm comparison are proposed. We thus combine good engineering practices (some of which are not novel) to obtain reliable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:u9iWguZQMMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "EM field induced in inhomogeneous dielectric spheres by external sources",
+            "Publication year": 2006,
+            "Publication url": "https://www.academia.edu/download/46465143/EM_Field_Induced_in_Inhomogeneous_Dielec20160614-10745-1508ef4.pdf",
+            "Abstract": "The electromagnetic field induced in the interior of inhomogeneous dielectric bodies by external sources can be evaluated by solving the well-known electric field integrodifferential equation (EFIDE). For spheres with constant magnetic permeability \u00b5, but variable dielectric constant \u03b5 (r, \u03b8, \u03d5) a direct, mainly analytical solution can be used even in case when the inhomogeneity in \u03b5 renders separation of variables inapplicable. This approach constitutes a generalization of the hybrid (analytical-numerical) scalar method developed by the authors in two recent papers, for the corresponding acoustic (scalar) field induced in spheres with variable density and/or compressibility. This extension, by no means trivial, owing to the vector and integrodifferential nature of the equation, is based on field-vector expansions using the set of three harmonic surface vectors, orthogonal and complete over the surface of the sphere, for their angular (\u03b8, \u03d5) dependence, and Dini\u2019s expansions of a general type for their radial functions. The use of the latter has been shown to be superior to other possible sets of orthogonal expansions and as far as its convergence is concerned it may further be improved by properly choosing a crucial parameter in their eigenvalue equation. The restriction to the spherical shape is imposed here to allow use of the well-known expansion of Green\u2019s dyadic in spherical eigenvectors of the vector wave equation.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Convergence and oscillations in method-of-auxiliary-sources analyses of dielectric scattering problems",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5651472/",
+            "Abstract": "It has been recently shown that in the case of scattering by a perfect electric conductor, it is possible to have a convergent Method of Auxiliary Sources (MAS) field due to divergent MAS currents. These conclusions are extended in the present paper for the case of the implementation of MAS to dielectric scattering problems. The main differences are pointed out, which regard the existence of two critical surfaces, each one related with the interior or the exterior auxiliary surface.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the solvability and application of numerical methods to Hallen's equation",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1106836/",
+            "Abstract": "Certain fundamental mathematical properties of Hallen's equation with the approximate kernel are discussed. Three cases are considered: (1) The delta-function generator, (2) the case of plane-wave incidence, and (3) the case of the frill generator. For a particular moment-method procedure (Galerkin's method with pulse functions), the consequences to the numerical solutions are examined. Generalizations to other numerical methods with subsectional basis functions are mentioned. Many of the results in this paper come from studying the simpler problem of the antenna of infinite length analytically and applying the understanding thus obtained to the case of the finite antenna.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the oscillations appearing in numerical solutions of solvable and nonsolvable integral equations for thin-wire antennas",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5422615/",
+            "Abstract": "Differences between certain solvable and nonsolvable ill-posed integral equations, with the same nonsingular kernel, are discussed. The main results come from constructing a solvable equation in the context of straight thin-wire antennas. The kernel of this equation is the usual approximate (also called reduced) kernel, while its exact solution is the familiar sinusoidal current. Numerical solutions to this solvable equation are compared to corresponding numerical solutions of the usual-Halle\u00bfn and Pocklington-equations with the approximate kernel; it is known from previous publications that these last two equations are nonsolvable and that their numerical solutions present severe oscillations when the number of basis functions is sufficiently large. It is found that the difficulties encountered in the former (solvable) equation are much less important compared to those of the nonsolvable ones. The same conclusion is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fields induced in inhomogeneous spheres by external sources: the scalar case",
+            "Publication year": 2001,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/4467/0000/Fields-induced-in-inhomogeneous-spheres-by-external-sources--the/10.1117/12.432931.short",
+            "Abstract": "The evaluation of acoustic or electromagnetic fields induced in the interior of inhomogeneous penetrable bodies by external sources is based on well known volume integral equations; this is particularly true for bodies of arbitrary shape and/or composition, for which separation of variables fails. In this paper we focus the investigation to acoustic (scalar fields) in inhomogeneous spheres of arbitrary composition, i.e., with r-, (theta) - dependent medium parameters. The volume integral equation is solved by a hybrid (analytical - numerical) method, which takes advantage of the orthogonal properties of spherical harmonics, and, in particular, of the so-called Dini's expansions of the radial functions; the optimum convergence of the former is, also, determined. The scalar case treated here, serves as a stepping stone for the solution of the more difficult electromagnetic problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:RGFaLdJalmkC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "On the application of numerical methods to Hall\u00e9n's equation: the case of a lossy medium",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8954780/",
+            "Abstract": "A previous paper (Fikioris and Wu, 2001) analyzed in detail the difficulties associated with the application of numerical methods to Hall\u00e9n's integral equation with the approximate kernel for the case of a lossless surrounding medium. This letter extends to the case where the medium is conducting and points out similarities and differences between the two cases. Our main tool is an analytical/asymptotic study of the antenna of infinite length.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Study of convergence, divergence, and oscillations in Method-of-Auxiliary-Sources (MAS) and Extended-Integral-Equation (EIE) solutions to a simple cavity problem",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6564402/",
+            "Abstract": "The Method of Auxiliary Sources (MAS) is a well-known method of computational electromagnetics and physics. Previous studies of MAS solutions to exterior scattering problems have shown that it is possible to have convergence of the field, which is the final desired quantity, together with divergence of the MAS currents, which are intermediate quantities. Another study has demonstrated that no similar phenomenon occurs when the computational method is a certain discretization of the extended integral equation (EIE). The purpose of the present paper is to extend these findings to interior scattering problems (i.e., scattering within cavities) and to point out differences with exterior problems. We discuss why the aforementioned phenomenon is undesirable in practice. We also investigate the relevancy of the analytic continuation of the interior scattered field to both MAS and the EIE.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An effective current approach for Hall\u00e9n\u2019s equation in center-fed dipole antennas with finite conductivity",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8657786/",
+            "Abstract": "We propose a remedy for the unphysical oscillations arising in the current distribution of carbon nanotube and imperfectly conducting antennas center driven by a delta-function generator when the approximate kernel is used. We do so by formulating an effective current, which was studied in detail in 2011 and 2013 papers, for a perfectly conducting (PC) linear cylindrical antenna of infinite length, with application to the finite-length antenna. We discuss our results in connection with the PC antenna, providing perturbative corrections to the current distribution for a large conductance, as well as presenting a delta sequence and the field of a Hertzian dipole for the effective current in the limit of vanishing conductance. To that end, we employ both analytical tools and numerical methods to compare with the experimental results.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:dshw04ExmUIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Convergence and oscillations in the Method of Auxiliary Sources",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4580896/",
+            "Abstract": "When one applies the method of auxiliary sources to scattering problems involving perfect conductors, one first seeks fictitious auxiliary currents located inside the conductor, and then determines the field from these currents. For a simple two-dimensional problem involving an infinite circular cylinder illuminated by an electric current filament, it has recently been shown analytically that it is possible to have divergent auxiliary currents (to make this statement precise, one must properly normalize the currents), together with a convergent field. It was also shown - through numerical investigations - that the aforementioned divergence appears as abnormal, rapid oscillations. In the present paper, we investigate such phenomena in more detail, with particular emphasis on oscillations: For a perfectly conducting ground plane illuminated by an electric current filament, we once again demonstrate the possibility of having \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reconfigurable proximity coupled patch antenna using magnetic bias",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6996401/",
+            "Abstract": "In this paper, we present the design, fabrication and characterization measurements of a proximity-coupled fed patch antenna that uses a ferrimagnetic compound, Yttrium Iron Garnet (YIG), as part of its substrate. External magnetic field is applied in order to achieve reconfigurability. Specifically, by applying a suitable external magnetic field, the linearly polarized single-band antenna exhibits dual-band behavior. Furthermore, it is proved via simulation and experimental measurements that we can achieve antenna polarization reconfigurability.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spectral asymptotics in one-dimensional periodic lattices with geometric interaction",
+            "Publication year": 2016,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/15M1008221",
+            "Abstract": "We investigate the spectrum of one-dimensional periodic lattices with geometric interaction in the asymptotic regimes of vanishing attenuation and long lattice lengths. Our mathematical analysis is motivated by a number of real-world problems where chains of radiative elements are embedded in waveguides in order to enhance the interlattice interactions and collective resonances. Under certain assumptions the problem reduces to determining the eigenvalues of a complex-valued, symmetric Toeplitz matrix whose elements follow a geometric progression. A recurrence formula is derived for the characteristic polynomial and becomes the basis for developing spectral asymptotics and resolving the eigenvalue patterns on the complex plane. Analytical asymptotic formulas are derived for the eigenvalues and their accuracy is assessed numerically.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "On two types of convergence in the method of auxiliary sources",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1650401/",
+            "Abstract": "The method of auxiliary sources (MAS) is often applied to problems involving an externally illuminated, smooth, perfect electric conductor (PEC). One seeks to approximately satisfy the boundary condition on the PEC surface using auxiliary sources located inside the PEC surface. Usually, the underlying auxiliary surface is also smooth and closed. The currents on the auxiliary sources (\"MAS currents\") are the initial unknowns; once they have been found, one can easily determine the field due to them (\"MAS field\") at all points external to the auxiliary surface and, in particular, at all points external to the PEC scatterer. We show that, in the limit N \u2192 \u221e, it is possible to have a convergent MAS field together with divergent MAS currents, and that this phenomenon is accompanied by an abrupt behavior of the limiting value of the MAS field. We show this possibility through an analytical study of a two-dimensional scattering \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Superoscillations with arbitrary polynomial shape",
+            "Publication year": 2015,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1751-8113/48/26/265204/meta",
+            "Abstract": "We present a method for constructing superoscillatory functions the superoscillatory part of which approximates a given polynomial with arbitrarily small error in a fixed interval. These functions are obtained as the product of the polynomial with a sufficiently flat, bandlimited envelope function whose Fourier transform has at least  continuous derivatives and an Nth derivative of bounded variation, N being the order of the polynomial. Polynomials of arbitrarily high order can be approximated if the Fourier transform of the envelope is smooth, ie a bump function.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:70eg2SAEIzsC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Spurious oscillations in a combined Method-of-Auxiliary-Sources/Extended-Integral-Equation solution to a simple scattering problem",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0022407313000125",
+            "Abstract": "Recent studies of the Method of Auxiliary Sources (MAS) solutions to a simple scattering problem have shown that it is possible to have convergence of the field, which is the finally desired quantity, together with divergence of the MAS currents, which are intermediate quantities. Another recent study has demonstrated that no similar phenomenon occurs when the computational method is a certain discretization of the Extended Integral Equation (EIE); this integral equation is due to Peter C. Waterman. The purpose of the present paper is to extend these findings to a combined MAS/EIE method that can be viewed as one possible 2-D implementation of what is usually called the Null-Field Method with Discrete Sources (NFMDS). We find that, despite the convergence of the field, divergence of currents\u2014manifesting itself as spurious oscillations\u2014can occur within this combined method under certain conditions. We point \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Magneto-dielectric substrate influence on the efficiency of a reconfigurable patch antenna",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7915355/",
+            "Abstract": "In this paper we investigate the influence of dielectric and magnetic losses of an Epoxy bonded Yttrium Iron Garnet (YIG-Epoxy) composite substrate on the performance of a reconfigurable microstrip patch antenna. The antenna under investigation is a microstrip patch antenna printed on a 60/40 w/w% YIG-Epoxy composite substrate and controlled by an externally applied DC magnetic field. It is observed that high dielectric losses of the composite substrate can dramatically deteriorate the radiation efficiency of the proposed antenna in the demagnetized state, while in the magnetized state the magnitude of the resonance linewidth (\u0394H) of the composite substrate is the main parameter responsible for the reduction or improvement of the radiation efficiency. Considerable effort has been made to fabricate a YIG-Epoxy substrate with improved properties regarding dielectric loss tangent and magnetic resonance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On choosing kernel and feed when analyzing dipole antennas via integral equations",
+            "Publication year": 2004,
+            "Publication url": "https://research.nu.edu.kz/en/publications/on-choosing-kernel-and-feed-when-analyzing-dipole-antennas-via-in",
+            "Abstract": "When one seeks to determine the input admittance of dipole antennas, one must choose between two kernels, the exact and the approximate kernel, and also between two types of feed, the delta-function generator and the frill generator. For dipole antennas of infinite length, we investigate-analytically and numerically-the similarities and differences between the various admittance values.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Original and modified kernels in method-of-moments analyses of resonant circular arrays of cylindrical dipoles",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5372014/",
+            "Abstract": "Properly dimensioned circular arrays of cylindrical dipoles are known to possess very narrow resonances. It is also known that analyzing such arrays using moment methods presents unique and particular difficulties, as application of such methods to the usual Hallen-type integral equations can yield meaningless results from which no further conclusions should be drawn. In the present paper, we apply moment methods to properly modified integral equations and obtain much more reliable results. We also observe that certain difficulties still remain, and discuss them in detail.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On an integral related to biaxially anisotropic media",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0377042702003680",
+            "Abstract": "An integral arising in certain studies of theoretical electromagnetics is evaluated and its properties are discussed in some detail. The integral has three integer, two real, and one complex parameter. The integrand involves a product of Bessel functions of different argument and order. Several generalizations are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Eigenvalue contour lines of Kac-Murdock-Szego matrices with a complex parameter",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2104.11527",
+            "Abstract": "A previous paper studied the so-called borderline curves of the Kac--Murdock--Szeg\\H{o} matrix $K_{n}(\\rho)=\\left[\\rho^{|j-k|}\\right]_{j,k=1}^{n}$, where $\\rho\\in\\mathbb{C}$. These are the level curves (contour lines) in the complex-$\\rho$ plane on which $K_n(\\rho)$ has a type-1 or type-2 eigenvalue of magnitude $n$, where $n$ is the matrix dimension. Those curves have cusps at all critical points $\\rho=\\rho_c$ at which multiple (double) eigenvalues occur. The present paper determines corresponding curves pertaining to eigenvalues of magnitude $N\\ne n$. We find that these curves no longer present cusps; and that, when $N<n$, the cusps have in a sense transformed into loops. We discuss the meaning of the winding numbers of our curves. Finally, we point out possible extensions to more general matrices.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:4fKUyHm3Qg0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Teaching Applied Mathematics for Electromagnetics by means of a Simple Scattering Problem",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9135559/",
+            "Abstract": "In this paper, combined techniques from Complex Analysis, Fourier Transforms and Compact Operators are applied to investigate convergence properties of the solutions of a simple two-dimensional scattering problem. It is shown how basic tools of Applied Mathematics can aid the understanding and the gain of physical insight on the behavior of the scattered fields.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:738O_yMBCRsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Institute of Communication and Computer Systems, National Technical University",
+            "Publication year": 2002,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=sXxqDQAAQBAJ&oi=fnd&pg=PA203&dq=info:43Eb9H8EdOUJ:scholar.google.com&ots=NNKacwXKgm&sig=lBxkUoOe_rcyZQLUpxVVv8D55oI",
+            "Abstract": "Many problems of electromagnetics are governed by singular integral equations of the first kind. Often, it is possible to obtain a differenteduation describing the problem by applying the \u201cMethod of Analytical Regularization\u201d and analytically inverting part of the original equation. Under proper conditions, and for a particular numerical method, numerical results obtained from the transformed equation are shown to beidentical to those obtained from the original equation. Consequences of this equivalences are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Input admittances arising from explicit solutions to integral equations for infinite-length dipole antennas",
+            "Publication year": 2005,
+            "Publication url": "https://www.jpier.org/pier/pier.php?paper=0503171",
+            "Abstract": "When one uses integral equations to determine the input admittance of dipole antennas, one must choose between two kernels, the exact and the approximate kernel, and also between (at least) two types of feed, the delta-function generator and the frill generator. For dipole antennas of infinite length, we investigate\u2014analytically and numerically\u2014the similarities and differences between the various admittance values. Particular emphasis is placed on the fact, discussed in detail in recent publications, that certain combinations lead to non-solvable integral equations.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "EMW Publishing"
+        },
+        {
+            "Title": "Patch antenna on YIG substrate with enhanced bandwidth and polarization characteristics",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6403015/",
+            "Abstract": "In this paper, we present a patch antenna design that uses a ferrimagnetic compound (YIG) as part of its substrate. The antenna is designed to operate in the Ku band (14 GHz). We investigate the influence of the YIG compound on the antenna characteristics under the application of an external magnetic field parallel to the antenna surface. It was found that the proper application of the magnetic field generates broadband characteristics to the antenna and changes the polarization from linear to circular, while it maintains adequate efficiency and gain values of the antenna.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On convergence and inherent oscillations within computational methods employing fictitious sources",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0898122115000565",
+            "Abstract": "Recent studies of the method of auxiliary sources (MAS) and the method of fundamental solutions (MFS) have shown that it is possible to have convergence of the field, which is the finally desired quantity, together with divergence of the fictitious sources, which are intermediate quantities. The aforementioned studies concern a simple scattering problem, where the scattered field satisfies the Helmholtz equation and the fictitious sources are placed symmetrically. In the present paper, we extend the previous results in two directions, one having to do with the geometry and the other with frequency. More precisely, we first show that the above convergence/divergence phenomena can also occur when the fictitious sources are placed asymmetrically and then study the nature of this divergence in detail. Second, we show that all findings carry over to the case of Laplace\u2019s equation. We, additionally, point out certain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:35N4QoGY0k4C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "On the nature of oscillations in discretizations of the extended integral equation",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5704555/",
+            "Abstract": "Using analytical methods, previous studies have shown that it is possible for oscillations to occur in the auxiliary surface current determined by applying the method of auxiliary sources (MAS) to problems of scattering by perfect conductors of a very simple shape. Such oscillations are inherent to MAS and would occur even in a hypothetical computer with ideal hardware and software. Because the integral equation relevant to MAS very much resembles the \u201cextended integral equation\u201d (in which the unknown is the actual surface current on the conductor), one might surmise that similar oscillations also occur in discretizations of the latter equation. In this communication, we use analytical means to show that this is not the case. Therefore, any oscillations that do occur in discretizations of the extended integral equation are-at least for \u201csufficiently simple\u201d problems-likely to be due to matrix ill-conditioning, which magnifies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Experimental verification of a dual band CP patch antenna using a biased YIG compound",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6711848/",
+            "Abstract": "In this paper, we present a patch antenna design and fabrication that uses a ferrimagnetic compound, Yttrium Iron Garnet (YIG), as part of its substrate. It is proved via both numerical simulations and experimental measurements, that with suitable application of an external magnetic field, a reconfigurable behavior in terms of the polarization characteristics can be achieved. The antenna is reconfigured from a single band linear polarized to a dual band circular polarized one, with different polarization sense in each resonance band. Mixtures containing YIG and epoxy resin in various consistencies have been examined.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Convergent fields generated by divergent currents in the method of auxiliary sources",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-74890-0_5",
+            "Abstract": "A very simple scattering problem is considered, together with its solution obtained via the Method of Auxiliary Sources (MAS). We show that it is possible to concurrently have divergence of the auxiliary currents together with convergence of the scattered field generated by these divergent currents. The divergence manifests itself as rapid, unphysical oscillations in the auxiliary currents. It is stressed that the oscillations are not due to effects such as roundoff, matrix ill-conditioning, or to the well-studied phenomenon of internal resonances. We arrive at our conclusions using a number of means including asymptotic methods and a thorough discussion of the singularities of the analytic continuation          of the scattered field. We also make a detailed comparison to corresponding discretizations of the Extended Integral Equation (EIE), in which similar phenomena do not occur. Analogies to superdirectivity and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Corrections to \u201cAn Effective-Current Approach for Hall\u00e9n\u2019s Equation in Center-Fed Dipole Antennas With Finite Conductivity\u201d[Jun 19 3680-3687]",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8895759/",
+            "Abstract": "Provides corrections to errors in the original paper. Corrected equations (17) and (18) are presented here.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:WbkHhVStYXYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Near-field behavior in the method of auxiliary sources (MAS) for a simple scattering problem",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5611408/",
+            "Abstract": "It has been recently observed that, when one applies the Method of Auxiliary Sources (MAS) to scattering problems involving an infinite circular cylinder illuminated by an electric current filament, it is possible to have divergent auxiliary currents together with a convergent field. In this paper, we investigate the near-field behavior for the so-called \u201ccylindrical problem\u201d with discrete auxiliary sources, in the region within the critical distance, where the aforementioned divergence appears as abnormal, rapid oscillations. We provide numerical results and derive an asymptotic formula for the case of a large number of sources that reveals the properties of the near field.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mellin-transform method for integral evaluation: introduction and applications to electromagnetics",
+            "Publication year": 2007,
+            "Publication url": "https://www.morganclaypool.com/doi/abs/10.2200/S00076ED1V01Y200612CEM013",
+            "Abstract": "This book introduces the Mellin-transform method for the exact calculation of one-dimensional definite integrals, and illustrates the application if this method to electromagnetics problems. Once the basics have been mastered, one quickly realizes that the method is extremely powerful, often yielding closed-form expressions very difficult to come up with other methods or to deduce from the usual tables of integrals. Yet, as opposed to other methods, the present method is very straightforward to apply; it usually requires laborious calculations, but little ingenuity. Two functions, the generalized hypergeometric function and the Meijer G-function, are very much related to the Mellin-transform method and arise frequently when the method is applied. Because these functions can be automatically handled by modern numerical routines, they are now much more useful than they were in the past.The Mellin-transform method \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Morgan & Claypool Publishers"
+        },
+        {
+            "Title": "The use of the frill generator in thin-wire integral equations",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1219592/",
+            "Abstract": "For a frill-generator feed, certain fundamental mathematical properties of Hallen's and Pocklington's equations with the approximate kernel are stated and derived. For a particular moment-method procedure (Galerkin's method with pulse functions applied to Hallen's equation), the consequences to the numerical solutions are carefully examined. Generalizations to other numerical methods with subsectional basis functions are discussed. Many of our results come from studying the simpler problem of the infinite dipole analytically and applying the understanding thus obtained to the case of the finite dipole.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Two-dimensional, highly directive currents on large circular loops",
+            "Publication year": 2000,
+            "Publication url": "https://aip.scitation.org/doi/abs/10.1063/1.1288245",
+            "Abstract": "Properties of idealized, two-dimensional current distributions on circular loops are investigated analytically via the solution of a constrained optimization problem. The directivity in the far field is maximized under a fixed C=N/T, where N is the integral of the square of the current magnitude and T is the total radiated power. C enters the ensuing Fourier series for the current implicitly through a Lagrange multiplier \u03b1. For non-negative \u03b1 and large electrical radius ka, the directivity and the current are evaluated approximately via combined use of the Poisson summation formula and the Mellin transform technique. As a result, a geometrical-ray representation for the current is derived for the case of directivities that are slightly larger than that of the uniform distribution. The analysis indicates certain advantages of large radiating structures for moderate values of the constraint C. In the limit C\u2192\u221e of Oseen\u2019s \u201cEinstein needle \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:8k81kl-MbHgC",
+            "Publisher": "American Institute of Physics"
+        },
+        {
+            "Title": "GR 157-73 Zografou, Athens, Greece",
+            "Publication year": 2002,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=bm4QPcXaCtIC&oi=fnd&pg=PA203&dq=info:FPpO7dTJYHUJ:scholar.google.com&ots=sANYC_u6WI&sig=2Z3o-bH4Uj4pnC1jcbJ11kk_q_0",
+            "Abstract": "Many problems of electromagnetics are governed by singular integral equations of the first kind. Often, it is possible to obtain a differentequation describing the problem by applying the \u201cMethod of Analytical Regularization\u201d and analytically inverting part of the original equation. Under proper conditions, and for a particular numerical method, numerical results obtained from the transformed equation are shown to beidentical to those obtained from the original equation. Consequences of this equivalences are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:08ZZubdj9fEC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "On the phenomenon of oscillations in the method of auxiliary sources",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4200904/",
+            "Abstract": "When one applies the method of auxiliary sources to scattering problems involving perfect conductors, one first seeks fictitious auxiliary currents located inside the conductor, and then determines the field from these currents. For a simple two-dimensional problem involving an infinite circular cylinder illuminated by an electric current filament, it has recently been shown analytically that it is possible to have divergent auxiliary currents (to make this statement precise, one must properly normalize the currents), together with a convergent field. It was also shown-through numerical investigations-that the aforementioned divergence appears as abnormal, rapid oscillations. In the present paper, we investigate such phenomena in more detail, with particular emphasis on oscillations. For a perfectly conducting ground plane illuminated by an electric current filament, we once again demonstrate the possibility of having \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Magnetodielectric materials in antenna design: exploring the potentials for reconfigurability",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8594547/",
+            "Abstract": "The growing demand for low-profile, efficient compact antennas with reconfigurable characteristics has prompted antenna engineers to use novel materials in place of conventional dielectrics. Magnetodielectric materials combining both dielectric and magnetic properties have been widely investigated. In this article, we present a comprehensive literature study that examines the advantages and limitations of using these materials. We focus primarily on magnetodielectric materials exhibiting anisotropic behavior and tunable permeability by means of physical mechanisms (e.g., by applying an external magnetic field). This article provides theoretical background, modeling guidelines, and a step-by-step simulation procedure, and aims to be a straightforward and useful guide for the development of reconfigurable antennas using magnetic materials. We explain the reasons for selecting ferrimagnetic oxides for antenna \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Asymptotic approximations elucidating the Gibbs phenomenon and Fej\u00e9r averaging",
+            "Publication year": 2017,
+            "Publication url": "https://content.iospress.com/articles/asymptotic-analysis/asy1408",
+            "Abstract": "This paper deals with two trigonometric sums that are pervasive in the literature dealing with the Gibbs phenomenon. In particular, the two sums often serve as test cases for methods\u2013such as the method of Fej\u00e9r averaging\u2013that aim to overcome the Gibbs phenomenon. Each of the two is the partial sum of a convergent infinite series with a discontinuous limit function. Our starting points are some recently-published results, both exact and asymptotic, for the two sums. For the case of a large number of terms, we proceed from those results to develop simple and revealing asymptotic formulas for the two sums and, also, for their Fej\u00e9r averages. These formulas break down as we approach the point of discontinuity, so we further develop similar formulas that are appropriate near the discontinuity point. We repeat all these tasks for a third sum whose corresponding infinite series exhibits a logarithmic singularity. Our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "q2lX-zgAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "On methods employing auxiliary sources for non-circular scattering problems",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7991879/",
+            "Abstract": "When methods employing auxiliary sources are applied to problems involving scatterers that are circular, it has been shown that convergent and correct fields are obtained by divergent and oscillatory amplitudes (currents) of the sources. In this work, we present some preliminary numerical results, which show that the above conclusions remain valid for non-circular scattering cases.",
+            "Abstract entirety": 1,
+            "Author pub id": "q2lX-zgAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

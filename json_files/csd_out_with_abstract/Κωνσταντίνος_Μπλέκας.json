@@ -1,0 +1,677 @@
+[{
+    "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039c\u03c0\u03bb\u03ad\u03ba\u03b1\u03c2",
+    "romanize name": "Konstantinos Blekas",
+    "School-Department": "\u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "uoi",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 8741,
+    "Scholar name": "Konstantinos Blekas",
+    "Scholar id": "dgH4XJkAAAAJ",
+    "Affiliation": "Assistant Professor, Computer Science and Engineering, University of Ioannina, Greece",
+    "Citedby": 1501,
+    "Interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Reinforcement Learning"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=dgH4XJkAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "A bayesian reinforcement learning framework using relevant vector machines",
+            "Publication year": 2011,
+            "Publication url": "https://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/viewPaper/3436",
+            "Abstract": "In this work we present an advanced Bayesian formulation to the task of control learning that employs the Relevance Vector Machines (RVM) generative model for value function evaluation. The key aspect of the proposed method is the design of the discount return as a generalized linear model that constitutes a well-known probabilistic approach. This allows to augment the model with advantageous sparse priors provided by the RVM's regression framework. We have also taken into account the significant issue of selecting the proper parameters of the kernel design matrix. Experiments have shown that our method produces improved performance in both simulated and real test environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Value function approximation through sparse bayesian modeling",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-29946-9_15",
+            "Abstract": "In this study we present a sparse Bayesian framework for value function approximation. The proposed method is based on the on-line construction of a dictionary of states which are collected during the exploration of the environment by the agent. A linear regression model is established for the observed partial discounted return of such dictionary states, where we employ the Relevance Vector Machine (RVM) and exploit its enhanced modeling capability due to the embedded sparsity properties. In order to speed-up the optimization procedure and allow dealing with large-scale problems, an incremental strategy is adopted. A number of experiments have been conducted on both simulated and real environments, where we took promising results in comparison with another Bayesian approach that uses Gaussian processes.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A sparse regression mixture model for clustering time-series",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-87881-0_7",
+            "Abstract": "In this study we present a new sparse polynomial regression mixture model for fitting time series. The contribution of this work is the introduction of a smoothing prior over component regression coefficients through a Bayesian framework. This is done by using an appropriate Student-t distribution. The advantages of the sparsity-favouring prior is to make model more robust, less independent on order p of polynomials and improve the clustering procedure. The whole framework is converted into a maximum a posteriori (MAP) approach, where the known EM algorithm can be applied offering update equations for the model parameters in closed forms. The efficiency of the proposed sparse mixture model is experimentally shown by applying it on various real benchmarks and by comparing it with the typical regression mixture and the K-means algorithm. The results are very promising.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Resolving congestions in the air traffic management domain via multiagent reinforcement learning methods",
+            "Publication year": 2019,
+            "Publication url": "https://arxiv.org/abs/1912.06860",
+            "Abstract": "In this article, we report on the efficiency and effectiveness of multiagent reinforcement learning methods (MARL) for the computation of flight delays to resolve congestion problems in the Air Traffic Management (ATM) domain. Specifically, we aim to resolve cases where demand of airspace use exceeds capacity (demand-capacity problems), via imposing ground delays to flights at the pre-tactical stage of operations (i.e. few days to few hours before operation). Casting this into the multiagent domain, agents, representing flights, need to decide on own delays w.r.t. own preferences, having no information about others' payoffs, preferences and constraints, while they plan to execute their trajectories jointly with others, adhering to operational constraints. Specifically, we formalize the problem as a multiagent Markov Decision Process (MA-MDP) and we show that it can be considered as a Markov game in which interacting agents need to reach an equilibrium: What makes the problem more interesting is the dynamic setting in which agents operate, which is also due to the unforeseen, emergent effects of their decisions in the whole system. We propose collaborative multiagent reinforcement learning methods to resolve demand-capacity imbalances: Extensive experimental study on real-world cases, shows the potential of the proposed approaches in resolving problems, while advanced visualizations provide detailed views towards understanding the quality of solutions provided.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "New detectors for watermarks with unknown power based on Student-t image priors",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4412889/",
+            "Abstract": "In this paper we present new detectors for additive watermarks when the power of the watermark is unknown. These detectors are based on modeling the image using student-t statistics. As a result, due to the generative properties of the student-t density function, such models are spatially adaptive and the Expectation-Maximization algorithm can be used to obtain maximum likelihood estimates of their parameters. Using these image models detectors based on the generalized likelihood ratio and Rao tests are derived for this problem. Numerical experiments are presented that demonstrate the properties of these detectors and compared them with previously proposed detectors.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An unsupervised artifact correction approach for the analysis of DNA microarray images",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1246642/",
+            "Abstract": "Image processing for analysis of microarray images is an important and challenging problem because imperfections and fabrication artifacts often impair our ability to measure accurately the quantities of interest in these images. In this paper we propose a microarray image analysis framework that provides a new method that automatically addresses each spot area in the image. Then, a new unsupervised clustering method is used which is based on a Gaussian mixture model (GMM) and the minimum description length (MDL) criterion, that allows the automatic spot area segmentation and the image artifacts isolation and correction to obtain more accurate spot quantitative values. Experimental results demonstrates the advantages of the proposed scheme in efficiently analysing microarrays.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image segmentation with a class-adaptive spatially constrained mixture model",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071125/",
+            "Abstract": "We propose a hierarchical and spatially variant mixture model for image segmentation where the pixel labels are random variables. Distinct smoothness priors are imposed on the label probabilities and the model parameters are computed in closed form through maximum a posteriori (MAP) estimation. More specifically, we propose a new prior for the label probabilities that enforces spatial smoothness of different degree for each cluster. By taking into account spatial information, adjacent pixels are more probable to belong to the same cluster (which is intuitively desirable). Also, all of the model parameters are estimated in closed form from the data. The proposed conducted experiments indicate that our approach compares favorably to both standard and previous spatially constrained mixture model-based segmentation techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An online kernel-based clustering approach for value function approximation",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30448-4_23",
+            "Abstract": "Value function approximation is a critical task in solving Markov decision processes and accurately modeling reinforcement learning agents. A significant issue is how to construct efficient feature spaces from samples collected by the environment in order to obtain an optimal policy. The particular study addresses this challenge by proposing an on-line kernel-based clustering approach for building appropriate basis functions during the learning process. The method uses a kernel function capable of handling pairs of state-action as sequentially generated by the agent. At each time step, the procedure either adds a new cluster, or adjusts the winning cluster\u2019s parameters. By considering the value function as a linear combination of the constructed basis functions, the weights are optimized in a temporal-difference framework in order to minimize the Bellman approximation error. The proposed method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Reinforcement learning-based motion planning of a triangular floating platform under environmental disturbances",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7536000/",
+            "Abstract": "This paper investigates the use of reinforcement learning for the motion planing of an autonomous triangular marine platform in unknown environments under various environmental disturbances. The marine platform is over-actuated, i.e. it has more control inputs than degrees of freedom. The proposed approach uses an online least-squared policy iteration scheme for value function approximation in order to estimate optimal policy. We evaluate our approach in simulation, taking under consideration the dynamics of the platform, the dynamics and limitations of the actuators, under the presence of wind, and sea current disturbances. We report simulation results concerning its performance on estimating optimal navigation policies to unknown environments. Despite the model dynamics, the actuation dynamics and limitations, and the environmental disturbances, the presented results are promising.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Mixture model analysis of DNA microarray images",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1461526/",
+            "Abstract": "In this paper, we propose a new methodology for analysis of microarray images. First, a new gridding algorithm is proposed for determining the individual spots and their borders. Then, a Gaussian mixture model (GMM) approach is presented for the analysis of the individual spot images. The main advantages of the proposed methodology are modeling flexibility and adaptability to the data, which are well-known strengths of GMM. The maximum likelihood and maximum a posteriori approaches are used to estimate the GMM parameters via the expectation maximization algorithm. The proposed approach has the ability to detect and compensate for artifacts that might occur in microarray images. This is accomplished by a model-based criterion that selects the number of the mixture components. We present numerical experiments with artificial and real data where we compare the proposed approach with previous \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Newtonian spectral clustering",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-04277-5_15",
+            "Abstract": "In this study we propose a systematic methodology for constructing a sparse affinity matrix to be used in an advantageous spectral clustering approach. Newton\u2019s equations of motion are employed to concentrate the data points around their cluster centers, using an appropriate potential. During this process possibly overlapping clusters are separated, and simultaneously, useful similarity information is gained leading to the enrichment of the affinity matrix. The method was further developed to treat high-dimensional data with application to document clustering. We have tested the method on several benchmark data sets and we witness a superior performance in comparison with the standard approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Split\u2013merge incremental learning (SMILE) of mixture models",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74695-9_30",
+            "Abstract": "In this article we present an incremental method for building a mixture model. Given the desired number of clusters K\u2009\u2265\u20092, we start with a two-component mixture and we optimize the likelihood by repeatedly applying a Split-Merge operation. When an optimum is obtained, we add a new component to the model by splitting in two, a properly chosen cluster. This goes on until the number of components reaches a preset limiting value. We have performed numerical experiments on several data\u2013sets and report a performance comparison with other rival methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Linear Bayesian reinforcement learning",
+            "Publication year": 2013,
+            "Publication url": "https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/viewPaper/6713",
+            "Abstract": "This paper proposes a simple linear Bayesian approach to reinforcement learning. We show that with an appropriate basis, a Bayesian linear Gaussian model is sufficient for accurately estimating the system dynamics, and in particular when we allow for correlated noise. Policies are estimated by first sampling a transition model from the current posterior, and then performing approximate dynamic programming on the sampled model. This form of approximate Thompson sampling results in good exploration in unknown environments. The approach can also be seen as a Bayesian generalisation of least-squares policy iteration, where the empirical transition matrix is replaced with a sample from the posterior.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Resource allocation in visual sensor networks using a reinforcement learning framework",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6622817/",
+            "Abstract": "In recent years, video delivery over wireless visual sensor networks (VSNs) has gained increasing attention. The lossy compression and channel errors that occur during wireless multimedia transmissions can degrade the quality of the transmitted video sequences. This paper addresses the problem of cross-layer resource allocation among the nodes of a wireless direct-sequence code division multiple access (DS-CDMA) VSN. The optimal group of pictures (GoP) length during the encoding process is also considered, based on the motion level of each video sequence. Three optimization criteria that optimize a different objective function of the video qualities of the nodes are used. The nodes' transmission parameters, i.e., the source coding rates, channel coding rates and power levels can only take discrete values. In order to tackle the resulting optimization problem, a reinforcement learning (RL) strategy that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "AI in Greece: The Case of Research on Linked Geospa al Data",
+            "Publication year": 2018,
+            "Publication url": "https://ojs.aaai.org/index.php/aimagazine/article/view/2801",
+            "Abstract": "Artificial Intelligence has been an active research field in Greece for over forty years, and there are more than thirty AI groups throughout the country covering almost all subareas of AI. One milestone for AI research in Greece was in 1988, when the Hellenic Artificial Intelligence Society (EETN) was founded as a non-profit, scientific organization on devoted to organizing and promo ng AI research in Greece and abroad. This article explores current lines of AI research in Greece and gives some history of Greek AI research since 1968.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:f2IySw72cVMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multi-label sampling based on local label imbalance",
+            "Publication year": 2022,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S003132032100474X",
+            "Abstract": "Class imbalance is an inherent characteristic of multi-label data that hinders most multi-label learning methods. One efficient and flexible strategy to deal with this problem is to employ sampling techniques before training a multi-label learning model. Although existing multi-label sampling approaches alleviate the global imbalance of multi-label datasets, it is actually the imbalance level within the local neighbourhood of minority class examples that plays a key role in performance degradation. To address this issue, we propose a novel measure to assess the local label imbalance of multi-label datasets, as well as two multi-label sampling approaches, namely Multi-Label Synthetic Oversampling based on Local label imbalance (MLSOL) and Multi-Label Undersampling based on Local label imbalance (MLUL). By considering all informative labels, MLSOL creates more diverse and better labeled synthetic instances \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "2006 reviewers list",
+            "Publication year": 2007,
+            "Publication url": "https://www.computer.org/csdl/journal/tb/2007/01/n0158/13rRUILtJxM",
+            "Abstract": "2006 Reviewers List* Page 1 A Saman Abeysekera Daniel Acevedo Shandar Ahmad Nir Ailon \nStuart Aitken Tatsuya Akutsu Reka Albert David Aldous Hashim Al-Hashimi Julien Allali Lloyd \nAllison Stephen Altschul Michael Andrec Stanislav Angelov Iris Antes Niloofar Arshadi Abdullah \nArslan Dan Ashlock George Asimenos Wai-Ho Au Francisco Azuaje B David Bader Joel Bader \nVineet Bafna Melanie Bahlo Tim Bailey Chris Bailey-Kellogg Pjotr Bala Richard Baldock S. \nBandyopadhyay Sheng Bao Ziv Bar-Joseph Christopher Beck Gary Benson S\u00e8verine B\u00e9rard \nBonnie Berger Anne Bergeron Marshall Bern Vincent Berry Alessandro Bevilacqua Anton \nBezuglov Sourangshu Bhattacharya Sven Bilke Mathieu Blanchette Jacek Blazewicz \nKonstantinos Blekas Pierre-Yves Boelle Robert Boissy Paola Bonizzoni Frederic Boyer Dumitru \nBrinza Philippe Broet Karl Broman Daniel Brown Michael Brudno William Bruno David --\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Double deep multiagent reinforcement learning for autonomous driving in traffic maps with road segments and unsignaled intersections",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9294615/",
+            "Abstract": "In this work we present an advanced deep multiagent reinforcement learning scheme for autonomous driving of multiple vehicles in traffic networks with road segments and unsignaled intersections. The key aspect of the proposed method lies on the definition of the possible routes one vehicle can follow as agents, called route-agents, that allows the transfer learning and the reuse of their learned policies. An informative state space is constructed by introducing a collision matrix that \u201cdisplays\u201d a predictive traffic map of the intersections that the vehicles traverse. Also, an efficient reward function is designed that aims at providing optimal driving policies in order to navigate vehicles safely and rapidly to their destinations, avoiding collisions. A combined scheme of a Deep Q-Network (DQN) and a feedforward neural network along with the Double Q-leaning technique is employed that offers more stable solutions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:u9iWguZQMMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Play ms. pac-man using an advanced reinforcement learning agent",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-07064-3_6",
+            "Abstract": "Reinforcement Learning (RL) algorithms have been promising methods for designing intelligent agents in games. Although their capability of learning in real time has been already proved, the high dimensionality of state spaces in most game domains can be seen as a significant barrier. This paper studies the popular arcade video game Ms. Pac-Man and outlines an approach to deal with its large dynamical environment. Our motivation is to demonstrate that an abstract but informative state space description plays a key role in the design of efficient RL agents. Thus, we can speed up the learning process without the necessity of Q-function approximation. Several experiments were made using the multiagent MASON platform where we measured the ability of the approach to reach optimum generic policies which enhances its generalization abilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Artificial neural networks with an infinite number of nodes",
+            "Publication year": 2017,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1742-6596/915/1/012006/meta",
+            "Abstract": "A new class of Artificial Neural Networks is described incorporating a node density function and functional weights. This network containing an infinite number of nodes, excels in generalizing and possesses a superior extrapolation capability.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Regression Mixture Modeling for fMRI data analysis",
+            "Publication year": 2015,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814611107_0009",
+            "Abstract": "Functional magnetic resonance imaging (fMRI) has become a novel technique for studying the human brain and obtaining maps of neuronal activity. An important goal in fMRI studies is to decompose the observed series of brain images in order either to detect activation when a stimulus is presented to the subject, or to identify and characterize underlying brain functional networks when the subject is at rest. In this chapter, a model class is presented for addressing this issue that consists of finite mixture of generalized linear regression models. The main building block of the method is the general linear model which constitutes a standard statistical framework for investigating relationships between variables of fMRI data. We extend this into a finite mixture framework that exploits enhanced modeling capabilities by incorporating some innovative sparse and spatial properties. In addition, a weighted multi-kernel \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A MATLAB code for recognition and counting of track images",
+            "Publication year": 2019,
+            "Publication url": "https://eproceedings.epublishing.ekt.gr/index.php/hnps/article/view/2259",
+            "Abstract": "A computer program named TRIAC written in MATLAB has been developed for track recognition and track parameters measurements from images of Solid State Nuclear Track Detectors CR39. The program using image analysis tools counts the number of tracks and classifies the tracks according to their radii. Comparison of manual scanning counts with those output by the automatic system are presented for detectors exposed to a radon rich environment. The system was also tested to differentiate tracks recorded by alpha particles of different energies",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A model based reinforcement learning approach using on-line clustering",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6495113/",
+            "Abstract": "A significant issue in representing reinforcement learning agents in Markov decision processes is how to design efficient feature spaces in order to estimate optimal policy. This particular study addresses this challenge by proposing a compact framework that employs an on-line clustering approach for constructing appropriate basis functions. Also, it performs a state-action trajectory analysis to gain valuable affinity information among clusters and estimate their transition dynamics. Value function approximation is used for policy evaluation in a least-squares temporal difference framework. The proposed method is evaluated in several simulated and real environments, where we took promising results.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Apprenticeship learning of flight trajectories prediction with inverse reinforcement learning",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3411408.3411427",
+            "Abstract": "One of the primary goals of Artificial Intelligence research is to develop machines with human-like intelligence, perception and reasoning. In this direction teaching apprentice agents by observing demonstrations delivered by experts is a framework of imitation learning that can provide improved solutions and it is possible to significantly outperform the demonstrator. Inverse reinforcement learning (IRL) is a paradigm relying on Markov Decision Processes (MDPs) that has a twofold target: to learn optimum policies of autonomous agents for solving complex tasks from successful demonstrations, and also to discover the unknown reward function that could explain the expert behavior. In this article we are addressing the trajectory prediction problem in the aviation domain by using an IRL approach. The proposed learning scheme provides an imitation process where the algorithm tries to imitate demonstrated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:SP6oXDckpogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A sequential method for discovering probabilistic motifs in proteins",
+            "Publication year": 2004,
+            "Publication url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0038-1633414",
+            "Abstract": "  Objectives:  This paper proposes a greedy algorithm for learning a mixture of motifs model through likelihood maximization, in order to discover common substrings, known as motifs, from a given collection of related biosequences.  Methods:  The approach sequentially adds a new motif component to a mixture model by performing a combined scheme of global and local search for appropriately initializing the component parameters. A hierarchical clustering scheme is also applied initially which leads to the identification of candidate motif models and speeds up the global searching procedure.  Results:  The performance of the proposed algorithm has been studied in both artificial and real biological datasets. In comparison with the well-known MEME approach, the algorithm is advantageous since it identifies motifs with significant conservation and produces larger protein fingerprints \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Schattauer GmbH"
+        },
+        {
+            "Title": "Combination of high-resolution magic angle spinning proton magnetic resonance spectroscopy and microscale genomics to type brain tumor biopsies",
+            "Publication year": 2007,
+            "Publication url": "https://www.spandidos-publications.com/ijmm/20/2/199",
+            "Abstract": "Advancements in the diagnosis and prognosis of brain tumor patients, and thus in their survival and quality of life, can be achieved using biomarkers that facilitate improved tumor typing. We introduce and implement a combinatorial metabolic and molecular approach that applies state-of-the-art, high-resolution magic angle spinning (HRMAS) proton (1H) MRS and gene transcriptome profiling to intact brain tumor biopsies, to identify unique biomarker profiles of brain tumors. Our results show that samples as small as 2 mg can be successfully processed, the HRMAS 1H MRS procedure does not result in mRNA degradation, and minute mRNA amounts yield high-quality genomic data. The MRS and genomic analyses demonstrate that CNS tumors have altered levels of specific 1H MRS metabolites that directly correspond to altered expression of Kennedy pathway genes; and exhibit rapid phospholipid turnover \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Spandidos Publications"
+        },
+        {
+            "Title": "A bayesian reinforcement learning framework using relevant vector machines",
+            "Publication year": 2011,
+            "Publication url": "http://olympias.lib.uoi.gr/jspui/handle/123456789/11059",
+            "Abstract": "Repository of UOI \"Olympias\": A bayesian reinforcement learning framework using relevant \nvector machines Skip navigation Home Browse Communities & Collections Browse Items by: \nIssue Date Author Title Subject Item Type Advanced Search Help About DSpace Sign on to: My \nDSpace Receive email updates Edit Profile Saved Searches Favorites Repository of UOI \n\"Olympias\" 1.Repository of OAI 2.\u0391\u03a0\u039f\u0398\u0395\u03a4\u0397\u03a1\u0399\u039f \"\u039f\u039b\u03a5\u039c\u03a0\u0399\u0391\u03a3\" 3.\u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd \n4.\u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 5.\u0386\u03c1\u03b8\u03c1\u03b1 \u03c3\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ac \n\u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03ac ( \u0391\u03bd\u03bf\u03b9\u03ba\u03c4\u03ac) \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac English Please use this identifier to cite or link to this item: \nhttps://olympias.lib.uoi.gr/jspui/handle/123456789/11059 Institution and School/Department of \nsubmitter: \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd. \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd. \u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \n\u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 URI: https://olympias.lib.uoi.gr/jspui/handle/123456789/in : \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Motion segmentation by model-based clustering of incomplete trajectories",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-23783-6_10",
+            "Abstract": "In this paper, we present a framework for visual object tracking based on clustering trajectories of image key points extracted from a video. The main contribution of our method is that the trajectories are automatically extracted from the video sequence and they are provided directly to a model-based clustering approach. In most other methodologies, the latter constitutes a difficult part since the resulting feature trajectories have a short duration, as the key points disappear and reappear due to occlusion, illumination, viewpoint changes and noise. We present here a sparse, translation invariant regression mixture model for clustering trajectories of variable length. The overall scheme is converted into a Maximum A Posteriori approach, where the Expectation-Maximization (EM) algorithm is used for estimating the model parameters. The proposed method detects the different objects in the input image sequence \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Collaborative multiagent reinforcement learning schemes for air traffic management",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8900719/",
+            "Abstract": "In this work we investigate the use of hierarchical collaborative reinforcement learning methods (H-CMARL) for the computation of joint policies to resolve congestion problems in the Air Traffic Management (ATM) domain. In particular, to address cases where the demand of airspace use exceeds capacity, we consider agents representing flights, who need to decide jointly on ground delays at the pre-tactical stage of operations, towards executing their trajectories while adhering to airspace capacity constraints. In doing so, agents collaborate, applying collaborative multi-agent reinforcement learning methods. Specifically, starting from a multiagent Markov Decision Process problem formulation, we introduce a flat and a hierarchical collaborative multiagent reinforcement learning method at two levels (the ground and an abstract one). To quantitatively assess the quality of solutions of the proposed approaches and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A spectral clustering approach based on Newton's equations of motion",
+            "Publication year": 2013,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/int.21582",
+            "Abstract": "In this article, we introduce Newtonian spectral clustering, a method that employs Newtonian preprocessing to promote cluster perspicuity and trajectory analysis to gain valuable affinity information. A simple two\u2010body potential is used to model the interaction under the influence of which the points move according to Newton's second law. This procedure produces a transformed data set with reduced cluster overlap, which favors the spectral clustering approach. This is so, because the affinity matrix can be enriched with information derived from the underlying interaction model. Special care is also given to estimate the Gaussian kernel parameter, since its role is important for the clustering procedure. The method is further extended appropriately to treat problems of high dimensionality. We have tested the proposed methodology on several benchmark data and compared its performance to that of rival techniques \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Motif-based protein sequence classification using neural networks",
+            "Publication year": 2005,
+            "Publication url": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2005.12.64",
+            "Abstract": "      We present a system for multi-class protein classification based on neural networks. The basic issue concerning the construction of neural network systems for protein classification is the sequence encoding scheme that must be used in order to feed the neural network. To deal with this problem we propose a method that maps a protein sequence into a numerical feature space using the matching scores of the sequence to groups of conserved patterns (called motifs) into protein families. We consider two alternative ways for identifying the motifs to be used for feature generation and provide a comparative evaluation of the two schemes. We also evaluate the impact of the incorporation of background features (2-grams) on the performance of the neural system. Experimental results on real datasets indicate that the proposed method is highly efficient and is superior to other well-known methods for protein \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Mary Ann Liebert, Inc."
+        },
+        {
+            "Title": "Revisiting java bytecode compression for embedded and mobile computing environments",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4227829/",
+            "Abstract": "Pattern-based Java bytecode compression techniques rely on the identification of identical instruction sequences that occur more than once. Each occurrence of such a sequence is substituted by a single instruction. The sequence defines a pattern that is used for extending the standard bytecode instruction set with the instruction that substitutes the pattern occurrences in the original bytecode. Alternatively, the pattern may be stored in a dictionary that serves for the bytecode decompression. In this case, the instruction that substitutes the pattern in the original bytecode serves as an index to the dictionary. In this paper, we investigate a bytecode compression technique that considers a more general case of patterns. Specifically, we employ the use of an advanced pattern discovery technique that allows locating patterns of an arbitrary length, which may contain a variable number of wildcards in place of certain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A sparse and spatially constrained generative regression model for fMRI data analysis",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5682010/",
+            "Abstract": "In this study, we present an advanced Bayesian framework for the analysis of functional magnetic resonance imaging (fMRI) data that simultaneously employs both spatial and sparse properties. The basic building block of our method is the general linear regression model that constitutes a well-known probabilistic approach. By treating regression coefficients as random variables, we can apply an enhanced Gibbs distribution function that captures spatial constrains and at the same time allows sparse representation of fMRI time series. The proposed scheme is described as a maximum a posteriori approach, where the known expectation maximization algorithm is applied offering closed-form update equations for the model parameters. We have demonstrated that our method produces improved performance and functional activation detection capabilities in both simulated data and real applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TRIAC: A code for track measurements using image analysis tools",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0168583X05018872",
+            "Abstract": "A computer program named TRIAC written in MATLAB has been developed for track recognition and track parameters measurements from images of the Solid State Nuclear Track Detectors CR39. The program using image analysis tools counts the number of tracks for dosimetry proposes and classifies the tracks according to their radii for the spectrometry of alpha-particles. Comparison of manual scanning counts with those output by the automatic system are presented for detectors exposed to a radon rich environment. The system was also tested to differentiate tracks recorded by alpha-particles of different energies.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Cover tree bayesian reinforcement learning",
+            "Publication year": 2014,
+            "Publication url": "https://www.jmlr.org/papers/volume15/tziortziotis14a/tziortziotis14a.pdf",
+            "Abstract": "This paper proposes an online tree-based Bayesian approach for reinforcement learning. For inference, we employ a generalised context tree model. This defines a distribution on multivariate Gaussian piecewise-linear models, which can be updated in closed form. The tree structure itself is constructed using the cover tree method, which remains efficient in high dimensional spaces. We combine the model with Thompson sampling and approximate dynamic programming to obtain effective exploration policies in unknown environments. The flexibility and computational simplicity of the model render it suitable for many reinforcement learning problems in continuous state spaces. We demonstrate this in an experimental comparison with a Gaussian process model, a linear model and simple least squares policy iteration.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Autonomous navigation of an over-actuated marine platform using reinforcement learning",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2903220.2903254",
+            "Abstract": "This paper investigates the use of reinforcement learning for the navigation of an over-actuated marine platform in unknown environments. The proposed approach uses an online least-squared policy iteration scheme for value function approximation in order to estimate optimal policy. We evaluate our approach in a simulation platform and report some initial results concerning its performance on estimating optimal navigation policies to unknown environments under different environmental disturbances. The results are promising.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Newtonian clustering: An approach based on molecular dynamics and global optimization",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320306003463",
+            "Abstract": "Given a data set, a dynamical procedure is applied to the data points in order to shrink and separate, possibly overlapping clusters. Namely, Newton's equations of motion are employed to concentrate the data points around their cluster centers, using an attractive potential, constructed specially for this purpose. During this process, important information is gathered concerning the spread of each cluster. In succession this information is used to create an objective function that maps each cluster to a local maximum. Global optimization is then used to retrieve the positions of the maxima that correspond to the locations of the cluster centers. Further refinement is achieved by applying the EM-algorithm to a Gaussian mixture model whose construction and initialization is based on the acquired information. To assess the effectiveness of our method, we have conducted experiments on a plethora of benchmark data sets. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Hierarchical multiagent reinforcement learning schemes for air traffic management",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s00521-021-05748-7",
+            "Abstract": "In this work we investigate the use of hierarchical multiagent reinforcement learning methods for the computation of policies to resolve congestion problems in the air traffic management domain. To address cases where the demand of airspace use exceeds capacity, we consider agents representing flights, who need to decide on ground delays at the pre-tactical stage of operations, towards executing their trajectories while adhering to airspace capacity constraints. Hierarchical reinforcement learning manages to handle real-world problems with high complexity, by partitioning the task into hierarchies of states and/or actions. This provides an efficient way of exploring the state\u2013action space and constructing an advantageous decision-making mechanism. We first establish a general framework of hierarchical multiagent reinforcement learning, and then, we further formulate four alternative schemes of abstractions, on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:Tiz5es2fbqcC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Protein sequence classification using probabilistic motifs and neural networks",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44989-2_84",
+            "Abstract": "The basic issue concerning the construction of neural network systems for protein classification is the sequence encoding scheme that must be used in order to feed the network. To deal with this problem we propose a method that maps a protein sequence into a numerical feature space using the matching local scores of the sequence to groups of conserved patterns (called motifs). We consider two alternative schemes for discovering a group of D motifs within a set of K-class sequences. We also evaluate the impact of the background features (2-grams) to the performance of the neural system. Experimental results on real datasets indicate that the proposed method is superior to other known protein classification approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A Mixture Model Based Markov Random Field",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17982088279755545229&hl=en&oi=scholarr",
+            "Abstract": "In this paper a new maximum a posteriori (MAP) approach based on mixtures of multinomials is proposed for discovering proba-bilistic patterns in sequences. The main advantage of the method is the ability to bypass the problem of overlapping patterns in neighboring po sitions of sequences by using a Markov random field (MRF) prior. This model consists of two components, the first models the pattern and the second the background. The Expectation-Maximization (EM) algorithm is used to estimate the model parameters and provides closed form updates. Special care is also taken to overcome the known dependence of the EM algorithm to initialization. This is done by applying an adaptive clustering scheme based on the k-means algorithm in order to produce good initial values for the pattern multinomial model. Experiments with artificial sets of sequences show that the proposed approach discovers qualitatively better patterns, in comparison with maximum likelihood (ML) and Gibbs sampling (GS) approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Molecular classification of brain tumor biopsies using solid-state magic angle spinning proton magnetic resonance spectroscopy and robust classifiers",
+            "Publication year": 2008,
+            "Publication url": "https://www.spandidos-publications.com/ijo/33/5/1017",
+            "Abstract": "Brain tumors are one of the leading causes of death in adults with cancer; however, molecular classification of these tumors with in vivo magnetic resonance spectroscopy (MRS) is limited because of the small number of metabolites detected. In vitro MRS provides highly informative biomarker profiles at higher fields, but also consumes the sample so that it is unavailable for subsequent analysis. In contrast, ex vivo high-resolution magic angle spinning (HRMAS) MRS conserves the sample but requires large samples and can pose technical challenges for producing accurate data, depending on the sample testing temperature. We developed a novel approach that combines a two-dimensional (2D), solid-state, HRMAS proton (1H) NMR method, TOBSY (total through-bond spectroscopy), which maximizes the advantages of HRMAS and a robust classification strategy. We used \u22482 mg of tissue at -8\u00b0C from each of 55 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Spandidos Publications"
+        },
+        {
+            "Title": "Identification of Brain Functional Networks Using a Model-Based Approach",
+            "Publication year": 2020,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218001420570049",
+            "Abstract": "Functional MRI (fMRI) is a valuable brain imaging technique. A significant problem, when analyzing fMRI time series, is the finding of functional brain networks when the brain is at rest, i.e. no external stimulus is applied to the subject. In this work, we present a probabilistic method to estimate the Resting State Networks (RSNs) using a model-based approach. More specifically, RSNs are assumed to be the result of a clustering procedure. In order to perform the clustering, a mixture of regression models are used. Furthermore, special care has been given in order to incorporate important functionalities, such as spatial and embedded sparsity enforcing properties, through the use of informative priors over the model parameters. Another interesting feature of the proposed scheme is the flexibility to handle all the brain time series at once, allowing more robust solutions. We provide comparative experimental results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "The mixture of multi-kernel relevance vector machines model",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6413910/",
+            "Abstract": "We present a new regression mixture model where each mixture component is a multi-kernel version of the Relevance Vector Machine (RVM). In the proposed model, we exploit the enhanced modeling capability of RVMs due to their embedded sparsity enforcing properties. %The main contribution of this %work is the employment of RVM models as components of a mixture %model and their application to the time series clustering problem. Moreover, robustness is achieved with respect to the kernel parameters, by employing a weighted multi-kernel scheme. The mixture model is trained using the maximum a posteriori (MAP) approach, where the Expectation Maximization (EM) algorithm is applied offering closed form update equations for the model parameters. An incremental learning methodology is also presented to tackle the parameter initialization problem of the EM algorithm. The efficiency of the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An adaptive regression mixture model for fMRI cluster analysis",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6319412/",
+            "Abstract": "Functional magnetic resonance imaging (fMRI) has become one of the most important techniques for studying the human brain in action. A common problem in fMRI analysis is the detection of activated brain regions in response to an experimental task. In this work we propose a novel clustering approach for addressing this issue using an adaptive regression mixture model. The main contribution of our method is the employment of both spatial and sparse properties over the body of the mixture model. Thus, the clustering approach is converted into a maximum a posteriori estimation approach, where the expectation-maximization algorithm is applied for model training. Special care is also given to estimate the kernel scalar parameter per cluster of the design matrix by presenting a multi-kernel scheme. In addition an incremental training procedure is presented so as to make the approach independent on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multiple mini-robots navigation using a collaborative multiagent reinforcement learning framework",
+            "Publication year": 2020,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/01691864.2020.1757507",
+            "Abstract": "In this work we investigate the use of a reinforcement learning (RL) framework for the autonomous navigation of a group of mini-robots in a multi-agent collaborative environment. Each mini-robot is driven by inertial forces provided by two vibration motors that are controlled by a simple and efficient low-level speed controller. The action of the RL agent is the direction of each mini-robot, and it is based on the position of each mini-robot, the distance between them and the sign of the distance gradient between each mini-robot and the nearest one. Each mini-robot is considered a moving obstacle that must be avoided by the others. We propose suitable state space and reward function that result in an efficient collaborative RL framework. The classical and the double Q-learning algorithms are employed, where the latter is considered to learn optimal policies of mini-robots that offers more stable and reliable learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Learning Policies for Resolving Demand-Capacity Imbalances During Pre-tactical Air Traffic Management",
+            "Publication year": 2017,
+            "Publication url": "https://www.scipedia.com/public/Chalkiadakis_et_al_2017a",
+            "Abstract": "Summarization: In this work we propose and investigate the use of collaborative reinforcement learning methods for resolving demand-capacity imbalances during pre-tactical Air Traffic Management. By so doing, we also initiate the study of data-driven techniques for predicting multiple correlated aircraft trajectories; and, as such, respond to a need identified in contemporary research and practice in air-traffic management. Our simulations, designed based on real-world data, confirm the effectiveness of our methods in resolving the demand-capacity problem, even in extremely hard scenarios. \u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf: 15th German Conference on Multiagent System Technologie",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Motion planning with energy reduction for a floating robotic platform under disturbances and measurement noise using reinforcement learning",
+            "Publication year": 2018,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213018600059",
+            "Abstract": "This paper investigates the use of reinforcement learning for the navigation of an over-actuated, i.e. more control inputs than degrees of freedom, marine platform in unknown environment. The proposed approach uses an online least-squared policy iteration scheme for value function approximation in order to estimate optimal policy, in conjunction with a low-level control system that controls the magnitude of the linear velocity, and the orientation of the platform. Primary goal of the proposed scheme is the reduction of the consumed energy. To that end, we propose a variable reward function that depends on the energy consumption of the platform. We evaluate our approach in a complex and realistic simulation environment and report results concerning its performance on estimating optimal navigation policies under different environmental disturbances, and position GPS measurement noise. The proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Magnetization transfer ratio and volumetric analysis of the brain in macrocephalic patients with neurofibromatosis type 1",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s00330-006-0323-1",
+            "Abstract": "The purpose of the study was to evaluate brain myelination by measuring the magnetization transfer ratio (MTR) and to measure grey (GMV) and white matter volume (WMV) in macrocephalic children with neurofibromatosis type 1 (NF1). Seven NF1 patients (aged 0.65\u201316.67 years) and seven age- and gender-matched controls were studied. A three-dimensional (3D) gradient echo sequence with and without magnetization transfer (MT) prepulse was used for MTR assessment. Volume measurements of GM and WM were performed by applying segmentation techniques on T2-weighted turbo spin echo images (T2WI). MTR of unidentified bright objects (UBOs) on T2WI in cerebellar white matter (52.8\u00b13.3), cerebral peduncles (48.5\u00b11.5), hippocampus (52.6\u00b11.1), internal capsule (55.7\u00b10.3), globus pallidus (52.7\u00b13.9), and periventricular white matter (52.6\u00b11.2) was lower than in the corresponding areas of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "RL-based path planning for an over-actuated floating vehicle under disturbances",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0921889017301884",
+            "Abstract": "This paper investigates the use of reinforcement learning for the path planning of an autonomous triangular marine platform in unknown environments under various environmental disturbances. The marine platform is over-actuated, i.e. it has more control inputs than degrees of freedom. The proposed approach uses a high-level online least-squared policy iteration scheme for value function approximation in order to estimate sub-optimal policy. The chosen action is considered as the desired input to a fast and efficient low-level velocity controller. We evaluate our approach in a simulated environment, including the dynamic model of the platform, the dynamics and limitations of the actuators, and the presence of wind, wave, and sea current disturbances. Simulation results are presented that demonstrate the performance of the proposed approach. Despite the model dynamics, the actuation dynamics and constrains \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Mixture model based image segmentation with spatial constraints",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7079913/",
+            "Abstract": "One of the many successful applications of Gaussian Mixture Models (GMMs) is in image segmentation, where spatially constrained mixture models have been used in conjuction with the Expectation-Maximization (EM) framework. In this paper, we propose a new methodology for the M-step of the EM algorithm that is based on a novel constrained optimization formulation. Numerical experiments using simulated and real images illustrate the superior performance of our methodology in terms of the attained maximum value of the objective function and segmentation accuracy compared to previous implementations of this approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Artificial Intelligence: Methods and Applications: 8th Hellenic Conference on AI, SETN 2014, Ioannina, Greece, May, 15-17, 2014, Proceedings",
+            "Publication year": 2014,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=NFm7BQAAQBAJ&oi=fnd&pg=PR5&dq=info:8q4DPVlNiv4J:scholar.google.com&ots=YCjb1MXKyC&sig=fa-s-NeJXJeM346ZgbTxb45EKxM",
+            "Abstract": "This book constitutes the proceedings of the 8th Hellenic Conference on Artificial Intelligence, SETN 2014, held in Ioannina, Greece, in May 2014. There are 34 regular papers out of 60 submissions, in addition 5 submissions were accepted as short papers and 15 papers were accepted for four special sessions. They deal with emergent topics of artificial intelligence and come from the SETN main conference as well as from the following special sessions on action languages: theory and practice; computational intelligence techniques for bio signal Analysis and evaluation; game artificial intelligence; multimodal recommendation systems and their applications to tourism.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "A sparse spatial linear regression model for fMRI data analysis",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-12842-4_24",
+            "Abstract": "In this study we present an advanced Bayesian framework for the analysis of functional Magnetic Resonance Imaging (fMRI) data that simultaneously employs both spatial and sparse properties. The basic building block of our method is the general linear model (GML) that constitute a well-known probabilistic approach for regression. By treating regression coefficients as random variables, we can apply an appropriate Gibbs distribution function in order to capture spatial constraints of fMRI time series. In the same time, sparse properties are also embedded through a RVM-based sparse prior over coefficients. The proposed scheme is described as a maximum a posteriori (MAP) approach, where the known Expectation Maximization (EM) algorithm is applied offering closed form update equations. We have demonstrated that our method produces improved performance and enhanced functional activation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Navigation of inertial forces driven mini-robots using reinforcement learning",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8900672/",
+            "Abstract": "In this paper we propose a reinforcement learning (RL) framework for the autonomous navigation of a pair of mini-robots that are driven by inertial forces. The inertial forces are provided by two vibration motors on each mini-robot which are controlled by a simple and efficient low-level speed controller. The action of the RL agent is the direction of the velocity of each mini-robot, and it based on the position of each mini-robot, the distance between the mini-robots, and the sign of the distance gradient. Each mini-robot is considered as a moving obstacle to the other that must by avoided. We have introduced a suitable reward function that results into an efficient collaborative RL approach. A simulation environment is created using the ROS framework, that include the dynamic model of the mini-robot and of the vibration motors. Several application scenarios are simulated, and the presented results demonstrate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Curve clustering with spatial constraints for analysis of spatiotemporal data",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4410331/",
+            "Abstract": "In this paper we present a new approach for curve clustering designed for analysis of spatiotemporal data. Such kind of data contains both spatial and temporal patterns that we desire to capture. The proposed methodology is based on regression and Gaussian mixture modeling and the novelty of the herein work is the incorporation of spatial smoothness constraints in the form of a prior for the data labels. This enables the proposed model to take into account the underlying property of spatiotemporal data that spatially adjacent data points most likely should belong to the same cluster. A maximum a posteriori Expectation Maximization (MAP-EM) algorithm is used for learning this model. We present numerical experiments with simulated data where the ground truth is known in order to assess the value of the introduced smoothness constraint, and also with real cardiac perfusion MRI data. The results are very \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A mixture model based markov random field for discovering patterns in sequences",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11752912_5",
+            "Abstract": "In this paper a new maximum a posteriori (MAP) approach based on mixtures of multinomials is proposed for discovering probabilistic patterns in sequences. The main advantage of the method is the ability to bypass the problem of overlapping patterns in neighboring positions of sequences by using a Markov random field (MRF) prior. This model consists of two components, the first models the pattern and the second the background. The Expectation-Maximization (EM) algorithm is used to estimate the model parameters and provides closed form updates. Special care is also taken to overcome the known dependence of the EM algorithm to initialization. This is done by applying an adaptive clustering scheme based on the k-means algorithm in order to produce good initial values for the pattern multinomial model. Experiments with artificial sets of sequences show that the proposed approach discovers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Combining magnetic resonance spectroscopy and molecular genomics offers better accuracy in brain tumor typing and prediction of survival than either methodology alone",
+            "Publication year": 2011,
+            "Publication url": "https://www.spandidos-publications.com/10.3892/ijo.2011.928",
+            "Abstract": "Recent advents in magnetic resonance spectroscopy (MRS) techniques permit subsequent microarray analysis over the entire human transcriptome in the same tissue biopsies. However, extracting information from such immense quantities of data is limited by difficulties in recognizing and evaluating the relevant patterns of apparent gene expression in the context of the existing knowledge of phenotypes by histopathology. Using a quantitative approach derived from a knowledge base of pathology findings, we present a novel methodology used to process genome-wide transcription and MRS data. This methodology was tested to examine metabolite and genome-wide profiles in MRS and RNA in 55 biopsies from human subjects with brain tumors with~ 100% certainty. With the guidance of histopathology and clinical outcome, 15 genes with the assistance of 15 MRS metabolites were able to be distinguished by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Spandidos Publications"
+        },
+        {
+            "Title": "Sparse regression mixture modeling with the multi-kernel relevance vector machine",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/article/10.1007/s10115-013-0704-0",
+            "Abstract": "A regression mixture model is proposed where each mixture component is a multi-kernel version of the Relevance Vector Machine (RVM). This mixture model exploits the enhanced modeling capability of RVMs, due to their embedded sparsity enforcing properties. In order to deal with the selection problem of kernel parameters, a weighted multi-kernel scheme is employed, where the weights are estimated during training. The mixture model is trained using the maximum a posteriori approach, where the Expectation Maximization (EM) algorithm is applied offering closed form update equations for the model parameters. Moreover, an incremental learning methodology is also presented that tackles the parameter initialization problem of the EM algorithm along with a BIC-based model selection methodology to estimate the proper number of mixture components. We provide comparative experimental results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "Quality optimization of H. 264/AVC video transmission over noisy environments using a sparse regression framework",
+            "Publication year": 2015,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9410/94100D/Quality-optimization-of-H264-AVC-video-transmission-over-noisy-environments/10.1117/12.2077243.short",
+            "Abstract": "We propose the use of the Least Absolute Shrinkage and Selection Operator (LASSO) regression method in order to predict the Cumulative Mean Squared Error (CMSE), incurred by the loss of individual slices in video transmission. We extract a number of quality-relevant features from the H.264/AVC video sequences, which are given as input to the LASSO. This method has the benefit of not only keeping a subset of the features that have the strongest effects towards video quality, but also produces accurate CMSE predictions. Particularly, we study the LASSO regression through two different architectures; the Global LASSO (G.LASSO) and Local LASSO (L.LASSO). In G.LASSO, a single regression model is trained for all slice types together, while in L.LASSO, motivated by the fact that the values for some features are closely dependent on the considered slice type, each slice type has its own regression model, in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:70eg2SAEIzsC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Inferno\u2013an intelligent framework for recognizing pornographic web pages",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-23808-6_46",
+            "Abstract": "In this work we present InFeRno, an intelligent web pornography elimination system, classifying web pages based solely on their visual content. The main characteristics of our system include: (i) a powerful vector space with a small but sufficient number of features that manage to improve the discriminative ability of the SVM classifier; (ii) an extra class (bikini) that strengthens the performance of the classifier; (iii) an overall classification scheme that achieves high accuracy at considerably lower runtime costs compared to current state-of-the-art systems; and (iv) a full-fledged implementation of the proposed system capable of being integrated with ICAP-aware web proxy cache servers.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Incremental mixture learning for clustering discrete data",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24674-9_23",
+            "Abstract": "This paper elaborates on an efficient approach for clustering discrete data by incrementally building multinomial mixture models through likelihood maximization using the Expectation-Maximization (EM) algorithm. The method adds sequentially at each step a new multinomial component to a mixture model based on a combined scheme of global and local search in order to deal with the initialization problem of the EM algorithm. In the global search phase several initial values are examined for the parameters of the multinomial component. These values are selected from an appropriately defined set of initialization candidates. Two methods are proposed here to specify the elements of this set based on the agglomerative and the kd-tree clustering algorithms. We investigate the performance of the incremental learning technique on a synthetic and a real dataset and also provide comparative results with the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Resting state fMRI analysis using a spatial regression mixture model",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6701616/",
+            "Abstract": "Functional MRI (fMRI) is one of the most important techniques to study the human brain. A relatively new problem to the analysis of fMRI data is the identification of brain networks when the brain is at rest i.e. no external stimulus is applied to the subject. In this work a method to find the Resting State Networks (RSNs), using fMRI time series, is proposed. To achieve that our method uses the Regression Mixtures Models (RMMs). RMMs are mixture models specifically design to cluster time series. Furthermore, our method takes into account the spatial correlations of fMRI data by using a new functional for the responsibilities of the mixture. Experimental results have showed the usefullness of the proposed approach compared to other methods of the field such as the k-means algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fuzzy neural network-based texture analysis of ultrasonic images",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/816243/",
+            "Abstract": "The efficacy of a novel fuzzy neural network classifier for the characterization of ultrasonic liver images based on texture analysis techniques is investigated. Classification features are extracted with the use of image texture analysis techniques such as fractal dimension texture analysis, spatial gray-level dependence matrices, gray-level difference statistics, gray-level run-length statistics, and first-order gray-level parameters. These features are fed to a neural network classifier based on geometrical fuzzy sets. Starting from the construction of the Voronoi diagram of the training patterns, an aggregation of Voronoi regions is performed, leading to the identification of larger regions belonging exclusively to one of the pattern classes. The resulting scheme is a constructive algorithm that defines fuzzy clusters of patterns. Based on observations concerning the grade of membership of the training patterns to the created \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Functionally weighted neural networks: frugal models with high accuracy",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/article/10.1007/s42452-020-03713-y",
+            "Abstract": "In this article, we introduce the \u201cfunctionally weighted neural network,\u201d a new addition to the rich collection of artificial neural networks. Instead of a finite number of discrete nodes, we consider an infinite number of continuously distributed nodes. The weights assume a functional form, and the sum over the nodes becomes an integral. The gain is a significant reduction in the number of adjustable parameters, accompanied by an enhanced generalization performance. To quantitatively assess the quality of this new network, we have performed numerical experiments on a number of benchmark datasets. Comparison with state-of-the-art techniques reveals the advantages of the proposed method and emphasizes its modeling potential.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "A spatially constrained mixture model for image segmentation",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1402510/",
+            "Abstract": "Gaussian mixture models (GMMs) constitute a well-known type of probabilistic neural networks. One of their many successful applications is in image segmentation, where spatially constrained mixture models have been trained using the expectation-maximization (EM) framework. In this letter, we elaborate on this method and propose a new methodology for the M-step of the EM algorithm that is based on a novel constrained optimization formulation. Numerical experiments using simulated images illustrate the superior performance of our method in terms of the attained maximum value of the objective function and segmentation accuracy compared to previous implementations of this approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TRIAC II. A MatLab code for track measurements from SSNT detectors",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0010465507002196",
+            "Abstract": "A computer program named TRIAC II written in MATLAB and running with a friendly GUI has been developed for recognition and parameters measurements of particles' tracks from images of Solid State Nuclear Track Detectors. The program, using image analysis tools, counts the number of tracks and depending on the current working mode classifies them according to their radii (Mode I\u2014circular tracks) or their axis (Mode II\u2014elliptical tracks), their mean intensity value (brightness) and their orientation. Images of the detectors' surfaces are input to the code, which generates text files as output, including the number of counted tracks with the associated track parameters. Hough transform techniques are used for the estimation of the number of tracks and their parameters, providing results even in cases of overlapping tracks. Finally, it is possible for the user to obtain informative histograms as well as output files for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "A Bayesian Ensemble Regression Framework on the Angry Birds Game",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7307161/",
+            "Abstract": "In this paper, we introduce AngryBER, an intelligent agent architecture on the Angry Birds domain that employs a Bayesian ensemble inference mechanism to promote decision-making abilities. It is based on an efficient tree-like structure for encoding and representing game screenshots, where it exploits its enhanced modeling capabilities. This has the advantage to establish an informative feature space and translate the task of game playing into a regression analysis problem. A Bayesian ensemble regression framework is presented by considering that every combination of objects' material and bird type has its own regression model. We address the problem of action selection as a multiarmed bandit problem, where the upper confidence bound (UCB) strategy has been used. An efficient online learning procedure has been also developed for training the regression models. We have evaluated the proposed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel framework for motion segmentation and tracking by clustering incomplete trajectories",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314212001063",
+            "Abstract": "In this paper, we present a framework for visual object tracking based on clustering trajectories of image key points extracted from an image sequence. The main contribution of our method is that the trajectories are automatically extracted from the image sequence and they are provided directly to a model-based clustering approach. In most other methodologies, the latter constitutes a difficult part since the resulting feature trajectories have a short duration, as the key points disappear and reappear due to occlusion, illumination, viewpoint changes and noise. We present here a sparse, translation invariant regression mixture model for clustering trajectories of variable length. The overall scheme is converted into a maximum a posteriori approach, where the Expectation\u2013Maximization (EM) algorithm is used for estimating the model parameters. The proposed method detects the different objects in the input image \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Greedy mixture learning for multiple motif discovery in biological sequences",
+            "Publication year": 2003,
+            "Publication url": "https://academic.oup.com/bioinformatics/article-abstract/19/5/607/239393",
+            "Abstract": "Motivation: This paper studies the problem of discovering subsequences,  known as  motifs, that are common to a given collection of related biosequences, by proposing a greedy algorithm for learning a mixture of motifs model through  likelihood maximization. The approach adds sequentially a new motif to a  mixture model by performing a combined scheme of global and local search for  appropriately initializing its parameters. In addition, a hierarchical  partitioning scheme based on kd-trees is presented for partitioning the input dataset in order to speed-up the global searching procedure. The proposed method compares favorably over the well-known MEME  approach and treats successfully several drawbacks of MEME.Results: Experimental results indicate that the algorithm is  advantageous in identifying larger groups of motifs  characteristic of biological families with significant conservation. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "A regression mixture model with spatial constraints for clustering spatiotemporal data",
+            "Publication year": 2008,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218213008004278",
+            "Abstract": "We present a new approach for curve clustering designed for analysis of spatiotemporal data. Such data contains both spatial and temporal patterns that we desire to capture. The proposed methodology is based on regression and Gaussian mixture modeling. The novelty of the herein work is the incorporation of spatial smoothness constraints in the form of a prior for the data labels. This allows to take into account the property of spatiotemporal data according to which spatially adjacent data points have higher probability to belong to the same cluster. The proposed model can be formulated as a Maximum a Posteriori (MAP) problem, where the Expectation Maximization (EM) algorithm is used to estimate the model parameters. Several numerical experiments with both simulated data and real cardiac perfusion MRI data are used for evaluating the methodology. The results are promising and demonstrate the value of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Learning policies for resolving demand-capacity imbalances during pre-tactical air traffic management",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-64798-2_15",
+            "Abstract": "In this work we propose and investigate the use of collaborative reinforcement learning methods for resolving demand-capacity imbalances during pre-tactical Air Traffic Management. By so doing, we also initiate the study of data-driven techniques for predicting multiple correlated aircraft trajectories; and, as such, respond to a need identified in contemporary research and practice in air-traffic management. Our simulations, designed based on real-world data, confirm the effectiveness of our methods in resolving the demand-capacity problem, even in extremely hard scenarios.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "The expansion of TRIAC to TRIACII code for track measurements from SSNT detectors",
+            "Publication year": 2020,
+            "Publication url": "https://eproceedings.epublishing.ekt.gr/index.php/hnps/article/view/2636",
+            "Abstract": "The expansion of TRIAC to TRIACII code will be described. Both codes have been developed for recognition and parameters measurements of particles\u2019 tracks from images of Solid State Nuclear Track Detectors. While the first program considers the tracks as circles, TRIACII code, using image analysis tools, counts the number of tracks and depending on the current working mode classifies them according to their radii (Mode I-circular tracks) or their axis (Mode II-elliptical tracks), their mean intensity value (brightness) and their orientation. Hough transform techniques are used for the estimation of tracks\u2019 number and their parameters which are able to give results even for overlapping tracks. The new program has been used for radon\u2019s progeny behavior and alpha particles\u2019 energy discrimination.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:NhqRSupF_l8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multiagent reinforcement learning methods to resolve demand capacity balance problems",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3200947.3201010",
+            "Abstract": "In this article, we explore the computation of joint policies for autonomous agents to resolve congestions problems in the air traffic management (ATM) domain. Agents, representing flights, have limited information about others' payoffs and preferences, and need to coordinate to achieve their tasks while adhering to operational constraints. We formalize the problem as a multiagent Markov decision process (MDP) towards deciding flight delays to resolve demand and capacity balance (DCB) problems in ATM. To this end, we present multiagent reinforcement learning methods that allow agents to interact and form own policies in coordination with others. Experimental study on real-world cases, confirms the effectiveness of our approach in resolving the demand-capacity balance problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "dgH4XJkAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detecting pornographic images by localizing skin ROIs",
+            "Publication year": 2013,
+            "Publication url": "https://www.igi-global.com/article/detecting-pornographic-images-by-localizing-skin-rois/79140",
+            "Abstract": "In this study, a novel algorithm for recognizing pornographic images based on the analysis of skin color regions is presented. The skin color information essentially provides Regions of Interest (ROIs). It is demonstrated that the convex hull of these ROIs provides semantically useful information for pornographic image detection. Based on these convex hulls, the authors extract a small set of low-level visual features that are empirically proven to possess discriminative power for pornographic image classification. In this study, the authors consider multi-class pornographic image classification, where the \u201cnude\u201d and \u201cbenign\u201d image classes are further split into two specialized sub-classes, namely \u201cbikini\u201d/\u201d porn\u201d and \u201cskin\u201d/\u201d non-skin\u201d, respectively. The extracted feature vectors are fed to an ensemble of random forest classifiers for image classification. Each classifier is trained on a partition of the training set and solves a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "dgH4XJkAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IGI Global"
+        }
+    ]
+}]

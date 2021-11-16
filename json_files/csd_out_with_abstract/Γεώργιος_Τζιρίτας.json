@@ -1,0 +1,769 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u03a4\u03b6\u03b9\u03c1\u03af\u03c4\u03b1\u03c2",
+    "romanize name": "Georgios Tziritas",
+    "School-Department": "\u0395\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b7\u03c2 \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd",
+    "University": "uoc",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 4745,
+    "Scholar name": "Georgios Tziritas",
+    "Scholar id": "mIh2JWAAAAAJ",
+    "Affiliation": "University of Crete",
+    "Citedby": 7230,
+    "Interests": [
+        "Image Processing",
+        "Computer Vision",
+        "Signal Processing",
+        "Pattern Recognition",
+        "Multimedia"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=mIh2JWAAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Fully-automatic segmentation of cardiac images using 3-D MRF model optimization and substructures tracking",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-52280-7_13",
+            "Abstract": "We present a fully-automatic fast method for heart segmentation in pediatric cardiac MRI. The segmentation algorithm is a two step process. In the first step a 3-D Markov random field (MRF) model is assumed for labeling the MR images into four intensity classes, the two of them corresponding to the blood pool areas. The intensity distribution of the four classes is estimated by an unsupervised method. In the second step the resulting regions are, maybe further segmented and, classified in the three main categories: blood pool, myocardium and background. The classification is obtained by tracking the cardiac substructures that can be clearly distinguished in detected specific slices. The whole process is driven by the data analysis and by generic models on 2-D regions and 3-D volumes, without a deformation model, which eventually might be fitted. The algorithm is evaluated on the HSVMR 2016 data set \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:geHnlv5EZngC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Any dimension polygonal approximation based on equal errors principle",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167865506002534",
+            "Abstract": "In this paper, we present an algorithm based on equal errors principle, which solves the general version of polygonal approximation problem (GPA). The approximation nodes of GPA can be selected anywhere on the original polygonal curve, while the \u201cclassical\u201d (usually used) polygonal approximation problem (PA) demands the vertices to be a subset of the original polygon vertices. Although the proposed algorithm does not guarantee global minimum distortion, in many cases almost optimal solutions are achieved. Moreover, it is very flexible on changes of error criteria and on curve dimension yielding an alternative and in many cases approximations with lower error (by relaxing the simplification constraint) than the optimal PA methods with about the same computation cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Snake terrestrial locomotion synthesis in 3d virtual environments",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-006-0035-1",
+            "Abstract": "We present a method for a 3D snake model construction and terrestrial snake locomotion synthesis in 3D virtual environments using image sequences. The snake skeleton is extracted and partitioned into equal segments using a new iterative algorithm for solving the equipartition problem. This method is applied to 3D model construction and at the motion analysis stage. Concerning the snake motion, the snake orientation is controlled by a path planning method. An animation synthesis algorithm, based on a physical motion model and tracking data from image sequences, describes the snake\u2019s velocity and skeleton shape transitions. Moreover, the proposed motion planning algorithm allows a large number of skeleton shapes, providing a general method for aperiodic motion sequences synthesis in any motion graph. Finally, the snake locomotion is adapted to the 3D local ground, while its behavior can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Optimal projection of 2-D displacements for 3-D translational motion estimation",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885602000884",
+            "Abstract": "Recovering 3-D motion parameters from 2-D displacements is a difficult task, given the influence of noise contained in these data, which correspond at best to a crude approximation of the real motion field. Stability for the system of equations to solve is therefore essential. In this paper, we present a novel method based on an unbiased estimator that aims at enhancing this stability and strongly reduces the influence of noise contamination. Experimental results using synthetic and real optical flows are presented to demonstrate the effectiveness of our method in comparison to a set of selected methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "3D translational motion estimation from 2D displacements",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/958651/",
+            "Abstract": "Recovering 3D motion parameters from 2D displacements is a difficult task, given the influence of noise contained in these data, which correspond at best to a crude approximation of the real motion field. The need for stability of the system of equations to be solved is therefore essential. We present a novel method based on an unbiased estimator that aims at enhancing this stability and strongly reduces the influence of noise contamination. Experimental results using synthetic and real optical flows are presented to demonstrate the effectiveness of our method in comparison to a set of selected methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Interactive walkthroughs using\" morphable 3D-mosaics\"",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1335267/",
+            "Abstract": "This work presents a hybrid (geometry- & image-based) technique suitable for providing interactive walkthroughs of large, complex outdoor scenes. Motion is restricted along a smooth predefined path and the input to the system is a sparse set of stereoscopic views at certain points (key-positions) along that path (one view per position). An approximate local 3D model is constructed from each view, capable of capturing photometric and geometric properties of the scene only locally. Then during the rendering process, a continuous morphing (both photometric & geometric) takes place between successive local 3D models, using what we call a \"morphable 3D-model\". The morphing proceeds in a physically-valid way. For this reason, a wide-baseline image matching technique is proposed, handling cases where the wide baseline between the two images is mainly due to a looming of the camera. Our system can be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:_xSYboBqXhAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Shape-motion based athlete tracking for multilevel action recognition",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11789239_40",
+            "Abstract": "An automatic human shape-motion analysis method based on a fusion architecture is proposed for human action recognition in videos. Robust shape-motion features are extracted from human points detection and tracking. The features are combined within the Transferable Belief Model (TBM) framework for action recognition. The TBM-based modelling and fusion process allows to take into account imprecision, uncertainty and conflict inherent to the features. Action recognition is performed by a multilevel analysis. The sequencing is exploited for feedback information extraction in order to improve tracking results. The system is tested on real videos of athletics meetings to recognize four types of jumps: high jump, pole vault, triple jump and long jump.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Interactive Image Segmentation via Graph Clustering and Synthetic Coordinates Modeling",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40261-6_71",
+            "Abstract": "We propose a method for interactive image segmentation. We construct a weighted graph that represents the superpixels and the connections between them. An efficient algorithm for graph clustering based on synthetic coordinates is used yielding an initial map of classified pixels. The proposed method minimizes a min-max Bayesian criterion that has been successfully used on image segmentation problem taking into account visual information as well as the given markers. Experimental results and comparisons with other methods demonstrate the high performance of the proposed scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The equipartition of curves",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925772109000121",
+            "Abstract": "In this paper we analyze the problem of partitioning a continuous curve into n parts with equal successive chords, the curve EquiPartition problem (EP). The goal is to locate n\u2212 1 consecutive curve points, so that the curve can be divided into n segments with equal chords under a distance function. We adopt a level set approach to prove that for any continuous injective curve in a metric space and any number n there always exists at least one n-equipartition (EP). A new approximate algorithm, that is the first EP algorithm, inspired from the level set approach is proposed for finding all solutions with high accuracy. Finally, EP based applications are presented and special properties of their solutions are discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A speech/music discriminator based on RMS and zero-crossings",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1386250/",
+            "Abstract": "Over the last several years, major efforts have been made to develop methods for extracting information from audiovisual media, in order that they may be stored and retrieved in databases automatically, based on their content. In this work we deal with the characterization of an audio signal, which may be part of a larger audiovisual system or may be autonomous, as for example in the case of an audio recording stored digitally on disk. Our goal was to first develop a system for segmentation of the audio signal, and then classification into one of two main categories: speech or music. Among the system's requirements are its processing speed and its ability to function in a real-time environment with a small responding delay. Because of the restriction to two classes, the characteristics that are extracted are considerably reduced and moreover the required computations are straightforward. Experimental results show \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Convexity and Connectivity Principles Applied for Left Ventricle Segmentation and Quantification",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-12029-0_42",
+            "Abstract": "We propose an unsupervised method for MRI image segmentation, and global and regional shape quantification, based on pixel labeling using image analysis, connectivity constraints and near convex region requirements for the LV cavity and the epicardium. The proposed method is developed in the framework of the MICCAI Left Ventricle Full Quantification Challenge. At first the LV cavity is approximately localized based on the strong intensity contrast in the myocardium region between the two ventricles (left and right). The requirement of a near convex connected component is then applied. The image intensity statistical parameters are extracted for three classes: LV cavity, myocardium and chest space. Even if the whole background is completely inhomogeneous, the application of topological, connectivity and shape constraints permits to extract in two steps the LV cavity and the myocardium. For the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:_B80troHkn4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Left Ventricle Quantification Challenge: A Comprehensive Comparison and Evaluation of Segmentation and Regression for Mid-ventricular Short-axis Cardiac MR Data",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9372751/",
+            "Abstract": "Automatic quantification of the left ventricle (LV) from cardiac magnetic resonance (CMR) images plays an important role in making the diagnosis procedure efficient, reliable, and alleviating the laborious reading work for physicians. Considerable efforts have been devoted to LV quantification using different strategies that include segmentation-based (SG) methods and the recent direct regression (DR) methods. Although both SG and DR methods have obtained great success for the task, a systematic platform to benchmark them remains absent because of differences in label information during model learning. In this paper, we conducted an unbiased evaluation and comparison of cardiac LV quantification methods that were submitted to the Left Ventricle Quantification (LVQuan) challenge, which was held in conjunction with the Statistical Atlases and Computational Modeling of the Heart (STACOM) workshop at \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:5awf1xo2G04C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Region-level moving object segmentation by graph labeling",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7078346/",
+            "Abstract": "In this paper we propose a method for the detection and localization of moving objects. The change detection problem in the pixel domain is formulated by two zero mean Laplacian distributions. Furthermore, the image is split in homogeneous colour regions and their inter-frame mean absolute difference is used to describe the change detection problem in the region level by two Gamma distributions. The pixel and region based change detection statistics are used to classify the colour regions as \u201cchanged\u201d or \u201cunchanged\u201d with high confidence. These initially labeled regions constitute the \u201cseeds\u201d of the \u201cchanged\u201d/\u201cunchanged\u201d classes. The remaining unlabeled regions are classified as belonging to one of them using a growing algorithm, which has been modified to refer to the labeling of regions (instead of pixels). Class growing is accomplished using the change detection and boundary information of unlabeled \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Single view reconstruction using shape grammars for urban environments",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5459400/",
+            "Abstract": "In this paper we introduce a novel approach to single view reconstruction using shape grammars. Our approach consists in modeling architectural styles using a set of basic shapes and a set of parametric rules, corresponding to increasing levels of detail. This approach is able to model elaborate and varying architectural styles, using a tree representation of variable depth and complexity. Towards reconstruction, the parameters of the rules are optimized using image-based and architectural costs. This is done through an efficient MRF formulation based on the shape grammar itself. The resulting framework can produce precise 3D models from single views, can deal with lack of texture and the presence of occlusions and specular reflections, while maintaining the ability to cope with very complex architectural styles. Promising results demonstrate the potential of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image completion using efficient belief propagation via priority scheduling and dynamic pruning",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4337762/",
+            "Abstract": "In this paper, a new exemplar-based framework is presented, which treats image completion, texture synthesis, and image inpainting in a unified manner. In order to be able to avoid the occurrence of visually inconsistent results, we pose all of the above image-editing tasks in the form of a discrete global optimization problem. The objective function of this problem is always well-defined, and corresponds to the energy of a discrete Markov random field (MRF). For efficiently optimizing this MRF, a novel optimization scheme, called priority belief propagation (BP), is then proposed, which carries two very important extensions over the standard BP algorithm: ldquopriority-based message schedulingrdquo and ldquodynamic label pruning.rdquo These two extensions work in cooperation to deal with the intolerable computational cost of BP, which is caused by the huge number of labels associated with our MRF. Moreover \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A semi-automatic seeded region growing algorithm for video object localization and tracking",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0923596501000145",
+            "Abstract": "This paper describes a semi-automatic method for moving object segmentation and tracking. This method is suitable when a few objects have to be tracked, while the camera moves and fixates on them. The user delineates approximately the initial locations in a selected frame and specifies the depth ordering of the objects to be tracked. First, motion-based segmentation is obtained through an initial application of a region growing algorithm. The partition map is sequentially tracked from frame to frame using motion compensation and location prediction. The segmentation map is obtained by the region growing algorithm. Translational motion is assumed for the moving objects, and local intensity or color average may be used as additional features. A post-processing procedure regularizes the object boundaries over time.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "The curve equipartition problem",
+            "Publication year": 2005,
+            "Publication url": "https://www.csd.uoc.gr/~cpanag/papers/EP.pdf",
+            "Abstract": "In this paper, we analyze the general problem of a continuous curve partition into equal length segments, defined by any smooth distance metric, like the Euclidean distance. The goal is to locate N\u2212 1 consecutive curve points, so that the curve can be divided into N equal length segments. First, it is proved that for any curve C and any number N there always exists at least one N-equipartition (EP) of C. The approach adopted for the proof can be used to compute at least one solution of the problem or all the solutions using a greedy version of this method. These methods have only theoretical value, as there appear algebraic expressions exponentially with increasing degree N. This can be explained by our proof that a version of the EP problem is NP-hard. So, the EP is possibly complete for the NP class. However, an O (N) approximate proof based algorithm can solve the problem with high accuracy. Moreover, we propose two algorithms, an algorithm that computes approximately all the solutions and a steepest descent based method that converges to one of them. Some possible applications are also discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MPEGA authoring tool using moving object segmentation and tracking in video shots",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16931775733008357969&hl=en&oi=scholarr",
+            "Abstract": "An Authoring tool for the MPEG-4 multimedia standard integrated with image sequence analysis algorithms is described. MPEG-4 offers numerous capabilities and is expected to be the future standard for multimedia applications. However, the implementation of these capabilities requires a complex authoring process, employing many different competencies from image sequence analysis and encoding of audio/visual/BIFS to the implementation of different delivery scenarios: local access on CD/DVD-ROM, Internet, or broadcast. However powerful the technologies underlying multimedia computing are, the success of these systems depends on their ease of authoring. In this paper, a novel Authoring tool fully exploiting the object-based coding and 3D synthetic functionalities of the MPEG-4 standard is described. It is based upon an open and modular architecture able to progress with MPEG-4 versions and it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:SdhP9T11ey4C",
+            "Publisher": "HINDAWI PUBLISHING CORP"
+        },
+        {
+            "Title": "A minimum spanning tree equipartition algorithm for microaggregation",
+            "Publication year": 2015,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/02664763.2014.993361",
+            "Abstract": "In this paper, we propose a solution on microaggregation problem based on the hierarchical tree equi-partition (HTEP) algorithm. Microaggregation is a family of methods for statistical disclosure control of microdata, that is, for masking microdata, so that they can be released without disclose private information on the underlying individuals. Knowing that the microaggregation problem is non-deterministic polynomial-time-hard, the goal is to partition N given data into groups of at least K items, so that the sum of the within-partition squared error is minimized. The proposed method is general and it can be applied to any tree partition problem aiming at the minimization of a total score. The method is divisive, so that the tree with the highest \u2018score\u2019is split into two trees, resulting in a hierarchical forest of trees with almost equal \u2018score\u2019(equipartition). We propose a version of HTEP for microaggregation (HTEPM), that is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:738O_yMBCRsC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Human Shape-Motion Analysis in Athletics Videos for Coarse to Fine Action/Activity Recognition Using Transferable BeliefModel",
+            "Publication year": 2008,
+            "Publication url": "https://www.raco.cat/index.php/ELCVIA/article/download/132010/181855",
+            "Abstract": "We present an automatic human shape-motion analysis method based on a fusion architecture for human action and activity recognition in athletic videos. Robust shape and motion features are extracted from human detection and tracking. The features are combined within the Transferable Belief Model (TBM) framework for two levels of recognition. The TBM-based modelling of the fusion process allows to take into account imprecision, uncertainty and conflict inherent to the features. First, in a coarse step, actions are roughly recognized. Then, in a fine step, an action sequence recognition method is used to discriminate activities. Belief on actions are made smooth by a Temporal Credal Filter and action sequences, i.e. activities, are recognized using a state machine, called belief scheduler, based on TBM. The belief scheduler is also exploited for feedback information extraction in order to improve tracking results. The system is tested on real videos of athletics meetings to recognize four types of actions (running, jumping, falling and standing) and four types of activities (high jump, pole vault, triple jump and long jump). Results on actions, activities and feedback demonstrate the relevance of the proposed features and as well the efficiency of the proposed recognition approach based on TBM.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MRF energy minimization and beyond via dual decomposition",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5467090/",
+            "Abstract": "This paper introduces a new rigorous theoretical framework to address discrete MRF-based optimization in computer vision. Such a framework exploits the powerful technique of Dual Decomposition. It is based on a projected subgradient scheme that attempts to solve an MRF optimization problem by first decomposing it into a set of appropriately chosen subproblems, and then combining their solutions in a principled way. In order to determine the limits of this method, we analyze the conditions that these subproblems have to satisfy and demonstrate the extreme generality and flexibility of such an approach. We thus show that by appropriately choosing what subproblems to use, one can design novel and very powerful MRF optimization algorithms. For instance, in this manner we are able to derive algorithms that: 1) generalize and extend state-of-the-art message-passing methods, 2) optimize very tight LP \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "4D ventricular segmentation and wall motion estimation using efficient discrete optimization",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-76858-6_19",
+            "Abstract": "In this paper we propose a novel approach to ventricular motion estimation and segmentation. Our method is based on a MRF formulation where an optimal intensity-based separation between the endocardium and the rest of the cardiac volume is to be determined. Such a term is defined in the spatiotemporal domain, where the ventricular wall motion is introduced to account for correspondences between the consecutive segmentation maps. The estimation of the deformations is done through a continuous deformation field (FFD) where the displacements of the control points are determined using discrete labeling approach. Principles from linear programming and in particular the Primal/Dual Schema is used to recover the optimal solution in both spaces. Promising experimental results obtained on 13 MR spatiotemporal data sets demonstrate the potentials of our method.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "MPEG-4 authoring tool using moving object segmentation and tracking in video shots",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/article/10.1155/S1110865703301052",
+            "Abstract": "An Authoring tool for the MPEG-4 multimedia standard integrated with image sequence analysis algorithms is described. MPEG-4 offers numerous capabilities and is expected to be the future standard for multimedia applications. However, the implementation of these capabilities requires a complex authoring process, employing many different competencies from image sequence analysis and encoding of audio/visual/BIFS to the implementation of different delivery scenarios: local access on CD/DVD-ROM, Internet, or broadcast. However powerful the technologies underlying multimedia computing are, the success of these systems depends on their ease of authoring. In this paper, a novel Authoring tool fully exploiting the object-based coding and 3D synthetic functionalities of the MPEG-4 standard is described. It is based upon an open and modular architecture able to progress with MPEG-4 versions and it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:hC7cP41nSMkC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "Equivalent key frames selection based on iso-content distance and iso-distortion principles",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4279137/",
+            "Abstract": "We present a key frames selection algorithm, which is very flexible on any changes of content descriptors, based on iso-content distance and iso-distortion principles. In both of the cases, the equality principle provides to the selected key frames the property to be equivalent on content video summarization. The estimated key frames properties and the experimental results indicate the good performance of the proposed schemata.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast, approximately optimal solutions for single and dynamic MRFs",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4270120/",
+            "Abstract": "A new efficient MRF optimization algorithm, called Fast-PD, is proposed, which generalizes \u03b1-expansion. One of its main advantages is that it offers a substantial speedup over that method, e.g. it can be at least 3-9 times faster than \u03b1-expansion. Its efficiency is a result of the fact that Fast-PD exploits information coming not only from the original MRF problem, but also from a dual problem. Furthermore, besides static MRFs, it can also be used for boosting the performance of dynamic MRFs, i.e. MRFs varying over time. On top of that, Fast-PD makes no compromise about the optimality of its solutions: it can compute exactly the same answer as a-expansion, but, unlike that method, it can also guarantee an almost optimal solution for a much wider class of NP-hard MRF problems. Results on static and dynamic MRFs demonstrate the algorithm's efficiency and power. E.g., Fast-PD has been able to compute disparity for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Flooding and MRF-based algorithms for interactive segmentation",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5597670/",
+            "Abstract": "We propose a method for interactive colour image segmentation. The goal is to detect an object from the background, when some markers on object(s) and the background are given. As features only probability distributions of the data are used. At first, all the labelled seeds are independently propagated for obtaining homogeneous connected components for each of them. Then the image is divided in blocks, which are classified according to their probabilistic distance from the classified regions. A topographic surface for each class is obtained, using Bayesian dissimilarities and a min-max criterion. Two algorithms are proposed: a regularized classification based on the topographic surface and incorporating an MRF model, and a priority multi-label flooding algorithm. Segmentation results on the LHI data set are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Performance vs computational efficiency for optimizing single and dynamic MRFs: Setting the state of the art with primal-dual strategies",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314208000982",
+            "Abstract": "In this paper we introduce a novel method to address minimization of static and dynamic MRFs. Our approach is based on principles from linear programming and, in particular, on primal-dual strategies. It generalizes prior state-of-the-art methods such as \u03b1-expansion, while it can also be used for efficiently minimizing NP-hard problems with complex pair-wise potential functions. Furthermore, it offers a substantial speedup \u2013 of a magnitude 10 \u2013 over existing techniques, due to the fact that it exploits information coming not only from the original MRF problem, but also from a dual one. The proposed technique consists of recovering pair of solutions for the primal and the dual such that the gap between them is minimized. Therefore, it can also boost performance of dynamic MRFs, where one should expect that the new pair of primal-dual solutions is closed to the previous one. Promising results in a number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "A speech/music discriminator using RMS and zero-crossings",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071924/",
+            "Abstract": "An audio segmentation method and a speech/music classifier are proposed. The characteristics used are considerably reduced. Segmentation is based on mean signal amplitude distribution, whereas classification utilizes an additional characteristic related to the mean frequency. The segmentation and classification algorithms were benchmarked on a large data set, with correct segmentation about 97% of the time and correct classification about 95%.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Color and texture image retrieval using chromaticity histograms and wavelet frames",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1335475/",
+            "Abstract": "In this paper, we explore image retrieval mechanisms based on a combination of texture and color features. Texture features are extracted using Discrete Wavelet Frames (DWF) analysis, an over-complete decomposition in scale and orientation. Two-dimensional (2-D) or one-dimensional (1-D) histograms of the CIE Lab chromaticity coordinates are used as color features. The 1-D histograms of the a, b coordinates were modeled according to the generalized Gaussian distribution. The similarity measure defined on the feature distribution is based on the Bhattacharya distance. Retrieval benchmarking is performed over the Brodatz album and on images from natural scenes, obtained from the VisTex database of MIT Media Laboratory and from the Corel Photo Gallery. As a performance indicator recall (relative number of correct images retrieved) is measured on both texture and color separately and in combination \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the curve equipartition problem: a brief exposition of basic issues",
+            "Publication year": 2006,
+            "Publication url": "http://users.tem.uoc.gr/~mkaravel/files/EuroCG06Proc.pdf#page=41",
+            "Abstract": "We describe briefly the problem of partitioning a continuous curve into N parts with equal chords.(The length of a chord may be defined by any smooth distance metric applied on its endpoints-the Euclidean metric being one of them.) A have proved that a decision variation of this problem is NP-complete, yet for any continuous curve and any N there always exists at least one equipartition. In this work, we propose an approximate algorithm and also a steepest descent method that converges to an exact solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Real-time exploration and photorealistic reconstruction of large natural environments",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-008-0209-0",
+            "Abstract": "This paper presents a hybrid (geometry- and image-based) framework suitable for providing photorealistic walkthroughs of large, complex outdoor scenes, based only on a small set of real images from the scene. To this end, a novel data representation of a 3D scene is proposed, which is called morphable 3D panoramas. Motion is assumed to be taking place along a predefined path of the 3D environment and the input to the system is a sparse set of stereoscopic views at certain positions (key positions) along that path (one view per position). An approximate local 3D model is constructed from each view, capable of capturing the photometric and geometric properties of the scene only locally. Then, during the rendering process, a continuous morphing (both photometric as well as geometric) takes place between successive local 3D models, using what we call a \u2018morphable 3D model\u2019. For the estimation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Construction of animal models and motion synthesis in 3D virtual environments using image sequences",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1335202/",
+            "Abstract": "We describe a system that can build 3D animal models and synthesize animations in 3D virtual environments. The model is constructed by 2D images captured by specific views. The animation is synthesised by using physical motion models of the animal and tracking data from image sequences. Finally, the user selects some points of the 3D world and a smooth and safe motion path, which passes by these points, is created. The main assumption of the 3D modelling is that the animal could be divided into parts whose normal sections are ellipses. Joints and angles between skeleton points are used in order to decrease models complexity. Using the above methodology, a snake, a lizard and a goat are reconstructed.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "System and method for optimizing single and dynamic markov random fields with primal dual strategies",
+            "Publication year": 2012,
+            "Publication url": "https://patents.google.com/patent/US8131069B2/en",
+            "Abstract": "A method for determining an optimal labeling of pixels in computer vision includes modeling an image by a graph having interior nodes and edges where each image point p is associated with a graph node, each pair of nearest neighbor points p, q is connected by a graph edge, each graph node p is associated with a singleton potential c (p), and each graph edge is associated with a pairwise potential function d (p, q). A label is randomly assigned to each point to initialize unary variables including an indicator function that indicates which label is assigned to which point and dual variables including height variables associated with each node p and label a, and balance variables associated with each edge (p, q) and label a. For each label, a new label c is selected, a capacitated graph is constructed and solved. The label selection divides the image into disjoint regions.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A feature-based face detector using wavelet frames",
+            "Publication year": 2001,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.1969",
+            "Abstract": "In this paper, we propose a novel scheme for detection and precise segmentation of human faces in color images where the number, the location, the orientation and the size of the faces are unknown, under nonconstrained scene conditions such as complex background and uncontrolled illumination. A deformable template is used as a generic model of the face, defined by stable facial features grouped by anthropometric geometric and textural constraints. The different areas of the face template are characterized by extracting simple statistical measures from suitably selected bands of a wavelet decomposition. The candidate face is classified by applying a set of optimally ordered heuristic and probabilistic tests on the extracted statistical feature vectors. Experimental results are provided to demonstrate the robustness of our approach and its capability to precisely detect faces under varying scale, expression and orientation.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:D03iK_w7-QYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D visual reconstruction of large scale natural sites and their fauna",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S092359650500069X",
+            "Abstract": "The European DHX project is introduced in this paper and the vision-based 3D content authoring tools that have been implemented as a core part of its framework are presented. These tools consist mainly of two interrelated components. The first one is a hybrid (geometry and image based) modeling and rendering system capable of providing photorealistic walkthroughs of real-world large landscapes based solely on a sparse set of stereoscopic views. The second one deals with obtaining lifelike animal motion using as input captured video sequences of animal movement and prior anatomy knowledge. Both of these components have been successfully applied to a DHX research prototype aiming to create an integrated virtualized representation of the Samaria Gorge in Crete and the principal animals living in the ecosystem.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Shape-based individual/group detection for sport videos categorization",
+            "Publication year": 2008,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218001408006752",
+            "Abstract": "We present a shape-based method for automatic people detection and counting without any assumption concerning camera motion. In order to evaluate the robustness of the proposed method, we apply it for classifying athletics videos into two classes: videos of individual and videos of team sports. The videos used are real and characterized by dynamic and unconstrained environment. Moreover, in the case of team sport, we propose a shape deformations based method for running/hurdling discrimination (activity recognition). Robust, adaptive and independent from color, illumination changes and the camera motion, the proposed features are combined in the Transferable Belief Model (TBM) framework providing a two-level (frames and shot) video categorization. Experimental results of 97% of accuracy for individual/team sport categorization using a dataset of 252 real videos of athletic meetings, acquired by \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "Lymphocyte segmentation using the transferable belief model",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-17711-8_26",
+            "Abstract": "In the context of several pathologies, the presence of lymphocytes has been correlated with disease outcome. The ability to automatically detect lymphocyte nuclei on histopathology imagery could potentially result in the development of an image based prognostic tool. In this paper we present a method based on the estimation of a mixture of Gaussians for determining the probability distribution of the principal image component. Then, a post-processing stage eliminates regions, whose shape is not similar to the nuclei searched. Finally, a Transferable Belief Model is used to detect the lymphocyte nuclei, and a shape based algorithm possibly splits them under an equal area and an eccentricity constraint principle.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:dhFuZR0502QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Wavelet packet analysis for face recognition",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885699000566",
+            "Abstract": "A novel method for recognition of frontal views of human faces under roughly constant illumination is presented. The proposed scheme is based on the analysis of a wavelet packet decomposition of the face images. Each face image is first located and then, described by a subset of band filtered images containing wavelet coefficients. From these wavelet coefficients, which characterize the face texture, we build compact and meaningful feature vectors, using simple statistical measures. Then, we show how an efficient and reliable probabilistic metric derived from the Bhattacharrya distance can be used in order to classify the face feature vectors into person classes. Experimental results are presented using images from the FERET and the FACES databases. The efficiency of the proposed approach is analyzed according to the FERET evaluation procedure and by comparing our results with those obtained using the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A new framework for approximate labeling via graph cuts",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1544832/",
+            "Abstract": "A new framework is presented that uses tools from duality theory of linear programming to derive graph-cut based combinatorial algorithms for approximating NP-hard classification problems. The derived algorithms include alpha-expansion graph cut techniques merely as a special case, have guaranteed optimality properties even in cases where alpha-expansion techniques fail to do so and can provide very tight per-instance suboptimality bounds in all occasions",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cardiac MRI Segmentation With a Dilated CNN Incorporating Domain-Specific Constraints",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9153905/",
+            "Abstract": "Semantic segmentation of cardiac MR images is a challenging task due to its importance in medical assessment of heart diseases. Having a detailed localization of specific regions of interest such as Right and Left Ventricular Cavities and Myocardium, doctors can infer important information about the presence of cardiovascular diseases, which are today a major cause of death globally. This paper addresses the problem of semantic segmentation in cardiac MR images using a dilated Convolutional Neural Network. Opting for dilated convolutions allowed us to work in full resolution throughout the network's layers, preserving localization accuracy, while maintaining a relatively small number of trainable parameters. To assist the network's training process we designed a custom loss function. Furthermore, we developed new augmentation techniques and also adapted existing ones, to cope for the lack of sufficient \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Inter and intra-modal deformable registration: Continuous deformations meet efficient optimal linear programming",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73273-0_34",
+            "Abstract": "In this paper we propose a novel non-rigid volume registration based on discrete labeling and linear programming. The proposed framework reformulates registration as a minimal path extraction in a weighted graph. The space of solutions is represented using a set of a labels which are assigned to predefined displacements. The graph topology corresponds to a superimposed regular grid onto the volume. Links between neighborhood control points introduce smoothness, while links between the graph nodes and the labels (end-nodes) measure the cost induced to the objective function through the selection of a particular deformation for a given control point once projected to the entire volume domain. Higher order polynomials are used to express the volume deformation from the ones of the control points. Efficient linear programming that can guarantee the optimal solution up to (a user-defined) bound \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Bayesian level sets for image segmentation",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1047320301904742",
+            "Abstract": "This paper presents a new general framework for image segmentation. A level set formulation is used to model the boundaries of the image regions and a new Multilabel Fast Marching is introduced for the evolution of the region contours toward the segmentation result. Statistical tests are performed to yield an initial estimate of high-confidence subsets of the image regions. Furthermore, the velocities for the propagation of the region contours are defined in accordance with the a posteriori probability of the respective regions, leading to the Bayesian Level Set methodology described in this paper. Typical segmentation problems are considered and experimental results are given to illustrate the robustness of the method against noise and its performance in precise region boundary localization.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Fast fully-automatic cardiac segmentation in MRI using MRF model optimization, substructures tracking and B-spline smoothing",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-75541-0_10",
+            "Abstract": "We present a fast fully automatic method for cardiac segmentation in ED and ES short axis MRI. At first we extract a region where the whole heart is situated, using a new, time-based approach. Then, the segmentation in LV, myocardium and right ventricle (RV) is obtained for a slice in a basal ED slice where both cavities are well distinguished. The extracted regions are tracked for the whole slice sequence backwards and forwards in ED. In all cases the segmentation is based on MRF optimization in four classes, two for the blood areas, and one for the myocardium and the background. Subsequently the segmentation in the ES images is based on the result of ED segmentation. As the epicardium is not well delineated, a smoothing process based on spline curves is used for obtaining the final result. We consider that, with an unsupervised method, we have obtained good results for LV and satisfactory for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Foreground object localization using a flooding algorithm based on inter-frame change and colour",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4425365/",
+            "Abstract": "A Bayesian, fully automatic moving object localization method is proposed, using inter-frame differences and background/foreground colour as discrimination cues. Change detection pixel classification to one of the labels \"changed\" or \"unchanged\" is obtained by mixture analysis, while histograms are used for statistical description of colours. High confidence, change detection based, statistical criteria are used to compute a map of initial labelled pixels. Finally, a region growing algorithm, which is named priority multi-label flooding algorithm, assigns pixels to labels using Bayesian dissimilarity criteria. Localization results on well-known benchmark image sequences as well as on webcam and compressed videos are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic people detection and counting for athletic videos classification",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4425349/",
+            "Abstract": "We propose a general framework that focuses on automatic individual/multiple people motion-shape analysis and on suitable features extraction that can be used on action/activity recognition problems under real, dynamical and unconstrained environments. We have considered various athletic videos from a single uncalibrated, possibly moving camera in order to evaluate the robustness of the proposed method. We have used an easily expanded hierarchical scheme in order to classify them to videos of individual and team sports. Robust, adaptive and independent from the camera motion, the proposed features are combined within Transferable Belief Model (TBM) framework providing a two level (frames and shot) video categorization. The experimental results of 97% individual/team sport categorization accuracy, using a dataset of more than 250 videos of athletic meetings indicate the good performance of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Interactive image segmentation based on synthetic graph coordinates",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S003132031300174X",
+            "Abstract": "In this paper, we propose a framework for interactive image segmentation. The goal of interactive image segmentation is to classify the image pixels into foreground and background classes, when some foreground and background markers are given. The proposed method minimizes a min\u2013max Bayesian criterion that has been successfully used on image segmentation problem and it consists of several steps in order to take into account visual information as well as the given markers, without any requirement of training. First, we partition the image into contiguous and perceptually similar regions (superpixels). Then, we construct a weighted graph that represents the superpixels and the connections between them. An efficient algorithm for graph clustering based on synthetic coordinates is used yielding an initial map of classified pixels. This method reduces the problem of graph clustering to the simpler problem of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "MRF optimization via dual decomposition: Message-passing revisited",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4408890/",
+            "Abstract": "A new message-passing scheme for MRF optimization is proposed in this paper. This scheme inherits better theoretical properties than all other state-of-the-art message passing methods and in practice performs equally well/outperforms them. It is based on the very powerful technique of Dual Decomposition [1] and leads to an elegant and general framework for understanding/designing message-passing algorithms that can provide new insights into existing techniques. Promising experimental results and comparisons with the state of the art demonstrate the extreme theoretical and practical potentials of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Optical flow estimation with uncertainties through dynamic MRFs",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4587562/",
+            "Abstract": "In this paper, we propose a novel dynamic discrete framework to address image morphing with application to optical flow estimation. We reformulate the problem using a number of discrete displacements, and therefore the estimation of the morphing parameters becomes a tractable matching criteria independent combinatorial problem which is solved through the FastPD algorithm. In order to overcome the main limitation of discrete approaches (low dimensionality of the label space is unable to capture the continuous nature of the expected solution), we introduce a dynamic behavior in the model where the plausible discrete deformations (displacements) are varying in space (across the domain) and time (different states of the process - successive morphing states) according to the local uncertainty of the obtained solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast Marching Techniques for Visual Grouping & Segmentation",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/0-387-21810-6_9",
+            "Abstract": "A new region growing method is proposed for segmenting images. The region boundaries are formulated as level sets and the pixel labeling process is implemented using a new multi-label fast marching algorithm. The region contours are propagated with a velocity proportional to the a posteriori probability of the respective label. Statistical tests are performed to generate the initially labeled sets. Any image feature, given it is semantically relevant, can be considered for the segmentation process. Illustrations are given for combined luminance, chrominance and texture classification and segmentation in natural scenes. Moving object extraction based on change detection is also considered, which is performed as a two-label classification.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:f2IySw72cVMC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Simultaneous Segmentation and Modelling of Signals based on an Equipartition Principle",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5597634/",
+            "Abstract": "We propose a general framework for simultaneous segmentation and modelling of signals based on an Equipartition Principle (EP). According to EP, the signal is divided into segments with equal reconstruction errors by selecting the most suitable model to describe each segment. In addition, taking into account change detection on signal model an efficient signal reconstruction is also obtained. The model selection concerns both the kind and the order of the model. The proposed methodology is very flexible on different error criteria and signal features.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Equivalent key frames selection based on iso-content principles",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4783025/",
+            "Abstract": "We present a key frames selection algorithm based on three iso-content principles (iso-content distance, iso-content error and iso-content distortion), so that the selected key frames are equidistant in video content according to the used principle. Two automatic approaches for defining the most appropriate number of key frames are proposed by exploiting supervised and unsupervised content criteria. Experimental results and the comparisons with existing methods from literature on large dataset of real-life video sequences illustrate the high performance of the proposed schemata.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic human motion analysis and action recognition in athletics videos",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071037/",
+            "Abstract": "We present an unsupervised, automatic human motion analysis and action recognition scheme tested on athletics videos. First, four major human points are recognized and tracked using human silhouettes that are computed by a robust camera estimation and object localization method. Statistical analysis of the tracking points motion obtains a temporal segmentation on running and jump stage. The method is tested on athletics videos of pole vault, high jump, triple jump and long jump recognizing them using robust and independent from the camera motion and the athlete performance features. The experimental results indicate the good performance of the proposed scheme, even in sequences with complicated content and motion.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:mB3voiENLucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Moving object localisation using a multi-label fast marching algorithm",
+            "Publication year": 2001,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0923596500000564",
+            "Abstract": "In this paper, we address two problems crucial to motion analysis: the detection of moving objects and their localisation. Statistical and level set approaches are adopted in formulating these problems. For the change detection problem, the inter-frame difference is modelled by a mixture of two zero-mean Laplacian distributions. At first, statistical tests using criteria with negligible error probability are used for labelling as changed or unchanged as many sites as possible. All the connected components of the labelled sites are used thereafter as region seeds, which give the initial level sets for which velocity fields for label propagation are provided. We introduce a new multi-label fast marching algorithm for expanding competitive regions. The solution of the localisation problem is based on the map of changed pixels previously extracted. The boundary of the moving object is determined by a level set algorithm, which is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Wavelet packet analysis for face recognition",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0262885699000566",
+            "Abstract": "A novel method for recognition of frontal views of human faces under roughly constant illumination is presented. The proposed scheme is based on the analysis of a wavelet packet decomposition of the face images. Each face image is first located and then, described by a subset of band filtered images containing wavelet coefficients. From these wavelet coefficients, which characterize the face texture, we build compact and meaningful feature vectors, using simple statistical measures. Then, we show how an efficient and reliable probabilistic metric derived from the Bhattacharrya distance can be used in order to classify the face feature vectors into person classes. Experimental results are presented using images from the FERET and the FACES databases. The efficiency of the proposed approach is analyzed according to the FERET evaluation procedure and by comparing our results with those obtained using the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Natural image segmentation based on tree equipartition, bayesian flooding and region merging",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5713255/",
+            "Abstract": "We propose a general purpose image segmentation framework, which involves feature extraction and classification in feature space, followed by flooding and merging in spatial domain. Region growing is based on the computed local measurements and distances from the distribution of features describing the different classes. Using the properties of the label dependent distances spatial coherence is ensured, since the image features are described globally. The distribution of the features for the different classes are obtained by block-wise unsupervised clustering based on the construction of the minimum spanning tree of the blocks' grid using the Mallows distance and the equipartition of the resulting tree. The final clustering is obtained by using the  k -centroids algorithm. With high probability and under topological constraints, connected components of the maximum likelihood classification map are used to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Colour and texture segmentation using wavelet frame analysis, deterministic relaxation, and fast marching algorithms",
+            "Publication year": 2004,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1047320303000257",
+            "Abstract": "Luminance, colour, and/or texture features may be used, either alone or in combination, for segmentation. In this paper luminance and colour classes are described using the corresponding empirical probability distributions. For texture analysis and characterisation a multichannel scale/orientation decomposition is performed using wavelet frame analysis. Knowing only the number of the different classes of the image, regions of homogeneous patterns are identified. On these regions the features characterising and describing the different classes are estimated. Two labelling algorithms are proposed. The first, a deterministic relaxation algorithm using a quadratic distance measure, yields the labelling of pixels to the different colour\u2013texture classes. The second is a new Multi-label Fast Marching algorithm utilising a level set boundary determination.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Approximate labeling via the primal-dual schema",
+            "Publication year": 2005,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.789&rep=rep1&type=pdf",
+            "Abstract": "A linear programming based framework is presented which is capable of providing combinatorial-based approximation algorithms to a certain class of NP-complete classification problems. The resulting algorithms utilize tools from the duality theory of linear programming and have guaranteed optimality properties. Finally, it is shown that state-of-the-art classification techniques can be derived merely as a special case of the considered framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MRF-based segmentation and unsupervised classification for building and road detection in peri-urban areas of high-resolution satellite images",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0924271616304816",
+            "Abstract": "We present in this article a new method on unsupervised semantic parsing and structure recognition in peri-urban areas using satellite images. The automatic \u201cbuilding\u201d and \u201croad\u201d detection is based on regions extracted by an unsupervised segmentation method. We propose a novel segmentation algorithm based on a Markov random field model and we give an extensive data analysis for determining relevant features for the classification problem. The novelty of the segmentation algorithm lies on the class-driven vector data quantization and clustering and the estimation of the likelihoods given the resulting clusters. We have evaluated the reachability of a good classification rate using the Random Forest method. We found that, with a limited number of features, among them some new defined in this article, we can obtain good classification performance. Our main contribution lies again on the data analysis and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Region growing colour image segmentation applied to face detection",
+            "Publication year": 2001,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Tziritas/publication/2532031_Region_Growing_Colour_Image_Segmentation_Applied_To_Face/links/53f2ed960cf272810e5244ff/Region-Growing-Colour-Image-Segmentation-Applied-To-Face.pdf",
+            "Abstract": "A colour segmentation method is described which is based on a seeded region growing (SRG) segmentation algorithm. First the 3-D histogram in the Lab colour coordinate system is extracted. The histogram bins are then grouped using a hierarchical clustering algorithm. The number of classes can be automatically determined, while a k-means algorithm is used for determining the nal list of dominant colours. The classication according to the dominant colours determines the initial seeds for a region growing segmentation algorithm. Segmentation is followed by a merging procedure which is based on colour and boundary information of regions. The proposed algorithm has been tested on facial images, for the needs of face detection.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Deep learning techniques for automatic MRI cardiac multi-structures segmentation and diagnosis: Is the problem solved?",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8360453/",
+            "Abstract": "Delineation of the left ventricular cavity, myocardium, and right ventricle from cardiac magnetic resonance images (multi-slice 2-D cine MRI) is a common clinical task to establish diagnosis. The automation of the corresponding tasks has thus been the subject of intense research over the past decades. In this paper, we introduce the \u201cAutomatic Cardiac Diagnosis Challenge\u201d dataset (ACDC), the largest publicly available and fully annotated dataset for the purpose of cardiac MRI (CMR) assessment. The dataset contains data from 150 multi-equipments CMRI recordings with reference measurements and classification from two medical experts. The overarching objective of this paper is to measure how far state-of-the-art deep learning methods can go at assessing CMRI, i.e., segmenting the myocardium and the two ventricles as well as classifying pathologies. In the wake of the 2017 MICCAI-ACDC challenge, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "ieee"
+        },
+        {
+            "Title": "Development and evaluation of a semiautomatic segmentation method for the estimation of LV parameters on cine MR images",
+            "Publication year": 2010,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0031-9155/55/4/015/meta",
+            "Abstract": "The purpose of this study was to develop and evaluate a semiautomatic method for left ventricular (LV) segmentation on cine MR images and subsequent estimation of cardiac parameters. The study group comprised cardiac MR examinations of 18 consecutive patients with known or suspected coronary artery disease. The new method allowed the automatic detection of the LV endocardial and epicardial boundaries on each short-axis cine MR image using a Bayesian flooding segmentation algorithm and weighted least-squares B-splines minimization. Manual editing of the automatic contours could be performed for unsatisfactory segmentation results. The end-diastolic volume (EDV), end-systolic volume (ESV), ejection fraction (EF) and LV mass estimated by the new method were compared with the reference values obtained by manually tracing the LV cavity borders. The reproducibility of the new method was \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Morphable 3D-mosaics: a framework for the visual reconstruction of large natural scenes",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=3867499327001051976&hl=en&oi=scholarr",
+            "Abstract": "Contrary to many IBMR (Image Based Modeling and Rendering) methods, which are capable of handling only small scale scenes, in this video we present a novel hybrid (geometry & image based) framework capable of providing photorealistic walkthroughs of large-scale, complex outdoor environments in real time, using as input only a small set of stereoscopic images from the scene. To this end, a new data representation of a 3D scene is proposed, which is called morphable 3D-mosaics and consists of a set of morphable (both geometrically as well as photometrically) 3D models. Motion is assumed to be taking place along a predefined path inside the 3D environment and the input to our system is a sparse set of stereoscopic views at certain positions (called key-positions) along that path (we initially assume one view per key-position, see Fig. 1 (a)). An approximate local 3D model is constructed from each view \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Panoramic view construction",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0923596503000328",
+            "Abstract": "In this paper, the problem of constructing the whole view of a scene background from an image sequence is considered. First, point or block correspondence between each pair of successive frames is determined. Three parametric motion models are used: 2-D translation with scale change, affine, and projective. Motion parameters are estimated using either robust criteria and the Levenberg\u2013Marquardt algorithm, or affine moment invariants. Then the parametric models are composed and all the frames are aligned, yielding a whole view of the scene background. A new technique is introduced for the correction of accumulated frame alignment errors.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Dense image registration through MRFs and efficient linear programming",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1361841508000297",
+            "Abstract": "In this paper, we introduce a novel and efficient approach to dense image registration, which does not require a derivative of the employed cost function. In such a context, the registration problem is formulated using a discrete Markov random field objective function. First, towards dimensionality reduction on the variables we assume that the dense deformation field can be expressed using a small number of control points (registration grid) and an interpolation strategy. Then, the registration cost is expressed using a discrete sum over image costs (using an arbitrary similarity measure) projected on the control points, and a smoothness term that penalizes local deviations on the deformation field according to a neighborhood system on the grid. Towards a discrete approach, the search space is quantized resulting in a fully discrete model. In order to account for large deformations and produce results on a high \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Morphable 3D-mosaics: a hybrid framework for photorealistic walkthroughs of large natural environments",
+            "Publication year": 2008,
+            "Publication url": "https://www.hindawi.com/journals/am/2008/697454.html",
+            "Abstract": "This paper presents a hybrid (geometry- & image-based) framework suitable for providing photorealistic walkthroughs of large, complex outdoor scenes at interactive frame rates. To this end, based just on a sparse set of real stereoscopic views from the scene, a set of morphable 3D-mosaics is automatically constructed first, and then, during rendering, a continuous morphing between those 3D-mosaics that are nearby to the current viewpoint is taking place. The morphing is both photometric, as well as geometric, while we also ensure that it proceeds in a physically valid manner, thus remaining transparent to the user. The effectiveness of our framework has been demonstrated in the 3D visual reconstruction of the Samaria Gorge in Crete, which is one of the largest and most beautiful gorges in Europe.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "MINMAX video summarization under equality principle",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4412870/",
+            "Abstract": "In this paper we present a video summarization scheme. First, shot detection is performed and then we extract the key frames under an equality requirement on subshots. We propose a key frames selection algorithm (Iso-Content MINMAX), which is very flexible on any choice of content descriptors, and is based on MINMAX optimization formulation. The equality principle provides to the selected key frames the useful property to be equivalent on video content summarization.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Primal/dual linear programming and statistical atlases for cartilage segmentation",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-75759-7_65",
+            "Abstract": "In this paper we propose a novel approach for automatic segmentation of cartilage using a statistical atlas and efficient primal/dual linear programming. To this end, a novel statistical atlas construction is considered from registered training examples. Segmentation is then solved through registration which aims at deforming the atlas such that the conditional posterior of the learned (atlas) density is maximized with respect to the image. Such a task is reformulated using a discrete set of deformations and segmentation becomes equivalent to finding the set of local deformations which optimally match the model to the image. We evaluate our method on 56 MRI data sets (28 used for the model and 28 used for evaluation) and obtain a fully automatic segmentation of patella cartilage volume with an overlap ratio of 0.84 with a sensitivity and specificity of 94.06% and 99.92%, respectively.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Bayesian region growing and MRF-based minimization for texture and colour segmentation",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4279128/",
+            "Abstract": "We propose a generic, unsupervised feature classification and image segmentation framework, where only the number of classes is assumed as known. Image segmentation is treated as an optimization problem. The framework involves block-based unsupervised clustering using k-means, followed by region growing in spatial domain. High confidence statistical criteria are used to compute a map of initial labelled pixels. A new region growing algorithm is introduced, which is named Independent Flooding Algorithm and computes a height per label for each one of the unlabeled pixels, using Bayesian dissimilarity criteria. Finally, a MRF model is used to incorporate the local pixel interactions of label heights and a graph cuts algorithm performs the final labelling by minimizing the underlying energy. Segmentation results using texture, intensity and color features are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spatiotemporal information fusion for human action recognition in videos",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7078154/",
+            "Abstract": "Many applications are concerned by human action recognition notably in multimedia and more particularly for video retrieval and archival. Usual approaches focus on probabilistic methods and assume a still camera. In this paper, a method based on the Transferable Belief Model fusion process and considering a moving camera is proposed. In this framework, the affine camera motion estimation and temporal variations of three major human points are combined. The method is tested on videos of athletics meetings in which running, jumping and falling actions have to be recognized. Results show the validity of the method for action recognition.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Video segmentation using fast marching and region growing algorithms",
+            "Publication year": 2002,
+            "Publication url": "https://asp-eurasipjournals.springeropen.com/articles/10.1155/S1110865702000744",
+            "Abstract": "The algorithm presented in this paper is comprised of three main stages: (1) classification of the image sequence and, in the case of a moving camera, parametric motion estimation, (2) change detection having as reference a fixed frame, an appropriately selected frame or a displaced frame, and (3) object localization using local colour features. The image sequence classification is based on statistical tests on the frame difference. The change detection module uses a two-label fast marching algorithm. Finally, the object localization uses a region growing algorithm based on the colour similarity. Video object segmentation results are shown using the COST                                                                              data set.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Hindawi Publishing Corporation"
+        },
+        {
+            "Title": "Clustering via lp-based stabilities",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.875.6014&rep=rep1&type=pdf",
+            "Abstract": "A novel center-based clustering algorithm is proposed in this paper. We first formulate clustering as an NP-hard linear integer program and we then use linear programming and the duality theory to derive the solution of this optimization problem. This leads to an efficient and very general algorithm, which works in the dual domain, and can cluster data based on an arbitrary set of distances. Despite its generality, it is independent of initialization (unlike EM-like methods such as K-means), has guaranteed convergence, can automatically determine the number of clusters, and can also provide online optimality bounds about the quality of the estimated clustering solutions. To deal with the most critical issue in a centerbased clustering algorithm (selection of cluster centers), we also introduce the notion of stability of a cluster center, which is a well defined LP-based quantity that plays a key role to our algorithm\u2019s success. Furthermore, we also introduce, what we call, the margins (another key ingredient in our algorithm), which can be roughly thought of as dual counterparts to stabilities and allow us to obtain computationally efficient approximations to the latter. Promising experimental results demonstrate the potentials of our method.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Lymphocite segmentation using mixture of Gaussians and the transferable belief model.",
+            "Publication year": 2010,
+            "Publication url": "https://hal.archives-ouvertes.fr/hal-00546691/",
+            "Abstract": "In the context of several pathologies, the presence of lym- phocytes has been correlated with disease outcome. The ability to au- tomatically detect lymphocyte nuclei on histopathology imagery could potentially result in the development of an image based prognostic tool. In this paper we present a method based on the estimation of a mixture of Gaussians for determining the probability distribution of the princi- pal image component. Then, a post-processing stage eliminates regions, whose shape is not similar to the nuclei searched. Finally, the Transfer- able Belief Model is used to detect the lymphocyte nuclei, and a shape based algorithm possibly splits them under an equal area and an eccen- tricity constraint principle.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Approximate labeling via graph cuts based on linear programming",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4250468/",
+            "Abstract": "A new framework is presented for both understanding and developing graph-cut-based combinatorial algorithms suitable for the approximate optimization of a very wide class of Markov random fields (MRFs) that are frequently encountered in computer vision. The proposed framework utilizes tools from the duality theory of linear programming in order to provide an alternative and more general view of state-of-the-art techniques like the alpha-expansion algorithm, which is included merely as a special case. Moreover, contrary to alpha-expansion, the derived algorithms generate solutions with guaranteed optimality properties for a much wider class of problems, for example, even for MRFs with nonmetric potentials. In addition, they are capable of providing per-instance suboptimality bounds in all occasions, including discrete MRFs with an arbitrary potential function. These bounds prove to be very tight in practice \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust object boundary determination using a locally adaptive level set algorithm",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1246918/",
+            "Abstract": "This paper introduces a level set methodology for the precise boundary localization of image objects within an indicated region, designed to be particularly robust against weak or spurious edges, triple points or inhomogeneity of object features in the proximity of the actual interface. The proposed technique requires a reliable classification for a subset of the object interiors, which is propagated towards the unclassified space using a competitive, statistically motivated fast marching region growing algorithm. Color and texture features are used on a locally adaptive, dynamically updated fashion to allow for the robust discrimination of inhomogeneous objects and an efficient implementation. Applications are illustrated in the context of moving object localization and semiautomatic object extraction.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Bayesian high priority Region Growing for change detection",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7071462/",
+            "Abstract": "In this paper we propose a new method for image segmentation. The new algorithm is applied to the video segmentation task, where the localization of moving objects is based on change detection. The change detection problem in the pixel domain is formulated by two zero mean Laplacian distributions. The new method follows the concept of the well known Seeded Region Growing technique, while is adapted to the statistical description of change detection based segmentation, using Bayesian dissimilarity criteria in a way that leads to linear computational cost of growing.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dense registration with deformation priors",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-02498-6_45",
+            "Abstract": "In this paper we propose a novel approach to define task-driven regularization constraints in deformable image registration using learned deformation priors. Our method consists of representing deformation through a set of control points and an interpolation strategy. Then, using a training set of images and the corresponding deformations we seek for a weakly connected graph on the control points where edges define the prior knowledge on the deformation. This graph is obtained using a clustering technique which models the co-dependencies between the displacements of the control points. The resulting classification is used to encode regularization constraints through connections between cluster centers and cluster elements. Additionally, the global structure of the deformation is encoded through a fully connected graph on the cluster centers. Then, registration of a new pair of images consists of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Content-based video adaptation in low/variable bandwidth communication networks using adaptable neural network structures",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1716655/",
+            "Abstract": "In this paper, an adaptable neural network model is used for real time video delivery over communication networks of low and variable bandwidth, such as the wireless ones. The scheme performs video delivery in content domain in contrast to the previous approaches in which only temporal frame skipping is adopted. The proposed method requires no buffering of video frames and thus imposing no frame delay. In particular, in case of low bandwidth conditions, the proposed scheme estimates the number of frames that best represent the sequence within a time segment and transmit this number for delivery instead of a temporal frame skipping. Multiple key frames are considered by optimally approximating the real bandwidth availability with a rational fraction. Key frame estimation is accomplished using a neural network model capable of predicting the indices of the most appropriate key frames that are to be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust pan, tilt and zoom estimation",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1028182/",
+            "Abstract": "We propose a method for estimating the motion parameters for a rotating camera with a possibly changing focal length. This method is suitable for analysing sport event videos. The estimation process consists of three stages: (1) robust estimation of the 2D translational components; (2) 2D block-based motion estimation; (3) robust estimation of a parametric motion model. For more reliability, confidence measures for the 2D motion vectors are introduced. The reliability of the method is illustrated on some difficult real image sequences.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Image retrieval by colour and texture using chromaticity histograms and wavelet frames",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-40053-2_35",
+            "Abstract": "In this paper the combination of texture and colour features is used for image classification. Texture features are extracted using the Discrete Wavelet Frame analysis. 2-D or 1-D histograms of the CIE Lab chromaticity coordinates are used as colour features. The 1-D histograms of the a, b coordinates were also modeled according to the generalized Gaussian distribution. The similarity measure defined on the features distribution is based on the Bhattacharya distance. Retrieval benchmarking is performed on textured colour images from natural scenes, obtained from the VisTex database of MIT Media Laboratory and from the Corel Photo Gallery.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Successive group selection for microaggregation",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6095550/",
+            "Abstract": "In this paper, we propose an efficient clustering algorithm that has been applied to the microaggregation problem. The goal is to partition N given records into clusters, each of them grouping at least K records, so that the sum of the within-partition squared error (SSE) is minimized. We propose a successive Group Selection algorithm that approximately solves the microaggregation problem in O(N 2  log N) time, based on sequential Minimization of SSE. Experimental results and comparisons to existing methods with similar computation cost on real and synthetic data sets demonstrate the high performance and robustness of the proposed scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Recognition and tracking of the members of a moving human body",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30074-8_10",
+            "Abstract": "We present a method to solve the human silhouette tracking problem using 18 major human points. We used: a simple 2D model for the human silhouette, a linear prediction technique for initializing major points search, geometry anthropometric constraints for determining the search area and color measures for matching human body parts. In addition, we propose a method to solve the problem of human members recognition and 18 major human points detection using silhouette. This result can be used to initialize a human tracking algorithm for real time applications. Our main purpose is to develop a low computation cost algorithm, which can be used independently of camera motion. The output of the tracking algorithm is the position of 18 major human points and a 2D human body extraction. In cases of low quality imaging conditions or low background contrast, the result may be worst. For these cases we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "mIh2JWAAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Effiziente nichtlineare Registrierung mittels diskreter Optimierung",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-78640-5_18",
+            "Abstract": "In diesem Beitrag wird eine neuartige Methode f\u00fcr die nichtlineare Bildregistrierung vorgestellt. Dabei wird das klassische Energieminimierungsproblem Intensit\u00e4ts-basierter Methoden in eine Markov Random Field Formulierung eingebettet. Dieses erm\u00f6glicht die Nutzung von effizienten diskreten Optimierungsmethoden, die unabh\u00e4ngig von der tats\u00e4chlich verwendeten Kostenfunktion eine quasi-optimale L\u00f6sung berechnen. Free Form Deformations werden als Transformationsmodell in Betracht gezogen und die Registrierung wird so auf ein diskretes Labeling-Problem reduziert. Jedem Kontrollpunkt wird eine Verschiebung zugeordnet und so die optimale Konfiguration des Modells errechnet. Das viel versprechende Potential des Frameworks wird klinischen Daten evaluiert.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Signal segmentation and modelling based on equipartition principle",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5201105/",
+            "Abstract": "In this paper, we propose a method for time interval segmentation of signals based on an equipartition principle (EP). According to EP, the signal is segmented into segments that give equal errors in reconstruction selecting the most suitable model to describe each segment. Moreover, the segments are equivalent in the content domain, since the signal is segmented into segments that are modelled by the same number of coefficients. The proposed method has been successfully applied on different types of signals like: physiologic, speech, human motion, financial time series. Finally, the proposed methodology is very flexible on changes of error criteria, signal modelling and on signal dimension yielding a robust method for segmentation and modelling of signals.",
+            "Abstract entirety": 1,
+            "Author pub id": "mIh2JWAAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

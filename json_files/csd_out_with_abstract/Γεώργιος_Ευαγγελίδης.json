@@ -1,0 +1,1039 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b4\u03b7\u03c2",
+    "romanize name": "Georgios Evangelidis",
+    "School-Department": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7\u03c2 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "uom",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 6852,
+    "Scholar name": "Georgios Evangelidis",
+    "Scholar id": "DeNMec4AAAAJ",
+    "Affiliation": "Professor of Computer Science, University of Macedonia, Thessaloniki, Greece",
+    "Citedby": 938,
+    "Interests": [
+        "Databases",
+        "Indexing",
+        "Data Mining",
+        "Citation Analysis",
+        "Information Retrieval"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=DeNMec4AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Implementing a nationwide system for training very small enterprises for ICT innovation: The Greek case",
+            "Publication year": 2003,
+            "Publication url": "https://www.jstor.org/stable/pdf/jeductechsoci.6.1.26.pdf",
+            "Abstract": "The applications of ICT in enterprises are many and well known. However, many small enterprises do not integrate ICT. So, the Greek government decided to promote the integration of ICT in these businesses. The aim of the present paper is to describe this nation-wide training system for employees of very small enterprises on the uses of ICT, which presents certain peculiarities. The wide dispersion and lack of homogeneity of the enterprises necessitates that the training system must be decentralised as well as flexible. Also, the employees of very small enterprises are obviously adults and in many cases have absolutely no positive attitudes towards ICT. The particular characteristics of very small enterprises, not only the enterprises as organizations but also their staff, have an effect on the instruction of the trainers who must attend a multi-faceted program which satisfies all the above mentioned requirements and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:_kc_bZDykSQC",
+            "Publisher": "International Forum of Educational Technology & Society"
+        },
+        {
+            "Title": "The universal author identifier system (UAI_Sys)",
+            "Publication year": 2006,
+            "Publication url": "https://repository.arizona.edu/handle/10150/105755",
+            "Abstract": "One common problem in the scientific research literature is that each one author cannot easily be identified uniquely. The problem arises when there are authors with identical names, authors who have changed their name(s) in the course of time, and authors whose names appear in alternative versions (for example: Jaakko Hyv\u00c3\u00a4rinen, and J. P. Hyv\u00c3\u00a4rinen) across the publications they have (co-) authored. The issue becomes more of a problem when data analysis utilizing author names is to be conducted, for example: in citation analysis. In this paper we introduce the Universal Author Identifier system, codenamed UAI_Sys. The system is web based and publicly available, enabling each one author to register/update his/her own metadata, plus acquire a unique identifier (UAI code), ensuring name disambiguation. As soon as UAI_Sys becomes accepted and enjoys worldwide use, selected author metadata will become globally available to all interested parties. Care is taken so that UAI_Sys comprises more than just a database for storing and handling author identifiers. Provision is taken for the system to incorporate web services facilitating communication with third party applications, thus expanding the possibilities for web based co-functionality. Last but not least, the system supports role-based access and management (i.e. different user roles for authors, librarians, publishers, and administrators) for efficient and effective information dissemination and management, promoting research and collaboration. UAI_Sys is being designed/developed along the lines of the Cascading Citations Analysis Project (C-CAP) which is co-funded by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:4TOpqqG69KYC",
+            "Publisher": "TEI of Pireaeus, Greece, and the University of Paisley, UK"
+        },
+        {
+            "Title": "Interactions in Augmented and Mixed Reality: An Overview",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/2076-3417/11/18/8752",
+            "Abstract": "\u201cInteraction\u201d represents a critical term in the augmented and mixed reality ecosystem. Today, in mixed reality environments and applications, interaction occupies the joint space between any combination of humans, physical environment, and computers. Although interaction methods and techniques have been extensively examined in recent decades in the field of human-computer interaction, they still should be reidentified in the context of immersive realities. The latest technological advancements in sensors, processing power and technologies, including the internet of things and the 5G GSM network, led to innovative and advanced input methods and enforced computer environmental perception. For example, ubiquitous sensors under a high-speed GSM network may enhance mobile users\u2019 interactions with physical or virtual objects. As technological advancements emerge, researchers create umbrella terms to define their work, such as multimodal, tangible, and collaborative interactions. However, although they serve their purpose, various naming trends overlap in terminology, diverge in definitions, and lack modality and conceptual framework classifications. This paper presents a modality-based interaction-oriented diagram for researchers to position their work and defines taxonomy ground rules to expand and adjust this diagram when novel interaction approaches emerge.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:hkOj_22Ku90C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Meteorological Data Mining: Exploiting Domain Expertise in the Class Imbalance Problem",
+            "Publication year": 2011,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Evangelidis/publication/267406967_Meteorological_Data_Mining_Exploiting_Domain_Expertise_in_the_Class_Imbalance_Problem/links/54bcd59f0cf29e0cb04c37e8/Meteorological-Data-Mining-Exploiting-Domain-Expertise-in-the-Class-Imbalance-Problem.pdf",
+            "Abstract": "We address the class imbalance issue in data mining and we explore whether expert knowledge in the field of Meteorology can enhance the efficiency of already known techniques. We use large meteorological datasets from the European Centre for Medium-Range Weather Forecasts (ECMWF) and the Meteorological Station of Micra, Thessaloniki. We attempt to predict the occurrence of precipitation in the station, ie, we deal with a classification problem. Since the positive class (recorded precipitation) is only 16.1% of the cases, we examine different strategies to address our skewed data issue and we study their impact on the performance of various classification algorithms. We propose new sampling methods based on our expertise on the data domain and we compare their efficiency against other known methods from the bibliography.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Citation based journal-to-journal associations in the microcosm of an academic libraries consortium",
+            "Publication year": 2022,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0099133321001543",
+            "Abstract": "Scholarly journals are usually rated on the basis of the number of citations received which directly translates to impact in the advancement of research. In this paper, the emphasis is on considering citations as a means for unveiling journal-to-journal associations. An Academic Libraries Consortium could use such kind of information in the process of planning for the collection of journal titles (subscriptions) that best serves the needs of its research user community. The innovative contribution is summarized as follows: (a) journal research impact measures are considered in the context of the well-defined user community (Target Authors Group, TAG) of the Hellenic Academic Libraries Link (HEAL-Link) Consortium, and (b) research impact measures are used to reveal interesting journal-to-journal associations, as well as journals of an interdisciplinary value, specifically for the microcosm of the given TAG community \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:JQOojiI6XY0C",
+            "Publisher": "JAI"
+        },
+        {
+            "Title": "WIPE\" Pilot Testing and Comparative Evaluation",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1109/ICALT.2005.310",
+            "Abstract": "This paper discusses the pilot testing and evaluation of a database-driven web-based programming environment called WIPE (Web Integrated Programming Environment). WIPE is a teaching tool for secondary education students that are introduced to the principles of programming. The programming environment was used in secondary schools in Greece and the results of its evaluation demonstrate that it successfully deals with the difficulties novices meet.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A framework for the development and deployment of evolving applications.",
+            "Publication year": 2006,
+            "Publication url": "https://www.scitepress.org/papers/2006/13174/13174.pdf",
+            "Abstract": "Software development is an R&D intensive activity, dominated by human creativity and diseconomies of scale. Current efforts focus on design patterns, reusable components and forward-engineering mechanisms as the right next stage in cutting the Gordian knot of software. Model-driven development improves productivity by introducing formal models that can be understood by computers. Through these models the problems of portability, interoperability, maintenance, and documentation are also successfully addressed. However, the problem of evolving requirements, which is more prevalent within the context of business applications, additionally calls for efficient mechanisms that ensure consistency between models and code, and enable seamless and rapid accommodation of changes, without interrupting severely the operation of the deployed application. This paper introduces a framework that supports rapid development and deployment of evolving web-based applications, based on an integrated database schema. The proposed framework can be seen as an extension of the Model Driven Architecture targeting a specific family of applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "WIPE-a model for a Web-based database-driven environment for teaching programming",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1215195/",
+            "Abstract": "We describe a Web-based programming environment that serves for the teaching of the basic principles of programming. The environment is accessible via the Internet through a Web browser and uses a specially featured compiler to translate the source code of the programming language into a pseudo assembly code. Supplementary programming tools accompany the compiler and a database is used for storing the intermediate remits (i.e., the code students develop while trying to solve an exercise). In addition, there is a complete user, file and group management environment and a tool to automate the testing of the student solutions to programming exercises.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Framework for Predicting Community Behavior in Evolving Social Networks",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3351556.3351583",
+            "Abstract": "The goal of this paper is to propose a complete framework for addressing the problem of predicting communities behavior in evolving social networks. The framework encompasses all steps required for community detection, analysis and behavior prediction. Our approach is based on modeling community evolution by multidimensional time series that describe the changes of each community's properties, both structural and content-based, through time. The prediction framework is based on rule discovery upon the multidimensional time series, so that based on patterns that appear in the evolution of a community's property so far, future behavior can be predicted. Finally, exploiting the similarity between the behavior of a network's communities, their multidimensional time series will be used for community clustering. Thus, rule discovery can also incorporate global rules that appear in clusters of communities as well \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:J-pR_7NvFogC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Indexing of spatiotemporal data with the hB-Pi Tree",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18238382383916159188&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploring student viewing behaviors in online educational videos",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901483/",
+            "Abstract": "Online video use in education is an expanding trend and research that focuses on how students view educational videos becomes of particular interest. In our previous work, we argued that in order to conduct a detailed analysis of the learner viewing behavior we have to deploy tools that log the learner activity and assist statistical analysis and data mining. Working towards this direction, a framework for recording and analyzing learner behavior was presented. This paper presents findings of applying this framework into educational settings.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "RHC: a non-parametric cluster-based data reduction for efficient $$$$-NN classification",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10044-014-0393-7.pdf",
+            "Abstract": " Although the -NN classifier is a popular classification method, it suffers from the high computational cost and storage requirements it involves. This paper proposes two effective cluster-based data reduction algorithms for efficient -NN classification. Both have low preprocessing cost and can achieve high data reduction rates while maintaining -NN classification accuracy at high levels. The first proposed algorithm is called reduction through homogeneous clusters (RHC) and is based on a fast preprocessing clustering procedure that creates homogeneous clusters. The centroids of these clusters constitute the reduced training set. The second proposed algorithm is a dynamic version of RHC that retains all its properties and, in addition, it can manage datasets that cannot fit in main memory and is appropriate for dynamic environments where new training data are gradually available. Experimental results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Springer London"
+        },
+        {
+            "Title": "FHC: an adaptive fast hybrid method for k-NN classification",
+            "Publication year": 2015,
+            "Publication url": "https://academic.oup.com/jigpal/article-abstract/23/3/431/725408",
+            "Abstract": "A popular and easy to implement classifier is the -Nearest Neighbour (k-NN). However, sequentially searching for nearest neighbours in large datasets leads to inefficient classification because of the high computational cost involved. This article presents an adaptive hybrid and cluster-based method for speeding up the -NN classifier. The proposed method reduces the computational cost as much as possible while maintaining classification accuracy at high levels. The method is based on the well-known -means clustering algorithm and consists of two main parts: (i) a pre-processing algorithm that builds a two-level, cluster-based data structure, and (ii) a hybrid classifier that classifies new items by accessing either the first or the second level of the data structure. The proposed approach was tested on seven real life datasets and the experiential measurements were statistically validated by the Wilcoxon \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:TFP_iSt0sucC",
+            "Publisher": "Oxford University Press"
+        },
+        {
+            "Title": "Efficient $$$$-NN classification based on homogeneous clusters",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10462-013-9411-1.pdf",
+            "Abstract": "The -NN classifier is a widely used classification algorithm. However, exhaustively searching the whole dataset for the nearest neighbors is prohibitive for large datasets because of the high computational cost involved. The paper proposes an efficient model for fast and accurate nearest neighbor classification. The model consists of a non-parametric cluster-based preprocessing algorithm that constructs a two-level speed-up data structure and algorithms that access this structure to perform the classification. Furthermore, the paper demonstrates how the proposed model can improve the performance on reduced sets built by various data reduction techniques. The proposed classification model was evaluated using eight real-life datasets and compared to known speed-up methods. The experimental results show that it is a fast and accurate classifier, and, in addition, it involves low pre-processing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:hMod-77fHWUC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "IEEE Computer Society Learning Technology Task Force (LTTF)",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.7214&rep=rep1&type=pdf",
+            "Abstract": "Asynchronous distance education appears as one of the most appealing instructional delivery methods as it combines flexibility to access teaching material with time to reflect, self-study techniques with peer-to-peer collaboration, and the use of low-cost technology. However, a number of pedagogical problems appear when confronted with asynchronous distance education (Ritchie and Hoffman, 1997; Wulf, 1996; Pernici and Casati, 1997; Relan and Gillani, 1997; Hunt 1999; Pritichard, 1998; Khan, 1997; Harasim, 1990; Hall, 1997b; Holden and Wedman, 1993).Students may feel isolated due to the distance factor or due to the lack of live interactions with the tutor or with classmates. On the other hand, due to the discontinuous character of asynchronous distance education, these sessions may also suffer from lack of intense supervision and lack of specialized feedback to students, according to their individual learning needs and preferences. So monitoring students\u2019 performance may become a problematic process, while conclusions about the teaching effectiveness of a particular instructor may also be difficult to draw.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DBTechNet portal: A Gateway to Education and Training for the European Database Technology Professional",
+            "Publication year": 2009,
+            "Publication url": "https://www.researchgate.net/profile/Fritz-Laux-2/publication/236973075_DBTechNet_portal_A_Gateway_to_Education_and_Training_for_the_European_Database_Technology_Professional/links/02e7e51a8da47651fa000000/DBTechNet-portal-A-Gateway-to-Education-and-Training-for-the-European-Database-Technology-Professional.pdf",
+            "Abstract": "In this paper we consider issues relating to the design, modeling, and realization of the DBTechNet web portal. DBTechNet is an initiative of European universities and IT companies that currently runs the \u201cDBTech EXT\u201d project which is partially funded by the EU LLP Transversal Programme. The intended use of the portal imposes a number of challenging functional and design issues that need to be addressed at model construction phase, as well as requirements with regard to user and content access policies. We describe the decisions made in the direction of implementing the portal using a modified/tailored version of the Moodle open source course management system.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:hC7cP41nSMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fast and accurate k-nearest neighbor classification using prototype selection by clustering",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6377386/",
+            "Abstract": "Data reduction is very important especially when using the k-NN Classifier on large datasets. Many prototype selection and generation Algorithms have been proposed aiming to condense the initial training data as much as possible and keep the classification accuracy at a high level. The Prototype Selection by Clustering (PSC) algorithm is one of them and is based on a cluster generation procedure. Contrary to many other prototype selection and generation algorithms, its main goal is the fast execution of the data reduction procedure rather than high reduction rate. In this paper, we demonstrate that the reduction rate and the classification accuracy of PSC can be improved by generating a larger number of clusters. Moreover, we compare the performance of the particular algorithm with two state-of-the-art algorithms, one selection and one generation, using six real life datasets. The experimental results indicate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Proceedings of the 8th annual Conference on Innovation and Technology in Computer Science Education",
+            "Publication year": 2003,
+            "Publication url": "https://catalog.lib.kyushu-u.ac.jp/ja/recordID/3553595/",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:WqliGbK-hY8C",
+            "Publisher": "Acm"
+        },
+        {
+            "Title": "Multivariate Time Series Data Mining: PCA-based Measures For Similarity Search.",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17162075624095643058&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:_B80troHkn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An extensive experimental study on the cluster-based reference set reduction for speeding-up the k-nn classifier",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1309.7750",
+            "Abstract": "The k-Nearest Neighbor (k-NN) classification algorithm is one of the most widely-used lazy classifiers because of its simplicity and ease of implementation. It is considered to be an effective classifier and has many applications. However, its major drawback is that when sequential search is used to find the neighbors, it involves high computational cost. Speeding-up k-NN search is still an active research field. Hwang and Cho have recently proposed an adaptive cluster-based method for fast Nearest Neighbor searching. The effectiveness of this method is based on the adjustment of three parameters. However, the authors evaluated their method by setting specific parameter values and using only one dataset. In this paper, an extensive experimental study of this method is presented. The results, which are based on five real life datasets, illustrate that if the parameters of the method are carefully defined, one can achieve even better classification performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HERMES: A Tool for Querying Heterogeneous Data Stores",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6377431/",
+            "Abstract": "Data are organized/stored in a plethora of different databases, locations and data models. In many cases, companies and organizations utilize data stored in a variety of data models at remote database servers. A challenge would be to construct queries that join data from such disparate sources. In this paper, we report on research work relating to graphical query languages and data modeling. More specifically, we report on a new software tool for the novice user, one that transforms databases of different data models (Relational, Object-Relational, Object-Oriented) into an equivalent XML model, plus on a new graphical XQuery type query language that facilitates the construction of user queries that join data from different data models.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient editing and data abstraction by finding homogeneous clusters",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10472-015-9472-8.pdf",
+            "Abstract": "The efficiency of the k-Nearest Neighbour classifier depends on the size of the training set as well as the level of noise in it. Large datasets with high level of noise lead to less accurate classifiers with high computational cost and storage requirements. The goal of editing is to improve accuracy by improving the quality of the training datasets. To obtain such datasets, editing removes noise and mislabeled data as well as smooths the decision boundaries between the discrete classes. On the other hand, prototype abstraction aims to reduce the computational cost and the storage requirements of classifiers by condensing the training data. This paper proposes an editing algorithm called Editing through Homogeneous Clusters (EHC). Then, it extends the idea by introducing a prototype abstraction algorithm that integrate the EHC mechanism and is capable of creating a small noise-free representative set of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Achieving optimal average data node storage utilization in k-dimensional point data indexes",
+            "Publication year": 2010,
+            "Publication url": "http://ejournals.teiath.gr/index.php/JIIM/article/view/3050",
+            "Abstract": "Indexing of k-dimensional point data is becoming again a hot research topic because of the need to efficiently index and retrieve high dimensional vectors (points) in data mining applications. The most common query on such vectors is kNN searching, which is a variation of range searching. Most multidimensional indexes for point data follow the paradigm of the ubiquitous B+ tree and store data entries at the leaf level of the index (data nodes). Since this level naturally occupies the majority of nodes in a multidimensional index tree, it is crucial that an index structure achieves the best possible average storage utilization regardless of data distribution and order of data insertion. An additional conflicting goal is the minimization of the index term that is posted at the levels above when data nodes are split. In this paper we revisit data node splitting techniques for point access methods like the KDB-tree, hB-tree, and, in general, any index that stores point data at its leaf level nodes and splits them so that no overlapping subspaces are created at the leaf level. We experiment with various splitting techniques that produce the minimum index term for posting but differ in the shape of the resulting nodes and the average storage utilization. We also test our splitting techniques using uniform and skewed data distributions. The comparison is on the average data node storage utilization and the efficiency of range query searches.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploring the effect of data reduction on Neural Network and Support Vector Machine classification",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0925231217317757",
+            "Abstract": "Neural Networks and Support Vector Machines (SVMs) are two of the most popular and efficient supervised classification models. However, in the context of large datasets many complexity issues arise due to high memory requirements and high computational cost. In the context of the application of Data Mining algorithms, data reduction techniques attempt to reduce the size of training datasets in terms of the number of instances by selecting some of the existing instances or by generating new training instances. The idea is to speed up the application of the data mining algorithm with minimum or no sacrifice in performance. Data reduction techniques have been extensively used in the context of k-Nearest Neighbor classification, a lazy classifier that works by directly using a training dataset rather than building a model. This paper explores the application of data reduction techniques as a preprocessing step before \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:tOudhMTPpwUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "PCA-based Similarity Search: Pre-processing & Distance Measures",
+            "Publication year": 2007,
+            "Publication url": "http://ikaros.teipir.gr/era/era2/fullpap/B26.doc",
+            "Abstract": "Time series appear frequently in several domains such as in multimedia, business, industry or medicine. A multivariate time series dataset is a set of co-evolving time series that relates to a specific object (eg the motion of a person). The increasing need for analyzing efficiently the huge amount of this information leads to the application of data mining techniques. At the core of these techniques lies the concept of similarity since most of them require searching for similar patterns, such as in query by content, clustering or classification. Nevertheless, when dealing with multivariate time series datasets, similarity should be sought between the whole datasets and not only between the individual time series, since there are usually important correlations among them that shouldn\u2019t be lost. In this paper, we discuss the application of Principal Component Analysis (PCA) on multivariate time series datasets for the purpose of similarity search. PCA is applied in order to reduce the high dimensionality of such data while retaining as much as possible of the variation present in the data. We provide a thorough description of the pre-processing phase with respect to PCA assumptions and limitations, as well as, to the most frequently appeared distortions in data. Furthermore, we experimentally explore the potential usefulness of incorporating Piecewise Aggregate Approximation into this phase. Finally, we discuss the various aspects of the proposed PCA-based similarity (dissimilarity) measures.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Directory of hellenic academic and research entities (DHARE)",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2801948.2801977",
+            "Abstract": "The Directory of Hellenic Academic and Research Entities (DHARE for short) comprises an act undertaken under the Hellenic Libraries Link (HEAL-Link) project titled\" Advanced Services for Open Access Digital Libraries\"[1, 2]. The aim is to design and develop a national system for the unique identification of research and academic entities (individual researchers, academic institutions, research centers, research organizations, etc.). The DHARE directory will be primarily used by services that incorporate in their functionality the unique identification of academic and research entities in Greece. Services like those of the institutional and/or subject repositories [5], current research information systems [6], research bibliography systems [7], etc.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:g5m5HwL7SMYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Data node splitting policies for improved range query efficiency in k-dimensional point data indexes",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6065062/",
+            "Abstract": "High dimensional vectors (points) are very common in image and video classification, time series data mining, and many modern data mining applications. One of the most popular classification methods on such data is k-Nearest Neighbor (kNN) searching. Unfortunately, all proposed and state-of-the-art multi-attribute indexes fall short in terms of usability as dimensionality increases. This is attributed to the ``dimensionality curse\" problem, according to which, range searching above 10 dimensions is as efficient as a sequential scan of the entire database. Thus, kNN searching, as a special case of range searching, has to benefit a lot if we find ways to increase the performance of indexes in high dimensions. In this paper, we deal with space partitioning indexes and we propose six data node splitting techniques. We examine their performance in terms of data node storage utilization and quality of space partitioning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A new framework for the citation indexing paradigm",
+            "Publication year": 2006,
+            "Publication url": "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/meet.14504301152",
+            "Abstract": "A new citation indexing paradigm is proposed: the cascading citation indexing framework (c2IF, for short). It improves the way research publications are assessed for their impact in promoting science and technology. Given a collection of articles and their citation graph, citations are considered at the (article, author) level. Each one article is uniquely identified by means of the Digital Object Identifier (DOI,http://www.doi.org). To identify each one author uniquely, a Universal Author Identifier (UAI) scheme is established. In addition to the citations directly made to a given (article, author) pair, citation paths that target each one citing article are also considered. The granularity of the paradigm is further increased by introducing the concept of the chord, whereby a citation path of length one co\u2010exists with paths of length two or higher, involving the same source\u2010and target\u2010articles. The c2IF output emerges in the form of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:aqlVkmm33-oC",
+            "Publisher": "Wiley Subscription Services, Inc., A Wiley Company"
+        },
+        {
+            "Title": "Edutainment and practice in video-based learning: enriching educational videos with interactive activities and games",
+            "Publication year": 2020,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJENTTM.2020.105689",
+            "Abstract": "Video-based learning has a long history but the transfer of educational videos to the web has given a powerful potential to this form of learning. Today, there is an abundance of independent educators, trainers, and educational organisations that use online video for educational content delivery. In most cases however, the videos that exist in educational platforms do not contain any aspects of interactivity and educational entertainment (edutainment). These are mostly non-interactive videos and in cases where there is interactivity this is mainly restricted to in-video quizzes and user annotations. The aim of this paper is to present solutions on how to develop interactive video-based learning environments using open source and freeware tools. In these solutions educational videos are enriched with knowledge testing activities, games, and hands-on practice exercises for learning software applications. The developed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "Prototype Generation for Multi-label Nearest Neighbours Classification",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-86271-8_15",
+            "Abstract": "Numerous Prototype Selection and Generation algorithms for instance based classifiers and single label classification problems have been proposed in the past and are available in the literature. They build a small set of prototypes that represents as best as possible the initial training data. This set is called the condensing set and has the benefit of low computational cost while preserving accuracy. However, the proposed Prototype Selection and Generation algorithms are not applicable to multi-label problems where an instance may belong to more than one classes. The popular Binary Relevance transformation method is also inadequate to be combined with a Prototype Selection or Generation algorithm because of the multiple binary condensing sets it builds. Reduction through Homogeneous Clustering (RHC) is a simple, fast, parameter-free single label Prototype Generation algorithm that is based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:PR6Y55bgFSsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "G-binary: a New Non-Parameterized Code for Improved Inverted File Compression",
+            "Publication year": 2003,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/4344",
+            "Abstract": "The inverted file is a popular and efficient method for indexing text databases and is being used widely in information retrieval applications. As a result, the research literature is rich in models (global and local) that describe and compress inverted file indexes. Global models compress the entire inverted file index using the same method and can be distinguished in parameterized and non-parameterized ones. The latter utilize fixed codes and are applicable to dynamic collections of documents. Local models are always parameterized in the sense that the method they use makes assumptions about the distribution of each and every word in the document collection of the text database. In the present study, we examine some of the most significant integer compression codes and propose g-binary, a new non-parameterized coding scheme that combines the Golomb codes and the binary representation of integers. The proposed new coding scheme does not introduce any extra computational overhead when compared to the existing non-parameterized codes. With regard to storage utilization efficiency, experimental runs conducted on a number of TREC text database collections reveal an improvement of about 6% over the existing non-parameterized codes. This is an improvement that can make a difference for very large text database collections.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Fast tree-based classification via homogeneous clustering",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-33607-3_55",
+            "Abstract": "Data reduction, achieved by collecting a small subset of representative prototypes from the original patterns, aims at alleviating the computational burden of training a classifier without sacrificing performance. We propose an extension of the Reduction by finding Homogeneous Clusters algorithm, which utilizes the k-means method to propose a set of homogeneous cluster centers as representative prototypes. We propose two new classifiers, which recursively produce homogeneous clusters and achieve higher performance than current homogeneous clustering methods with significant speed up. The key idea is the development of a tree data structure that holds the constructed clusters. Internal tree nodes consist of clustering models, while leaves correspond to homogeneous clusters where the corresponding class label is stored. Classification is performed by simply traversing the tree. The two algorithms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:5ugPr518TE4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "An interactive video-based learning environment supporting learning analytics: Insights obtained from analyzing learner activity data",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-981-287-868-7_56",
+            "Abstract": "Online videos are extensively used in education, and a recent trend is the integration of interactive elements and Web content into educational videos. This paper describes in brief how open source tools can be used for developing learning environments where video content is aggregated with interactive elements, educator content, and content coming from open Internet resources. It also describes how such tools can be used for capturing and storing learner activity data which can then be used for data analysis and data mining purposes. Finally, the paper presents insights obtained from analyzing learner activity data, gathered over a semester period.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:mB3voiENLucC",
+            "Publisher": "Springer, Singapore"
+        },
+        {
+            "Title": "Tight lower bund for matrix transposition on the reconfigurable mesh.",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4031171155743121188&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:LjlpjdlvIbIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introducing secondary education students to algorithms and programming",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1023/B:EAIT.0000027928.94039.7b",
+            "Abstract": "In Greece, the development of the teaching of Information Technology (IT) in schools has been greatly influenced by the rapid development of technology, making IT literacy a priority for all individuals. Consequently, the teaching of algorithms and programming, with the ulterior motive of teaching modeling as well as problem solving, has been greatly limited in Secondary Education. However, we strongly believe that algorithms and programming constitute an important intellectual tool and should be included in basic education. In any case, both the research literature findings, as well as, our own experience confirm the fact that novice programmers come up against many mental obstacles in their attempts to understand the functioning of programs or the construction of algorithms. In order to deal with these difficulties and successfully teach the elementary concepts of algorithms and programming, we have \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "WebDR: A web workbench for data reduction",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-44845-8_36",
+            "Abstract": "Data reduction is a common preprocessing task in the context of the k nearest neighbour classification. This paper presents WebDR, a web-based application where several data reduction techniques have been integrated and can be executed on-line. WebDR allows the performance evaluation of the classification process through a web interface. Therefore, it can be used by the academia for educational and experimental purposes.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:UebtZRa9Y70C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Developing and Deploying Dynamic Applications-An Architectural Prototype.",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11720159053108540266&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:ye4kPcJQO24C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using metrics and cluster analysis for analyzing learner video viewing behaviours in educational videos",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7073210/",
+            "Abstract": "On line video is a powerful tool for e-learning and this is evident from a number of reports, research papers and university initiatives, which portray that online video is becoming an important medium for delivering educational content. Therefore, research that focuses on how students view educational videos becomes of particular interest and in previous work we argued that in order to efficiently analyze learner viewing behavior we should deploy tools that log the learner activity and assist usage analysis and data mining. Working towards this direction, a framework for recording and analyzing learner behavior was presented together with findings of applying the framework into educational settings. In this paper, we continue this work by presenting a set of metrics that can be derived from the framework and be used to measure learner engagement and video popularity. These metrics in conjunction with the data \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "WIPE: a programming environment for novices",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1067445.1067479",
+            "Abstract": "This paper presents an overview of the design principles and the evaluation of a new programming environment, WIPE (Web Integrated Programming Environment), designed specifically to teach novices the fundamentals of programming. The environment is designed for use in secondary education as a first programming course, in order to help students become familiar with the main programming concepts.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dealing with noisy data in the context of k-NN Classification",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2801081.2801116",
+            "Abstract": "Like many other classifiers, k-NN classifier is noise-sensitive. Its accuracy highly depends on the quality of the training data. Noise and mislabeled data, as well as outliers and overlaps between data regions of different classes, lead to less accurate classification. This problem can be dealt with by adopting either a large k value or by pre-processing the training set with an editing algorithm. The first strategy involves trial-and-error attempts to tune the value of k, while the second strategy constitutes a time-consuming pre-processing step. This paper discusses and compares these two strategies and reveals their advantages and drawbacks.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A system for program visualization and problem-solving path assessment of novice programmers",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/507758.377667",
+            "Abstract": "This paper describes an educational programming environment, called AnimPascal. AnimPascal is a program animator that incorporates the ability to record problem-solving paths followed by students. The aim of AnimPascal is to help students understand the phases of developing, verifying, debugging, and executing a program. Also, by recording the different versions of student programs, it can help teachers discover student conceptions about programming. In this paper we describe how our system works and present some empirical results concerning student conceptions when trying to solve a problem of algorithmic or programming nature. Finally, we present our plans for further extensions to our software.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:D_sINldO8mEC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Maximum Hail Size Prediction",
+            "Publication year": 2010,
+            "Publication url": "http://www.journalofweathermodification.org/index.php/JWM/article/view/157",
+            "Abstract": "We examine the possibility of building a meteorological prediction tool using data from the Greek National Hail Suppression Program. More specifically, we focus on maximum hail size prediction from operational meteorological radar and/or sounding data. Factor analysis and linear regression are applied in order to identify the optimum number of independent variables and the sequence to build the corresponding meteorological tool. A significant linear relationship is discovered for non-seeded storms relating hail size to various radar parameters, such as the Reflectivity or the group of Vertically integrated liquid density and Cloud top. A relationship for predicting hail size using radar parameters for seeded storms failed to be statistically significant.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cascading citations indexing framework algorithm implementation and testing",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5298828/",
+            "Abstract": "The cascading citations indexing framework has been proposed as a new method for calculating the impact a researcher's work has. The algorithm presented in this paper calculates the total number of citations a distinct (article, author) pair has received, taking into consideration not only the direct citations but also the indirect ones. The algorithm is tested against the CiteSeer bibliographic database. The results presented demonstrate the different ranking of the pairs based on the depth at which one examines the bibliographic references received.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An interactive video-based learning environment that supports learning analytics for teaching \u2018image editing\u2019",
+            "Publication year": 2016,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4610454329196081890&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:9vf0nzSNQJEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "g-binary: A new non-parameterized code for improved inverted file compression",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-45227-0_46",
+            "Abstract": "The inverted file is a popular and efficient method for indexing text databases and is being used widely in information retrieval applications. As a result, the research literature is rich in models (global and local) that describe and compress inverted file indexes. Global models compress the entire inverted file index using the same method and can be distinguished in parameterized and non-parameterized ones. The latter utilize fixed codes and are applicable to dynamic collections of documents. Local models are always parameterized in the sense that the method they use makes assumptions about the distribution of each and every word in the document collection of the text database. In the present study, we examine some of the most significant integer compression codes and propose g-binary, a new non-parameterized coding scheme that combines the Golomb codes and the binary representation of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An extensive experimental study on the cluster-based reference set reduction for speeding-up the k-nn classifier",
+            "Publication year": 2013,
+            "Publication url": "https://arxiv.org/abs/1309.7750",
+            "Abstract": "The k-Nearest Neighbor (k-NN) classification algorithm is one of the most widely-used lazy classifiers because of its simplicity and ease of implementation. It is considered to be an effective classifier and has many applications. However, its major drawback is that when sequential search is used to find the neighbors, it involves high computational cost. Speeding-up k-NN search is still an active research field. Hwang and Cho have recently proposed an adaptive cluster-based method for fast Nearest Neighbor searching. The effectiveness of this method is based on the adjustment of three parameters. However, the authors evaluated their method by setting specific parameter values and using only one dataset. In this paper, an extensive experimental study of this method is presented. The results, which are based on five real life datasets, illustrate that if the parameters of the method are carefully defined, one can achieve even better classification performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Simple Noise-Tolerant Abstraction Algorithm for Fast k-NN Classification",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-28931-6_20",
+            "Abstract": "The k-Nearest Neighbor (k-NN) classifier is a widely-used and effective classification method. The main k-NN drawback is that it involves high computational cost when applied on large datasets. Many Data Reduction Techniques have been proposed in order to speed-up the classification process. However, their effectiveness depends on the level of noise in the data. This paper shows that the k-means clustering algorithm can be used as a noise-tolerant Data Reduction Technique. The conducted experimental study illustrates that if the reduced dataset includes the k-means centroids as representatives of the initial data, performance is not negatively affected as much by the addition of noise.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:RGFaLdJalmkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The effects of dimensionality curse in high dimensional knn search",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6065061/",
+            "Abstract": "The dimensionality curse phenomenon states that in high dimensional spaces distances between nearest and farthest points from query points become almost equal. Therefore, nearest neighbor calculations cannot discriminate candidate points. Many indexing methods that try to cope with the dimensionality curse in high dimensional spaces have been proposed, but, usually these methods end up behaving like the sequential scan over the database in terms of accessed pages when queries like k-Nearest Neighbors are examined. In this paper, we experiment with state of the art multi-attribute indexing methods and try to investigate when these methods reach their limits, namely, at what dimensionality a kNN query requires visiting all the data pages. In our experiments we compare the Hybrid Tree, the R*-tree, and, the iDistance Method.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Augmenting educational videos with interactive exercises and knowledge testing games",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8363322/",
+            "Abstract": "The use of online videos is a common practice today in education and this is evident from the abundance of free online courses that are delivered by universities, educational organizations as well as individual professionals. In most cases, the videos that exist in educational platforms are linear without any scope for interactivity and in cases where there is interactivity this is mainly restricted to in-video quizzes. The aim of this paper is to present ways for going beyond the standard in-video quizzes by augmenting videos with various interactive exercises and games that test learners' knowledge. Furthermore, the paper presents a learning environment built using the concepts explained as well as how this environment was used and evaluated in educational settings. The outcome of the evaluation showed that learners attained positive opinions regarding the interactive environment features and its effectiveness in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:geHnlv5EZngC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dimensionality Curse, Concentration Phenomenon and the KDB-tree",
+            "Publication year": 2015,
+            "Publication url": "http://ejournals.teiath.gr/index.php/JIIM/article/view/3137",
+            "Abstract": "The problem of indexing large volumes of high dimensional data is an important and popular issue in the area of database management. There are many indexing methods that behave well in low dimensional spaces, but, in high dimensionalities, the phenomenon of the curse of dimensionality renders all indexes useless. For example, when issuing range queries almost all of the index pages have to be retrieved for answering these queries. In this paper we review the state-of-the-art research regarding high dimensional spaces and we demonstrate the dimensionality curse phenomenon using the TPIE KDBtree implementation",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Effect of Parallelism on Data Reduction",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3351556.3351584",
+            "Abstract": "In this paper, we investigate the effect of parallelism on two data reduction algorithms that use k-Means clustering in order to find homogeneous clusters in the training set. By homogeneous, we refer to clusters where all instances belong to the same class label. Our approach divides the training set into subsets and applies the data reduction algorithm on each separate subset in parallel. Then, the reduced subsets are merged back to the final reduced set. In our experimental study, we split the datasets into 8, 16, 32 and 64 subsets. The results obtained reveal that parallelism can achieve very low preprocessing costs. Also, when the number of subsets is high, in some datasets the accuracy of k-NN classification is almost equal (if not better) to the one achieved when using the standard execution of the reduction algorithms, with a small loss in the reduction rate.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Framework for the Development and Deployment of Evolving Applications-The Domain Model.",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13308741184461653428&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:N5tVd3kTz84C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Three novel indirect indicators for the assessment of papers and authors based on generations of citations",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11192-015-1802-4.pdf",
+            "Abstract": "A new indirect indicator is introduced for the assessment of scientific publications. The proposed indicator (-index) takes into account both the direct and indirect impact of scientific publications and their age. The indicator builds on the concept of generations of citations and acts as a measure of the accumulated impact of each scientific publication. A number of cases are examined that demonstrate the way the indicator behaves under well defined conditions in a Paper-Citation graph, like when a paper is cited by a highly cited paper, when cycles exist and when self-citations and chords are examined. Two new indicators for the assessment of authors are also proposed (fa-index and fas-index) that utilize the -index values of the scientific publications included in the Publication Record of an author. Finally, a comparative study of the  and  indices and a list of well known direct (Number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Teaching OOP with BlueJ: A case study",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1652599/",
+            "Abstract": "In this paper we present our findings on teaching OOP with BlueJ in the context of a one-semester programming course. We organize our findings, i.e., the difficulties, the errors, and the misconceptions that students encounter, in two categories: (a) difficulties attributed to the special characteristics of OOP, and, (b) difficulties that may be attributed to the features of the programming environment",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "u\u03b3-Golomb: A New Golomb Code Variation for the Local Bernoulli Model",
+            "Publication year": 2003,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/4370",
+            "Abstract": "There are multiple compression codes that have been developed to decrease the size of inverted files indexes that are widely used to information retrieval applications from databases. In this study are tested some of the most important compression codes for integers and the code u\u03b3-Golomb is suggested, which is a variation of the most famous compression code Golomb, for the topic model Bernoulli. As testing data is used a text database from the TREC collection, that occupies almost 1GB in the hard disk. The suggested variation does not induce further cost when compared with the original code. Its efficiency in using storage space, as far as the results have revealed, is improved comparing to the original compression code, expecially when concerning heterogeneous text databases.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:70eg2SAEIzsC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Improving on S-Index: A Hybrid Indexing Scheme for Textbases",
+            "Publication year": 2001,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/4351",
+            "Abstract": "In this paper are presented two variations of S-Index and their return correlated to the use of storage room is studied, while their indexing a free text database of 130MB size. S-Index is a hybrid form of indexing that combines the merits of two popular indexing methods, the inverted files and the signature files. There is also suggested a new variation of the method and its structure is described, combined with details for materialising the first and the new form of S-Index. The two variations are compared to each other, based on the experimental results that are received. Under specific circumstances, the improved variation of S-Index uses less that 5% of the storage room that occupies the free text indexing database. The first variation has slightly worse attribution related to the storage room, but the attribution of both variations of S-Index is comparable to the one using inverted files.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic k-NN Classification Based on Region Homogeneity",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-54623-6_3",
+            "Abstract": "The effectiveness of the k-NN classifier is highly dependent on the value of the parameter k that is chosen in advance and is fixed during classification. Different values are appropriate for different datasets and parameter tuning is usually inevitable. A dataset may include simultaneously well-separated and not well-separated classes as well as noise in certain regions of the metric space. Thus, a different k value should be employed depending on the region where the unclassified instance lies. The paper proposes a new algorithm with five heuristics for dynamic k determination. The heuristics are based on a fast clustering pre-processing procedure that builds an auxiliary data structure. The latter provides information about the region where the unclassified instance lies. The heuristics exploit the information and dynamically determine how many neighbours will be examined. The data structure construction and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Bitmap-tree indexing for set operations on free text",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1320067/",
+            "Abstract": "Here we report on our implementation of a hybrid-indexing scheme (bitmap-tree) that combines the advantages of bitmap indexing and file inversion. The results we obtained are compared to those of the compressed inverted file index. Both storage overhead and query processing efficiency are taken into consideration. The proposed new method is shown to excel in handling queries involving set operations. For general-purpose user queries, the bitmap-tree is shown to perform as good as the compressed inverted file index.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Model-driven Application Development Enabling Information Integration.",
+            "Publication year": 2011,
+            "Publication url": "https://www.scitepress.org/Papers/2011/33364/33364.pdf",
+            "Abstract": "Interoperability is the capability of different software systems to exchange data via a common set of exchange formats. Interoperability between two products is often developed post-facto, due to insufficient adherence to standardization during the software design process. In this paper we present a mechanism that enables the dynamic communication of different software systems at database level, based on the principles of the Enterprise Information Integration architectural framework. The mechanism is built on the top of a database schema (meta-model) and extends the framework we elaborate on for the dynamic development and deployment of web-based applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:PELIpwtuRlgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Prototype Selection and Generation with Minority Classes Preservation",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9555514/",
+            "Abstract": "Instance-based classifiers become inefficient when the size of their training dataset or model is large. Therefore, they are usually applied in conjunction with a Data Reduction Technique that collects prototypes from the available training data. The set of prototypes is called the condensing set and has the benefit of low computational cost during classification, while, at the same time, accuracy is not negatively affected. In case of imbalanced training data, the number of prototypes collected for the minority (rare) classes may be insufficient. Even worse, the rare classes may be eliminated. This paper presents three methods that preserve the rare classes when data reduction is applied. Two of the methods apply data reduction only on the instances that belong to common classes and avoid costly under-sampling or over-sampling procedures that deal with class imbalances. The third method utilizes SMOTE over \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:UHK10RUVsp4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hail Size Estimation and Prediction using Data Mining Techniques",
+            "Publication year": 2008,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18240564355096663344&hl=en&oi=scholarr",
+            "Abstract": "In this study we examine the existence of interesting patterns among the Greek National Hail Suppression Program data using Data Mining techniques. More specifically, we focus on hail size estimation and prediction from meteorological radar and sounding data. The sought objective is to examine existing relationships and, by doing so, construct a hail size prediction model. Two data mining techniques are applied in order to identify the optimum number of independent variables and, consequently, build a simple, yet effective, model. A model easily applied by the meteorologist in order to quickly interpret radar and atmospheric measurements to possible hail size on the ground.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient data abstraction using weighted IB2 prototypes",
+            "Publication year": 2014,
+            "Publication url": "http://www.doiserbia.nb.rs/Article.aspx?id=1820-02141400036O",
+            "Abstract": "Data reduction techniques improve the efficiency of k-Nearest Neighbour    classification on large datasets since they accelerate the classification    process and reduce storage requirements for the training data. IB2 is an    effective prototype selection data reduction technique. It selects some    items from the initial training dataset and uses them as representatives    (prototypes). Contrary to many other techniques, IB2 is a very fast,    one-pass method that builds its reduced (condensing) set in an incremental    manner. New training data can update the condensing set without the need of    the \u201cold\u201d removed items. This paper proposes a variation of IB2, that    generates new prototypes instead of selecting them. The variation is called    AIB2 and attempts to improve the efficiency of IB2 by positioning the    prototypes in the center of the data areas they represent. The empirical    experimental study conducted in the present work as well as the Wilcoxon    signed ranks test show that AIB2 performs better than IB2.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient support vector machine classification using prototype selection and generation",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-44944-9_28",
+            "Abstract": "Although Support Vector Machines (SVMs) are considered effective supervised learning methods, their training procedure is time-consuming and has high memory requirements. Therefore, SVMs are inappropriate for large datasets. Many Data Reduction Techniques have been proposed in the context of dealing with the drawbacks of k-Nearest Neighbor classification. This paper adopts the concept of data reduction in order to cope with the high computational cost and memory requirements in the training process of SVMs. Experimental results illustrate that Data Reduction Techniques can effectively improve the performance of SVMs when applied as a preprocessing step on the training data.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:u_35RYKgDlwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A framework for recording, monitoring and analyzing learner behavior while watching and interacting with online educational videos",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6601853/",
+            "Abstract": "Online educational videos are increasingly used by a great number of educators. Besides the typical linear, non-interactive videos, educational videos today can contain other features such as interactivity and quizzes. This paper provides a framework for recording, monitoring and analyzing learner activity behavior while watching or interacting with online educational videos. More specifically it proposes: (a) a software specific methodology for capturing learner activity data, (b) a data model for storing the activity data, and, (c) modules to monitor and visualize learner viewing behavior.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:ZuybSZzF8UAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "WIPE (Web Integrated Programming Environment)\u2013design principles and architecture",
+            "Publication year": 2003,
+            "Publication url": "http://delab.csd.auth.gr/~bci1/Panhellenic/461efopoulos.pdf",
+            "Abstract": "The scope of the present study is the description of WIPE (Web Integrated Programming Environment), a web-based environment used for teaching programming for beginners. The WIPE system (alpha version) is accessible on the Internet via a web browser (http://macedonia. uom. gr/~ efop) and consists of four major components:(1) an e-learning environment,(2) a content management system based on an open source environment,(3) supporting tools (among them a specially featured web-based compiler based on and further expanding the X-Compiler environment of the educational software DELYS), and (4) a specially designed database that is used for storing several types of data.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Applying Prototype Selection and Abstraction Algorithms for Efficient Time-Series Classification",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-09903-3_16",
+            "Abstract": "A widely used time series classification method is the single nearest neighbour. It has been adopted in many time series classification systems because of its simplicity and effectiveness. However, the efficiency of the classification process depends on the size of the training set as well as on data dimensionality. Although many speed-up methods for fast time series classification have been proposed and are available in the literature, state-of-the-art, non-parametric prototype selection and abstraction data reduction techniques have not been exploited on time series data. In this work, we present an experimental study where known prototype selection and abstraction algorithms are evaluated both on original data and a dimensionally reduced representation form of the same data from seven popular time series datasets. The experimental results demonstrate that prototype selection and abstraction algorithms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Wipe-pilot testing and comparative evaluation",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1508858/",
+            "Abstract": "This paper discusses the pilot testing and evaluation of a database-driven Web-based programming environment called WIPE (Web integrated programming environment). WIPE is a teaching tool for secondary education students that are introduced to the principles of programming. The programming environment was used in secondary schools in Greece and the results of its evaluation demonstrate that it successfully deals with the difficulties novices meet.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Evaluating a Framework for the Development and Deployment of Evolving Applications as a Software Maintenance Tool.",
+            "Publication year": 2009,
+            "Publication url": "https://www.scitepress.org/Papers/2009/22507/22507.pdf",
+            "Abstract": "In our previous research we have presented a framework for the development and deployment of web-based applications. The framework enables the operation of multiple applications within a single installation and supports runtime evolution by dynamically recompiling classes based on the source code that is retrieved from the database. The feasibility of our solution has been successfully verified with the use of an architectural prototype. Given the importance of the maintenance activities in the software lifecycle, in this paper we are going to evaluate our framework as a software maintenance tool and position it in the domain of software evolution with a use of a related taxonomy.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An adaptive hybrid and cluster-based model for speeding up the k-nn classifier",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-28931-6_16",
+            "Abstract": "A well known classification method is the k-Nearest Neighbors (k-NN) classifier. However, sequentially searching for the nearest neighbors in large datasets downgrades its performance because of the high computational cost involved. This paper proposes a cluster-based classification model for speeding up the k-NN classifier. The model aims to reduce the cost as much as possible and to maintain the classification accuracy at a high level. It consists of a simple data structure and a hybrid, adaptive algorithm that accesses this structure. Initially, a preprocessing clustering procedure builds the data structure. Then, the proposed algorithm, based on user-defined acceptance criteria, attempts to classify an incoming item using the nearest cluster centroids. Upon failure, the incoming item is classified by searching for the k nearest neighbors within specific clusters. The proposed approach was tested on five \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Applying general-purpose data reduction techniques for fast time series classification",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-40728-4_5",
+            "Abstract": "The one-nearest neighbour classifier is a widely-used time series classification method. However, its efficiency depends on the size of the training set as well as on data dimensionality. Although many speed-up methods for fast time series classification have been proposed, state-of-the-art, non-parametric data reduction techniques have not been exploited on time series data. This paper presents an experimental study where known prototype selection and abstraction data reduction techniques are evaluated both on original data and a dimensionally reduced representation form of the same data from seven time series datasets. The results show that data reduction, even when applied on dimensionally reduced data, can in some cases improve the accuracy and at the same time reduce the computational cost of classification.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:35N4QoGY0k4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "X-compiler: Yet another integrated novice programming environment",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/943890/",
+            "Abstract": "The paper presents a simple programming language, called X, and an educational programming environment, called X-Compiler, designed to introduce students to programming. X-Compiler can be used to edit, compile, debug and run programs written in X, a subset of Pascal. X-Compiler could be didactically interesting because of the following features: (a) users can watch the intermediate steps of the execution of a program: source code compilation, correspondence of source and pseudo-assembly code during execution, register content, and intermediate values of user and temporary system variables; also, they can edit the produced pseudo-assembly code and re-execute it, (b) there are many detailed and explanatory messages that can guide novice programmers when debugging their programs and, in general, help them write better programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "f-Value: Measuring an article's scientific impact",
+            "Publication year": 2011,
+            "Publication url": "https://akjournals.com/view/journals/11192/86/3/article-p671.xml",
+            "Abstract": "The f-value is a new indicator that measures the importance of a research article by taking into account all citations received, directly and indirectly, up to depth n. The f-value considers all information present in a Citation Graph in order to produce a ranking of the articles. Apart from the mathematical equation that calculates the f-value, we also present the corresponding algorithm with its implementation, plus an experimental comparison of f-value with two known indicators of an article's scientific importance, namely, the number of citations and the Page Rank for citation analysis. Finally, we discuss the similarities and differences among the indicators.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Akad\u00e9miai Kiad\u00f3, co-published with Springer Science+ Business Media BV, Formerly Kluwer Academic Publishers BV"
+        },
+        {
+            "Title": "A dispersion-based paa representation for time series",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5171044/",
+            "Abstract": "Time series data generation has exploded in almost every domain such as in business, industry, or medicine. The demand for analyzing efficiently the huge amount of this information necessitates the application of a representation on the purpose of reducing the intrinsically high dimensionality of time series. In this paper we introduce DPAA, a new representation that can be considered as a variation of piecewise aggregate approximation (PAA). DPAA segments a time series into a series of equal length sections and the corresponding mean and standard deviation are recorded for each one of them. The difference with PAA is that DPAA takes into consideration not only the central tendency but also the dispersion present in each section. We evaluate our representation by applying 1-NN classification on 20 widely utilized datasets in the literature. Experimental results indicate that the proposed representation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Generating fixed-size training sets for large and streaming datasets",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-66917-5_7",
+            "Abstract": "The k Nearest Neighbor is a popular and versatile classifier but requires a relatively small training set in order to perform adequately, a prerequisite not satisfiable with the large volumes of training data that are nowadays available from streaming environments. Conventional Data Reduction Techniques that select or generate training prototypes are also inappropriate in such environments. Dynamic RHC (dRHC) is a prototype generation algorithm that can update its condensing set when new training data arrives. However, after repetitive updates, the size of the condensing set may become unpredictably large. This paper proposes dRHC2, a new variation of dRHC, which remedies the aforementioned drawback. dRHC2 keeps the size of the condensing set in a convenient, manageable by the classifier, level by ranking the prototypes and removing the least important ones. dRHC2 is tested on several \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:u9iWguZQMMsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "What they really do? Attempting (once again) to model novice programmers' behavior",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/544414.544513",
+            "Abstract": "In the last two decades, a large amount of research has been conducted in an effort to form a model of student behavior when they try to solve algorithmic or programming problems. The construction of the model is based on the analysis of many types of data, such as for example:(a) the characteristics of the programming languages the students work with,(b) the strategies of the solution that the students follow, and (c) the characteristics of the proposed problem. However, we must observe that modeling is often not based on long-term observations of actual teaching and the proposed problems are usually quite simple. In this paper we attempt to examine a variety of aspects of students' behavior when they learn to program. More specifically, we study: the strategies students use in order to develop and validate a program; the possible role of students' errors in the development of their programs; and the methods \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The Universal Author Identifier System (UAI_Sys)",
+            "Publication year": 2007,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/10361",
+            "Abstract": "One common problem in the scientific research literature is that each one author cannot easily be identified uniquely. The problem arises when there are authors with identical names, authors who have changed their name(s) in the course of time, and authors whose names appear in alternative versions (for example: Jaakko Hyv\u00e4rinen, and J. P. Hyv\u00e4rinen) across the publications they have (co-) authored. The issue becomes more of a problem when data analysis utilizing author names is to be conducted, for example: in citation analysis. In this paper we introduce the Universal Author Identifier system, codenamed UAI_Sys. The system is web based and publicly available, enabling each one author to register/update his/her own metadata, plus acquire a unique identifier (UAI code), ensuring name disambiguation. As soon as UAI_Sys becomes accepted and enjoys worldwide use, selected author metadata will become globally available to all interested parties. Care is taken so that UAI_Sys comprises more than just a database for storing and handling author identifiers. Provision is taken for the system to incorporate web services facilitating communication with third party applications, thus expanding the possibilities for web based co-functionality. Last but not least, the system supports role-based access and management (i.e. different user roles for authors, librarians, publishers, and administrators) for efficient and effective information dissemination and management, promoting research and collaboration. UAI_Sys is being designed/developed along the lines of the Cascading Citations Analysis Project (C-CAP) which is co-funded by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DELYS: a novel microworld-based educational software for teaching computer science subjects",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0360131502001331",
+            "Abstract": "The Greek ministry of education with the support of the European Union has begun an attempt to incorporate information and communication technology in the normal, everyday activities of secondary education. Part of this effort is the development of pilot educational software. Our project proposal was DELYS, an educational software environment that aids the teaching of computer science in secondary education. It was one of the approved proposals and, incidentally, the only one funded in the field of computer science. DELYS consists of four \u201cexploratory microworlds\u201d which deal with the following subjects: (1) the various components of a computer and how they operate as a whole, (2) the booting process in a computer, (3) the way data is represented numbers are processed, and (4) a programming environment. The material is mainly presented through the use of simulations and animations and it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Instance-based classification using prototypes generated from large noisy and streaming datasets",
+            "Publication year": 2020,
+            "Publication url": "http://www.doiserbia.nb.rs/Article.aspx?id=1820-02141900044O",
+            "Abstract": "Nowadays, large volumes of training data are available from various data sources and streaming environments. Instance-based classifiers perform adequately when they use only a small subset of such datasets. Larger data volumes introduce high computational cost that prohibits the timely execution of the classification process. Conventional prototype selection and generation algorithms are also inappropriate for data streams and large datasets. In the past, we proposed prototype generation algorithms that maintain a dynamic set of prototypes and are appropriate for such types of data. Dynamic because existing prototypes may be updated, or new prototypes may be appended to the set of prototypes in the course of processing. Still, repetitive generation of new prototypes may result to forming unpredictably large sets of prototypes. In this paper, we propose a new variation of our algorithm that maintains the prototypes in a convenient and manageable way. This is achieved by removing the weakest prototype when a new prototype is generated. The new algorithm has been tested on several datasets. The experimental results reveal that it is as accurate as its predecessor, yet it is more efficient and noise tolerant.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:eMMeJKvmdy0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introducing a Change-Resistant Framework for the Development and Deployment of Evolving Applications",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-70621-2_24",
+            "Abstract": "Software development is an R&D intensive activity, dominated by human creativity and diseconomies of scale. Current efforts focus on design patterns, reusable components and forward-engineering mechanisms as the right next stage in cutting the Gordian knot of software. Model-driven development improves productivity by introducing formal models that can be understood by computers. Through these models the problems of portability, interoperability, maintenance, and documentation are also successfully addressed. However, the problem of evolving requirements, which is more prevalent within the context of business applications, additionally calls for efficient mechanisms that ensure consistency between models and code, and enable seamless and rapid accommodation of changes, without interrupting severely the operation of the deployed application. This paper introduces a framework that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "S-Index Implementation and Performance for Textbases",
+            "Publication year": 2001,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/4348",
+            "Abstract": "In this paper is presented the implementation of an improved, compressed variation of S-Index and studied its imputation in indexing a free text database. S-Index, where 'S' stands for signature and 'I' for inverted file, is a hybrid indexing form that combines the merits from two popular indexing methods: the inverted file and the signature file, or bitmap. There is also presented the structure of the method used, as well as the details of materialising the compressed variation of S-Index. The results of the research are compared to the ones from the compressed variation of indexing inverted files. With a little effort in adjusting its parameters, S-Index occupies less that 5% from the database that is indexed. This result is comparable to the inverted file's attribution.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:t6usbXjVLHcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving query efficiency in high dimensional point indexes",
+            "Publication year": 2015,
+            "Publication url": "http://hypatia.teiath.gr/xmlui/handle/11400/8907",
+            "Abstract": "In this paper, we focus on the leaf level nodes of tree-like k-dimensional indexes that store the data entries, since those nodes represent the majority of the nodes in the index. We propose a generic node splitting approach that defers splitting when possible and instead favors merging of a full node with an appropriate sibling and then re-splitting of the resulting node. Our experiments with the hB-tree, show that the proposed splitting approach achieves high average node storage utilization regardless of data distribution, data insertion patterns and dimensionality.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Interactive Video-based Learning Environment that Supports Learning Analytics for Teaching'Image Editing'.",
+            "Publication year": 2016,
+            "Publication url": "https://www.researchgate.net/profile/Michail-Giannakos/publication/301489372_Proceedings_of_the_LAK_2016_Workshop_on_Smart_Environments_and_Analytics_in_Video-Based_Learning_SEVBL_16/links/5716417a08ae58168ffa6abe/Proceedings-of-the-LAK-2016-Workshop-on-Smart-Environments-and-Analytics-in-Video-Based-Learning-SEVBL-16.pdf#page=30",
+            "Abstract": "The use of online videos is a common practice amongst education professionals and the interactive features found in these videos are constantly evolving. In a previous research paper we presented a roadmap on how open source technologies and open internet resources can be used to build a video based learning environment that supports learning analytics. This paper describes how an environment for teaching image editing techniques is build using similar principles. The video based environment is used in educational settings and a dataset of learner activity behaviors is obtained. Cluster analysis is then used for identifying groups of students with similar viewing and activity behaviors and an attempt is made to interpret the results.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving Data Reduction by Merging Prototypes",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-28730-6_2",
+            "Abstract": " A well-known and adaptable classifier is the k-Nearest Neighbor (kNN) that requires a training set of relatively small size in order to perform adequately. Training sets can be reduced in size by using conventional data reduction techniques. Unfortunately, these techniques are inappropriate in streaming environments or when executed in devices with limited resources. dRHC is a prototype generation algorithm that works in streaming environments by maintaining a condensed training set that can be updated by continuously arriving training data segments. Prototypes in dRHC carry an appropriate weight to indicate the number of instances of the same class that they represent. dRHC2 is an improvement over dRHC since it can handle fixed size condensing sets by removing the least important prototypes whenever the condensing set exceeds a predefined size. In this paper, we exploit the idea that dRHC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "PCA-based time series similarity search",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4419-1280-0_11",
+            "Abstract": "We propose a novel approach in multivariate time series similarity search for the purpose of improving the efficiency of data mining techniques without substantially affecting the quality of the obtained results. Our approach includes a representation based on principal component analysis (PCA) in order to reduce the intrinsically high dimensionality of time series and utilizes as a distance measure a variation of the squared prediction error (SPE), a well-known statistic in the Statistical Process Control community. Contrary to other PCA-based measures proposed in the literature, the proposed measure does not require applying the computationally expensive PCA technique on the query. In this chapter, we investigate the usefulness of our approach in the context of query by content and 1-NN classification. More specifically, we consider the case where there are frequently arriving objects that need to be \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Boston, MA"
+        },
+        {
+            "Title": "EHC: Non-parametric editing by finding homogeneous clusters",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-04939-7_14",
+            "Abstract": "Editing is a crucial data mining task in the context of k-Nearest Neighbor classification. Its purpose is to improve classification accuracy by improving the quality of training datasets. To obtain such datasets, editing algorithms try to remove noisy and mislabeled data as well as smooth the decision boundaries between the discrete classes. In this paper, a new fast and non-parametric editing algorithm is proposed. It is called Editing through Homogeneous Clusters (EHC) and is based on an iterative execution of a clustering procedure that forms clusters containing items of a specific class only. Contrary to other editing approaches, EHC is independent of input (tuning) parameters. The performance of EHC is experimentally compared to three state-of-the-art editing algorithms on ten datasets. The results show that EHC is faster than its competitors and achieves high classification accuracy.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Current trends in time series representation",
+            "Publication year": 2007,
+            "Publication url": "https://www.academia.edu/download/30445546/a_217-226_karamitopoulos.pdf",
+            "Abstract": "Time series data generation has been exploded in almost every domain such as in business, industry, medicine, science or entertainment. Consequently, there is an increasing need for analysing efficiently the huge amount of this information either online or offline. The inherent characteristics of time series data, specifically, the high dimensionality, the high feature correlation and the large amounts of noise led researchers to focus mostly on proposing novel representation schemes for this type of data in order to address the resulting problems. In addition to that, representation schemes have also been proposed for the purpose of exploiting specific methods and algorithms that require different type of data, such as Markov models. Concurrently, since most of the data mining tasks require searching for similar patterns, such as query by content, clustering or classification, many papers have been published that propose a generic or representation-based similarity measure. The objective of this paper is to serve as an overview of the recent approaches and trends in the field of time series data mining representations. It seems that the main interest has been gradually drawn in manipulating streaming data and/or multivariate time series. Although a general overview is included, the literature review is focused mainly on papers of the last four years.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:HDshCWvjkbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamic k determination in k-NN classifier: A literature review",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9555525/",
+            "Abstract": "One of the widely used classification algorithms is k-Nearest Neighbours (k-NN). Its popularity is mainly due to its simplicity, effectiveness, ease of implementation and ability to add new data in the training set at any time. However, one of its main drawbacks is the fact that its performance is highly dependent on the proper selection of parameter k, i.e. the number of nearest neighbours that the algorithm examines. The most frequently used technique for the \u201cbest\u201d k determination is the cross validation as there is no general rule for choosing the k value due to its dependency on the training dataset. However, selecting a fixed k value throughout the dataset does not take into account its special features, like data distribution, class separation, imbalanced classes, sparse and dense neighborhoods and noisy subspaces. A lot of research has been done to date in the specific field, leading to many k-NN variations. In the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:dQ2og3OwTAUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Application Versioning, Selective Class Recompilation and Management of Active Instances in a Framework for Dynamic Applications.",
+            "Publication year": 2009,
+            "Publication url": "https://www.scitepress.org/papers/2009/18367/18367.pdf",
+            "Abstract": "In our previous research we have presented the core functional and data components of a framework for the development and deployment of web-based applications. The framework enables the operation of multiple applications within a single installation and supports runtime evolution by dynamically recompiling classes based on the source code that is retrieved from the database. It is structured upon a universal database schema (meta-model). The contributions of this paper include a versioning mechanism that enables access to old data in their real context (ie, within the version of the application that created this data), a proposal for selective recompilation of new classes that allows applications to evolve safely at the minimum processing cost, and a policy for handling active classes (ie, classes that have running instances) that need to be dynamically recompiled in order to reflect changes.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:bnK-pcrLprsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient Support Vector Machine Classification Using Prototype Selection and Generation",
+            "Publication year": 2016,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=jYb2DAAAQBAJ&oi=fnd&pg=PA328&dq=info:bV8bZ8VpIJYJ:scholar.google.com&ots=93QFwiAybb&sig=lGB_o7OOJoi5xeo4RpijGSvl9xc",
+            "Abstract": "Although Support Vector Machines (SVMs) are considered effective supervised learning methods, their training procedure is timeconsuming and has high memory requirements. Therefore, SVMs are inappropriate for large datasets. Many Data Reduction Techniques have been proposed in the context of dealing with the drawbacks of k-Nearest Neighbor classification. This paper adopts the concept of data reduction in order to cope with the high computational cost and memory requirements in the training process of SVMs. Experimental results illustrate that Data Reduction Techniques can effectively improve the performance of SVMs when applied as a preprocessing step on the training data.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Efficient dataset size reduction by finding homogeneous clusters",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2371316.2371349",
+            "Abstract": "Although the k-Nearest Neighbor classifier is one of the most widely-used classification methods, it suffers from the high computational cost and storage requirements it involves. These major drawbacks have constituted an active research field over the last decades. This paper proposes an effective data reduction algorithm that has low preprocessing cost and reduces storage requirements while maintaining classification accuracy at an acceptable high level. The proposed algorithm is based on a fast pre-processing clustering procedure that creates homogeneous clusters. The centroids of these clusters constitute the reduced training-set. Experimental results, based on real-life datasets, illustrate that the proposed algorithm is faster and achieves higher reduction rates than three known existing methods, while it does not significantly reduce the classification accuracy.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Teaching Object-Oriented Thinking to Novice Programmers Using the Agentsheets Environment.",
+            "Publication year": 2005,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Evangelidis/publication/27380699_Teaching_object-oriented_thinking_to_novice_programmers_using_the_AgentSheets_environment/links/0c96052d6b419a5e11000000/Teaching-object-oriented-thinking-to-novice-programmers-using-the-AgentSheets-environment.pdf",
+            "Abstract": "Java and Visual Basic are the most commonly used programming languages in teaching programming to beginners. The advantage is that students use currently dominant programming tools in the market. However novice programmers have problems of comprehension, at least this is reported by the relevant research, and this is due to the complexity of the professional programming development environments for Java and Visual Basic. Moreover, modern programming models, like the object-oriented scheme, are posing a series of additional intellectual obstacles to beginners. Many researchers have suggested special environments for dealing with those problems, specifically designed for introductory teaching. In the present article, the AgentSheets programming environment is proposed for an introduction in objectoriented programming. The AgentSheets environment can have a positive effect in developing the object-oriented thinking for novice programmers. Visual and tactual embedded features, as well as interactivity and feedback capabilities in all development and execution phases, in addition to rapid example implementation are able to successfully interact in the improvement of algorithmic rationale and object-oriented thinking. Therefore, AgentSheets introduces a wide range of educational uses.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Compact binary: an efficient non-parameterized code for index compression",
+            "Publication year": 2003,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/4377",
+            "Abstract": "Inverted file indexes are nowadays the most popular method for indexing text databases. Integer number compression codes are applied on the inverted document id lists to produce compact inverted file indexes. A class of index compression codes that are insensitive to the variations in the statistics of dynamic text collections are the non-parameterized codes. In the present study, we introduce compact-binary (cb): a new non-parameterized coding scheme that combines the Golomb code and the binary representation of integers. The performance of the new code is compared to that of existing popular codes. Experimental results obtained from a number of TREC document collections reveal an overall 7,7% improvement over the most efficient of the existing non-parameterized codes. The outcome is backed by analysis and comprises a significant gain when one considers the large sizes of the target text database collections.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An overview of web mining in education",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2491845.2491863",
+            "Abstract": "This paper provides an overview of the advances on web mining in the domain of education by categorizing research on the field using the web-mining taxonomy: web content, web usage and web structure mining. Previous reviews focused on data mining methods applied to data derived from educational software applications (web based or not) and institutional administrative systems as well as from data gathered in typical classroom environments. The overview focuses on knowledge acquired from web based educational environments and the open web. More specifically it addresses: a) applications that dynamically update their content by extracting relevant educational information from the open web in order to meet user specific needs, b) applications that extract knowledge from usage data coming from educational web-based environments, and, c) applications that obtain knowledge coming from structure \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u03a5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u0391\u03c1\u03c7\u03b5\u03af\u03bf\u03c5 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ce\u03bd \u0391\u03ba\u03b1\u03b4\u03b7\u03bc\u03b1\u03ca\u03ba\u03ce\u03bd/\u0395\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u039f\u03bd\u03c4\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd (DHARE)/\u0391\u03a4\u0395\u0399 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2",
+            "Publication year": 2015,
+            "Publication url": "http://repository.seab.gr/bitstream/1/72/1/%CE%94%CF%81%CE%AC%CF%83%CE%B7_9.4.2.pdf",
+            "Abstract": "\u0397 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03ba\u03b1\u03c4\u03bf\u03c7\u03c5\u03c1\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u00b5\u03b5 \u03ac\u03b4\u03b5\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2 Creative Commons (CC) \u0391\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac\u03c2 \u0394\u03b7\u00b5\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd-\u039c\u03b7 \u0395\u00b5\u03c0\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03a7\u03c1\u03ae\u03c3\u03b7\u03c2-\u03a0\u03b1\u03c1\u03cc\u00b5\u03bf\u03b9\u03b1\u03c2 \u0394\u03b9\u03b1\u03bd\u03bf\u00b5\u03ae\u03c2 4.0 \u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2 (CC BY-NC-SA 4.0): http://creativecommons. org/licenses/by-nc-sa/4.0/deed. el. \u0397 \u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03b5 \u03c4\u00b5\u03ae\u00b5\u03b1 \u03ae \u03c3\u03c4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03bf\u00b5\u03ad\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c3\u03c5\u00b5\u00b5\u03bf\u03c1\u03c6\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b9\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03b4\u03b7\u03b3\u03af\u03b5\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03ac\u03b4\u03b5\u03b9\u03b1\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:abG-DnoFyZgC",
+            "Publisher": "\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ce\u03bd \u0391\u03ba\u03b1\u03b4\u03b7\u03bc\u03b1\u03ca\u03ba\u03ce\u03bd \u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03b7\u03ba\u03ce\u03bd"
+        },
+        {
+            "Title": "Cluster-based similarity search in time series",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5359309/",
+            "Abstract": "In this paper, we present a new method that accelerates similarity search implemented via one-nearest neighbor on time series data. The main idea is to identify the most similar time series to a given query without necessarily searching over the whole database. Our method is based on partitioning the search space by applying the K-means algorithm on the data. Then, similarity search is performed hierarchically starting from the cluster that lies most closely to the query. This procedure aims at reaching the most similar series without searching all clusters. In this work, we propose to reduce the intrinsically high dimensionality of time series prior to clustering by applying a well known dimensionality reduction technique, namely, the piecewise aggregate approximation, for its simplicity and efficiency. Experiments are conducted on twelve real-world and synthetic datasets covering a wide range of applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "K-means clustering for efficient and robust registration of multi-view point sets",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16781504978793303683&hl=en&oi=scholarr",
+            "Abstract": "Generally, there are three main factors that determine the practical usability of registration, ie, accuracy, robustness, and efficiency. In real-time applications, efficiency and robustness are more important. To promote these two abilities, we cast the multi-view registration into a clustering task. All the centroids are uniformly sampled from the initially aligned point sets involved in the multi-view registration, which makes it rather efficient and effective for the clustering. Then, each point is assigned to a single cluster and each cluster centroid is updated accordingly. Subsequently, the shape comprised by all cluster centroids is used to sequentially estimate the rigid transformation for each point set. For accuracy and stability, clustering and transformation estimation are alternately and iteratively applied to all point sets. We tested our proposed approach on several benchmark datasets and compared it with state-of-the-art \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "X-compiler: Yet another integrated novice programming environment",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/943890/",
+            "Abstract": "The paper presents a simple programming language, called X, and an educational programming environment, called X-Compiler, designed to introduce students to programming. X-Compiler can be used to edit, compile, debug and run programs written in X, a subset of Pascal. X-Compiler could be didactically interesting because of the following features: (a) users can watch the intermediate steps of the execution of a program: source code compilation, correspondence of source and pseudo-assembly code during execution, register content, and intermediate values of user and temporary system variables; also, they can edit the produced pseudo-assembly code and re-execute it, (b) there are many detailed and explanatory messages that can guide novice programmers when debugging their programs and, in general, help them write better programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Fast Hybrid k-NN Classifier Based on Homogeneous Clusters",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-33409-2_34",
+            "Abstract": "This paper proposes a hybrid method for fast and accurate Nearest Neighbor Classification. The method consists of a non-parametric cluster-based algorithm that produces a two-level speed-up data structure and a hybrid algorithm that accesses this structure to perform the classification. The proposed method was evaluated using eight real-life datasets and compared to four known speed-up methods. Experimental results show that the proposed method is fast and accurate, and, in addition, has low pre-processing computational cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "The interaction between ICT and Didactics=",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11245211513987774782&hl=en&oi=scholarr",
+            "Abstract": "Nowadays, the integration of ICT in education is happening at all levels (from kindergarten to life long adult education) in many varied ways. It is logical thus to conclude that this continued integration of technology in education will embody both in such a way, so that the two co-exist. This interweaving has also instigated a vast amount of research in this field. Most research, however, often has as a focal point technology rather than teaching. We believe that technology should not be an end in itself but a medium; to be more exact, it is the didactic situations which must determine the use of technology and not vice versa. In this paper we support the view that the development of new environments and teaching tools, in order for them to contribute substantially to teaching, must undergo didactic analysis. We maintain that what is usually missing from the educational environments is not ICT but the didactic knowledge of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "J2J-GR: Journal-to-Journal References by Greek Researchers",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-32065-2_6",
+            "Abstract": " The Hellenic Academic Libraries Link (HEAL-Link,                      https://www.heal-link.gr/                                        ) operates since 1998. Its members include all the academic and/or research institutions operating under the auspices of the Hellenic Ministry of Education, plus the Academy of Athens, the National Library, and the Institute of Educational Policy. The present paper reports on the research effort undertaken in order to facilitate the decision-making process and the development of a HEAL-Link strategy plan. The focus is on scientific journals the Greek academic/research community publish their works with, and on the journals they reference. It is assumed that when a researcher makes a reference to an article in a scientific journal, the latter is considered to comprise a valuable source of information. The more references made to articles published with a given journal, the higher the value of the latter as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "The effect of training set selection in meteorological data mining",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5600362/",
+            "Abstract": "We use meteorological data from the European Centre for Medium-Range Weather Forecasts (ECMWF) and the Meteorological Station of Mikra (Thessaloniki, Greece) as input to five data mining algorithms with the aim to build classification models for the prediction of the occurrence of precipitation in the station. We focus our study on the effect the selection of the training set has on the performance of the algorithms and more specifically, we attempt to determine the minimum training set size that can ensure effective application of the data mining techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving query efficiency in high dimensional point indexes",
+            "Publication year": 2015,
+            "Publication url": "http://hypatia.teiath.gr/xmlui/handle/11400/8907",
+            "Abstract": "In this paper, we focus on the leaf level nodes of tree-like k-dimensional indexes that store the data entries, since those nodes represent the majority of the nodes in the index. We propose a generic node splitting approach that defers splitting when possible and instead favors merging of a full node with an appropriate sibling and then re-splitting of the resulting node. Our experiments with the hB-tree, show that the proposed splitting approach achieves high average node storage utilization regardless of data distribution, data insertion patterns and dimensionality.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A new framework for the citation indexing paradigm",
+            "Publication year": 2007,
+            "Publication url": "http://eureka.teithe.gr/jspui/handle/123456789/10350",
+            "Abstract": "A new citation indexing paradigm is proposed: the cascading citation indexing framework (c2IF, for short). It improves the way research publications are assessed for their impact in promoting science and technology. Given a collection of articles and their citation graph, citations are considered at the (article, author) level. Each one article is uniquely identified by means of the Digital Object Identifier (DOI, http://www.doi.org). To identify each one author uniquely, a Universal Author Identifier (UAI) scheme is established. In addition to the citations directly made to a given (article, author) pair, citation paths that target each one citing article are also considered. The granularity of the paradigm is further increased by introducing the concept of the chord, whereby a citation path of length one co-exists with paths of length two or higher, involving the same source- and target- articles. The c2IF output emerges in the form of a medal standings table, analogous to the one that ranks teams at athletic events: when two (article, author) pairs receive the same number of (direct) citations, the one that is cited by more popular articles (i.e. articles that comprise targets to a larger number of paths in the citation graph), is assigned a higher rank value.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A fast hybrid classification algorithm based on the minimum distance and the k-nn classifiers",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1995412.1995430",
+            "Abstract": "Some of the most commonly used classifiers are based on the retrieval and examination of the k Nearest Neighbors of unclassified instances. However, since the size of datasets can be large, these classifiers are inapplicable when the time-costly sequential search over all instances is used to find the neighbors. The Minimum Distance Classifier is a very fast classification approach but it usually achieves much lower classification accuracy than the k-NN classifier. In this paper, a fast, hybrid and model-free classification algorithm is introduced that combines the Minimum Distance and the k-NN classifiers. The proposed algorithm aims at maximizing the reduction of computational cost, by keeping classification accuracy at a high level. The experimental results illustrate that the proposed approach can be applicable in dynamic, time-constrained environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Erratum to: Three novel indirect indicators for the assessment of papers and authors based on generations of citations",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s11192-016-1874-9",
+            "Abstract": "In the original publication of the paper, the first name and surname of one of the authors in the reference list had been interchanged inadvertently, and also the in-text citation of the same reference appeared incorrectly in the sections Introduction, Theoretical background and fpk-index definition as \u2018\u2018Xiaojun et al.(2011)\u2019\u2019. The correct citation should read as \u2018\u2018Hu et al.(2011)\u2019\u2019and the correct reference should read as shown in the Reference list below. In addition, the authors have accidentally misused the terms G and H that denote forward citation generations as introduced by Hu et al.(2011). In Table 2 and Table 4 the row headers \u2018\u2018Restricted (G)\u2019\u2019and \u2018\u2018Independent (H)\u2019\u2019should be swapped and all the rest in text and in table occurrences of G in the paper should read as H and vice versa.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "AIB2: An abstraction data reduction technique based on ib2",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2490257.2490260",
+            "Abstract": "Data reduction improves the efficiency of k-NN classifier on large datasets since it accelerates the classification process and reduces storage requirements for the training data. IB2 is an effective data reduction technique that selects some training items form the initial dataset and uses them as representatives (prototypes). Contrary to many other data reduction techniques, IB2 is a very fast, one-pass method that builds its reduced (condensing) set in an incremental manner. New training data can update the condensing set without the need of the\" old\" removed items. This paper proposes AIB2, a variation of IB2, which generates new prototypes instead of selecting them. AIB2 attempts to improve the efficiency of IB2 by positioning the prototypes in the center of the data areas they represent. The experimental study shows that AIB2 performs better than IB2.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DBTech EXT Virtual Lab Workshop: Business Intelligence",
+            "Publication year": 2009,
+            "Publication url": "https://www.academia.edu/download/53918533/DBTech_EXT_virtual_lab_workshop_business20170719-2851-1gqrl4g.pdf",
+            "Abstract": "Database Technology Extended (DBTech EXT) is the continuation of the Database Technology Professional (DBTech Pro) project. Both projects comprise actions of the DBTechNet consortium [1]. DBTech EXT involves eleven inner-circle (core) partners from five EU member states: seven Higher Education (HE) academic institutions, one company, and three VET centres. Academic institutions, organizations, companies, and VET centres are invited to join-in as outer-circle members and act as project deliverables recipients. At project initiation time (January 2009), its outer-circle membership involved eight companies, and four academic institutions. In this paper, a typical DBTech EXT virtual laboratory workshop (VLW) outlined: the Business Intelligence VLW (BI-VLW).",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Extraction of the Convective Day Category Index Using Data Mining Techniques",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4062225/",
+            "Abstract": "One of the tasks of the Hellenic Hail Suppression Program is the determination of the observed convective day category (CDC) index. This process is accomplished by having the meteorologists analyze the operational data manually. To automate and speed up this procedure we have developed an application in the CLIPS Expert System environment that calculates the observed CDC index. In this paper we examine the appropriate data mining techniques that could be used to extract this index from operational data automatically.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using open source technologies and open internet resources for building an interactive video based learning environment that supports learning analytics",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1186/s40561-016-0032-4",
+            "Abstract": "The use of online videos is a common practice today amongst education professionals. Interactive features in videos are constantly evolving and a recent trend is the integration of interactive elements and web content into educational videos. The paper (a) provides a roadmap for using open source tools and open internet resources to develop a learning environment where video content is aggregated with interactive elements, educator content and content coming from the web, (b) describes how these open source tools are used for capturing and storing learner activity data, and, (c) presents findings obtained from analyzing learner activity data gathered in an educational setting during an academic year.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:ns9cj8rnVeAC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "Review of the indirect citations paradigm: theory and practice of the assessment of papers, authors and journals",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11192-013-1175-5.pdf",
+            "Abstract": "The family of indicators presented in this paper includes indices created by taking into account not only the direct but also the indirect impact of citations and references. Three types of citation graphs are presented, namely, the Paper-Citation graph, the Author-Citation graph and the Journal-Citation graph, along with different methods for constructing them. In addition, the concept of generations of citations is examined in detail, again by presenting various methods for defining them found in the literature. Finally, a number of indirect indicators for papers, authors and journals are discussed, which among others, include PageRank, CiteRank, indirect h-index and the EigenFactor score.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer Netherlands"
+        },
+        {
+            "Title": "Critical Analysis of Designing a Graphical Query Language",
+            "Publication year": 2012,
+            "Publication url": "https://pure.unic.ac.cy/en/publications/critical-analysis-of-designing-a-graphical-query-language",
+            "Abstract": "Critical Analysis of Designing a Graphical query Language \u2014 UNIC | Research Portal Skip to \nmain navigation Skip to search Skip to main content UNIC | Research Portal Logo Home Profiles \nResearch Units Research output Projects Search by expertise, name or affiliation Critical Analysis \nof Designing a Graphical query Language Euclid Keramopoulos, Dimitris Dervos, Ignatios \nDeligiannis, Georgios Evangelidis, Philippos Pouyioutas Department of Computer Science \nResearch output: Chapter in Book/Report/Conference proceeding \u203a Conference contribution \u203a \npeer-review Overview Original language English Title of host publication EDULEARN12 \nProceedings Publisher IATED Publications Pages 3964-3970 ISBN (Print) 978-84-695-3491-5 \nPublication status Published - Jul 2012 Event 4th International Conference on Education \nand New Learning Technologies - Barcelona, Spain Duration: 2 Jul 2012 \u2192 4 Jul 2012 /\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "DeNMec4AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IATED Publications"
+        },
+        {
+            "Title": "Implementing applications on small robots for educational purposes: Programming the LEGO mindstorms.",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12388511746727102221&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introducing CS-major Students to parallel programming using StarLogo",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Evangelidis/publication/27380862_Introducing_CS-major_Students_to_parallel_programming_using_StarLogo/links/0046351a8e1def16f3000000/Introducing-CS-major-Students-to-parallel-programming-using-StarLogo.pdf",
+            "Abstract": "One of the most common difficulties an instructor faces during an introductory course in computer programming, is the lack of appropriate pedagogically efficient \u201ctools\u201d that will help his/her students understand fundamental notions of programming. Especially, complicated notions are, most of the times, only partially taught or left uncovered for a more advanced course. However, the use of modern technology and computers in education, programming included, is not confined only in computer science courses, but finds applications also in sciences like Math, Biology and Sociology. As a result, there has been also a demand for simpler and friendlier software environments that will provide the vehicle of knowledge dissemination for these sciences and, more generally, for education. Starlogo-introduced by Mitchell Resnick at MIT Media Laboratory\u2013is an programming environment that simulates decentralized systems and provides an intuitive interface that can be used even by elementary school students to explore systems and worlds in which thousands of objects participate and interact with each other. Of course this same environment can be used for an introduction to programming and especially to massively parallel programming. In this paper we initially present a number of different approaches that have been used so far by instructors to improve the didactic experience of their students with the power of the Starlogo environment. Using the Starlogo environment, we also organized a series of experimental Starlogo courses. In this paper we present the way these courses were organized and some preliminary results of our experimental approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "DeNMec4AAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

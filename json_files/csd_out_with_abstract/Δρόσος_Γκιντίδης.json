@@ -1,0 +1,343 @@
+[{
+    "name": "\u0394\u03c1\u03cc\u03c3\u03bf\u03c2 \u0393\u03ba\u03b9\u03bd\u03c4\u03af\u03b4\u03b7\u03c2",
+    "romanize name": "Drosos Gkintidis",
+    "School-Department": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u039c\u03b1\u03b8\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd & \u03a6\u03c5\u03c3\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd",
+    "University": "ntua",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 17630,
+    "Scholar name": "Drossos Gintides",
+    "Scholar id": "iThPi7sAAAAJ",
+    "Affiliation": "Professor, Dept. of Mathematics, School of Applied Math. and Phys. Sciences, NTUA",
+    "Citedby": 1045,
+    "Interests": [
+        "Partial Differential Equations",
+        "Theoretical and Computational Methods for Direct and Inverse Scattering Problems"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=iThPi7sAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "The inverse transmission eigenvalue problem for a discontinuous refractive index",
+            "Publication year": 2017,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/1361-6420/aa5bf0/meta",
+            "Abstract": "We consider the inverse spectral problem of determining a spherically symmetric and discontinuous refractive index n (r) from interior transmission eigenvalues. Using Liouville's transform, we investigate the asymptotic properties of the solution of an auxiliary initial value problem for large wave numbers and the asymptotic behaviour of the characteristic determinants derived from the eigenfunction expansions. Next, we assume that we know all transmission eigenvalues with spherically symmetric eigenfunctions and prove under some conditions that the transformed discontinuity of the refractive index can be determined. Finally we prove that the knowledge of all transmission eigenvalues including multiplicities uniquely determines n (r), under the assumption that n (0) is known and either n (r)> 1 or 0< n (r)< 1 by using a moment type result and applying M\u00fcntz's theorem.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:TQgYirikUcIC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "A computational method for the inverse transmission eigenvalue problem",
+            "Publication year": 2013,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/29/10/104010/meta",
+            "Abstract": "In this work, we consider the inverse transmission eigenvalue problem to determine the refractive index from transmission eigenvalues. We adopt a weak formulation of the problem and provide a Galerkin scheme in  to compute transmission eigenvalues. Using a proper operator representation of the problem, we show convergence of the method. Next, we define the inverse transmission problem and show that numerically the problem can be considered as a discrete inverse quadratic eigenvalue problem. First, we investigate the case of a spherically symmetric piecewise constant refractive index and confirm our results with analytic computations. Then, we show that a relative small number of eigenvalues are sufficient for simple cases of a few layers by just minimizing the total error between measured and computed eigenvalues to reconstruct the refractive index. Finally, we propose a computational method \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "The detection of point scatterers in a waveguide",
+            "Publication year": 2008,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812814852_0005",
+            "Abstract": "In this work, we consider the problem of detecting point scatterers in a waveguide. We assume that the waveguide is a two dimensional horizontal strip between two straight lines where on the one boundary line Dirichlet conditions hold and on the other Neumann. We use point sources, distributed uniformly on the boundary of a domain to illuminate point scatterers which are located inside this domain. The measurements are performed at the same points where the point sources are placed. We first formulate a MUSIC type algorithm and justify mathematically its connection with the scattering from an inhomoge-neous waveguide. Next, we present its connection with the factorization method for waveguides. We perform a numerical implementation of the algorithm using singular value decomposition of the basic data matrix taking into account the difficulties arising in waveguides. The final algorithm produces fine \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The direct scattering problem of obliquely incident electromagnetic waves by a penetrable homogeneous cylinder",
+            "Publication year": 2016,
+            "Publication url": "https://projecteuclid.org/journals/journal-of-integral-equations-and-applications/volume-28/issue-1/The-direct-scattering-problem-of-obliquely-incident-electromagnetic-waves-by/10.1216/JIE-2016-28-1-91.short",
+            "Abstract": "In this paper we consider the direct scattering problem of obliquely incident time-harmonic electromagnetic plane waves by an infinitely long dielectric cylinder. We assume that the cylinder and the outer medium are homogeneous and isotropic. From the symmetry of the problem, Maxwell's equations are reduced to a system of two 2D Helmholtz equations in the cylinder and two 2D Helmholtz equations in the exterior domain where the fields are coupled on the boundary. We prove uniqueness and existence of this differential system by formulating an equivalent system of integral equations using the direct method. We transform this system into a Fredholm type system of boundary integral equations in a Sobolev space setting. To handle the hypersingular operators we take advantage of Maue's formula. Applying a collocation method we derive an efficient numerical scheme and provide accurate numerical results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Rocky Mountain Mathematics Consortium"
+        },
+        {
+            "Title": "On the condition number of integral equations in linear elasticity using the modified Green's function",
+            "Publication year": 2003,
+            "Publication url": "https://www.cambridge.org/core/journals/anziam-journal/article/on-the-condition-number-of-integral-equations-in-linear-elasticity-using-the-modified-greens-function/841F03C308CFA6783E53EE9114A98846",
+            "Abstract": "In this work the modified Green's function technique for an exterior Dirichlet and Neumann problem in linear elasticity is investigated. We introduce a modification of the fundamental solution in order to remove the lack of uniqueness for the solution of the boundary integral equations describing the problems, and to simultaneously minimise their condition number. In view of this procedure the cases of the sphere and perturbations of the sphere are examined. Numerical results that demonstrate the effect of increasing the number of coefficients in the modification on the optimal condition number are also presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "The factorization method for an acoustic wave guide",
+            "Publication year": 2006,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812773197_0013",
+            "Abstract": "In this paper the linear factorization method for the shape reconstruction of an obstacle in a two dimensional wave guide using point source excitations is examined. The superposition principle is used to derive the near-field operator for scattering from point sources in the appropriate space setting. A factorization of this near field operator is derived. In this framework the main theorem for the shape reconstruction is established. As in the previous works referring to the factorization method, the inversion scheme is based on a characterization of solutions of an integral equation of first kind having as known term a point source. Numerical results are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The uniqueness in the inverse problem for transmission eigenvalues for the spherically symmetric variable-speed wave equation",
+            "Publication year": 2011,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/27/11/115004/meta",
+            "Abstract": "The recovery of a spherically symmetric wave speed v is considered in a bounded spherical region of radius b from the set of the corresponding transmission eigenvalues for which the corresponding eigenfunctions are also spherically symmetric. If the integral of 1/v on the interval [0, b] is less than b, assuming that there exists at least one v corresponding to the data, it is shown that v is uniquely determined by the data consisting of such transmission eigenvalues and their'multiplicities', where the'multiplicity'is defined as the multiplicity of the transmission eigenvalue as a zero of a key quantity. When that integral is equal to b, the unique recovery is obtained when the data contain one additional piece of information. Some similar results are presented for the unique determination of the potential from the transmission eigenvalues with'multiplicities' for a related Schr\u00f6dinger equation.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Critical parameters determining standard radiotherapy treatment outcome for glioblastoma multiforme: a computer simulation",
+            "Publication year": 2008,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2701071/",
+            "Abstract": "The aim of this paper is to investigate the most critical parameters determining radiotherapy treatment outcome in terms of tumor cell kill for glioblastoma multiforme tumors by using an already developed simulation model of in vivo tumor response to radiotherapy.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Bentham Science Publishers"
+        },
+        {
+            "Title": "The direct electromagnetic scattering problem by a piecewise constant inhomogeneous cylinder at oblique incidence",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2004.14082",
+            "Abstract": "We consider the solvability of the direct scattering problem of an obliquely incident time-harmonic electromagnetic wave by a piecewise constant inhomogeneous, penetrable and infinitely long cylinder. We prove the existence and uniqueness of the solution using properties of the boundary value operators and the integral equation method. For the numerical solution, we apply a collocation method and we approximate the singular integral operators using quadrature rules. We show convergence of the numerical scheme for the interior and the scattered fields both in the near- and far-field regime.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the modified transmission eigenvalue problem with an artificial metamaterial background",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s40687-021-00278-z",
+            "Abstract": "The modified transmission eigenvalue problem arises in inverse scattering theory for inhomogeneous media, by embedding the relevant medium into an other, artificially introduced inhomogeneous medium. In the present work, we examine the case where the artificial medium is characterised as a metamaterial, ie having a negative valued refractive index. Our aim is to construct an appropriate spectral Galerkin method to compute the modified transmission eigenvalues, with potential use to the inverse spectral problem as well. We show that the modified transmission eigenvalue problem corresponds to a compact and self-adjoint operator for which the eigenfuction system is not complete in the solution space. By introducing an auxiliary Dirichlet\u2013Neumann eigenvalue problem, we construct an eigenfuction system which has the desired completeness property. We use this complete system to define the Galerkin \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "Identification of obstacles using only the scattered P-waves or the scattered S-waves",
+            "Publication year": 2012,
+            "Publication url": "https://www.aimsciences.org/journals/displayArticlesnew.jsp?paperID=7008",
+            "Abstract": "In this work, we are concerned with the inverse scattering by obstacles for the linearized, homogeneous and isotropic elastic model. We study the uniqueness issue of detecting smooth obstacles from the knowledge of elastic far field patterns. We prove that the \u2018pressure\u2019parts of the far field patterns over all directions of measurements corresponding to all \u2018pressure\u2019(or all \u2018shear\u2019) incident plane waves are enough to guarantee uniqueness. We also establish that the shear parts of the far field patterns corresponding to all the \u2018shear\u2019(or all \u2018pressure\u2019) incident waves are also enough. This shows that any of the two different types of waves is enough to detect obstacles at a fixed frequency. The proof is reconstructive and it can be used to set up an algorithm to detect the obstacle from the mentioned data.1. Introduction and statement of the result. Let D be a bounded and open set of R3 such that R3\\D is connected. The boundary\u2202 D of D is of class C2 and the unit normal vector \u03bd is directed into the exterior of D. Some extra assumptions on the smoothness of the boundary will be given later. We denote by \u03bb and \u00b5 the Lam\u00e9 coefficients and \u03c9 the frequency. We assume that those coefficients satisfy the conditions \u00b5> 0 and 2\u00b5+ 3\u03bb> 0.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "American Institute of Mathematical Sciences"
+        },
+        {
+            "Title": "New results on transmission eigenvalues",
+            "Publication year": 2010,
+            "Publication url": "https://www.aimsciences.org/journals/displayArticles.jsp?paperID=4912",
+            "Abstract": "We consider the interior transmission eigenvalue problem corresponding to the inverse scattering problem for an isotropic inhomogeneous medium. We first prove that transmission eigenvalues exist for media with index of refraction greater or less than one without assuming that the contrast is sufficiently large. Then we show that for an arbitrary Lipshitz domain with constant index of refraction there exists an infinite discrete set of transmission eigenvalues that accumulate at infinity. Finally, for the general case of non constant index of refraction we provide a lower and an upper bound for the first transmission eigenvalue in terms of the first transmission eigenvalue for appropriate balls with constant index of refraction.1. Introduction. The interior transmission problem is a boundary value problem in a bounded domain which arises in inverse scattering theory for inhomogeneous media. Although simply stated, this problem is not covered by the standard theory of elliptic partial differential equations since as it stands it is neither elliptic nor selfadjoint. Of particular interest is the spectrum associated with this boundary value problem, more specifically the existence of eigenvalues which are called transmission eigenvalues. Besides the theoretical importance of transmission eigenvalues in connection with uniqueness and reconstruction results in inverse scattering theory, recently they have been used to obtain information about the index of refraction from measured data [1],[5]. This is based on the important result that transmission eigenvalues can be determined from the measured far field data which is recently proven in [3]. For information on the interior \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "American Institute of Mathematical Sciences"
+        },
+        {
+            "Title": "The transmission eigenvalue problem",
+            "Publication year": 2010,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=RuwKiX6lXEoC&oi=fnd&pg=PA368&dq=info:W0A-SLxp-cgJ:scholar.google.com&ots=1q9HK5n7d5&sig=wjt79fd6gTr6VUpFhnV3nWJW__g",
+            "Abstract": "In recent years the transmission eigenvalue problem has come to play an important role in inverse scattering theory 14. This is due to the fact that transmission eigenvalues can be determined from the far \ufb01eld data of the scattered wave and used to obtain estimates for the ma. te1'ia. l properties of the scattering object 3, 5, S. For the case of scattering of acoustic waves by a bounded simply connected inhomogeneous medium DC R3, the trans-mission eigenvalue problem is to \ufb01nd it 75 0, w E L2 [D), u E L2 [D], to\u2014ti E H2 (\u2018D) such that",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "THE INVERSE SCATTERING PROBLEM IN LINEAR ELASTICITY VIA A PAIR OF NONLINEAR INTEGRAL EQUATIONS",
+            "Publication year": 2010,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814322034_0002",
+            "Abstract": "We consider the inverse problem of determining the shape of a rigid scatterer inside a homogeneous and isotropic elastic medium. The problem is stated in R2 and the wave field is assumed to be time-harmonic. The inverse boundary value problem consists of solving a pair of nonlinear and ill-posed integral equations for the unknown boundary derived from a single layer representation of the scattered field. A linearization of the equations is performed using Fr\u00e9chet derivatives of the integral operators. The ill-posedness of the system leads to regularization via Tikhonov method. Numerical examples are given which illustrate the applicability of the method.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the uniqueness of the inverse elastic scattering problem for periodic structures",
+            "Publication year": 2001,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/17/6/323/meta",
+            "Abstract": "In this paper, Schiffer's theorem of inverse elastic scattering theory for periodic rigid structures is formulated. The examination of this uniqueness problem requires the study of the spectral properties of an infinite periodic layer, defined by a pair of candidate scattering curves. It is proved that, knowledge of the scattered field on a straight line above the corrugations for P-type one-direction incidence and for an interval of wavenumbers, is sufficient for the unique determination of the scatterer's curve. Moreover, Schiffer's result holds for a finite set of wavenumbers, if a priori information about the height of the curve is available.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Local uniqueness for the inverse scattering problem in acoustics via the Faber\u2013Krahn inequality",
+            "Publication year": 2005,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/21/4/001/meta",
+            "Abstract": "In this paper, the problem of uniqueness concerning the inverse scattering problem in two-dimensional acoustics for one incident plane wave and one wavenumber is considered. Using the fact that the optimal lower estimate for the eigenvalues of the Laplacian for a domain is given by the Faber\u2013Krahn inequality, which relates the area of the domain to the first eigenvalue of a disc of equal area, it is proved that the uniqueness holds under the restriction that the possible scatterers do not deviate'too much'in area. Also an improvement of the results due to Colton and Sleeman (1983 IMA J. Appl. Math. 31 253\u20139) is presented, based on the a priori information that the unknown scatterers lie inside a given ball and that the far field is known for a finite number of incident plane waves. The main advantage of this work is that it provides uniqueness for the half number of the needed incoming waves in Colton and Sleeman \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "The Far\u2010Field Equations in Linear Elasticity\u2014an Inversion Scheme",
+            "Publication year": 2001,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/1521-4001(200105)81:5%3C305::AID-ZAMM305%3E3.0.CO;2-T",
+            "Abstract": "In this paper the far\u2010field equations in linear elasticity for the rigid body and the cavity are considered. The direct scattering problem is formulated as a dyadic one. This imbedding of the vector problem for the displacement field into a dyadic field is enforced by the dyadic nature of the free space Green's function. Assuming that the incident field is produced by a superposition of plane dyadic incident waves it is proved that the scattered field is also expressed as the superposition of the corresponding scattered fields. A pair of integral equations of the first kind which hold independently of the boundary conditions are constructed in the far\u2010field region. The properties of the Herglotz functions are used to derive solvability conditions and to build approximate far\u2010field equations. Having this theoretical framework, approximate far\u2010field equations are derived for a specific incidence which generates as far\u2010field patterns \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:qjMakFHDy7sC",
+            "Publisher": "WILEY\u2010VCH Verlag Berlin GmbH"
+        },
+        {
+            "Title": "The far-field equations in linear elasticity for disconnected rigid bodies and cavities",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1013199408648",
+            "Abstract": "In this paper the far-field equations in linear elasticity for scattering from disjoint rigid bodies and cavities are considered. The direct scattering problem is formulated in differential and integral form. The boundary integral equations are constructed using a combination of single- and double-layer potentials. Using a Fredholm type theory it is proved that these boundary integral equations are uniquely solvable. Assuming that the incident field is produced by a superposition of plane incident waves in all directions of propagation and polarization it is established that the scattered field is also expressed as the superposition of the corresponding scattered fields. A pair of integral equations of the first kind which hold independently of the boundary conditions are constructed for the far-field region. The properties of the Herglotz functions are used to derive solvability conditions for the far-field equations. It is also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Kluwer Academic Publishers-Plenum Publishers"
+        },
+        {
+            "Title": "Inverse scattering problem for a rigid scatterer or a cavity in elastodynamics",
+            "Publication year": 2011,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/zamm.201000098",
+            "Abstract": "We consider the inverse scattering problem for the shape determination of a rigid scatterer or a cavity in a homogeneous and isotropic elastic medium. Both problems are formulated in R2 for time\u2010harmonic fields and longitudinal or transversal incident plane waves. Representation of the scattered field as a single\u2010 or a double\u2010layer potential, equivalently, leads to a system of two nonlinear integral equations for the density and the parametrization of the boundary. A detailed numerical implementation is presented for computing the corresponding solutions of both systems and numerical reconstructions are given to show the effectiveness of the method.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "WILEY\u2010VCH Verlag"
+        },
+        {
+            "Title": "The detection of point scatterers in a waveguide",
+            "Publication year": 2008,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812814852_0005",
+            "Abstract": "In this work, we consider the problem of detecting point scatterers in a waveguide. We assume that the waveguide is a two dimensional horizontal strip between two straight lines where on the one boundary line Dirichlet conditions hold and on the other Neumann. We use point sources, distributed uniformly on the boundary of a domain to illuminate point scatterers which are located inside this domain. The measurements are performed at the same points where the point sources are placed. We first formulate a MUSIC type algorithm and justify mathematically its connection with the scattering from an inhomoge-neous waveguide. Next, we present its connection with the factorization method for waveguides. We perform a numerical implementation of the algorithm using singular value decomposition of the basic data matrix taking into account the difficulties arising in waveguides. The final algorithm produces fine \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Radiation conditions for rough surfaces in linear elasticity",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8156850/",
+            "Abstract": "The elastic scattering problem, as with every exterior boundary\u2010value problem, must be accompanied by suitable radiation conditions, which reflect the asymptotic behaviour of the underlying fields. For bounded scatterers, the well\u2010known Kupradze radiation conditions encode the outgoing character of the elastic waves. For infinite scatterers the situation changes drastically. The boundary of the problem is now in the neighbourhood of the asymptotic region and Kupradze's conditions are proved inadequate. In this work the radiation conditions for the elastic scattering by stress\u2010free rough surfaces are constructed. The elastic scattered field is expressed through the angular spectrum representation, which contains two vector spectral amplitudes expressing the two propagating waves in elasticity. In a properly selected region, the different types of integrals emerging from the application of Betti's formula are estimated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:UebtZRa9Y70C",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "The inverse electromagnetic scattering problem by a penetrable cylinder at oblique incidence",
+            "Publication year": 2019,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/00036811.2017.1402891",
+            "Abstract": "In this work, we consider the method of non-linear boundary integral equation for solving numerically the inverse scattering problem of obliquely incident electromagnetic waves by a penetrable homogeneous cylinder in three dimensions. We consider the indirect method and simple representations for the electric and the magnetic fields in order to derive a system of five integral equations, four on the boundary of the cylinder and one on the unit circle where we measure the far-field pattern of the scattered wave. We solve the system iteratively by linearizing only the far-field equation. Numerical results illustrate the feasibility of the proposed scheme.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Direct and inverse medium scattering in a three-dimensional homogeneous planar waveguide",
+            "Publication year": 2011,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/100806333",
+            "Abstract": "Time-harmonic acoustic waves in an ocean of finite height are modeled by the Helmholtz equation inside a layer with suitable boundary conditions. Scattering in this geometry features phenomena unknown in free space: resonances might occur at special frequencies, and wave fields consist of partly evanescent modes. Inverse scattering in waveguides hence needs to cope with energy loss and limited aperture data due to the planar geometry. In this paper, we analyze direct wave scattering in a three-dimensional planar waveguide and show that resonance frequencies do not exist for a certain class of bounded penetrable scatterers. More important, we propose the factorization method for solving inverse scattering problems in the three-dimensional waveguide. This fast inversion method requires near-field data for special incident fields, and we rigorously show how to generate this data from standard point \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        },
+        {
+            "Title": "The factorization method in inverse elastic scattering from penetrable bodies",
+            "Publication year": 2006,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/23/1/002/meta",
+            "Abstract": "The present work is concerned with the extension of the factorization method to the inverse elastic scattering problem by penetrable isotropic bodies embedded in an isotropic host environment for time-harmonic plane wave incidence. Although the former method has been successfully employed for the shape reconstruction problem in the field of elastodynamic scattering by rigid bodies or cavities, no corresponding results have been recorded, so far, for the very interesting (both from a theoretical and a practical point of view) case of isotropic elastic inclusions. This paper aims at closing this gap by developing the theoretical framework which is necessary for the application of the factorization method to the inverse transmission problem in elastodynamics. As in the previous works referring to the particular reconstruction method, the main outcome is the construction of a binary criterion which determines whether a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "The linear sampling method for non-absorbing penetrable elastic bodies",
+            "Publication year": 2003,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/19/3/305/meta",
+            "Abstract": "In this paper the linear sampling method for the shape reconstruction of a penetrable non-dissipative scatterer in two-dimensional linear elasticity is examined. We formulate the governing differential equations of the problem in dyadic form in order to acquire a symmetric and uniform representation for the underlying elastic fields. The corresponding far-field operator is defined in the appropriate space setting. Assuming that the inclusion has non-absorbing behaviour, we consider this problem as a degenerate case of a non-dissipative anisotropic inclusion. Results for the existence and uniqueness of the weak solution of the interior transmission problem are obtained. In this framework the main theorem for the shape reconstruction for the transmission case is established. As in the previous works referring to the linear sampling method in acoustics and linear elasticity, the inversion scheme which is proposed is based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "The linear sampling method for the transmission problem in three-dimensional linear elasticity",
+            "Publication year": 2002,
+            "Publication url": "https://iopscience.iop.org/article/10.1088/0266-5611/18/3/303/meta",
+            "Abstract": "In this paper the sampling method for the shape reconstruction of a penetrable scatterer in three-dimensional linear elasticity is examined. We formulate the governing differential equations of the problem in dyadic form in order to acquire a symmetric and uniform representation for the underlying elastic fields. The corresponding far-field operator is defined in the appropriate space setting. We establish the interior transmission problem in the weak sense and consider the case where the nonhomogeneous boundary data are generated by a dyadic source point located in the interior domain. Assuming that the inclusion has absorbing behaviour, we prove the existence and uniqueness of the weak solution of the interior transmission problem. In this framework the main theorem for the shape reconstruction for the transmission case is established. As for the cases of the rigid body and the cavity an approximate far-field \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IOP Publishing"
+        },
+        {
+            "Title": "Variational formulations for scattering in a three\u2010dimensional acoustic waveguide",
+            "Publication year": 2008,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.947",
+            "Abstract": "Variational formulations for direct time\u2010harmonic scattering problems in a three\u2010dimensional waveguide are formulated and analyzed. We prove that the operators defined by the corresponding forms satisfy a G\u00e5rding inequality in adequately chosen spaces of test and trial functions and depend analytically on the wavenumber except at the modal numbers of the waveguide. It is also shown that these operators are strictly coercive if the wavenumber is small enough. It follows that these scattering problems are uniquely solvable except possibly for an infinite series of exceptional values of the wavenumber with no finite accumulation point. Furthermore, two geometric conditions for an obstacle are given, under which uniqueness of solution always holds in the case of a Dirichlet problem. Copyright \u00a9 2007 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Solvability of the integrodifferential equation of Eshelby's equivalent inclusion method",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8211371/",
+            "Abstract": "In this work, the solvability of the integrodifferential equation corresponding to the Eshelby's equivalent inclusion method in static linear elasticity is investigated. We consider the problem of an infinite elastic isotropic substrate which contains an isotropic inhomogeneity with arbitrary shape and any loading at infinity. We characterise the integrodifferential equation as a tensor singular integral equation of second kind. We adopt a classical matrixisation procedure which provides an equivalent matrix integral equation. We compute its symbol and prove that the index is zero which means that it is of Fredholm type. Consequently, according to Noether's theory, to infer existence and uniqueness it is sufficient to prove that the corresponding homogeneous equation has the trivial solution. We prove equivalently that the homogeneous transmission problem has only the trivial solution, so uniqueness and solvability is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "OUP"
+        },
+        {
+            "Title": "Direct and inverse medium scattering in a 3D homogeneous planar waveguide",
+            "Publication year": 2010,
+            "Publication url": "https://hal.inria.fr/inria-00522303/",
+            "Abstract": "Time-harmonic acoustic waves in an ocean of finite height are modeled by the Helmholtz equation inside a layer with suitable boundary conditions. Scattering in this geometry features phenomena unknown in free space: resonances might occur at special frequencies and wave fields consist of partly evanescent modes. Inverse scattering in waveguides hence needs to cope with energy loss and limited aperture data due to the planar geometry. In this paper, we analyze direct wave scattering in a 3D planar waveguide and show that resonance frequencies do not exist for a certain class of bounded penetrable scatterers. More important, we propose the Factorization method for solving inverse scattering problems in the 3D waveguide. This fast inversion method requires near-field data for special incident fields and we rigorously show how to generate this data from standard point sources. Finally, we discuss our theoretical results in the light of numerical examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Identification of planar screens at low frequencies in thermoelasticity.",
+            "Publication year": 2008,
+            "Publication url": "http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15211398&AN=30005973&h=VREf1pizuIePYKVoMMU0LFUD3AEaCyyRWeT%2FZ4CoSxQj0KB6wJLCf79O3%2BHObZeTWV7CrETxEr1CLSMRW%2FOrKA%3D%3D&crl=c",
+            "Abstract": "In this paper the problem of determining a screen in an isotropic and homogeneous thermoelastic medium at low frequencies is considered. We formulate the direct problem for the planar screen in the thermoelastic medium and present an equivalent model for the problem under consideration at low-frequencies based on an non-homogeneous formulation via appropriate Dirac measures. We prove that the corresponding inverse problem of reconstructing the planar screen for two important cases: the thermal stress dislocation and the thermal displacement dislocation from boundary measurements has a unique solution. Finally, we present a reconstruction method for the above cases based on a proper use of certain vector test functions and the application of the two-sided Laplace transform.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the far-field operator for mixed scattering problems in linear elasticity",
+            "Publication year": 2000,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812792327_0007",
+            "Abstract": "In this paper the far-field operator for mixed scattering problems produced by three different types of scatterers, rigid bodies, cavities and inclusions with different constitutive parameters of the surrounding medium, are considered. The direct scattering problem is described as a mixed boundary value problem in dyadic form. Adopting a layer theoretic approach the problem is equivalently transformed in integral form. The corresponding boundary integral system of equations is uniquely solvable. Using superposition principle we establish the exact form of the scattered field if the incident wave is a superposition of plane dyadic waves. We define the dyadic far-field operator as a mapping in certain dyadic space setting. It is proved that this operator is injective and has dense range provided the frequency is not an eigenvalue for the interior mixed problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Detection of point-like scatterers using one type of scattered elastic waves",
+            "Publication year": 2012,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0377042711005152",
+            "Abstract": "In this paper, we are concerned with the detection of point-like obstacles using elastic waves. We show that one type of waves, either the P or the S scattered waves, is enough for localizing the points. We also show how the use of S incident waves gives better resolution than the P waves. These affirmations are demonstrated by several numerical examples using a MUSIC type algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "The inverse scattering problem by an elastic inclusion",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10444-017-9550-z",
+            "Abstract": "In this work we consider the inverse elastic scattering problem by an inclusion in two dimensions. The elastic inclusion is placed in an isotropic homogeneous elastic medium. The inverse problem, using the third Betti\u2019s formula (direct method), is equivalent to a system of four integral equations that are non linear with respect to the unknown boundary. Two equations are on the boundary and two on the unit circle where the far-field patterns of the scattered waves lie. We solve iteratively the system of integral equations by linearising only the far-field equations. Numerical results are presented that illustrate the feasibility of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "THE LINEAR SAMPLING METHOD FOR N-BODIES IN 2-DIMENSIONAL LINEAR ELASTICITY",
+            "Publication year": 2004,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812702593_0024",
+            "Abstract": "In this paper the linear sampling method for the shape reconstruction of  - bodies with different boundary conditions in two dimensional linear elasticity is examined. We formulate the governing differential equations of the problem in dyadic form in order to acquire a symmetric and uniform representation for the underlying elastic fields. Assuming that  - bodies are penetrable non - dissipative inclusions,  - are rigid bodies and the rest  of them are cavities we establish the main theorem for the shape reconstruction. The inversion scheme which is proposed is based on the unboundedness of the solution of an equation of first kind having as known term the far-field of the free-space Green's dyadic, generated by sources inside the inclusions approaching the boundary. Numerical results are presented concerning two circular inclusions.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "ON THE INTERIOR TRANSMISSION PROBLEM IN LINEAR ELASTICITY",
+            "Publication year": 2002,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789812777140_0015",
+            "Abstract": "In this paper we consider the interior transmission problem in linear elasticity. This problem is fundamental in solving the inverse elastic scattering transmission problem concerning the reconstruction of the geometric characteristics of the elastic inclusion via the well-known \u201csampling method\u201d. We formulate the governing differential equations of the problem in dyadic form in order to acquire a symmetric and uniform representation for the underlying elastic fields. The corresponding far-field operator is defined in the appropriate space setting. We also establish the interior transmission problem in the weak sense and consider the case where the non-homogeneous boundary data are generated by a dyadic source point located in the interior domain. Assuming that the inclusion has absorbing behaviour, that is the Lam\u00e9 constants are complex, we prove existence and uniqueness of the weak solution of the interior \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iThPi7sAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The existence of an infinite discrete set of transmission eigenvalues",
+            "Publication year": 2010,
+            "Publication url": "https://epubs.siam.org/doi/abs/10.1137/090769338",
+            "Abstract": "We prove the existence of an infinite discrete set of transmission eigenvalues corresponding to the scattering problem for isotropic and anisotropic inhomogeneous media for both the Helmholtz and Maxwell's equations. Our discussion includes the case of the interior transmission problem for an inhomogeneous medium with cavities, i.e., subregions with contrast zero.",
+            "Abstract entirety": 1,
+            "Author pub id": "iThPi7sAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "Society for Industrial and Applied Mathematics"
+        }
+    ]
+}]

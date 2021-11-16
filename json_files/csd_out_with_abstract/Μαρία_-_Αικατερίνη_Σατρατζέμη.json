@@ -1,0 +1,1021 @@
+[{
+    "name": "\u039c\u03b1\u03c1\u03af\u03b1 - \u0391\u03b9\u03ba\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b7 \u03a3\u03b1\u03c4\u03c1\u03b1\u03c4\u03b6\u03ad\u03bc\u03b7",
+    "romanize name": "Maria - Aikaterini Satratzemi",
+    "School-Department": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7\u03c2 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "uom",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 5697,
+    "Scholar name": "Maya Satratzemi",
+    "Scholar id": "meKnrOkAAAAJ",
+    "Affiliation": "Professor, Dept. of Applied Informatics, University of Macedonia",
+    "Citedby": 1299,
+    "Interests": [
+        "Computer Science Education",
+        "Serious Games",
+        "Microworlds",
+        "Collaborative Programming",
+        "Graph Algorithms"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=meKnrOkAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Using explanations for recommender systems in learning design settings to enhance teachers\u2019 acceptance and perceived experience",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10639-019-09909-z",
+            "Abstract": "The reuse of Learning Designs can bring significant advantages to the educational community such as the diffusion of best teaching practices and the improvement of teaching quality and learning outcomes. Although various tools, including Recommender Systems, have been developed to implement the notion of reusing Learning Designs, their adoption by teachers falls short of expectations. This paper investigates the results of providing explanations for Learning Design recommendations to teachers. To this end, we designed and implemented an explanatory mechanism incorporated into a Recommender System, which propose pre-existing Learning Designs to teachers. We then conducted a user-centric evaluation experiment. Overall, this study provides evidence that explanations should be incorporated into Recommender Systems that propose Learning Designs, as a way of improving the teacher \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:wbdj-CoPYUoC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "DELYS: a novel microworld-based educational software for teaching computer science subjects",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0360131502001331",
+            "Abstract": "The Greek ministry of education with the support of the European Union has begun an attempt to incorporate information and communication technology in the normal, everyday activities of secondary education. Part of this effort is the development of pilot educational software. Our project proposal was DELYS, an educational software environment that aids the teaching of computer science in secondary education. It was one of the approved proposals and, incidentally, the only one funded in the field of computer science. DELYS consists of four \u201cexploratory microworlds\u201d which deal with the following subjects: (1) the various components of a computer and how they operate as a whole, (2) the booting process in a computer, (3) the way data is represented numbers are processed, and (4) a programming environment. The material is mainly presented through the use of simulations and animations and it is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Voice assistants and artificial intelligence in education",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3351556.3351588",
+            "Abstract": "In recent years, Artificial Intelligence (AI) has shown significant progress and its potential is growing. An application area of AI is Natural Language Processing (NLP). Voice assistants incorporate AI using cloud computing and can communicate with the users in natural language. Voice assistants are easy to use and thus there are millions of devices that incorporates them in households nowadays. Most common devices with voice assistants are smart speakers and they have just started to be used in schools and universities. The purpose of this paper is to study the capabilities of voice assistants in the classroom and to present findings from previous studies.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A holistic framework for the development of an educational game aiming to teach computer programming",
+            "Publication year": 2013,
+            "Publication url": "https://www.academia.edu/download/44125019/A_holistic_framework_for_the_development20160326-27983-12pqcww.pdf",
+            "Abstract": "Computer science is gradually changing, evolving and adapting according to the needs of each time period by incorporating the technological developments available. However, despite the occurring changes and the current progress in the domain, computer programming is still a vital chapter within computer science, and its teaching remains a difficult endeavour. On the other hand, students have changed the way with which they learn, interact with and search for knowledge. They spend significant amounts of their everyday lives from a very young age interacting with the computers by playing games. Thus, they are used to environments with impressive special effects and graphical interfaces where they have full control of the situation and interact with the environment\u2019s elements. Therefore, today\u2019s teachers are trying to connect computer programming learning with students\u2019 everyday usage of the computer, which does not include simple textual editors for programming lines of code with no other interaction functionalities. Hence, teachers face the challenge of incorporating environments that are similar to students\u2019 existing mentality and of creating tasks and assignments that can be executed within these environments and can provide students with the necessary programming knowledge and skills. A number of software solutions were developed towards facing the aforementioned difficulties. They can be classified into three main categories, namely educational programming environments, microworlds and educational games. Educational games used in computer programming courses are considered to present added value, due to their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:P5F9QuxV20EC",
+            "Publisher": "Academic Conferences International Limited"
+        },
+        {
+            "Title": "Post's Machine: A didactic microworld as an introduction to formal programming",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1012319900191",
+            "Abstract": "Although formal programming is considered a recognised programming model, many avoid teaching it because of its very high mental cost. For that reason we developed a \u201cmicroscopic\u201d environment based on Emil Post's theoretical machine as an introduction to formal methods of programming and in the framework of an introductory computer science course.In this paper, we present a small formal system for the development and simultaneous verification of algorithms; we give an example of problem solving in this environment; we present a small existing software simulating Post's machine; we propose two modules to facilitate the work in this environment; and finally, we present the didactic uses of Post's machine as an introduction to formal methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Teaching Java with BlueJ: a Two-Year Experience",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Maya-Satratzemi/publication/220807189_Teaching_java_with_BlueJ_a_two-year_experience/links/00463516eb79c28503000000/Teaching-java-with-BlueJ-a-two-year-experience.pdf",
+            "Abstract": "In this paper we present our two-year experience on teaching Java with BlueJ on the context of a compulsory course at a Department of Technology Management. The course was taught for the first time in 2005-06 and was heavily based on the features of the programming environment BlueJ and on books/papers related to BlueJ [1]. In the context of the course 11 two-hour lectures and 11 two-hour labs were given.The 2nd time of teaching the course in 2006-07 some changes were made in order to face difficulties that were attributed to the underlying teaching approach and might not be characterized as intrinsic to OOP. The most important changes were:(i) the features of BlueJ were used more carefully, while the main method was taught much earlier in the course (4th lesson), so as to avoid specific difficulties related to object instantiation and the dynamic aspects of OOP;(ii) students started by making small changes to existing code, but soon enough they started creating small projects from scratch in order to apply the principles of good class design and Java presented to them and develop problem solving skills;(iii) two lessons were devoted to ArrayLists and arrays.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "ACM ASSOCIATION FOR COMPUTING MACHINERY"
+        },
+        {
+            "Title": "A Technique to Adapt Course Presentation in Moodle",
+            "Publication year": 2017,
+            "Publication url": "https://search.proquest.com/openview/aac78d8588df45edbd61028b5d3ed5e3/1?pq-origsite=gscholar&cbl=1796419",
+            "Abstract": "Learning styles play a crucial role in students' success in a course. This article presents how a course can differ among learners with different learning styles regarding the position of the learning objects in the particular course. The proposed technique was implemented in Moodle so as to be used either for an e-learning course or for blended learning. Although this technique is implemented in Moodle it can be easily integrated in any other Learning Management System as long as it is able to provide the same types of learning objects. Two evaluation studies of a Moodle course were conducted in the context of an introductory programming course in order to examine the effectiveness of the proposed technique and students' feedback on it. In both studies, two groups were formed, namely the experimental and the control group. The adaptation technique described in this paper was applied for the experimental \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Academic Conferences International Limited"
+        },
+        {
+            "Title": "Integral based source selection for uncooperative distributed information retrieval environments",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1458469.1458475",
+            "Abstract": "In this paper, a new source selection algorithm for uncooperative distributed information retrieval environments is presented. The algorithm functions by modeling each information source as an integral, using the relevance score and the intra-collection position of its sampled documents in reference to a centralized sample index and selects the collections that cover the largest area in the rank-relevance space. Based on the above novel metric, the algorithm explicitly focuses on addressing the two goals of source selection; high recall which is important for source recommendation applications and high precision aiming to produce a high precision final merged list. For the latter goal in particular, the new approach steps away from the usual practice of DIR systems of explicitly declaring the number of collections that must be queried and instead receives as input only the number of retrieved documents in the final \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Empirical Study on Pair Performance and Perception in Distributed Pair Programming",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-11935-5_72",
+            "Abstract": "This paper reports students\u2019 perceptions and experiences attending an object-oriented programming course in which they developed software using the Distributed Pair Programming (DPP) technique. Pair programming (PP) is typically performed on one computer, involving two programmers working collaboratively on the same code or algorithm. DPP on the other hand is performed remotely allowing programmers to collaborate from separate locations. PP started in the software industry as a powerful way to train programmers and to improve software quality. Research has shown that PP (and DPP) is also a successful approach to teach programming in academic programming courses. The main focus of PP and DPP research was PP\u2019s effectiveness with respect to student performance and code quality, the investigation of best team formation strategies and studies of students\u2019 attitudes. There are still \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficient authoring of SCORM courseware adapted to user learning style: the case of ProPer SAT",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-03426-8_25",
+            "Abstract": "Online courses are the most popular way to deliver knowledge for distance learning. New researches attempt to personalize the educational process with the use of the Adaptive Educational Hypermedia Systems. Moreover, due to the significant amount of time, money and effort devoted to creating online courses, developers strive to incorporate standards, such as SCORM, for the reusability, interoperability and durability of the educational content. However, it is a difficult task for teachers without programming knowledge to design and author adaptive courses. This work presents ProPer SAT, an authoring tool implemented for quick and easy SCORM courseware construction which can also be adapted to specific user learning styles.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Monitoring an OOP course through assignments in a distributed pair programming system",
+            "Publication year": 2016,
+            "Publication url": "https://ruomo.lib.uom.gr/handle/7000/461",
+            "Abstract": "Distributed Pair Programming (DPP) is widely known to promote collaboration and knowledge sharing among novice programmers, while it engages them in carrying out programming assignments. Moreover, DPP is a means of experiencing agile software development techniques that are considered important in the software market. In this paper, we share some experiences on using the DPP system of SCEPPSys for carrying out assignments in an undergraduate Object Oriented Programming (OOP) course. Specifically, we focus on the information recorded during problem solving and the statistics reported by the system and how this information can be utilized for monitoring both the course regarding the fulfillment of its goals and the programming habits and progress of students. Some proposals are made towards extending the possibilities of SCEPPSys for generating automatically more sophisticated reports that would support instructors in more successfully  monitoring a course and students. The ultimate goal of such an enhanced monitoring is to improve students\u2019 software quality.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Finding an Effective Data Mining Algorithm for Automatic Detection of Learning Styles",
+            "Publication year": 2019,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=ZMjBDwAAQBAJ&oi=fnd&pg=PA268&dq=info:oT-PecugArEJ:scholar.google.com&ots=NNK1oWV9NP&sig=qZyRy9Y0WsrYhvztcCK_jgvFBQY",
+            "Abstract": "Students\u2019 learning styles are the differences in the methods used to acquire and process information. The main purpose of using learning styles is to adapt the content presentation to the learner, either within Adaptive Educational Hypermedia Systems or Learning Management Systems. More recently several approaches to the automatic detection of learning styles have been proposed, in contrast to the traditional way which has been through students\u2019 completion of a specific questionnaire. These approaches are based on the analysis of behaviour data that are gathered from the students\u2019 interaction with the system, such as his/her actions and their duration. Automatic detection approaches have a greater potential to be error-free as real data is used in order to detect students\u2019 learning styles. Automatic detection techniques can be divided into two subcategories: data-driven and literature-based. Computer science researchers are more familiar with data-driven approaches, because they require the use of an artificial intelligence classification algorithm to automatically detect learning style preferences. This article investigates the precision attained by different data mining algorithms in an online Moodle course after the second and fourth weeks, and at the end of the course, to compare the detection results and check how fast each approach is. An evaluation study of a Moodle course was conducted in the context of an introductory programming course. The study was conducted over the first six weeks of the course, up to the mid-term exam. Students were asked to answer ILS questionnaire right after their first loginto the course in order to obtain \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Academic Conferences and publishing limited"
+        },
+        {
+            "Title": "A heuristic algorithm for the list coloring of a random graph",
+            "Publication year": 2005,
+            "Publication url": "https://www.academia.edu/download/43138035/Tsuros_Satrazemi.pdf",
+            "Abstract": "Let G=(V, E) a graph and L (vi) a set of colors associated to every node vi\u2208 V.A list coloring of G is an assignment of a color c (vi)\u2208 L (vi) to every node of V so that no two adjacent nodes are assigned the same color. Significant theoretical research into this special case of the classic coloring problem started roughly the last decade. In the corresponding literature, algorithms are referred to for a particular class of graphs, eg trees. In this paper a heuristic algorithm is formulated in order to achieve a list coloring to a given random graph G with the smallest possible number of colors, whenever G has such a coloring. A small numerical example of the presented algorithm is given and the paper is incorporated with a relative computational experiment.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving the educational process by joining SCORM with adaptivity: the case of ProPer",
+            "Publication year": 2012,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2012.051584",
+            "Abstract": "Over the last several years, Learning Management Systems (LMSs) have adopted technological standards such as Shareable Content Object Reference Model (SCORM), in order to achieve interoperability and reusability of their educational content which still remains static. On the other hand, adaptive hypermedia have adapted educational material to learners\u2019 characteristics and preferences so as to help them with their study, however, it is difficult for their content to be reused among different systems. This paper discusses a way to improve the educational process both for learners and instructors by joining SCORM compliant LMSs with adaptivity. It proposes a model for e-learning systems construction and presents ProPer, a system that combines all the popular adaptive technologies with LMS functionalities and the adoption of the SCORM specifications. The evaluation results indicate that ProPer is an easy and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Inderscience Publishers"
+        },
+        {
+            "Title": "What they really do? Attempting (once again) to model novice programmers' behavior",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/544414.544513",
+            "Abstract": "In the last two decades, a large amount of research has been conducted in an effort to form a model of student behavior when they try to solve algorithmic or programming problems. The construction of the model is based on the analysis of many types of data, such as for example:(a) the characteristics of the programming languages the students work with,(b) the strategies of the solution that the students follow, and (c) the characteristics of the proposed problem. However, we must observe that modeling is often not based on long-term observations of actual teaching and the proposed problems are usually quite simple. In this paper we attempt to examine a variety of aspects of students' behavior when they learn to program. More specifically, we study: the strategies students use in order to develop and validate a program; the possible role of students' errors in the development of their programs; and the methods \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Collection-integral source selection for uncooperative distributed information retrieval environments",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020025510001325",
+            "Abstract": "We propose a new integral-based source selection algorithm for uncooperative distributed information retrieval environments. The algorithm functions by modeling each source as a plot, using the relevance score and the intra-collection position of its sampled documents in reference to a centralized sample index. Based on the above modeling, the algorithm locates the collections that contain the most relevant documents. A number of transformations are applied to the original plot, in order to reward collections that have higher scoring documents and dampen the effect of collections returning an excessive number of documents. The family of linear interpolant functions that pass through the points of the modified plot is computed for each available source and the area that they cover in the rank-relevance space is calculated. Information sources are ranked based on the area that they cover. Based on this novel \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Educational games for teaching computer programming",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4614-6501-0_7",
+            "Abstract": "Teaching and learning computer programming presents teachers and students respectively with many challenges, especially when taught with the \u201ctraditional\u201d approach. Several alternative teaching approaches were proposed the previous years, but they seem not to fulfil successfully the needs of the twenty-first century students. Students nowadays are raised in a digital world and they learn and react differently. Students start to use computers before they first attend formal education, while computer games have become a part of their everyday life. A growing number of teachers/researchers propose the incorporation of educational games (or serious games) in the teaching of computer programming with the aim of reinforcing instinctive motivation through challenging students, piquing their curiosity and providing them with a sense of control and imagination. This paper aims to review the functionalities that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Heuristic Algorithms for the Set-Coloring Problem",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1684858/",
+            "Abstract": "In this paper we develop two heuristic algorithms for the set coloring problem. The first algorithm, SetCol, is a new greedy algorithm and the second uses an extended version of Dsatur algorithm suitably adapted to solve the set coloring problem. The empirical results on random instances show that SetCol algorithm gives encouraging results",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Proposal for an Educational Game Platform for Teaching Programming to Primary School Students",
+            "Publication year": 2021,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=3JQoEAAAQBAJ&oi=fnd&pg=PA461&dq=info:x1moYxPS0bUJ:scholar.google.com&ots=I8R7mB8D0Q&sig=UwAsRciIcMVK4uqqz9yQ3cEWNBA",
+            "Abstract": "Programming is considered by many a core skill of the 21st century. Learning the fundamentals of coding or programming encourages children to acquire new skills, such as problem solving, logical thinking, critical thinking, and Computational Thinking (CT), and moreover to be active creators of tomorrow. There are various platforms for learning coding and programming, and in particular game-based ones, which, through the gamification process, focus on increasing learners\u2019 motivation and engagement. Most existing games are nowadays distributed through web platforms or mobile applications. Most suffer from major drawbacks, which make them difficult to use in a classroom environment, and there lack of an administrative platform does not allow the educator to assign tasks to students when at home. This paper proposes the design of an educational platform for teaching programming to primary school children. It has been designed and is to be developed on the CMX framework. The educational platform includes a web-based game for in classroom teaching, a mobile application game for outside of the classroom, and an administrative module for the teacher to organize the educational process and monitor pupils\u2019 performance. Through specific learning analytics the instructor will be able to draw conclusions on whether the students achieved the specific learning objectives, as well as understanding the educational impact that these types of games actually have on students.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Springer Nature"
+        },
+        {
+            "Title": "Mentor: A hybrid recommender system in order to support teachers in learning design authoring process",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901529/",
+            "Abstract": "Current trends in education have already led to a redefinition of the teachers' role from mere providers of knowledge to learning designers. The process of Learning Design (LD) authoring is essential for the success of teachers in their new role. The present article introduces Mentor, a hybrid Recommender System (RS) that exploits existing LDs, compatible with the IMS LD specification, in order to support teachers by recommending templates to aid the LD authoring process. Currently, we are implementing Mentor as a recommendation service within LAMS so as to be valuable and useful to teachers' communities.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Teaching (with) robots in secondary schools: some new and not-so-new pedagogical problems",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1508808/",
+            "Abstract": "Research on the teaching of programming has shown that novice programmers often come up against significant difficulties in understanding programming concepts as well as in finding solutions to even elementary programming problems. One of the basic strategies which has been adopted in order to confront this problem, were programming languages and environments created with the specific aim to make both the teaching and learning processes of programming easier. A typical category of these types of environments consists of systems where the novice programmer manipulates real entities such as robots and automatic mechanisms. In this research we present a series of pilot lessons for an introduction to programming with the help of Lego Mindstorms and the visual programming environment ROBOLAB. The research was carried out on Greek secondary school students in the 9th and 10th grades. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hybrid results merging",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1321440.1321487",
+            "Abstract": "The problem of results merging in distributed information retrieval environments has been approached by two different directions in research. Estimation approaches attempt to calculate the relevance of the returned documents through ad-hoc methodologies (weighted score merging, regression etc) while download approaches, download all the documents locally, partially or completely, in order to estimate\" first hand\" their relevance. Both have their advantages and disadvantages. It is assumed that download algorithms are more effective but they are very expensive in terms of time and bandwidth. Estimation approaches on the other hand, usually rely on document relevance scores being returned by the remote collections in order to achieve maximum performance. In addition to that, regression algorithms, which have proved to be more effective than weighted scores merging, rely on a significant number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A hybrid recommender system integrated into LAMS for learning designers",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10639-017-9668-0",
+            "Abstract": "In the constantly evolving field of e-learning, the Learning Design (LD) sector constitutes a critical success factor, as it has the potential to preserve and disseminate effective pedagogical approaches and enhance the quality of the educational process. Recognizing the LD process as demanding in terms of time and expertise this paper answers the research question of how to leverage Recommender Systems (RSs) and reuse pre-existing LD solutions in order to support teachers in the LD process. In particular, this paper presents the implementation and the first evaluation results of Mentor. Mentor is an RS that supports teachers in finding pre-existing LDs, which cater better for their needs and preferences, so as to re-design them. Mentor is integrated into LAMS, which is a well-known tool for designing, managing and delivering sequences of learning activities. The first user-centric evaluation experiment \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Distributed pair programming using collaboration scripts: An educational system and initial results",
+            "Publication year": 2015,
+            "Publication url": "https://www.ceeol.com/search/article-detail?id=342805",
+            "Abstract": "Since pair programming appeared in the literature as an effective method of teaching computer programming, many systems were developed to cover the application of pair programming over distance. Today's systems serve personal, professional and educational purposes allowing distributed teams to work together on the same programming project. The current research focuses in distributed pair programming systems which are suitable for supporting students in learning computer programming. Systematic review of publicly available systems revealed that there is an absence of effective collaboration support for the students. The main drawbacks of pair programming, such as uneven workload distribution and infrequent role switches, cannot be addressed with available systems. While building an enhanced version of a distributed pair programming system, successful instructional strategies in similar \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:XiSMed-E-HIC",
+            "Publisher": "Vilnius University Institute of Data Science and Digital Technologies"
+        },
+        {
+            "Title": "Combine adaptive education hypermedia and SCORM compliant learning management systems",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4281025/",
+            "Abstract": "The increase of e-learning led to the development of adaptive educational hypermedia systems (AEHS). The last few years a new research stream was revealed which combines the functionality of AEHS and the content reuse, using some standards such as SCORM. This paper briefly introduces a learning management system (LMS), which adopts characteristics of AEHS and is compliant to SCORM and its specifications.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An empirical study on factors related to distributed pair programming",
+            "Publication year": 2019,
+            "Publication url": "https://www.learntechlib.org/p/208576/",
+            "Abstract": "This paper reports students\u2019 perceptions and experiences attending an object-oriented programming course in which they developed software using the Distributed Pair Programming (DPP) technique. Pair programming (PP) is typically performed on one computer, involving two programmers working collaboratively on the same code or algorithm. DPP on the other hand is performed remotely allowing programmers to collaborate from separate locations. PP started in the software industry as a powerful way to train programmers and to improve software quality. Research has shown that PP (and DPP) is also a successful approach to teach programming in academic programming courses. The main focus of PP and DPP research was PP\u2019s effectiveness with respect to student performance and code quality, the investigation of best team formation strategies and studies of students\u2019 attitudes. There are still limited \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:5ugPr518TE4C",
+            "Publisher": "International Association of Online Engineering"
+        },
+        {
+            "Title": "Implementing a nationwide system for training very small enterprises for ICT innovation: The Greek case",
+            "Publication year": 2003,
+            "Publication url": "https://www.jstor.org/stable/pdf/jeductechsoci.6.1.26.pdf",
+            "Abstract": "The applications of ICT in enterprises are many and well known. However, many small enterprises do not integrate ICT. So, the Greek government decided to promote the integration of ICT in these businesses. The aim of the present paper is to describe this nation-wide training system for employees of very small enterprises on the uses of ICT, which presents certain peculiarities. The wide dispersion and lack of homogeneity of the enterprises necessitates that the training system must be decentralised as well as flexible. Also, the employees of very small enterprises are obviously adults and in many cases have absolutely no positive attitudes towards ICT. The particular characteristics of very small enterprises, not only the enterprises as organizations but also their staff, have an effect on the instruction of the trainers who must attend a multi-faceted program which satisfies all the above mentioned requirements and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:mB3voiENLucC",
+            "Publisher": "International Forum of Educational Technology & Society"
+        },
+        {
+            "Title": "Towards optimizing server performance in an educational MMORPG for teaching computer programming",
+            "Publication year": 2013,
+            "Publication url": "https://aip.scitation.org/doi/abs/10.1063/1.4825494",
+            "Abstract": "Web-based games have become significantly popular during the last few years. This is due to the gradual increase of internet speed, which has led to the ongoing multiplayer games development and more importantly the emergence of the Massive Multiplayer Online Role Playing Games (MMORPG) field. In parallel, similar technologies called educational games have started to be developed in order to be put into practice in various educational contexts, resulting in the field of Game Based Learning. However, these technologies require significant amounts of resources, such as bandwidth, RAM and CPU capacity etc. These amounts may be even larger in an educational MMORPG game that supports computer programming education, due to the usual inclusion of a compiler and the constant client/server data transmissions that occur during program coding, possibly leading to technical issues that could cause \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:D03iK_w7-QYC",
+            "Publisher": "American Institute of Physics"
+        },
+        {
+            "Title": "\u0391 Technique to Adapt Course Presentation in Moodle",
+            "Publication year": 2017,
+            "Publication url": "https://ruomo.lib.uom.gr/handle/7000/615",
+            "Abstract": "Learning styles play a crucial role in students\u2019 success in a course. This article presents how a course can differ among learners with different learning styles regarding the position of the learning objects in the particular course. The proposed technique was implemented in Moodle so as to be used either for an e-learning course or for blended learning. Although this technique is implemented in Moodle it can be easily integrated in any other Learning Management System as long as it is able to provide the same types of learning objects. Two evaluation studies of a Moodle course were conducted in the context of an introductory programming course in order to examine the effectiveness of the proposed technique and students\u2019 feedback on it. In both studies, two groups were formed, namely the experimental and the control group. The adaptation technique described in this paper was applied for the experimental group, while the control group had access to the standard version of Moodle. The studies were conducted during the winter semester of the 2015/16 and the 2016/2017 academic year, respectively. Both studies were conducted over the first six weeks of the course, up to the mid-term exam. On completion of the respective course sections but prior to the mid-term exam, all students had to answer a questionnaire evaluating the attended course. The questionnaire consisted of five-point Likert type questions evaluating the proposed adaptation technique, system usability and motivational appeal. The aim of our analysis was to investigate whether our adaptation technique helped students to improve their learning outcomes without increasing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:_B80troHkn4C",
+            "Publisher": "Academic Conferences International Limited"
+        },
+        {
+            "Title": "A Long-term evaluation and reformation of an object oriented design and programming course",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5194164/",
+            "Abstract": "In this paper we present important results from a long-term evaluation of an ldquoobject-oriented design and programmingrdquo course. In its last form the course is based on the combined use of the microworld objectKarel and the environment BlueJ, while some important modifications on the original teaching approach based on BlueJ have been made.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Microworlds, games, animations, mobile apps, puzzle editors and more: What is important for an introductory programming environment?",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10639-015-9433-1.pdf",
+            "Abstract": "Teaching and learning programming constitutes a challenge. Although several teaching approaches and programming tools have been proposed, it seems that they have limited impact on classroom practice. This article investigates students\u2019 perceptions on five educational programming environments that are widely used and the features that any introductory programming environment should have. The environments investigated are: BlueJ; objectKarel; Scratch; Alice; and MIT App inventor. These environments were studied and used by experienced undergraduate students of Informatics in the context of a fourth year course. The main features of the environments and the way of presenting them to students, as well as the assignments in the context of the course are presented, in order to help the reader realize what experience was gained by the students that evaluated the environments. Based on a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Double domination algorithms in graphs",
+            "Publication year": 2000,
+            "Publication url": "https://www.researchgate.net/profile/Maya-Satratzemi/publication/27380800_Double_Domination_Algorithms_in_Graphs/links/0c96053b4f4d1634c7000000/Double-Domination-Algorithms-in-Graphs.pdf",
+            "Abstract": "The concept of dontination in Graph Thcory is of great inportance due to tts vide range of applications. Afany types of domination have been suggested in the liicraturc. A rcccnt volune of Discrete Mathematics///was devotea entirely to donination concept, where Hedctniemi and Lascar (l/suggest that over 60 typcs of domination have been defined. Harary and Haynes in their paper\" Double Dontination iar Graphs\"/51. 1994. study a new type of double domination. The majority of the published research on this concept establishes relations between the diferent involved parameter. In this paper ve develop three tree search type algorithms in order to determine the double donunauion number and the total double domination number of a givcn graph G. These algorithms are based on the e rructed properties concerning the notion of double domination in graphs. These properties constitutes the branching and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:08ZZubdj9fEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Restrictions and Abilities of SCORM: A Path to Adaptive Course Development",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-1-4614-1083-6_22",
+            "Abstract": "Adaptive courses offer personalized instruction to user needs and preferences, however, their educational content is hard to access or be reused by other systems and platforms. As a solution to these problems, research proposes the use of technological standards, like Sharable Content Object Reference Model (SCORM), for the creation of educational material. Nevertheless, SCORM adoption results in some restrictions to system design and provided adaptivity. This work focuses on the restrictions, which are related to the production of educational content and investigates ways in the development of dynamic and adaptive educational material that conforms to SCORM and its specifications. For further course adaptation, an adaptive LMS named ProPer is presented, while for automatic course authoring, the use of ProPer SAT is proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Springer, New York, NY"
+        },
+        {
+            "Title": "Factors affecting students\u2019 performance in distributed pair programming",
+            "Publication year": 2019,
+            "Publication url": "https://journals.sagepub.com/doi/abs/10.1177/0735633117749432",
+            "Abstract": "Pair Programming has been shown to increase productivity and code quality not only in professional software development but also in the context of programming education. The provision of broadband Internet access gave rise to Distributed Pair Programming (DPP) enabling two programmers to collaborate remotely. To gain insight into the benefits of DPP, we performed an empirical study on an object-oriented programming course where 62 students carried out assignments through a DPP platform. The goal of the study is to investigate, in the context of DPP, whether prior programming skills (assessed at the level of student, his or her partner and pair) and pair compatibility are related to student performance. To further examine the effect of DPP on learning outcomes, we have studied whether a pair\u2019s performance on DPP assignments is related to the students\u2019 grade. The findings indicate that the student\u2019s actual \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "SAGE Publications"
+        },
+        {
+            "Title": "Evaluating objectKarel-an educational programming environment for object oriented programming",
+            "Publication year": 2006,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.4715&rep=rep1&type=pdf",
+            "Abstract": "A common experience of those who teach introductory programming courses is that learning to program is difficult. So, special programming languages and educational environments have been devised with the aim of making the learning process easier. Unfortunately, in many cases the true value of these methods was not evaluated. Based on previous research findings and our experience in teaching object-oriented programming (OOP), we developed an environment called objectKarel. objectKarel is being used for three years in our University and this paper presents a systematic analysis of its didactic effectiveness based on evaluations from students themselves. Besides the evaluation of the effectiveness of the environment, this research allowed us to state some more general proposals regarding the design of programming languages and educational environments for an introduction to programming.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Re-designing an OOP course based on BlueJ",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4281121/",
+            "Abstract": "In this paper we present our findings on teaching Object Oriented Programming (OOP) with BlueJ in the context of a one-semester programming course. Specifically, we present the evolution of the course, results from its evaluation and proposals for a more effective teaching of OOP. Our proposals focus on the way that the features of BlueJ, the accompanying textbook and the well-known guidelines for teaching object orientation with Java presented by the team of BlueJ should be used, in order to avoid some underlying pitfalls.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Examining the Compatibility of Students in Distributed Pair Programming",
+            "Publication year": 2019,
+            "Publication url": "https://search.proquest.com/openview/89861f1e066a374ea74838d33129e796/1?pq-origsite=gscholar&cbl=1796419",
+            "Abstract": "Pair Programming (PP) has a long history both in the software industry and education. More recently, specially designed environments have made the application of Distributed Pair Programming (DPP) possible, which enables two programmers to work remotely. Through these collaborative activities, students produce better programs, improve their performance and programming skills, and increase their self-confidence. Student attitudes towards Distributed Pair Programming and the factors that affect them, remain largely unexplored, while some of the existing studies have yielded mixed results. One important aspect is to understand the underlying factors that contribute to a successful pairing formation, ie, factors that make pairs very compatible. This paper focuses on the examination of possible factors which we felt had the potential to affect the compatibility of student pairs who worked remotely. The present \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:eMMeJKvmdy0C",
+            "Publisher": "Academic Conferences International Limited"
+        },
+        {
+            "Title": "CMX: Implementing an MMORPG for learning programming",
+            "Publication year": 2014,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=IedEBQAAQBAJ&oi=fnd&pg=PA346&dq=info:ZkdSul4q_zgJ:scholar.google.com&ots=bGXl_U1i41&sig=37vsDnCgeMBZAyIn0w_lsqH9dw4",
+            "Abstract": "The initial stage of the learning programming process is an arduous task. Novice students have to simultaneously learn the syntax of a programming language, understand the algorithmic logic that each program is based on as well as comprehend the basic concepts of the programming principles. The problems students are faced with become even greater when teachers employ complex environments with minimum graphical facilities instead of user\u2010friendly educational programming environments. At the same time, constant technological developments indicate that the global market will continue to require highly skilled computer programmers; thus, the usage of advanced educational environments to properly train future professionals is essential. This is one of the reasons why a new type of technology called Serious Games has started raising great interest in educational settings. Using serious games in education combines increased motivation of students with the incorporation of course materials within the games\u2019 tasks. The aim of this paper is to apply an educational Massive Multiplayer Online Role Playing Game (MMORPG) named CMX in university settings and evaluate its efficiency in successfully teaching programming elements while entertaining and engaging students in an interesting environment. The game is applied in two groups of students already familiar with basic computer programming concepts and it has been populated with units of learning regarding arrays in the C programming language. Both groups engage in and interact with the game\u2019s environment, Senseis, tasks and other players and we record their behaviours \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:1sJd4Hv_s6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MODELING USER PROGRESS AND VISUALIZING FEEDBACK-The Case of ProPer",
+            "Publication year": 2010,
+            "Publication url": "https://www.scitepress.org/papers/2010/27804/",
+            "Abstract": "In traditional classroom education instructors can detect the learning difficulties of their students and take all the necessary actions in order for the problem to be overcome. In asynchronous online education, however, it is system functionality that plays a vital role in locating potential problems that may be related to either or both the students and the courses. In addition, students expect the online course to provide them with personalized instruction and useful feedback. This paper presents how ProPer, an adaptive SCORM compliant Learning Management System, monitors and visualizes user progress through instruction in order to help teachers and students alike to locate possible weaknesses.  Moreover, ProPer, through immediate feedback and comparative techniques aims to motivate students to continue with their study. Evaluation findings indicate that ProPer can help both instructors and students with their \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:tS2w5q8j5-wC",
+            "Publisher": "SCITEPRESS"
+        },
+        {
+            "Title": "Introducing CS-major Students to parallel programming using StarLogo",
+            "Publication year": 2007,
+            "Publication url": "https://www.researchgate.net/profile/Georgios-Evangelidis/publication/27380862_Introducing_CS-major_Students_to_parallel_programming_using_StarLogo/links/0046351a8e1def16f3000000/Introducing-CS-major-Students-to-parallel-programming-using-StarLogo.pdf",
+            "Abstract": "One of the most common difficulties an instructor faces during an introductory course in computer programming, is the lack of appropriate pedagogically efficient \u201ctools\u201d that will help his/her students understand fundamental notions of programming. Especially, complicated notions are, most of the times, only partially taught or left uncovered for a more advanced course. However, the use of modern technology and computers in education, programming included, is not confined only in computer science courses, but finds applications also in sciences like Math, Biology and Sociology. As a result, there has been also a demand for simpler and friendlier software environments that will provide the vehicle of knowledge dissemination for these sciences and, more generally, for education. Starlogo-introduced by Mitchell Resnick at MIT Media Laboratory\u2013is an programming environment that simulates decentralized systems and provides an intuitive interface that can be used even by elementary school students to explore systems and worlds in which thousands of objects participate and interact with each other. Of course this same environment can be used for an introduction to programming and especially to massively parallel programming. In this paper we initially present a number of different approaches that have been used so far by instructors to improve the didactic experience of their students with the power of the Starlogo environment. Using the Starlogo environment, we also organized a series of experimental Starlogo courses. In this paper we present the way these courses were organized and some preliminary results of our experimental approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Framework to Enhance Adaptivity in Moodle",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-45153-4_53",
+            "Abstract": "The purpose of this paper is to present a framework that can be used to embed an adaptivity mechanism to Moodle so as to achieve better learning results. One of the main innovations is that a hybrid dynamic user model is adopted which is built with techniques that are based both on learner knowledge and behaviour. The proposed mechanism adapts the presentation and the recommended navigation within a course, to students\u2019 different preferences as they are expressed by their learning styles and their educational objectives.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "An alternating approach of teaching programming in the secondary school",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16052978310014463462&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:f2IySw72cVMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A results merging algorithm for distributed information retrieval environments that combines regression methodologies with a selective download phase",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306457308000022",
+            "Abstract": "The problem of results merging in distributed information retrieval environments has gained significant attention the last years. Two generic approaches have been introduced in research. The first approach aims at estimating the relevance of the documents returned from the remote collections through ad hoc methodologies (such as weighted score merging, regression etc.) while the other is based on downloading all the documents locally, completely or partially, in order to calculate their relevance. Both approaches have advantages and disadvantages. Download methodologies are more effective but they pose a significant overhead on the process in terms of time and bandwidth. Approaches that rely solely on estimation on the other hand, usually depend on document relevance scores being reported by the remote collections in order to achieve maximum performance. In addition to that, regression algorithms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Introducing secondary education students to algorithms and programming",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/article/10.1023/B:EAIT.0000027928.94039.7b",
+            "Abstract": "In Greece, the development of the teaching of Information Technology (IT) in schools has been greatly influenced by the rapid development of technology, making IT literacy a priority for all individuals. Consequently, the teaching of algorithms and programming, with the ulterior motive of teaching modeling as well as problem solving, has been greatly limited in Secondary Education. However, we strongly believe that algorithms and programming constitute an important intellectual tool and should be included in basic education. In any case, both the research literature findings, as well as, our own experience confirm the fact that novice programmers come up against many mental obstacles in their attempts to understand the functioning of programs or the construction of algorithms. In order to deal with these difficulties and successfully teach the elementary concepts of algorithms and programming, we have \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:hC7cP41nSMkC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "A comparison of two object-oriented programming environments for novices",
+            "Publication year": 2007,
+            "Publication url": "https://www.academia.edu/download/44125000/A_comparison_of_two_object-oriented_prog20160326-14843-1loj7u6.pdf",
+            "Abstract": "Teaching Object Oriented Programming (OOP) to novices is quite problematic. In order to overcome the difficulties various teaching approaches have been proposed. In this paper, we present our findings regarding two teaching approaches based on two different environments:(i) teaching with the Educational Programming Environment of BlueJ;(ii) teaching with the Programming Microworld of objectKarel. The presented results are based on students\u2019 answers to a questionnaire that was given to students at the last lesson of the two studies, and refer exclusively to the comprehension of the most basic concepts of OOP: objects and classes. The analysis of the results shows that the combined use of the two environments seems to constitute a better didactic strategy from just using one of the two environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Two-Year Evaluation of Distributed Pair Programming Assignments by Undergraduate Students",
+            "Publication year": 2021,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=qYkiEAAAQBAJ&oi=fnd&pg=PA35&dq=info:OlTTPiPPC0kJ:scholar.google.com&ots=CeTdn31gCk&sig=VX6R8WOux2htqBiQhXh4AvGCv1E",
+            "Abstract": "Pair Programming (PP), as an element of Extreme Programming, has a long history in the software industry. The many benefits of PP are also considered important in the teaching of programming. Collaboration, sharing of knowledge and skills, as well as easier error detection and correction, are some of the factors that assist pairs of students in implementing programs. More recently, specially designed educational programming environments have given rise to Distributed Pair Programming (DPP), where pairs of students apply PP remotely anywhere and at anytime. A number of plugins for Eclipse IDE were built to support DPP in Computer Science Education. Although they cover the basic requirements of DPP, they could not address drawbacks of PP, such as unequal contributions from each member of the student pair.Most of the research findings concern PP and a few studies investigated DPP. Studies in the field of DPP aimed to evaluate the effectiveness of DPP in student performance, DPP versus solo programming or DPP versus co-located PP (Duque and Bravo 2008; Hanks 2008) and other studies tested productivity and code quality between DPP and PP and concluded that virtual and co-located teams can produce comparable software. Researches on pair formation and pair compatibility in DPP are few.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:SdhP9T11ey4C",
+            "Publisher": "Springer International Publishing"
+        },
+        {
+            "Title": "How serious games in cultural heritage are being evaluated",
+            "Publication year": 2018,
+            "Publication url": "https://www.researchgate.net/profile/Christina-Tsita/publication/336835808_How_serious_games_in_cultural_heritage_are_being_evaluated/links/5db55d0d299bf111d4d04eb5/How-serious-games-in-cultural-heritage-are-being-evaluated.pdf",
+            "Abstract": "Serious Games (SGs) in the field of Cultural Heritage (CH) aim to enhance cultural awareness and facilitate learning of cultural content while at the same time entertaining. They are being used in latest years among other means in order to communicate tangible and intangible CH and support learning. There is strong evidence that cultural heritage serious games (CHSGs) can effectively facilitate the communication and understanding of cultural content, activate participant\u2019s interest and enhance their motivation for further exploration of cultural heritage. The aim of this study is to review how the CHSGs are being evaluated. The findings of the study are expected to be useful for the design, implementation and evaluation of future SGs in the field. The results of the study showed that more rigorous ways of assessment need to be used to collect data for knowledge acquisition and users\u2019 perception in both school and museum context.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "WIPE: a programming environment for novices",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1067445.1067479",
+            "Abstract": "This paper presents an overview of the design principles and the evaluation of a new programming environment, WIPE (Web Integrated Programming Environment), designed specifically to teach novices the fundamentals of programming. The environment is designed for use in secondary education as a first programming course, in order to help students become familiar with the main programming concepts.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A User-Centered Evaluation of a Web Based Patent Classification Tool.",
+            "Publication year": 2014,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.6645&rep=rep1&type=pdf",
+            "Abstract": "This paper presents a user-centered study of a web based system that can automatically suggest classification codes with the aim to assist patent examiners on the task of patent classification. The aim of the study is twofold. Firstly, we aim to obtain a better understanding of the search tactics patent examiners apply when they do classification search. Secondly, we examine the effect of searching at different levels of the classification scheme on classification search performance. For this user study, two conditions were tested. Both systems are web based. However, the two systems differ in their ability to allow patent examiners selecting the level from which the results will be returned. The results show that systems that allow searching at the level of subgroup are more effective for classification search.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Microworlds, games and collaboration: Three effective approaches to support novices in learning programming",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2801081.2801094",
+            "Abstract": "Specially designed programming environments have been used for decades to support the novice programmers learning programming. In this paper, we present various forms of Educational Technology that have guided the design of educational programming environments the last two decades. The design and aspirations of three distinct programming environments developed at the University of Macedonia are presented. These include a Programming Microworld, an Educational Game and a Distributed Pair Programming system. The potential benefits of the different features of the three environments are presented along with results from their evaluation. Conclusions are drawn regarding the technologies incorporated in these different programming environments. Specifically, emphasis is given on technologies and features that seem to be important for motivating and engaging students in learning programming \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:p2g8aNsByqUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "CMX: The effects of an educational MMORPG on learning and teaching computer programming",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7458859/",
+            "Abstract": "Computer programming has for decades posed several difficulties for students of all educational levels. A number of teaching approaches have been proposed over the years but none seems to fulfil the needs of students nowadays. Students use computers mainly for playing games and the Internet and as quite a few researchers state this aspect of computers should be taken into account in the way we educate them. Towards this direction, this paper aims to examine the effects of using an educational Massive Multiplayer Online Role Playing Game (MMORPG) on teaching and learning computer programming. The educational features of an MMORPG called CMX are presented along with a design framework that was devised taking into account previous work in designing educational games. The effects of CMX on teaching and learning computer programming are assessed through a study with first-year \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:WbkHhVStYXYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The interaction between ICT and Didactics=",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=11245211513987774782&hl=en&oi=scholarr",
+            "Abstract": "Nowadays, the integration of ICT in education is happening at all levels (from kindergarten to life long adult education) in many varied ways. It is logical thus to conclude that this continued integration of technology in education will embody both in such a way, so that the two co-exist. This interweaving has also instigated a vast amount of research in this field. Most research, however, often has as a focal point technology rather than teaching. We believe that technology should not be an end in itself but a medium; to be more exact, it is the didactic situations which must determine the use of technology and not vice versa. In this paper we support the view that the development of new environments and teaching tools, in order for them to contribute substantially to teaching, must undergo didactic analysis. We maintain that what is usually missing from the educational environments is not ICT but the didactic knowledge of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:bnK-pcrLprsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A serious game design and evaluation approach to enhance cultural heritage understanding",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-34350-7_42",
+            "Abstract": "One of the most promising means regarding the potential of supporting both, entertainment and learning, in cultural heritage sector are the Serious Games (SGs). During last decades, Cultural Heritage Serious Games (CHSGs) are being developed with the use of different technologies, in order to facilitate learning of cultural heritage via an entertaining manner. Although, there are evidences about CHSGs effects, there is the need of extracting more reliable results about their effectiveness, meaning the extent to which the initial intentions achieved their purpose. Regarding CHSGs, this purpose is twofold, which means the measurements are as much about entertainment as learning. Moreover, there is the need of increasing evidences on CHSGs\u2019 effectiveness regarding higher-cognitive processes in learning. The aim of the present paper is to describe a CHSG design and evaluation approach, which is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Report on the CLEF-IP 2013 Experiments: Multilayer Collection Selection on Topically Organized Patents.",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=10359112815128357259&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Student perceptions on the benefits and shortcomings of distributed pair programming assignments",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7943050/",
+            "Abstract": "Pair Programming (PP) has been extensively used for enhancing the learning of programming. Specifically, PP is considered to: make the learning of programming more pleasant, promote collaboration and communication between the members of pairs, encourage the sharing of knowledge and skills, and even improve code quality. More recently, systems have appeared that support Distributed Pair programming (DPP). DPP is considered to maintain all the benefits of PP and in addition to allow for the distributed collaboration of pairs from anywhere and at any time. However, DPP might impose limitations as well, such as the requirement from students to configure their systems and ensure a good Internet connection. In order to draw safer conclusions on the benefits and shortcomings of DPP and maximize its effects on the learning of programming, it is necessary to investigate its impact under real world situations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Simple adaptations of data fusion algorithms for source selection",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-00958-7_44",
+            "Abstract": "Source selection deals with the problem of selecting the most appropriate information sources from the set of, usually non-intersecting, available document collections. On the other hand, data fusion techniques (also known as metasearch techniques) deal with the problem of aggregating the results from multiple, usually completely or partly intersecting, document sources in order to provide a wider coverage and a more effective retrieval result. In this paper we study some simple adaptations to traditional data fusion algorithms for the task of source selection in uncooperative distributed information retrieval environments. The experiments demonstrate that the performance of data fusion techniques at source selection tasks is comparable with that of state-of-the-art source selection algorithms and they are often able to surpass them.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An environment for teaching object-oriented programming: ObjectKarel",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1215114/",
+            "Abstract": "We propose a new integrated programming environment, objectKarel, for teaching the object-oriented programming paradigm. Its main features are: a series of e-lessons, a special kind of structure editor, runtime error detection, program animation and recordability of students' actions. Finally, we describe the results of a pilot use of objectKarel to teach object-oriented programming to undergraduate students.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A system for program visualization and problem-solving path assessment of novice programmers",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/507758.377667",
+            "Abstract": "This paper describes an educational programming environment, called AnimPascal. AnimPascal is a program animator that incorporates the ability to record problem-solving paths followed by students. The aim of AnimPascal is to help students understand the phases of developing, verifying, debugging, and executing a program. Also, by recording the different versions of student programs, it can help teachers discover student conceptions about programming. In this paper we describe how our system works and present some empirical results concerning student conceptions when trying to solve a problem of algorithmic or programming nature. Finally, we present our plans for further extensions to our software.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Educational Mobile Applications on Computational Thinking and Programming for Children Under 8 Years Old",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-49932-7_50",
+            "Abstract": "Mobile technology has the ability to change the way education incorporates computers in the teaching process. Mobile devices have distinct features compared to computers, such as portability, touchscreen and a variety of sensors that makes them more suited for young children. Computational thinking is an essential skill in teaching children how to code but it is also a universal problem-solving technique. In this paper we present mobile applications as educational resources that teach young children under 8 years old how to code and advance their computational thinking abilities. We also study whether these applications have proven their educational effectiveness in the classroom based on related scientific research. Finally, we propose characteristics that should be incorporated in mobile applications in order to improve their educational value.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Modeling information sources as integrals for effective and efficient source selection",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S030645731000018X",
+            "Abstract": "In this paper, a new source selection algorithm for uncooperative distributed information retrieval environments is presented. The algorithm functions by modeling each information source as an integral, using the relevance score and the intra-collection position of its sampled documents in reference to a centralized sample index and selects the collections that cover the largest area in the rank-relevance space. Based on the above novel metric, the algorithm explicitly focuses on addressing the two goals of source selection; high-recall, which is important for source recommendation applications and high-precision which is important for distributed information retrieval, aiming to produce a high-precision final merged list.For the latter goal in particular, the new approach steps away from the usual practice of DIR systems of explicitly declaring the number of collections that must be queried and instead focuses solely on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Teaching fundamental notions of object oriented programming with objectKarel",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12824949848728032922&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:maZDTaKrznsC",
+            "Publisher": "WSEAS"
+        },
+        {
+            "Title": "Teaching java with BlueJ: a two-year experience",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1269900.1268914",
+            "Abstract": "In this paper we present our two-year experience on teaching Java with BlueJ on the context of a compulsory course at a Department of Technology Management. The course was taught for the first time in 2005-06 and was heavily based on the features of the programming environment BlueJ and on books/papers related to BlueJ [1]. In the context of the course 11 two-hour lectures and 11 two-hour labs were given.The 2nd time of teaching the course in 2006-07 some changes were made in order to face difficulties that were attributed to the underlying teaching approach and might not be characterized as intrinsic to OOP. The most important changes were:(i) the features of BlueJ were used more carefully, while the main method was taught much earlier in the course (4th lesson), so as to avoid specific difficulties related to object instantiation and the dynamic aspects of OOP;(ii) students started by making small \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:k_IJM867U9cC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "An introduction to object-oriented programming with a didactic microworld: objectKarel",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0360131504001447",
+            "Abstract": "The objects-first strategy to teaching programming has prevailed over the imperative-first and functional-first strategies during the last decade. However, the objects-first strategy has created added difficulties to both the teaching and learning of programming. In an attempt to confront these difficulties and support the objects-first strategy we developed a novel programming environment, objectKarel, which uses the language Karel++. The design of objectKarel was based on the results of the extended research that has been carried out about novice programmers. What differentiates it from analogous environments is the fact that it combines features that have been used solely in them: incorporated e-lessons and hands-on activities; an easy to use structure editor for developing/editing programs; program animation; explanatory visualization; highly informative and friendly error messages; recordability. In this paper, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "An adaptive mechanism for Moodle based on automatic detection of learning styles",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s10639-017-9663-5",
+            "Abstract": "This paper proposes an automatic approach that detects students\u2019 learning styles in order to provide adaptive courses in Moodle. This approach is based on students\u2019 responses to the ILS and the analysis of their interaction behavior within Moodle by applying a data mining technique. In conjunction to this, an adaptive mechanism that was implemented in Moodle is presented. This adaptive mechanism builds the user model based mainly on the proposed approach for automatic detection of learning styles in order to adapt the presentation and the proposed navigation to students\u2019 different learning styles and educational objectives. An evaluation study was conducted to evaluate the proposed approach for automatic detection of learning styles and the effect of the adaptive mechanism. Two groups of students were formed, namely the experimental and the control. The first had access to a Moodle course that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:LPZeul_q3PIC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Adaptivity in ProPer: an adaptive SCORM compliant LMS",
+            "Publication year": 2009,
+            "Publication url": "https://www.igi-global.com/article/adaptivity-proper-adaptive-scormcompliant/3913",
+            "Abstract": "Adaptive Educational Hypermedia Systems provide personalized educational content to learners. However most of them do not support the functionality of Learning Management Systems (LMS) and the reusability of their courses is hard work. On the other hand some LMS support SCORM specifications but do not provide adaptive features. This article presents ProPer, a LMS that conforms to SCORM specifications and provides adaptive hypermedia courses. ProPer manages and delivers SCORM compliant courses and personalizes them according to learner\u2019s knowledge, goals and personal characteristics. In addition learner\u2019s progress and behavior is monitored and useful feedback is returned to tutors. ProPer will be used for an adaptive Java Programming course distribution to CS1 students. Statistical feedback will be gathered by tutors in order to improve course effectiveness. The technology background is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "\u0391 Technique to Enhance Motivational Appeal of Moodle: Design and Evaluation",
+            "Publication year": 2016,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=6njqDQAAQBAJ&oi=fnd&pg=PA350&dq=info:-kO1YTrJL6sJ:scholar.google.com&ots=TU_z8X1KMy&sig=aOsFw2HJFSOSMw8d-K3Z6xwWdlQ",
+            "Abstract": "Motivation is a causal factor of learning. This article presents the design and implementation of a motivational technique that builds on the confidence and satisfaction dimensions of the ARCS (Attention, Relevance, Confidence and Satisfaction) motivational model. The proposed technique was embedded in Moodle so as to enhance its motivational appeal by depicting students\u2019 progress in a course. However, it can be easily integrated into any other learning system as long as it is able to track a learner\u2019s actions within it. In order to calculate knowledge progress, the use of two different measures is proposed: the Time-based Progress Calculation (TPC) and the Grade-based Progress Calculation (GPC). An evaluation study of a Moodle course was conducted in the context of an introductory programming course in order to examine the effectiveness of the proposed technique and students\u2019 feedback on it. Three groups were randomly formed. The first two groups had access to a different version of the course in Moodle, while the third had access only to the course\u2019s webpage. The study was conducted over the first six weeks of the course, up to the mid-term exam. On completion of the respective course sections but prior to the mid-term exam, the students of the first two groups had to answer a questionnaire evaluating the attended course. The questionnaire consisted of five-point Likert type questions and was divided into two subcategories: system usability and motivational appeal. The aim of our analysis was to investigate whether our motivational technique was able to stimulate students to study more, increase their motivation, and help them to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Web-based authoring tool for scripting distributed pair programming",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901453/",
+            "Abstract": "SCEPPSys is a distributed pair programming system especially designed to support the application of pair programming in computer science courses. Compared to other implementations, SCEPPSys enables students to solve programming assignments guided by collaboration scripts. This approach exploits the benefits of collaborative learning in pair programming, and aims to maximize learning outcomes by structuring the problem-solving process. The system consists of a shared programming environment, which runs as a part of the Eclipse IDE, and a web-based administration environment. The main focus of this paper is to present an overview of the system and a detailed description of the features of the administration section, which contains an authoring tool for collaboration scripts and instructional support tools. The incorporation of various group formation strategies and the analysis of students' interactions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Conceptual factors for the design of serious games",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-11548-7_22",
+            "Abstract": " Serious Games (SGs) are widely used in a variety of fields, because they have been shown to effectively facilitate learning in an engaging and entertaining manner. In recent years, there is discussion on how valid evidence of SGs efficiency can be increased, in order to further promote their use. Thus, numerous SG design and evaluation frameworks have been introduced, many of which have proved useful for SGs developing teams. Despite this, however, for novice designers, this vast array can be daunting. The aim of the present paper is to combine well-known frameworks and extract the conceptual factors that need to be considered when designing an SG. Having in mind that the proposed aspects are not in their essence independent, a classification of these aspects is presented, along with suggestions regarding their use and the dependencies among them. Although the various frameworks might \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Teaching introductory programming concepts with lego MindStorms in greek high schools: a two-year experience",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=8AmhDwAAQBAJ&oi=fnd&pg=PA343&dq=info:xtxtAmo6s-AJ:scholar.google.com&ots=ZmxNELMEB7&sig=trvIYkB-M0qDE_xVNMsvI-eG10o",
+            "Abstract": "Even today, teaching the basic principles of programming still presents numerous difficulties for students, which in the last several decades have comprised the subject of extensive research (Mayer, 1989; Mendelsohn et al., 1990; Du Boulay, 1989; Du Boulay et al. 1989; Brusilovsky et al., 1994). On the one hand attempts have been made to investigate the factors that render the learning of programming principles difficult, and on the other, to examine the effectiveness of programming languages and integrated environments, as well as the actual methods applied to the teaching of programming. The difficulties, according to (Du Boulay, 1989; Du Boulay et al. 1989) fall into one of the following categories:1. Orientation: what programming is; the types of problems that can be solved; the positive effects of learning programming. 2. Notional machine: difficulties in understanding the general properties of the \u201cmachine\u201d which the student learns to control and its relation to the physical machine. 3. Rules of the programming language (notation): syntax and semantics as an extension of the properties and behaviour of the notional machine. 4. Learning the established structures. 5. Pragmatics: acquiring the ability to determine, develop, control and debug a program with the available tools.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "BoD\u2013Books on Demand"
+        },
+        {
+            "Title": "Introducing novices to programming: a review of teaching approaches and educational tools",
+            "Publication year": 2004,
+            "Publication url": "https://www.academia.edu/download/44125012/Introducing_Novices_to_Programming_a_rev20160326-26058-1tfvkcj.pdf",
+            "Abstract": "Learning programming poses students with many difficulties. The extensive research that has been carried out in the last decades regarding novice programmers has shown that an important factor of these difficulties is the teaching approach used. This approach, know as the classic approach, is based on a general purpose programming language, a professional programming environment and a set of problems from the area of number and symbol processing. In this paper, we present the difficulties encountered by students when they are taught programming with the classic approach. The difficulties presented are general and are not related to the programming paradigm (procedural or object-oriented). Next we review the various approaches to teaching programming to novices and the educational tools that have been developed in their context.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:nb7KW1ujOQ8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptivity in a SCORM compliant adaptive educational hypermedia system",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-78139-4_18",
+            "Abstract": "This paper presents a Learning Management System (LMS) that provides adaptive hypermedia courses adopting SCORM standard and its specifications. Its main aim is to manage and deliver SCORM compliant courses, adapt those courses accordingly to the learner knowledge and individual characteristics and monitor user\u2019s progress and course effectiveness providing feedback to the tutors. It is going to be used for the distribution of an adaptive Java programming course which will provide useful statistical feedback to the tutors. The focus of the paper is on the system\u2019s architecture and in adaptation technologies that were used.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Teaching programming with robots: a case study on greek secondary education",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11573036_47",
+            "Abstract": "The teaching of programming in the Greek education system begins at the secondary level. The aims of the programming syllabus include the attainment of knowledge and skills, which are related to problem solving and the design of algorithms. In order to acquire the students knowledge and skills, the usual approach that is followed is: the use of a programming language of general aim (Pascal, Basic, etc), the use of a professional environment for this programming language, the development of programs that solve problems which treat numbers and symbols. According to researches that have been realized, this approach of teaching programming to beginners constitutes important factor that complicates its learning. In this work we propose a framework of teaching the programming fundamentals to beginners that is based on using LEGO Mindstorms technology. This paper analyzes the results from a pilot \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Designing Educational Games for Computer Programming: A Holistic Framework.",
+            "Publication year": 2014,
+            "Publication url": "https://eric.ed.gov/?id=EJ1035677",
+            "Abstract": "Computer science is continuously evolving during the past decades. This has also brought forth new knowledge that should be incorporated and new learning strategies must be adopted for the successful teaching of all sub-domains. For example, computer programming is a vital knowledge area within computer science with constantly changing curriculum and its teaching remains a difficult endeavour. On the other hand, students start from a very early age to interact with computers through games and other entertaining multimedia software. Therefore, they seem to be keen on environments with impressive special effects and graphical interfaces where they interact with the environment\u2019s elements. In response, teachers are trying to connect computer programming learning with computer operations that students are familiar with, which does not include textual editors for programming lines of code with no other interaction. Educational games used in computer programming courses are considered to benefit learning, because they motivate students towards actively participating and interacting with the game\u2019s activities. Thus, we have developed an educational multiplayer game that aims to further enhance computer programming education by addressing occurring problems. This process, however, requires proper planning during the design of educational games, and thus the availability of adequate guidelines that include all characteristics that should be incorporated in such games. This paper aims to introduce and elaborate on a holistic framework that has been constructed as a guide towards the development of this game. To this end, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Academic Conferences Limited. Curtis Farm, Kidmore End, Nr Reading, RG4 9AY, UK"
+        },
+        {
+            "Title": "Review on serious games for people with intellectual disabilities and autism",
+            "Publication year": 2016,
+            "Publication url": "https://ruomo.lib.uom.gr/handle/7000/488",
+            "Abstract": "People with Intellectual Disabilities (ID) are those who have low intellectual abilities and limitations in behavioural and social functioning. ID can be observed in a very early stage in their lives, while every person with ID has individual characteristics. Autism Spectrum Disorder (ASD) is a mental disorder that causes issues in social, communicational and emotional behaviour. Many people with ASD have high intellectual abilities, whereas there are others with cognitive disabilities. Therapists have identified several intervention methods to provide aid and teach people with ID and ASD several skills. The traditional methods include special educational programmes, individual or team sessions with therapists and team bonding activities. However, the technological advancements have allowed therapists, organizations and researchers invent new intervention methods. Such methods include software solutions and Serious Games (SGs). In this study, the state-of-the-art in SGs that have already been developed is explored. The findings are categorized based on the limitations they try toaddress that fall into two categories, namely intellectual functioning and adaptive behaviour. SGs falling in the adaptive behavior category are classified according to the categories of skills they aim to promote, namely conceptual, socialand practical skills. Finally, the SGs presented are classified according to the specific  skills (i.e. language and literacy, daily living) they aim to improve. SGs are comparatively analysed taking into account their target group, specific purpose, type/platform and evaluation results. Based on this analysis conclusions are drawn that can assist \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Voice Assistants and Smart Speakers in Everyday Life and in Education",
+            "Publication year": 2020,
+            "Publication url": "https://www.ceeol.com/search/article-detail?id=896140",
+            "Abstract": "In recent years, Artificial Intelligence (AI) has shown significant progress and its potential is growing. An application area of AI is Natural Language Processing (NLP). Voice assistants incorporate AI by using cloud computing and can communicate with the users in natural language. Voice assistants are easy to use and thus there are millions of devices that incorporates them in households nowadays. Most common devices with voice assistants are smart speakers and they have just started to be used in schools and universities. The purpose of this paper is to study how voice assistants and smart speakers are used in everyday life and whether there is potential in order for them to be used for educational purposes.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "Vilnius University Institute of Data Science and Digital Technologies"
+        },
+        {
+            "Title": "Towards a new massive multiplayer online role playing game for introductory programming",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2490257.2490284",
+            "Abstract": "Successful computer programming education is facing significant problems even nowadays for both students and teachers. To this end, the specificities of those difficulties and the corresponding causes continue to be an ongoing topic of research. According to relevant case studies, these relate to the complex concepts of computer programming as well as the lack of motivation by students to achieve the given goals. On the other hand, the emerging field of Games Based Learning is gradually delivering games that are applied in a series of educational contexts. In this paper, we aim to initially investigate the educational games developed for and used in the computer programming domain and review to which level they address the aforementioned difficulties. Related work includes a number of games that have been developed towards this goal. However, even though they seem promising examples, they lack \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:a0OBvERweLwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Heuristic Algorithm for Handling Multiple Responses",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1009631612046",
+            "Abstract": "Consider the graph G = (V, E) with node set V, edge set E. The subsets D, R \u2282 V denote the sets of demand and candidate response nodes respectively. A demand i \u2208 D that requires li response units is said to be covered, when the j'th response unit to it is within the distance \u03b4jl, j = 1, 2, ... , li. The objective under these assumptions is to determine i) the minimum number of response units that cover all the demands, ii) the location of a known number of response units in order to maximize the coverage. We develop a heuristic algorithm that finds a near-optimal solution for the problems described above. Finally a computational and comparative experience is presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Designing a Serious Game for Independent Living Skills in Special Education",
+            "Publication year": 2019,
+            "Publication url": "https://search.proquest.com/openview/33c5f0742fa6af7367c56a70d2a18c94/1?pq-origsite=gscholar&cbl=396495",
+            "Abstract": "The transition from school life to independent living is an important and demanding step for every person. People with Intellectual Disability (ID) and people with Autism Spectrum Disorder (ASD) face more difficulties in this transition due to their limitations in daily living skills. Serious Games (SGs) are considered as a promising tool that can support the acquisition of such skills. The aim of this paper is to present the design of a new set of mini games that aim to support people with ID and ASD in acquiring skills for independent living, such as self-care, transportation and safety. Participatory design is considered important for designing serious games for the specific target group and in this sense it is our aim to incorporate anyone interested in the design process of the new game. The skills that we will try to incorporate in the game are examined in the context of the existing literature, a survey with special education \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:AXPGKjj_ei8C",
+            "Publisher": "Academic Conferences International Limited"
+        },
+        {
+            "Title": "A framework for automatic construction of reusable adaptive courses: the case of ProPer SAT 2.0",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-30171-1_9",
+            "Abstract": "This chapter puts forward a proposal for a framework that enables the automatic construction of adaptive and reusable courses. The case study of the implementation of an adaptive Learning Management System (LMS) and an authoring tool, named ProPer and ProPer Sharable Content Object Reference Model (SCORM) Authoring Tool (SAT) 2.0 are presented. ProPer delivers SCORM compliant courses and ProPer SAT 2.0 helps authors to construct SCORM courses quickly that can be automatically adapted to user learning style. Additionally, ProPer SAT 2.0 incorporates intelligent functionalities since it has the ability to propose that appropriate content be inserted into a course, according to the domain, difficulty level and user ranking of the proposed content. Evaluation results have shown that end-users find it easy and useful and intend using it in the future.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:blknAaTinKkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Proceedings of the 8th annual Conference on Innovation and Technology in Computer Science Education",
+            "Publication year": 2003,
+            "Publication url": "https://catalog.lib.kyushu-u.ac.jp/ja/recordID/3553595/",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:WqliGbK-hY8C",
+            "Publisher": "Acm"
+        },
+        {
+            "Title": "USER PROGRESS FEEDBACK IN AN ADAPTIVE ELEARNING ENVIRONMENT",
+            "Publication year": 2009,
+            "Publication url": "http://www.iadisportal.org/digital-library/user-progress-feedback-in-an-adaptive-elearning-environment",
+            "Abstract": "Paper Abstract: This paper briefly presents how ProPer, an adaptive SCORM compliant Learning Management System, provides feedback so as to both motivate students to continue with their study and help instructors find potential courses and users weaknesses.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Comparative Study of Augmented Reality Platforms for Building Educational Mobile Applications",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-49932-7_30",
+            "Abstract": "Teachers and educators are always trying to find new ways to use the available technology around them to impart knowledge to their students. This includes exposing them to activities that engage them in learning through innovative ways. Augmented Reality (AR) is a technology that is starting to affect the conventional learning process since it has many potential uses and capabilities to introduce new ways and methods. AR technology may make classes more engaging and information more easily conceivable. Nowadays most young people own smartphones and use them in order to access social platforms, play games and connect with friends and their family. Thus, the combination of smartphones and AR for education is promising and still has to be fully discovered. This study aims to categorize the plethora of platforms available for building mobile AR applications and experiences, based on their distinct \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Using serious games for promoting blended learning for people with intellectual disabilities and autism: Literature vs reality",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-75175-7_55",
+            "Abstract": "Educating people with intellectual disabilities (ID) or autism spectrum disorder (ASD) is a non-trivial process and differs from the learning methods of typically developed people. Recently, serious games (SGs) have been used to enhance the learning process of these groups and address different skills. On the other hand, blended learning (BL) is applied to formal and informal educational contexts and combines face-to-face and online learning. In this study, we examine if SGs can provide the necessary means for applying BL, especially for people with ID or ASD that could be benefited by personalized learning opportunities. In addition, we examine 43 existing SGs for people with ID or ASD, as well as the perceptions of 93 special education professionals (SEP) and teachers (SET) working in schools and institutions for people with ID or ASD regarding the role of technology and SGs in their education. We \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:D_sINldO8mEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Heuristic Algorithms for Graph Set Coloring Problem",
+            "Publication year": 2006,
+            "Publication url": "https://ijpam.eu/contents/2006-27-4/4/4.pdf",
+            "Abstract": "In this paper we develop four heuristic algorithms for the set coloring problem. The first two algorithms are greedy algorithms and the other two use an extended version of Dsatur algorithm suitably adapted to solve the set coloring problem. The empirical results on random instances show that these algorithms give encouraging results.AMS Subject Classification: 05C15, 05C85, 68R100",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Academic Publications"
+        },
+        {
+            "Title": "Studying students\u2019 difficulties in an OOP course based on BlueJ",
+            "Publication year": 2006,
+            "Publication url": "https://www.researchgate.net/profile/Maya-Satratzemi/publication/27383898_Studing_Students%27_Difficulties_in_an_OOP_Course_based_on_BlueJ/links/5a13f32ba6fdcc717b56ae72/Studing-Students-Difficulties-in-an-OOP-Course-based-on-BlueJ.pdf",
+            "Abstract": "This paper attempts to study students\u2019 difficulties when they are introduced to OOP with the teaching proposal of K\u00f6lling & Barnes, that is teaching OOP with the help of BlueJ and the lessons proposed in their book\" Objects First with Java: A practical introduction using BlueJ\". The extensive presentation of difficulties aims at assisting teachers in designing and implementing didactic situations for a more effective use of the BlueJ environment and the proposed lessons.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "X-compiler: Yet another integrated novice programming environment",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/943890/",
+            "Abstract": "The paper presents a simple programming language, called X, and an educational programming environment, called X-Compiler, designed to introduce students to programming. X-Compiler can be used to edit, compile, debug and run programs written in X, a subset of Pascal. X-Compiler could be didactically interesting because of the following features: (a) users can watch the intermediate steps of the execution of a program: source code compilation, correspondence of source and pseudo-assembly code during execution, register content, and intermediate values of user and temporary system variables; also, they can edit the produced pseudo-assembly code and re-execute it, (b) there are many detailed and explanatory messages that can guide novice programmers when debugging their programs and, in general, help them write better programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Comparing LMS and AEHS: challenges for improvement with exploitation of data mining",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901400/",
+            "Abstract": "E-learning systems can be divided in two categories according to the personalization level they offer. LMS and AEHS are representative systems of the above categories. LMS have more capabilities than AEHS but, on the other hand, AEHS consider student's differences and offer personalized learning to achieve better results. Our research findings led us to embed adaptivity techniques in Moodle, with adoption of a hybrid dynamic user model, which is built with techniques that are based both upon knowledge and behaviour of learner.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:NhqRSupF_l8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enhancing Adaptivity and Intelligent Tutoring in Distributed Pair Programming Systems to Support Novice Programmers.",
+            "Publication year": 2011,
+            "Publication url": "https://www.scitepress.org/Papers/2011/34696/34696.pdf",
+            "Abstract": "Pair programming is a computer programming technique where two programmers share one computer for software development. When applied in an educational context, pair programming has been reported as an effective teaching method, mainly improving student satisfaction, retention rates and program quality. Several systems have been developed to cover the need for pair programming over distance. We present the features of such systems including their advantages and weaknesses, and we examine if these systems eliminate known issues of pair programming, such as unequal participation. Finally, considering the limitations of current systems of distributed pair programming and taking into account common difficulties encountered by novice programmers, we propose adaptation strategies for supporting student collaboration in a distributed pair programming environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:dshw04ExmUIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Implementation of an adaptive mechanism in Moodle based on a hybrid Dynamic User Model",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-11932-4_36",
+            "Abstract": "Learning styles summarizes the concept that individuals have different learning preferences and they learn better when they receive information in their preferred way. Even though learning styles have been subjected to some criticism, they can play an important role in adaptive e-learning systems. In order to overcome the drawbacks of the traditional detection method, educational data mining techniques have been implemented in these systems for the automatic detection of students\u2019 learning styles. The purpose of this paper is to present the implementation of an adaptive mechanism in Moodle. The proposed mechanism is based on a hybrid dynamic user model that is built with techniques that are based both on learner knowledge and behavior. An evaluation study was conducted in order to examine the effectiveness of the proposed mechanism. The results were encouraging since they indicated that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:J-pR_7NvFogC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A comparison of centralized and distributed information retrieval approaches",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4621531/",
+            "Abstract": "Distributed Information Retrieval (DIR) has been suggested to offer a prospective solution to a number of issues concerning information retrieval in the WWW. On the other hand, previous studies have indicated that centralized approaches offer the best solution for optimal quality of result (i.e. effectiveness). In this paper, we revisit those claims and investigate if and under which conditions can DIR offer a new paradigm for both efficient and effective information retrieval.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using hands-on activities for motivating students with OOP concepts before they are asked to implement them.",
+            "Publication year": 2005,
+            "Publication url": "https://www.academia.edu/download/50769993/Using_Hands-on_Activities_for_Motivating20161207-14681-xib46v.pdf",
+            "Abstract": "Teaching Object Oriented Programming (OOP) to novices is problematic. One of the most important instructional problems that are related to OOP is the fact that the object-oriented technique for the development of programs is difficult for students, since it is more abstract than the technique for structured programming and more exacting in the processes of analysis and design. Furthermore, students are not\u2013usually-motivated through the use of concepts before they are asked to consider their implementation. What is needed, in order to alleviate the problem, is to design hands-on activities for motivating students with OOP concepts before they are asked to use these concepts for implementing programs. In this paper we make some suggestions for designing hands-on activities. These suggestions are based on our experience from using the hands-on activities of the didactic microworld objectKarel [1].",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Results merging algorithm using multiple regression models",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-71496-5_18",
+            "Abstract": "This paper describes a new algorithm for merging the results of remote collections in a distributed information retrieval environment. The algorithm makes use only of the ranks of the returned documents, thus making it very efficient in environments where the remote collections provide the minimum of cooperation. Assuming that the correlation between the ranks and the relevancy scores can be expressed through a logistic function and using sampled documents from the remote collections the algorithm assigns local scores to the returned ranked documents. Subsequently, using a centralized sample collection and through linear regression, it assigns global scores, thus producing a final merged document list for the user. The algorithm\u2019s effectiveness is measured against two state-of-the-art results merging algorithms and its performance is found to be superior to them in environments where the remote \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A Proposal for an Educational Game Platform for Teaching Programming to Primary School Students",
+            "Publication year": 2020,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-73988-1_38",
+            "Abstract": "Programming is considered by many a core skill of the 21st century. Learning the fundamentals of coding or programming encourages children to acquire new skills, such as problem solving, logical thinking, critical thinking, and Computational Thinking (CT), and moreover to be active creators of tomorrow. There are various platforms for learning coding and programming, and in particular game-based ones, which, through the gamification process, focus on increasing learners\u2019 motivation and engagement. Most existing games are nowadays distributed through web platforms or mobile applications. Most suffer from major drawbacks, which make them difficult to use in a classroom environment, and there lack of an administrative platform does not allow the educator to assign tasks to students when at home. This paper proposes the design of an educational platform for teaching programming to primary school \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:5awf1xo2G04C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "An Objects-First Approach to Teaching Object Orientation based on objectKarel",
+            "Publication year": 2007,
+            "Publication url": "https://www.academia.edu/download/44125002/An_Objects-First_Approach_to_Teaching_Ob20160326-21011-12u8x3i.pdf",
+            "Abstract": "In the last decade the departments of Information Technology have adopted the Object Oriented Programming (OOP) paradigm for introductory programming courses. In this paper we present the problems encountered when OOP is taught to novices and how the microworld objectKarel that we developed helps in dealing with these problems. The main part of the paper has been devoted to providing a description of a proposal for teaching the fundamental notions of OOP with the help of objectKarel and some preliminary results from its evaluation.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Enhancing adaptivity in moodle: framework and evaluation study",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-319-50340-0_52.pdf",
+            "Abstract": " The purpose of this paper is to present a framework that can be used to embed an adaptivity mechanism to Moodle so as to achieve better learning results. This mechanism adapts the presentation and the proposed navigation within a course, to students\u2019 different learning preferences as they are expressed by their leaning styles and their educational objectives. An evaluation study was conducted in the context of an introductory programming course in order to examine the effectiveness of the proposed mechanism and students\u2019 feedback on it. Two groups of students were formed, namely the experimental and the control group. The first had access to a Moodle course that exploited the adaptivity mechanism, whereas the second had access to the standard version of a Moodle course. The results were encouraging since they indicated that our extension affected students\u2019 motivation and performance while \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "training teachers in the didactic uses of ICT: more than fluency is needed",
+            "Publication year": 2004,
+            "Publication url": "https://www.learntechlib.org/p/13038/",
+            "Abstract": "The penetration of Information and Communications Technology (ICT) in the education system constitutes a worldwide phenomenon, as almost all countries have redesigned or amended their educational policy in order to integrate ICT. This integration is both a long-term and complex process. The main factor for the successful integration of ICT in education is the teacher themselves. Obviously, before a teacher can take on their new duties which ICT demand, they need to be trained. The central question which concerns us here is the role of computing as an subject in teacher training. More specifically, we wish to investigate questions such as: how good a computer user must a teacher be? Should the teacher have knowledge of programming in order to use ICT effectively in teaching? Does a teacher need to have technical knowledge?",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Association for the Advancement of Computing in Education (AACE)"
+        },
+        {
+            "Title": "Integrating learning analytics in an educational MMORPG for computer programming",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6901446/",
+            "Abstract": "The educational landscape continues to transform significantly in a way that it engages students' interest and improves learning processes. Such an example is the gradual use of educational games, which seem to be an exceptional means to motivate and engage students in ways that will make learning more challenging and interesting for them. However, although educational games are a very interesting tool that could be used in education, an interesting challenge that should be addressed is the identification of all the ways students' progress and results can be measured for examination. This way, there is a high demand for accountability regarding the measurement and analysis of enriched game based learning activities or game-based learning analytics (GBLA). This demand is especially highlighted in one of the most difficult areas of Computer Science, which is computer programming education. In this \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:abG-DnoFyZgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Applying learning styles to SCORM compliant courses",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5194188/",
+            "Abstract": "This paper proposes a general framework to develop SCORM compliant courses that provide adaptation according to user learning style. The SCORM standard as well as some of the most popular learning style models and adaptive systems that implement them are briefly presented. The general framework is introduced and a case study with some evaluation outcomes is discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Examining student performance and attitudes on distributed pair programming",
+            "Publication year": 2018,
+            "Publication url": "https://www.hindawi.com/journals/sp/2018/6523538/",
+            "Abstract": "Pair programming (PP) has become popular in the research and software industry as well as being studied for a number of years in computer science courses with positive findings on student performance and attitudes. Advantages of PP reported in the literature are satisfaction, design quality, code productivity, team building, and communication. More recently, distributed pair programming (DPP), which enables two programmers to work remotely, has also attracted the interest of researchers and instructors. The difference between DPP and PP is that the former allows geographically distributed teams to collaborate and share program code. Such collaboration is, thus, only feasible if an underlying infrastructure supports all necessary interactions. The integrated development environments (IDEs) for DPP should cover the basic requirements for remote software development as well as address common PP problems, such as unequal contributions from each member of a pair, feedback during DPP sessions, and communication problems. This paper presents the findings of a study on student performance and attitudes towards DPP in an object-oriented programming (OOP) course. The factors examined were student performance, in terms of assignment grade, exam grade and implementation time in relation to students\u2019 programming experience, and confidence, as well as student attitudes towards DPP, i.e., the feelgood factor, working alone or with a partner, and the perception of their partner\u2019s technical competence. The results suggest that a students\u2019 performance is associated with their programming experience and confidence in programming \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Evaluating the effects of scripted distributed pair programming on student performance and participation",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7089313/",
+            "Abstract": "The results presented in this paper contribute to research on two different areas of teaching methods: distributed pair programming (DPP) and computer-supported collaborative learning (CSCL). An evaluation study of a DPP system that supports collaboration scripts was conducted over one semester of a computer science course. Seventy-four students participated in the study and used the DPP model to solve programming assignments in pairs, rather than individually. Students were divided into two cohorts in order to examine how best to distribute programming tasks to students, to maximize learning outcomes. The results suggest that while the use of DPP improves pass rates and gets positive feedback from students, the use of collaboration scripts yields equal task contributions from each of the student pair. For a small number of students, overall performance was improved by the adaptive assignment of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:UxriW0iASnsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Exploring the effects of collaboration scripts embedded in a distributed pair programming system",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2462476.2462500",
+            "Abstract": "Collaboration scripts provide an integrated framework aimed to foster fruitful collaboration in collaborative learning settings. Since pair programming is also a form of collaborative learning, we explored whether collaboration scripts can improve collaboration in distributed pair programming. For this purpose, we incorporated collaboration scripts in an existing distributed pair programming system. We conducted a pilot study to evaluate the new system by a group of students. Our goal was to examine students' perceptions of computer mediated scripted collaboration and furthermore to evaluate the effectiveness of adaptive role switching in students' participation. The study showed that students' attitude toward distributed pair programming and scripted collaboration was quite positive, however they prefer to distribute tasks by themselves which led half of them not to follow system's suggestions for role distribution.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:yD5IFk8b50cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Proceedings of the 5th Annual SIGCSE SIGCUE Conference on Innovation and Technology in Computer Science Education: July 11-July 13, 2000, Helsinki, Finland; Dublin City University, Ireland, 17th-21st August 1998",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14141990449895929016&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Assoc. for Computing Machinery"
+        },
+        {
+            "Title": "An integrated programming environment for teaching the object-oriented programming paradigm",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36087-5_64",
+            "Abstract": "In this paper we propose a new integrated programming environment for teaching the object-oriented programming paradigm. The environment is based on the microworld approach to teaching programming and the programming language of Karel++. Its main features are: a series of e-lessons, a special kind of structure editor, run-time error detection, program animation and recordability of students\u2019 actions. In this paper we present the programming environment, the results and our own experiences in using the integrated programming environment to teach object-oriented programming to undergraduate students.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:TQgYirikUcIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Towards the constructive incorporation of serious games within object oriented programming",
+            "Publication year": 2012,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=L5B9MJjHXQYC&oi=fnd&pg=PA301&dq=info:BFK7DiH26N0J:scholar.google.com&ots=mJxickv5kx&sig=EAAY_FjOamz3c8PgRM3uqOAOYQk",
+            "Abstract": "Object oriented programming (OOP) is a complex domain in the education field and requires proper technological underpinning for the facilitation of the process. However, the vast variety of available programming environments makes the selection of the most efficient technology that will cover students\u2019 needs and will lead to the teachers\u2019 desired learning outcomes a significant challenge. These technologies, such as Educational Programming Environments and Programming Microworlds, are often applied on OOP courses in order to underpin the process and help students develop internal incentives, thus foster the feeling of challenge, curiosity, active control and imagination. However, students of the 21st century are growing up in a fully digital world and therefore learn and react accordingly. Alongside the growth of the Internet, high speed access and virtual communities have contributed to a new trend development called online gaming. Therefore, computer games can be considered an appropriate means to deliver knowledge to students of most courses and increase their motivation to learn. A term that is often used when referring to computer games incorporated in the learning experience is \u201cserious games\u201d, and they can involve one or multiple players. Serious games have a higher learning value when they are used in courses that consider critical thinking, group work and decision making as essential to be developed. Therefore, it is the paper\u2019s initial intent to examine representative examples of commonly used technologies in OOP education and to derive their most prominent features that support students\u2019 successful learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluating Teachers\u2019 Perceptions of Learning Design Recommender Systems",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-29736-7_8",
+            "Abstract": " Nowadays, researchers in the field of Learning Design are investigating ways to assist teachers in realizing their role as Learning Designers in the context of online and blended learning. This is a major quest for the field researchers due to the fact that it can affect the broader adoption of the Learning Design practices by teachers, with resulting improvements on the quality of teaching and learning outcomes. In this context, this paper investigates teacher-perceived experience and acceptance of a Recommender System (RS) that supports teachers in the designing process, by providing them with Learning Design recommendations. To this end, we conducted a user-centric evaluation experiment, which involved 50 teachers and was based on the ResQue model. According to the results, an RS which proposes existing Learning Designs is a highly accepted technology by teachers. Additionally, teachers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:olpn-zPbct0C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Teaching OOP with BlueJ: A case study",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1652599/",
+            "Abstract": "In this paper we present our findings on teaching OOP with BlueJ in the context of a one-semester programming course. We organize our findings, i.e., the difficulties, the errors, and the misconceptions that students encounter, in two categories: (a) difficulties attributed to the special characteristics of OOP, and, (b) difficulties that may be attributed to the features of the programming environment",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Analysis of Students' Navigational Behaviour in a Moodle Course",
+            "Publication year": 2018,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=Jox5DwAAQBAJ&oi=fnd&pg=PA226&dq=info:5T8137KP3H0J:scholar.google.com&ots=hc6h9mAUU2&sig=gClRSZPdD1Rih93WlchhaF-O9cM",
+            "Abstract": "Learning Management Systems (LMS) are widely used by educational institutions all over the world to fulfil educational objectives and to achieve better learning results. LMS offer various sets of tools to support teachers in creating, administering and managing online courses. Although in the literature there are many references to the significance of learning styles and their impact on the learning process, a major drawback of LMS is that they do not consider a student\u2019s learning style and deliver the same set of educational resources to all students. Recently, there has been growing interest in enhancing adaptivity in LMS. This article investigates students\u2019 navigational behaviour in an online Moodle course to reveal whether students with different learning styles act differently in such a course. An evaluation study of a Moodle course was conducted in the context of an introductory programming course in order to investigate students\u2019 behaviour with respect to the Felder-Silverman learning style model. Students were asked to answer ILS questionnaire right after their first login to the course in order to obtain information regarding their learning style preferences. Seven different types of learning objects were used, namely outlines, content objects, videos, solved exercises, quizzes, open-ended questions, and conclusions. For each one of the aforementioned types the total time that a student studies it and the number of visits to it were calculated and analysed. The study was conducted over the first six weeks of the course. On completion of the respective course sections, students had to answer seven five-point Likert type questions evaluating the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimization of server performance in the CMX educational MMORPG for Computer Programming",
+            "Publication year": 2014,
+            "Publication url": "http://www.doiserbia.nb.rs/Article.aspx?id=1820-02141400078M",
+            "Abstract": "A new generation of computer games has taken over during the last few years,    called Massive Multiplayer Online Role Playing Games (MMORPG). In parallel,    the usage of games in education has increased, exploiting the fact that young    people are familiarized with them and would be more motivated to learn while    entertained. However, MMORPG require significant amounts of resources, such    as bandwidth, RAM and CPU capacity to support learning. In this paper, we    propose a new methodology to achieve monitoring and optimization of the load    balancing, so that the essential resources for the proper execution of an    educational MMORPG for computer programming can be foreseen and bestowed    without overloading the system. Moreover, we present an educational MMORPG    called CMX, which aims to teach computer programming through interactive    activities and role-playing. We finally apply the proposed model to CMX by    conducting an experiment and conclude that the server\u2019s performance is indeed    increased.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The hands-on activities of the programming microworld objectKarel",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1151954.1067586",
+            "Abstract": "Keywords object-oriented programming, programming microworld, handson activities. objectKarel is a didactic microworld for introducing novices to object oriented programming (OOP). objectKarel uses a subset of the Karel++ programming language and its pedagogical features are:(i) a structure editor for avoiding common syntax and semantic errors;(ii) an animation and visualization system that incorporates the ability of step by step execution and explanatory visualization, which means that students are presented with explanatory messages in natural language for the current statement;(iii) a series of e-lessons. These lessons contain brief and concise theory and hands-on activities for motivating students with OOP concepts before they are asked to use them for implementing programs. This demonstration focuses on presenting the hands-on activities of objectKarel, which play an important role in the teaching \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Towards the integration of adaptive educational systems with SCORM standard and authoring toolkits",
+            "Publication year": 2009,
+            "Publication url": "https://www.academia.edu/download/46207022/Towards_the_Integration_of_Adaptive_Educ20160603-24675-ujjcwy.pdf",
+            "Abstract": "Web courses and hypermedia systems deliver knowledge to a wide number of users with different characteristics, preferences and knowledge of the domain, irrespective of where they live, their age or their study credentials. However, these systems do appear to have some quite major problems which have been identified and documented through research studies and have differentiated into three distinct categories. The first deals with problems related to disorientation, cognitive overload, discontinuous flow (Murray et al., 2000), content readiness and distraction. The main solution that research proposes is the use of adaptive and/or interactive systems. The second category of problems is those that arise from the absence of a common development framework for course construction. Course content, thus, lacks reusability, durability and interoperability. A suggested solution is the adoption of common educational standards for course construction and delivery. The third category involves instructors who come up against difficulties during course construction as most of the time course development requires not only specific programming capabilities but also deep knowledge of adaptive strategies and educational standard specifications. Easy authoring tools for non programmer instructors may reduce these difficulties and allow more people to create easy and fast web and/or adaptive courses. The present work deals with three aspects of web learning systems: adaptivity, adoption of educational standards, and authoring tools. Initially it discusses the problems of web based courses at both the construction and delivery stages, and the possible \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "meKnrOkAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "INTECH Open Access Publisher"
+        },
+        {
+            "Title": "An Analysis of Students' Difficulties with ArrayList Object Collections and Proposals for Supporting the Learning Process",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4561660/",
+            "Abstract": "The use of collections for grouping objects is very common in object oriented applications, and even small-scale programs developed by undergraduate students. One of the most popular collections is the ArrayList that according to many researchers should be emphasized over the fundamental data structure of Arrays. However, learning to use an ArrayList collection correctly is not easy. In this paper we present an analysis of undergraduate students' difficulties with ArrayLists and some proposals for supporting the learning process.",
+            "Abstract entirety": 1,
+            "Author pub id": "meKnrOkAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

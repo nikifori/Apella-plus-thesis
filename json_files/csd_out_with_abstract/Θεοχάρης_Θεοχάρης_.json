@@ -1,0 +1,1444 @@
+[{
+    "name": "\u0398\u03b5\u03bf\u03c7\u03ac\u03c1\u03b7\u03c2 \u0398\u03b5\u03bf\u03c7\u03ac\u03c1\u03b7\u03c2 ",
+    "romanize name": "Theocharis Theocharis ",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 & \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uoa",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 8989,
+    "Scholar name": "Theoharis Theoharis",
+    "Scholar id": "1AuLBccAAAAJ",
+    "Affiliation": "NTNU | NKUA (part-time)",
+    "Citedby": 4963,
+    "Interests": [
+        "Visual Computing",
+        "Computer Graphics",
+        "Computer Vision",
+        "Biometrics",
+        "3D Object retrieval"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=1AuLBccAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Parameter identification of 1D fractal interpolation functions using bounding volumes",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0377042709006190",
+            "Abstract": "Fractal interpolation functions are very useful in capturing data that exhibit an irregular (non-smooth) structure. Two new methods to identify the vertical scaling factors of such functions are presented. In particular, they minimize the area of the symmetric difference between the bounding volumes of the data points and their transformed images. Comparative results with existing methods are given that establish the proposed ones as attractive alternatives. In general, they outperform existing methods for both low and high compression ratios. Moreover, lower and upper bounds for the vertical scaling factors that are computed by the first method are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "ConTopo: Non-Rigid 3D Object Retrieval using Topological Information guided by Conformal Factors.",
+            "Publication year": 2011,
+            "Publication url": "https://www.academia.edu/download/42138970/ConTopo_Non-Rigid_3D_Object_Retrieval_us20160205-30232-1iyvxim.pdf",
+            "Abstract": "Combining the properties of conformal geometry and graph-based topological information for 3D object retrieval, a non-rigid 3D object descriptor is proposed, which is both robust and efficient in terms of retrieval accuracy and computation speed. In previous works, graph-based methods for non-rigid 3D object retrieval, have shown high discriminative power and robustness, while geometry-based methods, have proven to be tolerant to noise and pose. In this work, we present a 3D object descriptor that combines the above advantages.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A 3D Pottery Content Based Retrieval Method",
+            "Publication year": 2009,
+            "Publication url": "http://www.ipet.gr/~chamzas/chamzas_pdfs/publications/200903_Eurographics.pdf",
+            "Abstract": "Archaeology is a science that is based on perception and similarity comparisons and thus 3D content based retrieval can be used as a research tool. In this paper, we present a descriptor which can be used for content based retrieval of 3D pottery. The descriptor carries morphological features which are extracted from a set of sequential plane-based contours which are vertical to the vessel\u2019s axis of symmetry. The feature extraction is performed after the completion of a pre-processing phase, which involves scale and pose normalisation of the vessel. The latter is a recursive algorithm that takes advantage of the rotational symmetry property found in vessels. We developed a software tool that implements the above and we performed initial testing on vessel\u2019s main body shape matching using a 3D vessel database composed by both manually modelled and digitised 3D artefacts.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:l7t_Zn2s7bgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Microshapes: efficient querying of 3D object collections based on local shape",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/3290638.3290641",
+            "Abstract": "Content-based querying of 3D object collections has the intrinsic difficulty of creating the query object and previous approaches have concentrated in producing global simplifications such as sketches. In contrast, in this paper, the concept of querying 3D object collections based on local shape is introduced. Microshapes are very promising in terms of generality and applicability and is based on a variation of the spin image descriptor. This descriptor uses intersection counts to determine the presence of boundaries in the support volume. These boundaries can be used to recognise local shape similarity. Queries based on this descriptor are general, easy to specify and robust to geometric clutter.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:TIZ-Mc8IlK0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards Scientific Benchmarks: On Increasing the Credibility of Benchmarks",
+            "Publication year": 2015,
+            "Publication url": "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/3dor.20151059.083-086/083-086.pdf?sequence=1",
+            "Abstract": "Problem: Increasing the credibility of results from scientific benchmarks. Goal: Specify what exactly is required in order for a benchmark to be scientific. Contribution:(i) Specification of what it entails for a benchmark to be scientific,(ii) a metric for measuring the replicability of an experiment,(iii) a metric for measuring the replicability of a set of experiments, and (iv) Analysis of the replicability of SHREC 2015. Result: Replicability of SHREC 2015 can be increased by open sourcing the methods compared and improving documentation.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Non-rigid 3D object retrieval using topological information guided by conformal factors",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-012-0714-z",
+            "Abstract": "Combining the properties of conformal geometry and graph-based topological information, a non-rigid 3D object retrieval methodology is proposed, which is both robust and efficient in terms of retrieval accuracy and computation speed. While graph-based methods are robust to non-rigid object deformations, they require intensive computation which can be reduced by the use of appropriate representations, addressed through geometry-based methods. In this respect, we present a 3D object retrieval methodology, which combines the above advantages in a unified manner. Furthermore, we propose a string matching strategy for the comparison of graphs which describe 3D objects.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "An effective methodology for dynamic 3D facial expression retrieval",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S003132031500391X",
+            "Abstract": "The problem of facial expression recognition in dynamic sequences of 3D face scans has received a significant amount of attention in the recent past whereas the problem of retrieval in this type of data has not. A novel retrieval methodology for such data is introduced in this paper. The proposed methodology automatically detects specific facial landmarks and uses them to create a descriptor. This descriptor is the concatenation of three sub-descriptors which capture topological as well as geometric information of the 3D face scans. The motivation behind the proposed hybrid facial expression descriptor is the fact that some facial expressions, like happiness and surprise, are characterized by obvious changes in the mouth topology while others, like anger, fear and sadness, produce geometric but no significant topological changes. The proposed retrieval scheme exploits the Dynamic Time Warping technique in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:_B80troHkn4C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Long-range correlations of RNA polymerase II promoter sequences across organisms",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437105011088",
+            "Abstract": "The statistical properties of the size distribution of DNA segments separating identical oligonucleotides are studied. For representative eukaryotes (Homo sapiens, Mus musculus, Saccharomyces cereviciae, Oryza sativa, Arabidopsis thaliana) we have demonstrated the existence of long-range correlations for the distances separating oligonucleotides of sizes 4, 5 and 6, which carry a promoter signature. This observation is independent of the consensus sequence used by the organism, as in the case of O. sativa (which mainly uses the CG promoter box) and A. thaliana (which mainly uses the TATA promoter box). If we use two parameters to characterise the size distribution separating oligonucleotides, we observe that oligonucleotides containing promoter signatures cluster together, away from the others.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:PR6Y55bgFSsC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Looking Beyond Appearances: Synthetic Training Data for Deep CNNs in Re-identification",
+            "Publication year": 2017,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2017arXiv170103153B/abstract",
+            "Abstract": "Re-identification is generally carried out by encoding the appearance of a subject in terms of outfit, suggesting scenarios where people do not change their attire. In this paper we overcome this restriction, by proposing a framework based on a deep convolutional neural network, SOMAnet, that additionally models other discriminative aspects, namely, structural attributes of the human figure (eg height, obesity, gender). Our method is unique in many respects. First, SOMAnet is based on the Inception architecture, departing from the usual siamese framework. This spares expensive data preparation (pairing images across cameras) and allows the understanding of what the network learned. Second, and most notably, the training data consists of a synthetic 100K instance dataset, SOMAset, created by photorealistic human body generation software. Synthetic data represents a good compromise between realistic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:rmuvC79q63oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A review on 3D object retrieval methodologies using a part-based representation",
+            "Publication year": 2014,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/16864360.2014.914385",
+            "Abstract": "A comprehensive overview of 3D Object Retrieval methodologies that use a part-based representation is presented. Taking into account the typical operational pipeline we detail each distinct module and we provide a comparative study between the individual modules as well as the global methodologies. This study relies upon the 3D mesh segmentation scheme used, the feature extraction method chosen, as well as the selected graph matching methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:D_sINldO8mEC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "Progressive hulls for intersection applications",
+            "Publication year": 2003,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8659.00653",
+            "Abstract": " Progressive meshes are an established tool for triangle mesh simplification. By suitably adapting the simplification process, progressive hulls can be generated which enclose the original mesh in gradually simpler, nested meshes. We couple progressive hulls with a selective refinement framework and use them in applications involving intersection queries on the mesh. We demonstrate that selectively refinable progressive hulls considerably speed up intersection queries by efficiently locating intersection points on the mesh. Concerning the progressive hull construction, we propose a new formula for assigning edge collapse priorities that significantly accelerates the simplification process, and enhance the existing algorithm with several conditions aimed at producing higher quality hulls. Using progressive hulls has the added advantage that they can be used instead of the enclosed object when a lower resolution \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Blackwell Publishing, Inc"
+        },
+        {
+            "Title": "SHREC'08 Entry: Hybrid IIT-NCSR-Demokritos",
+            "Publication year": 2008,
+            "Publication url": "https://hal.inria.fr/hal-00759007/",
+            "Abstract": "In this paper, we present an overview of the 3D object retrieval method that we employed in our participation to the Generic Models track of SHREC 2008 organized by the AIM@ SHAPE network of excellence. The proposed methodology is detailed in [2]. Our method is based on a hybrid scheme where 2D features as well as 3D features are extracted from a 3D model which has been previously normalized for rotation using two alternative alignment techniques. The alignment methods that are used are CPCA and NPCA. The 2D features are Fourier coefficients extracted from a set of depth buffers and the 3D features are spherical harmonic coefficients extracted from a spherical function-based representation of a 3D model.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:LI9QrySNdTsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Relevance feedback in content-based 3D object retrieval a comparative study",
+            "Publication year": 2008,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.3722/cadaps.2008.753-763",
+            "Abstract": "In this paper, we present a comparative study that concerns relevance feedback (RF) algorithms in the context of content-based 3D object retrieval. In this study, we employ RF algorithms which range from query modification and multiple queries to one-class support vector machines (SVM). Furthermore, we employ pseudo relevance feedback (PRF) and show that it can considerably improve the performance of content-based retrieval. Our comparative study is based upon extensive experiments that take into account datasets containing generic as well as CAD models.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "3D object partial matching using panoramic views",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41190-8_19",
+            "Abstract": "In this paper, a methodology for 3D object partial matching and retrieval based on range image queries is presented. The proposed methodology addresses the retrieval of complete 3D objects based on artificially created range image queries which represent partial views. The core methodology relies upon Dense SIFT descriptors computed on panoramic views. Performance evaluation builds upon the standard measures and a challenging 3D pottery dataset originated from the Hampson Archeological Museum collection.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:dshw04ExmUIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Long range clustering of oligonucleotides containing the CG signal",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0022519309000228",
+            "Abstract": "The distance distributions between successive occurrences of the same oligonucleotides in chromosomal DNA are studied, in different classes of higher eucaryotic organisms. A two-parameter modeling is undertaken and applied on the distance distribution of quintuplets (sequences of size five bps) and hexaplets (sequences of size six bps); the first parameter k refers to the short range exponential decay of the distributions, whereas the second parameter m refers to the power law behavior. A two-dimensional scatter plot representing the model equation demonstrates that the points corresponding to the distance distribution of oligonucleotides containing the CG consensus sequence (promoter of the RNA polymerase II) cluster together (group \u03b1), apart from all other oligonucleotides (group \u03b2). This is shown for the available chordata Homo sapiens, Pan troglodytes, Mus musculus, Rattus norvegicus, Gallus gallus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:dQ2og3OwTAUC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "An indexing scheme and descriptor for 3D object retrieval based on local shape querying",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S009784932030128X",
+            "Abstract": "A binary descriptor indexing scheme based on Hamming distance called the Hamming tree for local shape queries is presented. A new binary clutter resistant descriptor named Quick Intersection Count Change Image (QUICCI) is also introduced. This local shape descriptor is extremely small and fast to compare. Additionally, a novel distance function called Weighted Hamming applicable to QUICCI images is proposed for retrieval applications. The effectiveness of the indexing scheme and QUICCI is demonstrated on 828 million QUICCI images derived from the SHREC2017 dataset, while the clutter resistance of QUICCI is shown using the clutterbox experiment.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:hCrLmN-GePgC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Evaluation of 3D face recognition in the presence of facial expressions: an annotated deformable model approach",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1565489/",
+            "Abstract": "From a user\u2019s perspective, face recognition is one of the most desirable biometrics, due to its non-intrusive nature; however, variables such as face expression tend to severely affect recognition rates. We have applied to this problem our previous work on elastically adaptive deformable models to obtain parametric representations of the geometry of selected localized face areas using an annotated face model. We then use wavelet analysis to extract a compact biometric signature, thus allowing us to perform rapid comparisons on either a global or a per area basis. To evaluate the performance of our algorithm, we have conducted experiments using data from the Face Recognition Grand Challenge data corpus, the largest and most established data corpus for face recognition currently available. Our results indicate that our algorithm exhibits high levels of accuracy and robustness, and is not gender biased. In \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient 3D object retrieval using depth images",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1026711.1026743",
+            "Abstract": "In this paper, we present a new three-dimensional object retrieval method. This method employs depth buffers for representing and comparing the objects. Specifically, multiple depth buffers per object (computed from different points of view) are compared for surface and volume similarity. Our method is easily extensible for hierarchical comparisons at multiple resolutions and is highly parallelizable. We have employed this method for both inter-class and intra-class retrieval tasks on a gallery of over 3 000 three-dimensional objects of vehicles with very encouraging results. The accuracy of the method depends on the number of depth buffers and the depth buffer resolution",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Unsupervised human action retrieval using salient points in 3D mesh sequences",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-018-5855-2",
+            "Abstract": "The problem of human action retrieval based on the representation of the human body as a 3D mesh is addressed. The proposed 3D mesh sequence descriptor is based on a set of trajectories of salient points of the human body: its centroid and its five protrusion ends. The extracted descriptor of the corresponding trajectories incorporates a set of significant features of human motion, such as velocity, total displacement from the initial position and direction. As distance measure, a variation of the Dynamic Time Warping (DTW) algorithm, combined with a k \u2212 means based method for multiple distance matrix fusion, is applied. The proposed method is fully unsupervised. Experimental evaluation has been performed on two artificial datasets, one of which is being made publicly available by the authors. The experimentation on these datasets shows that the proposed scheme achieves retrieval performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:vbGhcppDl1QC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "3D Object Retrieval",
+            "Publication year": 2010,
+            "Publication url": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=22799658",
+            "Abstract": "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut \u00eatre utilis\u00e9 dans le cadre d\u2019une licence CC BY 4.0 Inist-CNRS/Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS/A menos que se haya se\u00f1alado antes, el contenido de este registro bibliogr\u00e1fico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:WZBGuue-350C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The magic of the z-buffer: A survey",
+            "Publication year": 2001,
+            "Publication url": "https://otik.uk.zcu.cz/handle/11025/11293",
+            "Abstract": "The wide availability of hardwired Z-buffer has sparked an explosion in the number of applications of the algorithm whose origins lie in hidden surface elimination. This paper presents a much-needed survey of key applications of the Z-buffer from the fields of rendering, modelling and vision in a common notation in order to help users make better use of this resource.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:UebtZRa9Y70C",
+            "Publisher": "University of West Bohemia"
+        },
+        {
+            "Title": "General voxelization algorithm with scalable gpu implementation",
+            "Publication year": 2007,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/2151237X.2007.10129233",
+            "Abstract": "This paper presents an efficient algorithm for the voxelization of solid objects represented by boundary surfaces of arbitrary topology. The algorithm is based on the use of depth buffers and is suitable for polygonal meshes and parametric surfaces. The presented method unifies and extends our previous approaches under a single general algorithm; three practical variants are then given that implement it on different generations of graphics hardware in order to achieve high performance. The implementations for older hardware impose certain limitations on the depth complexity of the object.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "AK Peters"
+        },
+        {
+            "Title": "Ethnicity-and gender-based subject retrieval using 3-D face-recognition techniques",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s11263-009-0300-7",
+            "Abstract": "While the retrieval of datasets from human subjects based on demographic characteristics such as gender or race is an ability with wide-ranging application, it remains poorly-studied. In contrast, a large body of work exists in the field of biometrics which has a different goal: the recognition of human subjects. Due to this disparity of interest, existing methods for retrieval based on demographic attributes tend to lag behind the more well-studied algorithms designed purely for face matching. The question this raises is whether a face recognition system could be leveraged to solve these other problems and, if so, how effective it could be. In the current work, we explore the limits of such a system for gender and ethnicity identification given (1) a ground truth of demographically-labeled, textureless 3-D models of human faces and (2) a state-of-the-art face-recognition algorithm. Once trained, our system is capable of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "A comprehensive overview of methodologies and performance evaluation frameworks in 3D mesh segmentation",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314215000028",
+            "Abstract": "3D mesh segmentation has become a crucial part of many applications in 3D shape analysis. In this paper, a comprehensive survey on 3D mesh segmentation methods is presented. Analysis of the existing methodologies is addressed taking into account a new categorization along with the performance evaluation frameworks which aim to support meaningful benchmarks not only qualitatively but also in a quantitative manner. This survey aims to capture the essence of current trends in 3D mesh segmentation.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Ensemble of PANORAMA-based convolutional neural networks for 3D model classification and retrieval",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849317301978",
+            "Abstract": "A novel method for the classification and retrieval of 3D models is proposed; it exploits the 2D panoramic view representation of 3D models as input to an ensemble of convolutional neural networks which automatically compute the features. The first step of the proposed pipeline, pose normalization is performed using the SYMPAN method, which is also computed on the panoramic view representation. In the training phase, three panoramic views corresponding to the major axes, are used for the training of an ensemble of convolutional neural networks. the panoramic views consist of 3-channel images, containing the Spatial Distribution Map, the Normals\u2019 Deviation Map and the magnitude of the Normals\u2019 Devation Map Gradient Image. The proposed method aims at capturing feature continuity of 3D models, while simultaneously minimizing data preprocessing via the construction of an augmented image \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:epqYDVWIO7EC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Face recognition using 3D images",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-0-85729-932-1_17",
+            "Abstract": "In this chapter, we present advances that aid in overcoming the challenges encountered in 3D face recognition. First, we present a fully automatic 3D face recognition system, UR3D, which has been proven to be robust under variations in expressions. Second, we demonstrate how to handle pose variations. Finally, we demonstrate how the problems related to the cost and unfriendliness of 3D scanners can be mitigated through hybrid systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Springer, London"
+        },
+        {
+            "Title": "Partial 3D object retrieval using local binary QUICCI descriptors and dissimilarity tree indexing",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849321001497",
+            "Abstract": "A complete pipeline is presented for accurate and efficient partial 3D object retrieval based on Quick Intersection Count Change Image (QUICCI) binary local descriptors and a novel indexing tree. It is shown how a modification to the QUICCI query descriptor makes it ideal for partial retrieval. An indexing structure called Dissimilarity Tree is proposed which can significantly accelerate searching the large space of local descriptors; this is applicable to QUICCI and other binary descriptors. The index exploits the distribution of bits within descriptors for efficient retrieval. The retrieval pipeline is tested on the artificial part of SHREC\u201916 dataset with near-ideal retrieval results.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:bz8QjSJIRt4C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Exploiting the PANORAMA Representation for Convolutional Neural Network Classification and Retrieval.",
+            "Publication year": 2017,
+            "Publication url": "https://www.academia.edu/download/53411434/PANORAMA-NN-3dor17-fin-DRAFT.pdf",
+            "Abstract": "A novel 3D model classification and retrieval method, based on the PANORAMA representation and Convolutional Neural Networks, is presented. Initially, the 3D models are pose normalized using the SYMPAN method and consecutively the PANORAMA representation is extracted and used to train a convolutional neural network. The training is based on an augmented view of the extracted panoramic representation views. The proposed method is tested in terms of classification and retrieval accuracy on standard large scale datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "RETRIEVAL 3D: An On-line Content-Based Retrieval Per-formance Evaluation Tool",
+            "Publication year": 2015,
+            "Publication url": "http://diglib.eg.org/bitstream/handle/10.2312/3dor.20151062.095-098/095-098.pdf?sequence=1&isAllowed=y",
+            "Abstract": "Performance benchmarking is an absolute necessity when attempting to objectively quantify the performance of content-based retrieval methods. For many years now, a number of plot-based and scalar-based measures in combination with benchmark datasets have already been used in order to provide objective results. In this work, we present the first version of an integrated on-line content-based retrieval evaluation tool, named RETRIEVAL3D, which can be used in order to quantify the performance of a retrieval method. The current version of the system offers a set of popular performance measures that can be accessed through a dynamic visualisation environment. The user is able to upload retrieval results using different input data structures (eg binary ranked lists, floating point ranked lists, dissimilarity matrices and groundtruth data) that are already encountered in the literature including the SHREC \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:i2xiXl-TujoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fractal and multifractal analysis of PET/CT images of metastatic melanoma before and after treatment with ipilimumab",
+            "Publication year": 2016,
+            "Publication url": "https://ejnmmires.springeropen.com/articles/10.1186/s13550-016-0216-5",
+            "Abstract": "PET/CT with F-18-fluorodeoxyglucose (FDG) images of patients suffering from metastatic melanoma have been analysed using fractal and multifractal analysis to assess the impact of monoclonal antibody ipilimumab treatment with respect to therapy outcome. Thirty-one cases of patients suffering from metastatic melanoma have been scanned before and after two and after four cycles of treatment. For each patient, we calculated the fractal and multifractal dimensions using the box-counting method on the digitalised PET/CT images of all three studies to assess the therapeutic outcome. We modelled the spreading of malignant cells in the body via kinetic Monte Carlo simulations to address the dynamical evolution of the metastatic process and to predict the spatial distribution of malignant lesions. Our analysis shows that the fractal dimensions which describe the tracer dispersion in the body decrease consistently with the deterioration of the patient\u2019s therapeutic outcome condition. In 20 out of 24 cases, the fractal analysis results match those of the treatment outcome as defined by the oncologists, while 7 cases are considered as special cases because the patients had non-tumour-related findings or side effects which affect the results. The decrease in the fractal dimensions with the deterioration of the patient conditions (in terms of disease progression) is attributed to the hierarchical localisation of the tracer which accumulates in the affected lesions and does not spread homogeneously throughout the body. Fractality emerges as a result of the migration patterns which the malignant cells follow for propagating within the body (circulatory system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:dTyEYWd-f8wC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "3D Object Retrieval using an Ef\ufb01cient and Compact Hybrid Shape Descriptor",
+            "Publication year": 2008,
+            "Publication url": "https://hal.inria.fr/hal-00758995/",
+            "Abstract": "We present a novel 3D object retrieval method that relies upon a hybrid descriptor which is composed of 2D features based on depth buffers and 3D features based on spherical harmonics. To compensate for rotation, two alignment methods, namely CPCA and NPCA, are used while compactness is supported via scalar feature quantization to a set of values that is further compressed using Huffman coding. The superior performance of the proposed retrieval methodology is demonstrated through an extensive comparison against state-of-the-art methods on standard datasets",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D object retrieval via range image queries based on sift descriptors on panoramic views",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/2381194.2381197",
+            "Abstract": "The increasing availability of low-cost 3D scanners is resulting in the creation of large repositories of 3D models. Low-cost 3D range scanners in particular can also be used to capture partial views of real 3D objects which can then act as queries over 3D object repositories. This paper concerns a new methodology for 3D object retrieval based on range image queries which represent partial views of 3D objects. SIFT descriptors based on panoramic views are used to address this problem. The proposed method is evaluated against state-of-the-art works on a standard dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exploiting multiresolution models to accelerate ray tracing",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849302002479",
+            "Abstract": "In this paper, it is shown how multiresolution models can be exploited in order to improve the efficiency of the ray tracing process without significant image deterioration. To this effect a set of criteria are established which determine the level of detail model that should be used for each ray\u2013object intersection. These criteria include the distance from the observer and the amount of distortion to which a ray has been subjected before hitting the object. The resulting images are indistinguishable to the naked eye from those obtained using the maximum resolution models but require significantly less time to compute. Our method can be used in conjunction with previous ray tracing acceleration methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Sympan: 3d model pose normalization via panoramic views and reflective symmetry",
+            "Publication year": 2013,
+            "Publication url": "http://diglib.eg.org/bitstream/handle/10.2312/3DOR.3DOR13.041-048/041-048.pdf?sequence=1",
+            "Abstract": "A novel pose normalization method, based on panoramic views and reflective symmetry, is presented. Initially, the surface of a 3D model is projected onto the lateral surface of a circumscribed cylinder, aligned with the primary principal axis of space. Based on this cylindrical projection, a normals\u2019 deviation map is extracted and using an octree-based search strategy, the rotation which optimally aligns the primary principal axis of the 3D model and the cylinder\u2019s axis is computed. The 3D model\u2019s secondary principal axis is then aligned with the secondary principal axis of space in a similar manner. The proposed method is incorporated in a hybrid scheme, that serves as the pose normalization method in a state-of-the-art 3D model retrieval system. The effectiveness of this system, using the hybrid pose normalization scheme, is evaluated in terms of retrieval accuracy and the results clearly show improved performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:KxtntwgDAa4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D Object Retrieval: Inter-Class vs. Intra-Class",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85128-8_4",
+            "Abstract": "The monotonic advances in the accuracy of 3D object retrieval methods has created a euphoria and the belief that 100% accuracy is a matter of time. However, accuracy is tied to datasets. Algorithmic progress in this field is often linked to the availability of datasets. A new, harder, dataset will often derail existing algorithms and create a new research wave. We attempt to define and compare inter- and intra-class 3D object retrieval and show that there is a huge performance gap between them. We present relevant bibliography and our own inter- and intra-class retrieval methods and applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Simplification of vector fields over tetrahedral meshes",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1309208/",
+            "Abstract": "Vector fields produced by experiments or simulations are usually extremely dense, which makes their manipulation and visualization cumbersome. Often, such fields can be simplified without much loss of information. A simplification method for 3D vector fields defined over tetrahedral meshes is presented. The underlying tetrahedral mesh is progressively simplified by successive half-edge collapses. The order of collapses is determined by a compound metric which takes into account the field and domain error incurred as well as the quality of the resulting mesh. Special attention is given to the preservation of the mesh boundary and of critical points on the vector field. A tool has been developed for the measurement of the difference between two vector fields over tetrahedral meshes, and it is used to quantify the simplification error",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multimodal face recognition: Combination of geometry with physiological information",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1467555/",
+            "Abstract": "It is becoming increasingly important to be able to credential and identify authorized personnel at key points of entry. Such identity management systems commonly employ biometric identifiers. In this paper, we present a novel multimodal facial recognition approach that employs data from both visible spectrum and thermal infrared sensors. Data from multiple cameras is used to construct a three-dimensional mesh representing the face and a facial thermal texture map. An annotated face model with explicit two-dimensional parameterization (UV) is then fitted to this data to construct: 1) a three-channel UV deformation image encoding geometry, and 2) a one-channel UV vasculature image encoding facial vasculature. Recognition is accomplished by comparing: 1) the parametric deformation images, 2) the parametric vasculature images, and 3) the visible spectrum texture maps. The novelty of our work lies in the use \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the use of fingernail images as transient biometric identifiers",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00138-015-0721-y.pdf",
+            "Abstract": "The significant advantages that biometric recognition technologies offer are in danger of being left aside in everyday life due to concerns over the misuse of such data. The biometric data employed so far focuses on the permanence of the characteristics involved. A concept known as \u2018the right to be forgotten\u2019 is gaining momentum in international law and this should further hamper the adoption of permanent biometric recognition technologies. However, a multitude of common applications are short-term and, therefore, non-permanent biometric characteristics would suffice for them. In this paper we discuss \u2018transient biometrics,\u2019 i.e. recognition via biometric characteristics that will change in the short term and show that images of the fingernail plate can be used as a transient biometric with a useful life-span of less than 6 months. A direct approach is proposed that requires no training and a relevant evaluation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:PELIpwtuRlgC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Geotopo: Dynamic 3D facial expression retrieval using topological and geometric information",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/2854124.2854126",
+            "Abstract": "Recently, a lot of research has been dedicated to address the problem of facial expression recognition in dynamic sequences of 3D face scans. On the contrary, no research has been conducted on facial expression retrieval using dynamic 3D face scans. This paper illustrates the first results on the area of dynamic 3D facial expression retrieval. To this end, a novel descriptor is created, namely GeoTopo, capturing the topological as well as the geometric information of the 3D face scans along time. Experiments have been implemented using the angry, happy and surprise expressions of the publicly available dataset BU--4DFE. The obtained retrieval results are very promising. Furthermore, a methodology which exploits the retrieval results, in order to achieve unsupervised dynamic 3D facial expression recognition, is presented. The aforementioned unsupervised methodology achieves classification accuracy \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:8AbLer7MMksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Learning the compositional structure of man-made objects for 3d shape retrieval",
+            "Publication year": 2010,
+            "Publication url": "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/3DOR.3DOR10.039-046/039-046.pdf?sequence=1",
+            "Abstract": "While approaches based on local features play a more and more important role for 3D shape retrieval, the problems of feature selection and similarity measurement between sets of local features still remain open tasks. Common algorithms usually measure the similarity between two such sets by either establishing feature correspondences or by using Bag-of-Features (BoF) approaches. While establishing correspondences often involves a lot of manually chosen thresholds, BoF approaches can hardly model the spatial structure of the underlying 3D object. In this paper focusing on retrieval of 3D models representing man-made objects, we try to tackle both of these problems. Exploiting the fact that man-made objects usually consist of a small set of certain shape primitives, we propose a feature selection technique that decomposes 3D point clouds into sections that can be represented by a plane, a sphere, a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "SHREC'08 Entry: 2D/3D Hybrid",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4547990/",
+            "Abstract": "In this paper, we present an overview of the 3D object retrieval method that we employed in our participation to the generic models track of SHREC 2008 organized by the AIM@SHAPE network of excellence. The proposed methodology is detailed in [2]. Our method is based on a hybrid scheme where 2D features as well as 3D features are extracted from a 3D model which has been previously normalized for rotation using two alternative alignment techniques. The alignment methods that are used are CPCA and NPCA. The 2D features are Fourier coefficients extracted from a set of depth buffers and the 3D features are spherical harmonic coefficients extracted from a spherical function-based representation of a 3D model.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A survey on facial expression recognition in 3D video sequences",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-014-1869-6",
+            "Abstract": "Facial expression recognition constitutes an active research area due to its various applications. This survey addresses methodologies for 3D mesh video facial expression recognition. Recognition is, actually, a special case of intra-class retrieval. The approaches are analyzed and compared in detail. They are primarily categorized according to the 3D dynamic face analysis technique used. In addition, currently available datasets, used for 3D video facial expression analysis, are presented. Finally, future challenges that can be addressed in order for 3D video facial expression recognition field to be further improved, are extensively discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:vRqMK49ujn8C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Radial intersection count image: A clutter resistant 3D shape descriptor",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849320301096",
+            "Abstract": "A novel shape descriptor for cluttered scenes is presented, the Radial Intersection Count Image (RICI), and is shown to significantly outperform the classic Spin Image (SI) and 3D Shape Context (3DSC) in both uncluttered and, more significantly, cluttered scenes. It is also faster to compute and compare. The clutter resistance of the RICI is mainly due to the design of a novel distance function, capable of disregarding clutter to a great extent. As opposed to the SI and 3DSC, which both count point samples, the RICI uses intersection counts with the mesh surface, and is therefore noise-free. For efficient RICI construction, novel algorithms of general interest were developed. These include an efficient circle-triangle intersection algorithm and an algorithm for projecting a point into SI-like (\u03b1, \u03b2) coordinates. The \u2019clutterbox experiment\u2019 is also introduced as a better way of evaluating descriptors\u2019 response to clutter. The SI \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:0N-VGjzr574C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Effective descriptors for human action retrieval from 3D mesh sequences",
+            "Publication year": 2019,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0219467819500189",
+            "Abstract": "Two novel methods for fully unsupervised human action retrieval using 3D mesh sequences are presented. The first achieves high accuracy but is suitable for sequences consisting of clean meshes, such as artificial sequences or highly post-processed real sequences, while the second one is robust and suitable for noisy meshes, such as those that often result from unprocessed scanning or 3D surface reconstruction errors. The first method uses a spatio-temporal descriptor based on the trajectories of 6 salient points of the human body (i.e. the centroid, the top of the head and the ends of the two upper and two lower limbs) from which a set of kinematic features are extracted. The resulting features are transformed using the wavelet transformation in different scales and a set of statistics are used to obtain the descriptor. An important characteristic of this descriptor is that its length is constant independent of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:M7yex6snE4oC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "3D Object Recognition and Facial Identification Using Time-averaged Single-views from Time-of-flight 3D Depth-Camera",
+            "Publication year": 2010,
+            "Publication url": "https://www.researchgate.net/profile/Fabien-Moutarde/publication/47463090_3D_Object_Recognition_and_Facial_Identification_Using_Time-averaged_Single-views_from_Time-of-flight_3D_Depth-Camera/links/0deec53c67035b9347000000/3D-Object-Recognition-and-Facial-Identification-Using-Time-averaged-Single-views-from-Time-of-flight-3D-Depth-Camera.pdf",
+            "Abstract": "We report here on feasibility evaluation experiments for 3D object recognition and person facial identification from single-view on real depth images acquired with an \u201coff-the-shelf\u201d 3D time-of-flight depth camera. Our methodology is the following: for each person or object, we perform 2 independent recordings, one used for learning and the other one for test purposes. For each recorded frame, a 3D-mesh is computed by simple triangulation from the filtered depth image. The feature we use for recognition is the normalized histogram of directions of normal vectors to the 3D-mesh facets. We consider each training frame as a separate example, and the training is done with a multilayer perceptron with 1 hidden layer. For our 3D person facial identification experiments, 3 different persons were used, and we obtain a global correct rank-1 recognition rate of up to 80%, measured on test frames from an independent 3D video. For our 3D object recognition experiment, we have considered 3 different objects, and obtain a correct single-frame recognition rate of 95%, and checked that the method is quite robust to variation of distance from depth camera to object. These first experiments show that 3D object recognition or 3D face identification, with a time-of-flight 3D camera, seems feasible, despite the high level of noise in the obtained real depth images.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fractal active shape models",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74272-2_80",
+            "Abstract": "Active Shape Models often require a considerable number of training samples and landmark points on each sample, in order to be efficient in practice. We introduce the Fractal Active Shape Models, an extension of Active Shape Models using fractal interpolation, in order to surmount these limitations. They require a considerably smaller number of landmark points to be determined and a smaller number of variables for describing a shape, especially for irregular ones. Moreover, they are shown to be efficient when few training samples are available.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Cross-time registration of 3D point clouds",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849321001357",
+            "Abstract": "Registration is a ubiquitous operation in visual computing and constitutes an important pre-processing step for operations such as 3D object reconstruction, retrieval and recognition. Particularly in cultural heritage (CH) applications, registration techniques are essential for the digitization and restoration pipelines. Cross-time registration is a special case where the objects to be registered are instances of the same object after undergoing processes such as erosion or restoration. Traditional registration techniques are inadequate to address this problem with the required high accuracy for detecting minute changes; some are extremely slow. A deep learning registration framework for cross-time registration is proposed which uses the DeepGMR network in combination with a novel down-sampling scheme for cross-time registration. A dataset especially designed for cross-time registration is presented (called ECHO \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:4fGpz3EwCPoC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "3D-2D face recognition with pose and illumination normalization",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314216300480",
+            "Abstract": "In this paper, we propose a 3D-2D framework for face recognition that is more practical than 3D-3D, yet more accurate than 2D-2D. For 3D-2D face recognition, the gallery data comprises of 3D shape and 2D texture data and the probes are arbitrary 2D images. A 3D-2D system (UR2D) is presented that is based on a 3D deformable face model that allows registration of 3D and 2D data, face alignment, and normalization of pose and illumination. During enrollment, subject-specific 3D models are constructed using 3D+2D data. For recognition, 2D images are represented in a normalized image space using the gallery 3D models and landmark-based 3D-2D projection estimation. A method for bidirectional relighting is applied for non-linear, local illumination normalization between probe and gallery textures, and a global orientation-based correlation metric is used for pairwise similarity scoring. The generated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:Fu2w8maKXqMC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Frontmatter Eurographics 2015 Workshop on 3D Object Retrieval",
+            "Publication year": 2015,
+            "Publication url": "http://diglib.eg.org/handle/10.2312/3dor.20152006.3DOR2015_frontmatter",
+            "Abstract": "Frontmatter Eurographics 2015 Workshop on 3D Object Retrieval Toggle navigation Login \nToggle navigation View Item Eurographics DL Home Eurographics Workshops and Symposia \n3DOR: Eurographics Workshop on 3D Object Retrieval 3DOR 15 View Item Eurographics DL \nHome Eurographics Workshops and Symposia 3DOR: Eurographics Workshop on 3D Object \nRetrieval 3DOR 15 View Item Frontmatter Eurographics 2015 Workshop on 3D Object Retrieval \nThumbnail View/Open 3DOR2015_frontmatter.pdf (407.2Kb) Date 2015 Author Pratikakis, \nIoannis Theoharis, Theoharis Spagnuolo, Michela Van Gool, Luc Veltkamp, Remco Godil, \nAfzal Pay-Per-View via TIB Hannover: Try if this item/paper is available. Metadata Show full \nitem record URI http://dx.doi.org/10.2312/3dor.Collections 3DOR 15 Eurographics Association \ncopyright \u00a9 2013 - 2021 Send Feedback | Contact - Imprint | Data Privacy Policy | Disable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:WA5NYHcadZ8C",
+            "Publisher": "The Eurographics Association"
+        },
+        {
+            "Title": "Parameter identification of 1D recurrent fractal interpolation functions with applications to imaging and signal processing",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s10851-010-0253-z",
+            "Abstract": "Recurrent fractal interpolation functions are very useful in modelling irregular (non-smooth) data. Two methods that use bounding volumes and one that uses the concept of box-counting dimension are introduced for the identification of the vertical scaling factors of such functions. The first two minimize the area of the symmetric difference between the bounding volumes of the data points and their transformed images, while the latter aims at achieving the same box-counting dimension between the original and the reconstructed data. Comparative results with existing methods in imaging applications are given, indicating that the proposed ones are competitive alternatives for both low and high compression ratios.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:EUQCXRtRnyEC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Unified 3D face and ear recognition using wavelets on geometry images",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320307003214",
+            "Abstract": "As the accuracy of biometrics improves, it is getting increasingly hard to push the limits using a single modality. In this paper, a unified approach that fuses three-dimensional facial and ear data is presented. An annotated deformable model is fitted to the data and a geometry image is extracted. Wavelet coefficients are computed from the geometry image and used as a biometric signature. The method is evaluated using the largest publicly available database and achieves 99.7% rank-one recognition rate. The state-of-the-art accuracy of the multimodal fusion is attributed to the low correlation between the individual differentiability of the two modalities.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "A new user-friendly visual environment for breast MRI data analysis",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0169260713000035",
+            "Abstract": "In this paper a novel, user friendly visual environment for Breast MRI Data Analysis is presented (BreDAn). Given planar MRI images before and after IV contrast medium injection, BreDAn generates kinematic graphs, color maps of signal increase and decrease and finally detects high risk breast areas. The advantage of BreDAn, which has been validated and tested successfully, is the automation of the radiodiagnostic process in an accurate and reliable manner. It can potentially facilitate radiologists\u2019 workload.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:OU6Ihb5iCvQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Reconstruction of three-dimensional objects through matching of their parts",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/982888/",
+            "Abstract": "The problem of re-assembling an object from its parts or fragments has never been addressed with a unified computational approach, which depends on the pure geometric form of the parts and not on application-specific features. We propose a method for the automatic reconstruction of a model based on the geometry of its parts, which may be computer-generated models or range-scanned models. The matching process can benefit from any other external constraint imposed by the specific application.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Partial matching of 3D cultural heritage objects using panoramic views",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11042-014-2069-0.pdf",
+            "Abstract": "In this paper, we present a method for partial matching and retrieval of 3D objects based on range image queries. The proposed methodology addresses the retrieval of complete 3D objects using range image queries that represent partial views. The core methodology relies upon Bag-of-Visual-Words modelling and enhanced Dense SIFT descriptor computed on panoramic views and range image queries. Performance evaluation builds upon standard measures and a challenging 3D pottery dataset originating from the Hampson Archaeological Museum collection.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:fQNAKQ3IYiAC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "8D-THERMO CAM: combination of geometry with physiological information for face recognition",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1467582/",
+            "Abstract": "Biometrics-based technologies in the area of identity management are gaining increasing importance, as a means of establishing non-falsifiable credentials for end users. However, in the three-way tug-of-war between convenient, unobtrusive data collection (required for user acceptance), accuracy in results (required for justifying deployment), and speed (required for widespread use in practice), no single biometric to date has managed to hold the middle ground that would allow for its ready adoption. The overall goal of our project is to develop the theoretical framework and computational tools that will lead to the development of a practical, unobtrusive, and accurate face recognition system for convenient and effective access control. This framework encompasses 8D characteristics of the face (3D geometry+2D visible texture+2D infrared texture, over time). In this paper, we present a novel multi-modal facial \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast ray-tetrahedron intersection using plucker coordinates",
+            "Publication year": 2003,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.1080/10867651.2003.10487593",
+            "Abstract": "We present an algorithm for ray-tetrahedron intersection. The algorithm uses Pliicker coordinates to represent the ray and the edges of the tetrahedron and employs a rob ust and efficient test to determine the intersection. The algorithm is highly optimized and provides a significant performance increase over related algorithms. Source code is available online.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Taylor & Francis Group"
+        },
+        {
+            "Title": "3d facial landark detection and face registration",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1008806694768558397&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:_Re3VWB3Y0AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An application of the inpainting algorithm for recovering packet losses from transmitting sequential quad tree compressed images over wireless sensor networks",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1474667015308867",
+            "Abstract": "In this article an application of the inpainting algorithm for recovering packet losses from transmitting sequential quad tree compressed images over wireless sensor networks is presented. The aim of the proposed scheme is to reconstruct the missing information at the receiver side, based on the inpainting algorithm, instead of increasing the overhead of the network by requesting from the transceiver to re-transmit the lost data packets. The proposed architecture initially compresses the images sequentially using the quad tree decomposition algorithm. In the sequel, at the receiver side, the image is reconstructed as a lossy image, based on the available successfully received data packets, while afterwards the proposed scheme applies the image inpainting algorithm, in order to restore any missing partitions of the image. The inpainting algorithm is performed based on information derived from the the received image \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:RYcK_YlVTxYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "3D object repair using 2D algorithms",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11758525_36",
+            "Abstract": "A number of three-dimensional algorithms have been proposed to solve the problem of patching surfaces to rectify and extrapolate missing information due to model problems or bad geometry visibility during data capture. On the other hand, a number of similar yet more simple and robust techniques apply to 2D image data and are used for texture restoration. In this paper we make an attempt to bring these two-dimensional techniques to the 3D domain due to their obvious advantage of simplicity and controllability. Creating a depth image with the help of a voxelisation algorithm will allow us to apply a variety of image repair algorithms in order to mend a 3D object. The use of three variations of the texture synthesis algorithm is investigated. Constrained texture synthesis and its variations using the Haar wavelet and image decomposition methods are also proposed in order to preserve patterns appearing on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "3d mesh video retrieval: A survey",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6365464/",
+            "Abstract": "This survey addresses methodologies for 3D mesh video retrieval including 3D mesh video action/motion retrieval and 3D mesh video facial expression recognition. They all involve retrieval procedures and, consequently, classification methods in order to identify similar actions/motions and facial expressions. The approaches are primarily categorized according to the 3D model representation that they use and their feature extraction and classification methods. Comparative data for the most promising methods is given, mainly on publicly available datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Parallel ray tracing with 5D adaptive subdivison",
+            "Publication year": 2001,
+            "Publication url": "https://dspace5.zcu.cz/handle/11025/15752",
+            "Abstract": "We present strategies for parallelising ray tracing based on 5D adaptive subdivision. Our goals are to obtain good speed-up and to efficiently balance the load between the processors while minimising the required memory per processor inherently large in 5D subdivision. First, loosely coupled strategies are presented, which are ideal for implementation on clusters of workstations, the most commonly used form of parallel processing nowadays. Then we consider a tightly coupled algorithm ideal for multiprocessors with fast interconnection network or shared memory. Finally, results on a cluster of workstations are presented and discussed.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "V\u00e1clav Skala-UNION Agency"
+        },
+        {
+            "Title": "Seismic attribute benchmarking on instantaneous frequency",
+            "Publication year": 2019,
+            "Publication url": "https://library.seg.org/doi/abs/10.1190/geo2018-0007.1",
+            "Abstract": "The complex seismic trace analysis is a widely applied and versatile method for computing seismic attributes. Instantaneous frequency is an important complex trace attribute, and it is generally used for identifying specific seismic events, such as abnormal attenuation and thin bed tuning. Although the definition itself is clear, in practice, the calculation varies considerably and deviates from the definition. As a result, there is little consistency in the calculation of the instantaneous frequency. We thus adopt a robust and reliable scientific process to objectively compare various implementations of the instantaneous frequency. To this end, we start by reviewing four classic algorithms for instantaneous frequency computation and efficient approximations and point out several issues and weaknesses of these algorithms. Then, the theoretical foundation for the instantaneous frequency of the sum of two sinusoids is derived \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:b1wdh0AR-JQC",
+            "Publisher": "Society of Exploration Geophysicists"
+        },
+        {
+            "Title": "Three-dimensional face recognition in the presence of facial expressions: An annotated deformable model approach",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4107568/",
+            "Abstract": "In this paper, we present the computational tools and a hardware prototype for 3D face recognition. Full automation is provided through the use of advanced multistage alignment algorithms, resilience to facial expressions by employing a deformable model framework, and invariance to 3D capture devices through suitable preprocessing steps. In addition, scalability in both time and space is achieved by converting 3D facial scans into compact metadata. We present our results on the largest known, and now publicly available, face recognition grand challenge 3D facial database consisting of several thousand scans. To the best of our knowledge, this is the highest performance reported on the FRGC v2 database for the 3D modality",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Querying 3D mesh sequences for human action retrieval",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7182714/",
+            "Abstract": "In this paper, the unsupervised human action retrieval problem in 3D mesh sequences is addressed. An action is represented by a mesh sequence wherein each frame is represented by a static shape descriptor. Six state-of-the-art static descriptors are used to extract meaningful information of the mesh objects in the sequence. These descriptors are first examined in terms of similarity performance using Receiver Operating Characteristic (ROC) curves. Then, they are utilized in the action retrieval problem, where the query is a 3D mesh sequence. Each descriptor for an action, is considered as a multidimensional curve which traverses the corresponding points. The temporal similarity estimation is achieved by two variations of the descriptor's normalization in the context of Multidimensional Dynamic Time Warping. Experimental results are given for two standard datasets, one containing real data and another one \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Hardware acceleration for 3D image reconstruction",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4621553/",
+            "Abstract": "This work presents a hardware acceleration scheme for a 3D reconstruction method, targeting demanding dynamic Integral Imaging applications. The architecture exploits parallel processing and minimizes memory operations by implementing an efficient metric and an extended-access memory scheme. The employed data reutilization technique reduces overall throughput allowing the use of a single FPGA. Results reveal that the hardware system accelerates the software method by an order of magnitude and its processing rate surpasses the typical rate of a dynamic Integral Imaging acquisition system, making it suitable for robust 3D image and video reconstruction applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:isC4tDSrTZIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A robust spatio-temporal scheme for dynamic 3D facial expression retrieval",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-015-1142-7",
+            "Abstract": "The problem of facial expression recognition in dynamic sequences of 3D face scans has received a significant amount of attention in the recent past whereas the problem of retrieval in this type of data has not. A novel retrieval scheme for such data is introduced in this paper. It is the first spatio-temporal retrieval scheme ever used for retrieval in dynamic sequences of 3D face scans. The proposed scheme automatically detects specific facial landmarks and uses them to create a spatio-temporal descriptor. At first, geometric as well as topological information of the 3D face scans is captured by using the detected landmarks. In the sequel, the aforementioned spatial information is filtered by using wavelet transformation, resulting to our final spatio-temporal descriptor. Our descriptor is invariant to the number of the 3D face scans of a facial expression sequence. The proposed retrieval scheme exploits the Square of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Survey of automated multiple sclerosis lesion segmentation techniques on magnetic resonance imaging",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0895611118303227",
+            "Abstract": "Multiple sclerosis (MS) is a chronic disease. It affects the central nervous system and its clinical manifestation can variate. Magnetic Resonance Imaging (MRI) is often used to detect, characterize and quantify MS lesions in the brain, due to the detailed structural information that it can provide. Manual detection and measurement of MS lesions in MRI data is time-consuming, subjective and prone to errors. Therefore, multiple automated methodologies for MRI-based MS lesion segmentation have been proposed. Here, a review of the state-of-the-art of automatic methods available in the literature is presented.The current survey provides a categorization of the methodologies in existence in terms of their input data handling, their main strategy of segmentation and their type of supervision. The strengths and weaknesses of each category are analyzed and explicitly discussed. The positive and negative aspects of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:tYavs44e6CUC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "An automated method for human face modeling and relighting with application to face recognition",
+            "Publication year": 2007,
+            "Publication url": "https://hal.inria.fr/inria-00267794/",
+            "Abstract": "In this paper, we present a novel method for human face modeling and its application to face relighting and recognition. An annotated face model is fitted onto the raw 3D data using a subdivision-based deformable model framework. The fitted face model is subsequently converted to a geometry image representation. This results in regularly sampled, registered and annotated geometry data. The albedo of the skin is retrieved by using an analytical skin reflectance model that removes the lighting (shadows, diffuse and specular) from the texture. Additional provisions are made such that if the input contains over-saturated specular highlights, an inpainting method with texture synthesis is used as a post-processing step in order to estimate the texture. The method is fully automatic and uses as input only the 3D geometry and texture data of the face, as acquired by commercial 3D scanners. No measurement or calibration of the lighting environment is required. The method's fully automatic nature and its minimum input requirements make it applicable to both computer vision applications (e.g., face recognition) and computer graphics applications (i.e., relighting, face synthesis and facial expressions transfer). Moreover, it allows the utilization of existing 3D facial databases. We present very encouraging results on a challenging dataset .",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "INRIA"
+        },
+        {
+            "Title": "Foreword to the special section on 3D Object Retrieval 2020 workshop (3DOR2020)",
+            "Publication year": 2020,
+            "Publication url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7579095/",
+            "Abstract": "The aim of the 3D Object Retrieval (3DOR) Workshop series is 1 to provide a premier venue for research in 3D/4D visual con-2 tent search, exploration and understanding for researchers from 3 diverse fields such as Computer Vision, Computer Graphics, Ma-4 chine Learning, Cognitive Science and Human-Computer Interac-5 tion. In addition, the Shape Retrieval Contest (SHREC) is an estab-6 lished venue for benchmarking new and existing methods in shape 7 retrieval. SHREC and 3DOR have been running together since 2009 8 with SHREC being the benchmarking arm of 3DOR and 3DOR being 9 the dissemination and networking arm of SHREC. 10 3DOR 2020 was the 13th workshop in the 3DOR series. It took 11 place on the 4th and 5th of September 2020. The planned physical 12 venue was TU Graz, Austria, but due to the outbreak of COVID-19, 13 it was converted to a virtual event hosted by TU Graz \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:PVjk1bu6vJQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Partial 3d object retrieval combining local shape descriptors with global fisher vectors",
+            "Publication year": 2015,
+            "Publication url": "http://diglib.eg.org/bitstream/handle/10.2312/3dor.20151051.023-030/023-030.pdf?sequence=1&isAllowed=y",
+            "Abstract": "This work introduces a partial 3D object retrieval method, applicable on both meshes and point clouds, which is based on a hybrid shape matching scheme combining local shape descriptors with global Fisher vectors. The differential fast point feature histogram (dFPFH) is defined so as to extend the well-known FPFH descriptor in order to capture local geometry transitions. Local shape similarity is quantified by averaging the minimum weighted distances associated with pairs of dFPFH values calculated on the partial query and the target object. Global shape similarity is derived by means of a weighted distance of Fisher vectors. Local and global distances are derived for multiple scales and are being combined to obtain a ranked list of the most similar complete 3D objects. Experiments on the large-scale benchmark dataset for partial object retrieval of the shape retrieval contest (SHREC) 2013, as well as on the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Partial matching of interpose 3D facial data for face recognition",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5339019/",
+            "Abstract": "Three-dimensional face recognition has lately received much attention due to its robustness in the presence of lighting and pose variations. However, certain pose variations often result in missing facial data. This is common in realistic scenarios, such as uncontrolled environments and uncooperative subjects. Most previous 3D face recognition methods do not handle extensive missing data as they rely on frontal scans. Currently, there is no method to perform recognition across scans of different poses. A unified method that addresses the partial matching problem is proposed. Both frontal and side (left or right) facial scans are handled in a way that allows interpose retrieval operations. The main contributions of this paper include a novel 3D landmark detector and a deformable model framework that supports symmetric fitting. The landmark detector is utilized to detect the pose of the facial scan. This information is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Randomized Sub-Volume Partitioning for Part-Based 3D Model Retrieval",
+            "Publication year": 2015,
+            "Publication url": "https://diglib.eg.org/bitstream/handle/10.2312/3dor.20151050.015-021/015-021.pdf?sequence=1",
+            "Abstract": "Given a query that specifies partial shape, a Part-based 3D Model Retrieval (P3DMR) system would retrieve 3D models whose part (s) matches the query. Computationally, this is quite challenging; the query must be compared against parts of 3D models having unknown position, orientation, and scale. To our knowledge, no algorithm can perform P3DMR on a database having significant size (eg, 100K 3D models) that includes polygon soup and other not-so-well-defined shape representations. In this paper, we propose a scalable P3DMR algorithm called Part-based 3D model retrieval by Randomized Sub-Volume Partitioning, or P3D-RSVP. To match a partial query with a set of (whole) 3D models in the database, P3D-RSVP iteratively partitions a 3D model into a set of sub-volumes by using 3D grids having randomized intervals and orientations. To quickly compare the query with all the sub-volumes of all the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:t6usbXjVLHcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Preface to special issue on 3DOR 2010",
+            "Publication year": 2011,
+            "Publication url": "http://kops.uni-konstanz.de/bitstream/handle/123456789/28000/Pratikakis_280001.pdf?sequence=1",
+            "Abstract": "This special issue of The Visual Computer encompasses six papers that were selected among those presented at the 3rd Eurographics Workshop on 3D Object Retrieval (May 2, 2010, Norrk\u00f6ping, Sweden). The authors were invited to submit a revised and substantially extended version of their contribution to The Visual Computer journal which underwent a new review cycle.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "\u00davodn\u00ed strany",
+            "Publication year": 2013,
+            "Publication url": "https://2nhn5f2.257.cz/handle/11025/10617",
+            "Abstract": "DSpace at University of West Bohemia: \u00davodn\u00ed strany P\u0159ihl\u00e1sit se N\u00e1zev: \u00davodn\u00ed strany \nCitace zdrojov\u00e9ho dokumentu: WSCG 2013: Poster Proceedings: 21st International \nConference in Central Europe on Computer Graphics, Visualization and Computer Vision in \nco-operation with EUROGRAPHICS Association. Datum vyd\u00e1n\u00ed: 2013 Nakladatel: V\u00e1clav \nSkala - UNION Agency Typ dokumentu: jin\u00fd other URI: http://wscg.zcu.cz/WSCG2013/!_2013-WSCG-Poster-Proceedings.pdf \nhttp://hdl.handle.net/11025/10617 ISBN: 978-80-86943-76-3 Kl\u00ed\u010dov\u00e1 slova: \u00favodn\u00ed strany;obsah;redak\u010dn\u00ed \nrada Kl\u00ed\u010dov\u00e1 slova v dal\u0161\u00edm jazyce: introductory pages;contents;editorial board Pr\u00e1va: \u00a9 \nV\u00e1clav Skala - UNION Agency Vyskytuje se v kolekc\u00edch: WSCG 2013: Poster Proceedings \nSoubory p\u0159ipojen\u00e9 k z\u00e1znamu: Soubor Popis Velikost Form\u00e1t uvodni_strany.pdf Pln\u00fd text \n393,8 kB Adobe PDF Zobrazit/otev\u0159\u00edt Zobrazit cel\u00fd z\u00e1znam Zobrazit k na :\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:pyW8ca7W8N0C",
+            "Publisher": "V\u00e1clav Skala-UNION Agency"
+        },
+        {
+            "Title": "Graphics and visualization: principles & algorithms",
+            "Publication year": 2008,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=9UwhIdwmS9cC&oi=fnd&pg=PP1&dq=info:MDrp8dUKf94J:scholar.google.com&ots=pQYFXOwA17&sig=SSg699tNNKqoy923_ZQwObgpDX4",
+            "Abstract": "This book is a comprehensive introduction to visual computing, dealing with the modeling and synthesis of visual data by means of computers. What sets this book apart from other computer graphics texts is the integrated coverage of computer graphics and visualization topics, including important techniques such as subdivision and multi-resolution modeling, scene graphs, shadow generation, ambient occlusion, and scalar and vector data visualization. Students and practitioners will benefit from the comprehensive coverage of the principles that are the basic tools of their trade, from fundamental computer graphics and classic visualization techniques to advanced topics.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "CrC Press"
+        },
+        {
+            "Title": "On the retrieval of 3D mesh sequences of human actions",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11042-015-3137-9.pdf",
+            "Abstract": "In this paper, the problem of unsupervised human action retrieval in 3D mesh sequences is addressed. An action is composed of a mesh sequence, wherein each frame is represented by a static shape descriptor. Six state-of-the-art static descriptors are used to extract meaningful information for each sequence. Firstly, these descriptors are examined in terms of frame-to-frame similarity by means of Receiver Operating Characteristic (ROC) curves. Then, they are utilized in the action retrieval problem, where the query is an entire 3D mesh sequence. Each action is a multidimensional curve which traverses the points defined by the vectors of each descriptor. The estimation of similarity between actions is achieved by calculating the Dynamic Time Warping (DTW) distance between the corresponding curves. The retrieval performance is further examined when the Sakoe band is used to constrain the search \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:9vf0nzSNQJEC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "An overview of parallel visualisation methods for Mandelbrot and Julia sets",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0097849303001067",
+            "Abstract": "We present a comparative study of simple parallelisation schemes for the most widely used methods for the graphical representation of Mandelbrot and Julia sets. The compared methods render the actual attractor or its complement.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Fast and accurate GPU-accelerated, high-resolution 3D registration for the robotic 3D reconstruction of compliant food objects",
+            "Publication year": 2021,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0168169920331343",
+            "Abstract": "If we are to develop robust robot-based automation in primary production and processing in the agriculture and ocean space sectors, we have to develop solid vision-based perception for the robots. Accurate vision-based perception requires fast 3D reconstruction of the object in order to extract the geometrical features necessary for robotic manipulation. To this end, we present an accurate, real-time and high-resolution ICP-based 3D registration algorithm for eye-in-hand configuration using an RBG-D camera. Our 3D reconstruction, via an efficient GPU implementation, is up to 33 times faster than a similar CPU implementation, and up to eight times faster than a similar library implementation, resulting in point clouds of 1 mm resolution. The comparison of our 3D reconstruction with other ICP-based baselines, through trajectories from 3D registration and reference trajectories for an eye-in-hand configuration, shows \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:86PQX7AUzd4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Unsupervised spectral mesh segmentation driven by heterogeneous graphs",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7437462/",
+            "Abstract": "A fully automatic mesh segmentation scheme using heterogeneous graphs is presented. We introduce a spectral framework where local geometry affinities are coupled with surface patch affinities. A heterogeneous graph is constructed combining two distinct graphs: a weighted graph based on adjacency of patches of an initial over-segmentation, and the weighted dual mesh graph. The partitioning relies on processing each eigenvector of the heterogeneous graph Laplacian individually, taking into account the nodal set and nodal domain theory. Experiments on standard datasets show that the proposed unsupervised approach outperforms the state-of-the-art unsupervised methodologies and is comparable to the best supervised approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:WqliGbK-hY8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Statistical distributions of oligonucleotide combinations: applications in human chromosomes 21 and 22",
+            "Publication year": 2002,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0378437102011962",
+            "Abstract": "Statistical properties of distances between all quintuplets and hexaplets are calculated and long-range distributions are observed for certain quintuplets and hexaplets, common in human chromosomes 21 and 22. The oligonucleotides were ordered according to their power-law exponents and this ordering has separated quintuplets or hexaplets which contain consensus sequences of promoters from other random oligonucleotides. These results are in accordance with earlier observations and theoretical predictions and demonstrate a different aspect of long-range correlations in genomic sequences. Comparison of the statistical properties of quintuplets and hexaplets between the two chromosomes is undertaken and it is shown that statistics are universal in the two chromosomes.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:hkOj_22Ku90C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Statistical algorithms for long DNA sequences: Oligonucleotide distributions and homogeneity maps",
+            "Publication year": 2005,
+            "Publication url": "https://content.iospress.com/articles/scientific-programming/spr00171",
+            "Abstract": "The statistical properties of oligonucleotide appearances within long DNA sequences often reveal useful characteristics of the corresponding DNA areas. Two algorithms to statistically analyze oligonucleotide appearances within long DNA sequences in genome banks are presented. The first algorithm determines statistical indices for arbitrary length oligonucleotides within arbitrary length DNA sequences. The critical exponent \u03bc of the distance distribution between consecutive occurrences of the same oligonucleotide is calculated and its value is shown to characterize the functionality of the oligonucleotide. The second algorithm searches for areas with variable homogeneity, based on the density of oligonucleotides. The two algorithms have been applied to representative eucaryotes (the animal Mus musculusand the plant Arabidopsis thaliana) and interesting results were obtained, confirmed by biological \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:JQOojiI6XY0C",
+            "Publisher": "IOS Press"
+        },
+        {
+            "Title": "A functional view of parallel computer graphics",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/933983/",
+            "Abstract": "The main purpose of this paper is to present a functional view of the fundamentals of the computer graphics process based on the classic polygonal model. There are several advantages for adopting such an approach. Firstly, the functional view is a natural abstraction of the problem. Secondly, many well known computer graphics optimization techniques can be directly obtained from the original specification by applying general and well understood transformational programming algebraic laws on functional expressions. Thirdly, a number of highly parallel implementations suited for various parallel architectures can be derived from the initial specification by a systematic application of general transformation strategies for parallelizing functional programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:SeFeTyx0c_EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Action unit detection in 3 D facial videos with application in facial expression retrieval and recognition",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/article/10.1007/s11042-018-5699-9",
+            "Abstract": "This work introduces a new scheme for action unit detection in 3D facial videos. Sets of features that define action unit activation in a robust manner are proposed. These features are computed based on eight detected facial landmarks on each facial mesh that involve angles, areas and distances. Support vector machine classifiers are then trained using the above features in order to perform action unit detection. The proposed AU detection scheme is used in a dynamic 3D facial expression retrieval and recognition pipeline, highlighting the most important AU s, in terms of providing facial expression information, and at the same time, resulting in better performance than state-of-the-art methodologies.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:EYYDruWGBe4C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "An Analytical Evaluation of Data Dependence Analysis Techniques",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10766-018-0577-7",
+            "Abstract": "Optimizing compilers rely upon data dependence analysis to reveal the ordering constraints among statements in a program that need to be preserved in order to produce valid optimized and parallel code. Testing array references for data dependence is equivalent to determining whether a system of equalities and inequalities has an integer solution. A number of data dependence tests have been proposed in the literature. In each test there are different tradeoffs between accuracy and efficiency. In this paper we study the fundamental relationships between several data dependence tests. We consider the Banerjee Extreme Value test, Fourier Motzkin Variable Elimination (FMVE), the I-Test, and the Omega test, which are representative of the state of the art in data dependence analysis. The Banerjee Extreme Value test and FMVE can only determine the existence of real solutions to a system. Thus they can only \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:L7CI7m0gUJcC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Towards the Creation of Digital Stones from 2D Samples.",
+            "Publication year": 2014,
+            "Publication url": "https://diglib.eg.org/xmlui/bitstream/handle/10.2312/gch.20141320.021-024/021-024.pdf?sequence=1",
+            "Abstract": "In order to decide which preservation strategies one should follow for Cultural Heritage objects made of stone, it is necessary to estimate the impact of different alternative strategies. A useful aid in such a process is the simulation of the stone degradation process. The first step in such a process is to create realistic digital representations of stones. In this work we present early efforts to create 3D voxelized representations of stones from given 2D example-textures of the desired stone-material. The process aims at the creation of 3D stone materials, consistent with 2D samples. The presented work is one part of the PRESIOUS EU project.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Visual vocabulary signature for 3D object retrieval and partial matching",
+            "Publication year": 2009,
+            "Publication url": "http://diglib.eg.org/bitstream/handle/10.2312/3DOR.3DOR09.021-028/021-028.pdf?sequence=1&isAllowed=n",
+            "Abstract": "In this paper a novel object signature is proposed for 3D object retrieval and partial matching. A part-based representation is obtained by partitioning the objects into subparts and by characterizing each segment with different geometric descriptors. Therefore, a Bag of Words framework is introduced by clustering properly such descriptors in order to define the so called 3D visual vocabulary. In this fashion, the object signature is defined as a histogram of 3D visual word occurrences. Several examples on the Aim@ Shape watertight dataset demonstrate the versatility of the proposed method in matching either 3D objects with articulated shape changes or partially occluded or compound objects. In particular, a comparison with the methods that participated to the Shape Retrieval contest 2007 (SHREC) reports satisfactory results for both object retrieval and partial matching.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:kz9GbA2Ns4gC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Near real-time 3D reconstruction from InIm video stream",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-69812-8_33",
+            "Abstract": "An efficient hardware architecture for the acceleration of an integrated 3D reconstruction method is presented, targeting demanding dynamic Integral Imaging applications. It exploits parallel processing and features minimized memory operations by implementing an extended-access memory scheme. Its reduced data throughput, thanks to optimized data utilization, makes it suitable for single FPGA device implementation. Results reveal that the hardware system outperforms the software method by an order of magnitude. Moreover, its processing rate surpasses the typical rate of a dynamic Integral Imaging acquisition system, thus making a significant step towards real-time 3D video reconstruction.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A3mark: A publicly available online web service for seismic attribute benchmarking",
+            "Publication year": 2016,
+            "Publication url": "https://library.seg.org/doi/abs/10.1190/segam2016-13841990.1",
+            "Abstract": "Seismic attribute computation is one of the most active research and engineering topics in the computational geophysics world. Although numerous algorithms for seismic attribute computation have been developed, relatively little work has been done on scientifically characterizing their quality and accuracy. In this paper, we present a robust and reliable scientific process to functionally compare similar attributes. We target structural seismic attributes, including edge/fault, dip angle, dip azimuth, and curvature. To establish a common software platform, and collection of datasets for efficient fully automatic evaluation, we have designed a stand-alone flexible online Web service. It is based on a C#-MATLAB\u00ae implementation, which we call A3Mark. The publicly available Web service enables the evaluation of individual categories of seismic attributes and can be easily extended to include new algorithms. We have also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Society of Exploration Geophysicists"
+        },
+        {
+            "Title": "Using facial symmetry to handle pose variations in real-world 3D face recognition",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5728826/",
+            "Abstract": "The uncontrolled conditions of real-world biometric applications pose a great challenge to any face recognition approach. The unconstrained acquisition of data from uncooperative subjects may result in facial scans with significant pose variations along the yaw axis. Such pose variations can cause extensive occlusions, resulting in missing data. In this paper, a novel 3D face recognition method is proposed that uses facial symmetry to handle pose variations. It employs an automatic landmark detector that estimates pose and detects occluded areas for each facial scan. Subsequently, an Annotated Face Model is registered and fitted to the scan. During fitting, facial symmetry is used to overcome the challenges of missing data. The result is a pose invariant geometry image. Unlike existing methods that require frontal scans, the proposed method performs comparisons among interpose scans using a wavelet-based \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Expression-invariant multispectral face recognition: you can smile now!",
+            "Publication year": 2006,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6202/620204/Expression-invariant-multispectral-face-recognition-you-can-smile-now/10.1117/12.665697.short",
+            "Abstract": "Face recognition performance has always been affected by the different facial expressions a subject may display. In this paper, we present an extension to the UR3D face recognition algorithm, which enables us to decrease the discrepancy in its performance for datasets from subjects with and without a neutral facial expression, from 15% to 3%.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:4TOpqqG69KYC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "IJCV Special Issue on 3D Object Retrieval",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s11263-009-0309-y.pdf",
+            "Abstract": "3D object representations have become an integral part of modern computer graphics applications, such as computeraided design, game development and film production. At the same time, 3D data have become very common in domains such as computer vision, computational geometry, molecular biology and medicine. The rapid evolution in graphics hardware and software development, in particular the availability of low cost 3D scanners, has greatly facilitated 3D model acquisition, creation and manipulation, giving the opportunity to experience applications using 3D models to a large user community. As the number of 3D models is rapidly growing, the development of efficient search mechanisms is required for the effective retrieval of 3D objects from large repositories, both of a single class (such as human faces) and across classes. As this field gains momentum, a number of dedicated events appear within \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "EEG biometrics: on the use of occipital cortex based features from visual evoked potentials",
+            "Publication year": 2015,
+            "Publication url": "http://ojs.bibsys.no/index.php/NIK/article/view/243",
+            "Abstract": "The potential of using Electro-Encephalo-Gram (EEG) data as a biometric identifier is studied. This is the first study that assesses looming stimuli for the creation of biometrically useful Visual Evoked Potentials (VEP), ie EEG responses due to visual stimuli. A novel method for the detection of VEP responses with minimal expert interaction is introduced. The EEG data, segmented based on the VEP, are used to create a reliable feature vector. In contrast to previous studies, we provide a publicly available evaluation dataset based on infants which is therefore not biased due to unhealthy individuals. Only data from the occipital cortex are used (ie about 3 of the many possible electrode positions in the scalp), making the potential EEG biometric capture devices relatively simpler.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An Indexing Scheme and Descriptor for 3D Object Retrieval Based on Local Shape Querying",
+            "Publication year": 2020,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200802916I/abstract",
+            "Abstract": "A binary descriptor indexing scheme based on Hamming distance called the Hamming tree for local shape queries is presented. A new binary clutter resistant descriptor named Quick Intersection Count Change Image (QUICCI) is also introduced. This local shape descriptor is extremely small and fast to compare. Additionally, a novel distance function called Weighted Hamming applicable to QUICCI images is proposed for retrieval applications. The effectiveness of the indexing scheme and QUICCI is demonstrated on 828 million QUICCI images derived from the SHREC2017 dataset, while the clutter resistance of QUICCI is shown using the clutterbox experiment.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:5qfkUJPXOUwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multi-modal face recognition",
+            "Publication year": 2009,
+            "Publication url": "https://patents.google.com/patent/US7512255B2/en",
+            "Abstract": "A method for identifying an individual includes the steps of collecting data from an individual's face using visible and infrared cameras, processing the acquired data, fitting a geometric model template of the face to the data according to a mathematical method, processing the fitted model to extract relevant first metadata, storing the first metadata in a machine readable format, and comparing second metadata to the first metadata, to determine their degree of similarity in order to identify the individual.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient 3D shape matching and retrieval using a concrete radialized spherical projection representation",
+            "Publication year": 2007,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320307000106",
+            "Abstract": "We present a 3D shape retrieval methodology based on the theory of spherical harmonics. Using properties of spherical harmonics, scaling and axial flipping invariance is achieved. Rotation normalization is performed by employing the continuous principal component analysis along with a novel approach which applies PCA on the face normals of the model. The 3D model is decomposed into a set of spherical functions which represents not only the intersections of the corresponding surface with rays emanating from the origin but also points in the direction of each ray which are closer to the origin than the furthest intersection point. The superior performance of the proposed methodology is demonstrated through a comparison against state-of-the-art approaches on standard databases.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Effective representation of 2D and 3D data using fractal interpolation",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4390951/",
+            "Abstract": "Methods for representing curves in \\mathbb{R}^2 and \\mathbb{R}^3 using fractal interpolation techniques are presented. We show that such representations are both effective and convenient for irregular or complicated data. Experiments in various datasets, including geographical and medical data, verify the practical usefulness of these methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Panorama: A 3d shape descriptor based on panoramic views for unsupervised 3d object retrieval",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/article/10.1007/s11263-009-0281-6",
+            "Abstract": "We present a novel 3D shape descriptor that uses a set of panoramic views of a 3D object which describe the position and orientation of the object\u2019s surface in 3D space. We obtain a panoramic view of a 3D object by projecting it to the lateral surface of a cylinder parallel to one of its three principal axes and centered at the centroid of the object. The object is projected to three perpendicular cylinders, each one aligned with one of its principal axes in order to capture the global shape of the object. For each projection we compute the corresponding 2D Discrete Fourier Transform as well as 2D Discrete Wavelet Transform. We further increase the retrieval performance by employing a local (unsupervised) relevance feedback technique that shifts the descriptor of an object closer to its cluster centroid in feature space. The effectiveness of the proposed 3D object retrieval methodology is demonstrated via an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Feature fusion for facial landmark detection",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0031320314001058",
+            "Abstract": "Facial landmark detection is a crucial first step in facial analysis for biometrics and numerous other applications. However, it has proved to be a very challenging task due to the numerous sources of variation in 2D and 3D facial data. Although landmark detection based on descriptors of the 2D and 3D appearance of the face has been extensively studied, the fusion of such feature descriptors is a relatively under-studied issue. In this paper, a novel generalized framework for combining facial feature descriptors is presented, and several feature fusion schemes are proposed and evaluated. The proposed framework maps each feature into a similarity score and combines the individual similarity scores into a resultant score, used to select the optimal solution for a queried landmark. The evaluation of the proposed fusion schemes for facial landmark detection clearly indicates that a quadratic distance to similarity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Fast fragment assemblage using boundary line and surface matching",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4624516/",
+            "Abstract": "In the recent past, fragment matching has been treated in two different approaches, one using curve matching methods and one that compares whole surfaces or volumes, depending on the nature of the broken artefacts. Presented here is a fast, unified method that combines curve matching techniques with a surface matching algorithm to estimate the positioning and respective matching error for the joining of three-dimensional fragmented objects. Combining both aspects of fragment matching, essentially eliminates most of the ambiguities present in each one of the matching problem categories and helps provide more accurate results with low computational cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "3D facial landmark detection under large yaw and expression variations",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6361404/",
+            "Abstract": "A 3D landmark detection method for 3D facial scans is presented and thoroughly evaluated. The main contribution of the presented method is the automatic and pose-invariant detection of landmarks on 3D facial scans under large yaw variations (that often result in missing facial data), and its robustness against large facial expressions. Three-dimensional information is exploited by using 3D local shape descriptors to extract candidate landmark points. The shape descriptors include the shape index, a continuous map of principal curvature values of a 3D object's surface, and spin images, local descriptors of the object's 3D point distribution. The candidate landmarks are identified and labeled by matching them with a Facial Landmark Model (FLM) of facial anatomical landmarks. The presented method is extensively evaluated against a variety of 3D facial databases and achieves state-of-the-art accuracy (4.5-6.3 mm \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Robust 3D Face Reconstruction Using One/Two Facial Images",
+            "Publication year": 2021,
+            "Publication url": "https://www.mdpi.com/2313-433X/7/9/169",
+            "Abstract": "Being able to robustly reconstruct 3D faces from 2D images is a topic of pivotal importance for a variety of computer vision branches, such as face analysis and face recognition, whose applications are steadily growing. Unlike 2D facial images, 3D facial data are less affected by lighting conditions and pose. Recent advances in the computer vision field have enabled the use of convolutional neural networks (CNNs) for the production of 3D facial reconstructions from 2D facial images. This paper proposes a novel CNN-based method which targets 3D facial reconstruction from two facial images, one in front and one from the side, as are often available to law enforcement agencies (LEAs). The proposed CNN was trained on both synthetic and real facial data. We show that the proposed network was able to predict 3D faces in the MICC Florence dataset with greater accuracy than the current state-of-the-art. Moreover, a scheme for using the proposed network in cases where only one facial image is available is also presented. This is achieved by introducing an additional network whose task is to generate a rotated version of the original image, which in conjunction with the original facial image, make up the image pair used for reconstruction via the previous method.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:GtLg2Ama23sC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Instantaneous frequency seismic attribute benchmarking",
+            "Publication year": 2017,
+            "Publication url": "https://library.seg.org/doi/abs/10.1190/segam2017-17672950.1",
+            "Abstract": "Instantaneous frequency is widely used for identifying specific seismic events, such as abnormal attenuation and thin bed tuning, based on its frequency content. It is one of the important seismic attributes related to the complex seismic trace. Although the definition itself is clear in theory, in practice the calculation can vary considerably, and deviate from the theoretical aim. Despite several decades since it occurred, there is still little consistency in the calculations of instantaneous frequency. We thus propose a robust and reliable scientific process to objectively compare various implementations of instantaneous frequency. To this end, through theory deduction and a physical model illustration, a complicated synthetic test dataset based on two oscillating function combinations, with varying frequencies and amplitudes, is generated. Correspondingly, its \u2018ground truth\u2019 instantaneous frequency is calculated by the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:URolC5Kub84C",
+            "Publisher": "Society of Exploration Geophysicists"
+        },
+        {
+            "Title": "Evaluation of the UR3D algorithm using the FRGC v2 data set",
+            "Publication year": 2005,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.7117&rep=rep1&type=pdf",
+            "Abstract": "From a user\u2019s perspective, face recognition is one of the most desirable biometrics, due to its non-intrusive nature. As a large number of face recognition systems have been developed over the past 15 years, their evaluation and comparison by an independent body becomes crucial. Face Recognition Vendor Tests (FRVT) are organized at regular intervals by the National Institute of Standards and Technology (NIST) and cooperating institutions. The last FRVT (2002) showed that no system was capable of offering the accuracy desired for field deployment. Thus the Face Recognition Grand Challenge (FRGC) was set up with the aim to build systems with an order of magnitude higher accuracy. We have applied our previous work on deformable models and 3D representations to the problem of recognizing faces, based on 3D and infrared facial data. The 3D component of our system (UR3D) has been tested on the FRGC v2 dataset and the results are reported here. These results gave us a much needed insight on the performance of UR3D and pointed to areas of further improvement.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Profile-based face recognition",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4813370/",
+            "Abstract": "In this paper, we introduce a new system for profile-based face recognition. The specific scenario involves a driver entering a gated area and using his/her side-view image (the driver remains seated in the vehicle) as identification. The system has two modes: enrollment and identification. In the enrollment mode, 3D face models of subjects are acquired and profiles extracted under different poses and stored to form a gallery database. In the identification mode, 2D images are acquired and the corresponding planar profiles are extracted and used as probes. Then, probes are matched to the gallery profiles to determine identity. The matching is accomplished using implicit shape registration via the vector distance functions. In our experiments, the approach using implicit registration exhibited higher accuracy than the iterative closest point methodology due to the use of more general transformations. The performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reconstruction of Three-Dimensional Objects through Matching of Their Parts",
+            "Publication year": 2002,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.324.751&rep=rep1&type=pdf",
+            "Abstract": "The problem of reassembling an object from its parts or fragments has never been addressed with a unified computational approach, which depends on the pure geometric form of the parts and not application-specific features. We propose a method for the automatic reconstruction of a model based on the geometry of its parts, which may be computer-generated models or range-scanned models. The matching process can benefit from any other external constraint imposed by the specific application.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:WbkHhVStYXYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "SHREC\u201916 track: Partial shape queries for 3d object retrieval",
+            "Publication year": 2016,
+            "Publication url": "https://www.researchgate.net/profile/Paul-Rosin/publication/301484938_SHREC'16_Track_Partial_Shape_Queries_for_3D_Object_Retrieval/links/573b57fe08ae9ace840ea5aa/SHREC16-Track-Partial-Shape-Queries-for-3D-Object-Retrieval.pdf",
+            "Abstract": "Despite numerous recent efforts, 3D object retrieval based on partial shape queries remains a challenging problem, far from being solved. The problem can be defined as: given a partial view of a shape as query, retrieve all partially similar 3D models from a repository. The objective of this track is to evaluate the performance of partial 3D object retrieval methods, for partial shape queries of various scan qualities and degrees of partiality. The retrieval problem is often found in cultural heritage applications, for which partial scans of objects query a dataset of geometrically distinct classes.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:kzcrU_BdoSEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Segmentation and surface characterization of arbitrary 3d meshes for object reconstruction and recognition",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/905491/",
+            "Abstract": "Polygonal models are the most common representation of structured 3D data in computer graphics, pattern recognition and machine vision. The method presented here automatically identifies and labels all compact surface regions of a polygonal mesh, visible or not, and extracts valuable invariant features regarding their geometric attributes. A method that is independent of the mesh topology is also presented for the surface bumpiness estimation and the identification of coarse surface regions.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Radial Intersection Count Image: a Clutter Resistant 3D Shape Descriptor",
+            "Publication year": 2020,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200702306I/abstract",
+            "Abstract": "A novel shape descriptor for cluttered scenes is presented, the Radial Intersection Count Image (RICI), and is shown to significantly outperform the classic Spin Image (SI) and 3D Shape Context (3DSC) in both uncluttered and, more significantly, cluttered scenes. It is also faster to compute and compare. The clutter resistance of the RICI is mainly due to the design of a novel distance function, capable of disregarding clutter to a great extent. As opposed to the SI and 3DSC, which both count point samples, the RICI uses intersection counts with the mesh surface, and is therefore noise-free. For efficient RICI construction, novel algorithms of general interest were developed. These include an efficient circle-triangle intersection algorithm and an algorithm for projecting a point into SI-like (, ) coordinates. The'clutterbox experiment'is also introduced as a better way of evaluating descriptors' response to clutter. The SI \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:FPJr55Dyh1AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Long range clustering of oligonucleotides containing the CG signal",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4917679057278746401&hl=en&oi=scholarr",
+            "Abstract": "The distance distributions between successive occurrences of the same oligonucleotides in chromosomal DNA are studied, in different classes of higher eucaryotic organisms. A two-parameter modeling is undertaken and applied on the distance distribution of quintuplets (sequences of size five bps) and hexaplets (sequences of size six bps); the first parameter k refers to the short range exponential decay of the distributions, whereas the second parameter m refers to the power law behavior. A 2-dimensional scatter plot representing the model equation demonstrates that the points corresponding to the distance distribution of oligonucleotides containing the CG consensus sequence (promoter of the RNA polymerase II) cluster together (group \u03b1), apart from all other oligonucleotides (group \u03b2). This is shown for the available chordata Homosapiens, Pantroglodytes, Musmusculus, Rattusnorvegicus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Foreword to the Special Section on 3D Object Retrieval (3DOR2018)",
+            "Publication year": 2019,
+            "Publication url": "https://research.rug.nl/en/publications/foreword-to-the-special-section-on-3d-object-retrieval-3dor2018",
+            "Abstract": "Foreword to the Special Section on 3D Object Retrieval (3DOR2018) \u2014 the University of \nGroningen research portal Skip to main navigation Skip to search Skip to main content the \nUniversity of Groningen research portal Logo Help & FAQ English Nederlands Home Profiles \nResearch Units Research output Projects Datasets Prizes Activities Press / Media Search by \nexpertise, name or affiliation Foreword to the Special Section on 3D Object Retrieval (3DOR2018) \nAlexandru Telea, Theoharis Theoharis * * Corresponding author for this work Scientific \nVisualization and Computer Graphics Research output: Contribution to journal \u203a Editorial \u203a \nAcademic \u203a peer-review Overview Original language English Pages (from-to) A3-A4 Number of \npages 2 Journal Computers & graphics-Uk Volume 79 DOIs https://doi.org/10.1016/j.cag..\nPublication status Published - Apr-2019 Access to Document 10.1016/j.cag..Embargoed Foreword .\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:kuK5TVdYjLIC",
+            "Publisher": "PERGAMON-ELSEVIER SCIENCE LTD"
+        },
+        {
+            "Title": "Establishing Parameter Values for the Stone Erosion Process",
+            "Publication year": 2016,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=2nwvEAAAQBAJ&oi=fnd&pg=PA347&dq=info:va-4NU16xk0J:scholar.google.com&ots=JLbsI85sc2&sig=SDb0bOWV0ajW2smQVZ7-otIbAg4",
+            "Abstract": "The computer simulation of the naturally occurring stone erosion process is very attractive because it could enable us to predict the future state of important cultural heritage monuments based on different environment scenarios and thus allow us to take appropriate action in good time. This paper describes the design and construction of two automatic erosion chambers that allows simulations of the Salt and Freeze-and-Thaw effects respectively at lower cost, based on a control system using off-the-shelf components. It also details the parameters that are being measured after each erosion cycle (3D scan, electron microscopy, micro computed tomography, 3D microscopy, XRD and petrography), which will eventually lead to a publicly available database for erosion benchmarking. In the current phase we are only concentrating on Pentelic marble and two types of Grytdal soapstone. This work forms part of the PRESIOUS EU project (www. presious. eu).",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:NJ774b8OgUMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Automatic 3D Facial Region Retrieval from Multi-pose Facial Datasets.",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1041.1452&rep=rep1&type=pdf",
+            "Abstract": "The availability of 3D facial datasets is rapidly growing, mainly as a result of medical and biometric applications. These applications often require the retrieval of specific facial areas (such as the nasal region). The most crucial step in facial region retrieval is the detection of key 3D facial landmarks (eg, the nose tip). A key advantage of 3D facial data over 2D facial data is their pose invariance. Any landmark detection method must therefore also be pose invariant. In this paper, we present the first 3D facial landmark detection method that works in datasets with pose rotations of up to 80\u25e6 around the y-axis. It is tested on the largest publicly available 3D facial datasets, for which we have created a ground truth by manually annotating the 3D landmarks. Landmarks automatically detected by our method are then used to robustly retrieve facial regions from 3D facial datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A3Mark: Seismic attribute benchmarking",
+            "Publication year": 2018,
+            "Publication url": "https://library.seg.org/doi/abs/10.1190/geo2017-0013.1",
+            "Abstract": "Seismic attribute computation is one of the most active research and engineering topics in the computational geophysics world. Although numerous algorithms for seismic attribute computation have been developed, relatively little work has been done on scientifically characterizing their quality and accuracy. Seismic attribute characterization effort is largely qualitative and subjective. We have developed a robust and reliable scientific process for functionally comparing similar attributes. Structural seismic attributes are addressed, including discontinuity, dip angle, dip azimuth, and curvature. To establish a common software platform, and collection of data sets for efficient fully automatic evaluation, a stand-alone flexible online web service is designed. It is based on a C#-MATLAB implementation, and it is called A3Mark. The publicly available web service enables the automatic evaluation of individual categories of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "Society of Exploration Geophysicists"
+        },
+        {
+            "Title": "Volume Data Visualization Using Fractal Interpolation Surfaces.",
+            "Publication year": 2008,
+            "Publication url": "https://www.researchgate.net/profile/Polychronis-Manousopoulos/publication/272106722_Volume_data_visualization_using_fractal_interpolation_surfaces/links/5a79afc30f7e9b41dbd507ee/Volume-data-visualization-using-fractal-interpolation-surfaces.pdf",
+            "Abstract": "Visualization of medical or experimental data is often achieved by extracting an intermediate geometric representation of the data. One such popular method for extracting an isosurface from volume data is the Marching Cubes (MC) algorithm, which creates a polygon mesh by sampling the data at the vertices of the cubes of a 3D grid. We present a method for isosurface approximation that uses the vertex extraction phase of the MC algorithm, but subsequently represents the data by fractal interpolation surfaces instead of a polygon mesh. The proposed method is appropriate for isosurfaces that are not locally flat, such as natural structures. Another advantage is that a coarser grid resolution can typically be used, since fractal interpolation surfaces are particularly good at representing detailed, irregular or self-similar structures. Thus for many cases the resulting isosurface is more accurate and more compact. The multiresolution extension of the method is also straightforward. Experimental data verify the practical usefulness of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Gridification of the SHMap Biocomputational Algorithm",
+            "Publication year": 2006,
+            "Publication url": "http://cgi.di.uoa.gr/~graphics/Downloads/papers/conferences/s29.pdf",
+            "Abstract": "In the current study we present a parallel statistical algorithm (SHMap), which distinguishes DNA regions which possibly carry protein coding information from non-coding regions. The code was parallelized using MPI and was deployed in a Grid testbed provided by the CrossGrid IST European Project. We tested the SHMap algorithm on mammalian chromosomes. The parallelization of the algorithm and the use of the Grid environment achieves significant speed-up compared to the sequential version of the algorithm, although the use of the Grid environment still presents some problems. Our algorithm is open source and freely distributed from our website.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "UHDB11 database for 3D-2D face recognition",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-53842-1_7",
+            "Abstract": "Performance boosts in face recognition have been facilitated by the formation of facial databases, with collection protocols customized to address challenges such as light variability, expressions, pose, sensor/modality differences, and, more recently, uncontrolled acquisition conditions. In this paper, we present database UHDB11, to facilitate 3D-2D face recognition evaluations, where the gallery has been acquired using 3D sensors (3D mesh and texture) and the probes using 2D sensors (images). The database consists of samples from 23 individuals, in the form of 2D high-resolution images spanning six illumination conditions and 12 head-pose variations, and 3D facial mesh and texture. It addresses limitations regarding resolution, variability and type of 3D/2D data and has demonstrated to be statistically more challenging, diverse and information rich than existing cohorts of 10 times larger number of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Special Issue on 3D Object Retrieval 2009 Preface",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14635105056430706195&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:gsN89kCJA0AC",
+            "Publisher": "SPRINGER"
+        },
+        {
+            "Title": "Bidirectional relighting for 3D-aided 2D face recognition",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5539995/",
+            "Abstract": "In this paper, we present a new method for bidirectional relighting for 3D-aided 2D face recognition under large pose and illumination changes. During subject enrollment, we build subject-specific 3D annotated models by using the subjects' raw 3D data and 2D texture. During authentication, the probe 2D images are projected onto a normalized image space using the subject-specific 3D model in the gallery. Then, a bidirectional relighting algorithm and two similarity metrics (a view-dependent complex wavelet structural similarity and a global similarity) are employed to compare the gallery and probe. We tested our algorithms on the UHDB11 and UHDB12 databases that contain 3D data with probe images under large lighting and pose variations. The experimental results show the robustness of our approach in recognizing faces in difficult situations.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "ROSy+: 3D object pose normalization based on PCA and reflective object symmetry with application in 3D object retrieval",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/article/10.1007/s11263-010-0395-x",
+            "Abstract": "A novel pose normalization method based on 3D object reflective symmetry is presented. It is a general purpose global pose normalization method; in this paper it is used to enhance the performance of a 3D object retrieval pipeline. Initially, the axis-aligned minimum bounding box of a rigid 3D object is modified by requiring that the 3D object is also in minimum angular difference with respect to the normals to the faces of its bounding box. To estimate the modified axis-aligned bounding box, a set of predefined planes of symmetry are used and a combined spatial and angular distance, between the 3D object and its symmetric object, is calculated. By minimizing the combined distance, the 3D object fits inside its modified axis-aligned bounding box and alignment with the coordinate system is achieved. The proposed method is incorporated in a hybrid scheme, that serves as the alignment method in a 3D \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Erratum to: A survey on facial expression recognition in 3D video sequences",
+            "Publication year": 2015,
+            "Publication url": "https://www.researchgate.net/profile/Antonis-Danelakis/publication/271951893_Erratum_to_A_survey_on_facial_expression_recognition_in_3D_video_sequences/links/572b0a1c08ae057b0a08440a/Erratum-to-A-survey-on-facial-expression-recognition-in-3D-video-sequences.pdf",
+            "Abstract": "The authors cited incorrect data in Tables 6, 7, and 9 in the paper entitled\" A survey on facial expression recognition in 3D video sequences\" by Antonios Danelakis, Theoharis Theoharis, Ioannis Pratikakis, published online first 1 February 2014. Additionally, every reference to\" L\u00e1szl\u00f3 et al.\" should become\" Jeni et al.\". The authors apologize for these errors. In Table 6: In the row concerning Yin et al. and in the column titled\" Classification Accuracy\"(2nd column), the word'N/A'should be changed to'80.20%'.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:Z5m8FVwuT1cC",
+            "Publisher": "Springer Nature BV"
+        },
+        {
+            "Title": "Quo Vadis: 3D Face and Ear Recognition?",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-540-49346-4_10.pdf",
+            "Abstract": "In recent years, among the many biometric modalities, the face has received the most interest. Not only is face recognition one of the most widely accepted modalities, but also advances in processing power have allowed the development of more complex algorithms while still providing a relatively rapid response to queries. Ear recognition, on the other hand, is a relatively new field. However, it holds a lot of promise as the complexity of the human ear is even higher than that of the face, and ears are subject to fewer deformations. In addition, the problem of recognizing an ear is not too different from that of recognizing a face. Therefore, part of the large body of research available in 3D face recognition can be inherited to 3D ear recognition. Both face and ear recognition require no contact with the subject, thus being more easily accepted by the public, compared to other biometrics such as fingerprints.Face \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:u9iWguZQMMsC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Part-based 3D object retrieval via multi-label optimization",
+            "Publication year": 2017,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314217300681",
+            "Abstract": "This paper deals with the problem of 3D object retrieval using a part-based representation. The premise in this context is that similar objects will consist of similar parts. A part-based representation is proposed, where each object is segmented, and represented as a labeled graph, with nodes corresponding to parts, and edges connecting adjacent parts. The calculation of the distance between two segmented objects is formulated as a multi-label optimization problem, taking into account the aforementioned graphs. The proposed method achieves comparable performance to the state-of-the-art on several datasets, while it has a clear advantage in the case of articulated objects.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:XD-gHx7UXLsC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Partial 3D Object Retrieval using Local Binary QUICCI Descriptors and Dissimilarity Tree Indexing",
+            "Publication year": 2021,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210703368I/abstract",
+            "Abstract": "A complete pipeline is presented for accurate and efficient partial 3D object retrieval based on Quick Intersection Count Change Image (QUICCI) binary local descriptors and a novel indexing tree. It is shown how a modification to the QUICCI query descriptor makes it ideal for partial retrieval. An indexing structure called Dissimilarity Tree is proposed which can significantly accelerate searching the large space of local descriptors; this is applicable to QUICCI and other binary descriptors. The index exploits the distribution of bits within descriptors for efficient retrieval. The retrieval pipeline is tested on the artificial part of SHREC'16 dataset with near-ideal retrieval results.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:9pM33mqn1YgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Intraclass retrieval of nonrigid 3D objects: Application to face recognition",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4042698/",
+            "Abstract": "As the size of the available collections of 3D objects grows, database transactions become essential for their management with the key operation being retrieval (query). Large collections are also precategorized into classes so that a single class contains objects of the same type (e.g., human faces, cars, four-legged animals). It is shown that general object retrieval methods are inadequate for intraclass retrieval tasks. We advocate that such intraclass problems require a specialized method that can exploit the basic class characteristics in order to achieve higher accuracy. A novel 3D object retrieval method is presented which uses a parameterized annotated model of the shape of the class objects, incorporating its main characteristics. The annotated subdivision-based model is fitted onto objects of the class using a deformable model framework, converted to a geometry image and transformed into the wavelet \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Pose normalization of 3D models via reflective symmetry on panoramic views",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-014-0935-4",
+            "Abstract": "A novel pose normalization method, based on reflective symmetry computed on panoramic views, is presented. Qualitative and experimental investigation in 3D data-sets has led us to the observation that most objects possess a single plane of symmetry. Our approach is thus guided by this observation. Initially, through an iterative procedure, the symmetry plane of a 3D model is estimated, thus computing the first axis of the model. This is achieved by rotating the 3D model and computing reflective symmetry scores on panoramic view images. The other principal axes of the 3D model are estimated by computing the variance of the 3D model\u2019s panoramic views. The proposed method is incorporated in a hybrid scheme, that serves as the pose normalization method in a state-of-the-art 3D object retrieval system. The effectiveness of this system, using the hybrid pose normalization scheme, is evaluated in terms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:5Ul4iDaHHb8C",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Automated method for human face modeling and relighting with application to face recognition",
+            "Publication year": 2012,
+            "Publication url": "https://patents.google.com/patent/US8090160B2/en",
+            "Abstract": "A novel method and system for 3d-aided-2D face recognition under large pose and illumination variations is disclosed. The method and system includes enrolling a face of a subject into a gallery database using raw 3D data. The method also includes verifying and/or identifying a target face form data produced by a 2D imagining or scanning device. A statistically derived annotated face model is fitted using a subdivision-based deformable model framework to the raw 3D data. The annotated face model is capable of being smoothly deformed into any face so it acts as a universal facial template. During authentication or identification, only a single 2D image is required. The subject specific fitted annotated face model from the gallery is used to lift a texture of a face from a 2D probe image, and a bidirectional relighting algorithm is employed to change the illumination of the gallery texture to match that of the probe. Then \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D visualization of MEG activation records within a semi-transparent talairach model brain",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5796030998015608805&hl=en&oi=scholarr",
+            "Abstract": "The use of a transparent segmented surface model brain with Talairach dimensions for the 3D display of functional (MEG) data is described. The MEG data are rst transformed to generic Talairach coordinates and then displayed within the model brain as arrows (giving the directional, positional and magnitude characteristics of MEG dipoles). Due to this transformation MEG data from di erent subjects can be displayed within the same model brain for comparison. The model brain and the functional brain data can be simultaneously manipulated in 3D in real time. The MEG dipoles can be animated according to their latency after stimulus onset. Our visualizations are providing new insights to the specialists that will facilitate (among others) the design of algorithms for the comparison of MEG data sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Virtual archaeologist: Assembling the past",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/909015/",
+            "Abstract": "We present a complete method, encapsulated in our Virtual Archaeologist system, for the full reconstruction of archaeological finds from 3D scanned fragments. Virtual Archaeologist is designed to assist archaeologists in reconstructing monuments or smaller finds by avoiding unnecessary manual experimentation with fragile and often heavy fragments. An automated procedure cannot completely replace the archaeology expert, but provides a useful estimation of valid fragment combinations, and accurately measures fragment matches. In Virtual Archaeologist, we regard the reconstruction problem from a general, geometric point of view, relying on the broken surface morphology to determine correct matches between fragments.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Noninvasive automatic breast volume estimation for post-mastectomy breast reconstructive surgery",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1279533/",
+            "Abstract": "Automatic computation of breast volume data is required in post-mastectomy breast reconstructive surgery, where it is very useful to have an estimate of the volume of the tissue to be extracted in advance of the operation. Such an automated process is essential when conducting studies on large patient databases where manual volume estimation is both tedious and subjective. In this paper, we present a noninvasive automatic breast volume estimation method. It employs 3D scanned data of the torso. First, a surface underneath the breast that resembles a 'breast-less' torso is automatically constructed, and then the volume of the breast is estimated as a function of the difference between the new surface and the actual breast. We have performed a number of experiments on both synthetic and real data with very encouraging results.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Introductory graphics, revisited",
+            "Publication year": 2009,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.elsevier-9708a22e-3208-32a8-8ffb-6ce1d35d89c5",
+            "Abstract": "Introductory graphics, revisited \u00d7 Close The Infona portal uses cookies, ie strings of text saved by \na browser on the user's device. The portal can access those files and use them to remember the \nuser's data, such as their chosen settings (screen view, interface language, etc.), or their login \ndata. By using the Infona portal the user accepts automatic saving and using this information \nfor portal operation purposes. More information on the subject can be found in the Privacy \nPolicy and Terms of Service. By closing this window the user confirms that they have read the \ninformation on cookie usage, and they accept the privacy policy and the way cookies are used \nby the portal. You can change the cookie settings in your browser. I accept Polski English \nLogin or register account remember me Password recovery INFONA - science communication \nportal INFONA Search advanced search Browse series books journals articles \u00d7 , -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:p__nRnzSRKYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Curve fitting by fractal interpolation",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-79299-4_4",
+            "Abstract": "Fractal interpolation provides an efficient way to describe data that have an irregular or self-similar structure. Fractal interpolation literature focuses mainly on functions, i.e. on data points linearly ordered with respect to their abscissa. In practice, however, it is often useful to model curves as well as functions using fractal intepolation techniques. After reviewing existing methods for curve fitting using fractal interpolation, we introduce a new method that provides a more economical representation of curves than the existing ones. Comparative results show that the proposed method provides smaller errors or better compression ratios.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:4DMP91E08xMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Image-Based Somatotype as a Biometric Trait for Non-Collaborative Person Recognition at a Distance and On-The-Move",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/745546",
+            "Abstract": "It has recently been shown in Re-Identification (Re-ID) work that full-body images of people reveal their somatotype, even after change in apparel. A significant advantage of this biometric trait is that it can easily be captured, even at a distance, as a full-body image of a person, taken by a standard 2D camera. In this work, full-body image-based somatotype is investigated as a novel soft biometric feature for person recognition at a distance and on-the-move. The two common scenarios of (i) identification and (ii) verification are both studied and evaluated. To this end, two different deep networks have been recruited, one for the identification and one for the verification scenario. Experiments have been conducted on popular, publicly available datasets and the results indicate that somatotype can indeed be a valuable biometric trait for identity recognition at a distance and on-the-move (and hence also suitable for non-collaborative individuals) due to the ease of obtaining the required images. This soft biometric trait can be especially useful under a wider biometric fusion scheme. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:edDO8Oi4QzsC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "A new user friendly visual environment for breast MRI data analysis",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1120179716308948",
+            "Abstract": "In recent years, there has been a great effort for the exploitation of powerful computer systems in order to support clinical decisions, the so-called CDSS (Clinical Desicion Support Systems). After processing imaging data in an automatic way they can provide useful diagnostic information facilitating like this clinical decisions.This study demonstrates the advantages of a newly developed friendly visual CDSS environment for Breast MRI Data Analysis, the co-called BreDAn. This software process all dynamic MRI data prior and post contrast medium injection generating kinematic graphs, color maps of signal increase and decrease and finally detecting high risk breast areas. The great advantage of BreDAn is the automation of the radiodiagnostic process in a reliable manner.BreDAn involves a series of steps of MRI Breast data processing, such as data initialization \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:tzM49s52ZIMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Autonratic Reconstruction of Archaeological Finds A Graphics Approach",
+            "Publication year": 2000,
+            "Publication url": "http://cgi.di.uoa.gr/~graphics/Downloads/papers/conferences/s12.pdf",
+            "Abstract": "Abslracl Reconstruclion of archaeological finds from fragments, is a tedious task rcquiring many hours of work from lhe archaeologists and restoration personnel. Up to now, computers have significantly simplified this work by providing tools for thc data cncoding, storage, classification and visualisalion in somc cases. In lhis paper we go one step further by prescnting a semi-aulomatic procedurc for the full reconslruclion of the original objects using computer graphics and artificial intelligence algorithms on geometrical information.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A spatio-temporal wavelet-based descriptor for dynamic 3D facial expression retrieval and recognition",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-016-1243-y",
+            "Abstract": "Human emotions are often expressed by facial expressions and are generated by facial muscle movements. In recent years, the analysis of facial expressions has emerged as an active research area due to its various applications such as human\u2013computer interaction, human behavior understanding, biometrics, emotion recognition, computer graphics, driver fatigue detection, and psychology. A novel analysis of dynamic 3D facial expressions using the positional information of automatically detected facial landmarks and the wavelet transformation is presented, which results in the proposed spatio-temporal descriptor. This descriptor is employed within the current paper in a retrieval scheme for dynamic 3D facial expression datasets and is thoroughly evaluated. Experiments have been conducted using the six prototypical expressions of the publicly available BU-4DFE dataset as well as the eight \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:VL0QpB8kHFEC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "A concrete radialized spherical projection descriptor for 3D shape retrieval",
+            "Publication year": 2006,
+            "Publication url": "https://www.academia.edu/download/42138593/A_Concrete_Radialized_Spherical_Projecti20160205-30232-v43nzv.pdf",
+            "Abstract": "In this paper, we present a 3D shape retrieval methodology that relies upon a shape representation based on the theory of spherical harmonics. To alleviate the problem of rotation invariance, we invoke in a parallel fashion, the Continuous Principal Component Analysis along with a novel approach which applies PCA on the mesh normals. After translating to the model\u2019s center of mass, the 3D model is decomposed into a set of spherical functions with increasing radius, which represent the intersections of the model\u2019s surface with rays emanating from the origin and parts closer to the origin than the furthest intersection point at each ray. Properties of spherical harmonics are used to achieve scaling invariance and axial flipping invariance.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Hybrid Method and System for Content-based 3D Model Search",
+            "Publication year": 2009,
+            "Publication url": "https://patents.google.com/patent/US20090157649A1/en",
+            "Abstract": "The present disclosure concerns a hybrid content-based 3D model search and retrieval method for queries in generic 3D model datasets. The hybrid nature of the method is two-fold. First, a combination of 2D and 3D features is used as the shape descriptor of a 3D model and second, two alternative alignment techniques, CPCA and NPCA, are employed for rotation normalization. The 2D features are Fourier coefficients extracted from three pairs of depth buffers which are computed for each Cartesian plane capturing the model's thickness along each axis. The 3D features are spherical harmonic coefficients extracted from a spherical function based representation that captures the model's surface as well as volume information.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "UR3D-C: Linear dimensionality reduction for efficient 3D face recognition",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6117521/",
+            "Abstract": "We present a novel approach for computing a compact and highly discriminant biometric signature for 3D face recognition using linear dimensionality reduction techniques. Initially, a geometry-image representation is used to effectively resample the raw 3D data. Subsequently, a wavelet transform is applied and a biometric signature composed of 7,200 wavelet coefficients is extracted. Finally, we apply a second linear dimensionality reduction step to the wavelet coefficients using Linear Discriminant Analysis and compute a compact biometric signature. Although this biometric signature consists of just 57 coefficients, it is highly discriminant. Our approach, UR3D-C, is experimentally validated using four publicly available databases (FRGC vl, FRGC v2, Bosphorus and BU-3DFE). State-of-the-art performance is reported in all of the above databases.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Improving faults continuity for extraction by transfer learning based on synthetic data",
+            "Publication year": 2018,
+            "Publication url": "https://library.seg.org/doi/abs/10.1190/segam2018-2996394.1",
+            "Abstract": "Fault interpretation requires significant manual effort. Automatic fault interpretation is the process of automatically interpreting fault surfaces from 3D seismic volumes and usually involves the following steps: (1) compute edge attributes, (2) calculate fault likelihoods and (3) extract fault surfaces. However, a human editing or merging procedure is usually demanded in step (3) to extract large surfaces from small discontinuous regions. A possible step toward improving region merging is to enhance the continuity (refers to the extent of the fault regions, not to the seismic reflection itself) beforehand. The proposed transfer learning method is trained on synthetic circle data with different connectivity which is balanced over all dips and curvatures, and applied to fault likelihood data with discontinuity and no labelling. Specifically, two neural networks (single and combined), including convolutional and fully connected layers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:g3aElNc5_aQC",
+            "Publisher": "Society of Exploration Geophysicists"
+        },
+        {
+            "Title": "CIL3D: A content-based 3D model search engine",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1413634.1413737",
+            "Abstract": "We present a prototype 3D model search engine called CIL3D (Computational Intelligence Laboratory 3D). CIL3D provides query-by-content 3D model search, by employing a state-of-the-art method [1] for the description of a 3D model, attaining top performance. The search engine is publicly accessible through the internet at: http://emedi3. emedi. iit. demokritos. gr/cil3d/.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:_xSYboBqXhAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D object retrieval via range image queries in a bag-of-visual-words context",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-013-0876-3",
+            "Abstract": "3D object retrieval based on range image queries that represent partial views of real 3D objects is presented. The complete 3D models of the database are described by a set of panoramic views, and a Bag-of-Visual-Words model is built using SIFT features extracted from them. To address the problem of partial matching, we suggest a histogram computation scheme, on the panoramic views, that represents local information by taking into account spatial context. Furthermore, a number of optimization techniques are applied throughout the process for enhancing the retrieval performance. Its superior performance is shown by evaluating it against state-of-the-art methods on standard datasets.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:738O_yMBCRsC",
+            "Publisher": "Springer Berlin Heidelberg"
+        },
+        {
+            "Title": "Looking beyond appearances: Synthetic training data for deep cnns in re-identification",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314217302254",
+            "Abstract": "Re-identification is generally carried out by encoding the appearance of a subject in terms of outfit, suggesting scenarios where people do not change their attire. In this paper we overcome this restriction, by proposing a framework based on a deep convolutional neural network, SOMAnet, that additionally models other discriminative aspects, namely, structural attributes of the human figure (e.g. height, obesity, gender). Our method is unique in many respects. First, SOMAnet is based on the Inception architecture, departing from the usual siamese framework. This spares expensive data preparation (pairing images across cameras) and allows the understanding of what the network learned. Second, and most notably, the training data consists of a synthetic 100K instance dataset, SOMAset, created by photorealistic human body generation software. SOMAset will be released with a open source license to enable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:fEOibwPWpKIC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Semantics-driven approach for automatic selection of best views of 3D shapes",
+            "Publication year": 2010,
+            "Publication url": "https://www.academia.edu/download/40323584/Semantics-Driven_Approach_for_Automatic_20151124-5979-crxqx1.pdf",
+            "Abstract": "We introduce a new framework for the automatic selection of the best views of 3D models. The approach is based on the assumption that models belonging to the same class of shapes share the same salient features that discriminate them from the models of other classes. The main issue is learning these features. We propose a datadriven approach where the best view selection problem is formulated as a classification and feature selection problem; First a 3D model is described with a set of view-based descriptors, each one computed from a different viewpoint. Then a classifier is trained, in a supervised manner, on a collection of 3D models belonging to several shape categories. The classifier learns the set of 2D views that maximize the similarity between shapes of the same class and also the views that discriminate shapes of different classes. Our experiments using the LightField (LFD) descriptors and the Princeton Shape Benchmark demonstrate the performance of the approach and its suitability for classification and online visual browsing of 3D data collections.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:kh2fBNsKQNwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Eurographics Workshop on 3D Object Retrieval 2010",
+            "Publication year": 2010,
+            "Publication url": "https://hal.inria.fr/hal-00841624/",
+            "Abstract": "This book contains the papers presented at the Eurographics 2010 Workshop on 3D Object Retrieval, organized by the Eurographics Association in cooperation with ACM SIGGRAPH, which took place on May 2, 2010, in Norrk\u00f6ping, Sweden.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Eurographics"
+        },
+        {
+            "Title": "An application independent review of multimodal 3D registration methods",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S009784932030114X",
+            "Abstract": "Registration is a ubiquitous operation in Visual Computing, with applications in 3D object retrieval among others. Registration is the process of overlaying two or more datasets taken from different viewpoints, at different times or by different sensors into a common reference frame. Multimodal registration is a special case where the data to be matched do not belong to the same modality and is challenging due to the diverse nature of the modalities involved which makes the creation of a distance function harder. Due to the large number of possible modality combinations and application fields, a considerable number of multimodal registration techniques have been proposed in diverse fields, including medicine and archaeology. This survey aims to unify 3D multimodal registration techniques (i.e. where at least one of the modalities is in 3D) across application domains, with the hope of providing an application \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:ClCfbGk0d_YC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "A spatio-temporal descriptor for dynamic 3D facial expression retrieval and recognition",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.5555/2852282.2852296",
+            "Abstract": "The recent availability of dynamic 3D facial scans has spawned research activity in recognition based on such data. However, the problem of facial expression retrieval based on dynamic 3D facial data has hardly been addressed and is the subject of this paper. A novel descriptor is created, capturing the spatio-temporal deformation of the 3D facial mesh sequence. Experiments have been implemented using the standard BU--4DFE dataset. The obtained retrieval results exceed the state-of-the-art results and the new descriptor is much more frugal in terms of space requirements. Furthermore, a methodology which exploits the retrieval results, in order to achieve unsupervised dynamic 3D facial expression recognition is presented, in order to directly compare the proposed descriptor against the wealth of works in recognition. The aforementioned unsupervised methodology outperforms the supervised dynamic 3D \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "3D Face Recognition.",
+            "Publication year": 2006,
+            "Publication url": "https://www.academia.edu/download/42684310/387.pdf",
+            "Abstract": "In this paper, we present a new 3D face recognition approach. Full automation is provided through the use of advanced multi-stage alignment algorithms, resilience to facial expressions by employing a deformable model framework, and invariance to 3D capture devices through suitable preprocessing steps. In addition, scalability in both time and space is achieved by converting 3D facial scans into compact wavelet metadata. We present results on the largest known, and now publicly-available, Face Recognition Grand Challenge 3D facial database consisting of several thousand scans. To the best of our knowledge, our approach has achieved the highest accuracy on this dataset.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:roLk4NBRz8UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient hardware voxelization",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1309236/",
+            "Abstract": "This paper presentes a novel algorithm for the voxelization of surface models of arbitrary topology. Our algorithm uses the depth and stencil buffers, available in most commercial graphics hardware, to achieve high performance. It is suitable for both polygonal meshes and parametric surfaces. Experiments highlight the advantages and limitations of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Enhanced reconstruction of three-dimensional shape and texture from integral photography images",
+            "Publication year": 2007,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=ao-46-22-5311",
+            "Abstract": "A method for the reconstruction of 3D shape and texture from integral photography (IP) images is presented. Sharing the same principles with stereoscopic-based object reconstruction, it offers increased robustness to noise and occlusions due to the unique characteristics of IP images. A coarse-to-fine approach is used, employing what we believe to be a novel grid refinement step in order to increase the quality of the reconstructed objects. The proposed method's properties include configurable depth accuracy and direct and seamless triangulation. We evaluate our method using synthetic data from a computer-simulated IP setup as well as real data from a simple yet effective digital IP setup. Experiments show reconstructed objects of high-quality indicating that IP can be a competitive modality for 3D object reconstruction.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Stereo matching using optic flow",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077201498901413",
+            "Abstract": "A method for the determination of pixel correspondence in stereo image pairs is presented. The optic flow vectors that result from the displacement of the point of projection are obtained and the correspondence between pixels of the various objects in the scene is derived from the optic flow vectors. The proposed algorithm is implemented and the correspondence vectors are obtained. Various specialized improvements of the method are implemented and thoroughly tested on sequences of image pairs giving rise to interesting conclusions. The algorithm is highly-parallelizable and therefore suitable for real-time applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Feature fusion for facial landmark detection: A feature descriptors combination approach",
+            "Publication year": 2016,
+            "Publication url": "http://repository.edulll.gr/edulll/handle/10795/2937",
+            "Abstract": "Facial landmark detection is a crucial first step in facial analysis for biometrics and numerous other applications. However, it has proved to be a very challenging task due to the numerous sources of variation in 2D and 3D facial data. Although landmark detection based on descriptors of the 2D and 3D appearance of the face has been extensively studied, the fusion of such feature descriptors is a relatively under-studied issue. In this report, a novel generalized framework for combining facial feature descriptors is presented, and several feature fusion schemes are proposed and evaluated. The proposed framework maps each feature into a similarity score, combines the individual similarity scores into a resultant score, used to select the optimal solution for a queried landmark. The evaluation of the proposed fusion schemes for facial landmark detection clearly indicates that a quadratic distance to similarity mapping in conjunction with a root mean square rule for similarity fusion achieves the best performance in accuracy, efficiency, robustness and monotonicity.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:ye4kPcJQO24C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Quasi Spin Images",
+            "Publication year": 2018,
+            "Publication url": "https://ejournal.iartem.org/index.php/NIK/article/view/510",
+            "Abstract": "The increasing adoption of 3D capturing equipment, now also found in mobile devices, means that 3D content is increasingly prevalent. Common operations on such data, including 3D object recognition and retrieval, are based on the measurement of similarity between 3D objects. A common way to measure object similarity is through local shape descriptors, which aim to do part-to-part matching by describing portions of an object's shape. The Spin Image is one of the local descriptors most suitable for use in scenes with high degrees of clutter and occlusion but its practical use has been hampered by high computational demands. The rise in processing power of the GPU represents an opportunity to significantly improve the generation and comparison performance of descriptors, such as the Spin Image, thereby increasing the practical applicability of methods making use of it. In this paper we introduce a GPU-based Quasi Spin Image (QSI) algorithm, a variation of the original Spin Image, and show that a speedup of an order of magnitude relative to a reference CPU implementation can be achieved in terms of the image generation rate. In addition, the QSI is noise free, can be computed consistently, and a preliminary evaluation shows it correlates well relative to the original Spin Image.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:KUbvn5osdkgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A unified approach to 3D face and ear recognition",
+            "Publication year": 2006,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5155&rep=rep1&type=pdf#page=4",
+            "Abstract": "We present an algorithm for detecting facial landmarks on 2.5-D scans with the use of Point Distribution Models (PDMs) that eliminates the need of prior knowledge of orientation and pose of the scans and that relaxes the constraints on feature map thresholding.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:uWQEDVKXjbEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Transient biometrics using finger nails",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6712730/",
+            "Abstract": "Transient biometrics, a new concept for biometric recognition, is introduced in this paper. A traditional perspective of biometric recognition systems concentrates on biometric characteristics that are as constant as possible (such as the eye retina), giving accuracy over time but at the same time resulting in resistance to their use for non-critical applications due to the possibility of misuse. In contrast, transient biometrics is based on biometric characteristics that do change over time aiming at increased acceptance in non-critical applications. We show that the fingernail is a transient biometric with a lifetime of approximately two months. Our evaluation datasets are available to the research community.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Ptk: A novel depth buffer-based shape descriptor for three-dimensional object retrieval",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/article/10.1007/s00371-006-0037-z",
+            "Abstract": "The increase in availability and use of digital three-dimensional (3D) synthetic or scanned objects, makes the availability of basic database operations, such as retrieval, necessary. Retrieval methods are based on the extraction of a compact shape descriptor; the challenge is to design a shape descriptor that describes the original object in sufficient detail to make accurate 3D object retrieval possible. Building on previous work, this paper proposes a novel depth buffer-based shape descriptor (called PTK) that encompasses symmetry, eigenvalue-related weighting and an object thickness related measure to provide an accuracy surpassing previous state-of-the-art methods. An evaluation of the novel method\u2019s parameters and a direct comparison to other approaches are carried out using publicly available and widely used databases. ",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "Formal development of a reconfigurable tool for parallel DNA matching",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/911534/",
+            "Abstract": "DNA matching is a computationally demanding task. The Human Genome Project is producing huge quantities of data, which have to be analyzed. A formal description of the task of searching a DNA sequence is given and an efficient parallel algorithm is derived using formal methods. The algorithm is implemented on an FPGA using Handel-C, a language that enables the compilation of high-level algorithms directly into gate level synchronous hardware, thus reducing the development time. The designed algorithm makes no assumptions about DNA transformations, and is therefore a very powerful tool. It can be used in conjunction with an expert system to automatically detect patterns of interest in the DNA.",
+            "Abstract entirety": 1,
+            "Author pub id": "1AuLBccAAAAJ:mB3voiENLucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Spatially sensitive statistical shape analysis for pedestrian recognition from LIDAR data",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1077314218300766",
+            "Abstract": "Range-based pedestrian recognition is instrumental towards the development of autonomous driving and driving assistance systems. This work introduces encoding methods for pedestrian recognition, based on statistical shape analysis of 3D LIDAR data. The proposed approach has two variants, based on the encoding of local shape descriptors either in a spatially agnostic or spatially sensitive fashion. The latter method derives more detailed cues, by enriching the \u2018gross\u2019 information reflected by overall statistics of local shape descriptors, with \u2018fine-grained\u2019 information reflected by statistics associated with spatial clusters. Experiments on artificial LIDAR datasets, which include challenging samples, as well as on a large scale dataset of real LIDAR data, lead to the conclusion that both variants of the proposed approach (i) obtain high recognition accuracy, (ii) are robust against low-resolution sampling, (iii) are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:ILKRHgRFtOwC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Towards fast 3D ear recognition for real-life biometric applications",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4425283/",
+            "Abstract": "Three-dimensional data are increasingly being used for biometric purposes as they offer resilience to problems common in two-dimensional data. They have been successfully applied to face recognition and more recently to ear recognition. However, real-life biometric applications require algorithms that are both robust and efficient so that they scale well with the size of the databases. A novel ear recognition method is presented that uses a generic annotated ear model to register and fit each ear dataset. Then a compact biometric signature is extracted that retains 3D information. The proposed method is evaluated using the largest publicly available 3D ear database appended with our own database, resulting in a database containing data from multiple 3D sensor types. Using this database it is shown that the proposed method is not only robust, accurate and sensor invariant but also extremely efficient, thus \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "1AuLBccAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]

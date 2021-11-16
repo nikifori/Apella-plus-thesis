@@ -1,0 +1,802 @@
+[{
+    "name": "Spiros Mancoridis",
+    "romanize name": "Spiros Mancoridis",
+    "School-Department": "Computer Science",
+    "University": "Drexel University",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 5271,
+    "Scholar name": "Spiros Mancoridis",
+    "Scholar id": "bKGwUrQAAAAJ",
+    "Affiliation": "The Auerbach Berger Chair of Cybersecurity & Distinguished Professor of Computer Science, Drexel",
+    "Citedby": 5085,
+    "Interests": [
+        "Software Security",
+        "Reverse Engineering"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=bKGwUrQAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "On the use of discretized source code metrics for author identification",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5033182/",
+            "Abstract": "Intellectual property infringement and plagiarism litigation involving source code would be more easily resolved using code authorship identification tools. Previous efforts in this area have demonstrated the potential of determining the authorship of a disputed piece of source code automatically. This was achieved by using source code metrics to build a database of developer profiles, thus characterizing a population of developers. These profiles were then used to determine the likelihood that the unidentified source code was authored by a given developer. In this paper we evaluate the effect of discretizing source code metrics for use in building developer profiles. It is well known that machine learning techniques perform better when using categorical variables as opposed to continuous ones. We present a genetic algorithm to discretize metrics to improve source code to author classification. We evaluate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Evaluation of an Anomaly Detector for Routers using Parameterizable Malware in an IoT Ecosystem",
+            "Publication year": 2021,
+            "Publication url": "https://arxiv.org/abs/2111.00097",
+            "Abstract": "This work explores the evaluation of a machine learning anomaly detector using custom-made parameterizable malware in an Internet of Things (IoT) Ecosystem. It is assumed that the malware has infected, and resides on, the Linux router that serves other devices on the network, as depicted in Figure 1. This IoT Ecosystem was developed as a testbed to evaluate the efficacy of a behavior-based anomaly detector. The malware consists of three types of custom-made malware: ransomware, cryptominer, and keylogger, which all have exfiltration capabilities to the network. The parameterization of the malware gives the malware samples multiple degrees of freedom, specifically relating to the rate and size of data exfiltration. The anomaly detector uses feature sets crafted from system calls and network traffic, and uses a Support Vector Machine (SVM) for behavioral-based anomaly detection. The custom-made malware is used to evaluate the situations where the SVM is effective, as well as the situations where it is not effective.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:WqliGbK-hY8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Code Based Software Security Assessments",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4024008/",
+            "Abstract": "Our technological society has become more and more dependent on software that is used to automate everyday processes. This dependence increasingly exposes us to security threats that originate from malicious software (malware) such as computer viruses and worms and software vulnerability exploits such as remote execution of code or denial of service attacks. Moreover, this exposure is not limited to computer systems but is spreading to common appliances such as mobile phones, PDAs and consumer electronics such as media centers, personal video recorders, etc. since a growing number of these products are made extensible and adaptable by means of embedded software.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Run-time classification of malicious processes using system call analysis",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7413681/",
+            "Abstract": "This study presents a malware classification system designed to classify malicious processes at run-time on production hosts. The system monitors process-level system call activity and uses information extracted from system call traces as inputs to the classifier. The system is advantageous because it does not require the use of specialized analysis environments. Instead, a `lightweight' service application monitors process execution and classifies new malware samples based on their behavioral similarity to known malware. This study compares the effectiveness of multiple feature sets, ground truth labeling schemes, and machine learning algorithms for malware classification. The accuracy of the classification system is evaluated against processlevel system call traces of recently discovered malware samples collected from production environments. Experimental results indicate that accurate classification results \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:8AbLer7MMksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Modeling the search landscape of metaheuristic software clustering algorithms",
+            "Publication year": 2003,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-45110-2_153",
+            "Abstract": "Software clustering techniques are useful for extracting architectural information about a system directly from its source code structure. This paper starts by examining the Bunch clustering system, which uses metaheuristic search techniques to perform clustering. Bunch produces a subsystem decomposition by partitioning a graph formed from the entities (e.g., modules) and relations (e.g., function calls) in the source code, and then uses a fitness function to evaluate the quality of the graph partition. Finding the best graph partition has been shown to be a NP-hard problem, thus Bunch attempts to find a sub-optimal result that is \u201cgood enough\u201d using search algorithms. Since the validation of software clustering results often is overlooked, we propose an evaluation technique based on the search landscape of the graph being clustered. By gaining insight into the search landscape, we can determine the quality \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A genetic algorithm for solving the binning problem in networked applications detection",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4424541/",
+            "Abstract": "Network administrators need a tool that detects the kind of applications running on their networks, in order to allocate resources and enforce security policies. Previous work shows that applications can be detected by analyzing packet size distributions. Detection by packet size distribution is more efficient and accurate if the distribution is binned. An unbinned packet size distribution considers the occurrences of each packet size individually. In contrast, a binned packet size distribution considers the occurrences of packets within packet size ranges. This paper reviews some of the common methods for binning distributions and presents an improved approach to binning using a genetic algorithms to assist the detection of network applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "don\u2019t trust your router: Detecting compromised router",
+            "Publication year": 2016,
+            "Publication url": "https://www.cs.drexel.edu/~spiros/papers/conext16.pdf",
+            "Abstract": "Safeguarding one\u2019s router has received very little attention despite a plethora of router-specific malware, which has emerged recently. Here, we propose a systematic approach to distinguish a router infected by malware from a healthy router. Our key novelty is that we analyze the behavior of the router, thus not relying on binary signatures (like anti-virus software for computers). Our contribution is two fold. First, we develop a non-trivial emulation capability, to observe the behavior of a router. This capability allows to instantiate a virtual router with or without malware and feed it a pre-recorded data trace. This setup monitors the behavior at multiple layers including: OS system calls, process information, and the network layer. Second, using the emulated environment, we provide initial evidence that a behavior-based method can distinguish between infected and healthy routers. We have collected 820 router-specific malware binaries and an initial set of real data traces. We find that infected routers exhibit:(a) an initial spike and an overall 50% increase in the number of system calls,(b) an initial spike and a modest increase in the number of active processes. Our preliminary work is a promising step towards understanding and securing routers against malware infections.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:eJXPG6dFmWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Task dependency of user perceived utility in autonomic VoIP systems",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4488352/",
+            "Abstract": "The transmission of voice-over-Internet protocol (VoIP) network traffic is used in an increasing variety of applications and settings. Many of these applications involve communications where VoIP systems are deployed under unpredictable conditions with poor network support. These conditions make it difficult for users to configure and optimize VoIP systems and this creates a need for self configuring and self optimizing systems. To build an autonomic system for VoIP communications, it is valuable to be able to measure the user perceived utility of a system. In this paper we identify factors important to the estimation of user perceived utility in task dependent VoIP communications.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the Detection of Malware on Virtual Assistants Based on Behavioral Anomalies",
+            "Publication year": 2019,
+            "Publication url": "https://search.proquest.com/openview/09fa0c621d3930bffa8240faa0775d73/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "Abstract": "The Internet of Things (IoT) refers to the growing network of``smart objects.\" The increase in popularity of IoT devices, due to their efficiency and convenience, has given rise to new security concerns. The variety and novelty of IoT devices provide a corpus of malware that is of insufficient size to employ classic machine learning algorithms. This makes anomaly detection methods for IoT device security more attractive, especially in the short term, until there are enough behavioral signatures for malware to train more sophisticated machine learning detection models for these devices. This thesis explores some of the security concerns pertaining to running software similar to Amazon Alexa home assistant on IoT-like platforms. We implement a behavioral-based malware detector and compare the effectiveness of different system attributes that are used in detecting malware, ie, system calls, network traffic, and the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:HE397vMXCloC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using program transformation to secure C programs against buffer overflows",
+            "Publication year": 2003,
+            "Publication url": "https://www.eecs.yorku.ca/course_archive/2009-10/W/6431/Dahn.pdf",
+            "Abstract": "Buffer overflows are the most common source of security vulnerabilities in C programs. This class of vulnerability, which is found in both legacy and modern software, costs the software industry hundreds of millions of dollars per year.The most common type of buffer overflow is the runtime stack overflow. It is common because programmers often use stack allocated arrays. This enables the attacker to change a program\u2019s control flow by writing beyond the boundary of an array onto a return address on the run-time stack. If the arrays are repositioned to the heap at compile time, none of these attacks succeed. Furthermore, repositioning buffers to the heap should perturb the heap memory enough to prevent many heap overflows as well. We have created a tool called Gemini that repositions stack allocated arrays at compile time using TXL. The transformation preserves the semantics of the program with a small performance penalty. This paper discusses the semantics-preserving transformation of stack allocated arrays to heap allocated \u201cpointers to arrays\u201d. A program that is amenable to a buffer overflow attack and several Linux programs are used as examples to demonstrate the effectiveness and overhead of our technique.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Craft: a framework for evaluating software clustering results in the absence of benchmark decompositions [clustering results analysis framework and tools]",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/957813/",
+            "Abstract": "Software clustering algorithms are used to create high-level views of a system's structure using source code-level artifacts. Software clustering is an active area of research that has produced many clustering algorithms. However, we have so far seen very little work that investigates how the results of these algorithms can be evaluated objectively in the absence of a benchmark decomposition or without the active participation of the original designers of the system. Ideally, for a given system, art agreed upon reference (benchmark) decomposition of the system's structure would exist, allowing the results of various clustering algorithms to be compared against it. Since such benchmarks seldom exist, we seek alternative methods to gain confidence in the quality of results produced by software clustering algorithms. In this paper, we present a tool that supports the evaluation of software clustering results in the absence of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Ga-based parameter tuning for multi-agent systems",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/1068009.1068194",
+            "Abstract": "Motivation. A MANET is a challenging environment for software system designers due to its dynamism and unpredictable nature. Network links can go up and down depending on a variety of physical factors, such as movement of hosts, terrain, weather, interference, or available battery power. Agent based systems, with their runtime flexibility, can adapt to such environments better than centralized systems [4]. On the other hand, the tuning and control of the agent based system is more complicated, due to the flexible and decentralized nature of Multi-Agent Systems (MAS). Since it is unlikely that the optimal agent population composition can be derived theoretically, a search based technique should be used to find acceptable suboptimal solutions rather then guaranteed optimal ones. Many references to the example of information dissemination or collection by agent based systems will be used throughout this paper \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Overview of the International Workshop on Code Based Software Security Assessments (CoBaSSA 2007)",
+            "Publication year": 2007,
+            "Publication url": "https://research.tudelft.nl/en/publications/overview-of-the-international-workshop-on-code-based-software-sec",
+            "Abstract": "Overview of the International Workshop on Code Based Software Security Assessments (CoBaSSA \n2007) \u2014 TU Delft Research Portal Skip to main navigation Skip to search Skip to main content \nTU Delft Research Portal Logo Help & FAQ Home Researchers Research Units Research output \nActivities Datasets Press / Media Prizes Projects Search by expertise, name or affiliation \nOverview of the International Workshop on Code Based Software Security Assessments \n(CoBaSSA 2007) LMF Moonen, S. Mancoridis Software Engineering Research output: Chapter in \nBook/Conference proceedings/Edited volume \u203a Conference contribution \u203a Scientific \u203a peer-review \nOverview Original language Undefined/Unknown Title of host publication Proceedings \n14th IEEE Working Conference on Reverse Engineering (WCRE) Editors Massimiliano \nDi Penta, Jonathan I. Maletic Publisher IEEE Pages 300-302 Number of pages 3 ISBN (\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Special Section on the Int'l Conference on Software Maintenance and Evolution",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4375376/",
+            "Abstract": "SOFTWARE ENGINEERING Page 1 IEEE TRANSACTIONS ON SOFTWARE ENGINEERING A \npublication of the IEEE Computer Society DECEMBER 2007 VOLUME 33 NUMBER 12 \nIESEDJ (ISSN 0098-5589) SPECIAL SECTION ON THE INT'L CONFERENCE ON SOFTWARE \nMAINTENANCE AND EVOLUTION Guest Editors' Introduction to the Special Section from the \nInternational Conference on Software Maintenance and Evolution D. Binkley, R. Koschke, and \nS. Mancoridis ......................................................................................................................... 797 An \nExtensible Metamodel for Program Analysis (abstract only) D. Strein, R. Lincke, J. Lundberg, \nand W. L\u00f6we ................................................................................................................. 799 On the \nDetection of Test Smells: A Metrics-Based Approach for General Fixture and Eager Test B. Van \nRompaey, B. Du Bois, S. Demeyer, and M. Rieger ............................................................................\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Search based reverse engineering",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/568760.568835",
+            "Abstract": "In this paper we describe a two step process for reverse engineering the software architecture of a system directly from its source code. The first step involves clustering the modules from the source code into abstract structures called subsystems. The second step involves reverse engineering the subsystem-level relations using a formal (and visual) architectural constraint language. We use search techniques to accomplish both of these steps, and have implemented a suite of integrated tools to support the reverse engineering process. Through a case study, we demonstrate how our tools can be used to extract the software architecture of an open-source software package from its source code without having any a priori knowledge about its design.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multi-channel change-point malware detection",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6571697/",
+            "Abstract": "The complex computing systems employed by governments, corporations, and other institutions are frequently targeted by cyber-attacks designed for espionage and sabotage. The malicious software used in such attacks are typically custom-designed or obfuscated to avoid detection by traditional antivirus software. Our goal is to create a malware detection system that can quickly and accurately detect such otherwise difficult-to-detect malware. We pose the problem of malware detection as a multi-channel change-point detection problem, wherein the goal is to identify the point in time when a system changes from a known clean state to an infected state. We present a host-based malware detection system designed to run at the hypervisor level, monitoring hypervisor and guest operating system sensors and sequentially determining whether the host is infected. We present a case study wherein the detection system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:K3LRdlH-MEoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Light-Weight Behavioral Malware Detection for Windows Platforms",
+            "Publication year": 2019,
+            "Publication url": "https://patents.google.com/patent/US20190065746A1/en",
+            "Abstract": "A behavioral malware detection involves extracting features from prefetch files, wherein prefetch files; classifying and detecting benign applications from malicious applications using the features of the prefetch files; and quarantining malicious applications based on the detection.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:XiVPGOgt02cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A probabilistic approach to source code authorship identification",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4151691/",
+            "Abstract": "There exists a need for tools to help identify the authorship of source code. This includes situations in which the ownership of code is questionable, such as in plagiarism or intellectual property infringement disputes. Authorship identification can also be used to assist in the apprehension of the creators of malware. In this paper we present an approach to identifying the authors of source code. We begin by computing a set of metrics to build profiles for a population of known authors using code samples that are verified to be authentic. We then compute metrics on unidentified source code to determine the closest matching profile. We demonstrate our approach on a case study that involves two kinds of software: one based on open source developers working on various projects, and another based on students working on assignments with the same requirements. In our case study we are able to determine authorship \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Capturing design context in distributed communication of software engineers",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=4463157066728943985&hl=en&oi=scholarr",
+            "Abstract": "Software engineering is a knowledge-intensive activity. It requires developers be aware of changing requirements, involvement of others, and the overall status of the project. Code, as the embodiment of developers\u00e2 intent, does not represent all knowledge required to work on the project successfully. Even in projects with the best software process practices, where requirement and design documents, bug databases, and source control software are kept up-to-date, most knowledge is still contained within the developers themselves. Once a person leaves the organization, his/her knowledge is lost. This problem is even more acute in open-source projects where developers communicate almost exclusively remotely and usually many more people are involved for shorter periods of time. This problem is formulated and techniques are presented that aim to retain knowledge accumulated in software projects. The general technique I present here is based on the observation that communication between designers contains a great deal of relevant information that can be harvested and archived for the purpose of being used in the future. We introduce a tool called Code Link which enables developers to exchange code references through email. These exchanges are archives and a search interface to the archive is provided. This approach enhances communication with context specific information and enables extended search capabilities. The implementation details are discussed and future improvements are outlined. The results of the user study to show the feasibility of this approach are described.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:q3oQSFYPqjQC",
+            "Publisher": "Drexel University"
+        },
+        {
+            "Title": "Source code authorship attribution using long short-term memory based networks",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-66402-6_6",
+            "Abstract": "Machine learning approaches to source code authorship attribution attempt to find statistical regularities in human-generated source code that can identify the author or authors of that code. This has applications in plagiarism detection, intellectual property infringement, and post-incident forensics in computer security. The introduction of features derived from the Abstract Syntax Tree (AST) of source code has recently set new benchmarks in this area, significantly improving over previous work that relied on easily obfuscatable lexical and format features of program source code. However, these AST-based approaches rely on hand-constructed features derived from such trees, and often include ancillary information such as function and variable names that may be obfuscated or manipulated.In this work, we provide novel contributions to AST-based source code authorship attribution using deep \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:BrmTIyaxlBUC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Using interconnection style rules to infer software architecture relations",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-24855-2_158",
+            "Abstract": "Software design techniques emphasize the use of abstractions to help developers deal with the complexity of constructing large and complex systems. These abstractions can also be used to guide programmers through a variety of maintenance, reengineering and enhancement activities. Unfortunately, recovering design abstractions directly from a system\u2019s implementation is a difficult task because the source code does not contain them. In this paper we describe an automatic process to infer architectural-level abstractions from the source code. The first step uses software clustering to aggregate the system\u2019s modules into abstract containers called subsystems. The second step takes the output of the clustering process, and infers architectural-level relations based on formal style rules that are specified visually. This two step process has been implemented using a set of integrated tools that employ search \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:4TOpqqG69KYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "On the use of computational geometry to detect software faults at runtime",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1809049.1809069",
+            "Abstract": "Despite advances in software engineering, software faults continue to cause system downtime. Software faults are difficult to detect before the system fails, especially since the first symptom of a fault is often system failure itself.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the evaluation of the bunch search-based software modularization algorithm",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s00500-007-0218-3.pdf",
+            "Abstract": "The first part of this paper describes an automatic reverse engineering process to infer subsystem abstractions that are useful for a variety of software maintenance activities. This process is based on clustering the graph representing the modules and module-level dependencies found in the source code into abstract structures not in the source code called subsystems. The clustering process uses evolutionary algorithms to search through the enormous set of possible graph partitions, and is guided by a fitness function designed to measure the quality of individual graph partitions. The second part of this paper focuses on evaluating the results produced by our clustering technique. Our previous research has shown through both qualitative and quantitative studies that our clustering technique produces good results quickly and consistently. In this part of the paper we study the underlying structure of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:0EnyYjriUFMC",
+            "Publisher": "Springer-Verlag"
+        },
+        {
+            "Title": "On computing the canonical features of software systems",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4023980/",
+            "Abstract": "Software applications typically have many features that vary in their similarity. We define a measurement of similarity between pairs of features based on their underlying implementations and use this measurement to compute a set of canonical features. The canonical features set (CFS) consists of a small number of features that are as dissimilar as possible to each other, yet are most representative of the features that are not in the CFS. The members of the CFS are distinguishing features and understanding their implementation provides the engineer with an overview of the system undergoing scrutiny. The members of the CFS can also be used as cluster centroids to partition the entire set of features. Partitioning the set of features can simplify the understanding of large and complex software systems. Additionally, when a specific feature must undergo maintenance, it is helpful to know which features are most \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An Approach to Comprehending Networked Applications through Analogy",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4437892/",
+            "Abstract": "Distributed applications rely on packet-switched networks to connect their various elements. This paper describes a technique that can help software engineers and network administrators characterize unfamiliar networked applications by matching them to a single, or a combination of several, analogous and familiar networked applications). This matching is based on the size distribution of the packets sent and received by the application undergoing scrutiny.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:M05iB0D1s5AC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Gadget: A Tool for Extracting the Dynamic Structure of Java Programs.",
+            "Publication year": 2001,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Evaluating Attacker Risk Behavior in an Internet of Things Ecosystem",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-90370-1_19",
+            "Abstract": "In cybersecurity, attackers range from brash, unsophisticated script kiddies and cybercriminals to stealthy, patient advanced persistent threats. When modeling these attackers, we can observe that they demonstrate different risk-seeking and risk-averse behaviors. This work explores how an attacker\u2019s risk seeking or risk averse behavior affects their operations against detection-optimizing defenders in an Internet of Things ecosystem. Using an evaluation framework which uses real, parametrizable malware, we develop a game that is played by a defender against attackers with a suite of malware that is parameterized to be more aggressive and more stealthy. These results are evaluated under a framework of exponential utility according to their willingness to accept risk. We find that against a defender who must choose a single strategy up front, risk-seeking attackers gain more actual utility than risk-averse \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:5awf1xo2G04C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Action Languages and the Mitigation of Malware",
+            "Publication year": 2015,
+            "Publication url": "http://www.asklab.net/mbal/papers/bm15.pdf",
+            "Abstract": "Automating malware mitigation requires taking into account potentially intricate dependencies among the system\u2019s components, understanding potential side-effects of the possible actions, and ensuring that required system functionalities are preserved. Answers still need to be found for fundamental questions: What does it mean to mitigate malware? When can one claim that malware has been mitigated? What are the side-effects of a mitigation strategy? This paper aims to demonstrate that techniques from reasoning about actions and change can provide the means to create a precise characterization of the notion of mitigation and by defining corresponding algorithms. The key observation underlying our work is that a computer system can be viewed as a dynamic system, ie, a system whose state changes over time. Taking this perspective makes it possible to leverage the techniques for reasoning about actions and change to model, and reason about, system components and malware. Furthermore, efficient computation can be achieved by relying on encodings based on Answer Set Programming.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:sSrBHYA8nusC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Characterizing the'security vulnerability likelihood'of software functions",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1235429/",
+            "Abstract": "Software maintainers and auditors would benefit from a tool to help them focus their attention on functions that are likely to be the source of security vulnerabilities. However, the existence of such a tool is predicated on the ability to characterize a function's 'security vulnerability likelihood'. Our hypothesis is that functions near a source of input are most likely to contain security vulnerability. These functions should be a small percentage of the total number of functions in the system. To validate this hypothesis, we performed an experiment involving thirty one vulnerabilities in thirty open source systems. This paper describes the experiment, its outcome, and the tools used to conduct it. It also describes the FLF (front line functions) finder, which is a tool that was developed using knowledge gathered from the outcome of the experiment. This tool automates the detection of high-risk functions. To demonstrate the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Software Security Assessments\u2014CoBaSSA 2007\u2014",
+            "Publication year": 2007,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.2449&rep=rep1&type=pdf",
+            "Abstract": "Our technological society has become more and more dependent on software that is used to automate everyday processes. This dependence increasingly exposes us to the security threats that originate from malicious software (malware) such as computer viruses and worms and software vulnerability exploits such as remote execution of code or denial of service attacks. Moreover, this exposure is not limited to computer systems but is spreading to common appliances such as mobile phones, PDAs and consumer electronics such as media centers, personal video recorders, etc. since a growing number of these products are made extensible and adaptable by means of embedded software. The proliferation of malware and exploits requires that action is taken to tackle these issues and evaluate software security to prevent the damage and costs (eg, data loss, productivity loss, recovery time) that result from security incidents. This calls for measures to assure that a software system has the desired security properties, ie that it is free of malware and vulnerabilities. In addition, there is a need for technology for software forensics, for example to detect code authorship or plagiarism.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Applying spectral methods to software clustering",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1173059/",
+            "Abstract": "The application of spectral methods to the software clustering problem has the advantage of producing results that are within a known factor of the optimal solution. Heuristic search methods, such as those supported by the Bunch clustering tool, only guarantee local optimality which may be far from the global optimum. In this paper, we apply the spectral methods to the software clustering problem and make comparisons to Bunch using the same clustering criterion. We conducted a case study, involving 13 software systems, to draw our comparisons. There is a dual benefit to making these comparisons. Specifically, we gain insight into (1) the quality of the spectral methods solutions; and (2) the proximity of the results produced by Bunch to the optimal solution.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Software analysis for security",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4659254/",
+            "Abstract": "This is a survey of the processes, practices, and technologies that can help software maintenance engineers improve the security of software systems. A particular emphasis is placed on validating security architectures, verifying that the implementation of an architecturepsilas constituent applications adhere to secure coding practices, and protecting software systems against malicious software. In addition to surveying the state-of-the-art, research challenges pertaining to software security are posed to the software maintenance research community.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scenariographer: A tool for reverse engineering class usage scenarios from method invocation sequences",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1510112/",
+            "Abstract": "Typical documentation for object-oriented programs includes descriptions of the parameters and return types of each method in a class, but little or no information on valid method invocation sequences. Knowing the sequence with which methods of a class can be invoked is useful information especially for software engineers (e.g., developers, testers) who are actively involved in the maintenance of large software systems. This paper describes a new approach and a tool for generating class usage scenarios (i.e., how a class is used by other classes) from method invocations, which are collected during the execution of the software. Our approach is algorithmic and employs the notion of canonical sets to categorize method sequences into groups of similar sequences, where each group represents a usage scenario for a given class.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatically Transforming GNU C Source Code",
+            "Publication year": 2004,
+            "Publication url": "https://www.academia.edu/download/40389765/Enabling_Dynamic_Software_Evolution_thro20151125-7021-16b5yd0.pdf#page=43",
+            "Abstract": "To perform automated transformation techniques on production quality GNU C source code, non-trivial normalizations must occur. The syntax of GNU C contains inherent ambiguity that must be overcome. The techniques used by an automated transformation tool, Gemini, are presented.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Reverse Engineering Portal Web Site",
+            "Publication year": 2002,
+            "Publication url": "https://www.researchgate.net/profile/Spiros-Mancoridis/publication/267854018_A_Reverse_Engineering_Portal_Web_Site/links/55250c0f0cf2caf11bfcfb8a/A-Reverse-Engineering-Portal-Web-Site.pdf",
+            "Abstract": "I would first like to thank my advisor, Dr. S. Mancoridis, for his constant support and guidance. I would also like to thank the other members of my committee: T. Hewett, D. Salvucci and B. Mitchell for their input and thoughtful direction. I also want to acknowledge for the people at the SERG lab for their help with the user interface study, special thanks to W. Mongan for his input to REportal and his patient help of correcting grammar errors of this thesis. Finally, I would like to thank Xiaoping Hu, my wife, for supporting me while I finished this thesis, and my father and mother, for always being there giving me strength and love.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Form: A framework for creating views of program executions",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/972778/",
+            "Abstract": "Form is a framework used to construct tools for analyzing the runtime behavior of standalone and distributed software systems. The architecture of Form is based on the event broadcast and pipe and filter styles. In the implementation of this architecture, execution profiles may be generated from standalone or distributed systems. The profile data is subsequently broadcast by Form to one or more views. Each view is a tool used to support program understanding or other software development activities. The authors describe the Form architecture and implementation, as well as a tool that was built using Form. This tool profiles Java-based distributed systems and generates UML sequence diagrams to describe their execution. We also present a case study that shows how this tool was used to extract sequence diagrams from a three-tiered EJB-based distributed application.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Malware Detection using Behavioral Whitelisting of Computer Systems",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9032977/",
+            "Abstract": "Malware detection has been an active area of research for a long time. With the rapid growth of self-mutating malware, many malware-detection tools fail quickly or have a high rate of false positives. Our work tackles the problem differently by creating anomaly detectors for computer systems. Since the number of potential malware far exceeds the number of benign software on any given computer system, our thesis is that it is possible to efficiently detect malware as anomalies in the expected behavior of computer systems hosting only benign software. This is in contrast to traditional approaches that attempt to construct behavioral models for every possible instance or type of malware.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:t6usbXjVLHcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Guest Editors' Introduction to the Special Section from the International Conference on Software Maintenance and Evolution",
+            "Publication year": 2007,
+            "Publication url": "https://search.proquest.com/openview/a65a09d6a661e7046fd6b3eb71b01fdb/1?pq-origsite=gscholar&cbl=21418",
+            "Abstract": "SOFTWARE maintenance and evolution are relevant to users, engineers, and researchers who come into contact with software beyond Version 1. The International Conference on Software Maintenance and Evolution (ICSM) is the premiere forum for software maintenance researchers and practitioners to examine, discuss, and exchange ideas regarding the key issues facing the software maintenance community. During the conference, participants from academia, government, and industry share ideas and experiences solving critical software maintenance problems. ICSM 2006 was held in Philadelphia on 24-27 September 2006 in cooperation with several colocated workshops. These included the Eighth IEEE International Symposium on Web Site Evolution (WSE), the Sixth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM), the Second International IEEE Workshop on Software \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "On the effectiveness of application characteristics in the automatic classification of malware on smartphones",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7888732/",
+            "Abstract": "The increase in smartphone usage is providing impetus to malicious actors to target these devices via malware injection. This can be seen in the increasing number of malware identified in the past few years. Android, being the most commonly used platform and one that provides an open architecture, makes it the most common target for malware developers. One possible method to identify malicious code is to use the characteristics of an application such as permissions to identify an application's disposition. This paper describes a method for using application characteristics to classify sample applications as either benign or malware. Both binary and familial classification of malware samples is performed to determine whether each sample is malware or not (i.e., binary classification) and what is the familial provenance of the malware sample (i.e. familial classification). The results compare the effectiveness of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:VOx2b1Wkg3QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Toward an environment for comprehending distributed systems.",
+            "Publication year": 2003,
+            "Publication url": "https://www.cs.drexel.edu/~spiros/papers/WCRE03b.pdf",
+            "Abstract": "Many modern software systems are often large, distributed, written in more than one programming language, and developed using pre-built components. This paper presents the results of the first phase of a project to develop an environment that supports the comprehension of distributed systems.The environment has a layered architecture consisting of three subsystems: data gathering, data repository, and modeling/visualization. The first phase of the project focuses on the design and implementation of the data gathering and data repository subsystems. The key requirements of the environment are to support:(a) static and dynamic analysis,(b) multiple languages,(c) distributed systems, and (d) component-based models.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Visualizing and analyzing software infrastructures",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/951497/",
+            "Abstract": "Companies frequently need to redesign their software infrastructures in response to marketplace changes, but they must do so carefully so that the new architecture will not disrupt existing operations or increase operating costs unnecessarily. To support these goals, system architects have long recognized the need to build a repository of information about all of their company's systems and their interfaces. Using this information, architects create system interface diagrams to help them study the existing architecture. The authors discuss their system, Enterprise Navigator, which lets users make ad hoc queries about an enterprise software architecture and then automatically generate the corresponding system interface diagram in real time on the Web.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reverse engineering utility functions using genetic programming to detect anomalous behavior in software",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5645446/",
+            "Abstract": "Recent studies have shown the promise of using utility functions to detect anomalous behavior in software systems at runtime. However, it remains a challenge for software engineers to hand-craft a utility function that achieves both a high precision (i.e., few false alarms) and a high recall (i.e., few undetected faults). This paper describes a technique that uses genetic programming to automatically evolve a utility function for a specific system, set of resource usage metrics, and precision/recall preference. These metrics are computed using sensor values that monitor a variety of system resources (e.g., memory usage, processor usage, thread count). The technique allows users to specify the relative importance of precision and recall, and builds a utility function to meet those requirements. We evaluated the technique on the open source Jigsaw web server using ten resource usage metrics and five anomalous \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:D03iK_w7-QYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A reverse engineering tool for extracting protocols of networked applications",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4400169/",
+            "Abstract": "Networked applications play a significant role in today's interconnected world. It is important for software engineers to be able to understand and model the behavior of these applications during software maintenance. Some networked applications use legacy protocols in ways they were not intended to be used. Others use newly created protocols that are designed in an ad hoc way to simply meet requirements. Protocol usage needs to be understood so that applications can be effectively tested and maintained. In this paper we propose the first step in achieving this goal by presenting a dynamic analysis tool, called PEXT, that can reverse engineer a networked application's underlying protocol by analyzing a collection of packets captured from the application at runtime. We demonstrate the effectiveness of this tool by extracting a protocol from an FTP application, and comparing the extracted protocol to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:_kc_bZDykSQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Static security analysis based on input-related software faults",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4812737/",
+            "Abstract": "It is important to focus on security aspects during the development cycle to deliver reliable software. However, locating security faults in complex systems is difficult and there are only a few effective automatic tools available to help developers. In this paper we present an approach to help developers locate vulnerabilities by marking parts of the source code that involve user input. We focus on input-related code, since an attacker can usually take advantage of vulnerabilities by passing malformed input to the application. The main contributions of this work are two metrics to help locate faults during a code review, and algorithms to locate buffer overflow and format string vulnerabilities in C source code. We implemented our approach as a plug in to the Grammatech CodeSurfer tool. We tested and validated our technique on open source projects and we found faults in software that includes Pidgin and cyrus-imapd.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Toward an automatic, online behavioral malware classification system",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6676498/",
+            "Abstract": "Malware authors are increasingly using specialized toolkits and obfuscation techniques to modify existing malware and avoid detection by traditional antivirus software. The resulting proliferation of obfuscated malware variants poses a challenge to antivirus vendors, who must create signatures to detect each new malware variant. Although the many variants in a malware family have different static signatures, they share characteristic behavioral patterns resulting from their common function and heritage. We describe an automatic classification system that can be trained to accurately identify new variants within known malware families, using observed similarities in behavioral features extracted from sensors monitoring live computers hosts. We evaluate the accuracy of the classifier on a live testbed under a heavy computational load. The described classification system is intended to perform classification online \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:08ZZubdj9fEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the automatic recovery of style-specific architectural relations in software systems",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1020346626363",
+            "Abstract": "The cost of maintaining a software system over a long period of time far exceeds its initial development cost. Much of the maintenance cost is attributed to the time required by new developers to understand legacy systems. High-level structural information helps maintainers navigate through the numerous low-level components and relations present in the source code. Modularization tools can be used to produce subsystem decompositions from the source code but do not typically produce high-level architectural relations between the newly found subsystems. Controlling subsystem interactions is one important way in which the overall complexity of software maintenance can be reduced.We have developed a tool, called ARIS (Architecture Relation Inference System), that enables software engineers to define rules and relations for regulating subsystem interactions. These rules and relations are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Exploring Paraphrasing Techniques on Formal Language for Generating Semantics Preserving Source Code Transformations",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9031503/",
+            "Abstract": "Automatically identifying and generating equivalent semantic content to a word, phrase, or sentence is an important part of natural language processing (NLP). The research done so far in paraphrases in NLP has been focused exclusively on textual data, but has significant potential if it is applied to formal languages like source code. In this paper, we present a novel technique for generating source code transformations via the use of paraphrases. We explore how to extract and validate source code paraphrases. The transformations can be used for stylometry tasks and processes like refactoring. A machine learning method of identifying valid transformations has the advantage of avoiding the generation of transformations by hand and is more likely to have more valid transformations. Our dataset is comprised by 27,300 C++ source code files, consisting of 273topics each with 10 parallel files. This generates \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Re-engineering a reverse engineering portal to a distributed soa",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4556134/",
+            "Abstract": "REportal is an existing Web-based reverse engineering portal Web site that provides access to a suite of reverse engineering and program comprehension tools via a Web browser. This abstraction was intended to allow ease of system maintenance by adding and upgrading tools without involving the end user. However, the software tools and server technologies used became deprecated so quickly that it was not possible to take full advantage of the architectural vision. Using a service-oriented architecture, we abstract the process flow of the system from the underlying tools, enabling a wizard-style method of adding services to the system, and facilitating more \"hands-off\" maintenance. In this paper, we describe the challenges and benefits of this architectural migration.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Comparing the decompositions produced by software clustering algorithms using similarity measurements",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/972795/",
+            "Abstract": "Decomposing source code components and relations into subsystem clusters is an active area of research. Numerous clustering approaches have been proposed in the reverse engineering literature, each one using a different algorithm to identify subsystems. Since different clustering techniques may not produce identical results when applied to the same system, mechanisms that can measure the extent of these differences are needed. Some work to measure the similarity between decompositions has been done, but this work considers the assignment of source code components to clusters as the only criterion for similarity. We argue that better similarity measurements can be designed if the relations between the components are considered. The authors propose two similarity measurements that overcome certain problems in existing measurements. We also provide some suggestions on how to identify and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Proceedings of the International Workshop on Code Based Software Security Assessments (CoBaSSA)",
+            "Publication year": 2007,
+            "Publication url": "http://publications.st.ewi.tudelft.nl/bibtex/799?noheader=1",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "Delft University of Technology Software Engineering Research Group"
+        },
+        {
+            "Title": "COSAK: Code Security Analysis Kit",
+            "Publication year": 2004,
+            "Publication url": "https://apps.dtic.mil/sti/citations/ADA421440",
+            "Abstract": "There are two significant parts to the Code Security Analysis Kit CoSAK project. The first part of the project is called Front Line Functions FLF and involves the development of static analysis tools for C code to assist in the characterization of software functions that are most vulnerable to a security attack. The effectiveness of the FLF work was demonstrated empirically using a repository of open source software with known security vulnerabilities. The second part of the project is called Gemini and involves the development of tools to transform C programs into equivalent ones that are less susceptible to a buffer overflow security attack. The effectiveness of the Gemini project was demonstrated using a case study that involved transforming several software packages from the Linux operating system distribution.Descriptors:",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:b0M2c_1WBrUC",
+            "Publisher": "DREXEL UNIV PHILADELPHIA PA COLL OF ENGINEERING"
+        },
+        {
+            "Title": "Studying the evolution of software systems using change clusters",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1631104/",
+            "Abstract": "In this paper, we present an approach that examines the evolution of code stored in source control repositories. The technique identifies change clusters, which can help managers to classify different code change activities as either software maintenance or a new development. Furthermore, identifying the variations in change clusters over time exposes trends in the development of a software system. We present a case study that uses a sequence of change clusters to track the evolution of the PostgreSQL software project. Our case study demonstrates that our technique reveals interesting patterns about the progress of code development within each release of PostgreSQL. We show that the increase in the number of clusters not only identifies the areas where development has occurred, but also reflects the amount of structural change in code. We also compare how the change clusters vary over time in order to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reportal: A web-based portal site for reverse engineering",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/957826/",
+            "Abstract": "We present a Web-based portal site for the reverse engineering of software systems, called REportal (Reverse Engineering portal). REportal enables authorized users to upload their code to a secure Web site and then, through the guidance of wizards, to browse and analyze their code. Currently, the portal services include code analysis, browsing, querying and design extraction for C, C++ and Java programs. The REportal services are implemented by several reverse engineering tools that our team has developed over the years. With this work, we aim to assist professional software engineers, educators and other researchers who need to analyze code. Specifically, we present a technology that provides a simple and easily accessible user interface to a number of reverse engineering tools. More importantly, this technology saves the user from the time and effort required to install, administer and integrate these tools.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Inoculation against malware infection using kernel-level software sensors",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1998582.1998600",
+            "Abstract": "We present a technique for dynamic malware detection that relies on a set of sensors that monitor the interaction of applications with the underlying operating system. By monitoring the requests that each process makes to kernel-level operating system functions, we build a statistical model that describes both clean and infected systems in terms of the distribution of data collected from each sensor. The model parameters are learned from labeled training data gathered from machines infected with canonical samples of malware. We present a technique for detecting malware using the Neyman-Pearson test from classical detection theory. This technique classifies a system as either clean or infected at runtime as measurements are collected from the sensors. We provide experimental results that illustrate the effectiveness of this technique for a selection of malware samples. Additionally, we provide a performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:abG-DnoFyZgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reducing program comprehension effort in evolving software by recognizing feature implementation convergence",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4268237/",
+            "Abstract": "The implementations of software features evolve as an application matures. We define a measure of feature implementation overlap that determines how similar features are in their execution by examining their call graphs. We consider how this measure changes over time, and evaluate the hypothesis that over time and subsequent versions of a software application, the implementations of semantically similar features converge. As the features of an application converge in their implementation, we are able to more effectively determine groups of semantically similar features and to reduce the cost of program comprehension by selecting few key features that give an overview of the system. We present a case study analyzing the features of the Jext, Firefox, and Gaim software systems to support our hypothesis.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using search methods for selecting and combining software sensors to improve fault detection in autonomic systems",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5635154/",
+            "Abstract": "Fault-detection approaches in autonomic systems typically rely on runtime software sensors to compute metrics for CPU utilization, memory usage, network throughput, and so on. One detection approach uses data collected by the runtime sensors to construct a convex-hull geometric object whose interior represents the normal execution of the monitored application. The approach detects faults by classifying the current application state as being either inside or outside of the convex hull. However, due to the computational complexity of creating a convex hull in multi-dimensional space, the convex-hull approach is limited to a few metrics. Therefore, not all sensors can be used to detect faults and so some must be dropped or combined with others. This paper compares the effectiveness of genetic-programming, genetic-algorithm, and random-search approaches in solving the problem of selecting sensors and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:maZDTaKrznsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Identifying Source Code Authorship",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.2449&rep=rep1&type=pdf#page=16",
+            "Abstract": "Stylometry, which is the application of the study of linguistic style, is often used to analyze the differences in the styes of authors of literary works. Researchers have identified about 1,000 characteristics, or style markers, such as word length, to analyze literary works [1]. Linguistics investigators have used stylometry to distinguish the authorship of written works by capturing, examining, and analyzing style markers [2]. Like naturally-evolved human languages, programming languages allow developers to express certain constructs and ideas in different ways. The differences in the way developers express their ideas can be captured in their programming styles, which in turn can be used for author identification. In the context of programming languages, it has been shown that capturing style in source code can help in determining authorship. In our previous work, we examined source code as a text document and identified certain peculiarities in the styles of software developers that persisted across different projects. We used those styles to determine the authorship of the source code. Using various text-based style markers such as line length and 4-character sequence distributions, we developed and matched profiles of authors [3]. We were able to use those profiles to determine authorship of unidentified code with a success rate over 80% on a testing data set of",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:3s1wT3WcHBgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "thr2csp: Toward Transforming Threads into Communicating Sequential Processes",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5280011/",
+            "Abstract": "As multicore and heterogeneous multiprocessor platforms replace uniprocessor systems, software programs must be designed with a greater emphasis on concurrency. Threading has become the dominant paradigm of concurrent computation in the most popular programming languages. Large threaded programs are known to be difficult to implement correctly, comprehend, and maintain, while concurrent programs written in process algebraic paradigms of concurrency, such as communicating sequential processes, are known to be easier to analyze. This paper presents our initial work on reverse engineering threaded source code and transforming the code into functionally-equivalent message-passing code. The paper also explores future work needed to convert the message-passing code into communicating sequential processes.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reformulating software engineering as a search problem",
+            "Publication year": 2003,
+            "Publication url": "https://digital-library.theiet.org/content/journals/10.1049/ip-sen_20030559",
+            "Abstract": "Metaheuristic techniques such as genetic algorithms, simulated annealing and tabu search have found wide application in most areas of engineering. These techniques have also been applied in business, financial and economic modelling. Metaheuristics have been applied to three areas of software engineering: test data generation, module clustering and cost/effort prediction, yet there remain many software engineering problems which have yet to be tackled using metaheuristics. It is surprising that metaheuristics have not been more widely applied to software engineering; many problems in software engineering are characterised by precisely the features which make metaheuristics search applicable. In the paper it is argued that the features which make metaheuristics applicable for engineering and business applications outside software engineering also suggest that there is great potential for the exploitation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IET Digital Library"
+        },
+        {
+            "Title": "Towards a reference model for agent-based systems",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1160633.1160922",
+            "Abstract": "The current state of the art in agent technology sees that several implementations of agent frameworks exist. However, there is little agreement on the terms and concepts used to describe such systems, which is a significant barrier towards adoption of these technologies by industry, military and commercial entities. A clear definition of terms and concepts at an appropriate level of abstraction is needed to facilitate discussion, evaluation and adoption of these emerging agent technologies. In this paper, we argue that a reference model for agent-based systems can fill this need. We discuss what a reference model is, why one is needed for agent-based systems, and our proposed methodology for creating such a reference model. While the complete model is a work in progress, we present a preliminary version to motivate further discussion from the agents community at large. It is our hope that ultimately a wider \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Behavioral anomaly detection of malware on home routers",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8323956/",
+            "Abstract": "The Internet of Things (IoT) introduced new targets and attack vectors for malicious actors who infect insecure devices with malware in order to form large botnets that can launch distributed denial of service (DDoS) attacks. These botnets comprise various infected devices such as Internet-connected cameras and home routers. This paper focuses on the unsolved problem of creating robust malware detection to secure home routers. This research compares the effectiveness of three different approaches to behavioral malware detection on home endpoint routers through the observation of kernel-level system calls on these routers: i) principal component analysis (PCA), ii) one-class support vector machines, and iii) a naive anomaly detector based on unseen n-grams.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:kRWSkSYxWN8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Behavioral malware classification using convolutional recurrent neural networks",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8659358/",
+            "Abstract": "Behavioral malware detection aims to improve on the performance of static signature-based techniques used by anti-virus systems, which are less effective against modern polymorphic and metamorphic malware. Behavioral malware classification aims to go beyond the detection of malware by also identifying a malware's family according to a naming scheme such as the ones used by anti-virus vendors. Behavioral malware classification techniques use run-time features, such as file system or network activities, to capture the behavioral characteristic of running processes. The increasing volume of malware samples, diversity of malware families, and the variety of naming schemes given to malware samples by anti-virus vendors present challenges to behavioral malware classifiers. We describe a behavioral classifier that uses a Convolutional Recurrent Neural Network and data from Microsoft Windows Prefetch \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:1qzjygNMrQYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Using code metric histograms and genetic algorithms to perform author identification for software forensics",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1276958.1277364",
+            "Abstract": "We have developed a technique to characterize software developers-styles using a set of source code metrics. This style fingerprint can be used to identify the likely author of a piece of code from a pool of candidates. Author identification has applications in criminal justice, corporate litigation, and plagiarism detection. Furthermore, we can identify candidate developers who share similar styles, making our technique useful for software maintenance as well. Our method involves measuring the differences in histogram distributions for code metrics. Identifying a combination of metrics that is effective in distinguishing developer styles is key to the utility of the technique. Our case study involves 18 metrics, and the time involved in exhaustive searching of the problem space prevented us from adding additional metrics. Using a genetic algorithm to perform the search, we were able to find good metric combinations in hours \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the Automatic Recovery of Style-Specific Structural Dependencies in Software Systems",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=12972907471716597680&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Diagnosis of software failures using computational geometry",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6100108/",
+            "Abstract": "Complex software systems have become commonplace in modern organizations and are considered critical to their daily operations. They are expected to run on a diverse set of platforms while interoperating with a wide variety of other applications. Although there have been advances in the discipline of software engineering, software faults, and malicious attacks still regularly cause system downtime [1]. Downtime of critical applications can create additional work, cause delays, and lead to financial loss [2]. This paper presents a computational geometry technique to tackle the problem of timely failure diagnosis during the execution of a software application. Our approach to failure diagnosis involves collecting a set of software metrics and building a geometric enclosures corresponding to known classes of faults. The geometric enclosures are then used to partition the state space defined by the metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "International Workshop on Code Based Software Security Assessments CoBaSSA 2007",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4400184/",
+            "Abstract": "The purpose of this workshop is to bring together practitioners, researchers, academics, and students to discuss the state-of-the-art of software security assessments based on reverse engineering of source or binary code (as opposed to software security assessments that look at the software process that was applied). This includes research on topics like source & binary code analysis techniques for the detection of software vulnerabilities (e.g. detect if code has potential buffer overflow problems) or analysis for the detection of malicious behavior (e.g. detect if code contains an exploit or has viral behavior).",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:CHSYGLWDkRkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Detection, diagnosis, and mitigation of software faults",
+            "Publication year": 2015,
+            "Publication url": "https://patents.google.com/patent/US8949674B2/en",
+            "Abstract": "A computational geometry technique is utilized to detect, diagnose, and/or mitigate fault detection during the execution of a software application. Runtime measurements are collected and processed to generate a geometric enclosure that represents the normal, non-failing, operating space of the application being monitored. When collected runtime measurements are classified as being inside or on the perimeter of the geometric enclosure, the application is considered to be in a normal, non-failing, state. When collected runtime measurements are classified as being outside of the geometric enclosure, the application is considered to be in an anomalous, failing, state. In an example embodiment, the geometric enclosure is a convex hull generated in N-dimensional Euclidean space. Appropriate action (eg, restart the software, turn off access to a network port) can be taken depending on where the measurement \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Spectral and meta-heuristic algorithms for software clustering",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121204002043",
+            "Abstract": "When large software systems are reverse engineered, one of the views that is produced is the system decomposition hierarchy. This hierarchy shows the system\u2019s subsystems, the contents of the subsystems (i.e., modules or other subsystems), and so on. Software clustering tools create the system decomposition automatically or semi-automatically with the aid of the software engineer.The Bunch software clustering tool shows how meta-heuristic search algorithms can be applied to the software clustering problem, successfully. Unfortunately, we do not know how close the solutions produced by Bunch are to the optimal solution. We can only obtain the optimal solution for trivial systems using an exhaustive search.This paper presents evidence that Bunch\u2019s solutions are within a known factor of the optimal solution. We show this by applying spectral methods to the software clustering problem. The advantage of using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "A case study on the automatic composition of network application mashups",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4639341/",
+            "Abstract": "MaxMash is a tool that can compose select features of networked application and generate the source code for application mashups that can integrate those features. This paper presents a case study that demonstrates how MaxMash is used to combine the Jabber chatting protocol and the Microsoft Maps Web application. The composed mashup is able to answer direction queries via a chat client.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:mB3voiENLucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Lightweight behavioral malware detection for windows platforms",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8323959/",
+            "Abstract": "We describe a lightweight behavioral malware detection technique that leverages Microsoft Windows prefetch files. We demonstrate that our malware detection achieves a high detection rate with a low false-positive rate of 1 \u00d7 10 -3 , and scales linearly for training samples. We demonstrate the generalization of our malware detection on two different Windows platforms with a different set of applications. We study the loss in performance of our malware detection in case of concept drift and its ability to adapt. Finally, we measure our malware detection against evasive malware and present an effective auxiliary defensive technique against such attacks.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:mvPsJ3kp5DgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A collaborative bachelor's degree in software engineering",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1265986/",
+            "Abstract": "This paper discusses a new Bachelor of Science in Software Engineering (BSSE) that is offered via a collaboration of three departments of one university. The sponsors span the disciplinary areas of computer science, computer engineering, and information systems. The combination of disciplinary areas helps provide a broad foundation for the program. At the same time, while the idea of joint sponsorship may make sense, putting that idea into practice has its difficulties. Academic units have differences in organizational culture, and disciplines may vary in research tradition and curricular expectations. Administrative issues are also more complicated for a collaborative program. All of these factors may make it more difficult to achieve a satisfactory result. This paper begins with a discussion of the development of the degree program including the process used and issues that had to be addressed along the way. Next \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A survey of reverse engineering tools for the 32-bit Microsoft Windows environment",
+            "Publication year": 2005,
+            "Publication url": "http://www.cs.drexel.edu/~spiros/teaching/CS675/asmrceFINAL.pdf",
+            "Abstract": "Reverse engineering is defined by Chikosfky and Cross as the process of analyzing a subject system to identify the system\u2019s components and their relationships, and to create representations of the system in another form or at a higher level of abstraction. The process of reverse engineering is accomplished using specific tools that, for the 32-bit Microsoft Windows environment, are categorized as hex editors, disassemblers/debuggers, decompilers, or related technologies such as code obfuscators, unpackers, and PE editors. An evaluation of each tool is provided that identifies its domain of applicability and usability.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the automatic modularization of software systems using the bunch tool",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1610610/",
+            "Abstract": "Since modern software systems are large and complex, appropriate abstractions of their structure are needed to make them more understandable and, thus, easier to maintain. Software clustering techniques are useful to support the creation of these abstractions by producing architectural-level views of a system's structure directly from its source code. This paper examines the Bunch clustering system which, unlike other software clustering tools, uses search techniques to perform clustering. Bunch produces a subsystem decomposition by partitioning a graph of the entities (e.g., classes) and relations (e.g., function calls) in the source code. Bunch uses a fitness function to evaluate the quality of graph partitions and uses search algorithms to find a satisfactory solution. This paper presents a case study to demonstrate how Bunch can be used to create views of the structure of significant software systems. This paper \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the maintenance of UI-integrated mashup applications",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6080787/",
+            "Abstract": "This paper describes the maintenance of long-lived mashup applications that are integrated at the user interface (UI) layer. It presents techniques that help mashup developers to maintain applications by identifying when and how the original applications' UIs change. It describes a novel mashup editing environment that can be used to create, share, and edit mashups. This paper also presents an experiment that demonstrates our approach's ability to track UI changes as an application evolves and a demonstration of the effort expanded by developers to maintain mashups as the applications used by the mashups evolve.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Toward a design environment for recovering and maintaining the structure of software systems",
+            "Publication year": 2000,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/340855.340973",
+            "Abstract": "The goal of this research project is to further understand the theoretic relationship between programming languages and models of computation. Much is known about machine models; the\" invariance thesis\" says that first-class machine models can simulate each other to within a polynomial factor. Similarly, what is a good implementation-independent cost model for a programming language?A major focus of our research under this general rubric has been the investigation of local, optimal reduction for functional programming languages, where a sophisticated form of graph reduction is used as an implementation technique. These graph rewrite operations provide the right sorts of atomic operations that need accounting for in a cost model. We have related abstract, implementation-independent measures on reduction to this graph reduction model, inspired by the invariance thesis. Our most well known result, joint \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:YFjsv_pBGBYC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "System call-based detection of malicious processes",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7272922/",
+            "Abstract": "System call analysis is a behavioral malware detection technique that is popular due to its promising detection results and ease of implementation. This study describes a system that uses system call analysis to detect malware that evade traditional defenses. The system monitors executing processes to identify compromised hosts in production environments. Experimental results compare the effectiveness of multiple feature extraction strategies and detectors based on their detection accuracy at low false positive rates. Logistic regression and support vector machines consistently outperform log-likelihood ratio and signature detectors as processing and detection methods. A feature selection study indicates that a relatively small set of system call 3-grams provide detection accuracy comparable to that of more complex models. A case study indicates that the detection system performs well against a variety of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:B3FOqHPlNUQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On evaluating the efficiency of software feature development using algebraic manifolds",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4658049/",
+            "Abstract": "Managers are often unable to explain objectively why or when effort was misplaced during the development process. In this paper, we present a formal technique to depict the expended effort during the life-cycle of a software feature using feature development manifolds (FDMs). Using the FDMs we can compute the preferred development path for a given feature. This development path includes the versions of a software feature that contributed to the final version of the feature in a positive way. The preferred development path excludes versions of the software feature that should have been skipped. Once the preferred development path is computed the amount of wasted effort can be quantified using the metric that we have developed. We demonstrate the effectiveness of our approach to compute wasted software feature development by applying our technique to two large open source software systems, Gaim and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Towards employing use-cases and dynamic analysis to comprehend mozilla",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1510163/",
+            "Abstract": "This paper presents an approach for comprehending large software systems using views that are created by subjecting the software systems to dynamic analysis under various use-case scenarios. Two sets of views are built from the runtime data: (1) graphs that capture the parts of the software's architecture that pertain to the use-cases; and (2) metrics that measure the intricacy of the software and the similarity between the software's use-cases. The Mozilla Web browser was chosen as the subject software system in our case study due to its size, intricacy, and ability to expose the challenges of analyzing large systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Demonstration of COSAK static analysis tools",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1194898/",
+            "Abstract": "A software vulnerability is a fault in the specification, implementation, or configuration of a software system whose execution can violate an explicit or implicit security policy. Users typically focus on the functionality of software rather than its security posture. Hence, vulnerabilities often escape their attention until the software is exploited by specially written malicious code. Code auditing is one solution which has been tried with some success in systems such as the OpenBSD operating system. Code audits involve the review of source code by experts in search of vulnerabilities. These audits are reoccurring, namely each revision of the software requires reexamination, and expensive because code audits are labor intensive. Auditors would benefit from a tool which enables them to focus their attention on high-risk areas, thus reducing the amount of code that needs to be audited. The article shows how the tools \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:xtRiw3GOFMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An architecture for distributing the computation of software clustering algorithms",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/948427/",
+            "Abstract": "Collections of general purpose networked workstations offer processing capability that often rivals or exceeds supercomputers. Since networked workstations are readily available in most organizations, they provide an economic and scalable alternative to parallel machines. The authors discuss how individual nodes in a computer network can be used as a collection of connected processing elements to improve the performance of a software engineering tool that we developed. Our tool, called Bunch, automatically clusters the structure of software systems into a hierarchy of subsystems. Clustering helps developers understand complex systems by providing them with high-level abstract (clustered) views of the software structure. The algorithms used by Bunch are computationally intensive and, hence, we would like to improve our tool's performance in order to cluster very large systems. The paper describes how \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Perception of Utility in Autonomic VoIP Systems",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.636.8295&rep=rep1&type=pdf#page=102",
+            "Abstract": "The transmission of voice-over-Internet protocol (VoIP) network traffic is used in an increasing variety of applications and settings. Many of these applications involve communications where VoIP systems are deployed under unpredictable conditions with poor network support. These conditions make it difficult for users to configure and optimize VoIP systems and this creates a need for self configuring and self optimizing systems. To build an autonomic system for VoIP communications, it is valuable to be able to measure the user perceived utility of a system. In this paper we identify factors important to the estimation of user perceived utility in task dependent VoIP communications.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:olpn-zPbct0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A hierarchy of dynamic software views: From object-interactions to feature-interactions",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1357792/",
+            "Abstract": "This work presents a hierarchy of dynamic views that is constructed using tools that analyze program execution traces. At the highest-level of abstraction are the feature-interaction and implementation views, which track the inter-feature dependencies as well as the classes that implement these features. At the middle-level is the class-interaction view, which is an abstract view of the object-interactions. The object-interaction view is the base view for all the views, and captures the low-level runtime interactions between objects. Two case studies are used to demonstrate the effectiveness of our work.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic Malware Detection on an Alexa-Pi IoT Device",
+            "Publication year": 2019,
+            "Publication url": "https://www.cs.drexel.edu/~spiros/papers/ACSAC2019-1.pdf",
+            "Abstract": "This work explores some of the security concerns pertaining to running software similar to Amazon Alexa home assistant on IoT-like platforms. We implement a behavioral-based malware detector and compare the effectiveness of different system attributes that are used in detecting malware, ie, system calls, network traffic, and the integration of system call and network traffic features. Given the small number of malware samples for IoT devices, we create a parameterizable malware sample that mimics Alexa behavior to varying degrees, while exfiltrating data from the device to a remote host. The performance of our anomaly detector is evaluated based on how well it determines the presence of our parameterized malware on an Alexa-enabled IoT device.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Using heuristic search techniques to extract design abstractions from source code",
+            "Publication year": 2002,
+            "Publication url": "http://gpbib.cs.ucl.ac.uk/gecco2002/SBSE189.pdf",
+            "Abstract": "As modern software systems are large and complex, appropriate abstractions of their structure are needed to make them more understandable and, thus, easier to maintain. Software clustering tools are useful to support the creation of these abstractions. In this paper we describe our search algorithms for software clustering, and conduct a case study to demonstrate how altering the clustering parameters impacts the behavior and performance of our algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Malware anomaly detection on virtual assistants",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8659366/",
+            "Abstract": "This work explores the application of anomaly detection techniques, specifically one-class support vector machine (SVM) and online change-point detection, to construct a model that can distinguish, in real-time, between the normal operation of an Amazon Alexa Virtual Assistant IoT device from anomalous operation due to malware infections. Despite the current absence of widespread malware for IoT devices, the anticipated rapid growth in deployment and use of IoT devices will likely attract many different malware attacks in the near future. Because of their highly specialized and, hence, predictable expected behavior, malware detection on IoT devices is not difficult given large training sets, long testing vectors, and extensive computational power. The challenge we address in this paper is to ascertain how quickly malware may be detected, i.e., the distribution on the number of system calls before a suitably high \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "bKGwUrQAAAAJ:J-pR_7NvFogC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scenario-driven dynamic analysis for comprehending large software systems",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1602359/",
+            "Abstract": "Understanding large software systems is simplified when a combination of techniques for static and dynamic analysis is employed. Effective dynamic analysis requires that execution traces be generated by executing scenarios that are representative of the system's typical usage. This paper presents an approach that uses dynamic analysis to extract views of a software system at different levels, namely (1) use cases views, (2) module interaction views, and (3) class interaction views. The proposed views can be used to help maintainers locate features to be changed. The proposed approach is evaluated against a large software system, the Mozilla Web browser",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multi-channel change-point malware detection",
+            "Publication year": 2017,
+            "Publication url": "https://patents.google.com/patent/US9853997B2/en",
+            "Abstract": "A malware detection system and method detects changes in host behavior indicative of malware execution. The system uses linear discriminant analysis (LDA) for feature extraction, multi-channel change-point detection algorithms to infer malware execution, and a data fusion center (DFC) to combine local decisions into a host-wide diagnosis. The malware detection system includes sensors that monitor the status of a host computer being monitored for malware, a feature extractor that extracts data from the sensors corresponding to predetermined features, local detectors that perform malware detection on each stream of feature data from the feature extractor independently, and a data fusion center that uses the decisions from the local detectors to infer whether the host computer is infected by malware.",
+            "Abstract entirety": 1,
+            "Author pub id": "bKGwUrQAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

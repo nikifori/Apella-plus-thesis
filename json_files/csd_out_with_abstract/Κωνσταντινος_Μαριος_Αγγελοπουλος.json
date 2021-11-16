@@ -1,0 +1,560 @@
+[{
+    "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03c2 \u039c\u03b1\u03c1\u03b9\u03bf\u03c2 \u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+    "romanize name": "Konstantinos Marios Angelopoulos",
+    "School-Department": "\n Computing & Informatics",
+    "University": "Bournemouth University",
+    "Rank": "\u0395\u03c0\u03af\u03ba\u03bf\u03c5\u03c1\u03bf\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 (\u039c\u03cc\u03bd\u03b9\u03bc\u03bf\u03c2)",
+    "Apella_id": 20799,
+    "Scholar name": "Constantinos Marios Angelopoulos",
+    "Scholar id": "iQr8D8UAAAAJ",
+    "Affiliation": "Bournemouth University",
+    "Citedby": 618,
+    "Interests": [
+        "Sensor Networks",
+        "Internet of Things",
+        "Circular Economy"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=iQr8D8UAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "A new random walk for efficient data collection in sensor networks",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2069131.2069141",
+            "Abstract": "Motivated by the problem of efficiently collecting data from wireless sensor networks via a mobile sink, we present an accelerated random walk on Random Geometric Graphs. Random walks in wireless sensor networks can serve as fully local, very simple strategies for sink motion that significantly reduce energy dissipation but introduce higher latency in the data collection process. While in most cases random walks are studied on graphs like G n, p and Grid, we define and experimentally evaluate our newly proposed random walk on the Random Geometric Graphs model, that more accurately abstracts spatial proximity in a wireless sensor network. We call this new random walk the \u03b3-stretched random walk, and compare it to two known random walks; its basic idea is to favour visiting distant neighbours of the current node towards reducing node overlap. We also define a new performance metric called Proximity \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Accelerated Random Walks for Efficient Data Collection in Mobile Sensor Networks",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=WkW7CgAAQBAJ&oi=fnd&pg=PA17&dq=info:_cJ4uZsDZVUJ:scholar.google.com&ots=gu5EthX9Ut&sig=_1rBpft8LxGif9ofg2yRScgAjlg",
+            "Abstract": "Random walks in Wireless Sensor Networks can serve as fully local, very simple strategies for sink motion that lift from sensors the computational burden of propagating collected data via complex routing algorithms. In such schemes, sensors maintain a passive role waiting for the sink to visit them and collect their data. Therefore, energy dissipation is significantly reduced at the expense of increasing the latency of data delivery. To achieve satisfactory energy-latency trade-offs, the sink walks can be made adaptive, depending on critical network parameters (density, history of past visits in each network region) as well as characteristic attributes of the network topology. In this chapter, we study known random walks on two well established network models; the Grid and the Random Geometric Graphs. Towards better balances of memory/performance, we propose four new random walks that we experimentally evaluate in terms of several performance metrics that capture important differences in the network traversal process. The simulation findings demonstrate that even with limited memory usage, random walks can prove themselves very efficient when carefully designed.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:BqipwSGYUEgC",
+            "Publisher": "World Scientific"
+        },
+        {
+            "Title": "Ideal-cities-a trustworthy and sustainable framework for circular smart cities",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804760/",
+            "Abstract": "Reflecting upon the sustainability challenges cities will be facing in the near future and the recent technological developments allowing cities to become \"smart\", we introduce IDEAL-CITIES; a framework aiming to provide an architecture for cyber-physical systems to deliver a data-driven Circular Economy model in a city context. In the IDEAL-CITIES ecosystem, the city's finite resources as well as citizens will form the pool of intelligent assets in order to contribute to high utilization through crowdsourcing and real-time decision making and planning. We describe two use cases as a vehicle to demonstrate how a smart city can serve the Circular Economy paradigm.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An Architecture for Resilient Intrusion Detection in IoT Networks",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9148868/",
+            "Abstract": "We introduce a lightweight architecture of Intrusion Detection Systems (IDS) for ad-hoc IoT networks. Current state-of-the-art IDS have been designed based on assumptions holding from conventional computer networks, and therefore, do not properly address the nature of IoT networks. In this work, we first identify the correlation between the communication overheads and the placement of an IDS (as captured by proper placement of active IDS agents in the network). We model such networks as Random Geometric Graphs. We then introduce a novel IDS architectural approach by having only a minimum subset of the nodes acting as IDS agents. These nodes are able to monitor the network and detect attacks at the networking layer in a collaborative manner by monitoring 1-hop network information provided by routing protocols such as RPL. Conducted experiments show that our proposed IDS architecture is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:2P1L_qKh6hAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Crowd-driven IoT/IoE ecosystems: a multidimensional approach",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-319-50758-3_14.pdf",
+            "Abstract": "During the past few years an astonishing paradigm shift has occurred towards a new participatory value creation model driven by users. Open collaborative innovation practices have emerged in which an increasing number of users mutually collaborate by openly communicating their ideas, sharing best practices, and creating new knowledge across sectors. These online, distributed, crowd-driven networks take advantage of underlying network effects in order to harness the collective power and intelligence of the Crowd. Such novel paradigms fuel an increasing interest in mobile crowdsensing (MCS) methods in the context of IoT/IoE, which leverage the power and the wisdom of the crowd to observe, measure, and make sense of particular phenomena by exploiting user-owned mobile and wearable devices. However, when one examines the design and development of such ecosystems, realises that there \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "DHP Framework: Digital Health Passports Using Blockchain--Use case on international tourism during the COVID-19 pandemic",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2005.08922",
+            "Abstract": "In order to contain the COVID-19 pandemic, several countries enforced extended social distancing measures for several weeks, effectively pausing the majority of economic activities. In an effort to resume economic activity safely, several Digital Contact Tracing applications and protocols have been introduced with success. However, DCT is a reactive method, as it aims to break existing chains of disease transmission in a population. Therefore DCT is not suitable for proactively preventing the spread of a disease; an approach that relevant to certain use cases, such as international tourism, where individuals travel across borders. In this work, we first identify the limitations characterising DCT related to privacy issues, unwillingness of the public to use DCT mobile apps due to privacy concerns, lack of interoperability among different DCT applications and protocols, and the assumption that there is limited, local mobility in the population. We then discuss the concept of a Health Passport as a means of verifying that individuals are disease risk-free and how it could be used to resume the international tourism sector. Following, we present the DHP Framework that uses a private blockchain and Proof of Authority for issuing Digital Health Passports. The framework provides a distributed infrastructure supporting the issuance of DHPs by foreign health systems and their verification by relevant stakeholders, such as airline companies and border control authorities. We discuss the attributes of the system in terms of its usability and performance, security and privacy. Finally, we conclude by identifying future extensions of our work on formal security and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:lSLTfruPkqcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Advanced Cyber and Physical Situation Awareness in Urban Smart Spaces",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-80285-1_50",
+            "Abstract": "The ever-growing adoption of big data technologies, smart sensing, data science and artificial intelligence is enabling the development of new intelligent urban spaces with real-time monitoring and advanced cyber-physical situational awareness capabilities. In the S4AllCities international research project, the advancement of cyber-physical situational awareness will be experimented for achieving safer smart city spaces in Europe and beyond. The deployment of digital twins will lead to understanding real-time situation awareness and risks of potential physical and/or cyber-attacks on urban critical infrastructure specifically. The critical extraction of knowledge using digital twins, which ingest, process and fuse observation data and information, prior to machine reasoning is performed in S4AllCities. In this paper, a cyber behavior detection module, which identifies unusualness in cyber traffic networks is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Understanding modes of crowdsourcing and related crowd motivators",
+            "Publication year": 2015,
+            "Publication url": "https://search.proquest.com/openview/fd80c8b293cc6b965a78d61023cd048d/1?pq-origsite=gscholar&cbl=1796422",
+            "Abstract": "Today there is a very strong and rapidly growing interest and actions focusing on involving the crowd in different initiatives. This trend can be labelled crowdsourcing where companies want to tap into the wisdom of the crowd, or to engage crowds to carry our micro-tasks to achieve a higher goal. Hence, crowds can be engaged in many different types of activities spanning from idea generation to crisis management. These crowds are also motivated to participate and contribute differently, for some crowds monetary compensation is a strong motivator while in other initiatives, contributing to a larger cause is more prominent. This paper aims to cluster different crowdsourcing initiatives into different modes to deepen the understanding of what motivates the crowds. We also illustrate how crowd motivators are influenced by gender where our study, being carried out in the IoT Lab project, show that men and women are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "The International Society for Professional Innovation Management (ISPIM)"
+        },
+        {
+            "Title": "Wireless power transfer in sensor networks with adaptive, limited knowledge protocols",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-46810-5_18",
+            "Abstract": "In this chapter, we investigate the problem of efficient wireless power transfer in Wireless Rechargeable Sensor Networks (WRSNs). In such networks a special mobile entity (called the Mobile Charger) traverses the network and wirelessly replenishes the energy of sensor nodes. In contrast to other approaches, we envision methods that are distributed, adaptive and use limited network information. We propose three new, alternative protocols for efficient charging, addressing key issues which we identify, most notably (i) to what extent each sensor should be charged (ii) what is the best split of the total energy between the charger and the sensors and (iii) what are good trajectories the Mobile Charger should follow. One of our protocols (LRP) performs some distributed, limited sampling of the network status, while another one (RTP) reactively adapts to energy shortage alerts judiciously spread in the network \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Social signal processing: Detecting human interactions using wireless sensor networks",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2069131.2069163",
+            "Abstract": "In this paper we address the problem of capturing and processing certain spatiotemporal, social characteristics of human interactions with the use of Wireless Sensor Networks. Using TelosB motes, we basically monitor the binary proximity within a group of people. The collected data give an insight of how people interact with each other (how often, for how much time, in which room) and provide a novel tool (which can be further enhanced) to study (quantitatively, in an automated manner) human social networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Traversal strategies for wireless power transfer in mobile ad-hoc networks",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2811587.2811603",
+            "Abstract": "We investigate the problem of wireless power transfer in mobile ad-hoc networks. In particular we investigate which traversal strategy should a Mobile Charger follow in order to efficiently recharge agents that are randomly and dynamically moving inside an area of interest. We first formally define this problem as the Charger Traversal Decision Problem and prove its computational hardness. We then define a weighting function which evaluates several network parameters in order to prioritize the nodes during the charging process. Based on this function we define three traversal strategies for the MC; a global-knowledge strategy that uses an Integer Linear Program to optimize its trajectory; a global-knowledge strategy which tessellates the network area and prioritizes the charging process over each tile; a local-knowledge strategy that uses local network information collected and ferried distributively by the moving \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Characteristic utilities, join policies and efficient incentives in mobile crowdsensing systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7020795/",
+            "Abstract": "In this paper we identify basic design issues of Mobile Crowdsensing Systems (MCS) and investigate some characteristic challenges. We define the basic components of an MCS - the Task, the Server and the Crowd - and investigate the functions describing/governing their interactions. We identify three qualitatively different types of Tasks; a) those whose added utility is proportional to the size of the Task, b) those whose added utility is proportional to the progress of the Task and c) those whose added utility is reversely proportional to the progress of the Task. For a given type of Task, and a finite Budget, the Server makes offers to the agents of the Crowd based on some Incentive Policy. On the other hand, each agent that receives an offer decides whether it will undertake the Task or not, based on the inferred cost (computed via a Cost function) and some Join Policy. In their policies, the Crowd and the Server take \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fine-grained in-door localisation with wireless sensor networks",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2386995.2387025",
+            "Abstract": "Many WSN algorithms and applications are based on knowledge regarding the position of nodes inside the network area. However, the solution of using GPS based modules in order to perform localization in WSNs is a rather expensive solution and in the case of indoor applications, such as smart buildings, is also not applicable. Therefore, several techniques have been studied in order to perform relative localization in WSNs; that is, to compute the position of a node inside the network area relatively to the position of other nodes. Many such techniques are based on indicators like the Radio Signal Strength Indicator (RSSI) and the Link Quality Indicator (LQI). These techniques are based on the assumption that there is strong correlation between the Euclidian distance of the communicating motes and these indicators. Therefore, high values of RSSI and LQI should indicate physical proximity of two communicating \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Improving sensor network performance with wireless energy transfer",
+            "Publication year": 2015,
+            "Publication url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJAHUC.2015.073169",
+            "Abstract": "Through recent technology advances in the field of wireless energy transmission wireless rechargeable sensor networks have emerged. In this new paradigm for wireless sensor networks a mobile entity called mobile charger (MC) traverses the network and replenishes the dissipated energy of sensors. In this work we first provide a formal definition of the charging dispatch decision problem and prove its computational hardness. We then investigate how to optimise the trade-offs of several critical aspects of the charging process. In the light of these optimisations, we study the impact of the charging process to the network lifetime for three characteristic underlying routing protocols. Finally, we propose a mobile charging protocol that locally adapts the circular trajectory of the MC to the energy dissipation rate of each sub-region of the network. We compare this protocol against several MC trajectories by a detailed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Inderscience Publishers (IEL)"
+        },
+        {
+            "Title": "An architecture for resilient intrusion detection in ad-hoc networks",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S2214212619311160",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems (IDS) for ad-hoc networks via the prism of IPv6-enabled Wireless Sensor Actuator Networks. These networks consist of highly constrained devices able to communicate wirelessly in an ad-hoc fashion, thus following the architecture of ad-hoc networks. Current state-of-the-art (IDS) has been developed taking into consideration the architecture of conventional computer networks, and as such they do not efficiently address the paradigm of ad-hoc networks, that is highly relevant in emergent networks, such as the Internet of Things (IoT). In this context, the network properties of resilience and redundancy have not been studied yet. In this work, we firstly identify a trade-off between the communication overhead and energy consumption of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:JV2RwH3_ST0C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient collection of sensor data via a new accelerated random walk",
+            "Publication year": 2016,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.3108",
+            "Abstract": "Motivated by the problem of efficiently collecting data from wireless sensor networks via a mobile sink, we present an accelerated random walk on random geometric graphs (RGG). Random walks in wireless sensor networks can serve as fully local, lightweight strategies for sink motion that significantly reduce energy dissipation but introduce higher latency in the data collection process. In most cases, random walks are studied on graphs like Gn,p and grid. Instead, we here choose the RGG model, which abstracts more accurately spatial proximity in a wireless sensor network. We first evaluate an adaptive walk (the random walk with inertia) on the RGG model; its performance proved to be poor and led us to define and experimentally evaluate a novel random walk that we call \u03b3\u2010stretched random walk. Its basic idea is to favour visiting distant neighbours of the current node towards reducing node overlap and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fast sensory data collection by mobility-based topology exploration",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5425603/",
+            "Abstract": "We study the problem of fast and energy-efficient data collection of sensory data using a mobile sink, in wireless sensor networks in which both the sensors and the sink move. Motivated by relevant applications, we focus on dynamic sensory mobility and heterogeneous sensor placement. Our approach basically suggests to exploit the sensor motion to adaptively propagate information based on local conditions (such as high placement concentrations), so that the sink gradually \"learns\" the network and accordingly optimizes its motion. Compared to relevant solutions in the state of the art (such as the blind random walk, biased walks, and even optimized deterministic sink mobility), our method significantly reduces latency (the improvement ranges from 40% for uniform placements, to 800% for heterogeneous ones), while also improving the success rate and keeping the energy dissipation at very satisfactory levels.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "User Incentivization in Mobile Crowdsensing Systems",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-92384-0_8",
+            "Abstract": "In this chapter, we present basic design issues of mobile crowdsensing systems (MCS) and investigate some characteristic challenges. We define the basic components of an MCS (the task, the server and the crowd), investigate the functions describing/governing their interactions and identify three qualitatively different types of tasks. For a given type of task, and a finite budget, the server makes offers to the agents of the crowd based on some incentive policy. On the other hand, each agent that receives an offer decides whether it will undertake the task or not, based on the inferred cost (computed via a Cost function) and some join policy. In their policies, the crowd and the server take into account several aspects, such as the number and quality of participating agents, the progress of execution of the task and possible network effects, present in real-life systems. We evaluate the impact and the performance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Experimental Performance Evaluation of Sensor-Based Networking for Energy Efficiency in Smart Buildings",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-41296-7_3",
+            "Abstract": "This chapter presents measurements based experimental research carried out in the context of the EU/FIRE project HOBNET on on energy efficiency, with application to green, smart buildings of the Future Internet. In particular, we discuss two aspects of experimentation: a) experimental evaluation of sensor network protocols (with a focus on how to efficiently and distributively achieve energy balance in the network towards prolonging its lifetime); critical components of such experimental research (reference deployments, mobility profiles, performance metrics and their trade-offs, protocol properties and families) are also discussed b) specialized application commissioning (which we exemplify via presenting a smart watering application developed in the project). Our experience suggests that measurements based experimental research can nicely complement rigorous performance analysis and simulation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Coverage-adaptive random walks for fast sensory data collection",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-14785-2_7",
+            "Abstract": "Random walks in wireless sensor networks can serve as fully local, very simple strategies for sink motion that significantly reduce energy dissipation a lot but increase the latency of data collection. To achieve satisfactory energy-latency trade-offs the sink walks can be made adaptive, depending on network parameters such as density and/or history of past visits in each network region; but this increases the memory requirements. Towards better balances of memory/performance, we propose three new random walks: the Random Walk with Inertia, the Explore-and-Go Random Walk and the Curly Random Walk; we also introduce a new metric (Proximity Variation) that captures the different way each walk gets close to the network nodes over time. We implement the new walks and experimentally compare them to known ones. The simulation findings demonstrate that the new walks\u2019 performance (cover time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Crowdcloud: a crowdsourced system for cloud infrastructure",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/article/10.1007/s10586-018-2843-2",
+            "Abstract": "The widespread adoption of truly portable, smart devices and Do-It-Yourself computing platforms by the general public has enabled the rise of new network and system paradigms. This abundance of well-connected, well-equipped, affordable devices, when combined with crowdsourcing methods, enables the development of systems with the aid of the crowd. In this work, we introduce the paradigm of Crowdsourced Systems, systems whose constituent infrastructure, or a significant part of it, is pooled from the general public by following crowdsourcing methodologies. We discuss the particular distinctive characteristics they carry and also provide their \u201ccanonical\u201d architecture. We exemplify the paradigm by also introducing Crowdcloud, a crowdsourced cloud infrastructure where crowd members can act both as cloud service providers and cloud service clients. We discuss its characteristic properties and also \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:TQgYirikUcIC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Synergistic User  Context Analytics",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-25733-4_17",
+            "Abstract": "Various flavours of a new research field on (socio\u2009\u2212\u2009)physical or personal analytics have emerged, with the goal of deriving semanticallyrich insights from people\u2019s low-level physical sensing combined with their (online) social interactions. In this paper, we argue for more comprehensive data sources, including environmental and application-specific data, to better capture the interactions between users and their context, in addition to those among users. We provide some example use cases and present our ongoing work towards a synergistic analytics platform: a testbed based on mobile crowdsensing and IoT, a data model for representing the different sources of data and their connections, and a prediction engine for analyzing the data and producing insights.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "VIVO: A secure, privacy-preserving, and real-time crowd-sensing framework for the Internet of Things",
+            "Publication year": 2018,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S157411921730648X",
+            "Abstract": "Smartphones are a key enabling technology in the Internet of Things (IoT) for gathering crowd-sensed data. However, collecting crowd-sensed data for research is not simple. Issues related to device heterogeneity, security, and privacy have prevented the rise of crowd-sensing platforms for scientific data collection. For this reason, we implemented VIVO, an open framework for gathering crowd-sensed Big Data for IoT services, where security and privacy are managed within the framework. VIVO introduces the enrolled crowd-sensing model, which allows the deployment of multiple simultaneous experiments on the mobile phones of volunteers. The collected data can be accessed both at the end of the experiment, as in traditional testbeds, as well as in real-time, as required by many Big Data applications. We present here the VIVO architecture, highlighting its advantages over existing solutions, and four relevant real \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:HDshCWvjkbEC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "DHP Framework: Digital Health Passports Using Blockchain--Use case on international tourism during the COVID-19 pandemic",
+            "Publication year": 2020,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200508922M/abstract",
+            "Abstract": "In order to contain the COVID-19 pandemic, several countries enforced extended social distancing measures for several weeks, effectively pausing the majority of economic activities. In an effort to resume economic activity safely, several Digital Contact Tracing applications and protocols have been introduced with success. However, DCT is a reactive method, as it aims to break existing chains of disease transmission in a population. Therefore DCT is not suitable for proactively preventing the spread of a disease; an approach that relevant to certain use cases, such as international tourism, where individuals travel across borders. In this work, we first identify the limitations characterising DCT related to privacy issues, unwillingness of the public to use DCT mobile apps due to privacy concerns, lack of interoperability among different DCT applications and protocols, and the assumption that there is limited, local \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:70eg2SAEIzsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A holistic ipv6 test-bed for smart, green buildings",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6655569/",
+            "Abstract": "This work addresses networked embedded systems enabling the seamless interconnection of smart building automations to the Internet and their abstractions as web services. In our approach, such abstractions are used to primarily create a flexible, holistic and scalable system and allow external end-users to compose and run their own smart/green building automation application services on top of this system. Towards this direction, in this paper we present a smart building test-bed consisting of several sensor motes and spanning across seven rooms. Our test-bed's design and implementation simultaneously addresses several corresponding system layers; from hardware interfaces, embedded IPv6 networking and energy balancing routing algorithms to a RESTful architecture and over the web development of sophisticated, smart, green scenarios. In fact, we showcase how IPv6 embedded networking combined \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Aggregated mobility-based topology inference for fast sensor data collection",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0140366410004822",
+            "Abstract": "We investigate the problem of efficient data collection in wireless sensor networks where both the sensors and the sink move. We especially study the important, realistic case where the spatial distribution of sensors is non-uniform and their mobility is diverse and dynamic. The basic idea of our protocol is for the sink to benefit of the local information that sensors spread in the network as they move, in order to extract current local conditions and accordingly adjust its trajectory. Thus, sensory motion anyway present in the network serves as a low cost replacement of network information propagation. In particular, we investigate two variations of our method: a) the greedy motion of the sink towards the region of highest density each time and b) taking into account the aggregate density in wider network regions. An extensive comparative evaluation to relevant data collection methods (both randomized and optimized \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient IoT-enabled landslide monitoring",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8767201/",
+            "Abstract": "Landslides pose significant socio-economic threats to areas whose geography favors them. Currently existing landslide monitoring methods and techniques are characterized by significant limitations both in technical terms (quality and frequency of data) and in terms of usability (high inferred costs, requirement of very high expertise). In this work we present an innovative landslide monitoring system that leverages state-of-the-art IoT technologies. The system consists of a set of autonomous sensing devices equipped with a sensor suit specifically tailored for monitoring landslides. The devices take sensory measurements at frequent intervals - while operating at a very low duty cycle - and transmit them over the SigFox network to a data server powered by ELK stack for curation and visualization. The system has been successfully deployed in a landslide site at Bournemouth, UK providing the local authorities with a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Keeping data at the edge of smart irrigation networks: A case study in strawberry greenhouses",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1389128619305195",
+            "Abstract": "Strawberries are widely appreciated for their characteristic aroma, bright red color, juicy texture, and sweetness. They are, however, among the most sensitive fruits when it comes to the quality of the end product. The recent commercial trends show a rising number of farmers who directly sell their products in the market and are more interested in using smart solutions for a continuous control of the factors that affect the quality of the final product. Cloud-based approaches for smart irrigation have been widely used in the recent years. However, the network traffic, security and regulatory challenges, which come hand in hand with sharing the crop data with third parties outside the edge of the network, lead strawberry farmers and data owners to rely on global clouds and potentially lose control over their data, which are usually transferred to third party data centers. In this paper, we follow a three-step methodological \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:k_IJM867U9cC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Towards a holistic federation of secure crowd-enabled IoT facilities",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7248380/",
+            "Abstract": "Experimentally driven research is considered to be a key factor for growing the Internet industry. There is a large number of existing experimentation facilities which can be adapted to a seamless federation into a unified platform. Through this common federation, innovative experiments become possible and are able to break the boundaries of testbeds interoperability barriers. This way, infrastructure developers can utilize common tools of the federation, allowing them to not only focus on their core testbed functionalities, activities and services but also collaboratively combine them. In this work realized in the frame of the IoT Lab European research project, we provide a federation roadmap which paves the way towards a holistic integration of three testbeds, different both in terms of location and in terms of provided services and functionalities. The core element of each testbed is a set of networked constraint devices \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "\u0391\u03c0\u03bf\u03b4\u03bf\u03c4\u03b9\u03ba\u03ac \u03c0\u03c1\u03c9\u03c4\u03cc\u03ba\u03bf\u03bb\u03bb\u03b1 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae\u03c2 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03b1 \u03b4\u03af\u03ba\u03c4\u03c5\u03b1 \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03c9\u03bd",
+            "Publication year": 2013,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13650273754451481746&hl=en&oi=scholarr",
+            "Abstract": "\u03a4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b1\u03bd\u03b1\u03bc\u03c6\u03af\u03b2\u03bf\u03bb\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b1\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03c3\u03c4\u03bf\u03bd \u03c4\u03bf\u03bc\u03ad\u03b1 \u03b4\u03b9\u03ac\u03b4\u03bf\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c0\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u0393\u03bf\u03c5\u03c4\u03b5\u03bc\u03b2\u03ad\u03c1\u03b3\u03b9\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03c4\u03c5\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1\u03c2, \u03ad\u03c7\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c1\u03b9\u03b6\u03b9\u03ba\u03ac \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd.  \u03a3\u03c4\u03bf\u03bd \u03c0\u03c5\u03c1\u03ae\u03bd\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2 \u03bf\u03b9 \u03bf\u03c0\u03bf\u03af\u03b5\u03c2 \u03b1\u03bd\u03b1\u03c0\u03c4\u03cd\u03c7\u03b8\u03b7\u03ba\u03b1\u03bd \u03bc\u03b5 \u03c3\u03ba\u03bf\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1 \u03c3\u03b5 \u03b5\u03c4\u03b5\u03c1\u03bf\u03b3\u03b5\u03bd\u03ae \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03af\u03ba\u03c4\u03c5\u03b1. \u039c\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf, \u03b5\u03bd\u03ce \u03c4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af\u03c4\u03bf \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u03b4\u03af\u03ba\u03c4\u03c5\u03b1 \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd, \u03c3\u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03b1\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03bf\u03b9 \u03c4\u03cd\u03c0\u03bf\u03b9 \u03b4\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd \u03cc\u03c0\u03c9\u03c2 \u03c4\u03b1 \u03c3\u03c4\u03b1\u03b8\u03b5\u03c1\u03ac \u03c4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03b9\u03ba\u03ac \u03b4\u03af\u03ba\u03c4\u03c5\u03b1, \u03c4\u03b1 \u03b4\u03af\u03ba\u03c4\u03c5\u03b1 \u03ba\u03b9\u03bd\u03b7\u03c4\u03ae\u03c2 \u03c4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03af\u03b1\u03c2, \u03c4\u03b1 \u03b4\u03bf\u03c1\u03c5\u03c6\u03bf\u03c1\u03b9\u03ba\u03ac \u03b4\u03af\u03ba\u03c4\u03c5\u03b1, \u03ba.\u03b1. \u03a0\u03bb\u03ad\u03bf\u03bd \u03c4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03af \u03ad\u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1-\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b4\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd \u03c4\u03bf \u03bf\u03c0\u03bf\u03af\u03bf \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03c0\u03b5\u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b1\u03bd\u03c4\u03af\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03c2 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03b9\u03ba\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b5\u03be\u03b5\u03bb\u03af\u03c3\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9. \u03a3\u03c4\u03bf \u03bf\u03c1\u03b1\u03c4\u03cc \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd, \u03c3\u03c4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b8\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b5\u03b8\u03bf\u03cd\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03c4\u03bf \u03cc\u03c1\u03b1\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u03c4\u03c9\u03bd \u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd (Internet of Things).   \u0397 \u03ba\u03cd\u03c1\u03b9\u03b1 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03b9\u03ba\u03c4\u03b9\u03ba\u03ae \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03c4\u03c9\u03bd \u0391\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u0391\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03b1 \u0394\u03af\u03ba\u03c4\u03c5\u03b1 \u0391\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03c9\u03bd (\u0391.\u0394.\u0391.). \u03a4\u03b1 \u0391\u03c3\u03cd\u03c1\u03bc\u03b1\u03c4\u03b1 \u0394\u03af\u03ba\u03c4\u03c5\u03b1 \u0391\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03c9\u03bd \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03bf\u03cd\u03bd \u03bc\u03af\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03ae \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03af\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bd\u03b5\u03bc\u03b7\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc-\u03bf\u03c1\u03b3\u03b1\u03bd\u03bf\u03cd\u03bc\u03b5\u03bd\u03c9\u03bd \u03b4\u03b9\u03ba\u03c4\u03cd\u03c9\u03bd \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c5\u03c0\u03cc\u03c3\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b3\u03b5\u03c6\u03c5\u03c1\u03ce\u03c3\u03bf\u03c5\u03bd \u03c4\u03bf \u03c7\u03ac\u03c3\u03bc\u03b1 \u03b1\u03bd\u03ac\u03bc\u03b5\u03c3\u03b1 \u03c3\u03c4\u03bf\u03bd \u03c6\u03c5\u03c3\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03ba\u03cc\u03c3\u03bc\u03bf. \u0391\u03c0\u03bf\u03c4\u03b5\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03bc\u03b9\u03ba\u03c1\u03ad\u03c2 \u03b1\u03c5\u03c4\u03cc\u03bd\u03bf\u03bc\u03b5\u03c2 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2, \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03c4\u03ae\u03c4\u03c9\u03bd, \u03b5\u03be\u03bf\u03c0\u03bb\u03b9\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bc\u03b5 \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03ae\u03c1\u03b5\u03c2. \u039f\u03b9 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03b1\u03c5\u03c4\u03ad\u03c2 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03bf\u03c5\u03c2, \u03c4\u03b1 \u03b4\u03b9\u03b1\u03b4\u03c1\u03bf\u03bc\u03bf\u03cd\u03bd \u03bc\u03ad\u03c3\u03c9 \u03c0\u03bf\u03bb\u03cd-\u03b2\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03b5\u03c4\u03b1\u03b4\u03cc\u03c3\u03b5\u03c9\u03bd. \u039c\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf, \u03b1\u03bd \u03ba\u03b1\u03b9 \u03bf \u03ba\u03ac\u03b8\u03b5 \u03ba\u03cc\u03bc\u03b2\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5 \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A technological framework for data-driven IoT systems: Application on landslide monitoring",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0140366419314379",
+            "Abstract": "The emergence of the paradigm of the Internet of Things has underpinned the development of data-driven cyber\u2013physicalsystems that collect and process data that is dense both in space and time. The application areas of such data-driven IoT systems are numerous and their socio-economic impact of great importance as they enable the monitoring and management of processes in sectors ranging from urban management to management of the natural environment. In this work, we introduce and detail an end-to-end technological framework for data-driven IoT systems for landslide monitoring. The framework is articulated in three tiers \u2014 namely data acquisition, data curation and data presentation For each tier we present and detail its design and development aspects; from the IoT hardware design and the wireless communication technologies of choice, to how Big Data infrastructure and Machine Learning \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:M3NEmzRMIkIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Strategies for Wireless Recharging in Mobile Ad-Hoc Networks",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-46810-5_13",
+            "Abstract": "In this chapter we investigate the problem of wireless power transfer in mobile ad-hoc networks. In particular, we investigate which traversal strategy should a Mobile Charger follow in order to efficiently recharge agents that are randomly and dynamically moving inside an area of interest. We first formally define this problem as the Charger Traversal Decision Problem and prove its computational hardness. We then define a weighting function which evaluates several network parameters in order to prioritize the nodes during the charging process. Based on this function we define three traversal strategies for the MC; a global-knowledge strategy that uses an Integer Linear Program to optimize its trajectory; a global-knowledge strategy which tessellates the network area and prioritizes the charging process over each tile; a local-knowledge strategy that uses local network information collected and ferried \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Combining Internet of Things and crowdsourcing for pervasive research and end-user centric experimental infrastructures (IoT Lab)",
+            "Publication year": 2017,
+            "Publication url": "http://eprints.bournemouth.ac.uk/29994/1/RP_9788793519114C11.pdf",
+            "Abstract": "The Internet of Things will be massive and pervasive. It will impact many and diverse application domains such as environmental monitoring, transportation, energy and water management, security and safety, assisted living, smart homes and eHealth, etc. Developing and testing technologies in conventional research labs appears to be insufficient to really grasp, fine tune and validate new IoT technologies. Moreover, an approach purely focused on technical requirements may lead to a missed target if the end-user perspective is not",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:hC7cP41nSMkC",
+            "Publisher": "River Publishers"
+        },
+        {
+            "Title": "A smart system for garden watering using wireless sensor networks",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2069131.2069162",
+            "Abstract": "As water supplies become scarce and polluted, there is an urgent need to irrigate more efficiently in order to optimize water use. In this paper, we present a WSN based, smart home-irrigation system that consists of heterogeneous motes, special sensors and actuators. The system is fully adaptive not only to environmental conditions but also to the specific water needs that different plants may have. This way, it manages to perform efficient home irrigation, while it provides an IPv6-capable managing system.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Chapter 2: Accelerated Random Walks for Efficient Data Collection in Mobile Sensor Networks",
+            "Publication year": 2014,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/9789814551342_0002",
+            "Abstract": "Random walks in Wireless Sensor Networks can serve as fully local, very simple strategies for sink motion that lift from sensors the computational burden of propagating collected data via complex routing algorithms. In such schemes, sensors maintain a passive role waiting for the sink to visit them and collect their data. Therefore, energy dissipation is significantly reduced at the expense of increasing the latency of data delivery. To achieve satisfactory energy-latency trade-offs, the sink walks can be made adaptive, depending on critical network parameters (density, history of past visits in each network region) as well as characteristic attributes of the network topology. In this chapter, we study known random walks on two well established network models; the Grid and the Random Geometric Graphs. Towards better balances of memory/performance, we propose four new random walks that we experimentally \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:RGFaLdJalmkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A user-enabled testbed architecture with mobile crowdsensing support for smart, green buildings",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7248383/",
+            "Abstract": "We present an IoT testbed architecture for Smart Buildings that enables the seamless and scalable integration of crowd-sourced resources such as smartphones and tablets. The purpose of this integration is dual. First, the embedded sensory capabilities of the resources provided by the crowd are combined with the sensing capabilities of the building for efficient smart actuations. Second, the system is able to interact with its users in a direct, personal way both for incentivising them to provide sensory data from their devices and to receive feed-back on their preferences and experienced comfort. The above are exposed to the experimenter as a set of services thus providing great agility on developing and evaluating a broad range of use case scenarios. We demonstrate this flexibility by deploying a testbed in the premises of a building and by evaluating several crowd incentive policies in the context of a smart \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient Intrusion Detection in P2P IoT Networks",
+            "Publication year": 2019,
+            "Publication url": "http://eprints.bournemouth.ac.uk/32527/",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems for Ad-Hoc networks via the prism of IPv6- enabled Wireless Sensor Networks. These networks consist of highly constrained devices organised in mesh networks following ad-hoc architectures, and as such carry specific characteristics that are not efficiently addressed by current state-of-the-art. In this work we first identify a trade-off between the communication and energy overhead of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of successfully identifying attacks. In order to fine tune this trade-off, we first model such networks with the use of Random Geometric Graphs as this is a rigorous approach that allows us to capture underlying structural properties of the network. We then introduce a novel architectural approach for IDS by having only a subset of the nodes acting as IDS agents. These nodes are able to efficiently detect attacks at the networking layer in a collaborative manner by monitoring locally available network information provided by IoT routing protocols such as RPL. Our detailed experimental evaluation demonstrates significant performance gains in terms of communication overhead and energy dissipation while maintaining high detection rates.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Experimental evaluation of energy balance algorithms in the SenseWALL sensor network test-bed",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5982179/",
+            "Abstract": "We present key aspects (hardware, software, topology, networking) of SenseWall, an experimental sensor network test-bed we have created for the implementation and engineering of distributed sensor network algorithms. We then describe how SenseWall has been in particular used to implement two recent state of the art algorithms for energy balanced sensor data propagation. We elaborate on the issues and challenges created by the restrictions and particularities of the experimental test-bed and how we dealt with them. We also carry out a detailed performance evaluation comparing the energy balance protocols to two baseline protocols that include only either single hop or direct data transmissions.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Circularity Principles in Crowdsourced Systems",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9248494/",
+            "Abstract": "High adoption rates of handheld smart devices, such as smartphones, have motivated the rise of crowdsensing methodologies. The corresponding crowdsourced systems \u2013 systems whose constituent infrastructure is provided or augmented by the end-users \u2013 have been proven very efficient and scalable systems for collecting data from the crowd. However, successfully and sustainably engaging the crowd introduces costs in the form of incentives. Also, the fragmented landscape of crowdsensing applications aggravates the problem of dark data. In this work we address this problem by investigating the potentiality of crowdsourced systems that entail circularity principles. Derived from recent developments in Circular Economy, the circularity principles enable the development of crowdsourced systems that are circular by design, by sharing and re-using already existing resources and data.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:g5m5HwL7SMYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Addressing the Security Gap in IoT: Towards an IoT Cyber Range",
+            "Publication year": 2020,
+            "Publication url": "https://www.mdpi.com/834846",
+            "Abstract": "The paradigm of Internet of Things has now reached a maturity level where the pertinent research goal is the successful application of IoT technologies in systems of high technological readiness level. However, while basic aspects of IoT connectivity and networking have been well studied and adequately addressed, this has not been the case for cyber security aspects of IoT. This is nicely demonstrated by the number of IoT testbeds focusing on networking aspects and the lack of IoT testbeds focusing on security aspects. Towards addressing the existing and growing skills-shortage in IoT cyber security, we present an IoT Cyber Range (IoT-CR); an IoT testbed designed for research and training in IoT security. The IoT-CR allows the user to specify and work on customisable IoT networks, both virtual and physical, and supports the concurrent execution of multiple scenarios in a scalable way following a modular architecture. We first provide an overview of existing, state of the art IoT testbeds and cyber security related initiatives. We then present the design and architecture of the IoT Cyber Range, also detailing the corresponding RESTful APIs that help de-associate the IoT-CR tiers and obfuscate underlying complexities. The design is focused around the end-user and is based on the four design principles for Cyber Range development discussed in the introduction. Finally, we demonstrate the use of the facility via a red/blue team scenario involving a variant of man-in-the-middle attack using IoT devices. Future work includes the use of the IoT-CR by cohorts of trainees in order to evaluate the effectiveness of specific scenarios in acquiring IoT \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:M05iB0D1s5AC",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "Accelerated sensory data collection by greedy or aggregate mobility-based topology ranks",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1641876.1641889",
+            "Abstract": "We investigate the problem of efficient data collection in wireless sensor networks where both the sensors and the sink move. We especially study the important, realistic case where the spatial distribution of sensors is non-uniform and their mobility is diverse and dynamic. The basic idea of our protocol is for the sink to benefit of the local information that sensors spread in the network as they move, in order to extract current local conditions and accordingly adjust its trajectory. Thus, sensory motion anyway present in the network serves as a low cost replacement of network information propagation. In particular, we investigate two variations of our method: a) the greedy motion of the sink towards the region of highest density each time and b) taking into account the aggregate density in wider network regions. An extensive comparative evaluation to relevant data collection methods (both randomized and optimized \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Design and evaluation of characteristic incentive mechanisms in Mobile Crowdsensing Systems",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1569190X15000672",
+            "Abstract": "In this paper we identify basic design issues of Mobile Crowdsensing Systems and investigate some characteristic challenges. We define the basic components of an MCS \u2013 the Task, the Server and the Crowd \u2013 and investigate the functions describing/governing their interactions. We identify three qualitatively different types of Tasks; (a) those whose added utility is proportional to the size of the Task, (b) those whose added utility is proportional to the progress of the Task and (c) those whose added utility is reversely proportional to the progress of the Task. For a given type of Task, and a finite Budget, the Server makes offers to the agents of the Crowd based on some Incentive Policy. On the other hand, each agent that receives an offer decides whether it will undertake the Task or not, based on the inferred cost (computed via a Cost function) and some Join Policy. In their policies, the Crowd and the Server take into \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An architecture for blockchain over edge-enabled IoT for smart circular cities",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8804728/",
+            "Abstract": "Circular Economy is a novel economic model, where every 'asset' is not wasted but reused and upscaled. The Internet of Things-IoT paradigm can underpin the transition to a Circular Economy by enabling fine-grained and continuous asset tracking. However, there are issues related to security and privacy of IoT devices that generate and handle sensitive and personal data. The use of Blockchain technology provides an answer to this issue, however, its application raises issues related to the highly-constrained nature of these networks. In this paper, Edge Computing is presented as a solution to this issue, providing a way in which Blockchain and Edge Computing can be used together to address the constrained nature of IoT. Furthermore, we present the challenges that this combination poses and the opportunities that it brings. We propose an architecture that decreases the IoT devices requirements for memory \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A service based architecture for multidisciplinary IoT experiments with crowdsourced resources",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-40509-4_13",
+            "Abstract": "Research on emerging networking paradigms, such as Mobile Crowdsensing Systems, requires new types of experiments to be conducted and an increasing spectrum of devices to be supported by experimenting facilities. In this work, we present a service based architecture for IoT testbeds which (a) exposes the operations of a testbed as services by following the Testbed as a Service (TBaaS) paradigm; (b) enables diverse facilities to be federated in a scalable and standardized way and (c) enables the seamless integration of crowdsourced resources (e.g. smartphones and wearables) and their abstraction as regular IoT resources. The architecture enables an experimenter to access a diverse set of resources and orchestrate experiments via a common interface by hiding the underlying heterogeneity and complexity. This way, the field of IoT experimentation with real resources is further promoted and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficient energy management in wireless rechargeable sensor networks",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2387238.2387291",
+            "Abstract": "Through recent technology advances in the field of wireless energy transmission, Wireless Rechargeable Sensor Networks (WRSN) have emerged. In this new paradigm for WSNs a mobile entity called Mobile Charger (MC) traverses the network and replenishes the dissipated energy of sensors. In this work we first provide a formal definition of the charging dispatch decision problem and prove its computational hardness. We then investigate how to optimize the trade-offs of several critical aspects of the charging process such as a) the trajectory of the charger, b) the different charging policies and c) the impact of the ratio of the energy the MC may deliver to the sensors over the total available energy in the network. In the light of these optimizations, we then study the impact of the charging process to the network lifetime for three characteristic underlying routing protocols; a greedy protocol, a clustering protocol and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Wireless energy transfer in sensor networks with adaptive, limited knowledge protocols",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S1389128614001972",
+            "Abstract": "We investigate the problem of efficient wireless energy transfer in Wireless Rechargeable Sensor Networks (WRSNs). In such networks a special mobile entity (called the Mobile Charger) traverses the network and wirelessly replenishes the energy of sensor nodes. In contrast to most current approaches, we envision methods that are distributed, adaptive and use limited network information. We propose three new, alternative protocols for efficient charging, addressing key issues which we identify, most notably (i) to what extent each sensor should be charged, (ii) what is the best split of the total energy between the charger and the sensors and (iii) what are good trajectories the Mobile Charger should follow. One of our protocols (LRP) performs some distributed, limited sampling of the network status, while another one (RTP) reactively adapts to energy shortage alerts judiciously spread in the network. We conduct \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient intrusion detection in ad-hoc networks",
+            "Publication year": 2019,
+            "Publication url": "https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/icscsr19.15",
+            "Abstract": "We study efficient and lightweight Intrusion Detection Systems (IDS) for ad-hoc networks via the prism of IPv6-enabled Wireless Sensor Actuator Networks. These networks consist of highly constrained devices able to communicate wirelessly in an ad-hoc fashion, thus following mesh networks. Current state-of-the-art (IDS) have been developed taking into consideration regular computer networks, and as such they do not efficiently addresses the paradigm of ad-hoc networks. In this work we firstly identify a trade-off between the communication and energy overheads of an IDS (as captured by the number of active IDS agents in the network) and the performance of the system in terms of successfully identifying attacks. In order to fine tune this trade-off, we model such networks as Random Geometric Graphs; a rigorous approach that allows us to capture underlying structural properties of the network. We then introduce a novel IDS architectural approach by having only a subset of the nodes acting as IDS agents. These nodes are able to efficiently detect attacks at the networking layer in a collaborative manner by monitoring locally available network information provided by IoT routing protocols such as RPL. Our detailed experimental evaluation demonstrates significant performance gains in terms of communication overhead and energy dissipation while maintaining high detection rates. We also show that the performance of our IDS in ad-hoc networks does not rely on the size of the network but on fundamental underling network properties, such as the network topology and the average degree of the nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Modelled testbeds: Visualizing and augmenting physical testbeds with virtual resources",
+            "Publication year": 2018,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-73450-7_76",
+            "Abstract": "Testbed facilities play a major role in the study and evolution of emerging technologies, such as those related to the Internet of Things. In this work we introduce the concept of modelled testbeds, which are 3D interactive representations of physical testbeds where the addition of virtual resources mimicking the physical ones is made possible thanks to back-end infrastructure. We present the architecture of the Syndesi testbed, deployed at the premises of University of Geneva, which was used for the prototype modelled testbed. We investigate several extrapolation techniques towards realistic value assignment for virtual sensor measurements. K-fold cross validation is performed in a dataset comprising of nearly 300\u2019000 measurements of temperature, illuminance and humidity sensors collected from the physical sensors of the Syndesi testbed, in order to evaluate the accuracy of the methods. We obtain strong \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficient wireless recharging in sensor networks",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6569441/",
+            "Abstract": "We study the problem of efficient wireless energy recharging in Wireless Rechargeable Sensor Networks (WRSN). In such networks a special mobile entity (called the Mobile Charger) traverses the network and wirelessly replenishes the energy of sensor nodes. In contrast to most current approaches, we envision methods that are distributed and adaptive and use limited network information. Also, our methods can be used together with any underlying routing protocol (since they implicitly adapt to it). We propose alternative strategies for efficient recharging, addressing key issues of wireless recharging which we identify, most notably (i) to what extent each sensor should be recharged (ii) what are good trajectories the MC should follow. A simulation evaluation indicates significant performance gains in the network lifetime. Actually, the partial knowledge charging protocol's performance gets quite close to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Paradigm of Crowdsourced Systems",
+            "Publication year": 2017,
+            "Publication url": "http://www.edshare.soton.ac.uk/18671/",
+            "Abstract": "Title: The Paradigm of Crowdsourced Systems   Abstract: High acceptance rates of truly personal, portable devices such as smartphones and smart gadgets, along with the successful introduction of DIY computer platforms, like Arduino's and Raspberry Pi's, have lead to an unprecedented abundance of well-connected and well-equipped devices. Crowdsourced Systems is a new system paradigm that seeks to exploit the high availability of such devices and thus change the way data is generated, processed and consumed. In this talk, we will discuss this new paradigm, the challenges and opportunities it poses, review real-world use-cases and present relative on-going standardization efforts.   Short CV: Dr. Constantinos Marios Angelopoulos is Lecturer in Computing at Bournemouth University (U.K.) specializing in future and emerging paradigms of computer networks and distributed systems. He is also the Lead Editor of the ITU-T Work Item on Crowdsourced Systems; co-author of the ITU-T Technical Report on \u201cArtificial Intelligence in IoT\u201d and the Vocabulary Co-rapporteur for ITU-T SG20. In the past, he has worked for three years as a postdoctoral researcher at University of Geneva (CH) under the prestigious Swiss Government Excellence Scholarship for Foreign Researchers.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Accelerated collection of sensor data by mobility-enabled topology ranks",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121210002025",
+            "Abstract": "We study the problem of fast and energy-efficient data collection of sensory data using a mobile sink, in wireless sensor networks in which both the sensors and the sink move. Motivated by relevant applications, we focus on dynamic sensory mobility and heterogeneous sensor placement. Our approach basically suggests to exploit the sensor motion to adaptively propagate information based on local conditions (such as high placement concentrations), so that the sink gradually \u201clearns\u201d the network and accordingly optimizes its motion. Compared to relevant solutions in the state of the art (such as the blind random walk, biased walks, and even optimized deterministic sink mobility), our method significantly reduces latency (the improvement ranges from 40% for uniform placements, to 800% for heterogeneous ones), while also improving the success rate and keeping the energy dissipation at very satisfactory levels.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Iot lab crowdsourced experimental platform architecture",
+            "Publication year": 2015,
+            "Publication url": "http://eprints.bournemouth.ac.uk/30440/1/icist2015_35.pdf",
+            "Abstract": "Copyright to original material in this document is with the original owner (s). Access to this content through BURO is granted on condition that you use it only for research, scholarly or other non-commercial purposes. If you wish to use it for any other purposes, you must contact BU via BURO@ bournemouth. ac. uk.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "IEEE 802.11 ax spatial reuse improvement: An interference-based channel-access algorithm",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8700302/",
+            "Abstract": "Wi-Fi is the dominant way of connecting indoor mobile devices to the Internet. The main reason behind the huge adoption of this technology is the simplicity of the IEEE 802.11 protocols, which offer low-cost ownership and maintenance combined with the ability to provide high data rates to end users. The increasing demand in traffic volumes leads to the continuous deployment of access points (APs), resulting in densification of the IEEE 802.11 networks. This densification, instead of enhancing the efficiency of wireless local area networks (WLANs), degrades their overall performance due to cochannel interference between overlapped basic services sets (OBSSs). One of the main goals of the IEEE 802.11ax amendment now under development is to address the WLAN densification problem by improving spatial reuse (SR).",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Work-in-progress: A new random walk for data collection in sensor networks",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5982194/",
+            "Abstract": "Motivated by the problem of efficient sensor network data collection via a mobile sink, we present undergoing research in accelerated random walks on Random Geometric Graphs. We first propose a new type of random walk, called the \u03b1-stretched random walk, and compare it to three known random walks. We also define a novel performance metric called Proximity Cover Time which, along with other metrics such us visit overlap statistics and proximity variation, we use to evaluate the performance properties and features of the various walks. Finally, we present future plans on investigating a relevant combinatorial property of Random Geometric Graphs that may lead to new, faster random walks and metrics.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "IoT Lab: Towards co-design and IoT solution testing using the crowd",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7104907/",
+            "Abstract": "IoT Lab is a European funded project researching the potential of crowdsourcing as an extension to the traditional IoT testbed infrastructures. The project proposes an innovative co-design, implementation and testing of solutions with the close involvement of the crowd in the process. Through the use of a smart phone application the crowd can participate in experiments by contributing with sensory data and knowledge. The IoT Lab platform leveraged the IoT ARM (architecture reference model) design framework to create an initial architecture that includes virtualization of crowdsourcing and testbed components as well as ability to federate with other testbeds.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "EDITORIAL BOARD ASSOCIATE EDITORS",
+            "Publication year": 2001,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=vVTrxIQeFWQC&oi=fnd&pg=PA1509-IA6&dq=info:EUp2dEkisDYJ:scholar.google.com&ots=1rTbMbye54&sig=Q9-DVwovcB30J6uZzzW_2iARYcY",
+            "Abstract": "\u2022 Biology of Oral Mucosa and Esophagus\u2022 Protection Against Mucosal Injury by Growth Factors and Cytokines\u2022 A Transgenic Mouse Model of Intestine-Specific Mucosal Injury and Repair\u2022 Infection and Mucosal Injury in Cancer Treatment\u2022 Inflammatory Cytokines and Mucosal Injury",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "US Department of Health, Education, and Welfare, Public Health Service, National Institutes of Health"
+        },
+        {
+            "Title": "IDEAL-CITIES: A Trustworthy and Sustainable Framework for Circular Smart Cities",
+            "Publication year": 2019,
+            "Publication url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190711042M/abstract",
+            "Abstract": "Reflecting upon the sustainability challenges cities will be facing in the near future and the recent technological developments allowing cities to become\" smart\", we introduce IDEAL-CITIES; a framework aiming to provide an architecture for cyber-physical systems to deliver a data-driven Circular Economy model in a city context. In the IDEAL-CITIES ecosystem, the city's finite resources as well as citizens will form the pool of intelligent assets in order to contribute to high utilization through crowdsourcing and real-time decision making and planning. We describe two use cases as a vehicle to demonstrate how a smart city can serve the Circular Economy paradigm.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:GnPB-g6toBAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Crowdsourced edge: a novel networking paradigm for the collaborative community",
+            "Publication year": 2020,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9183708/",
+            "Abstract": "Edge computing established paradigms are prone to implicate solely powerful server-like edge nodes, in static or semi-static topologies, of centrally-controlled edge networks. In this paper, leveraging upon recent technological advancements and trends, we introduce a novel networking paradigm employing resources provided by independent crowd peers, within a zone of local proximity, to establish collaborative networks for edge computing. We call this paradigm the Crowdsourced Edge. We detail the architecture and characteristics of this novel paradigm, highlighting its unique characteristics and specific challenges, while also positioning it vis-a-vis the existing edge computing concretisations. Finally, we demonstrate the Crowdsourced Edge functionality by presenting an ongoing use case regarding a video-enhanced object search.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive, limited knowledge wireless recharging in sensor networks",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2508222.2508231",
+            "Abstract": "We investigate the problem of efficient wireless energy recharging in Wireless Rechargeable Sensor Networks (WRSNs). In such networks a special mobile entity (called the Mobile Charger) traverses the network and wirelessly replenishes the energy of sensor nodes. In contrast to most current approaches, we envision methods that are distributed, adaptive and use limited network information. We propose three new, alternative protocols for efficient recharging, addressing key issues which we identify, most notably (i) to what extent each sensor should be recharged (ii) what is the best split of the total energy between the charger and the sensors and (iii) what are good trajectories the MC should follow. One of our protocols (LRP) performs some distributed, limited sampling of the network status, while another one (RTP) reactively adapts to energy shortage alerts judiciously spread in the network. As detailed \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "iQr8D8UAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Radiation-aware data propagation in wireless sensor networks",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2386995.2386998",
+            "Abstract": "This research further investigates the recently introduced (in [4]) paradigm of radiation awareness in ambient environments with abundant heterogeneous wireless networking from a distributed computing perspective. We call radiation at a point of a wireless network the total amount of electromagnetic quantity the point is exposed to; our definition incorporates the effect of topology as well as the time domain and environment aspects. Even if the impact of radiation to human health remains largely unexplored and controversial, we believe it is worth trying to understand and control, in a way that does not decrease much the quality of service offered to users of the wireless network.",
+            "Abstract entirety": 1,
+            "Author pub id": "iQr8D8UAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

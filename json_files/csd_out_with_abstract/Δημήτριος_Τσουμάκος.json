@@ -1,0 +1,913 @@
+[{
+    "name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2 \u03a4\u03c3\u03bf\u03c5\u03bc\u03ac\u03ba\u03bf\u03c2",
+    "romanize name": "Dimitrios Tsoumakos",
+    "School-Department": "\u0397\u039b\u0395\u039a\u03a4\u03a1\u039f\u039b\u039f\u0393\u03a9\u039d \u039c\u0397\u03a7\u0391\u039d\u0399\u039a\u03a9\u039d \u039a\u0391\u0399 \u039c\u0397\u03a7\u0391\u039d\u0399\u039a\u03a9\u039d \u03a5\u03a0\u039f\u039b\u039f\u0393\u0399\u03a3\u03a4\u03a9\u039d",
+    "University": "ntua",
+    "Rank": "\u0391\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 6960,
+    "Scholar name": "Dimitrios Tsoumakos",
+    "Scholar id": "IS2FI1oAAAAJ",
+    "Affiliation": "Associate Professor,  School of Electrical and Computer Engineering, National Technical University",
+    "Citedby": 2343,
+    "Interests": [
+        "Big Data Management",
+        "Distributed Systems",
+        "Data Analytics",
+        "polystores",
+        "Graph analytics"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=IS2FI1oAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "A Similarity-based Approach to Modeling Graph Operators.",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7944361461103948303&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:SAZ1SQo2q1kC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "DBalancer: distributed load balancing for NoSQL data-stores",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2463676.2465232",
+            "Abstract": "Unanticipated load spikes or skewed data access patterns may lead to severe performance degradation in data serving applications, a typical problem of distributed NoSQL data-stores. In these cases, load balancing is a necessary operation. In this demonstration, we present the DBalancer, a generic distributed module that can be installed on top of a typical NoSQL data-store and provide an efficient and highly configurable load balancing mechanism. Balancing is performed by simple message exchanges and typical data movement operations supported by most modern NoSQL data-stores. We present the system's architecture, we describe in detail its modules and their interaction and we implement a suite of different algorithms on top of it. Through a web-based interactive GUI we allow the users to launch NoSQL clusters of various sizes, to apply numerous skewed and dynamic workloads and to compare the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A network approach for managing and processing big cancer data in clouds",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/article/10.1007/s10586-015-0456-6",
+            "Abstract": "Translational cancer research requires integrative analysis of multiple levels of big cancer data to identify and treat cancer. In order to address the issues that data is decentralised, growing and continually being updated, and the content living or archiving on different information sources partially overlaps creating redundancies as well as contradictions and inconsistencies, we develop a data network model and technology for constructing and managing big cancer data. To support our data network approach for data process and analysis, we employ a semantic content network approach and adopt the CELAR cloud platform. The prototype implementation shows that the CELAR cloud can satisfy the on-demanding needs of various data resources for management and process of big cancer data.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:DyXnQzXoVgIC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Distributing the Power of OLAP",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1851476.1851521",
+            "Abstract": "In this paper we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data over an unstructured Peer-to-Peer overlay, without the use of any proprietary tool. Brown Dwarf manages to distribute a highly effective centralized structure among peers on-the-fly. Both point and aggregate queries are then naturally answered on-line through cooperating nodes that hold parts of a fully or partially materialized data cube. Updates are also performed on-line, eliminating the usually costly over-night process. Our initial evaluation on an actual testbed proves that Brown Dwarf manages to distribute the structure across the overlay nodes incurring only a small storage overhead compared to the centralized algorithm. Moreover, it accelerates cube creation up to 5 times and querying up to several tens of times by exploiting the capabilities of the available network nodes \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The case for multi-engine data analytics",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-54420-0_40",
+            "Abstract": "As big data analytics have become an important driver for ICT development, a large variety of approaches that apply these advanced technologies on a wide spectrum of applications has been introduced. In this paper we argue on the need of a multi-engine environment that will exploit the largely different models, cost and quality of the existing analytics engines. Such an environment further requires an intelligent management system for orchestrating and coordinating complex analytics tasks over the different available engines. After summarizing some of the current approaches in data analytics, we outline the structure of our envisioned Multi-Engine Management System and present some of the corresponding research directions in its design and development.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A decision tree based approach towards adaptive modeling of big data applications",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8257924/",
+            "Abstract": "The advent of the Big Data era has given birth to a variety of new architectures aiming at applications with increased scalability, robustness and fault tolerance. At the same time these architectures have complicated application structure, leading to an exponential growth of their configuration space and increased difficulty in predicting their performance. In this work, we describe a novel, automated profiling methodology that makes no assumptions on application structure. Our approach utilizes oblique Decision Trees in order to recursively partition an application's configuration space in disjoint regions, choose a set of representative samples from each subregion according to a defined policy and return a model for the entire space as a composition of linear models over each subregion. An extensive evaluation over real-life applications and synthetic performance functions showcases that our scheme outperforms \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:T_ojBgVMvoEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Framework for Sharing Voluminous Content in P2P Systems.",
+            "Publication year": 2004,
+            "Publication url": "http://www.cslab.ece.ntua.gr/~dtsouma/index_files/pbuffer.pdf",
+            "Abstract": "File-sharing applications remain today the most representative and popular realization of the Peerto-Peer paradigm. Large objects receive an increasing amount of interest in such systems. In this paper, we identify several challenges related to sharing voluminous content such as movies, OS distributions, games, etc, in unstructured Peer-to-Peer networks. We then describe our scheme which adaptively expands or contracts system resources in order to improve the sharing process and achieve a fair load distribution among the providers.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:ufrVoPGSRksC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Skyline Queries in O (1) time?",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1709.03949",
+            "Abstract": "The skyline of a set  of points () consists of the \"best\" points with respect to minimization or maximization of the attribute values. A point  dominates another point  if  is as good as  in all dimensions and it is strictly better than  in at least one dimension. In this work, we focus on the static -d space and provide expected performance guarantees for -sided Range Skyline Queries on the Grid, where  is the cardinality of ,  the size of a disk block, and  the capacity of main memory. We present the MLR-tree, which offers optimal expected cost for finding planar skyline points in a -sided query rectangle, , in both RAM and I/O model on the grid , by single scanning only the points contained in . In particular, it supports skyline queries in a -sided range in  time ( I/Os), where  is the answer size and  the time required for answering predecessor queries for  in a PAM (Predecessor Access Method) structure, which is a special component of MLR-tree and stores efficiently root-to-leaf paths or sub-paths. By choosing PAM structures with  expected time for predecessor queries under discrete -random distributions of the  and  coordinates, MLR-tree supports skyline queries in optimal  expected time ( expected number of I/Os) with high probability. The space cost becomes superlinear and can be reduced to linear for many special practical cases. If we choose a PAM structure with  amortized time for batched predecessor queries (under no assumption on distributions of the  and  coordinates), MLR-tree supports batched skyline queries in optimal  \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:tHtfpZlB6tUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Semantic grouping of social networks in p2p database settings",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-74469-6_67",
+            "Abstract": "Social network structures map network links to semantic relations between participants in order to assist in efficient resource discovery and information exchange. In this work, we propose a scheme that automates the process of creating schema synopses from semantic clusters of peers which own autonomous relational databases. The resulting mediated schemas can be used as global interfaces for relevant queries. As our experimental evaluations show, this method increases both the quality and the quantity of the retrieved answers and allows for faster discovery of semantic groups by joining peers.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Rapid aknn query processing for fast classification of multidimensional data in the cloud",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1402.7063",
+            "Abstract": "A -nearest neighbor (NN) query determines the  nearest points, using distance metrics, from a specific location. An all -nearest neighbor (ANN) query constitutes a variation of a NN query and retrieves the  nearest points for each point inside a database. Their main usage resonates in spatial databases and they consist the backbone of many location-based applications and not only (i.e. NN joins in databases, classification in data mining). So, it is very crucial to develop methods that answer them efficiently. In this work, we propose a novel method for classifying multidimensional data using an ANN algorithm in the MapReduce framework. Our approach exploits space decomposition techniques for processing the classification procedure in a parallel and distributed manner. To our knowledge, we are the first to study the classification of multidimensional objects under this perspective. Through an extensive experimental evaluation we prove that our solution is efficient and scalable in processing the given queries. We investigate many different perspectives that can affect the total computational cost, such as different dataset distributions, number of dimensions, growth of  value and granularity of space decomposition and prove that our system is efficient, robust and scalable.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:rbm3iO8VlycC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fast and cost-effective online load-balancing in distributed range-queriable systems",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5629336/",
+            "Abstract": "Distributed systems such as Peer-to-Peer overlays have been shown to efficiently support the processing of range queries over large numbers of participating hosts. In such systems, uneven load allocation has to be effectively tackled in order to minimize overloaded peers and optimize their performance. In this work, we detect the two basic methodologies used to achieve load-balancing: Iterative key redistribution between neighbors and node migration. We identify these two key mechanisms and describe their relative advantages and disadvantages. Based on this analysis, we propose NIXMIG, a hybrid method that adaptively utilizes these two extremes to achieve both fast and cost-effective load-balancing in distributed systems that support range queries. We theoretically prove its convergence and as a case study, we offer an implementation on top of a Skip Graph, where we thoroughly validate our findings in a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "H2RDF+ an efficient data management system for big RDF graphs",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2588555.2594535",
+            "Abstract": "The proliferation of data in RDF format has resulted in the emergence of a plethora of specialized management systems. While the ability to adapt to the complexity of a SPARQL query--given their inherent diversity--is crucial, current approaches do not scale well when faced with substantially complex, non-selective joins, resulting in exponential growth of execution times. In this demonstration we present H2 RDF+, an RDF store that efficiently performs distributed Merge and Sort-Merge joins using a multiple-index scheme over HBase indexes. Through a greedy planner that incorporates our cost-model, it adaptively commands for either single or multi-machine query execution based on join complexity. In this paper, we present its key scientific contributions and allow participants to interact with an H2RDF+ deployment over a Cloud infrastructure. Using a web-based GUI we allow users to load different datasets (both \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:jSAVyFp_754C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "MuSQLE: Distributed SQL query execution over multiple engine environments",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7840636/",
+            "Abstract": "Multi-engine analytics has been gaining an increasing amount of attention from both the academic and the industrial community as it can successfully cope with the heterogeneity and complexity that the plethora of frameworks, technologies and requirements have brought forth. It is now common for a data analyst to combine data that resides on multiple and totally independent engines and perform complex analytics queries. Multi-engine solutions based on SQL can facilitate such efforts, as SQL is a popular standard that the majority of data-scientists understands. Existing solutions propose a middleware that centrally optimizes query execution for multiple engines. Yet, this approach requires manual integration of every primitive engine operator along with its cost model, rendering the process of adding new operators or engines highly inextensible. To address this issue we present MuSQLE, a system for SQL \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:eAlLMO4JVmQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Ires: Intelligent, multi-engine resource scheduler for big data analytics workflows",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2723372.2735377",
+            "Abstract": "Big data analytics tools are steadily gaining ground at becoming indispensable to businesses worldwide. The complexity of the tasks they execute is ever increasing due to the surge in data and task heterogeneity. Current analytics platforms, while successful in harnessing multiple aspects of this``data deluge\", bind their efficacy to a single data and compute model and often depend on proprietary systems. However, no single execution engine is suitable for all types of computation and no single data store is suitable for all types of data. To this end, we demonstrate IReS, the Intelligent Resource Scheduler for complex analytics workflows executed over multi-engine environments. Our system models the cost and performance of the required tasks over the available platforms. IReS is then able to match distinct workflow parts to the execution and/or storage engine among the available ones in order to optimize with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:sA9dB-pw3HoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "GrouPeer: Dynamic clustering of P2P databases",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306437908000252",
+            "Abstract": "Sharing structured data in a P2P network is a challenging problem, especially in the absence of a mediated schema. The standard practice of answering a consecutively rewritten query along the propagation path often results in significant loss of information. On the opposite, the use of mediated schemas requires human interaction and global agreement, both during creation and maintenance. In this paper we present GrouPeer, an adaptive, automated approach to both issues in the context of unstructured P2P database overlays. By allowing peers to individually choose which rewritten version of a query to answer and evaluate the received answers, information-rich sources left hidden otherwise are discovered. Gradually, the overlay is restructured as semantically similar peers are clustered together. Experimental results show that our technique produces very accurate answers and builds clusters that are very \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Workload-aware wavelet synopses for sliding window aggregates",
+            "Publication year": 2021,
+            "Publication url": "https://link.springer.com/article/10.1007/s10619-020-07307-w",
+            "Abstract": "In this work, we study the problem of maintaining basic aggregate statistics over a sliding-window data stream under the constraint of limited memory. As in IoT scenarios the available memory is typically much less than the window size, queries are answered from compact synopses that are maintained in an online fashion. For the efficient construction of such synopses, we propose wavelet-based algorithms that provide deterministic guarantees and produce near exact results for a variety of data distributions. Furthermore, we show how accuracy can be further improved when workload information is known. For this purpose, we propose a workload-aware streaming system that trade-offs accuracy with synopsis\u2019 construction throughput. The conducted experiments indicate that with only a  penalty in throughput, the proposed system produces fairly accurate results even for the most adversarial distributions.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:4aZ_i-5WJEQC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Distributing the Power of OLAP",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1851476.1851521",
+            "Abstract": "In this paper we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data over an unstructured Peer-to-Peer overlay, without the use of any proprietary tool. Brown Dwarf manages to distribute a highly effective centralized structure among peers on-the-fly. Both point and aggregate queries are then naturally answered on-line through cooperating nodes that hold parts of a fully or partially materialized data cube. Updates are also performed on-line, eliminating the usually costly over-night process. Our initial evaluation on an actual testbed proves that Brown Dwarf manages to distribute the structure across the overlay nodes incurring only a small storage overhead compared to the centralized algorithm. Moreover, it accelerates cube creation up to 5 times and querying up to several tens of times by exploiting the capabilities of the available network nodes \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Adaptive probabilistic search for peer-to-peer networks",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1231509/",
+            "Abstract": "Peer-to-peer networks are gaining increasing attention from both the scientific and the large Internet user community. Popular applications utilizing this new technology offer many attractive features to a growing number of users. At the heart of such networks lies the search algorithm. Proposed methods either depend on the network-disastrous flooding and its variations or utilize various indices too expensive to maintain. We describe an adaptive, bandwidth-efficient algorithm for search in unstructured peer-to-peer networks, the adaptive probabilistic search method (APS). Our scheme utilizes feedback from previous searches to probabilistically guide future ones. It performs efficient object discovery while inducing zero overhead over dynamic network operations. Extensive simulation results show that APS achieves high success rates, increased number of discovered objects, very low bandwidth consumption and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "TraMOOC (translation for massive open online courses): Providing reliable MT for MOOCs",
+            "Publication year": 2016,
+            "Publication url": "https://research.tilburguniversity.edu/en/publications/tramooc-translation-for-massive-open-online-courses-providing-rel",
+            "Abstract": "TraMOOC (Translation for Massive Open Online Courses): Providing Reliable MT for MOOCs \u2014 \nTilburg University Research Portal Skip to main navigation Skip to search Skip to main content \nTilburg University Research Portal Logo Contact, Help & FAQ Home Profiles Research output \nResearch Units Activities Projects Press / Media Prizes / Recognition Search by expertise, \nname or affiliation TraMOOC (Translation for Massive Open Online Courses): Providing \nReliable MT for MOOCs Valia Kordoni, Lexi Birch, Ioana Buliga, Kostadin Cholakov, Markus \nEgg, Federico Gaspari, Yota Georgakopoulou, Maria Gialama, IHE Hendrickx, Mitja Jermol, \nKatia Kermanidis, Joss Moorkens, Davor Orlic, Michael Papadopoulos, Maja Popovic, Rico \nSennrich, Vilelmini Sosoni, Dimitrios Tsoumakos, Antal van den Bosch, Menno van Zaanen \nShow 1 more Show less Andy Way Research output: Chapter in Book/Report/Conference \u203a \u203a \u203a -\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:NMlhSUseqAsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "COCCUS: self-configured cost-based query services in the cloud",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2463676.2465233",
+            "Abstract": "Recently, a large number of pay-as-you-go data services are offered over cloud infrastructures. Data service providers need appropriate and flexible query charging mechanisms and query optimization that take into consideration cloud operational expenses, pricing strategies and user preferences. Yet, existing solutions are static and non-configurable. We demonstrate COCCUS, a modular system for cost-aware query execution, adaptive query charge and optimization of cloud data services. The audience can set their queries along with their execution preferences and budget constraints, while COCCUS adaptively determines query charge and manages secondary data structures according to various economic policies. We demonstrate COCCUS's operation over centralized and shared nothing CloudDBMS architectures on top of public and private IaaS clouds. The audience is enabled to set economic policies \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Aura: Recovering from transient failures in cloud deployments",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7973776/",
+            "Abstract": "In this work, we propose AURA, a cloud deployment tool used to deploy applications over providers that tend to present transient failures. The complexity of modern cloud environments imparts an error-prone behavior during the deployment phase of an application, something that hinders automation and magnifies costs both in terms of time and money. To overcome this challenge, we propose AURA, a framework that formulates an application deployment as a Directed Acyclic Graph traversal and re-executes the parts of the graph that failed. AURA achieves to execute any deployment script that updates filesystem related resources in an idempotent manner through the adoption of a layered filesystem technique. In our demonstration, we allow users to describe, deploy and monitor applications through a comprehensive UI and showcase AURA's ability to overcome transient failures, even in the most unstable \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:AYInfyleIOsC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Brown Dwarf: A Distributed Data Warehouse for the Cloud",
+            "Publication year": 2009,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.158.7861&rep=rep1&type=pdf",
+            "Abstract": "In this paper we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data over commodity network nodes, without the use of any proprietary tool. Brown Dwarf manages to distribute a highly effective centralized structure among peers on-the-fly, reducing cube creation and query times by enforcing parallelization. Both point and aggregate queries as well as updates are naturally performed on-line through cooperating nodes that hold parts of a fully or partially materialized data cube. The system also employs an adaptive replication scheme that expands or shrinks the units of the distributed data structure for minimal storage consumption against failures and load skew. Brown Dwarf collects many of the features of an application to be deployed in the Cloud: It adapts its resources according to demand, allows for on-line, fast and efficient storage/processing of large amounts of data and is cost-effective both over the required hardware and software components. Our system has been evaluated on both actual and simulation-based testbeds. To outline the findings of our extensive experimentations, Brown Dwarf manages to accelerate cube creation up to 5 times and querying up to several tens of times by exploiting the capabilities of the available network nodes working in parallel. Incurring only a small storage overhead compared to the centralized algorithm, it distributes the structure pretty evenly across the overlay nodes. It manages to quickly adapt even after sudden bursts in load and remains unaffected with a considerable fraction of frequent node failures. These advantages are even more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Towards an Algebraic Cost Model for Graph Operators",
+            "Publication year": 2017,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-74875-7_6",
+            "Abstract": "Graph Analytics has been gaining an increasing amount of attention in recent years. This has given rise to the development of numerous graph processing and storage engines, each featuring different models in computation, storage and execution as well as performance. Multi-Engine Analytics present a solution towards adaptive, cost-based complex workflow scheduling to the best available underlying technology. To achieve this in the Graph Analytics case, detailed and accurate cost models for the various runtimes and operators must be defined and exported, such that intelligent planning can take place. In this work, we take a first step towards defining a cost model for graph-based operators based on an algebra and its primitives. We evaluate its accuracy over a state of the art graph database and discuss its advantages and shortcomings.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:D_tqNUsBuKoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "k-Anonymization by freeform generalization",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2714576.2714590",
+            "Abstract": "Syntactic data anonymization strives to (i) ensure that an adversary cannot identify an individual's record from published attributes with high probability, and (ii) provide high data utility. These mutually conflicting goals can be expressed as an optimization problem with privacy as the constraint and utility as the objective function. Conventional research using the k-anonymity model has resorted to publishing data in homogeneous generalized groups. A recently proposed alternative does not create such cliques; instead, it recasts data values in a heterogeneous manner, aiming for higher utility. Nevertheless, such works never defined the problem in the most general terms; thus, the utility gains they achieve are limited. In this paper, we propose a methodology that achieves the full potential of heterogeneity and gains higher utility while providing the same privacy guarantee. We formulate the problem of maximal-utility k \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:UmS_249rOGwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Analysis and comparison of p2p search methods",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1146847.1146872",
+            "Abstract": "The popularity attributed to current Peer-to-Peer applications makes the operation of these distributed systems very important for the Internet community. Efficient object discovery is the first step towards the realization of distributed resource-sharing. In this work, we present a detailed overview of existing search methods for unstructured Peer-to-Peer networks. We analyze the performance of the algorithms relative to various metrics, giving emphasis on the success rate, bandwidth-efficiency and adaptation to dynamic network conditions. Simulation results are used to empirically evaluate the behavior of nine representative schemes under a variety of different environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A cloud-based data network approach for translational cancer research",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-09012-2_16",
+            "Abstract": "We develop a new model and associated technology for constructing and managing self-organizing data to support translational cancer research studies. We employ a semantic content network approach to address the challenges of managing cancer research data. Such data is heterogeneous, large, decentralized, growing and continually being updated. Moreover, the data originates from different information sources that may be partially overlapping, creating redundancies as well as contradictions and inconsistencies. Building on the advantages of elasticity of cloud computing, we deploy the cancer data networks on top of the CELAR Cloud platform to enable more effective processing and analysis of Big cancer data.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:LXmCCkuhhTsC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Search, Replication and Grouping for Unstructured P2P Networks",
+            "Publication year": 2006,
+            "Publication url": "https://search.proquest.com/openview/ee72d6f6e3680709cc285e99e10ac084/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "Abstract": "In my dissertation, I present a suite of protocols that assist in efficient content location and distribution in unstructured Peer-to-Peer overlays. The basis of these schemes is their ability to learn from past interactions, increasing their performance with time.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cloud elasticity using probabilistic model checking",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1405.4699",
+            "Abstract": "Cloud computing has become the leading paradigm for deploying large-scale infrastructures and running big data applications, due to its capacity of achieving economies of scale. In this work, we focus on one of the most prominent advantages of cloud computing, namely the on-demand resource provisioning, which is commonly referred to as elasticity. Although a lot of effort has been invested in developing systems and mechanisms that enable elasticity, the elasticity decision policies tend to be designed without guaranteeing or quantifying the quality of their operation. This work aims to make the development of elasticity policies more formalized and dependable. We make two distinct contributions. First, we propose an extensible approach to enforcing elasticity through the dynamic instantiation and online quantitative verification of Markov Decision Processes (MDP) using probabilistic model checking. Second, we propose concrete elasticity models and related elasticity policies. We evaluate our decision policies using both real and synthetic datasets in clusters of NoSQL databases. According to the experimental results, our approach improves upon the state-of-the-art in significantly increasing user-defined utility values and decreasing user-defined threshold violations.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:65Yg0jNCQDAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Scalable Indexing and Adaptive Querying of RDF Data in the cloud",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2630602.2630603",
+            "Abstract": "Efficient RDF data management systems are central to the vision of the Semantic Web. The enormous increase in both user and machine generated content dictates for scalable solutions in triple data stores. Current systems manage to decentralize some or all the stages of RDF data management, scaling to arbitrarily large numbers of triples. Yet, these systems prove highly inflexible in adjusting their behavior relative to the query in hand. Queries over triple data include multiple joins with varying degrees of selectivity and cost. In many cases, a join performed on a single centralized computer node is highly preferable. Thus, both informed query planning and adaptive join execution are necessary to gain optimal performance in both selective and non selective queries. Towards that direction, we describe H2RDF+, an RDF store that efficiently performs distributed joins over a multiple index scheme. H2RDF \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:zGdJYJv2LkUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimizing, Planning and Executing Analytics Workflows over Multiple Engines.",
+            "Publication year": 2016,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.741.8089&rep=rep1&type=pdf",
+            "Abstract": "Big data analytics have become a necessity to businesses worldwide. The complexity of the tasks they execute is ever increasing due to the surge in data and task heterogeneity. Current analytics platforms, while successful in harnessing multiple aspects of this \u201cdata deluge\u201d, bind their efficacy to a single data and compute model and often depend on proprietary systems. However, no single execution engine is suitable for all types of computation and no single data store is suitable for all types of data. To this end, we present and demonstrate a platform that designs, optimizes, plans and executes complex analytics workflows over multiple engines. Our system enables users to create workflows of variable detail concerning the execution semantics, depending on their level of expertise and interest. The workflows are then analysed in order to determine missing execution semantics. Through the modelling of the cost and performance of the required tasks over the available platforms, the system is able to match distinct workflow parts to the execution and/or storage engine among the available ones in order to optimize with respect to a user-defined policy.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:27LrP4qxOz0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Distributed indexing of web scale datasets for the cloud",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1779599.1779600",
+            "Abstract": "In this paper, we present a distributed architecture for indexing and serving large and diverse datasets. It incorporates and extends the functionality of Hadoop, the open source MapReduce framework, and of HBase, a distributed, sparse, NoSQL database, to create a fully parallel indexing system. Experiments with structured, semi-structured and unstructured data of various sizes demonstrate the flexibility, speed and robustness of our implementation and contrast it with similarly oriented projects. Our 11 node cluster prototype managed to keep full-text indexing time of 150GB raw content in less than 3 hours, whereas the system's response time under sustained query load of more than 1000 queries/sec was kept in the order of milliseconds.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A grid middleware for data management exploiting peer-to-peer techniques",
+            "Publication year": 2009,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167739X08001568",
+            "Abstract": "In this paper, we describe a service-oriented middleware architecture for Grid environments which enables efficient data management. Our design introduces concepts from Peer-to-Peer computing in order to provide a scalable and reliable infrastructure for storage, search and retrieval of annotated content. To ensure fast file lookups in the distributed repositories, our system incorporates a multidimensional indexing scheme which serves the need for supporting both exact match and range queries over a group of metadata attributes. Finally, file transfers are conducted using GridTorrent, a grid-enabled, Peer-to-Peer mechanism that performs efficient data transfers by enabling cooperation among participating nodes and balances the cost of file transfer among them. The proposed architecture is the middleware component used by the GREDIA project, in which both media and banking partners plan to share large \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Apollo: A dataset profiling and operator modeling system",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3299869.3320220",
+            "Abstract": "The rapidly increasing amount of available data has created invaluable business opportunities but also new challenges. The focus on content-driven analytics is shifting attention from optimizing operators and systems to handle massive data sizes, to intelligent selection of those datasets that maximize the business competitive advantage. To date, there exists no efficient method to quantify the impact of numerous available datasets over different analytics tasks-a thorough execution over every input would be prohibitively expensive. In this demonstration, we present Apollo, a data profiling and operator modeling system that tackles this challenge. Our system quantifies dataset similarities and projects them into a low-dimensional space. Operator outputs are then estimated over the entire dataset, utilizing similarity information with Machine Learning and a small sample of actual executions. During the demo, attendees \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:zwpXiJ37cpgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Decision Tree Based Approach Towards Adaptive Profiling of Distributed Applications",
+            "Publication year": 2017,
+            "Publication url": "https://arxiv.org/abs/1704.02855",
+            "Abstract": "The adoption of the distributed paradigm has allowed applications to increase their scalability, robustness and fault tolerance, but it has also complicated their structure, leading to an exponential growth of the applications' configuration space and increased difficulty in predicting their performance. In this work, we describe a novel, automated profiling methodology that makes no assumptions on application structure. Our approach utilizes oblique Decision Trees in order to recursively partition an application's configuration space in disjoint regions, choose a set of representative samples from each subregion according to a defined policy and return a model for the entire space as a composition of linear models over each subregion. An extensive evaluation over real-life applications and synthetic performance functions showcases that our scheme outperforms other state-of-the-art profiling methodologies. It particularly excels at reflecting abnormalities and discontinuities of the performance function, allowing the user to influence the sampling policy based on the modeling accuracy and the space coverage.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:C33y2ycGS3YC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Algorithmic Aspects of Cloud Computing",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/978-3-319-29919-8.pdf",
+            "Abstract": "The International Workshop on Algorithmic Aspects of Cloud Computing (ALGOCLOUD) is an annual event aiming to tackle the diverse new topics in the emerging area of algorithmic aspects of computing and data management in the cloud. The increasing adoption of cloud computing introduces a variety of parallel and distributed algorithmic models and architectures. To leverage elastic cloud resources, scalability has to be a fundamental architectural design trait of new cloud databases. This challenge is manifested in new data models (NoSQL), replication, caching and partitioning schemes, relaxed consistency and transaction guarantees, as well as new protocols, APIs, indexing and storage services.The aim of the workshop is to bring together researchers and practitioners in cloud computing algorithms, service design, and data architectures to exchange ideas and contribute to the development of this exciting \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:X9ykpCP0fEIC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "SART: dynamic P2P query processing in sensor networks with probabilistic guarantees",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2245276.2245442",
+            "Abstract": "We consider the problem of constructing efficient P2P overlays for sensornets providing\" Energy-Level Application and Services\". In this context, assuming that a sensor is responsible for executing some program task but unfortunately it's energy-level is lower than a pre-defined threshold. Then, this sensor should be able to introduce a query to the whole system in order to discover efficiently another sensor with the desired energy level, in which the task overhead must be eventually forwarded. In this way, the\" Life-Expectancy\" of the whole network could be increased. Sensor nodes are mapped to peers based on their energy level. As the energy levels change, the sensor nodes would have to move from one peer to another and this operation is very crucial for the efficient scalability of the proposed system. Similarly, as the energy level of a sensor node becomes extremely low, that node may want to forward it's task \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "I/O performance modeling for big data applications over cloud infrastructures",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7092918/",
+            "Abstract": "Big Data applications receive an ever-increasing amount of attention, thus becoming a dominant class of applications that are deployed over virtualized environments. Cloud environments entail a large amount of complexity relative to I/O performance. The use of Big Data increases the complexity of I/O management as well as its characterization and prediction: As I/O operations become growingly dominant in such applications, the intricacies of virtualization, different storage back ends and deployment setups significantly hinder our ability to analyze and correctly predict I/O performance. To that end, this work proposes an end-to-end modeling technique to predict performance of I/O--intensive Big Data applications running over cloud infrastructures. We develop a model tuned over application and infrastructure dimensions: Primitive I/O operations, data access patterns, storage back ends and deployment \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:aIdbFUkbNIkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient updates for a shared nothing analytics platform",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1779599.1779606",
+            "Abstract": "In this paper we describe a cloud-based data-warehouselike system especially targeted to time series data. Apart from the benefits that a distributed storage built on top of a shared-nothing architecture offers, our system is designed to efficiently cope with continuous, on-line updates of temporally ordered data without compromising the query throughput. Through a totally customizable process performing asynchronous aggregation of past records, we achieve significant gains in storage and update times compared to traditional methods, maintaining a high accuracy in query responses for our target application. Experiments using our prototype implementation over an actual testbed prove that our scheme considerably accelerates (by a factor above 3) the update procedure and reduces required storage by at least 30%. We also show how these gains are related to the level and rate of aggregation performed.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Optimizing Data Management in Grid Environments",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-05148-7_38",
+            "Abstract": "Grids currently serve as platforms for numerous scientific as well as business applications that generate and access vast amounts of data. In this paper, we address the need for efficient, scalable and robust data management in Grid environments. We propose a fully decentralized and adaptive mechanism comprising of two components: A Distributed Replica Location Service (DRLS) and a data transfer mechanism called GridTorrent. They both adopt Peer-to-Peer techniques in order to overcome performance bottlenecks and single points of failure. On one hand, DRLS ensures resilience by relying on a Byzantine-tolerant protocol and is able to handle massive concurrent requests even during node churn. On the other hand, GridTorrent allows for maximum bandwidth utilization through collaborative sharing among the various data providers and consumers. The proposed integrated architecture is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Distributing and searching concept hierarchies: an adaptive DHT-based system",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/content/pdf/10.1007/s10586-010-0136-5.pdf",
+            "Abstract": "Concept hierarchies greatly help in the organization and reuse of information and are widely used in a variety of information systems applications. In this paper, we describe a method for efficiently storing and querying data organized into concept hierarchies and dispersed over a DHT. In our method, peers individually decide on the level of indexing according to the granularity of the incoming queries. Roll-up and drill-down operations are performed on a per-node basis in order to minimize the required bandwidth for answering queries on variable aggregation levels. We motivate our approach by applying it on a large-scale Grid system: Specifically, we apply our fully decentralized scheme that creates, queries and updates large volumes of hierarchical data on-line and replace the traditional centralized and strictly indexed information systems. Our extensive experimental results support this argument on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Dynamic planar range skyline queries in log logarithmic expected time",
+            "Publication year": 2020,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0020019020300776",
+            "Abstract": "The skyline of a set P of points consists of the \u201cbest\u201d points with respect to minimization or maximization of the attribute values. A point p dominates another point q if p is as good as q in all dimensions and it is strictly better than q in at least one dimension. In this work, we focus on the 2-d space and provide expected performance guarantees for dynamic (insertions and deletions) 3-sided range skyline queries. We assume that the x and y coordinates of the points are drawn from a class of distributions and present the ML-tree (Modified Layered Range-tree), which attains O (log 2\u2061 N log\u2061 log\u2061 N) expected update time and O (t log\u2061 log\u2061 N) time with high probability for finding planar skyline points in a 3-sided query rectangle q=[a, b]\u00d7[d,+\u221e) in the RAM model, where N is the cardinality of P and t is the answer size.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:KWzIFqRkAKkC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "TraMOOC: Translation for Massive Open Online Courses",
+            "Publication year": 2015,
+            "Publication url": "https://research.tilburguniversity.edu/en/publications/tramooc-translation-for-massive-open-online-courses",
+            "Abstract": "TraMOOC: Translation for Massive Open Online Courses \u2014 Tilburg University Research \nPortal Skip to main navigation Skip to search Skip to main content Tilburg University \nResearch Portal Logo Contact, Help & FAQ Home Profiles Research output Research Units \nActivities Projects Press / Media Prizes / Recognition Search by expertise, name or \naffiliation TraMOOC: Translation for Massive Open Online Courses Valia Kordoni, Kostadin \nCholakov, Markus Egg, Andy Way, Lexi Birch, Katia Kermanidis, Vilelmini Sosoni, Dimitrios \nTsoumakos, Antal van den Bosch, IHE Hendrickx, Michael Papadopoulos, Panayota \nGeorgakopoulou, Maria Gialama, Menno van Zaanen, Ioana Buliga, Mitja Jermol, Davor \nOrlic Research output: Chapter in Book/Report/Conference proceeding \u203a Conference \ncontribution \u203a Scientific \u203a peer-review Overview Original language English Title of host \npublication Proceedings of the 18th Annual of () :\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:H_jBuBxbQIAC",
+            "Publisher": "EAMT"
+        },
+        {
+            "Title": "Measuring the cost of online load-balancing in distributed range-queriable systems",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5284544/",
+            "Abstract": "Distributed systems such as peer-to-peer overlays have been shown to efficiently support the processing of range queries over large numbers of participating hosts. In such systems, uneven load allocation has to be effectively tackled in order to minimize overloaded peers and optimize their performance. In this work, we detect and analyze the two basic methodologies used to achieve load-balancing: Iterative key re-distribution between neighbors and node migration. Based on this analysis, we propose a hybrid method that adaptively utilizes these two extremes to achieve both fast and cost-effective load-balancing in distributed systems that support range queries. As a case study, we offer an implementation on top of a Skip Graph, where we validate our findings in a variety of workloads. Our experimental analysis shows that the hybrid method converges 10% faster than simple neighbor item exchanges and is more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Predicting graph operator output over multiple graphs",
+            "Publication year": 2019,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-19274-7_9",
+            "Abstract": "A growing list of domains, in the forefront of which are Web data and applications, are modeled by graph representations. In content-driven graph analytics, knowledge must be extracted from large numbers of available data graphs. As the number of datasets (a different type of volume) can reach immense sizes, a thorough evaluation of each input is prohibitively expensive. To date, there exists no efficient method to quantify the impact of numerous available datasets over different graph analytics tasks. To address this challenge, we propose an efficient graph operator modeling methodology. Our novel, operator-agnostic approach focuses on the inputs themselves, utilizing graph similarity to infer knowledge about them. An operator is executed for a small subset of the available inputs and its behavior is modeled for the rest of the graphs utilizing machine learning. We propose a family of similarity measures \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:NxmKEeNBbOMC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "H2RDF+: High-performance distributed joins over large-scale RDF graphs",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6691582/",
+            "Abstract": "The proliferation of data in RDF format calls for efficient and scalable solutions for their management. While scalability in the era of big data is a hard requirement, modern systems fail to adapt based on the complexity of the query. Current approaches do not scale well when faced with substantially complex, non-selective joins, resulting in exponential growth of execution times. In this work we present H 2 RDF+, an RDF store that efficiently performs distributed Merge and Sort-Merge joins over a multiple index scheme. H 2 RDF+ is highly scalable, utilizing distributed MapReduce processing and HBase indexes. Utilizing aggressive byte-level compression and result grouping over fast scans, it can process both complex and selective join queries in a highly efficient manner. Furthermore, it adaptively chooses for either single- or multi-machine execution based on join complexity estimated through index statistics. Our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An equitable solution to the stable marriage problem",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7372239/",
+            "Abstract": "A stable marriage problem (SMP) of size n involves n men and n women, each of whom has ordered members of the opposite gender by descending preferability. A solution is a perfect matching among men and women, such that there exists no pair who prefer each other to their current spouses. The problem was formulated in 1962 by Gale and Shapley, who showed that any instance can be solved in polynomial time, and has attracted interest due to its application to any two-sided market. Still, the solution obtained by the Gale-Shapley algorithm is favorable to one side. Gusfield and Irving introduced the equitable stable marriage problem (ESMP), which calls for finding a stable matching that minimizes the distance between men's and women's sum-of-rankings of their spouses. Unfortunately, ESMP is strongly NP-hard, approximation algorithms therefor are impractical, while even proposed heuristics may run for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:v6i8RKmR8ToC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fair, Fast and Frugal Large-Scale Matchmaking for VM Placement",
+            "Publication year": 2017,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=-i2lDgAAQBAJ&oi=fnd&pg=PA131&dq=info:WrnC3kwqZZMJ:scholar.google.com&ots=_nnGMsHuUW&sig=2I8tG5rS7i6sjNZDHXyf6_y7T04",
+            "Abstract": "VM placement, be it in public or private clouds, has a decisive impact on the provider\u2019s interest and the customer\u2019s needs alike, both of which may vary over time and circumstances. However, current resource management practices are either statically bound to specific policies or unilaterally favor the needs of Cloud operators. In this paper we argue for a flexible and democratic mechanism to map virtual to physical resources, trying to balance satisfaction on both sides of the involved stakeholders. To that end, VM placement is expressed as an Equitable Stable Matching Problem (ESMP), where each party\u2019s policy is translated to a preference list. A practical approximation for this NP-hard problem, modified accordingly to ensure efficiency and scalability, is applied to provide equitable matchings within a reasonable time frame. Our experimental evaluation shows that, requiring no more memory than what a high-end desktop PC provides and knowing no more than the top 20% more of than the 90% agent\u2019s of large-scale preference ESMP lists, our instances solution within can efficiently N\u221a N rounds resolve of matchmaking.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:RuPIJ_LgqDgC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Replica-aware, multi-dimensional range queries in distributed hash tables",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0140366410000629",
+            "Abstract": "In this paper, we present and evaluate a protocol that enables fast and accurate range-query execution in Distributed Hash Tables (DHTs). Range queries are of particular importance when the network is populated with groups or collections of data items, whose respective identifiers are generated in a way that encodes semantic relationships into key distances. Contrary to related work in the same direction, our proposed query engine is aware of data replicas at the DHT level and by grouping related nodes into replica neighborhoods, resolves queries with the minimum amount of messaging overhead. Moreover, we suggest pairing respective operations with the core DHT routing mechanics, which allows for reusing existing management and monitoring structures and automatically adapting the query path to the dynamic characteristics of the overlay. We also present an application scenario and the respective \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "DREAM: A Distributed fRamework for customized dEployment of a vAriety of indexing engines over Million-node overlays",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2245276.2245443",
+            "Abstract": "In this paper we present a distributed framework that supports customized deployment of a variety of indexing engines over million-node overlays. The key aim is to provide the appropriate integrated set of tools that allows numerous applications with large-scale, different requirements to evaluate and test the performance of various application protocols for very large scale deployments (multi million nodes-billions of keys). Using lightweight and efficient collection mechanisms, our system enables real-time registration of multiple measures, integrating support for real-life parameters such as node failure models and recovery strategies. Experiments have been performed at the PlanetLab network and at a typical research laboratory in order to verify scalability and show maximum re-usability of our setup.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Graph-aware, workload-adaptive SPARQL query caching",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2723372.2723714",
+            "Abstract": "The pace at which data is described, queried and exchanged using the RDF specification has been ever increasing with the proliferation of Semantic Web. Minimizing SPARQL query response times has been an open issue for the plethora of RDF stores, yet SPARQL result caching techniques have not been extensively utilized. In this work we present a novel system that addresses graph-based, workload-adaptive indexing of large RDF graphs by caching SPARQL query results. At the heart of the system lies a SPARQL query canonical labelling algorithm that is used to uniquely index and reference SPARQL query graphs as well as their isomorphic forms. We integrate our canonical labelling algorithm with a dynamic programming planner in order to generate the optimal join execution plan, examining the utilization of both primitive triple indexes and cached query results. By monitoring cache requests, our system \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:silx2ntsSuwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "H2RDF: adaptive query processing on RDF data in the cloud.",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2187980.2188058",
+            "Abstract": "In this work we present H2RDF, a fully distributed RDF store that combines the MapReduce processing framework with a NoSQL distributed data store. Our system features two unique characteristics that enable efficient processing of both simple and multi-join SPARQL queries on virtually unlimited number of triples: Join algorithms that execute joins according to query selectivity to reduce processing; and adaptive choice among centralized and distributed (MapReduce-based) join execution for fast query responses. Our system efficiently answers both simple joins and complex multivariate queries and easily scales to 3 billion triples using a small cluster of 9 worker nodes. H2RDF outperforms state-of-the-art distributed solutions in multi-join and nonselective queries while achieving comparable performance to centralized solutions in selective queries. In this demonstration we showcase the system's functionality \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Content-Based Analytics: Moving beyond Data Size",
+            "Publication year": 2020,
+            "Publication url": "http://www.cslab.ece.ntua.gr/~dtsouma/index_files/bigdataservice20.pdf",
+            "Abstract": "Efforts on Big Data technologies have been highly directed towards the amount of data a task can access or crunch. Yet, for content-driven decision making, it is not (only) about the size, but about the \u201cright\u201d data: The number of available datasets (a different type of volume) can reach astronomical sizes, making a thorough evaluation of each input prohibitively expensive. The problem is exacerbated as data sources regularly exhibit varying levels of uncertainty and velocity/churn. To date, there exists no efficient method to quantify the impact of numerous available datasets over different analytics tasks and workflows. This visionary work puts the spotlight on data content rather than size. It proposes a novel modeling, planning and processing research bundle that assesses data quality in terms of analytics performance. The main expected outcome is to provide efficient, continuous and intelligent management and execution of contentdriven data analytics. Intelligent dataset selection can achieve massive gains on both accuracy and time required to reach a desired level of performance. This work introduces the notion of utilizing dataset similarity to infer operator behavior and, consequently, be able to build scalable, operator-agnostic performance models for Big Data tasks over different domains. We present an overview of the promising results from our initial work with numerical and graph data and respective operators. We then describe a reference architecture with specific areas of research that need to be tackled in order to provide a data-centric analytics ecosystem.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:Zh0EY9V9P6UC",
+            "Publisher": "IEEE Computer Society"
+        },
+        {
+            "Title": "Department of Electrical and Computer Engineering National Technical University of Athens",
+            "Publication year": 2009,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.186.9964&rep=rep1&type=pdf",
+            "Abstract": "In this paper we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data over a Peer-to-Peer overlay. The Brown Dwarf manages to distribute a highly effective centralized structure among peers on-the-fly. Both point and aggregate queries are then naturally answered online through cooperating nodes that hold parts of a fully or partially materialized data cube. Updates are also performed on-line, eliminating the usually costly over-night process. To tackle dynamic shifts in skew as well as network and node failures, our system employs an adaptive replication scheme, by creating copies of various units of the distributed data structure according to the load as well as the churn rate of the network. This process, called mirroring, ensures balanced load distribution, guarantees resilience and allows for smooth query resolution even in the most dynamic environments. Extensive experiments with the current implementation prove that our system achieves fair storage and load distribution with minimum overhead under variable data and query sets. It manages to quickly adapt even after sudden bursts in load and remains unaffected with up to 10% node failures. These measurements clearly identify Brown Dwarf as a robust and efficient system for distributing a data cube.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An adaptive online system for efficient processing of hierarchical data",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1551609.1551627",
+            "Abstract": "Concept hierarchies greatly help in the organization and reuse of information and are widely used in a variety of information systems applications. In this paper, we describe a method for efficiently storing and querying data organized into concept hierarchies and dispersed over a DHT. In our method, peers individually decide on the level of indexing according to the granularity of the incoming queries. Roll-up and drill-down operations are performed on a per-node basis in order to minimize the required bandwidth for answering queries on variable aggregation levels. We motivate our approach by applying it on a large-scale Grid system: Specifically, we plan to apply our fully decentralized scheme that creates, queries and updates large volumes of hierarchical data on-line and replace the traditional centralized and strictly indexed information systems. Our extensive experimental results support this argument on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Heterogeneous k-anonymization with high utility",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7363963/",
+            "Abstract": "Among the privacy-preserving approaches that are known in the literature, h-anonymity remains the basis of more advanced models while still being useful as a stand-alone solution. Applying h-anonymity in practice, though, incurs severe loss of data utility, thus limiting its effectiveness and reliability in real-life applications and systems. However, such loss in utility does not necessarily arise from an inherent drawback of the model itself, but rather from the deficiencies of the algorithms used to implement the model. Conventional approaches rely on a methodology that publishes data in homogeneous generalized groups. An alternative modern data publishing scheme focuses on publishing the data in heterogeneous groups and achieves higher utility, while ensuring the same privacy guarantees. As conventional approaches cannot anonymize data following this heterogeneous scheme, innovative solutions are \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:hSRAE-fF4OAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Celar: automated application elasticity platform",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7004481/",
+            "Abstract": "One of the main promises of the cloud computing paradigm is the ability to scale resources on-demand. This feature characterizes the cloud era, where the overhead of early expenditure for infrastructure is eliminated. Innovative services are thus able to enter the market quicker and adopt faster to new challenges and user demand. One of the main aspects of this on-demand nature is the concept of elasticity, i.e., the ability of autonomously provision and de-provision resources by reacting to changes in the incoming load. An elastic service is able to operate with an optimal cost by expanding and contracting its used resources at runtime and according to demand. This does not only minimizes running cost, but also avoids disruptive outages due to spikes in service usage. While the various layers comprising a cloud service can be scaled, this does not happen in a unified manner. The vision of CELAR is to provide a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:k_7cPK9k7w8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Panic: modeling application performance over virtualized resources",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7092920/",
+            "Abstract": "In this work we address the problem of predicting the performance of a complex application deployed over virtualized resources. Cloud computing has enabled numerous companies to develop and deploy their applications over cloud infrastructures for a wealth of reasons including (but not limited to) decrease costs, avoid administrative effort, rapidly allocate new resources, etc. Virtualization however, adds an extra layer in the software stack, hardening the prediction of the relation between the resources and the application performance, which is a key factor for every industry. To address this challenge we propose PANIC, a system which obtains knowledge for the application by actually deploying it over a cloud infrastructure and then, approximating the performance of the application for the all possible deployment configurations. The user of PANIC defines a set of resources along with their respective ranges and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:Xl6nMSl579sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Comparison of Peer-to-Peer Search Methods.",
+            "Publication year": 2003,
+            "Publication url": "https://www.academia.edu/download/30739246/webdb03-proceedings.pdf#page=66",
+            "Abstract": "Peer-to-Peer networks have become a major research topic over the last few years. Object location is a major part in the operation of these distributed systems. In this work, we present an overview of several search methods for unstructured peer-to-peer networks. Popular file-sharing applications, through which enormous amounts of data are daily exchanged, operate on such networks. We analyze the performance of the algorithms relative to their success rates, bandwidth consumption and adaptation to changing topologies. Simulation results are used to empirically evaluate their behavior in direct comparison.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Fair, fast and frugal large-scale matchmaking for vm placement",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-57045-7_8",
+            "Abstract": "VM placement, be it in public or private clouds, has a decisive impact on the provider\u2019s interest and the customer\u2019s needs alike, both of which may vary over time and circumstances. However, current resource management practices are either statically bound to specific policies or unilaterally favor the needs of Cloud operators. In this paper we argue for a flexible and democratic mechanism to map virtual to physical resources, trying to balance satisfaction on both sides of the involved stakeholders. To that end, VM placement is expressed as an Equitable Stable Matching Problem (ESMP), where each party\u2019s policy is translated to a preference list. A practical approximation for this NP-hard problem, modified accordingly to ensure efficiency and scalability, is applied to provide equitable matchings within a reasonable time frame. Our experimental evaluation shows that, requiring no more memory than what a high \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:0aBXIfxlw9sC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "kdann+: A rapid aknn classifier for big data",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-49214-7_5",
+            "Abstract": "A k-nearest neighbor (kNN) query determines the k nearest points, using distance metrics, from a given location. An all k-nearest neighbor (AkNN) query constitutes a variation of a kNN query and retrieves the k nearest points for each point inside a database. Their main usage resonates in spatial databases and they consist the backbone of many location-based applications and not only. In this work, we propose a novel method for classifying multidimensional data using an AkNN algorithm in the MapReduce framework. Our approach exploits space decomposition techniques for processing the classification procedure in a parallel and distributed manner. To our knowledge, we are the first to study the kNN classification of multidimensional objects under this perspective. Through an extensive experimental evaluation we prove that our solution is efficient, robust and scalable in processing the given queries.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:g5Ck-dwhA_QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Dependable horizontal scaling based on probabilistic model checking",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7152469/",
+            "Abstract": "The focus of this work is the on-demand resource provisioning in cloud computing, which is commonly referredto as cloud elasticity. Although a lot of effort has been invested in developing systems and mechanisms that enable elasticity, the elasticity decision policies tend to be designed without quantifying or guaranteeing the quality of their operation. We present an approach towards the development of more formalized and dependable elasticity policies. We make two distinct contributions. First, we propose an extensible approach to enforcing elasticity through the dynamic instantiation and online quantitative verification of Markov Decision Processes(MDP) using probabilistic model checking. Second, various concrete elasticity models and elasticity policies are studied. We evaluate the decision policies using traces from a realNoSQL database cluster under constantly evolving externalload. We reason about the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:CYCckWUYoCcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A DHT-Based system for the management of loosely structured, multidimensional data",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-34179-3_5",
+            "Abstract": "In this paper we present LinkedPeers, a DHT-based system designed for efficient distribution and processing of multidimensional, loosely structured data over a Peer-to-Peer overlay. Each dimension is further annotated with the use of concept hierarchies. The system design aims at incorporating two important features, namely large-scale support for partially-structured data and high-performance, distributed query processing including multiple aggregates. To enable the efficient resolution of such queries, LinkedPeers utilizes a conceptual chain of DHT rings that stores data in a hierarchy-preserving manner. Moreover, adaptive mechanisms detect dynamic changes in the query workloads and adjust the granularity of the indexing on a per node basis. The pre-computation of possible future queries is also performed during the resolution of an incoming query. Extensive experiments prove that our system is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A framework for semantic grouping in P2P databases",
+            "Publication year": 2008,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0306437908000197",
+            "Abstract": "Sharing of structured data in decentralized environments is a challenging problem, especially in the absence of a global schema. Social network structures map network links to semantic relations between participants in order to assist in efficient resource discovery and information exchange. In this work, we propose a scheme that automates the process of creating schema synopses from semantic clusters of peers which own autonomous relational databases. The resulting mediated schemas can be used as global interfaces for relevant queries. Active nodes are able to initiate the group schema creation process, which produces a mediated schema representative of nodes with similar semantics. Group schemas are then propagated in the overlay and used as a single interface for relevant queries. This increases both the quality and the quantity of the retrieved answers and allows for fast discovery of interest \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "Pergamon"
+        },
+        {
+            "Title": "Towards an adaptive, fully automated performance modeling methodology for cloud applications",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8360323/",
+            "Abstract": "The advent of the Cloud computing era along with the wide adoption of the distributed paradigm has enabled applications to increase their performance standards and greatly extend their scalability limits. Nevertheless, the ability of modern applications to be deployed in numerous different ways has complicated their structure and enormously increased the difficulty of extracting accurate performance models for them. This capability is crucial for many operations, such as the identification of the most appropriate execution setups for an anticipated workload, finding bottlenecks, etc. In this work, we propose a fully automated performance modeling methodology that aims at the creation of highly accurate performance models for a given maximum number of deployments. The main idea of the proposed methodology lies on the \"smart\" exploration of the application configuration space, the selection and deployment of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:z6xuaG2dYH0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multi-engine Analytics with IReS",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-030-24124-7_9",
+            "Abstract": "We present IReS, the Intelligent Resource Scheduler that is able to abstractly describe, optimize and execute any batch analytics workflow with respect to a multi-objective policy. Relying on cost and performance models of the required tasks over the available platforms, IReS allocates distinct workflow parts to the most advantageous execution and/or storage engine among the available ones and decides on the exact amount of resources provisioned. Moreover, IReS efficiently adapts to the current cluster/engine conditions and recovers from failures by effectively monitoring the workflow execution in real-time. Our current prototype has been tested in a plethora of business driven and synthetic workflows, proving its potential of yielding significant gains in cost and performance compared to statically scheduled, single-engine executions. IReS incurs only marginal overhead to the workflow execution \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:AzKEL7Gb_04C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Efficient Multidimensional AkNN Query Processing in the Cloud",
+            "Publication year": 2014,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-10073-9_41",
+            "Abstract": "A k-nearest neighbor (kNN) query determines the k nearest points, using distance metrics, from a given location. An all k-nearest neighbor (AkNN) query constitutes a variation of a kNN query and retrieves the k nearest points for each point inside a database. Their main usage resonates in spatial databases and they consist the backbone of many location-based applications and not only. In this work, we propose a novel method for classifying multidimensional data using an AkNN algorithm in the MapReduce framework. Our approach exploits space decomposition techniques for processing the classification procedure in a parallel and distributed manner. To our knowledge, we are the first to study the kNN classification of multidimensional objects under this perspective. Through an extensive experimental evaluation we prove that our solution is efficient, robust and scalable in processing the given queries.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:UuEBAcK4md4C",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "A decision tree based approach towards adaptive profiling of cloud applications",
+            "Publication year": 2017,
+            "Publication url": "https://www.academia.edu/download/52660681/1704.02855.pdf",
+            "Abstract": "Cloud computing has allowed applications to allocate and elastically utilize massive amounts of resources of different types, leading to an exponential growth of the applications\u2019 configuration space and increased difficulty in predicting their performance. In this work, we describe a novel, automated profiling methodology that makes no assumptions on application structure. Our approach utilizes oblique Decision Trees in order to recursively partition an application\u2019s configuration space in disjoint regions, choose a set of representative samples from each subregion according to a defined policy and returns a model for the entire configuration space as a composition of linear models over each subregion. An extensive experimental evaluation over real-life applications and synthetic performance functions showcases that our scheme outperforms other state-of-the-art profiling methodologies. It particularly excels at reflecting abnormalities and discontinuities of the performance function, allowing the user to influence the sampling policy based on the modeling accuracy, the space coverage and the deployment cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:JP7YXuLIOvAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Probabilistic knowledge discovery and management for p2p networks",
+            "Publication year": 2003,
+            "Publication url": "https://www.researchgate.net/profile/Dimitrios_Tsoumakos/publication/242094751_Probabilistic_Knowledge_Discovery_and_Management_for_P2P_Networks/links/0c960528677b48b135000000/Probabilistic-Knowledge-Discovery-and-Management-for-P2P-Networks.pdf",
+            "Abstract": "The Peer-to-Peer (P2P) paradigm dictates a distributed network model which enables the sharing of resources between its participants. In many cases, the location of these resources is a non-trivial task with network-wide effects. In this work, we describe the",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mix \u2018n\u2019match multi-engine analytics",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7840605/",
+            "Abstract": "Current platforms fail to efficiently cope with the data and task heterogeneity of modern analytics workflows due to their adhesion to a single data and/or compute model. As a remedy, we present IReS, the Intelligent Resource Scheduler for complex analytics workflows executed over multi-engine environments. IReS is able to optimize a workflow with respect to a user-defined policy relying on cost and performance models of the required tasks over the available platforms. This optimization consists in allocating distinct workflow parts to the most advantageous execution and/or storage engine among the available ones and deciding on the exact amount of resources provisioned. Our current prototype supports 5 compute and 3 data engines, yet new ones can effortlessly be added to IReS by virtue of its engine-agnostic mechanisms. Our extensive experimental evaluation confirms that IReS speeds up diverse and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:RJOyoaXV5v8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Distributed wavelet thresholding for maximum error metrics",
+            "Publication year": 2016,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2882903.2915230",
+            "Abstract": "Modern data analytics involve simple and complex computations over enormous numbers of data records. The volume of data and the increasingly stringent response-time requirements place increasing emphasis on the efficiency of approximate query processing. A major challenge over the past years has been the efficient construction of fixed-space synopses that provide a deterministic quality guarantee, often expressed in terms of a maximum error metric. For data reduction, wavelet decomposition has proved to be a very effective tool, as it can successfully approximate sharp discontinuities and provide accurate answers to queries. However, existing polynomial time wavelet thresholding schemes that minimize maximum error metrics are constrained with impractical time and space complexities for large datasets. In order to provide a practical solution to the problem, we develop parallel algorithms that take \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:wE-fMHVdjMkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Maintaining wavelet synopses for sliding-window aggregates",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3335783.3335793",
+            "Abstract": "The IoT era has brought forth a computing paradigm shift from traditional high-end servers to\" edge\" devices of limited processing and memory capabilities. These devices, together with sensors, regularly produce very high data volumes nowadays. For many real-time applications, storing and indexing an unbounded stream may not be an option. Thus, it is important that we design algorithms and systems that can both work at the edge of the network and be able to answer queries on distributed, streaming data. Moreover, in many streaming scenarios, fresh data tend to be prioritized. A sliding-window model is an important case of stream processing, where only the most recent elements remain active and the rest are discarded. In this work, we study the problem of maintaining basic aggregate statistics over a sliding-window data stream under the constraint of limited memory. As in IoT scenarios the available \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:CNPyR2KL9-0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Brown dwarf: a P2P data-warehousing system",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1871437.1871777",
+            "Abstract": "In this demonstration we present the Brown Dwarf, a distributed system designed to efficiently store, query and update multidimensional data. Deployed on any number of commodity nodes, our system manages to distribute large volumes of data over network peers on-the-fly and process queries and updates on-line through cooperating nodes that hold parts of a materialized cube. Moreover, it adapts its resources according to demand and hardware failures and is cost-effective both over the required hardware and software components. All the aforementioned functionality will be tested using various datasets and query loads.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:8k81kl-MbHgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "On the elasticity of nosql databases over cloud management platforms",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2063576.2063973",
+            "Abstract": "NoSQL databases focus on analytical processing of large scale datasets, offering increased scalability over commodity hardware. One of their strongest features is elasticity, which allows for fairly portioned premiums and high-quality performance and directly applies to the philosophy of a cloud-based platform. Yet, the process of adaptive expansion and contraction of resources usually involves a lot of manual effort during cluster configuration. To date, there exists no comparative study to quantify this cost and measure the efficacy of NoSQL engines that offer this feature over a cloud provider. In this work, we present a cloud-enabled framework for adaptive monitoring of NoSQL systems. We perform a study of the elasticity feature on some of the most popular NoSQL databases over an open-source cloud platform. Based on these measurements, we finally present a prototype implementation of a decision making \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A Content-Based Approach for Modeling Analytics Operators",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3269206.3271731",
+            "Abstract": "The plethora of publicly available data sources has given birth to a wealth of new needs and opportunities. The ever increasing amount of data has shifted the analysts' attention from optimizing the operators for specific business cases, to focusing on datasets per se, selecting the ones that are most suitable for specific operators, ie, they make an operator produce a specific output. Yet, predicting the output of a given operator executed for different input datasets is not an easy task: It entails executing the operator for all of them, something that requires excessive computational power and time. To tackle this challenge, we propose a novel dataset profiling methodology that infers an operator's outcome based on examining the similarity of the available input datasets in specific attributes. Our methodology quantifies dataset similarities and projects them into a low-dimensional space. The operator is then executed for a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:c1e4I3QdEKYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The ADAPT TraMOOC",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16568759616545803086&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:ZqE1mSdD_DYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Cloud application deployment with transient failure recovery",
+            "Publication year": 2018,
+            "Publication url": "https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-018-0112-9",
+            "Abstract": "Application deployment is a crucial operation for modern cloud providers. The ability to dynamically allocate resources and deploy a new application instance based on a user-provided description in a fully automated manner is of great importance for the cloud users as it facilitates the generation of fully reproducible application environments with minimum effort. However, most modern deployment solutions do not consider the error-prone nature of the cloud: Network glitches, bad synchronization between different services and other software or infrastructure related failures with transient characteristics are frequently encountered. Even if these failures may be tolerable during an application\u2019s lifetime, during the deployment phase they can cause severe errors and lead it to failure. In order to tackle this challenge, in this work we propose AURA, an open source system that enables cloud application deployment with transient failure recovery capabilities. AURA formulates the application deployment as a Directed Acyclic Graph. Whenever a transient failure occurs, it traverses the graph, identifies the parts of it that failed and re-executes the respective scripts, based on the fact that when the transient failure disappears the script execution will succeed. Moreover, in order to guarantee that each script execution is idempotent, AURA adopts a lightweight filesystem snapshot mechanism that aims at canceling the side effects of the failed scripts. Our thorough evaluation indicated that AURA is capable of deploying diverse real-world applications to environments exhibiting high error probabilities, introducing a minimal time overhead, proportional to the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:MIg0yeAD4ggC",
+            "Publisher": "SpringerOpen"
+        },
+        {
+            "Title": "Recovering from cloud application deployment failures through re-execution",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-57045-7_7",
+            "Abstract": "In this paper we study the problem of automated cloud application deployment and configuration. Transient failures are commonly found in current cloud infrastructures, attributed to the complexity of the software and hardware stacks utilized. These errors affect cloud application deployment, forcing the users to manually check and intervene in the deployment process. To address this challenge, we propose a simple yet powerful deployment methodology with error recovery features that bases its functionality on identifying the script dependencies and re-executing the appropriate configuration scripts. To guarantee the idempotent script execution, we adopt a filesystem snapshot mechanism that enables our approach to revert to a healthy filesystem state in case of failed script executions. Our experimental analysis indicates that our approach can resolve any transient deployment failure appearing during the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:eGYfIraVYiQC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Scaling the construction of wavelet synopses for maximum error metrics",
+            "Publication year": 2018,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8447277/",
+            "Abstract": "Modern analytics involve computations over enormous numbers of data records. The volume of data and the stringent response-time requirements place increasing emphasis on the efficiency of approximate query processing. A major challenge over the past years has been the construction of synopses that provide a deterministic quality guarantee, often expressed in terms of a maximum error metric. By approximating sharp discontinuities, wavelet decomposition has proved to be a very effective tool for data reduction. However, existing wavelet thresholding schemes that minimize maximum error metrics are constrained with impractical complexities for large datasets. Furthermore, they cannot efficiently handle the multi-dimensional version of the problem. In order to provide a practical solution, we develop parallel algorithms that take advantage of key-properties of the wavelet decomposition and allocate tasks to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:__bU50VfleQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Brown Dwarf: A fully-distributed, fault-tolerant data warehousing system",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731511001432",
+            "Abstract": "In this paper we present the Brown Dwarf, a distributed data analytics system designed to efficiently store, query and update multidimensional data over commodity network nodes, without the use of any proprietary tool. Brown Dwarf distributes a centralized indexing structure among peers on-the-fly, reducing cube creation and querying times by enforcing parallelization. Analytical queries are naturally performed on-line through cooperating nodes that form an unstructured Peer-to-Peer overlay. Updates are also performed on-line, eliminating the usually costly over-night process. Moreover, the system employs an adaptive replication scheme that adjusts to the workload skew as well as the network churn by expanding or shrinking the units of the distributed data structure. Our system has been thoroughly evaluated on an actual testbed: it manages to accelerate cube creation up and querying up to several tens of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:Zph67rFs4hoC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Automated, elastic resource provisioning for nosql clusters using tiramola",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6546056/",
+            "Abstract": "This work presents TIRAMOLA, a cloud-enabled, open-source framework to perform automatic resizing of NoSQL clusters according to user-defined policies. Decisions on adding or removing worker VMs from a cluster are modeled as a Markov Decision Process and taken in real-time. The system automatically decides on the most advantageous cluster size according to user-defined policies, it then proceeds on requesting/releasing VM resources from the provider and orchestrating them inside a NoSQL cluster. TIRAMOLA's modular architecture and standard API support allows interaction with most current IaaS platforms and increased customization. An extensive experimental evaluation on an HBase cluster confirms our assertions: The system resizes clusters in real-time and adapts its performance through different optimization strategies, different permissible actions, different input and training loads. Besides \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Graph Operator Modeling over Large Graph Datasets",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1802.05536",
+            "Abstract": "As graph representations of data emerge in multiple domains, data analysts need to be able to intelligently select among a magnitude of different data graphs based on the effects different graph operators have on them. Exhaustive execution of an operator over the bulk of available data sources is impractical due to the massive resources it requires. Additionally, the same process would have to be re-implemented whenever a different operator is considered. To address this challenge, this work proposes an efficient graph operator modeling methodology. Our novel approach focuses on the inputs themselves, utilizing graph similarity to infer knowledge about input graphs. The modeled operator is only executed for a small subset of the available graphs and its behavior is approximated for the rest of the graphs using machine learning techniques. Our method is operator-agnostic, as the same similarity information can be reused for modeling multiple graph operators. We also propose a family of similarity measures based on the degree distribution that prove capable of producing high quality estimations, comparable or even surpassing other much more costly, state-of-the-art similarity measures. Our evaluation over both real-world and synthetic graphs indicates that our method achieves extremely accurate modeling of many commonly encountered operators, managing massive speedups over a brute-force alternative.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:EsEWqaRxkBgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "HiPPIS: an online P2P system for efficient lookups on d-dimensional hierarchies",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1458502.1458513",
+            "Abstract": "In this paper we describe HiPPIS, a system that enables efficient storage and on-line querying of multidimensional data organized into concept hierarchies and dispersed over a network. Our scheme utilizes an adaptive algorithm that automatically adjusts the level of indexing according to the granularity of the incoming queries, without assuming any prior knowledge of the workload. Efficient roll-up and drill-down operations take place in order to maximize the performance by minimizing query flooding. Extensive experimental evaluations show that, on top of the advantages that a distributed storage offers, our method answers the large majority of incoming queries, both point and aggregate ones, without flooding the network. At the same time, it manages to preserve the hierarchical nature of data. These characteristics are maintained even after sudden shifts in the workload.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tiramola: elastic nosql provisioning through a cloud management platform",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2213836.2213943",
+            "Abstract": "NoSQL databases focus on analytical processing of large scale datasets, offering increased scalability over commodity hardware. One of their strongest features is elasticity, which allows for fairly portioned premiums and high-quality performance. Yet, the process of adaptive expansion and contraction of resources usually involves a lot of manual effort, often requiring the definition of the conditions for scaling up or down to be provided by the users. To date, there exists no open-source system for automatic resizing of NoSQL clusters. In this demonstration, we present TIRAMOLA, a modular, cloud-enabled framework for monitoring and adaptively resizing NoSQL clusters. Our system incorporates a decision-making module which allows for optimal cluster resize actions in order to maximize any quantifiable reward function provided together with life-long adaptation to workload or infrastructural changes. The audience \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Online querying of d-dimensional hierarchies",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731510002030",
+            "Abstract": "In this paper we describe a distributed system designed to efficiently store, query and update multidimensional data organized into concept hierarchies and dispersed over a network. Our system employs an adaptive scheme that automatically adjusts the level of indexing according to the granularity of the incoming queries, without assuming any prior knowledge of the workload. Efficient roll-up and drill-down operations take place in order to maximize the performance by minimizing query flooding. Updates are performed on-line, with minimal communication overhead, depending on the level of consistency needed. Extensive experimental evaluation shows that, on top of the advantages that a distributed storage offers, our method answers the vast majority of incoming queries, both point and aggregate ones, without flooding the network and without causing significant storage or load imbalance. Our scheme proves \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:UebtZRa9Y70C",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Cooperative Information Systems (CoopIS) 2006 International Conference-P2P Systems-An Adaptive Probabilistic Replication Method for Unstructured P2P Networks",
+            "Publication year": 2006,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13210591191754149856&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:qe6vwMD2xtsC",
+            "Publisher": "Berlin: Springer-Verlag, 1973-"
+        },
+        {
+            "Title": "Robust and Adaptive Multi-Engine Analytics using IReS",
+            "Publication year": 2016,
+            "Publication url": "http://www.cslab.ece.ntua.gr/~doka/paper/birte2016.pdf",
+            "Abstract": "The complexity of Big Data analytics has long outreached the capabilities of current platforms, which fail to efficiently cope with the data and task heterogeneity of modern workflows due to their adhesion to a single data and/or compute model. As a remedy, we demonstrate IReS, the Intelligent Resource Scheduler for complex analytics workflows executed over multi-engine environments. IReS is able to optimize a workflow with respect to a user-defined policy by (a) allocating distinct parts of it to the most advantageous execution and/or storage engine among the available ones and (b) deciding on the exact amount of resources provisioned. Moreover, IReS can efficiently adapt to the current cluster/engine conditions and recover from failures by effectively monitoring the workflow execution in real-time. During the demo, the attendees will be able to create, optimize and execute workflows that match real use cases over multiple compute and data engines, imposing their preferred optimization objectives. Moreover, the audience will have the chance to confirm the resilience and adaptability of the platform in cases of failing nodes, unavailable engines and surges in load.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:1tZ8xJnm2c8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Support for Concept Hierarchies in DHTs",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4627268/",
+            "Abstract": "Concept hierarchies greatly help in the organization and reuse of information and are widely used in a variety of applications, such as data warehouses. In this paper, we describe a method for efficiently storing and querying data organized into concept hierarchies and dispersed over a DHT. In our method, peers individually decide on the level of indexing according to the incoming queries. Roll-up and drill-down operations are performed on a per-node basis in order to minimize the number of floods for answering queries on varying levels of granularity. Initial experimental results support this argument on a variety of workloads.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Automatic scaling of selective SPARQL joins using the TIRAMOLA system",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2237867.2237868",
+            "Abstract": "Modern cloud infrastructures based on virtual hardware provide new opportunities and challenges for developers and system administrators alike. Most notable is the promise of resource elasticity, whereby the infrastructure can increase or decrease in size based on demand. Utilizing elastic resources, applications can provide better quality of service and reduce cost by only paying for the required amount of resources. In this work, we extensively study the performance of some popular NoSQL databases over an elastic cloud infrastructure. NoSQL databases focus on analytical processing of large scale datasets, offering increased scalability over commodity hardware. We then proceed to describe TIRAMOLA, a cloud-enabled framework for automatic provisioning of elastic resources on any NoSQL platform. Our system administers cluster resources (VMs) according to user-or application-specified constraints \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Kanis: preserving k-anonymity over distributed data",
+            "Publication year": 2011,
+            "Publication url": "http://www.cslab.ece.ntua.gr/~dtsouma/index_files/PersDB_2011_paper_3.pdf",
+            "Abstract": "In this paper we describe KANIS, a distributed system designed to preserve the privacy of multidimensional, hierarchical data that are dispersed over a network. While allowing for efficient storing, indexing and querying of the data, our system employs an adaptive scheme that automatically adjusts the level of indexing according to the privacy constrains: Efficient roll-up and drill-down operations take place in order to guarantee k-anonymity while minimizing data distortion and inconsistency. Thus, our system manages to maintain k-anonymity of the published data in a distributed and on-line manner even under frequent updates, without affecting its ability to efficiently answer queries. The initial experimental evaluation of our prototype shows that KANIS manages to preserve k-anonymity while improving the data quality up to 22% compared to a popular centralized global recoding algorithm. It achieves a near-optimal distortion regardless of the network or dataset size, with a reasonable communication overhead, scattered among the participating nodes.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Agno: An adaptive group communication scheme for unstructured p2p networks",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11549468_129",
+            "Abstract": "We present the Adaptive Group Notification (AGNO) scheme for efficiently contacting large peer populations in unstructured Peer-to-Peer networks. AGNO defines a novel implicit approach towards group membership by monitoring demand for content as this is expressed through lookup operations. Utilizing search indices, together with a small number of soft-state shortcuts, AGNO achieves effective and bandwidth-efficient content dissemination, without the cost and restrictions of a membership protocol or a DHT. Our method achieves high-success content transmission at a cost at least two times smaller than proposed techniques for unstructured networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "An adaptive probabilistic replication method for unstructured p2p networks",
+            "Publication year": 2006,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11914853_29",
+            "Abstract": "We present APRE, a replication method for unstructured Peer-to-Peer overlays. The goal of our method is to achieve real-time replication of even the most sparsely located content relative to demand. APRE adaptively expands or contracts the replica set of an object in order to improve the sharing process and achieve a low load distribution among the providers. To achieve that, it utilizes search knowledge to identify possible replication targets inside query-intensive areas of the overlay. We present detailed simulation results where APRE exhibits both efficiency and robustness over the number of requesters and the respective request rates. The scheme proves particularly useful in the event of flash crowds, managing to quickly adapt to sudden surges in load.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:qjMakFHDy7sC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Efficient Updates for Web-Scale Indexes over the Cloud",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6313670/",
+            "Abstract": "In this paper, we present a distributed system which enables fast and frequent updates on web-scale Inverted Indexes. The proposed update technique allows incremental processing of new or modified data and minimizes the changes required to the index, significantly reducing the update time which is now independent of the existing index size. By utilizing Hadoop MapReduce, for parallelizing the update operations, and HBase, for distributing the Inverted Index, we create a high-performance, fully distributed index creation and update system. To the best of our knowledge, this is the first open source system that creates, updates and serves large-scale indexes in a distributed fashion. Experiments with over 23 million Wikipedia documents demonstrate the speed and robustness of our implementation: It scales linearly with the size of the updates and the degree of change in the documents and demonstrates a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "LinkedPeers: a distributed system for interlinking multidimensional data",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-23091-2_47",
+            "Abstract": "In this paper we present LinkedPeers, a distributed system designed for efficient distribution and processing of multidimensional hierarchical data over a Peer-to-Peer overlay. he system design aims at incorporating two important features, namely large-scale support for partially-structured data and high-performance, distributed query processing including multiple aggregates. To achieve that, LinkedPeers utilizes a conceptual chain of DHT rings that stores data in a hierarchy-preserving manner and is able to adjust both the granularity of indexing and the amount of pre-computation according to the incoming workload. Extensive experiments prove that our system is very efficient achieving over 85% precision in answering queries while minimizing communication cost and adapting its indexing to the incoming queries.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Querying structured data in an unstructured P2P system",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1031453.1031466",
+            "Abstract": "Peer-to-Peer networking has become a major research topic over the last few years. Sharing of structured data in such decentralized environments is a challenging problem, especially in the absence of a global schema. The standard practice of answering a query that is consecutively rewritten along the propagation path often results in significant loss of information. In this paper, we present an adaptive and bandwidth-efficient solution to the problem in the context of an unstructured, purely decentralized system. Our method allows peers to individually choose which rewritten version of a query to answer and discover information-rich sources left hidden otherwise. Utilizing normal query traffic only, we describe how efficient query routing and clustering of peers can be used to produce high quality answers. Simulation results show that our technique is both effective and bandwidth-efficient in a variety of workloads and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "APRE: A replication method for unstructured P2P networks",
+            "Publication year": 2006,
+            "Publication url": "https://drum.lib.umd.edu/handle/1903/3670",
+            "Abstract": "We present APRE, a replication method for structureless Peer-to-Peer overlays. The goal of our method is to achieve real-time replication of even the most sparsely located content relative to demand. APRE adaptively expands or contracts the replica set of an object in order to improve the sharing process and achieve a low load distribution among the providers. To achieve that, it utilizes search knowledge to identify possible replication targets inside query-intensive areas of the overlay. We present detailed simulation results where APRE exhibits both efficiency and robustness relative to the number of requesters and the respective request rates. The scheme proves particularly useful in the event of flash crowds, managing to quickly adapt to sudden surges in load.",
+            "Abstract entirety": 1,
+            "Author pub id": "IS2FI1oAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "D-P2P-Sim+: A novel distributed framework for P2P protocols performance testing",
+            "Publication year": 2015,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0164121214002416",
+            "Abstract": "In recent technologies like IoT (Internet of Things) and Web 2.0, a critical problem arises with respect to storing and processing the large amount of collected data. In this paper we develop and evaluate distributed infrastructures for storing and processing large amount of such data. We present a distributed framework that supports customized deployment of a variety of indexing engines over million-node overlays. The proposed framework provides the appropriate integrated set of tools that allows applications processing large amount of data, to evaluate and test the performance of various application protocols for very large scale deployments (multi million nodes\u2013billions of keys). The key aim is to provide the appropriate environment that contributes in taking decisions regarding the choice of the protocol in storage P2P systems for a variety of big data applications. Using lightweight and efficient collection \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:IsPWOBWtZBwC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "SART: speeding up query processing in sensor networks with an autonomous range tree structure",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2387358.2387363",
+            "Abstract": "We consider the problem of constructing efficient P2P overlays for sensornets providing \"Energy-Level Application and Services\". In this context, assuming that a sensor is responsible for executing some program task but unfortunately it's energy-level is lower than a pre-defined threshold. Then, this sensor should be able to introduce a query to the whole system in order to discover efficiently another sensor with the desired energy level, in which the task overhead must be eventually forwarded. In this way, the \"Life-Expectancy\" of the whole network could be increased. Sensor nodes are mapped to peers based on their energy level. As the energy levels change, the sensor nodes would have to move from one peer to another and this operation is very crucial for the efficient scalability of the proposed system. Similarly, as the energy level of a sensor node becomes extremely low, that node may want to forward it's task \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:-f6ydRqryjwC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "PASS it on (passion): An adaptive online load-balancing algorithm for distributed range-query specialized systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-88875-8_2",
+            "Abstract": "A basic requirement for every P2P system is fault-tolerance. Since the primary objective is resource location and sharing, we require that this basic operation takes place in a reliable manner. In a variety of situations with skewed data accesses (e.g., [1], etc) the demand for content can become overwhelming for certain serving peers, forcing them to reject connections. In many cases, these skewed distributions take extreme forms: Flash crowds, regularly documented surges in the popularity of certain content, are also known to cause severe congestion and degradation of service [2]. Data replication techniques is one commonly utilized solution to remedy these situations. Nevertheless, there are cases in which the requested resources cannot be arbitrarily replicated. Distributed data-structures that support range-queries is such an example: The keys are stored in the network nodes so that a natural \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Online Querying of Concept Hierarchies in P2P Systems",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-88871-0_16",
+            "Abstract": "In this paper we describe HIS, a system that enables efficient storage and querying of data organized into concept hierarchies and dispersed over a network. Our scheme utilizes an adaptive algorithm that automatically adjusts the level of indexing according to the granularity of the incoming queries, without assuming any prior knowledge of the query workload. Efficient roll-up and drill-down operations increase the exact-match query ratio by shifting to the most favorable hierarchy level. Combined with soft-state indices created after query misses, our system achieves maximization of performance by minimizing query flooding. Extensive experimental evaluations show that, on top of the advantages that a distributed storage offers, our method answers the large majority of incoming queries without flooding the network and at the same time it manages to preserve the hierarchical nature of data. It shows \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "IS2FI1oAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        }
+    ]
+}]

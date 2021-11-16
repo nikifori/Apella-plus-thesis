@@ -1,0 +1,1477 @@
+[{
+    "name": "\u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a3\u03bc\u03b1\u03c1\u03b1\u03b3\u03b4\u03ac\u03ba\u03b7\u03c2",
+    "romanize name": "Ioannis Smaragdakis",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uoa",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 3347,
+    "Scholar name": "Yannis Smaragdakis",
+    "Scholar id": "XCJuXcgAAAAJ",
+    "Affiliation": "University of Athens",
+    "Citedby": 8204,
+    "Interests": [
+        "Programming Languages",
+        "Software Engineering"
+    ],
+    "Scholar url": "https://scholar.google.com/citations?user=XCJuXcgAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Precision-guided context sensitivity for pointer analysis",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3276511",
+            "Abstract": "Context sensitivity is an essential technique for ensuring high precision in Java pointer analyses. It has been observed that applying context sensitivity partially, only on a select subset of the methods, can improve the balance between analysis precision and speed. However, existing techniques are based on heuristics that do not provide much insight into what characterizes this method subset. In this work, we present a more principled approach for identifying precision-critical methods, based on general patterns of value flows that explain where most of the imprecision arises in context-insensitive pointer analysis. Accordingly, we provide an efficient algorithm to recognize these flow patterns in a given program and exploit them to yield good tradeoffs between analysis precision and speed.  Our experimental results on standard benchmark and real-world programs show that a pointer analysis that applies context \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:dBIO0h50nwkC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Refactoring java generics by inferring wildcards, in practice",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2714064.2660203",
+            "Abstract": "Wildcard annotations can improve the generality of Java generic libraries, but require heavy manual effort. We present an algorithm for refactoring and inferring more general type instantiations of Java generics using wildcards. Compared to past approaches, our work is practical and immediately applicable: we assume no changes to the Java type system, while taking into account all its intricacies. Our system allows users to select declarations (variables, method parameters, return types, etc.) to generalize and considers declarations not declared in available source code. It then performs an inter-procedural flow analysis and a method body analysis, in order to generalize type signatures. We evaluate our technique on six Java generic libraries. We find that 34% of available declarations of variant type signatures can be generalized - i.e., relaxed with more general wildcard types. On average, 146 other declarations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:BUYA1_V_uYcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Adaptive locks: Combining transactions and locks for efficient concurrency",
+            "Publication year": 2010,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0743731510000304",
+            "Abstract": "Transactional memory is being advanced as an alternative to traditional lock-based synchronization for concurrent programming. Transactional memory simplifies the programming model and maximizes concurrency. At the same time, transactions can suffer from interference that causes them to often abort, from heavy overheads for memory accesses, and from expressiveness limitations (e.g., for I/O operations). In this paper we propose an adaptive locking technique that dynamically observes whether a critical section would be best executed transactionally or while holding a mutex lock. The critical new elements of our approach include the adaptivity logic and cost\u2013benefit analysis, a low-overhead implementation of statistics collection and adaptive locking in a full C compiler, and an exposition of the effects on the programming model. In experiments with both micro and macrobenchmarks we found adaptive locks \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:aqlVkmm33-oC",
+            "Publisher": "Academic Press"
+        },
+        {
+            "Title": "Check \u2018n\u2019Crash: Combining Static Checking and Testing",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1062455.1062533",
+            "Abstract": "We present an automatic error-detection approach that combines static checking and concrete test-case generation. Our approach consists of taking the abstract error conditions inferred using theorem proving techniques by a static checker (ESC/Java), deriving specific error conditions using a constraint solver, and producing concrete test cases (with the JCrasher tool) that are executed to determine whether an error truly exists. The combined technique has advantages over both static checking and automatic testing individually. Compared to ESC/Java, we eliminate spurious warnings and improve the ease-of-comprehension of error reports through the production of Java counterexamples. Compared to JCrasher, we eliminate the blind search of the input space, thus reducing the testing time and increasing the test quality.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:D_sINldO8mEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Doop: Framework for Java pointer analysis",
+            "Publication year": 2018,
+            "Publication url": "https://scholar.google.com/scholar?cluster=1357063033223391845&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:OP4eGU-M3BUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sound predictive race detection in polynomial time",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2103621.2103702",
+            "Abstract": "Data races are among the most reliable indicators of programming errors in concurrent software. For at least two decades, Lamport's happens-before (HB) relation has served as the standard test for detecting races--other techniques, such as lockset-based approaches, fail to be sound, as they may falsely warn of races. This work introduces a new relation, causally-precedes (CP), which generalizes happens-before to observe more races without sacrificing soundness. Intuitively, CP tries to capture the concept of happens-before ordered events that must occur in the observed order for the program to observe the same values. What distinguishes CP from past predictive race detection approaches (which also generalize an observed execution to detect races in other plausible executions) is that CP-based race detection is both sound and of polynomial complexity. We demonstrate that the unique aspects of CP result \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:UxriW0iASnsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A datalog model of must-alias analysis",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3088515.3088517",
+            "Abstract": "We give a declarative model of a rich family of must-alias analyses. Our emphasis is on careful and compact modeling, while exposing the key points where the algorithm can adjust its inference power. The model is executable, in the Datalog language, and forms the basis of a full-fledged must-alias analysis of Java bytecode in the Doop framework.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:kh2fBNsKQNwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "More sound static handling of Java reflection",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-26529-2_26",
+            "Abstract": "Reflection is a highly dynamic language feature that poses grave problems for static analyses. In the Java setting, reflection is ubiquitous in large programs. Any handling of reflection will be approximate, and overestimating its reach in a large codebase can be catastrophic for precision and scalability. We present an approach for handling reflection with improved empirical soundness (as measured against prior approaches and dynamic information) in the context of a points-to analysis. Our approach is based on the combination of string-flow and points-to analysis from past literature augmented with (a) substring analysis and modeling of partial string flow through string builder classes; (b) new techniques for analyzing reflective entities based on information available at their use-sites. In experimental comparisons with prior approaches, we demonstrate a combination of both improved soundness \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:4MWp96NkSFoC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Portable and efficient distributed threads for Java",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30229-2_25",
+            "Abstract": "Java middleware mechanisms, such as Java RMI or CORBA implementations, do not support thread coordination over the network: synchronizing on remote objects does not work correctly and thread identity is not preserved for executions spanning multiple machines. The current approaches dealing with the problem suffer from one of two weaknesses: either they require a new middleware mechanism, making them less portable, or they add overhead to the execution to propagate a thread identifier through all method calls. In this paper we present an approach that works with an unmodified middleware implementation, yet does not impose execution overhead. The key to our technique is the bytecode transformation of only stub routines, instead of the entire client application. We argue that this approach is portable and can be applied to mostly any middleware mechanism. At the same time, we show that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:kNdYIx-mwKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Invited talk: program generators and the tools to make them",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1013963.1013968",
+            "Abstract": "Program generation is among the most promising techniques in the effort to increase the automation of programming tasks. In this talk, we discuss the potential impact and research value of program generation, we give examples of our research in the area, and we outline a future work direction that we consider most interesting. Specifically, we first discuss why program generators have significant applied potential. We believe that program generators can be made easy-to-implement so that they are competitive with traditional software libraries in many software domains. Compared to a common library, a generator implementing a domain-specific language can offer more concise syntax, better static error checking, and better performance through cross-operation optimizations. Despite the significant applied value of generators, however, we argue that meta-programming tools (ie, language tools for writing program \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:hMod-77fHWUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Forsaking inheritance: supercharged delegation in DelphJ",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2509136.2509535",
+            "Abstract": "We propose DelphJ: a Java-based OO language that eschews inheritance completely, in favor of a combination of class morphing and (deep) delegation. Compared to past delegation approaches, the novel aspect of our design is the ability to emulate the best aspects of inheritance while retaining maximum flexibility: using morphing, a class can select any of the methods of its delegatee and export them (if desired) or transform them (eg, to add extra arguments or modify type signatures), yet without needing to name these methods explicitly and handle them one-by-one. Compared to past work on morphing, our approach adopts and adapts advanced delegation mechanisms, in order to add late binding capabilities and, thus, provide a full substitute of inheritance. Additionally, we explore complex semantic issues in the interaction of delegation with late binding. We present our language design both informally, with \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:fEOibwPWpKIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Morphing: Structurally shaping a class by reflecting on others",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1890028.1890029",
+            "Abstract": "We present MorphJ: a language for specifying general classes whose members are produced by iterating over members of other classes. We call this technique \u201cclass morphing\u201d or just \u201cmorphing.\u201d Morphing extends the notion of genericity so that not only types of methods and fields, but also the structure of a class can vary according to type variables. This adds a disciplined form of metaprogramming to mainstream languages and allows expressing common programming patterns in a highly generic way that is otherwise not supported by conventional techniques. For instance, morphing lets us write generic proxies (i.e., classes that can be parameterized with another class and export the same public methods as that class); default implementations (e.g., a generic do-nothing type, configurable for any interface); semantic extensions (e.g., specialized behavior for methods that declare a certain annotation); and more \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:r0BpntZqJG4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Adaptive Replacement Algorithm Templates and EELRU",
+            "Publication year": 2010,
+            "Publication url": "https://www.igi-global.com/chapter/advanced-operating-systems-kernel-applications/37953",
+            "Abstract": "Replacement algorithms are a major component of operating system design. Every replacement algorithm, however, is pathologically bad for some scenarios, and often these scenarios correspond to common program patterns. This has prompted the design of adaptive replacement algorithms: algorithms that emulate two (or more) basic algorithms and pick the decision of the best one based on recent past behavior. The authors are interested in a special case of adaptive replacement algorithms, which are instances of adaptive replacement templates (ARTs). An ART is a template that can be applied to any two algorithms and yield a combination with some guarantees on the properties of the combination, relative to the properties of the component algorithm. For instance, they show ARTs that for any two algorithms A and B produce a combined algorithm AB that is guaranteed to emulate within a factor of 2 the better \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IGI Global"
+        },
+        {
+            "Title": "FC++ homepage",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14869784142040964909&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:V3AGJWp-ZtQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Deep static modeling of invokedynamic",
+            "Publication year": 2020,
+            "Publication url": "https://arxiv.org/abs/2001.02545",
+            "Abstract": "Java 7 introduced programmable dynamic linking in the form of the invokedynamic framework. Static analysis of code containing programmable dynamic linking has often been cited as a significant source of unsoundness in the analysis of Java programs. For example, Java lambdas, introduced in Java 8, are a very popular feature, which is, however, resistant to static analysis, since it mixes invokedynamic with dynamic code generation. These techniques invalidate static analysis assumptions: programmable linking breaks reasoning about method resolution while dynamically generated code is, by definition, not available statically. In this paper, we show that a static analysis can predictively model uses of invokedynamic while also cooperating with extra rules to handle the runtime code generation of lambdas. Our approach plugs into an existing static analysis and helps eliminate all unsoundness in the handling of lambdas (including associated features such as method references) and generic invokedynamic uses. We evaluate our technique on a benchmark suite of our own and on third-party benchmarks, uncovering all code previously unreachable due to unsoundness, highly efficiently.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:yFnVuubrUp4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Shooting from the heap: Ultra-scalable static analysis with heap snapshots",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3213846.3213860",
+            "Abstract": "Traditional whole-program static analysis (eg, a points-to analysis that models the heap) encounters scalability problems for realistic applications. We propose a``featherweight''analysis that combines a dynamic snapshot of the heap with otherwise full static analysis of program behavior.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:OTTXONDVkokC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Morphing: Safely shaping a class in the image of others",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73589-2_19",
+            "Abstract": "We present MJ: a language for specifying general classes whose members are produced by iterating over members of other classes. We call this technique \u201cclass morphing\u201d or just \u201cmorphing\u201d. Morphing extends the notion of genericity so that not only types of methods and fields, but also the structure of a class can vary according to type variables. This offers the ability to express common programming patterns in a highly generic way that is otherwise not supported by conventional techniques. For instance, morphing lets us write generic proxies (i.e., classes that can be parameterized with another class and export the same public methods as that class); default implementations (e.g., a generic do-nothing type, configurable for any interface); semantic extensions (e.g., specialized behavior for methods that declare a certain annotation); and more. MJ\u2019s hallmark feature is that, despite its emphasis on generality \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Mixin-based programming in C++",
+            "Publication year": 2000,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-44815-2_12",
+            "Abstract": "Combinations of C++ features, like inheritance, templates, and class nesting, allow for the expression of powerful component patterns. In particular, research has demonstrated that, using C++ mixin classes, one can express layered component-based designs concisely with efficient implementations. In this paper, we discuss pragmatic issues related to component-based programming using C++ mixins. We explain surprising interactions of C++ features and policies that sometimes complicate mixin implementations, while other times enable additional functionality without extra effort.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Hybrid context-sensitivity for points-to analysis",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2499370.2462191",
+            "Abstract": "Context-sensitive points-to analysis is valuable for achieving high precision with good performance. The standard flavors of context-sensitivity are call-site-sensitivity (kCFA) and object-sensitivity. Combining both flavors of context-sensitivity increases precision but at an infeasibly high cost. We show that a selective combination of call-site- and object-sensitivity for Java points-to analysis is highly profitable. Namely, by keeping a combined context only when analyzing selected language features, we can closely approximate the precision of an analysis that keeps both contexts at all times. In terms of speed, the selective combination of both kinds of context not only vastly outperforms non-selective combinations but is also faster than a mere object-sensitive analysis. This result holds for a large array of analyses (e.g., 1-object-sensitive, 2-object-sensitive with a context-sensitive heap, type-sensitive) establishing a new \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:ZfRJV9d4-WMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Making pointer analysis more precise by unleashing the power of selective context sensitivity",
+            "Publication year": 2021,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3485524",
+            "Abstract": "Traditional context-sensitive pointer analysis is hard to scale for large and complex Java programs. To address this issue, a series of selective context-sensitivity approaches have been proposed and exhibit promising results. In this work, we move one step further towards producing highly-precise pointer analyses for hard-to-analyze Java programs by presenting the Unity-Relay framework, which takes selective context sensitivity to the next level. Briefly, Unity-Relay is a one-two punch: given a set of different selective context-sensitivity approaches, say S = S1, . . . , Sn, Unity-Relay first provides a mechanism (called Unity)to combine and maximize the precision of all components of S. When Unity fails to scale, Unity-Relay offers a scheme (called Relay) to pass and accumulate the precision from one approach Si in S to the next, Si+1, leading to an analysis that is more precise than all approaches in S. As a proof-of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:LgRImbQfgY4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "J-Orchestra: Enhancing Java programs with distribution capabilities",
+            "Publication year": 2009,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8714173846562714916&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:1qzjygNMrQYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "F\u1d0f\u1d0f: a minimal modern OO calculus",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2786536.2786540",
+            "Abstract": "We present the Flyweight Object-Oriented (F\u1d0f\u1d0f) calculus for the modeling of object-oriented languages. F\u1d0f\u1d0f is a simple, minimal class-based calculus, modeling only essential computational aspects and emphasizing larger-scale features (eg, inheritance and generics). F\u1d0f\u1d0f is motivated by the observation that recent language design work focuses on elements not well-captured either by traditional object calculi or by language-specific modeling efforts, such as Featherweight Java. F\u1d0f\u1d0f integrates seamlessly both nominal and structural subtyping ideas, leveraging the latter to eliminate the need for modeling object fields and constructors. Comparing to recent formalization efforts in the literature, F\u1d0f\u1d0f is more compact, yet versatile enough to be usable in multiple settings modeling Java, C#, or Scala extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:bz8QjSJIRt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Static Analysis of Shape in TensorFlow Programs (Artifact)",
+            "Publication year": 2020,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2020/13203/",
+            "Abstract": "These instructions are intended for using the artifact for our ECOOP'20 paper entitled\" Static Analysis of Shape in TensorFlow Programs\". They can be used to run Pythia-the tool implementing the paper\u2019s analysis-on the paper\u2019s evaluation set demonstrating bug detection in the most precise configuration of our analysis as well as the precision of the analysis under different configurations.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:gKiMpY-AVTkC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Domain-specific languages and program generation with meta-AspectJ",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1416563.1416566",
+            "Abstract": "Meta-AspectJ (MAJ) is a language for generating AspectJ programs using code templates. MAJ itself is an extension of Java, so users can interleave arbitrary Java code with AspectJ code templates. MAJ is a structured metaprogramming tool: a well-typed generator implies a syntactically correct generated program. MAJ promotes a methodology that combines aspect-oriented and generative programming. A valuable application is in implementing small domain-specific language extensions as generators using unobtrusive annotations for syntax extension and AspectJ as a back-end. The advantages of this approach are twofold. First, the generator integrates into an existing software application much as a regular API or library, instead of as a language extension. Second, a mature language implementation is easy to achieve with little effort since AspectJ takes care of the low-level issues of interfacing with the base \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:HDshCWvjkbEC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "J-orchestra: Automatic java application partitioning",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-47993-7_8",
+            "Abstract": "J-Orchestra is an automatic partitioning system for Java programs. J-Orchestra takes as input Java applications in bytecode format and transforms them into distributed applications, running on distinct Java Virtual Machines. To accomplish such automatic partitioning, J-Orchestra uses bytecode rewriting to substitute method calls with remote method calls, direct object references with proxy references, etc. Using J-Orchestra does not require great sophistication in distributed system methodology\u2014the user only has to specify the network location of various hardware and software resources and their corresponding application classes. J-Orchestra has significant generality, flexibility, and degree of automation advantages compared to previous work on automatic partitioning. For instance, J-Orchestra can correctly partition almost any pure Java program, allowing any application object to be placed on any \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Inheritance and visibility",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=366324057597051724&hl=en&oi=scholarr",
+            "Abstract": "not available.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Logic Programming in C++ with LC++ library",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16942064402928077276&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:5ugPr518TE4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Symbolic reasoning for automatic signal placement",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3296979.3192395",
+            "Abstract": "Explicit signaling between threads is a perennial cause of bugs in concurrent programs. While there are several run-time techniques to automatically notify threads upon the availability of some shared resource, such techniques are not widely-adopted due to their run-time overhead. This paper proposes a new solution based on static analysis for automatically generating a performant explicit-signal program from its corresponding implicit-signal implementation. The key idea is to generate verification conditions that allow us to minimize the number of required signals and unnecessary context switches, while guaranteeing semantic equivalence between the source and target programs. We have implemented our method in a tool called Expresso and evaluate it on challenging benchmarks from prior papers and open-source software. Expresso-generated code significantly outperforms past automatic signaling \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:4hFrxpcac9AC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Streams \u00e0 la carte: Extensible pipelines with object algebras",
+            "Publication year": 2015,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2015/5239/",
+            "Abstract": "Streaming libraries have become ubiquitous in object-oriented languages, with recent offerings in Java, C#, and Scala. All such libraries, however, suffer in terms of extensibility: there is no way to change the semantics of a streaming pipeline (eg, to fuse filter operators, to perform computations lazily, to log operations) without changes to the library code. Furthermore, in some languages it is not even possible to add new operators (eg, a zip operator, in addition to the standard map, filter, etc.) without changing the library. We address such extensibility shortcomings with a new design for streaming libraries. The architecture underlying this design borrows heavily from Oliveira and Cook's object algebra solution to the expression problem, extended with a design that exposes the push/pull character of the iteration, and an encoding of higher-kinded polymorphism. We apply our design to Java and show that the addition of full extensibility is accompanied by high performance, matching or exceeding that of the original, highly-optimized Java streams library.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:-FonjvnnhkoC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Program generators and the tools to make them",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1014007.1014017",
+            "Abstract": "Program generation is among the most promising techniques in the effort to increase the automation of programming tasks. In this paper, we discuss the potential impact and research value of program generation, we give examples of our research in the area, and we outline a future work direction that we consider most interesting. Specifically, we first discuss why program generators have significant applied potential. At the same time we argue that, as a research topic, meta-programming tools (ie, language tools for writing program generators) may be of greater value. We then illustrate our views on generators and meta-programming tools with our latest work on the Meta-AspectJ meta-programming language and the GOTECH generator. Finally, we examine the problem of statically determining the safety of a generator and present its intricacies. We limit our focus to one particular kind of guarantee for generated \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Resolving and exploiting the k-CFA paradox: illuminating functional vs. object-oriented program analysis",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1806596.1806631",
+            "Abstract": "Low-level program analysis is a fundamental problem, taking the shape of\" flow analysis\" in functional languages and\" points-to\" analysis in imperative and object-oriented languages. Despite the similarities, the vocabulary and results in the two communities remain largely distinct, with limited cross-understanding. One of the few links is Shivers's k-CFA work, which has advanced the concept of\" context-sensitive analysis\" and is widely known in both communities.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:mVmsd5A6BfQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Statically safe program generation with SafeGen",
+            "Publication year": 2005,
+            "Publication url": "https://link.springer.com/chapter/10.1007/11561347_21",
+            "Abstract": "SafeGen is a meta-programming language for writing statically safe generators of Java programs. If a program generator written in SafeGen passes the checks of the SafeGen compiler, then the generator will only generate well-formed Java programs, for any generator input. In other words, statically checking the generator guarantees the correctness of any generated program, with respect to static checks commonly performed by a conventional compiler (including type safety, existence of a superclass, etc.). To achieve this guarantee, SafeGen supports only language primitives for reflection over an existing well-formed Java program, primitives for creating program fragments, and a restricted set of constructs for iteration, conditional actions, and name generation. SafeGen\u2019s static checking algorithm is a combination of traditional type checking for Java, and a series of calls to a theorem prover to check the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Declarative datalog debugging for mere mortals",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-32925-8_12",
+            "Abstract": "Tracing why a \u201cfaulty\u201d fact A is in the model M\u2009=\u2009P(I) of program P on input I quickly gets tedious, even for small examples. We propose a simple method for debugging and \u201clogically profiling\u201d P by generating a provenance-enriched rewriting P\u0302, which records rule firings according to the logical semantics. The resulting provenance graph can be easily queried and analyzed using a set of predefined and ad-hoc queries. We have prototypically implemented our approach for two different Datalog engines (DLV and LogicBlox), demonstrating the simplicity, effectiveness, and system-independent nature of our method.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:1yQoGdGgb4wC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Class hierarchy complementation: soundly completing a partial type graph",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2544173.2509530",
+            "Abstract": "We present the problem of class hierarchy complementation: given a partially known hierarchy of classes together with subtyping constraints (\"A has to be a transitive subtype of B\") complete the hierarchy so that it satisfies all constraints. The problem has immediate practical application to the analysis of partial programs--e.g., it arises in the process of providing a sound handling of \"phantom classes\" in the Soot program analysis framework. We provide algorithms to solve the hierarchy complementation problem in the single inheritance and multiple inheritance settings. We also show that the problem in a language such as Java, with single inheritance but multiple subtyping and distinguished class vs. interface types, can be decomposed into separate single- and multiple-subtyping instances. We implement our algorithms in a tool, JPhantom, which complements partial Java bytecode programs so that the result is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:uc_IGeMz5qoC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "MadMax: Analyzing the out-of-gas world of smart contracts",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3416262",
+            "Abstract": "Ethereum is a distributed blockchain platform, serving as an ecosystem for smart contracts: full-fledged intercommunicating programs that capture the transaction logic of an account. A gas limit caps the execution of an Ethereum smart contract: instructions, when executed, consume gas, and the execution proceeds as long as gas is available.Gas-focused vulnerabilities permit an attacker to force key contract functionality to run out of gas---effectively performing a permanent denial-of-service attack on the contract. Such vulnerabilities are among the hardest for programmers to protect against, as out-of-gas behavior may be uncommon in nonattack scenarios and reasoning about these vulnerabilities is nontrivial.In this paper, we identify gas-focused vulnerabilities and present MadMax: a static program analysis technique that automatically detects gas-focused vulnerabilities with very high confidence. MadMax \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:HeT0ZceujKMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Jcrasher documents",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=15637710958800254365&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:geHnlv5EZngC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "D\uf765 AL: Rich Heap Assertions (Almost) For Free",
+            "Publication year": 2010,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.181.463&rep=rep1&type=pdf",
+            "Abstract": "We present the DeAL language for heap assertions that are efficiently evaluated during garbage collection time. DeAL is a rich, declarative, logic-based language whose programs are guaranteed to be executable with good whole-heap locality, ie, within a single traversal over every live object on the heap and a finite neighborhood around each object. As a result, evaluating DeAL programs incurs negligible cost: for simple assertion checking at each garbage collection, the end-to-end execution slowdown is below 2%. DeAL is integrated into Java as a VM extension and we demonstrate its efficiency and expressiveness with several applications and properties from the past literature. Compared to past systems for heap assertions, DeAL is distinguished by its very attractive expressiveness/efficiency tradeoff: it offers a significantly richer class of assertions than what past systems could check with a single traversal. Conversely, past systems that can express the same (or more) complex assertions as DeAL do so only by suffering ordersof-magnitude higher costs.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:HoB7MX3m0LUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Program Generators and the Tools",
+            "Publication year": 2004,
+            "Publication url": "https://scholar.google.com/scholar?cluster=5819495195164944310&hl=en&oi=scholarr",
+            "Abstract": "Program generation is among the most promising techniques in the effort to increase the automation of programming tasks. In this talk, we discuss the potential impact and research value of program generation, we give examples of our research in the area, and we outline a future work direction that we consider most interesting. Specifically, we first discuss why program generators have significant applied potential. We believe that program generators can be made easyto-implement so that they are competitive with traditional software li-braries in many software domains. Compared to a common library, a generator implementing a domain-specific language can offer more con-cise syntax, better static error checking, and better performance through cross-operation optimizations.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:artPoR2Yc-kC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Adaptive caches: Effective shaping of cache behavior to workloads",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4041862/",
+            "Abstract": "We present and evaluate the idea of adaptive processor cache management. Specifically, we describe a novel and general scheme by which we can combine any two cache management algorithms (e.g., LRU, LFU, FIFO, Random) and adaptively switch between them, closely tracking the locality characteristics of a given program. The scheme is inspired by recent work in virtual memory management at the operating system level, which has shown that it is possible to adapt over two replacement policies to provide an aggregate policy that always performs within a constant factor of the better component policy. A hardware implementation of adaptivity requires very simple logic but duplicate tag structures. To reduce the overhead, we use partial tags, which achieve good performance with a small hardware cost. In particular, adapting between LRU and LFU replacement policies on an 8-way 512KB L2 cache yields a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "NRMI: Natural and efficient middleware",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4359417/",
+            "Abstract": "We present natural remote method invocation (NRMI): a middleware mechanism that provides a fully general implementation of call-by-copy-restore semantics for arbitrary linked data structures, used as parameters in remote procedure calls. Call-by-copy-restore offers a more natural programming model for distributed systems than traditional call-by-copy middleware, enabling remote calls to behave much like local calls. We discuss in depth the effects of calling semantics for middleware, describe when and why NRMI is more convenient to use than standard middleware, and present three implementations of NRMI in distinct settings, showing the generality of the approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Statically safe program generation with safegen",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0167642308001111",
+            "Abstract": "SafeGen is a meta-programming language for writing statically safe generators of Java programs. If a program generator written in SafeGen passes the checks of the SafeGen compiler, then the generator will only generate well-formed Java programs, for any generator input. In other words, statically checking the generator guarantees the correctness of any generated program, with respect to static checks commonly performed by a conventional compiler (including type safety, existence of a superclass, etc.). To achieve this guarantee, SafeGen supports only language primitives for reflection over an existing well-formed Java program, primitives for creating program fragments, and a restricted set of constructs for iteration, conditional actions, and name generation. SafeGen\u2019s static checking algorithm is a combination of traditional type checking for Java, and a series of calls to a theorem prover to check the validity of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:dfsIfKJdRG4C",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "An overview of the oregon programming languages summer school",
+            "Publication year": 2009,
+            "Publication url": "https://collaborate.princeton.edu/en/publications/an-overview-of-the-oregon-programming-languages-summer-school",
+            "Abstract": "The Oregon Programming Languages Summer School (OPLSS) will be held at the University of Oregon from June 15-June 25, 2010 titled'Logics, Languages, Compilation, and Verification. It is aimed at providing students and instructors a unique opportunity to study relevant background and results in the field of programming languages research. The course will consist of foundational lectures on proof theory and type theory and a series of lectures on the use of theorem provers for mechanized proof. It also will cover a series of lectures on the application of mechanized reasoning to compiler certification, program verification, and integrating types and verification. The OPLSS covers a total of 4 80-minute lectures given by different leading researchers in the field. Other activities include panel discussions and a one-day excursion, such as a hike. The summer school is primarily aimed at graduate students but typically have a small number of other participants including faculty, post-docs, advanced undergraduates, and industrial researchers.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "Association for Computing Machinery (ACM)"
+        },
+        {
+            "Title": "P/Taint: unified points-to and taint analysis. PACMPL 1, OOPSLA (2017), 102: 1\u2013102: 28",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18049587424346456148&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:lvd772isFD0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Transactions with isolation and cooperation",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1297105.1297042",
+            "Abstract": "We present the TIC (Transactions with Isolation and Cooperation) model for concurrent programming. TIC adds to standard transactional memory the ability for a transaction to observe the effects of other threads at selected points. This allows transactions to cooperate, as well as to invoke nonrepeatable or irreversible operations, such as I/O. Cooperating transactions run the danger of exposing intermediate state and of having other threads change the transaction's state. The TIC model protects against unanticipated interference by having the type system keep track of all operations that may (transitively) violate the atomicity of a transaction and require the programmer to establish consistency at appropriate points. The result is a programming model that is both general and simple. We have used the TIC model to re-engineer existing lock-based applications including a substantial multi-threaded web mail server and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Set-based pre-processing for points-to analysis",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2509136.2509524",
+            "Abstract": "We present set-based pre-analysis: a virtually universal optimization technique for flow-insensitive points-to analysis. Points-to analysis computes a static abstraction of how object values flow through a program's variables. Set-based pre-analysis relies on the observation that much of this reasoning can take place at the set level rather than the value level. Computing constraints at the set level results in significant optimization opportunities: we can rewrite the input program into a simplified form with the same essential points-to properties. This rewrite results in removing both local variables and instructions, thus simplifying the subsequent value-based points-to computation. Effectively, set-based pre-analysis puts the program in a normal form optimized for points-to analysis.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:-_dYPAW6P2MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Static interfaces in C++",
+            "Publication year": 2000,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.38.6457&rep=rep1&type=pdf",
+            "Abstract": "We present an extensible framework for defining and using \u201cstatic interfaces\u201d in C++. Static interfaces are especially useful as constraints on template parameters. That is, in addition to the usual template< class T>, template definitions can specify that T \u201cisa\u201d Foo, for some static interface named Foo. These \u201cisa-constraints\u201d can be based on either inheritance (named conformance: T publicly inherits Foo), members (structural conformance: T has these member functions with these signatures), or both. The constraint mechanism imposes no space or time overheads at runtime; virtual functions are conspicuously absent from our framework.We demonstrate two key utilities of static interfaces. First, constraints enable better error messages with template code. By applying static interfaces as constraints, instantiating a template with the wrong type is an error that can be caught at the instantiation point, rather than later (typically in the bowels of the implementation). Authors of template classes and template functions can also dispatch \u201ccustom error messages\u201d to report named constraint violations by clients, making debugging easier. We show examples of the improvement of error messages when constraints are applied to STL code.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "jUCM: Universal Class Morphing (position paper)",
+            "Publication year": 2015,
+            "Publication url": "https://arxiv.org/abs/1506.05270",
+            "Abstract": "We extend prior work on class-morphing to provide a more expressive pattern-based compile-time reflection language. Our MorphJ language offers a disciplined form of metaprogramming that produces types by statically iterating over and pattern-matching on fields and methods of other types. We expand such capabilities with \"universal morphing\", which also allows pattern-matching over types (e.g., all classes nested in another, all supertypes of a class) while maintaining modular type safety for our meta-programs. We present informal examples of the functionality and discuss a design for adding universal morphing to Java.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:S16KYo8Pm5AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Static analysis of java dynamic proxies",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3213846.3213864",
+            "Abstract": "The dynamic proxy API is one of Java\u2019s most widely-used dynamic features, permitting principled run-time code generation and link-ing. Dynamic proxies can implement any set of interfaces and for-ward method calls to a special object that handles them reflectively. The flexibility of dynamic proxies, however, comes at the cost of having a dynamically generated layer of bytecode that cannot be penetrated by current static analyses. In this paper, we observe that the dynamic proxy API is stylized enough to permit static analysis. We show how the semantics of dynamic proxies can be modeled in a straightforward manner as logical rules in the Doop static analysis framework. This concise set of rules enables Doop\u2019s standard analyses to process code behind dynamic proxies. We evaluate our approach by analyzing XCorpus, a corpus of real-world Java programs: we fully handle 95% of its reported proxy creation sites \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:DUooU5lO8OsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Symbolic value-flow static analysis: deep, precise, complete modeling of Ethereum smart contracts",
+            "Publication year": 2021,
+            "Publication url": "https://yanniss.github.io/symvalic-oopsla21.pdf",
+            "Abstract": "Static analysis is distinguished among program analysis techniques (eg, testing [Czech et al. 2016; Meyer 2008], model checking [Clarke et al. 1986; Jhala and Majumdar 2009], or symbolic execution [Baldoni et al. 2018; King 1976]) by its emphasis on completeness, ie, its attempt to model all (or as many as possible) program behaviors. To achieve this goal under a realistic time budget, static analysis often has to sacrifice some precision: the analysis may consider combinations of values that may never appear in a real execution. Maintaining high precision, while achieving completeness and scalability, remains a formidable challenge. In this work, we present an analysis that attempts to meet this challenge, under realistic domain assumptions. The analysis maintains high precision (closely analogous to that of model checking or full program execution) while achieving very high completeness, as measured in terms of coverage of program behaviors. For conciseness purposes, we give to the analysis architecture the name symvalic analysis, for \u201csymbolic+ value-flow static analysis\u201d. A symvalic analysis computes for each program variable a set of possible concrete values as well as symbolic expressions. The analysis is path-sensitive: values propagate to a variable at a program point only if they satisfy (modulo natural analysis over-approximation) the conditions under which the program point would be reachable. In order to satisfy conditions, the analysis needs to solve equalities and inequalities over both concrete and symbolic values. To do this, the analysis appeals to a symbolic solver and simplifier tightly integrated with the analysis core. At \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:Ak0FvsSvgGUC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Symbolic Reasoning for Automatic Signal Placement (Extended Version)",
+            "Publication year": 2018,
+            "Publication url": "https://arxiv.org/abs/1804.02503",
+            "Abstract": "Explicit signaling between threads is a perennial cause of bugs in concurrent programs. While there are several run-time techniques to automatically notify threads upon the availability of some shared resource, such techniques are not widely-adopted due to their run-time overhead. This paper proposes a new solution based on static analysis for automatically generating a performant explicit-signal program from its corresponding implicit-signal implementation. The key idea is to generate verification conditions that allow us to minimize the number of required signals and unnecessary context switches, while guaranteeing semantic equivalence between the source and target programs. We have implemented our method in a tool called Expresso and evaluate it on challenging benchmarks from prior papers and open-source software. Expresso-generated code significantly outperforms past automatic signaling mechanisms (avg. 1.56x speedup) and closely matches the performance of hand-optimized explicit-signal code.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:HtEfBTGE9r8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Functional programming in C++ using the FC++ library",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/375431.375417",
+            "Abstract": "Some twenty years and a few major languages later, the ability to write\" FORTRAN code\" in any language is still easy to assert. One would hope, however, that the property of transcending languages is not limited to Fortran. Can the determined Functional Programmer write Haskell programs in any language?",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Gigahorse: thorough, declarative decompilation of smart contracts",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8811905/",
+            "Abstract": "The rise of smart contracts - autonomous applications running on blockchains - has led to a growing number of threats, necessitating sophisticated program analysis. However, smart contracts, which transact valuable tokens and cryptocurrencies, are compiled to very low-level bytecode. This bytecode is the ultimate semantics and means of enforcement of the contract. We present the Gigahorse toolchain. At its core is a reverse compiler (i.e., a decompiler) that decompiles smart contracts from Ethereum Virtual Machine (EVM) bytecode into a highlevel 3-address code representation. The new intermediate representation of smart contracts makes implicit data- and control-flow dependencies of the EVM bytecode explicit. Decompilation obviates the need for a contract's source and allows the analysis of both new and deployed contracts. Gigahorse advances the state of the art on several fronts. It gives the highest \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:HIFyuExEbWQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Layered development with (Unix) dynamic libraries",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-46020-9_3",
+            "Abstract": "Layered software development has demonstrably good reuse properties and offers one of the few promising approaches to addressing the library scalability problem. In this paper, we show how one can develop layered software using common Unix (Linux/Solaris) dynamic libraries. In particular, we show that, from an object-oriented design standpoint, dynamic libraries are analogous to components in a mixin-based object system. This enables us to use libraries in a layered fashion, mixing and matching different libraries, while ensuring that the result remains consistent. As a proof-of-concept application, we present two libraries implementing file versioning (automatically keeping older versions of files for backup) and application-transparent locking in a Unix system. Both libraries can be used with new, aware applications or completely unaware legacy applications. Further, the libraries are useful both in \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Using Datalog for fast and easy program analysis",
+            "Publication year": 2010,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-24206-9_14",
+            "Abstract": "Our recent work introduced the Doop framework for points-to analysis of Java programs. Although Datalog has been used for points-to analyses before, Doop is the first implementation to express full end-to-end context-sensitive analyses in Datalog. This includes key elements such as call-graph construction as well as the logic dealing with various semantic complexities of the Java language (native methods, reflection, threading, etc.). The findings from the Doop research effort have been surprising. We set out to create a framework that would be highly complete and elegant without sacrificing performance \u201ctoo much\u201d. By the time Doop reached maturity, it was a full order-of-magnitude faster than Lhot\u00e1k and Hendren\u2019s Paddle\u2014the state-of-the-art framework for context-sensitive points-to analyses. For the exact same logical points-to definitions (and, consequently, identical precision) Doop is more than 15x faster \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:HE397vMXCloC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "PQL: a purely-declarative java extension for parallel programming",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-31057-7_4",
+            "Abstract": "The popularization of parallelism is arguably the most fundamental computing challenge for years to come. We present an approach where parallel programming takes place in a restricted (sub-Turing-complete), logic-based declarative language, embedded in Java. Our logic-based language, PQL, can express the parallel elements of a computing task, while regular Java code captures sequential elements. This approach offers a key property: the purely declarative nature of our language allows for aggressive optimization, in much the same way that relational queries are optimized by a database engine. At the same time, declarative queries can operate on plain Java data, extending patterns such as map-reduce to arbitrary levels of nesting and composition complexity.We have implemented PQL as extension to a Java compiler and showcase its expressiveness as well as its scalability compared \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:tkaPQYYpVKoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Binary refactoring: Improving code behind the scenes",
+            "Publication year": 2005,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1062455.1062511",
+            "Abstract": "We present Binary Refactoring: a software engineering technique for improving the implementation of programs without modifying their source code. While related to regular refactoring in preserving a program's functionality, binary refactoring aims to capture modifications that are often applied to source code, although they only improve the performance of the software application and not the code structure. We motivate binary refactoring, present a binary refactoring catalogue, describe the design and implementation of BARBER---our binary refactoring browser for Java, and demonstrate the usefulness of binary refactoring through a series of benchmarks.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Functional programming with the FC++ library",
+            "Publication year": 2004,
+            "Publication url": "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/functional-programming-with-the-fc-library/1EC78833E953D6798C39C2E4B15EE4B4",
+            "Abstract": "We describe the FC++ library, a rich library supporting functional programming in C++. Prior approaches to encoding higher order functions in C++ have suffered with respect to polymorphic functions from either lack of expressiveness or high complexity. In contrast, FC++ offers full and concise support for higher-order polymorphic functions through a novel use of C++ type inference. The FC++ library has a number of useful features, including a generalized mechanism to implement currying in C++, a \u201clazy list\u201d class which enables the creation of \u201cinfinite data structures\u201d, a subtype polymorphism facility, and an extensive library of useful functions, including a large part of the Haskell Standard Prelude. The FC++ library has an efficient implementation. We show the results of a number of experiments which demonstrate the value of optimizations we have implemented. These optimizations have improved the run-time \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "Cambridge University Press"
+        },
+        {
+            "Title": "Automating ad hoc data representation transformations",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2814270.2814271",
+            "Abstract": "To maximize run-time performance, programmers often specialize their code by hand, replacing library collections and containers by custom objects in which data is restructured for efficient access. However, changing the data representation is a tedious and error-prone process that makes it hard to test, maintain and evolve the source code. We present an automated and composable mechanism that allows programmers to safely change the data representation in delimited scopes containing anything from expressions to entire class definitions. To achieve this, programmers define a transformation and our mechanism automatically and transparently applies it during compilation, eliminating the need to manually change the source code. Our technique leverages the type system in order to offer correctness guarantees on the transformation and its interaction with object-oriented language features, such as dynamic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:oNZyr7d5Mn4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Reified type parameters using Java annotations",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2517208.2517223",
+            "Abstract": "Java generics are compiled by-erasure: all clients reuse the same bytecode, with uses of the unknown type erased. C++ templates are compiled by-expansion: each type-instantiation of a template produces a different code definition. The two approaches offer trade-offs on multiple axes. We propose an extension of Java generics that allows by-expansion translation relative to selected type parameters only. This language design allows sophisticated users to get the best of both worlds at a fine granularity. Furthermore, our proposal is based on Java 8 Type Annotations (JSR 308) and the Checker Framework as an abstraction layer for controlling compilation without changes to the internals of a Java compiler.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:yB1At4FlUx8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "P/Taint: unified points-to and taint analysis. PACMPL 1, OOPSLA (2017), 102: 1\u015b102: 28",
+            "Publication year": 2017,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7615097158783367521&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:ZzlSgRqYykMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Strictly declarative specification of sophisticated points-to analyses",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1640089.1640108",
+            "Abstract": "We present the DOOP framework for points-to analysis of Java programs. DOOP builds on the idea of specifying pointer analysis algorithms declaratively, using Datalog: a logic-based language for defining (recursive) relations. We carry the declarative approach further than past work by describing the full end-to-end analysis in Datalog and optimizing aggressively using a novel technique specifically targeting highly recursive Datalog programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:5nxA0vEk-isC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dynamically discovering likely interface invariants",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1134285.1134435",
+            "Abstract": "Dynamic invariant detection is an approach that has received considerable attention in the recent research literature. A natural question arises in languages that separate the interface of a code module from its implementation: does an inferred invariant describe the interface or the implementation? Furthermore, if an implementation is allowed to refine another, as, for instance, in object-oriented method overriding, what is the relation between the inferred invariants of the overriding and the overridden method? The problem is of great practical interest. Invariants derived by real tools, like Daikon, often suffer from internal inconsistencies when overriding is taken into account, becoming unsuitable for some automated uses. We discuss the interactions between overriding and inferred invariants, and describe the implementation of an invariant inference tool that produces consistent invariants for interfaces and overridden \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:4DMP91E08xMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Precise static modeling of Ethereum \u201cmemory\u201d",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3428258",
+            "Abstract": "Static analysis of smart contracts as-deployed on the Ethereum blockchain has received much recent attention. However, high-precision analyses currently face significant challenges when dealing with the Ethereum VM (EVM) execution model. A major such challenge is the modeling of low-level, transient \u201cmemory\u201d (as opposed to persistent, on-blockchain \u201cstorage\u201d) that smart contracts employ. Statically understanding the usage patterns of memory is non-trivial, due to the dynamic allocation nature of in-memory buffers. We offer an analysis that models EVM memory, recovering high-level concepts (e.g., arrays, buffers, call arguments) via deep modeling of the flow of values. Our analysis opens the door to Ethereum static analyses with drastically increased precision. One such analysis detects the extraction of ERC20 tokens by unauthorized users. For another practical vulnerability (redundant calls, possibly used \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:5icHVeHT4IsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Taming the wildcards: Combining definition-and use-site variance",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1993316.1993569",
+            "Abstract": "Variance allows the safe integration of parametric and subtype polymorphism. Two flavors of variance, definition-site versus use-site variance, have been studied and have had their merits hotly debated. Definition-site variance (as in Scala and C#) offers simple type-instantiation rules, but causes fractured definitions of naturally invariant classes; Use-site variance (as in Java) offers simplicity in class definitions, yet complex type-instantiation rules that elude most programmers.We present a unifying framework for reasoning about variance. Our framework is quite simple and entirely denotational, that is, it evokes directly the definition of variance with a small core calculus that does not depend on specific type systems. This general framework can have multiple applications to combine the best of both worlds: for instance, it can be used to add use-site variance annotations to the Scala type system. We show one such \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:SP6oXDckpogC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Aspectizing server-side distribution. InAutomated Software Engineering Conference",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=7860975773555575647&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Aul-kAQHnToC",
+            "Publisher": "IEEE Press"
+        },
+        {
+            "Title": "Efficient and effective handling of exceptions in Java points-to analysis",
+            "Publication year": 2013,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-37051-9_3",
+            "Abstract": "A joint points-to and exception analysis has been shown to yield benefits in both precision and performance. Treating exceptions as regular objects, however, incurs significant and rather unexpected overhead. We show that in a typical joint analysis most of the objects computed to flow in and out of a method are due to exceptional control-flow and not normal call-return control-flow. For instance, a context-insensitive analysis of the Antlr benchmark from the DaCapo suite computes 4-5 times more objects going in or out of a method due to exceptional control-flow than due to normal control-flow. As a consequence, the analysis spends a large amount of its time considering exceptions.We show that the problem can be addressed both effectively and elegantly by coarsening the representation of exception objects. An interesting find is that, instead of recording each distinct exception object, we can \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:7T2F9Uy0os0C",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Streams \u00e0 la carte: Extensible Pipelines with Object Algebras (Artifact)",
+            "Publication year": 2015,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2015/5518/",
+            "Abstract": "In Streams \u00e0 la carte we address extensibility shortcomings in libraries for lazy-streaming queries with a new design. The architecture underlying this design borrows heavily from Oliveira and Cook's object algebra solution to the expression problem, extended with a design that exposes the push/pull character of the iteration, and an encoding of higher-kinded polymorphism. In this library we apply our design to Java and show that the addition of full extensibility is accompanied by high performance, matching or exceeding that of the original, highly-optimized Java streams library. In this artifact we present a fundamental set of sequential operators map, filter, reduce, count, take/limit and iterate. Additionally we present the behaviors that are discussed in the paper: push, pull, fused pull, logging, id (for blocking terminal operators), future (for non-blocking terminal operators).",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:i2xiXl-TujoC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Scalable automatic test data generation from modeling diagrams",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1321631.1321635",
+            "Abstract": "We explore the automatic generation of test data that respect constraints expressed in the Object-Role Modeling (ORM) language. ORM is a popular conceptual modelinglanguage, primarily targeting database applications, withsignificant uses in practice. The general problem of evenchecking whether an ORM diagram is satisfiable is quitehard: restricted forms are easily NP-hard and the problemis undecidable for some expressive formulations of ORM. Brute-force mapping to input for constraint and SAT solversdoes not scale: state-of-the-art solvers fail to find data to satisfy uniqueness and mandatory constraints in realistic time even for small examples. We instead define a restricted subset of ORM that allows efficient reasoning yet contains most constraints overwhelmingly used in practice. We show that the problem of deciding whether these constraints are consistent (ie, whether we can generate appropriate test \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:IWHjjKOFINEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The EELRU adaptive replacement algorithm",
+            "Publication year": 2003,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0166531602002262",
+            "Abstract": "The wide performance gap between processors and disks ensures that effective page replacement remains an important consideration in modern systems. This paper presents early eviction LRU (EELRU), an adaptive replacement algorithm. EELRU uses aggregate recency information to recognize the reference behavior of a workload and to adjust its speed of adaptation. An on-line cost/benefit analysis guides replacement decisions. This analysis is based on the LRU stack model (LRUSM) of program behavior. Essentially, EELRU is an on-line approximation of an optimal algorithm for the LRUSM. We prove that EELRU offers strong theoretical guarantees of performance relative to the LRU replacement algorithm. EELRU can never be more than a factor of 3 worse than LRU, while in a common best case it can be better than LRU by a large factor (proportional to the number of pages in memory).The goal of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Efficient reflection string analysis via graph coloring",
+            "Publication year": 2018,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2018/9231/",
+            "Abstract": "Static analyses for reflection and other dynamic language features have recently increased in number and advanced in sophistication. Most such analyses rely on a whole-program model of the flow of strings, through the stack and heap. We show that this global modeling of strings remains a major bottleneck of static analyses and propose a compact encoding, in order to battle unnecessary complexity. In our encoding, strings are maximally merged if they can never serve to differentiate class members in reflection operations. We formulate the problem as an instance of graph coloring and propose a fast polynomial-time algorithm that exploits the unique features of the setting (esp. large cliques, leading to hundreds of colors for realistic programs). The encoding is applied to two different frameworks for string-guided Java reflection analysis from past literature and leads to significant optimization (eg, a~ 2x reduction in the number of string-flow inferences), for a whole-program points-to analysis that uses strings.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:sNmaIFBj_lkC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "General and efficient locking without blocking",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1353522.1353524",
+            "Abstract": "Standard concurrency control mechanisms offer a trade-off: Transactional memory approaches maximize concurrency, but suffer high overheads and cost for retrying in the case of actual contention. Locking offers lower overheads, but typically reduces concurrency due to the difficulty of associating locks with the exact data that need to be accessed. Moreover, locking allows irreversible operations, is ubiquitous in legacy software, and seems unlikely to ever be completely supplanted.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Application generators",
+            "Publication year": 2001,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/047134608X.W6902",
+            "Abstract": "The sections in this article are",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:mlAyqtXpCwEC",
+            "Publisher": "John Wiley & Sons, Inc."
+        },
+        {
+            "Title": "Structural Abstraction A Mechanism for Modular Program Construction",
+            "Publication year": 2009,
+            "Publication url": "http://www.freeflygeek.com/docs/dissertation/signature.pdf",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:epqYDVWIO7EC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Stream fusion, to completeness",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3009837.3009880",
+            "Abstract": "Stream processing is mainstream (again): Widely-used stream libraries are now available for virtually all modern OO and functional languages, from Java to C# to Scala to OCaml to Haskell. Yet expressivity and performance are still lacking. For instance, the popular, well-optimized Java 8 streams do not support the zip operator and are still an order of magnitude slower than hand-written loops.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Ug5p-4gJ2f0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "FC++: Functional tools for object\u2010oriented tasks",
+            "Publication year": 2002,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.473",
+            "Abstract": "FC++ is a library for programming functionally in C++. Compared to other C++ functional programming libraries, FC++ is distinguished by its powerful type system which allows the manipulation of parametrically polymorphic functions (e.g., passing them as arguments to other functions and returning them as results).In this paper, we show how FC++ can be used in common object\u2010oriented programming tasks. We demonstrate FC++ implementations of several common design patterns (Adapter, Builder, Command, and more). Compared to conventional C++ implementations of these patterns, our implementations are either simpler (in that fewer classes/dependencies are needed), more efficient, or more type\u2010safe (thanks to parametric polymorphism and type inference). Copyright \u00a9 2002 John Wiley & Sons, Ltd.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Functional programming in C++",
+            "Publication year": 2000,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/351240.351251",
+            "Abstract": "This paper describes FC++: a rich library supporting functional programming in C++. Prior approaches to encoding higher order functions in C++ have suffered with respect to polymorphic functions from either lack of expressiveness or high complexity. In contrast, FC++ offers full and concise support for higher-order polymorphic functions through a novel use of C++ type inference. Another new element in FC++ is that it implements a subtype polymorphism policy for functions, in addition to the more common parametric polymorphism facilities. Subtype polymorphism is common in object oriented languages and ensures that functions in FC++ fit well within the C++ object model. Apart from these conceptual differences, FC++ is also an improvement in technical terms over previous efforts in the literature. Our function objects are reference-counted and can be aliased without needing to be copied, resulting in an efficient \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:JoZmwDi-zQgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Structured program generation techniques",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-319-60074-1_7",
+            "Abstract": "So, you can write a program that generates other programs. Sorry, ... not impressed. You want to impress me? Make sure your program-generating program only produces well-formed programs. What is \u201cwell-formed\u201d, you ask? Well, let\u2019s start with \u201cit parses\u201d. Then let\u2019s get to \u201c... and type-checks\u201d. You want to really impress me? Give me an expressive language for program generators in which any program you write will only generate well-formed programs.In this briefing, we will sample the state-of-the-art in program generation relative to the above important goal. If we want to establish program generation as a general-purpose, disciplined methodology, instead of an ad hoc hack, we should be able to check the generator once and immediately validate the well-formedness of anything it might generate. This is a modular safety property for meta-programs, much akin to static typing for regular \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:GtLg2Ama23sC",
+            "Publisher": "Springer, Cham"
+        },
+        {
+            "Title": "Ethainter: A smart contract security analyzer for composite vulnerabilities",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3385412.3385990",
+            "Abstract": "Smart contracts on permissionless blockchains are exposed to inherent security risks due to interactions with untrusted entities. Static analyzers are essential for identifying security risks and avoiding millions of dollars worth of damage.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:LhH-TYMQEocC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Next-paradigm programming languages: what will they look like and what changes will they bring?",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3359591.3359739",
+            "Abstract": "The dream of programming language design is to bring about orders-of-magnitude productivity improvements in software development tasks. Designers can endlessly debate on how this dream can be realized and on how close we are to its realization. Instead, I would like to focus on a question with an answer that can be, surprisingly, clearer: what will be the common principles behind next-paradigm, high-productivity programming languages, and how will they change everyday program development? Based on my decade-plus experience of heavy-duty development in declarative languages, I speculate that certain tenets of high-productivity languages are inevitable. These include, for instance, enormous variations in performance (including automatic transformations that change the asymptotic complexity of algorithms); a radical change in a programmer's workflow, elevating testing from a near-menial task to an \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:HtS1dXgVpQUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pointer analysis",
+            "Publication year": 2013,
+            "Publication url": "https://dimvar.github.io/papers/dagstuhl-pointer-analysis-report.pdf",
+            "Abstract": "This report documents the program and the outcomes of Dagstuhl Seminar 13162 \u201cPointer Analysis\u201d. The seminar had 27 attendees, including both pointer analysis experts and researchers developing clients in need of better pointer analysis. The seminar came at a key point in time, with pointer analysis techniques acquiring sophistication but still being just beyond the edge of wide practical deployment. The seminar participants presented recent research results, and identified key open problems and future directions for the field. This report presents abstracts of the participants\u2019 talks and summaries of the breakout sessions from the seminar.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:GFxP56DSvIMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Appletizing: Running legacy Java code remotely from a Web browser",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1510106/",
+            "Abstract": "Adding distributed capabilities to existing programs has come to the forefront of software evolution. As a standard Java distributed technology, applets offer the advantages of being easily deploy able over Web browsers and requiring little to no explicit distributed programming. Yet applets are inflexible: they download remote code and run it only on the client machine. We present appletizing: a semi-automatic approach to transforming a Java GUI application into a client-server application, in which the client runs as a Java applet that communicates with the server through RMI. To enable appletizing, we have expanded the capabilities of J-Orchestra, our automatic partitioning system that takes as input a Java application in bytecode format and transforms it into a distributed application, running across multiple standard JVMs. We discuss the motivation, benefits, and J-Orchestra support for appletizing, and validate our \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:-f6ydRqryjwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Easy language extension with Meta-AspectJ",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1134285.1134436",
+            "Abstract": "Domain-specific languages hold the potential of automating the software development process. Nevertheless, the adoption of a domain-specific language is hindered by the difficulty of transitioning to different language syntax and employing a separate translator in the software build process. We present a methodology that simplifies the development and deployment of small language extensions, in the context of Java. The main language design principle is that of language extension through unobtrusive annotations. The main language implementation idea is to express the language as a generator of customized AspectJ aspects, using our Meta-AspectJ tool. The advantages of the approach are twofold. First, the tool integrates into an existing software application much as a regular API or library, instead of as a language extension. This means that the programmer can remove the language extension at any point \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Exception analysis and points-to analysis: Better together",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1572272.1572274",
+            "Abstract": "Exception analysis and points-to analysis are typically done in complete separation. Past algorithms for precise exception analysis (eg, pairing throw clauses with catch statements) use pre-computed points-to information. Past points-to analyses either unsoundly ignore exceptions, or conservatively compute a crude approximation of exception throwing (eg, considering an exception throw as an assignment to a global variable, accessible from any catch clause). We show that this separation results in significant slowdowns or vast imprecision. The two kinds of analyses are interdependent: neither can be performed accurately without the other. The interdependency leads us to propose a joint handling for performance and precision. We show that our exception analysis is expressible highly elegantly in a declarative form, and can apply to points-to analyses of varying precision. In fact, our specification of exception \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Java wildcards meet definition-site variance",
+            "Publication year": 2012,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-31057-7_23",
+            "Abstract": "Variance is concerned with the interplay of parametric polymorphism (i.e., templates, generics) and subtyping. The study of variance gives answers to the question of when an instantiation of a generic class can be a subtype of another. In this work, we combine the mechanisms of use-site variance (as in Java) and definition-site variance (as in Scala and C#) in a single type system, based on Java. This allows maximum flexibility in both the specification and use of generic types, thus increasing the reusability of code. Our VarJ calculus achieves a safe synergy of def-site and use-site variance, while supporting the full complexities of the Java realization of variance, including F-bounded polymorphism and wildcard capture. We show that the interaction of these features with definition-site variance is non-trivial and offer a full proof of soundness\u2014the first in the literature for an approach combining variance \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:Y5dfb0dijaUC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Structure-sensitive points-to analysis for C and C++",
+            "Publication year": 2016,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-53413-7_5",
+            "Abstract": "We present a points-to analysis for C/C++ that recovers much of the available high-level structure information of types and objects, by applying two key techniques: (1) It records the type of each abstract object and, in cases when the type is not readily available, the analysis uses an allocation-site plus type abstraction to create multiple abstract objects per allocation site, so that each one is associated with a single type. (2) It creates separate abstract objects that represent (a) the fields of objects of either struct or class type, and (b) the (statically present) constant indices of arrays, resulting in a limited form of array-sensitivity.We apply our approach to the full LLVM bitcode intermediate language and show that it yields much higher precision than past analyses, allowing accurate distinctions between subobjects, v-table entries, array components, and more. Especially for C++ programs, this precision \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:ruyezt5ZtCIC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Automatic partitioning for prototyping ubiquitous computing applications",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1321027/",
+            "Abstract": "A major challenge facing ubiquitous computing R&D is the difficulty of writing software for complex, distributed applications. Automatic application partitioning can help development teams rapidly prototype distributed ubiquitous computing systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "What can the GC compute efficiently? A language for heap assertions at GC time",
+            "Publication year": 2010,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1932682.1869482",
+            "Abstract": "We present the DeAL language for heap assertions that are efficiently evaluated during garbage collection time. DeAL is a rich, declarative, logic-based language whose programs are guaranteed to be executable with good whole-heap locality, i.e., within a single traversal over every live object on the heap and a finite neighborhood around each object. As a result, evaluating DeAL programs incurs negligible cost: for simple assertion checking at each garbage collection, the end-to-end execution slowdown is below 2%. DeAL is integrated into Java as a VM extension and we demonstrate its efficiency and expressiveness with several applications and properties from the past literature.Compared to past systems for heap assertions, DeAL is distinguished by its very attractive expressiveness/efficiency tradeoff: it o ers a significantly richer class of assertions than what past systems could check with a single traversal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Fc++",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=13209650117443685670&hl=en&oi=scholarr",
+            "Abstract": "Functional programming is a programming paradigm in which functions are treated as regular values. Readers familiar with the\" functional\" part of the Standard Library have already encountered some of the ideas behind FC++. Nevertheless, the C++ Standard Library stops short of providing a general framework for functional programming. Other libraries have attempted to fill the gap by supplying either syntax support (eg, a\" lambda\" operator for anonymous functions)[2][8] or a framework for expressing higher-order function types [5].FC++ is distinguished from all such libraries by its powerful type system. FC++ offers complete support for manipulating polymorphic\u00bd functions\u2014passing them as arguments to other functions and returning them as results. For instance, FC++ supports higher-order polymorphic operators like compose (): a function that takes two (possibly polymorphic) functions as arguments and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Identifying java calls in native code via binary scanning",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3395363.3397368",
+            "Abstract": "Current Java static analyzers, operating either on the source or bytecode level, exhibit unsoundness for programs that contain native code. We show that the Java Native Interface (JNI) specification, which is used by Java programs to interoperate with Java code, is principled enough to permit static reasoning about the effects of native code on program execution when it comes to call-backs. Our approach consists of disassembling native binaries, recovering static symbol information that corresponds to Java method signatures, and producing a model for statically exercising these native call-backs with appropriate mock objects. The approach manages to recover virtually all Java calls in native code, for both Android and Java desktop applications\u2014(a) achieving 100% native-to-application call-graph recall on large Android applications (Chrome, Instagram) and (b) capturing the full native call-back behavior of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:F9fV5C73w3QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Introspective analysis: context-sensitivity, across the board",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2594291.2594320",
+            "Abstract": "Context-sensitivity is the primary approach for adding more precision to a points-to analysis, while hopefully also maintaining scalability. An oft-reported problem with context-sensitive analyses, however, is that they are bi-modal: either the analysis is precise enough that it manipulates only manageable sets of data, and thus scales impressively well, or the analysis gets quickly derailed at the first sign of imprecision and becomes orders-of-magnitude more expensive than would be expected given the program's size. There is currently no approach that makes precise context-sensitive analyses (of any flavor: call-site-, object-, or type-sensitive) scale across the board at a level comparable to that of a context-insensitive analysis. To address this issue, we propose introspective analysis: a technique for uniformly scaling context-sensitive analysis by eliminating its performance-detrimental behavior, at a small precision \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:vDijr-p_gm4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An efficient data structure for must-alias analysis",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3178372.3179519",
+            "Abstract": "A must-alias (or \u201cdefinite-alias\u201d) analysis computes sets of expressions that are guaranteed to be aliased at a given pro-gram point. The analysis has been shown to have significant practical impact, and it is actively used in popular research frameworks and commercial tools. We present a custom data structure that speeds up must-alias analysis by nearly two orders of magnitude (while computing identical results). The data structure achieves efficiency by encoding multiple alias sets in a single linked structure, and compactly representing the aliasing relations of arbitrarily long expressions. We ex-plore the data structure\u2019s performance in both an imperative and a declarative setting and contrast it extensively with prior techniques. With our approach, must-alias analysis can be performed efficiently, over large Java benchmarks, in under half a minute, making the analysis cost acceptable for most practical uses.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:NXb4pA-qfm4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Morphing Software for Easier Evolution.",
+            "Publication year": 2007,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.899&rep=rep1&type=pdf",
+            "Abstract": "One of the biggest challenges in software evolution is maintaining the relationships between existing program structures. Changing a program component (eg, a class, interface, or method) typically requires changes in multiple other components whose structure or meaning depend on the changed one. The root cause of the problem is redundancy due to lack of expressiveness in programming languages: Extra dependencies exist only because there is no easy way to model one program component after another, so that changes to the latter are automatically reflected in the former. For example, in the Enterprise Java Bean (EJB) standard, local and remote stub interfaces must mirror the bean class structure exactly. A change in the bean interface must be propagated to the stub interfaces, as well. Tools and methods have been developed to support writing code that is immune to changes in program structure (eg,[10, 11]). But these tools either require separate declarations of a program\u2019s structural properties (eg, class dictionaries in [11]), or use potentially unsafe runtime reflection [10]. Furthermore, these tools focus on adapting code, and not the static structure of a class or interface, to evolving program structure. 1 Another obstacle in software evolution is the extensibility of software components, particularly when source code is unavailable. Aspect Oriented Programming (AOP)[9] and its flagship tools, such as AspectJ [8] provide a solution approach. AspectJ allows a programmer to extend a software component by specifying extra code to be executed, or even change the component\u2019s original semantics entirely by circumventing the execution of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:NMxIlDl6LWMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Combining Static and Dynamic Reasoning for the Discovery of Program Properties",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-85114-1_3",
+            "Abstract": "Combinations of static and dynamic analyses can be profitably employed in tasks such as program understanding, bug detection, behavior discovery, etc. In the past several years, we have explored a particular scheme for improving the quality of bug reports in a sequence of tools: JCrasher, Check \u2019n\u2019 Crash, and DSD-Crasher. We have additionally explored the combination of dynamic and symbolic execution for the purpose of inferring program invariants in the DySy tool. In this talk, we discuss such approaches, while distinguishing the conceptual benefits and drawbacks of each approach from the abilities and shortcomings of the current representative tools.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:pqnbT2bcN3wC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "DySy",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4814139/",
+            "Abstract": "Dynamically discovering likely program invariants from concrete test executions has emerged as a highly promising software engineering technique. Dynamic invariant inference has the advantage of succinctly summarizing both \"expected\" program inputs and the subset of program behaviors that is normal under those inputs. In this paper, we introduce a technique that can drastically increase the relevance of inferred invariants, or reduce the size of the test suite required to obtain good invariants. Instead of falsifying invariants produced by pre-set patterns, we determine likely program invariants by combining the concrete execution of actual test cases with a simultaneous symbolic execution of the same tests. The symbolic execution produces abstract conditions over program variables that the concrete tests satisfy during their execution. In this way, we obtain the benefits of dynamic inference tools like Daikon: the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Aspectizing server-side distribution",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1240301/",
+            "Abstract": "We discuss how a collection of domain-specific and domain-independent tools can be combined to \"aspectize\" the distributed character of server-side applications, to a much greater extent than with prior efforts. Specifically, we present a framework that can be used with a large class of unaware applications to turn their objects into distributed objects with minimal programming effort. Our framework is developed on top of three main components: AspectJ (a high-level aspect language), XDoclet (a low-level aspect language), and NRMI (a middleware facility that makes remote calls behave more like local calls). We discuss why each of the three components offers unique advantages and is necessary for an elegant solution, why our approach is general, and how it constitutes a significant improvement over past efforts to isolate distribution concerns.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:UebtZRa9Y70C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DOLAR: virtualizing heterogeneous information spaces to support their expansion",
+            "Publication year": 2011,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.1050",
+            "Abstract": "Users expect applications to successfully cope with the expansion of information as necessitated by the continuous inclusion of novel types of content. Given that such content may originate from \u2018not\u2010seen thus far\u2019 data collections and/or data sources, the challenging issue is to achieve the return of investment on existing services, adapting to new information without changing existing business\u2010logic implementation. To address this need, we introduce DOLAR (Data Object Language And Runtime), a service\u2010neutral framework which virtualizes the information space to avoid invasive, time\u2010consuming, and expensive source\u2010code extensions that frequently break applications. Specifically, DOLAR automates the introduction of new business\u2010logic objects in terms of the proposed virtual \u2018content objects\u2019. Such user\u2010specified virtual objects align to storage artifacts and help realize uniform \u2018store\u2010to\u2010user\u2019 data flows atop \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:NaGl4SEjCO4C",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "SEDGE: Symbolic example data generation for dataflow programs",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6693083/",
+            "Abstract": "Exhaustive, automatic testing of dataflow (esp. mapreduce) programs has emerged as an important challenge. Past work demonstrated effective ways to generate small example data sets that exercise operators in the Pig platform, used to generate Hadoop map-reduce programs. Although such prior techniques attempt to cover all cases of operator use, in practice they often fail. Our SEDGE system addresses these completeness problems: for every dataflow operator, we produce data aiming to cover all cases that arise in the dataflow program (e.g., both passing and failing a filter). SEDGE relies on transforming the program into symbolic constraints, and solving the constraints using a symbolic reasoning engine (a powerful SMT solver), while using input data as concrete aids in the solution process. The approach resembles dynamic-symbolic (a.k.a. \u201cconcolic\u201d) execution in a conventional programming language \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:j8SEvjWlNXcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Dagstuhl Reports, Vol. 3, Issue 4 ISSN 2192-5283",
+            "Publication year": 2013,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/dagrep-complete/2013/dagrep-v003-i004-complete.pdf",
+            "Abstract": "The Dagstuhl Seminar 13141 \u201cFormal Verification of Distributed Algorithms\u201d brought together researchers from the areas of distributed algorithms, model checking, and semi-automated proofs with the goal to establish a common base for approaching the many open problems in verification of distributed algorithms. In order to tighten the gap between the involved communities, who have been quite separated in the past, the program contained tutorials on the basics of the concerned fields. In addition to technical talks, we also had several discussion sessions, whose goal was to identify the most pressing research challenges. This report describes the program and the outcomes of the seminar.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:0KyAp5RtaNEC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Generative Programming and Component Engineering",
+            "Publication year": 2005,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18082147798673770390&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:0izLItjtcgwC",
+            "Publisher": "Springer Berlin/Heidelberg."
+        },
+        {
+            "Title": "XR exact real arithmetic",
+            "Publication year": 2001,
+            "Publication url": "https://scholar.google.com/scholar?cluster=8577548677204197821&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:eq2jaN3J8jMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Transparent program transformations in the presence of opaque code",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1173706.1173720",
+            "Abstract": "User-level indirection is the automatic rewriting of an application to interpose code that gets executed upon program actions such as object field access, method call, object construction, etc. The approach is constrained by the presence of opaque (native) code that cannot be indirected and can invalidate the assumptions of any indirection transformation. In this paper, we demonstrate the problem of employing user-level indirection in the presence of native code. We then suggest reasonable assumptions on the behavior of native code and a simple analysis to compute the constraints they entail. We show that the type information at the native code interface is often a surprisingly sufficient approximation of native behavior for heuristically estimating when user-level indirection can be applied safely. Furthermore, we introduce a new user-level indirection approach that minimizes the constraints imposed by interactions \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:dhFuZR0502QC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Application generators",
+            "Publication year": 2000,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.9107&rep=rep1&type=pdf",
+            "Abstract": "When a programming activity is well-understood, it can be automated. Automation transforms software development from activities like rote coding and tedious debugging to that of specification, where the \u201cwhat\u201d of an application is declared and the \u201chow\u201d is left to a complex, but automatable mapping. Programs that perform such mappings are application generators (or just generators). In the technical sense, application generators are compilers for domain-specific programming languages (DSLs). There is no strict criterion for characterizing a language as \u201cdomain-specific\u201d but the term is commonly used to describe programming languages for specialized tasks (as opposed to \u201cgeneral-purpose\u201d programming languages). Examples are languages for implementing communication protocols, partial differential equation solvers, windowing software, etc. Although all compilers can be viewed as generators, generator research and practice has focused on problems different than those usually found in a classical treatment of compilers (eg,[1]), such as programming language extensibility and program transformations.Before we delve further into generator specifics, it is worth addressing the following question: why are generators needed? Is it not sufficient to employ other programming tools (eg, traditional software libraries)? One answer is that it is very hard to scale traditional tools to handle code that is highly complex, yet can be decomposed into simpler pieces in systematic ways. In this case, generators can be viewed as compact representations of software libraries of gigantic size\u2014each library encoding all the useful code configurations that a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:Se3iqnhoufwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "P/Taint: unified points-to and taint analysis",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3133926",
+            "Abstract": "Static information-flow analysis (especially taint-analysis) is a key technique in software security, computing where sensitive or untrusted data can propagate in a program. Points-to analysis is a fundamental static program analysis, computing what abstract objects a program expression may point to. In this work, we propose a deep unification of information-flow and points-to analysis. We observe that information-flow analysis is not a mere high-level client of points-to information, but it is indeed identical to points-to analysis on artificial abstract objects that represent different information sources. The very same algorithm can compute, simultaneously, two interlinked but separate results (points-to and information-flow values) with changes only to its initial conditions. The benefits of such a unification are manifold. We can use existing points-to analysis implementations, with virtually no modification (only minor \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:8d8msizDQcsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A backend extension mechanism for PQL/Java with free run-time optimisation",
+            "Publication year": 2015,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-662-46663-6_6",
+            "Abstract": "In many data processing tasks, declarative query programming offers substantial benefit over manual data analysis: the query processors found in declarative systems can use powerful algorithms such as query planning to choose high-level execution strategies during compilation. However, the principal downside of such languages is that their primitives must be carefully curated, to allow the query planner to correctly estimate their overhead. In this paper, we examine this challenge in one such system, PQL/Java. PQL/Java adds a powerful declarative query language to Java to enable and automatically parallelise queries over the Java heap. In the past, the language has not provided any support for custom user-designed datatypes, as such support requires complex interactions with its query planner and backend.We examine PQL/Java and its intermediate language in detail and describe a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:kz9GbA2Ns4gC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "J-Orchestra: Enhancing Java programs with distribution capabilities",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1555392.1555394",
+            "Abstract": "J-Orchestra is a system that enhances centralized Java programs with distribution capabilities. Operating at the bytecode level, J-Orchestra transforms a centralized Java program (i.e., running on a single Java Virtual Machine (JVM)) into a distributed one (i.e., running across multiple JVMs). This transformation effectively separates distribution concerns from the core functionality of a program. J-Orchestra follows a semiautomatic transformation process. Through a GUI, the user selects program elements (at class granularity) and assigns them to network locations. Based on the user's input, the J-Orchestra backend automatically partitions the program through compiler-level techniques, without changes to the JVM or to the Java Runtime Environment (JRE) classes. By means of bytecode engineering and code generation, J-Orchestra substitutes method calls with remote method calls, direct object references with proxy \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:4TOpqqG69KYC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Automatic application partitioning: The J-Orchestra approach",
+            "Publication year": 2002,
+            "Publication url": "https://www.academia.edu/download/42413102/jorch-position.pdf",
+            "Abstract": "Application partitioning is the task of breaking up the functionality of an application into distinct entities that can operate independently, usually in a distributed setting. Many distributed applications are created by partitioning their centralized versions. Traditional application partitioning entails re-coding the application functionality to use a middleware mechanism for communication between the different entities. This process is tedious and error-prone. Automating the partitioning process while preserving correctness and ensuring good performance of partitioned applications can greatly facilitate development of a large class of distributed applications. We review the main advantages and challenges of automatic application partitioning and present the J-Orchestra system. J-Orchestra is an automatic partitioning system for Java programs. J-Orchestra takes as input Java applications in bytecode format and transforms them into distributed applications, running on distinct Java Virtual Machines.The present paper is a high-level supplement of our paper in the ECOOP 2002 technical program [12]. Here, we do not describe specific technical contributions, but instead we concentrate on the high level design decisions for an automatic partitioning system and argue that the J-Orchestra decisions make sense.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Static analysis of shape in TensorFlow programs",
+            "Publication year": 2020,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2020/13172/",
+            "Abstract": "Machine learning has been widely adopted in diverse science and engineering domains, aided by reusable libraries and quick development patterns. The TensorFlow library is probably the best-known representative of this trend and most users employ the Python API to its powerful back-end. TensorFlow programs are susceptible to several systematic errors, especially in the dynamic typing setting of Python. We present Pythia, a static analysis that tracks the shapes of tensors across Python library calls and warns of several possible mismatches. The key technical aspects are a close modeling of library semantics with respect to tensor shape, and an identification of violations and error-prone patterns. Pythia is powerful enough to statically detect (with 84.62% precision) 11 of the 14 shape-related TensorFlow bugs in the recent Zhang et al. empirical study-an independent slice of real-world bugs.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:nVrZBo8bIpAC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum f\u00fcr Informatik"
+        },
+        {
+            "Title": "Symbolic Reasoning for Automatic Signal Placement",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3421473.3421482",
+            "Abstract": "Explicit signaling between threads is a perennial cause of bugs in concurrent programs. While there are several runtime techniques to automatically notify threads upon the availability of some shared resource, such techniques are not widely-adopted due to their run-time overhead. This paper proposes a new solution based on static analysis for automatically generating a performant explicit-signal program from its corresponding implicit-signal implementation. The key idea is to generate verification conditions that allow us to minimize the number of required signals and unnecessary context switches, while guaranteeing semantic equivalence between the source and target programs. We have implemented our method in a tool called Expresso and evaluate it on challenging benchmarks from prior papers and open-source software. Expresso-generated code significantly outperforms past automatic signaling \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:gVv57TyPmFsC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "In defense of soundiness: A manifesto",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/2644805",
+            "Abstract": "Soundy is the new sound.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:k8Z6L05lTy4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Deep Static Modeling of invokedynamic (Artifact)",
+            "Publication year": 2019,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2019/10783/",
+            "Abstract": "Java 7 introduced programmable dynamic linking in the form of the invokedynamic framework. Static analysis of code containing programmable dynamic linking has often been cited as a significant source of unsoundness in the analysis of Java programs. For example, Java lambdas, introduced in Java 8, are a very popular feature, which is, however, resistant to static analysis, since it mixes invokedynamic with dynamic code generation. These techniques invalidate static analysis assumptions: programmable linking breaks reasoning about method resolution while dynamically generated code is, by definition, not available statically. In this paper, we show that a static analysis can predictively model uses of invokedynamic while also cooperating with extra rules to handle the runtime code generation of lambdas. Our approach plugs into an existing static analysis and helps eliminate all unsoundness in the handling of lambdas (including associated features such as method references) and generic invokedynamic uses. We evaluate our technique on a benchmark suite of our own and on third-party benchmarks, uncovering all code previously unreachable due to unsoundness, highly efficiently.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:ODE9OILHJdcC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "General adaptive replacement policies",
+            "Publication year": 2004,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1029873.1029887",
+            "Abstract": "We propose a general scheme for creating adaptive replacement policies with good performance and strong theoretical guarantees. Specifically, we show how to combine any two existing replacement policies so that the resulting policy provably can never perform worse than either of the original policies by more than a small factor. To show that our scheme performs very well with real application data, we derive a virtual memory replacement policy that adapts between LRU, loop detection, LFU, and MRU-like replacement. The resulting policy often performs better than all of the policies it adapts over, as well as two other hand-tuned adaptive policies from the recent literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Technical Perspective High-Level Data Structures",
+            "Publication year": 2012,
+            "Publication url": "https://scholar.google.com/scholar?cluster=14565744737001686034&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:tKAzc9rXhukC",
+            "Publisher": "Association for Computing Machinery"
+        },
+        {
+            "Title": "DSD-Crasher: A hybrid analysis tool for bug finding",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1348250.1348254",
+            "Abstract": "DSD-Crasher is a bug finding tool that follows a three-step approach to program analysis:D. Capture the program's intended execution behavior with dynamic invariant detection. The derived invariants exclude many unwanted values from the program's input domain.S. Statically analyze the program within the restricted input domain to explore many paths.D. Automatically generate test cases that focus on reproducing the predictions of the static analysis. Thereby confirmed results are feasible.This three-step approach yields benefits compared to past two-step combinations in the literature. In our evaluation with third-party applications, we demonstrate higher precision over tools that lack a dynamic step and higher efficiency over tools that lack a static step.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Residual investigation: Predictive and precise bug detection",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2656201",
+            "Abstract": "We introduce the concept of residual investigation for program analysis. A residual investigation is a dynamic check installed as a result of running a static analysis that reports a possible program error. The purpose is to observe conditions that indicate whether the statically predicted program fault is likely to be realizable and relevant. The key feature of a residual investigation is that it has to be much more precise (i.e., with fewer false warnings) than the static analysis alone, yet significantly more general (i.e., reporting more errors) than the dynamic tests in the program's test suite that are pertinent to the statically reported error. That is, good residual investigations encode dynamic conditions that, when considered in conjunction with the static error report, increase confidence in the existence or severity of an error without needing to directly observe a fault resulting from the error.We enhance the static analyzer \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:ye4kPcJQO24C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Second-order constraints in dynamic invariant inference",
+            "Publication year": 2013,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2491411.2491457",
+            "Abstract": "The current generation of dynamic invariant detectors often produce invariants that are inconsistent with program semantics or programmer knowledge. We improve the consistency of dynamically discovered invariants by taking into account higher-level constraints. These constraints encode knowledge about invariants, even when the invariants themselves are unknown. For instance, even though the invariants describing the behavior of two functions f1 and f2 may be unknown, we may know that any valid input for f1 is also valid for f2, ie, the precondition of f1 implies that of f2. We explore techniques for expressing and employing such consistency constraints to improve the quality of produced invariants. We further introduce techniques for dynamically discovering potential second-order constraints that the programmer can subsequently approve or reject.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:35r97b3x0nAC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Defensive Points-To Analysis: Effective Soundness via Laziness",
+            "Publication year": 2018,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2018/9228/",
+            "Abstract": "We present a defensive may-point-to analysis approach, which offers soundness even in the presence of arbitrary opaque code: all non-empty points-to sets computed are guaranteed to be over-approximations of the sets of values arising at run time. A key design tenet of the analysis is laziness: the analysis computes points-to relationships only for variables or objects that are guaranteed to never escape into opaque code. This means that the analysis misses some valid inferences, yet it also never wastes work to compute sets of values that are not\" complete\", ie, that may be missing elements due to opaque code. Laziness enables great efficiency, allowing a highly precise points-to analysis (such as a 5-call-site-sensitive, flow-sensitive analysis). Despite its conservative nature, our analysis yields sound, actionable results for a large subset of the program code, achieving (under worst-case assumptions) 34-74% of the program coverage of an unsound state-of-the-art analysis for real-world programs.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:6ZxmRoH8BuwC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Estimation of cellular manufacturing cost components using simulation and activity-based costing",
+            "Publication year": 2010,
+            "Publication url": "https://www.econstor.eu/handle/10419/188415",
+            "Abstract": "It can be difficult estimating all of the cost components that are attributed to a machined part. This problem is more pronounced when a factory uses group technology manufacturing cells as opposed to a functional or process layout of a job shop.  This paper describes how activity-based costing (ABC) concepts can be integrated into a discrete-event simulation model of a U-shaped manufacturing cell producing a part family with four members.  The simulation model generates detailed Bills of Activity for each part type and includes specific information about the cost drivers and cost pools. The enhanced model output can be used for cost estimation and analysis, manufacturing cell design, part scheduling and other manufacturing decision processes that involve economic considerations. Although the scope of this effort is restricted to a small scale manufacturing cell, the costing concepts have general applicability to manufacturing operations at all levels.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:2VqYfGB8ITEC",
+            "Publisher": "Barcelona: OmniaScience"
+        },
+        {
+            "Title": "JCrasher: an automatic robustness tester for Java",
+            "Publication year": 2004,
+            "Publication url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.602",
+            "Abstract": "JCrasher is an automatic robustness testing tool for Java code. JCrasher examines the type information of a set of Java classes and constructs code fragments that will create instances of different types to test the behavior of public methods under random data. JCrasher attempts to detect bugs by causing the program under test to \u2018crash\u2019, that is, to throw an undeclared runtime exception. Although in general the random testing approach has many limitations, it also has the advantage of being completely automatic: o supervision is required except for off\u2010line inspection of the test ases that have caused a crash. Compared to other similar commercial and research tools, JCrasher offers several novelties: it transitively analyzes methods, determines the size of each tested method's parameter\u2010space and selects parameter combinations and therefore test cases at random, taking into account the time allocated for testing \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "John Wiley & Sons, Ltd."
+        },
+        {
+            "Title": "Generative Programming and Component Engineering: Second International Conference, GPCE 2003, Erfurt, Germany, September 22-25, 2003, Proceedings",
+            "Publication year": 2003,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=62FgzMuySAAC&oi=fnd&pg=PA1&dq=info:yeQVijoqX2YJ:scholar.google.com&ots=D-o1LvDAUI&sig=vbOnROzx-st1wtcS3GGsHma2I20",
+            "Abstract": "This volume constitutes the proceedings of the second International Conference on Generative Programming and Component Engineering (GPCE 2003), held September 22\u201325, 2003, in Erfurt, Germany, sponsored by the NetObjectDays German industrial software development event, in cooperation with the ACM SIGPLAN and SIGSOFT societies. GPCE was created as an e? ort to bring-getherresearchersworkingonboththeprogramminglanguagesandthesoftware engineeringsideofprogramgenerationandcomponentengineering. Thecommon theme of program generation and component engineering is the domain-speci? c nature of both approaches. Depending on the characteristics of a domain, either a generative or a compositional technical solution may be appropriate. In just its second year, GPCE has shown a lot of promise for building a strong community. The response to the call for papers was excellent, with 62 submissions to the technical program, 2 of which were later withdrawn. Each paper received between three and? ve reviews, many of them quite thorough and hopefully valuable to all authors. The electronic meeting allowed for-depthdiscussionsofallsubmissions, oftentoamuchgreaterextentthanpossible in a physical PC meeting. As a result, 21 papers were selected for presentation at the conference and are included in this volume, together with abstracts for the invited talks by Olivier Danvy and Peri Tarr. Of the accepted papers, 3 are co-authored by PC members (from a total of 5 PC submissions). We tried hard to ensure fairness and hold PC submissions to a high standard. The EDAS conference submission system was used to \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:maZDTaKrznsC",
+            "Publisher": "Springer Science & Business Media"
+        },
+        {
+            "Title": "Combining static and dynamic reasoning for bug detection",
+            "Publication year": 2007,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-73770-4_1",
+            "Abstract": "Many static and dynamic analyses have been developed to improve program quality. Several of them are well known and widely used in practice. It is not entirely clear, however, how to put these analyses together to achieve their combined benefits. This paper reports on our experiences with building a sequence of increasingly more powerful combinations of static and dynamic analyses for bug finding in the tools JCrasher, Check \u2019n\u2019 Crash, and DSD-Crasher. We contrast the power and accuracy of the tools using the same example program as input to all three.At the same time, the paper discusses the philosophy behind all three tools. Specifically, we argue that trying to detect program errors (rather than to certify programs for correctness) is well integrated in the development process and a promising approach for both static and dynamic analyses. The emphasis on finding program errors influences \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Editorial message: special track on object oriented programming languages and systems",
+            "Publication year": 2006,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1141277.1141603",
+            "Abstract": "Today's large scale software systems are typically designed and implemented using the object-oriented (OO) methodology and paradigm. However, there is still a need for existing OO languages and architectures to continuously adapt in response to demands for new features and innovative approaches. A few examples of new features are unanticipated software evolution, security, safety, distribution, and interoperability.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:bKqednn6t2AC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Building Scalable Libraries with cJ",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4222673/",
+            "Abstract": "Creating highly reusable software libraries is one of the primary software engineering goals. The ability of a library to be reused, however, depends crucially on the ease of customizing the reusable components. If customization is hard, the well-known library scalability problem by Biggerstaff, T.J. (1994) ensues: a domain contains n features, but these can produce an exponential (or super-exponential if order matters or features can be replicated) number of combinations. Hard-coding all combinations results in an unmaintainably large library. Offering features as components that are composed without any customization results in undesirable \"bad-fit\" solutions, either for reasons of performance or correctness.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:P5F9QuxV20EC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Bridging functional and object-oriented programming",
+            "Publication year": 2000,
+            "Publication url": "https://smartech.gatech.edu/handle/1853/6600",
+            "Abstract": "Proponents of the functional programming paradigm contend that higher-order functions combined with (parametric) polymorphism result in much more reusable code. Object-oriented (OO) programming has independently followed a parallel approach to reusability. Objects can be used instead of higher-order functions and subtype polymorphism partially substitutes parametric polymorphism. In this paper, we draw strong analogies between the object-oriented and functional programming paradigms. We show that several common OO design patterns (Visitor, Virtual Proxy, Command, Observer, and more) are closely related to functional programming patterns. Additionally, we show how better support for functional programming in OO languages can result in improvements for many design patterns (Command, Virtual Proxy, Builder, Abstract Factory, and more). The context for demonstrating our ideas is the FC++ library. FC++ adds to C++ many of the capabilities of modern functional programming languages, without any modi\u00decation to the base language. Compared to other attempts to program functionally in C++, FC++ offers much richer support for polymorphic functions (allowing functions that take polymorphic functions as arguments and/ or return them as results).",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:mB3voiENLucC",
+            "Publisher": "Georgia Institute of Technology"
+        },
+        {
+            "Title": "NRMI: Natural and efficient middleware",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1203472/",
+            "Abstract": "We present NRMI: a drop-in replacement of Java RMI that offers call-by-copy-restore semantics for arbitrary linked data structures, in addition to regular call-by-copy semantics. Call-by-copy-restore middleware is more natural to use than traditional call-by-copy RPC mechanisms, enabling distributed calls to behave much like local calls. We discuss in depth the effect of calling semantics for middleware, describe how call-by-copy-restore can be implemented efficiently, and show examples of Java programs where NRMI is more convenient than regular Java RMI.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Scalable satisfiability checking and test data generation from modeling diagrams",
+            "Publication year": 2009,
+            "Publication url": "https://link.springer.com/article/10.1007/s10515-008-0044-6",
+            "Abstract": "We explore the automatic generation of test data that respect constraints expressed in the Object-Role Modeling (ORM) language. ORM is a popular conceptual modeling language, primarily targeting database applications, with significant uses in practice. The general problem of even checking whether an ORM diagram is satisfiable is quite hard: restricted forms are easily NP-hard and the problem is undecidable for some expressive formulations of ORM. Brute-force mapping to input for constraint and SAT solvers does not scale: state-of-the-art solvers fail to find data to satisfy uniqueness and mandatory constraints in realistic time even for small examples. We instead define a restricted subset of ORM that allows efficient reasoning yet contains most constraints overwhelmingly used in practice. We show that the problem of deciding whether these constraints are consistent (i.e., whether we can generate \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:k_IJM867U9cC",
+            "Publisher": "Springer US"
+        },
+        {
+            "Title": "Pointer Analysis. Now Foundations and Trends",
+            "Publication year": 2015,
+            "Publication url": "https://scholar.google.com/scholar?cluster=2336304702103566967&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:nZcligLrVowC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pick your contexts well: Understanding object-sensitivity",
+            "Publication year": 2011,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16180589010923446322&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:fbc8zXXH2BUC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Explaining bug provenance with trace witnesses",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3394451.3397206",
+            "Abstract": "Bug finders are mainstream tools used during software development that significantly improve the productivity of software engineers and lower maintenance costs. These tools search for software anomalies by scrutinising the program's code using static program analysis techniques, ie, without executing the code. However, current bug finders do not explain why bugs were found, primarily due to coarse-grain abstractions that abstract away large portions of the operational semantics of programming languages. To further improve the utility of bug finders, it is paramount to explain reported bugs to the end-users.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:a3BOlSfXSfwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Architectural Styles as Adaptors'",
+            "Publication year": 2013,
+            "Publication url": "https://books.google.com/books?hl=en&lr=&id=WpDwBwAAQBAJ&oi=fnd&pg=PA203&dq=info:c2P41TF15tQJ:scholar.google.com&ots=_KOrZQwleJ&sig=wxpxRnO3xHuQ-B6LCk-RN_Z85Co",
+            "Abstract": "The essence of architectural styles is component communication. In this paper, we relate architectural styles to adaptors in the GenVoca model of software construction. Gen-Voca components are refinements that have a wide range of implementations, from binaries to rule-sets of program transformation systems. We explain that architectural styles can (1) be understood as refinements (like other GenVoca components) and (2) that they are generalizations of the OO concept of adaptors. By implementing adaptors as program transformations, complex architectural styles can be realized in GenVoca that simply could not be expressed using less powerful implementation techniques (eg, object adaptors). Examples from avionics are given.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:u-coK7KVo8oC",
+            "Publisher": "Springer"
+        },
+        {
+            "Title": "Heaps don't lie: countering unsoundness with heap snapshots",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3133892",
+            "Abstract": "Static analyses aspire to explore all possible executions in order to achieve soundness. Yet, in practice, they fail to capture common dynamic behavior. Enhancing static analyses with dynamic information is a common pattern, with tools such as Tamiflex. Past approaches, however, miss significant portions of dynamic behavior, due to native code, unsupported features (e.g., invokedynamic or lambdas in Java), and more. We present techniques that substantially counteract the unsoundness of a static analysis, with virtually no intrusion to the analysis logic. Our approach is reified in the HeapDL toolchain and consists in taking whole-heap snapshots during program execution, that are further enriched to capture significant aspects of dynamic behavior, regardless of the causes of such behavior. The snapshots are then used as extra inputs to the static analysis. The approach exhibits both portability and significantly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:_FM0Bhl9EiAC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "The XR Exact Real Home Page",
+            "Publication year": 2002,
+            "Publication url": "https://scholar.google.com/scholar?cluster=16537860263312532877&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:5awf1xo2G04C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3385412.3386026",
+            "Abstract": "Enterprise applications are a major success domain of Java, and Java is the default setting for much modern static analysis research. It would stand to reason that high-quality static analysis of Java enterprise applications would be commonplace, but this is far from true. Major analysis frameworks feature virtually no support for enterprise applications and offer analyses that are woefully incomplete and vastly imprecise, when at all scalable.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:yqoGN6RLRZoC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Madmax: Surviving out-of-gas conditions in ethereum smart contracts",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3276486",
+            "Abstract": "Ethereum is a distributed blockchain platform, serving as an ecosystem for smart contracts: full-fledged inter-communicating programs that capture the transaction logic of an account. Unlike programs in mainstream languages, a gas limit restricts the execution of an Ethereum smart contract: execution proceeds as long as gas is available. Thus, gas is a valuable resource that can be manipulated by an attacker to provoke unwanted behavior in a victim's smart contract (e.g., wasting or blocking funds of said victim). Gas-focused vulnerabilities exploit undesired behavior when a contract (directly or through other interacting contracts) runs out of gas. Such vulnerabilities are among the hardest for programmers to protect against, as out-of-gas behavior may be uncommon in non-attack scenarios and reasoning about it is far from trivial.  In this paper, we classify and identify gas-focused vulnerabilities, and present \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:QYdC8u9Cj1oC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Pointer analysis",
+            "Publication year": 2015,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1561/2500000014",
+            "Abstract": "Pointer analysis is a fundamental static program analysis, with a rich literature and wide applications. The goal of pointer analysis is to compute an approximation of the set of program objects that a pointer variable or expression can refer to. We present an introduction and survey of pointer analysis techniques, with an emphasis on distilling the essence of common analysis algorithms. To this end, we focus on a declarative presentation of a common core of pointer analyses: algorithms are modeled as configurable, yet easy-to-follow, logical specifications. The specifications serve as a starting point for a broader discussion of the literature, as independent threads spun from the declarative model.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:M7yex6snE4oC",
+            "Publisher": "Now Publishers Inc."
+        },
+        {
+            "Title": "Interfaces for Nested Classes",
+            "Publication year": 2001,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.94.7384&rep=rep1&type=pdf",
+            "Abstract": "Class nesting has emerged as a promising modularization mechanism in class-based object oriented languages. Several recent research results employ class nesting to concisely express relationships among multiple classes. Nevertheless, the issue of type system support for nested classes has not been addressed in previous work. In this paper, we discuss the problem in the context of Java and the Java \u201cinterface\u201d mechanism. Interfaces are a way to specify explicit types for class definitions. Current Java interfaces cannot express constraints for nested classes. We will show that this is an important omission. An extension to Java is proposed that solves the problem and has two desirable characteristics: it does not change the semantics of existing Java programs and it does not introduce new keywords into the language. Additionally, we give advanced examples to support the general claim that type support for nested classes is useful for future OO languages and language extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:BqipwSGYUEgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A personal outlook on generator research",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-25935-0_6",
+            "Abstract": "If we want domain-specific program generation to form the basis of a strong, long-lived research community, we need to recognize what its potential impact might be and why the promise has not been fulfilled so far. In this chapter, I review my past work on generators and I present a collection of personal opinions on the symptoms convincing me that there is room for improvement in the generators research community. Then I analyze the causes of these symptoms, some of which are inherent, while some others can be overcome. A major cause of difficulty is the inherent domain-specificity of generators that often makes research work be less valuable to other generator writers who are unfamiliar with the domain. I propose directions on what should be considered promising research for the community, what I believe are useful principles for generator design, and what community building measures we can take.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:TFP_iSt0sucC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Clash of the Lambdas",
+            "Publication year": 2014,
+            "Publication url": "https://arxiv.org/abs/1406.6631",
+            "Abstract": "The introduction of lambdas in Java 8 completes the slate of statically-typed, mainstream languages with both object-oriented and functional features. The main motivation for lambdas in Java has been to facilitate stream-based declarative APIs, and, therefore, easier parallelism. In this paper, we evaluate the performance impact of lambda abstraction employed in stream processing, for a variety of high-level languages that run on a virtual machine (C#, F#, Java and Scala) and runtime platforms (JVM on Linux and Windows, .NET CLR for Windows, Mono for Linux). Furthermore, we evaluate the performance gain that two optimizing libraries (ScalaBlitz and LinqOptimizer) can offer for C#, F# and Scala. Our study is based on small-scale throughput-benchmarking, with significant care to isolate different factors, consult experts on the systems involved, and identify causes and opportunities. We find that Java exhibits high implementation maturity, which is a dominant factor in benchmarks. At the same time, optimizing frameworks can be highly effective for common query patterns.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:AvfA0Oy_GE0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "High-level data structures: technical perspective",
+            "Publication year": 2012,
+            "Publication url": "https://dl.acm.org/doi/fullHtml/10.1145/2380656.2380676",
+            "Abstract": "It is a defining moment for many a CS student when they start thinking about data structures relationally; when maps, n-tuples, sets, and bags become more natural terms of discourse than lists, vectors, hash tables, and binary trees. I often see a student's eyes light up when realizing that what they need is, say, a mapping from some Xs to an unordered set of Ys, with the correctness of the rest of their program unaffected by whether this mapping is implemented by hash tables and lists, trees and vectors, or something else. This difference in thinking is crucial for programming projects with any amount of data structure complexity, from the real world all the way down to university coursework. In a compiler course project, for instance, the difference is striking. Students who manage to grasp the separation of relational and low-level thinking have no trouble adapting to complex requirements. Students who cannot escape \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:NJ774b8OgUMC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Generating AspectJ programs with meta-AspectJ",
+            "Publication year": 2004,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-540-30175-2_1",
+            "Abstract": "Meta-AspectJ (MAJ) is a language tool for generating AspectJ programs using code templates. MAJ itself is an extension of Java, so users can interleave arbitrary Java code with AspectJ code templates. MAJ is a structured meta-programming tool: a well-typed generator implies a syntactically correct generated program. MAJ promotes a methodology that combines aspect-oriented and generative programming. Potential applications range from implementing domain-specific languages with AspectJ as a back-end to enhancing AspectJ with more powerful general-purpose constructs. In addition to its practical value, MAJ offers valuable insights to meta-programming tool designers. It is a mature meta-programming tool for AspectJ (and, by extension, Java): a lot of emphasis has been placed on context-sensitive parsing and error-reporting. As a result, MAJ minimizes the number of meta-programming (quote \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:WF5omc3nYNoC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "A New Java Runtime for a Parallel World",
+            "Publication year": 2010,
+            "Publication url": "https://portal.research.lu.se/portal/en/publications/a-new-java-runtime-for-a-parallel-world(605ca7fc-ddc9-4460-a2df-48cd928bab58).html",
+            "Abstract": "Parallelism is here to stay. Unfortunately, today\u2019s mainstream programming languages (such as Java) are not designed for easy parallelisation. We thus propose to extend Java with primitives for parallel queries, using a radically redesigned Java runtime system.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:_axFR9aDTf0C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Mixin layers: an object-oriented implementation technique for refinements and collaboration-based designs",
+            "Publication year": 2002,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/505145.505148",
+            "Abstract": "A \"refinement\" is a functionality addition to a software project that can affect multiple dispersed implementation entities (functions, classes, etc.). In this paper, we examine large-scale refinements in terms of a fundamental object-oriented technique called collaboration-based design. We explain how collaborations can be expressed in existing programming languages or can be supported with new language constructs (which we have implemented as extensions to the Java language). We present a specific expression of large-scale refinements called mixin layers, and demonstrate how it overcomes the scalability difficulties that plagued prior work. We also show how we used mixin layers as the primary implementation technique for building an extensible Java compiler, JTS.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Performing Replacement in Modem Pools.",
+            "Publication year": 2000,
+            "Publication url": "https://www.usenix.org/legacy/events/usenix2000/general/full_papers/smaragdakis/smaragdakis.pdf",
+            "Abstract": "We examine a policy for managing modem pools that disconnects users only if not enough modems are available for other users to connect. Managing the modem pool then becomes a replacement problem, similar to buffer cache management (eg, in virtual memory systems). When a new connection request is received, the system needs to find a user to \u201creplace\u201d. In this paper we examine such demand-disconnect schemes using extensive activity data from actual ISPs. We discuss various replacement policies and propose CIRG: a novel replacement algorithm that is well suited for modem pools. In general, the choice of algorithm is significant. A naive algorithm (eg, one that randomly replaces any user who has been inactive for a while) incurs many tens of percent more \u201cfaults\u201d(ie, disconnections of users who are likely to want to be active again soon) than the LRU algorithm, which, in turn, incurs 10% more faults than CIRG. For good replacement algorithms, the impact can be significant in terms of resource requirements. We show that the same standards of service as a system that does not disconnect idle users can be achieved with up to 13% fewer modems.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:blknAaTinKkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Expressive and safe static reflection with MorphJ",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1379022.1375592",
+            "Abstract": "Recently, language extensions have been proposed for Java and C# to support pattern-based reflective declaration. These extensions introduce a disciplined form of meta-programming and aspect-oriented programming to mainstream languages: They allow members of a class (i.e., fields and methods) to be declared by statically iterating over and pattern-matching on members of other classes. Such techniques, however, have been unable to safely express simple, but common, idioms such as declaring getter and setter methods for fields.In this paper, we present a mechanism that addresses the lack of expressiveness in past work without sacrificing safety. Our technique is based on the idea of nested patterns that elaborate the outer-most pattern with blocking or enabling conditions. We implemented this mechanism in a language, MorphJ. We demonstrate the expressiveness of MorphJ with real-world \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:9Nmd_mFXekcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Pointer analysis (dagstuhl seminar 13162)",
+            "Publication year": 2013,
+            "Publication url": "https://drops.dagstuhl.de/opus/volltexte/2013/4169/",
+            "Abstract": "This report documents the program and the outcomes of Dagstuhl Seminar 13162``Pointer Analysis''. The seminar had 27 attendees, including both pointer analysis experts and researchers developing clients in need of better pointer analysis. The seminar came at a key point in time, with pointer analysis techniques acquiring sophistication but still being just beyond the edge of wide practical deployment. The seminar participants presented recent research results, and identified key open problems and future directions for the field. This report presents abstracts of the participants' talks and summaries of the breakout sessions from the seminar.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:VLnqNzywnoUC",
+            "Publisher": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik"
+        },
+        {
+            "Title": "Multiparadigm programming with object-oriented languages",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-36208-8_13",
+            "Abstract": "While OO has become ubiquitously employed for design, implementation, and even conceptualization, many practitioners recognize the concomitant need for other programming paradigms according to problem domain. Nevertheless, the choice of a programming paradigm is strongly influenced by the supporting programming language facilities. In turn, choice of programming language is usually a practical matter; one cannot generally afford to use a language not in the mainstream. We seek answers to the question of how to address the need for other programming paradigms in the general context of OO languages.Can OO programming languages effectively support other programming paradigms? The tentative answer seems to be affirmative, at least for some paradigms; for example, significant progress has been made for the case of (higher order, polymorphic) functional programming in C \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Tests and Proofs: First International Conference, TAP 2007, Zurich, Switzerland, February 12-13, 2007. Revised Papers",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18275969187726490729&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:DJbcl8HfkQkC",
+            "Publisher": "Springer-Verlag Berlin Heidelberg"
+        },
+        {
+            "Title": "Flexible reference trace reduction for VM simulations",
+            "Publication year": 2003,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/778553.778554",
+            "Abstract": "The unmanageably large size of reference traces has spurred the development of sophisticated trace reduction techniques. In this article we present two new algorithms for trace reduction: Safely Allowed Drop (SAD) and Optimal LRU Reduction (OLR). Both achieve high reduction factors and guarantee exact simulations for common replacement policies and for memories larger than a user-defined threshold. In particular, simulation on OLR-reduced traces is accurate for the LRU replacement algorithm, while simulation on SAD-reduced traces is accurate for the LRU and OPT algorithms. Both policies can easily be modified and extended to maintain timing information, thus allowing for exact simulation of the Working Set and VMIN policies. OLR also satisfies an optimality property: for a given original trace and chosen memory size, it produces the shortest possible reduced trace that has the same LRU behavior as \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "A principled approach to selective context sensitivity for pointer analysis",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3381915",
+            "Abstract": "Context sensitivity is an essential technique for ensuring high precision in static analyses. It has been observed that applying context sensitivity partially, only on a select subset of the methods, can improve the balance between analysis precision and speed. However, existing techniques are based on heuristics that do not provide much insight into what characterizes this method subset. In this work, we present a more principled approach for identifying precision-critical methods, based on general patterns of value flows that explain where most of the imprecision arises in context-insensitive pointer analysis. Using this theoretical foundation, we present an efficient algorithm, Zipper, to recognize these flow patterns in a given program and employ context sensitivity accordingly. We also present a variant, Zipper e, that additionally takes into account which methods are disproportionally costly to analyze with context \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:r_AWSJRzSzQC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "cJ: Enhancing Java with safe type conditions",
+            "Publication year": 2007,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1218563.1218584",
+            "Abstract": "cJ is an extension of Java that allows supertypes, fields, and methods of a class or interface to be provided only under some static subtyping condition. For instance, a cJ generic class, C, may provide a member method m only when the type provided for parameter P is a subtype of a specific type Q. From a practical standpoint, cJ adds to generic Java classes and interfaces the ability to express case-specific code. Unlike conditional compilation techniques (eg, the C/C++\"# ifdef\" construct) cJ is statically type safe and maintains the modular type-checking properties of Java generic classes: a cJ generic class can be checked independently of the code that uses it. Just like regular Java, checking a cJ class implies that all uses are safe, under the contract for type parameters specified in the class's signature. As a specific application, cJ addresses the well-known shortcomings of the Java Collections Framework (JCF \u2026, may provide a member method m only when the type provided for parameter P is a subtype of a specific type Q. From a practical standpoint, cJ adds to generic Java classes and interfaces the ability to express case-specific code. Unlike conditional compilation techniques (eg, the C/C++\"# ifdef\" construct) cJ is statically type safe and maintains the modular type-checking properties of Java generic classes: a cJ generic class can be checked independently of the code that uses it. Just like regular Java, checking a cJ class implies that all uses are safe, under the contract for type parameters specified in the class's signature. As a specific application, cJ addresses the well-known shortcomings of the Java Collections Framework (JCF \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Porting doop to souffl\u00e9: a tale of inter-engine portability for datalog-based analyses",
+            "Publication year": 2017,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3088515.3088522",
+            "Abstract": "We detail our experience of porting the static analysis framework to the recently introduced Datalog engine. The port addresses the idiosynchrasies of the Datalog dialects involved (wrt the type system, value construction, and fact updates) and differences in the runtime systems (wrt parallelism, transactional execution, and optimization methodologies). The overall porting effort is interesting in many ways: as an instance of the benefits of specifying static analyses declaratively, gaining benefits (eg, parallelism) from a mere porting to a new runtime system; as a study of the effort required to migrate a substantial Datalog codebase (of several thousand rules) to a different dialect. By exploiting shared-memory parallelism, the version of the framework achieves speedups of up to 4x, over already high single-threaded performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Ri6SYOTghG4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Foo: a minimal modern OO calculus",
+            "Publication year": 2015,
+            "Publication url": "http://www.softlab.ntua.gr/~gfour/files/foo-ftfjp15.pdf",
+            "Abstract": "We present the Flyweight Object-Oriented (FOO) calculus for the modeling of object-oriented languages. FOO is a simple, minimal class-based calculus, modeling only essential computational aspects and emphasizing larger-scale features (eg, inheritance and generics). FOO is motivated by the observation that recent language design work focuses on elements not well-captured either by traditional object calculi or by language-specific modeling efforts, such as Featherweight Java. FOO integrates seamlessly both nominal and structural subtyping ideas, leveraging the latter to eliminate the need for modeling object fields and constructors. Comparing to recent formalization efforts in the literature, FOO is more compact, yet versatile enough to be usable in multiple settings modeling Java, C#, or Scala extensions.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:e_rmSamDkqQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Multiparadigm programming with OO languages",
+            "Publication year": 2001,
+            "Publication url": "https://link.springer.com/chapter/10.1007/3-540-47853-1_10",
+            "Abstract": "While OO has become ubiquitous for design, implementation, and even conceptualization, many practitioners recognize the need for other programming paradigms, according to problem domain. We seek answers to the question of how to address the need for other programming paradigms in the general context of OO languages. Can OO programming languages effectively support other programming paradigms? The tentative answer seems to be affirmative, at least for some paradigms; for example, significant progress has been made for the case of functional programming in C++. Additionally, several efforts have been made to integrate support for other paradigms as a front-end for OO languages (the Pizza language, extending Java, is a prominent example). This workshop seeks to bring together practitioners and researchers in this developing field to \u2019compare notes\u2019 on their work-that is, to describe \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:bFI3QPDXJZMC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Hardening software against memory errors and attacks",
+            "Publication year": 2011,
+            "Publication url": "https://search.proquest.com/openview/3776899fe4633f237ed0674d1db23c63/1?pq-origsite=gscholar&cbl=18750",
+            "Abstract": "Programs written in C and C++ are susceptible to a number of memory errors, including buffer overflows and dangling pointers. At best, these errors cause crashes or performance degradation. At worst, they enable security vulnerabilities, allowing denial-of-service or remote code execution. Existing runtime systems provide little protection against these errors. They allow minor errors to cause crashes and allow attackers to consistently exploit vulnerabilities.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:9pM33mqn1YgC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Effectiveness of anonymization in double-blind review",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/fullHtml/10.1145/3208157",
+            "Abstract": "Assessing the effectiveness of anonymization in the review process.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:FAceZFleit8C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Article 1 (40 pages)-J-Orchestra: Enhancing Java Programs with Distribution Capabilities",
+            "Publication year": 2010,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18170097849473169458&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:Mojj43d5GZwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Expressive and safe static reflection with MorphJ",
+            "Publication year": 2008,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1379022.1375592",
+            "Abstract": "Recently, language extensions have been proposed for Java and C# to support pattern-based reflective declaration. These extensions introduce a disciplined form of meta-programming and aspect-oriented programming to mainstream languages: They allow members of a class (i.e., fields and methods) to be declared by statically iterating over and pattern-matching on members of other classes. Such techniques, however, have been unable to safely express simple, but common, idioms such as declaring getter and setter methods for fields.In this paper, we present a mechanism that addresses the lack of expressiveness in past work without sacrificing safety. Our technique is based on the idea of nested patterns that elaborate the outer-most pattern with blocking or enabling conditions. We implemented this mechanism in a language, MorphJ. We demonstrate the expressiveness of MorphJ with real-world \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:qxL8FJ1GzNcC",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Pick your contexts well: understanding object-sensitivity",
+            "Publication year": 2011,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1926385.1926390",
+            "Abstract": "Object-sensitivity has emerged as an excellent context abstraction for points-to analysis in object-oriented languages. Despite its practical success, however, object-sensitivity is poorly understood. For instance, for a context depth of 2 or higher, past scalable implementations deviate significantly from the original definition of an object-sensitive analysis. The reason is that the analysis has many degrees of freedom, relating to which context elements are picked at every method call and object creation. We offer a clean model for the analysis design space, and discuss a formal and informal understanding of object-sensitivity and of how to create good object-sensitive analyses. The results are surprising in their extent. We find that past implementations have made a sub-optimal choice of contexts, to the severe detriment of precision and performance. We define a\" full-object-sensitive\" analysis that results in significantly \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "XCJuXcgAAAAJ:qUcmZB5y_30C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Testing simultaneous similarity of matrices and related problems for matrix semigroups",
+            "Publication year": 2002,
+            "Publication url": "https://smartech.gatech.edu/handle/1853/6518",
+            "Abstract": "This paper studies the problem of testing simultaneous similarity of matrics and related problems about matrix semigroups.  Along with SIMULTANEOUS SIMILARITY this paper studies two problems:  NONSINGULAR NULLSPACE and Nonsingular BASIS COMBINATION.  These two problems are very similary to SIMULTANEOUS SIMILARITY and SIMULTANEOUS SIMILARITY is reducible to each of these two.  This paper also studies problems about matrix semigroups.  Among other results, it shows that (i) for any field MATRIX SEMIGROUP INTERSECTION is PSPAGE-complete, (ii) for any finite field MATRIX SEMIGROUP MEMBERSH, MATRIX SEMIGROUP EQUALITY, and MATRIX SEMIGROUP ISOMORPHISM are all PSPACE-comple, (iii) for each inverse matrix semigroup over a field of characteristics zero, MATRIX SEMIGROUP MEMBERSHIP is PSPACE-complete, and (iv) for any field, MATRIX APERIODICITY for inverse semigroups is PSPACE-complete.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:UHK10RUVsp4C",
+            "Publisher": "Georgia Institute of Technology"
+        },
+        {
+            "Title": "Mixin-Based Programming in C++",
+            "Publication year": 2000,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18068589056216254404&hl=en&oi=scholarr",
+            "Abstract": "Combinations of C++ features, like inheritance, templates, and class nesting, allow for the expression of powerful component patterns. In particular, research has demonstrated that, using C++ mixin classes, one can express layered component-based designs concisely with efficient implementations. In this paper, we discuss pragmatic issues related to component-based programming using C++ mixins. We explain surprising interactions of C++ features and policies that sometimes complicate mixin implementations, while other times enable additional functionality without extra effort.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:cWzG1nlazyYC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Syntax sugar for FC++: lambda, infix, monads, and more",
+            "Publication year": 2003,
+            "Publication url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4045&rep=rep1&type=pdf#page=19",
+            "Abstract": "We discuss the FC++ library, a library for functional programming in C++. We give an overview of the library\u2019s features, but focus on recent additions to the library. These additions include the design of our \u201clambda\u201d sublanguage, which we compare to other lambda libraries for C++. Our lambda sublanguage contains special syntax for programming with monads, which we also discuss in detail. Other recent additions which we discuss are \u201cinfix function syntax\u201d and \u201cfull functoids\u201d.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:isC4tDSrTZIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Tests and Proofs",
+            "Publication year": 2007,
+            "Publication url": "https://scholar.google.com/scholar?cluster=17775876596115762707&hl=en&oi=scholarr",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:anf4URPfarAC",
+            "Publisher": "Springer-Verlag Berlin Heidelberg"
+        },
+        {
+            "Title": "Scalability-first pointer analysis with self-tuning context-sensitivity",
+            "Publication year": 2018,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3236024.3236041",
+            "Abstract": "Context-sensitivity is important in pointer analysis to ensure high precision, but existing techniques suffer from unpredictable scalability. Many variants of context-sensitivity exist, and it is difficult to choose one that leads to reasonable analysis time and obtains high precision, without running the analysis multiple times.",
+            "Abstract entirety": 1,
+            "Author pub id": "XCJuXcgAAAAJ:9c2xU6iGI7YC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

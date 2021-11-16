@@ -1,0 +1,636 @@
+[{
+    "name": "\u03a7\u03c1\u03c5\u03c3\u03bf\u03b2\u03b1\u03bb\u03ac\u03bd\u03c4\u03b7\u03c2 \u039a\u03b1\u03b2\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd\u03cc\u03c2 ",
+    "romanize name": "Chrysovalantis Kavousianos ",
+    "School-Department": "\u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2",
+    "University": "uoi",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 1320,
+    "Scholar name": "Xrysovalantis Kavousianos",
+    "Scholar id": "GpEoeCUAAAAJ",
+    "Affiliation": "University of Ioannina",
+    "Citedby": 1131,
+    "Scholar url": "https://scholar.google.com/citations?user=GpEoeCUAAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Defect coverage-driven window-based test compression",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5692237/",
+            "Abstract": "Although LFSR reseeding based on test cubes for modeled faults is an efficient test compression approach, it suffers from the drawback of limited, and often unpredictable, coverage of unmodeled defects. We present a new defect coverage-driven window-based LFSR reseeding technique, which offers both high test quality and high compression. The efficiency of the proposed encoding technique in detecting defects is boosted by an efficient \u201coutput deviations\u201d metric for grading the calculated LFSR seeds. We show that, compared to standard compression-driven LFSR reseeding, higher defect coverage is obtained without any loss of compression.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:HDshCWvjkbEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Timing error detection and correction by time dilation",
+            "Publication year": 2008,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-3-642-12267-5_15",
+            "Abstract": "Timing failures in high complexity - high frequency integrated circuits, which are mainly caused by test escapes and environmental as well as operating conditions, are a real concern in nanometer technologies. The Time Dilation design technique supports both on-line (concurrent) error detection/correction and off-line scan testing. It is based on a new scan Flip-Flop and provides multiple error detection and correction at the minimum penalty of one clock cycle delay at the normal circuit operation for each error correction. No extra memory elements are required, like in earlier design approaches in the open literature, reducing drastically the silicon area overhead, while the performance degradation is negligible since no extra circuitry is inserted in the critical paths of a design.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Springer, Berlin, Heidelberg"
+        },
+        {
+            "Title": "Signature analysis for testing, diagnosis, and repair of multi-mode power switches",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5957916/",
+            "Abstract": "Power-gating structures for intermediate power-off modes offer significant power saving benefits as they reduce the leakage power during short periods of inactivity. However, reliable operation of such devices must be ensured by using adequate test methods. We propose a signature analysis technique to efficiently test power-gating structures that provide intermediate power-off modes. In particular, the proposed technique can be used to test and diagnose an efficient multi-mode power-gating architecture that was proposed recently. In addition, we propose a methodology to repair catastrophic and parametric faults, and to tolerate process variations. Analysis and extensive simulations demonstrate the effectiveness of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The time dilation technique for timing error tolerance",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6374611/",
+            "Abstract": "Timing error tolerance is of great importance in nanometer technology integrated circuits. In this paper, the Time Dilation design technique is proposed that provides concurrent error detection and correction in the field of application and also supports off-line manufacturing scan testing. By utilizing a new scan Flip-Flop, the Time Dilation technique is capable to detect and correct multiple errors at the minimum penalty of one clock cycle delay. The silicon area overhead and the power consumption are substantially reduced, as compared to the Razor design approach, since no additional memory elements are required. At the same time, the proposed technique introduces only negligible performance degradation since no extra circuitry is inserted in the critical paths of a design.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:hFOr9nPyWt4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multilevel-Huffman test-data compression for IP cores with multiple scan chains",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4539810/",
+            "Abstract": "Various compression methods have been proposed for tackling the problem of increasing test-data volume of contemporary, core-based systems. Despite their effectiveness, most of the approaches that are based on classical codes (e.g., run-lengths, Huffman) cannot exploit the test-application-time advantage of multiple-scan-chain cores, since they are not able to perform parallel decompression of the encoded data. In this paper, we take advantage of the inherent parallelism of Huffman decoding and we present a generalized multilevel Huffman-based compression approach that is suitable for cores with multiple scan chains. The size of the encoded data blocks is independent of the slice size (i.e., the number of scan chains), and thus it can be adjusted so as to maximize the compression ratio. At the same time, the parallel data-block decoding ensures the exploitation of most of the scan chains' parallelism. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Recent advances in single-and multi-site test optimization for DVS-based SoCs",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6850675/",
+            "Abstract": "Dynamic voltage scaling (DVS) combined with the partitioning of the System-on-Chip (SoC) into multiple voltage islands constitutes a powerful dynamic-power minimization technique. However, the sharing of the test-access mechanisms (TAMs) among different voltage islands, the necessity to test every core at multiple voltage levels and the low shift-frequency limits at the lower voltage levels introduce new test challenges and dramatically increase testing time. In this paper, we unfold challenges related to scheduling tests for DVS-based SoCs, and we describe recent advances for minimizing the test time, especially in multi-site-test environments.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low power built-in self-test schemes for array and booth multipliers",
+            "Publication year": 2001,
+            "Publication url": "https://www.hindawi.com/archive/2001/067893/abs/",
+            "Abstract": "Recent trends in IC technology have given rise to a new requirement, that of low power dissipation during testing, that Built-In Self-Test (BIST) structures must target along with the traditional requirements. To this end, by exploiting the inherent properties of Carry Save, Carry Propagate and modified Booth multipliers, in this paper we propose new power-efficient BIST structures for them. The proposed BIST schemes are derived by: (a) properly assigning the Test Pattern Generator (TPG) outputs to the multiplier inputs, (b) modifying the TPG circuits and (c) reducing the test set length. Our results indicate that the total power dissipated during testing can be reduced from 29.3% to 54.9%, while the average power per test vector applied can be reduced from 5.8% to 36.5% and the peak power dissipation can be reduced from 15.5% to 50.2% depending on the implementation of the basic cells and the size of the multiplier. The test application time is also significantly reduced, while the introduced BIST schemes implementation area is small.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:O3NaXMp0MMsC",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Fault-independent test-generation for software-based self-testing",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8689052/",
+            "Abstract": "Software-based self-test (SBST) is being widely used in both manufacturing and in-the-field testing of processor-based devices and systems-on-chips. Unfortunately, the stuck-at fault model is increasingly inadequate to match the new and different types of defects in the most recent semiconductor technologies, while the explicit and separate targeting of every fault model in SBST is cumbersome due to the high complexity of the test-generation process, the lack of automation tools, and the high CPU-intensity of the fault-simulation process. Moreover, defects in advanced semiconductor technologies are not always covered by the most commonly used fault-models, and the probability of defect-escapes increases even more. To overcome these shortcomings, we propose the first fault-independent method for generating SBST procedures. The proposed method is almost fully automated, it offers high coverage of non \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:35N4QoGY0k4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "DV-TSE: Difference Vector Based Test Set Embedding.",
+            "Publication year": 2003,
+            "Publication url": "http://www.cs.uoi.gr/~kabousia/pdf/Papers/Bellos_IFIP_03.pdf",
+            "Abstract": "In this paper we present a new test set embedding method for test-per-clock BIST schemes. The method works efficiently with fully specified as well as partially specified test sets and requires a number of clock cycles equal to the size of the test set. The resulting test pattern generation mechanism (TPG) compares favourably in terms of area implementation and test application time to already known approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:iH-uZ7U-co4C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "The time dilation scan architecture for timing error detection and correction",
+            "Publication year": 2008,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.520.5879&rep=rep1&type=pdf",
+            "Abstract": "Timing failures of high complexity-high frequency circuit designs, which are mainly caused by test escapes and environmental as well as operating conditions, are a real concern in nanometer technologies. In this work, the Time Dilation (TimeD) scan architecture is proposed, which is suitable for both concurrent error detection/correction and off-line testing. The TimeD architecture offers concurrent multiple error detection and correction at the small penalty of one clock cycle delay at the normal circuit operation for each error correction. Moreover, it has lower silicon area requirements compared to previous techniques, and it imposes negligible overhead on the circuit performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:_kc_bZDykSQC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A ROMless LFSR reseeding scheme for scan-based BIST",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1181712/",
+            "Abstract": "In this paper, we present a new LFSR reseeding scheme for scan-based BIST, suitable for circuits with random-pattern-resistant faults. The proposed scheme eliminates the need of a ROM for storing the seeds since the reseedings are performed dynamically by inverting some selected bits of the LFSR register. A time-to-market efficient algorithm is also presented for selecting the reseeding points in the test sequence, as well as a proper seed at each point. This algorithm targets complete fault coverage and minimization of the resulting test length and hardware overhead. Experimental results on ISCAS '85 and ISCAS '89 benchmark circuits demonstrate the advantages of this new LFSR reseeding approach in terms of area overhead and test application time.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:4TOpqqG69KYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Two-dimensional time-division multiplexing for 3D-SoCs",
+            "Publication year": 2016,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7519312/",
+            "Abstract": "Through-silicon vias (TSVs) are used as high-speed interconnects between dies in a 3D System-on-Chip (SoC). However, their speed cannot be utilized during test application due to inherent limitations of the scan chains of the cores, which prevent the use of high shift frequencies. Moreover, due to their high area cost, only a limited number of TSVs can be used for test application. As a result, the time needed for transferring test data to the cores in multiple dies can be considerable. We propose an efficient test-access mechanism (TAM) architecture, which exploits the high speed of TSVs to minimize the time for testing 3D SoCs. By the means of time-division multiplexing and an effective test scheduling method, the proposed TAM architecture offers significant savings in test time, TSV count and TAM cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:e5wmG9Sq2KIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Test-data volume and scan-power reduction with low ATE interface for multi-core SoCs",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6105413/",
+            "Abstract": "Symbol-based and linear-based test-data compression techniques have complementary properties which are very attractive for testing multi-core SoCs. However, only linear-based techniques have been adopted by industry as the symbol-based techniques have not yet revealed their real potential for testing large circuits. We present a novel compression method and a low-cost decompression architecture that combine the advantages of both symbol-based and linear-based techniques under a unified solution for multi-core SoCs. The proposed method offers higher compression than any other method presented so far, very low shift switching activity and very short test sequence length at the same time. Moreover, contrary to existing techniques, it offers a complete solution for testing multi-core SoCs as it is suitable for cores of both known and unknown structure (IP cores) that usually co-exist in modern SoCs. Finally \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:4DMP91E08xMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "New reseeding technique for LFSR-based test pattern generation",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/937823/",
+            "Abstract": "Presents a new reseeding technique for LFSR-based test pattern generation suitable for circuits with random-pattern resistant faults. Our technique eliminates the need of a ROM for storing the seeds since the LFSR jumps from a state to the required state (seed) by inverting the logic value of some of the bits of its next state. An efficient algorithm for selecting reseeding points is also presented, which targets complete fault coverage and minimization of the cardinality of the test set and the hardware required for the implementation of the test pattern generator. The application of the proposed technique to ISCAS '85 and the combinational part of ISCAS '89 benchmark circuits shows its superiority against the already known reseeding techniques with respect to the length of the test sequence and, in the majority of cases, the hardware required for their implementation.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:WF5omc3nYNoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Single and variable-state-skip LFSRs: bridging the gap between test data compression and test set embedding for IP cores",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5580216/",
+            "Abstract": "Even though test set embedding (TSE) methods offer very high compression efficiency, their excessively long test application times prohibit their use for testing systems-on-chip (SoC). To alleviate this problem we present two new types of linear feedback shift registers (LFSRs), the Single-State-Skip and the Variable-State-Skip LFSRs. Both are normal LFSRs with the addition of the State-Skip circuit, which is used instead of the characteristic-polynomial feedback structure for performing successive jumps of constant and variable length in their state sequence. By using Single-State-Skip LFSRs for testing single or multiple identical cores and Variable-State-Skip LFSRs for testing multiple non-identical cores we get the well-known high compression efficiency of TSE with substantially reduced test sequences, thus bridging the gap between test data compression and TSE methods.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:zYLM7Y9cAGgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "High-quality statistical test compression with narrow ATE interface",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6582565/",
+            "Abstract": "In this paper, we present a novel compression method and a low-cost decompression architecture that combine the advantages of both symbol-based and linear-based techniques and offer a very attractive unified solution that removes the barriers of existing test data compression techniques. Besides the traditional goals of high compression and short test application time, the proposed method also offers low shift switching activity and high unmodeled defect coverage at the same time. In addition, it favors multi-site testing as requires a very low pin-count interface to the automatic test equipment. Finally, contrary to existing techniques, it provides an integrated solution for testing multi-core system on chips (SoCs) as it is suitable for cores of both known and unknown structures that usually coexist in SoCs.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:0EnyYjriUFMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multilevel Huffman coding: An efficient test-data compression method for IP cores",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4167987/",
+            "Abstract": "A new test-data compression method suitable for cores of unknown structure is introduced in this paper. The proposed method encodes the test data provided by the core vendor using a new, very effective compression scheme based on multilevel Huffman coding. Each Huffman codeword corresponds to three different kinds of information, and thus, significant compression improvements compared to the already known techniques are achieved. A simple architecture is proposed for decoding the compressed data on chip. Its hardware overhead is very low and comparable to that of the most efficient methods in the literature. Moreover, the major part of the decompressor can be shared among different cores, which reduces the hardware overhead of the proposed architecture considerably. Additionally, the proposed technique offers increased probability of detection of unmodeled faults since the majority of the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Testing 3D-SoCs using 2-D time-division multiplexing",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8141915/",
+            "Abstract": "Through-silicon vias (TSVs) are used as high-speed vertical interconnects between dies in a 3-D system-on-a-chip (SoC). However, their speed cannot be exploited during test application due to inherent limitations of the scan-chains of the cores, which prevent the use of high shift frequencies during the scan-in/out operations. Moreover, due to their high area cost, only a limited number of TSVs can be utilized for test application. As a result, TSVs become the bottleneck for transferring the large volume of test-data to the various layers of the stack, and the time for testing the 3-D chip increases a lot. In this paper, we propose an efficient test-access mechanism (TAM) architecture that exploits the high speed of TSVs to minimize the time for testing 3-D SoCs. The proposed TAM architecture is based on a 2-D time-division-multiplexing approach, and by the means of a very effective test-scheduling method, it offers \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:vV6vV6tmYwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Generation of compact test sets with high defect coverage",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5090833/",
+            "Abstract": "Multi-detect (N-detect) testing suffers from the drawback that its test length grows linearly with N. We present a new method to generate compact test sets that provide high defect coverage. The proposed technique makes judicious use of a new pattern-quality metric based on the concept of output deviations. We select the most effective patterns from a large N-detect pattern repository, and guarantee a small test set as well as complete stuck-at coverage. Simulation results for benchmark circuits show that with a compact, 1-detect stuck-at test set, the proposed method provides considerably higher transition-fault coverage and coverage ramp-up compared to another recently-published method. Moreover, in all cases, the proposed method either outperforms or is as effective as the competing approach in terms of bridging-fault coverage and the surrogate BCE+ metric. In many cases, higher transition-fault coverage is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:Se3iqnhoufwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Test scheduling for multicore SoCs with dynamic voltage scaling and multiple voltage islands",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6114510/",
+            "Abstract": "In order to provide high performance with low power consumption, modern multicore chips employ dynamic voltage scaling and voltage islands that operate at multiple power-supply voltage settings. Effective defect screening for the embedded cores in such multicore chips requires test application at their different operating voltages, which leads to higher test time and test cost. We propose a fast heuristic test scheduling technique for multicore chips that minimize the testing time when each core is tested at multiple voltage settings as well as if it is tested for state retention when the core switches between two voltage levels. Experimental results for two test-case SOCs from industry highlight the effectiveness of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Virtual-scan: a novel approach for software-based self-testing of microprocessors",
+            "Publication year": 2003,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1206240/",
+            "Abstract": "A systematic methodology for generating software-based self-tests for microprocessor cores is introduced in this paper. The produced software tests emulate the functionality of a scan path design, and can be applied during the normal-operation mode of the microprocessor, thus enabling at-speed testing. A major advantage of the proposed approach lies in the fact that the generation of the software tests does not require any knowledge about the low-level implementation of the microprocessor and is only based on its RT-level description and its instruction set architecture.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient multiphase test set embedding for scan-based testing",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1613175/",
+            "Abstract": "In this paper, a new test set embedding method with re-seeding for scan-based testing is proposed. The bit sequences of multiple cells of an LFSR, which is used as test pattern generator, are exploited for effectively encoding the test set of the core under test (multiphase architecture). A new algorithm which comprises four heuristic criteria is introduced for efficiently selecting the required seeds and LFSR cells. Also, a cost metric for assessing the quality of the algorithm's results is proposed. By using this metric, the process of determining proper values for the algorithm's input parameters is significantly simplified. The proposed method compares favorably with the most recent and effective test set embedding techniques in the literature",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A branch-&-bound algorithm for TAM optimization in multi-Vdd SoCs",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7138746/",
+            "Abstract": "In this paper, we present the first TAM optimization technique for multi-V dd  SoCs. The proposed method exploits unique scheduling opportunities and flexibility offered by TDM, and by the means of a very efficient Branch-&-Bound approach it quickly identifies the most effective TAM configurations. Experiments upon an industrial SoC highlight the benefits of the proposed technique on multi-V dd  designs.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An efficient test set embedding scheme with reduced test data storage and test sequence length requirements for scan-based testing",
+            "Publication year": 2005,
+            "Publication url": "https://www.cs.uoi.gr/wp-content/uploads/publications/TR-26-2005.pdf",
+            "Abstract": "In this paper we present an efficient seed-selection algorithm for reducing the test data storage requirements of scan-based, test set embedding schemes with reseeding. Moreover, a technique for reducing the length of the generated test sequences is introduced. This technique achieves significant savings with minor overhead (one extra bit per seed plus a small counter in the scheme\u2019s control logic). Experimental results demonstrate the advantages of the proposed algorithm and the test sequence reduction technique.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:3fE2CSJIrl8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An efficient test vector ordering method for low power testing",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1339559/",
+            "Abstract": "This paper presents a novel test vector ordering method for average power consumption minimization. The proposed method orders the test vectors taking into account the expected switching activity at the primary inputs and at a very small set of internal lines of the circuit under test. The computational time required by the proposed method is very small while the power reduction achieved is very close to the best, with respect to power reduction, most time-consuming method. Experimental results show that apart from average power reduction, the proposed method achieves significant peak power reduction too.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:8k81kl-MbHgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Placement and Routing in Computer Aided Design of Standard Cell Arrays by Exploiting the Structure of the Interconnection Graph",
+            "Publication year": 2008,
+            "Publication url": "http://olympias.lib.uoi.gr/jspui/handle/123456789/10980",
+            "Abstract": "Repository of UOI \"Olympias\": Placement and Routing in Computer Aided Design of \nStandard Cell Arrays by Exploiting the Structure of the Interconnection Graph Skip \nnavigation Home Browse Communities & Collections Browse Items by: Issue Date Author \nTitle Subject Item Type Advanced Search Help About DSpace Sign on to: My DSpace \nReceive email updates Edit Profile Saved Searches Favorites Repository of UOI \"Olympias\" \n1.Repository of OAI 2.\u0391\u03a0\u039f\u0398\u0395\u03a4\u0397\u03a1\u0399\u039f \"\u039f\u039b\u03a5\u039c\u03a0\u0399\u0391\u03a3\" 3.\u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd 4.\u03a4\u03bc\u03ae\u03bc\u03b1 \n\u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 5.\u0386\u03c1\u03b8\u03c1\u03b1 \u03c3\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ac \n\u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03ac ( \u0391\u03bd\u03bf\u03b9\u03ba\u03c4\u03ac) \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac English Please use this identifier to cite or link to this item: \nhttps://olympias.lib.uoi.gr/jspui/handle/123456789/10980 Institution and School/Department \nof submitter: \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd. \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd. \u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \n\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 URI: :/\u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:J_g5lzvAfSwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "An efficient seeds selection method for LFSR-based test-per-clock BIST",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/996747/",
+            "Abstract": "Built-in self-test (BIST) is an effective approach for testing large and complex circuits. When BIST is used, a test pattern generator (TPG), a test response verifier and a BIST controller accompany the circuit under test (CUT) in the chip, creating a self-testable circuit. In this paper we propose a new algorithm for seeds selection in LFSR (linear feedback shift register) based test-per-clock BIST. The proposed algorithm uses the well-known concept of solving systems of linear equations and, based on heuristics, minimizes the number of seeds and test vectors while achieving 100% fault coverage. Experimental results indicate that it compares favorably to the other known techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Test data compression based on variable-to-variable Huffman encoding with codeword reusability",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4544866/",
+            "Abstract": "A new statistical test data compression method that is suitable for IP cores of an unknown structure with multiple scan chains is proposed in this paper. Huffman, which is a well-known fixed-to-variable code, is used in this paper as a variable-to-variable code. The precomputed test set of a core is partitioned into variable-length blocks, which are, then, compressed by an efficient Huffman-based encoding procedure with a limited number of codewords. To increase the compression ratio, the same codeword can be reused for encoding compatible blocks of different sizes. Further compression improvements can be achieved by using two very simple test set transformations. A simple and low-overhead decompression architecture is also proposed.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A new built-in TPG method for circuits with random pattern resistant faults",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1013898/",
+            "Abstract": "The partition of the inputs of a circuit under test (CUT) into groups of compatible inputs reduces the size of a test pattern generator and the length of the test sequence for built-in self-test (BIST) applications. In this paper, a new test-per-clock BIST scheme is proposed which is based on multiple input partitions. The test session consists of two or more phases, and a new grouping is applied during each test phase. Using the proposed method a CUT can be tested at-speed and complete fault coverage (100%) is achieved with a small number of test vectors and small area overhead. Our experiments show that the proposed technique compares favorably to the already known techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient test-data compression for IP cores using multilevel Huffman coding",
+            "Publication year": 2006,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1657043/",
+            "Abstract": "In this paper we introduce a new test-data compression method for IP cores with unknown structure. The proposed method encodes the test data provided by the core vendor using a new, very effective compression scheme based on multilevel Huffman coding. Specifically, three different kinds of information are compressed using the same Huffman code, and thus significant test data reductions are achieved. A simple architecture is proposed for decoding on-chip the compressed data. Its hardware overhead is very low and comparable to that of the most efficient methods in the literature. Additionally, the proposed technique offers increased probability of detection of unmodeled faults since the majority of the unknown values of the test set are replaced by pseudorandom data generated by an LFSR.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:Zph67rFs4hoC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Self-freeze linear decompressors for low power testing",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5571809/",
+            "Abstract": "Even though linear decompressors constitute a very effective solution for compressing test data, they cause increased shift power dissipation during scan testing. Recently, a new linear decompression architecture was proposed which offers reduced shift power at the expense however of increased test data volume and test sequence length. In this paper we present a new linear encoding method which offers both high compression and low shift power dissipation at the same time. A new low-cost, test-set-independent scheme is also proposed which can be combined with any linear decompressor for reducing the shift power during testing. Extensive experiments show that the proposed method offers reduced test power dissipation, test sequence length and test data volume at the same time, with very small area requirements.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:TQgYirikUcIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A robust and reconfigurable multi-mode power gating architecture",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5718815/",
+            "Abstract": "Multi-threshold CMOS is a very effective technique for reducing standby leakage power during long periods of inactivity. Recently, a power-gating scheme was presented to support multiple power-off modes and reduce the leakage power during short periods of inactivity. However, this scheme suffers from high sensitivity to process variations, which impedes manufacturability and also limits its applicability to at most two intermediate power-off modes. We propose a new power-gating technique that is tolerant to process variations and scalable to more than two intermediate power-off modes. In addition, the proposed design requires minimum design effort and offers greater power reduction and smaller area cost than the previous method. Analysis and extensive simulation results demonstrate the effectiveness of the proposed design.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:LkGwnXOMwfcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Static power reduction using variation-tolerant and reconfigurable multi-mode power switches",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6484194/",
+            "Abstract": "Multithreshold CMOS is very effective for reducing standby leakage power during long periods of inactivity. Recently, a power-gating scheme was presented to support multiple power-off modes and reduce the leakage power during short periods of inactivity. However, this scheme can suffer from high sensitivity to process variations, which impedes manufacturability. We propose a new power-gating technique that is tolerant to process variations and scalable to more than two intermediate power-off modes. The proposed design requires less design effort and offers greater power reduction and smaller area cost than the previous method. In addition, it can be combined with existing techniques to offer further static power reduction benefits. Analysis and extensive simulation results demonstrate the effectiveness of the proposed design.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:eQOLeE2rZwMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Generation of compact stuck-at test sets targeting unmodeled defects",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5752435/",
+            "Abstract": "This letter presents a new method to generate compact stuck-at test sets that offer high defect coverage. The proposed method first selects the most effective patterns from a large  N -detect repository, by using a new output deviation-based metric. Then it embeds complete coverage of stuck-at faults within these patterns, and uses the proposed metric to further improve their defect coverage. Results show that the proposed method outperforms a recently proposed competing approach in terms of unmodeled defect coverage. In many cases, higher defect coverage is obtained even than much larger  N -detect test sets for several values of  N . Finally, results provide the insight that, instead of using  N -detect testing with as large  N  as possible, it is more efficient to combine the output deviations metric with multi-detect testing to get high-quality, compact test sets.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:dhFuZR0502QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Time-division multiplexing for testing SoCs with DVS and multiple voltage islands",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6233019/",
+            "Abstract": "Dynamic voltage scaling (DVS) has been widely adopted in multicore SoCs for reducing dynamic power consumption. Despite its benefits, the use of DVS increases test time because high product quality can only be ensured by testing every core at multiple supported voltage settings; hence the repetitive application of the same or different tests at multiple voltage settings becomes necessary. In addition, testing at lower supply voltage settings increases considerably the length of each test because lower scan frequencies must be used for shifting test data using scan chains. Standard scheduling techniques fail to reduce the test time for DVS-based SoCs since they do not model testing at multiple voltage settings. In addition, they do not consider the practical aspects of tester overhead and the dependencies between core voltage settings due to the use of voltage islands. To alleviate the detrimental impact of DVS on \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Time-division multiplexing for testing DVFS-based SoCs",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7017550/",
+            "Abstract": "Dynamic voltage-frequency scaling (DVFS) is used in system-on-chips (SoCs) for power management, but it increases test time because every core must be tested at multiple voltage settings. In addition, testing at lower power supply voltage settings increases the length of each test due to the corresponding reduction in frequencies that can be used for scan shift operations. Existing test scheduling techniques do not consider test applications at multiple voltage settings, therefore they are not effective for reducing test time for DVFS-based SoCs. We propose a time-division multiplexing (TDM) architecture, which uses the highest available frequency for shifting test data into the SoC and then distributes the test data into multiple cores using lower shift frequencies. TDM is accompanied by three test scheduling methods, which are suitable for different scenarios: 1) an integer linear programming-based formulation that \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "LFSR-based test-data compression with self-stoppable seeds",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5090897/",
+            "Abstract": "The main disadvantage of LFSR-based compression is that it should be usually combined with a constrained ATPG process, and, as a result, it cannot be effectively applied to IP cores of unknown structure. In this paper, a new LFSR-based compression approach that overcomes this problem is proposed. The proposed method allows each LFSR seed to encode as many slices as possible. For achieving this, a special purpose slice, called stop-slice, that indicates the end of a seed's usage is encoded as the last slice of each seed. Thus, the seeds include by construction the information of where they should stop and, for that reason, we call them self-stoppable. A stop-slice generation procedure is proposed that exploits the inherent test set characteristics and generates stop slices which impose minimum compression overhead. Moreover, the architecture for implementing the proposed technique requires negligible \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Branch-&-Bound Test-Access-Mechanism Optimization Method for Multi-  SoCs",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7842604/",
+            "Abstract": "The use of multiple voltage levels introduces new challenges for testing multi-V dd  systems-on-chip (SoCs). Timedivision-multiplexing (TDM) tackles many of these challenges and offers very effective test-schedules. However, the effectiveness of TDM for minimizing test time depends on the test-access-mechanism (TAM) in the SoC. Single-V dd  TAM optimization techniques consider neither the highly constrained test environment of multi-V dd  SoCs nor the benefits provided by TDM, therefore they are not suitable for multi-V dd  SoCs. In this paper, we propose the first TAM optimization technique for multi-V dd  SoCs. The proposed method exploits unique scheduling opportunities and flexibility offered by TDM, and by the means of a branch-&-bound approach, it quickly identifies the most effective TAM configurations. Experiments using large benchmark SoCs as well as SoCs from industry highlight the benefits of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:blknAaTinKkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Power aware test-data compression for scan-based testing",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4633432/",
+            "Abstract": "In this paper a new approach that targets the reduction of both the test-data volume and the scan-power dissipation during testing of a digital system's cores is proposed. For achieving the two aforementioned goals, a novel algorithm that inserts some inverters in the scan chain(s) of the core under test (CUT) is presented. However, no performance or area penalty is imposed on the CUT since, instead of additional inverters, the negated outputs of the scan flip-flops can be utilized. The proposed algorithm targets the maximization of run-lengths of zeros (or ones) in the test set accompanying the CUT. This algorithm combined with the Minimum Transition Count mapping of don't cares in a test set as well as with the alternating run-length code that have been recently proposed, achieves better test-data compression and reduced scan-power results than the relative works in the literature.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Built-in self-test, diagnosis, and repair of multimode power switches",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6856311/",
+            "Abstract": "Recently proposed power-gating structures for intermediate power-off modes offer significant power saving benefits as they reduce the leakage power during short periods of inactivity. Even though they are very effective for reducing static power consumption, their reliable operation can be compromised by process variations and manufacturing defects. In this paper, we propose a signature analysis technique to efficiently test power-gating structures that provide intermediate power-off modes. Based on this technique, a methodology to repair catastrophic and parametric faults, and to tolerate process variations is presented. For testing and repairing multimode power switches, we propose a robust built-in self-test and built-in self-repair scheme that reduces test cost and obviates additional manufacturing steps for post-silicon repair. Simulation results highlight the low-cost and effectiveness of the proposed method for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:7PzlFSSx8tAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On-the-fly reseeding: A new reseeding technique for test-per-clock BIST",
+            "Publication year": 2002,
+            "Publication url": "https://link.springer.com/article/10.1023/A:1015039323168",
+            "Abstract": "In this paper we present a new reseeding technique for test-per-clock test pattern generation suitable for at-speed testing of circuits with random-pattern resistant faults. Our technique eliminates the need of a ROM for storing the seeds since the reseeding is performed on-the-fly by inverting the logic value of some of the bits of the next state of the Test Pattern Generator (TPG). The proposed reseeding technique is generic and can be applied to TPGs based on both Linear Feedback Shift Registers (LFSRs) and accumulators. An efficient algorithm for selecting reseeding points is also presented, which targets complete fault coverage and allows to well exploiting the trade-off between hardware overhead and test length. Using experimental results we show that the proposed method compares favorably to the other already known techniques with respect to test length and the hardware implementation cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:W7OEmFMy1HYC",
+            "Publisher": "Kluwer Academic Publishers"
+        },
+        {
+            "Title": "Optimal selective Huffman coding for test-data compression",
+            "Publication year": 2007,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4264327/",
+            "Abstract": "Selective Huffman coding has recently been proposed for efficient test- data compression with low hardware overhead. In this paper, we show that the already proposed encoding scheme is not optimal and we present a new one, proving that it is optimal. Moreover, we compare the two encodings theoretically and we derive a set of conditions which show that, in practical cases, the proposed encoding always offers better compression. In terms of hardware overhead, the new scheme is at least as low-demanding as the old one. The increased compression efficiency, the resulting test-time savings, and the low hardware overhead of the proposed method are also verified experimentally.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:u5HHmVD_uO8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Defect aware x-filling for low-power scan testing",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5456928/",
+            "Abstract": "Various X-filling methods have been proposed for reducing the shift and/or capture power in scan testing. The main drawback of these methods is that X-filling for low power leads to lower defect coverage than random-fill. We propose a unified low-power and defect-aware X-filling method for scan testing. The proposed method reduces shift power under constraints on the peak power during response capture, and the power reduction is comparable to that for the Fill-Adjacent X-filling method. At the same time, this approach provides high defect coverage, which approaches and in many cases is higher than that for random-fill, without increasing the pattern count. The advantages of the proposed method are demonstrated with simulation results for the largest ISCAS and the IWLS benchmark circuits.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient partial scan cell gating for low-power scan-based testing",
+            "Publication year": 2009,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/1497561.1497571",
+            "Abstract": "Gating of the outputs of a portion of the scan cells (partial gating) has been recently proposed as a method for reducing the dynamic power dissipation during scan-based testing. We present a new systematic method for selecting, under area and performance design constraints, the most suitable for gating subset of scan cells as well as the proper gating value for each one of them, aiming at the reduction of the average switching activity during testing. We show that the proposed method outperforms the corresponding already known methods, with respect to average dynamic power dissipation reduction.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:IjCSPb-OGe4C",
+            "Publisher": "ACM"
+        },
+        {
+            "Title": "Placement and Routing in Computer Aided Design of Standard Cell Arrays by Exploiting the Structure of the Interconnection Graph",
+            "Publication year": 2008,
+            "Publication url": "https://www.tandfonline.com/doi/abs/10.3722/cadaps.2008.325-337",
+            "Abstract": "Standard cell placement and routing is an important open problem in current CAD VLSI research. We present a novel approach to placement and routing in standard cell arrays inspired by geometric constraint usage in traditional CAD systems. Placement is performed by an algorithm that places the standard cells in a spiral topology around the center of the cell array driven by a DFS on the interconnection graph. We provide an improvement of this technique by first detecting dense graphs in the interconnection graph and then placing cells that belong to denser graphs closer to the center of the spiral. By doing so we reduce the wirelength required for routing. Routing is performed by a variation of the maze algorithm enhanced by a set of heuristics that have been tuned to maximize performance. Finally we present a visualization tool and an experimental performance evaluation of our approach.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:-f6ydRqryjwC",
+            "Publisher": "Taylor & Francis"
+        },
+        {
+            "Title": "On accumulator-based bit-serial test response compaction schemes",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/915255/",
+            "Abstract": "The data paths of most contemporary general and special purpose processors include registers, adders and other arithmetic circuits. If these circuits are also used for built-in self-test, the extra area required for embedding testing structures can be cut down efficiently. Several schemes based on accumulators, subtracters, multipliers and shift, resisters have been proposed and analyzed in the past for parallel test response compaction, whereas some efforts have also been devoted in the bit-serial response compaction case. In this paper, we analyse and evaluate the bit-serial version of a recently proposed scheme for parallel test response compaction. Experimental results on the ISCAS'85 benchmark circuits indicate that the post-compaction fault coverage drop attained by the new scheme is significantly lower than other already known accumulator-based compaction schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:qUcmZB5y_30C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "The Time Dilation Technique for Timing Error Tolerance",
+            "Publication year": 2012,
+            "Publication url": "http://olympias.lib.uoi.gr/jspui/handle/123456789/11091",
+            "Abstract": "Repository of UOI \"Olympias\": The Time Dilation Technique for Timing Error Tolerance Skip \nnavigation Home Browse Communities & Collections Browse Items by: Issue Date Author Title \nSubject Item Type Advanced Search Help About DSpace Sign on to: My DSpace Receive email \nupdates Edit Profile Saved Searches Favorites Repository of UOI \"Olympias\" 1.Repository of OAI \n2.\u0391\u03a0\u039f\u0398\u0395\u03a4\u0397\u03a1\u0399\u039f \"\u039f\u039b\u03a5\u039c\u03a0\u0399\u0391\u03a3\" 3.\u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd 4.\u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \n\u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 5.\u0386\u03c1\u03b8\u03c1\u03b1 \u03c3\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03ac \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03ac ( \u0391\u03bd\u03bf\u03b9\u03ba\u03c4\u03ac) \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac English \nPlease use this identifier to cite or link to this item: \nhttps://olympias.lib.uoi.gr/jspui/handle/123456789/11091 Institution and School/Department of \nsubmitter: \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd. \u03a3\u03c7\u03bf\u03bb\u03ae \u0398\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03ce\u03bd. \u03a4\u03bc\u03ae\u03bc\u03b1 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03ce\u03bd \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \n\u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 Keywords: Error Detection and Correction,B Hardware,B.6 Logic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Test response compaction by an accumulator behaving as a multiple input non-linear feedback shift register",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/894277/",
+            "Abstract": "In this paper we show that an accumulator can be modified to behave as a Non-Linear Feedback Shift Register suitable for test response compaction. The hardware required for this modification is less than that required to modify a register to a Multiple Input Linear Feedback Shift Register, MISR. We show with experiments on ISCAS'85, ISCAS'89 benchmark circuits and various types of multipliers that the post-compaction fault coverage obtained by the proposed scheme is higher than that of the already known accumulator based compaction schemes and in most cases identical to that achieved using a MISR.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "K3 TAM Optimization for Testing 3D-SoCs using Non-Regular Time-Division-Multiplexing",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8791520/",
+            "Abstract": "Two-dimensional time-division-multiplexing (2DTDM) was recently proposed to minimize both the time for testing 3D Systems-on-Chips (SoCs) and the number of through-silicon-vias (TSVs). Even though 2D-TDM exploits the short vertical interconnections to transfer very fast the test-data to the various layers of the stack, the bus-based test-access-mechanism (TAM) at each layer imposes excessive routing overhead and long intra-die delays that compromise the test-time benefits, especially when the stack layers are unbalanced in terms of test-times. In this paper, we propose a new TDM-based TAM architecture for 3D SoCs, which supports non-regular division of the frequency among the various layers of the stack using very short daisy-chain intra-die connections. The proposed 3D TAM architecture is optimized by the means of the K3 design-automation process that combines the Kruskal algorithm, the Complete \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:ldfaerwXgEUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A BIST scheme for testing and repair of multi-mode power switches",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5993821/",
+            "Abstract": "It was shown recently that signature analysis can be used for the test, diagnosis and repair of a robust multi-mode power-gating architecture. A drawback of this approach is that it requires a tester in a production-test environment, and potentially expensive manufacturing steps are necessary to repair defective power switches. We propose a built-in self-test (BIST) and built-in-self-repair (BISR) scheme for test and repair of multi-mode power switches. The proposed method reduces test cost and obviates additional manufacturing steps for post-silicon repair. In addition to eliminating the need for an external tester, it offers protection against latent defects that are manifested as errors in the field. In this way, the robust BIST/BISR solution for power switches enhances the reliability of multi-core chips that employ aggressive power management techniques. Simulation results highlight the low hardware overhead and \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:ZeXyd9-uunAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Low power test-compression for high test-quality and low test-data volume",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6114512/",
+            "Abstract": "Test data decompressors targeting low power scan testing introduce significant amount of correlation in the test data and thus they tend to adversely affect the coverage of unmodeled defects. In addition, low power decompression needs additional control data which increase the overall volume of test data to be encoded and inevitably increase the volume of compressed test data. In this paper we show that both these deficiencies can be efficiently tackled by a novel pseudorandom scheme and a novel encoding method. The proposed scheme can be combined with existing low power decompressors to increase unmodeled defect coverage and almost totally eliminate control data. Extensive experiments using ISCAS and IWLS benchmark circuits show the effectiveness of the proposed method when it is combined with state-of-the-art decompressors.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:L8Ckcad2t8MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "State skip LFSRs: Bridging the gap between test data compression and test set embedding for IP cores",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4484726/",
+            "Abstract": "We present a new type of linear feedback shift registers, state skip LFSRs. state skip LFSRs are normal LFSRs with the addition of a small linear circuit, the State Skip circuit, which can be used, instead of the characteristic-polynomial feedback structure, for advancing the state of the LFSR. In such a case, the LFSR performs successive jumps of constant length in its state sequence, since the State Skip circuit omits a predetermined number of states by calculating directly the state after them. By using State Skip LFSRs we get the well- known high compression efficiency of test set embedding with substantially reduced test sequences, since the useless parts of the test sequences are dramatically shortened by traversing them in state skip mode. The length of the shortened test sequences approaches that of test data compression methods. A systematic method for minimizing the test sequences of re- seeding-based test \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:ufrVoPGSRksC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Testing for SoCs with advanced static and dynamic power-management capabilities",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6513604/",
+            "Abstract": "Many multicore chips today employ advanced power management techniques. Multi-threshold CMOS (MTCMOS) is very effective for reducing standby leakage power. Dynamic voltage scaling and voltage islands which operate at multiple power-supply voltage levels, minimize dynamic power consumption. Effective defect screening for such chips requires advanced test techniques that target defects in the embedded cores and the power management structures. We describe recent advances in test generation and test scheduling techniques for SoCs that support power switches, voltage islands, and dynamic voltage scaling schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:Wp0gIr-vW9MC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Highly Regular Multi-Phase Reseeding Technique for Scan-based BIST",
+            "Publication year": 2003,
+            "Publication url": "https://scholar.google.com/scholar?cluster=18013411278163866947&hl=en&oi=scholarr",
+            "Abstract": "In this paper a novel reseeding architecture for scan-based BIST, which uses an LFSR as TPG, is proposed. Multiple cells of the LFSR are utilized as sources for feeding the scan chain in different test phases. The LFSR generates the same state sequence in all phases, keeping that way the implementation cost low. Also, a dynamic reseeding scheme is adopted for further reducing the required hardware overhead. A seed-selection algorithm is moreover presented that, taking advantage of the multi-phase architecture, manages to reduce the number of the required seeds for achieving complete (100%) fault coverage. Experimental results demonstrate the superiority of the proposed LFSR reseeding approach over the already known reseeding techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:ZHo1McVdvXMC",
+            "Publisher": "ACM Press"
+        },
+        {
+            "Title": "A Parallel Multilevel-Huffman Decompression Scheme for IP Cores with Multiple Scan Chains",
+            "Publication year": 2006,
+            "Publication url": "http://www.cse.uoi.gr/~kabousia/pdf/Papers/Kavousianos_ETS_06.pdf",
+            "Abstract": "Various efficient compression methods have been proposed for tackling the problem of increased test-data volume of contemporary, core-based Systems-on-Chip (SoCs). However, many of them cannot exploit the test-application-time advantage that cores with multiple scan chains offer, since they are not able to perform parallel decompression of the encoded data. For eliminating this problem, we present a new, low-overhead decompression scheme that can generate clusters of test bits in parallel. The test data are encoded using a recently proposed and very effective compression method called multilevel Huffman. Thus, apart from the significantly reduced test-application times, the proposed approach offers high compression ratios, as well as increased probability of detection of unmodeled faults, since the majority of the unspecified bits of the test sets are replaced by pseudorandom data. The time/space advantages of the proposed approach are validated by thorough experiments.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:RHpTSmoSYBkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Low power testing by test vector ordering with vector repetition",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1283674/",
+            "Abstract": "Test vector ordering with vector repetition has been presented as a method to reduce the average as well as the peak power dissipation of a circuit during testing. Based on this method, in this paper we present some techniques that can be used to further reduce the average power dissipation. Experimental results validate that the proposed techniques achieve considerable savings in energy and average power dissipation while reducing the length of the resulting test sequences compared to the original method.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "On the design of self-testing checkers for modified Berger codes",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/937835/",
+            "Abstract": "One of several approaches for designing highly-reliable systems relies on using error detecting codes (EDCs) and implementing digital circuits as self-checking. One class of EDCs that has been very often used to implement self-checking circuits are Berger codes. Although several self-testing checkers (STCs) for Berger codes have been proposed in the past, they mostly present area and delay results based on gate counts and gate levels and not on real implementations. In this work we consider real implementations and present and evaluate the area, delay and power characteristics of STCs for modified Berger codes that are based on: (a) parallel counters and (b) sorting networks. Preliminary results indicate that STCs based on parallel counters are smaller and consume less power than the STCs based on sorting networks.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:Tyk-4Ss8FVUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multiphase BIST: A new reseeding technique for high test-data compression",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1336953/",
+            "Abstract": "In this paper, a new reseeding architecture for scan-based built-in self-test (BIST), which uses a linear feedback shift register (LFSR) as test pattern generator, is proposed. Multiple cells of the LFSR are utilized as sources for feeding the scan chain of the circuit under test in different test phases. The LFSR generates the same state sequence in all phases, keeping that way the implementation cost low. A seed-selection algorithm is furthermore presented that, taking advantage of the multiphase architecture, manages to significantly reduce the number of the required seeds for achieving complete (100%) fault coverage. The proposed technique can be used either in a full BIST implementation or in a test-resource partitioning scenario, since the test-data storage requirements on the tester are very low. When a full BIST implementation is preferable, the multiphase architecture can also be combined with a dynamic \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Self-Freeze Linear Decompressors: Test Pattern Generators for Low Power Scan Testing",
+            "Publication year": 2011,
+            "Publication url": "https://link.springer.com/chapter/10.1007/978-94-007-1488-5_13",
+            "Abstract": "Even though linear decompressors constitute a very effective solution for compressing test data, they cause increased shift power dissipation during scan testing. Recently, new linear decompression architectures were proposed which offer reduced shift power at the expense however of increased test data volume and test sequence length. This chapter presents a linear encoding method which offers both high compression and low shift power dissipation at the same time. A low-cost, test-set-independent scheme is also described which can be combined with any linear decompressor for reducing the shift power during testing. Extensive experiments show that the new method offers reduced test power dissipation, test sequence length and test data volume at the same time, with very small area requirements.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:j3f4tGmQtD8C",
+            "Publisher": "Springer, Dordrecht"
+        },
+        {
+            "Title": "Test-access-mechanism optimization for multi-Vdd SoCs",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7342420/",
+            "Abstract": "The use of multiple voltage levels introduces new challenges for testing Multi-V dd  SoCs. Time-Division-Multiplexing (TDM) tackles many of these challenges and offers very effective test-schedules. However, the effectiveness of TDM for minimizing test time depends on the Test-Access-Mechanism (TAM) in the SoC. Single-V dd  TAM optimization techniques consider neither the highly constrained test environment of multi-V dd  SoCs nor the benefits provided by TDM, therefore they are not suitable for multi-V dd  SoCs. In this paper, we propose the first TAM optimization technique for multi-V dd  SoCs. The proposed method exploits unique scheduling opportunities and flexibility offered by TDM, and by the means of a Branch-&-Bound approach, it quickly identifies the most effective TAM configurations. Experiments using SoCs from industry highlight the benefits of the proposed technique on multi-V dd  designs, for \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Critical path\u2014Oriented & thermal aware X-filling for high un-modeled defect coverage",
+            "Publication year": 2017,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7927067/",
+            "Abstract": "The thermal activity during testing can be considerably reduced by applying power-oriented filling of the unspecified bits of test vectors. However, traditional power-oriented X-fill methods do not correlate the thermal activity with delay failures, and they consume all the unspecified bits to reduce the power dissipation at every region of the core. Therefore, they adversely affect the un-modeled defect coverage of the generated test vectors. The proposed method identifies the unspecified bits that are more critical for delay failures, and it fills them in such a way as to create a thermal-safe neighborhood around the most critical regions of the core. For the rest of the unspecified bits a probabilistic model based on output deviations is adopted to increase the un-modeled defect coverage of the test vectors.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:hMod-77fHWUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Multi-site test optimization for multi-Vdd SoCs using space- and time- division multiplexing",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6800342/",
+            "Abstract": "Even though system-on-chip (SoC) testing at multiple voltage settings significantly increases test complexity, the use of a different shift frequency at each voltage setting offers parallelism that can be exploited by time-division multiplexing (TDM) to reduce test length. We show that TDM is especially effective for small-bitwidth and heavily loaded test-access mechanisms (TAMs), thereby tangibly increasing the effectiveness of multi-site testing. However, TDM suffers from some inherent limitations that do not allow the fullest possible exploitation of TAM bandwidth. To overcome these limitations, we propose space-division multiplexing (SDM), which complements TDM and offers higher multi-site test efficiency. We implement space-and time-division multiplexing (STDM) using a new, scalable test-time minimization method based on a combination of bin packing and simulated annealing. Results for industrial SoCs \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "GpEoeCUAAAAJ:QIV2ME_5wuYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A highly regular multi-phase reseeding technique for scan-based BIST",
+            "Publication year": 2003,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/764808.764885",
+            "Abstract": "In this paper a novel reseeding architecture for scan-based BIST, which uses an LFSR as TPG, is proposed. Multiple cells of the LFSR are utilized as sources for feeding the scan chain in different test phases. The LFSR generates the same state sequence in all phases, keeping that way the implementation cost low. Also, a dynamic reseeding scheme is adopted for further reducing the required hardware overhead. A seed-selection algorithm is moreover presented that, taking advantage of the multi-phase architecture, manages to reduce the number of the required seeds for achieving complete (100%) fault coverage. Experimental results demonstrate the superiority of the proposed LFSR reseeding approach over the already known reseeding techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:4JMBOYKVnBMC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "A novel reseeding technique for accumulator-based test pattern generation",
+            "Publication year": 2001,
+            "Publication url": "https://dl.acm.org/doi/pdf/10.1145/368122.368145",
+            "Abstract": "In this paper we present a novel reseeding technique for accumulator-based Test Pattern Generation suitable for circuits with hard-to-detect faults. Storing the seeds is not necessary since the seeds are generated on-the-fly by inverting the logic value of some of the bits of the accumulator's register. The proposed technique achieves complete fault coverage with shorter test sequences and requires less hardware for its implementation than the corresponding already-known techniques. Furthermore, our technique does not affect the system performance since the logic required for its implementation is not inserted in the critical path.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:mB3voiENLucC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Defect-oriented LFSR reseeding to target unmodeled defects using stuck-at test sets",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5613231/",
+            "Abstract": "Defect screening is a major challenge for nanoscale CMOS circuits, especially since many defects cannot be accurately modeled using known fault models. The effectiveness of test methods for such circuits can therefore be measured in terms of the coverage obtained for unmodeled faults. In this paper, we present a new defect-oriented dynamic LFSR reseeding technique for test-data compression. The proposed technique is based on a new output-deviation metric for grading stuck-at patterns derived from LFSR seeds. We show that, compared to standard compression-driven dynamic LFSR reseeding and a previously proposed deviation-based method, higher defect coverage is obtained using stuck-at test cubes without any loss of compression.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Test schedule optimization for multicore SoCs: Handling dynamic voltage scaling and multiple voltage islands",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6331646/",
+            "Abstract": "In order to provide high performance with low power consumption, many multicore chips employ dynamic voltage scaling and voltage islands that operate at multiple power-supply voltage levels. Effective defect screening for such chips requires test applications at different operating voltages, which leads to higher test time and test cost compared to systems-on-a-chip (SoCs), which operate at only a single voltage level. We propose test scheduling techniques to minimize the testing time for multicore chips when each core is tested at multiple voltage levels and when it is tested for state retention when the core switches between two voltage levels. The proposed techniques include exact optimization based on integer linear programming and fast heuristic methods. Experimental results for two test-case SoCs from the industry highlight the effectiveness of the proposed method.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Reseeding-based test set embedding with reduced test sequences",
+            "Publication year": 2005,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/1410588/",
+            "Abstract": "A novel technique for reducing the test sequences of reseeding-based schemes is presented in this paper. The proposed technique is generic and can be applied to test set embedding or mixed-mode schemes based on various TPG. The imposed hardware overhead is very small since it is confined to just one extra bit per seed plus one very small counter in the scheme's control logic, while the test-sequence-length reductions achieved are up to 44.71%. Along with the test-sequence-reduction technique, an efficient seed-selection algorithm for the test-per-clock, LFSR-based, test set embedding case is presented. The proposed algorithm targets the minimization of the selected seed volumes and, combined with the test-sequence-reduction technique, delivers results with fewer seeds and much smaller test sequences than the already proposed approaches.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Novel single and double output TSC CMOS checkers for m-out-of-n codes",
+            "Publication year": 2000,
+            "Publication url": "https://www.hindawi.com/archive/2000/089292/abs/",
+            "Abstract": "This paper presents a novel method for designing Totally Self-Checking (TSC) m-out-of-n code checkers taking into account a realistic fault model including stuck-at, transistor stuck-on, transistor stuck-open, resistive bridging faults and breaks. The proposed design method is the first method in the open literature that takes into account a realistic fault model and can be applied for most practical values of m and n. Apart from the above the proposed checkers are very compact and very fast. The single output checkers are near optimal with respect to the number of transistors required for their implementation. Another benefit of the proposed TSC checkers is that all faults are tested by a very small set of single pattern tests, thus the probability of achieving the TSC goal is greater than in checkers requiring two-pattern tests. The single output TSC checkers proposed in this paper are the first known single output TSC checkers for m-out-of-n codes.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:r0BpntZqJG4C",
+            "Publisher": "Hindawi"
+        },
+        {
+            "Title": "Shrinking the Application Time of Test Set Embedding by Using Variable-State Skip LFSRs",
+            "Publication year": 2008,
+            "Publication url": "http://cs.uoi.gr/~tenentes/papers/tenentes_ets08.pdf",
+            "Abstract": "It is well-known that the high compression efficiency of test set embedding is compromised by its long test application times. To alleviate this problem we present a sophisticated version of the recently proposed State Skip LFSRs, the Variable-State Skip (VSS) LFSRs. By using VSS LFSR successive jumps of variable lengths can be performed in the state sequence of the LFSRs and thus the useless parts of the test sequences can be effectively skipped. A low-overhead decompression architecture, that overcomes the limitations of simple State Skip LFSRs, is also proposed. The combination of VSS LFSRs with the proposed architecture offers the very small test-data volumes of test set embedding, with drastically shortened test sequences. Also, in a multi-core environment where a common decompressor is used, maximum test-sequence-length reduction can be achieved for every individual IP core that is tested.",
+            "Abstract entirety": 1,
+            "Author pub id": "GpEoeCUAAAAJ:ns9cj8rnVeAC",
+            "Publisher": "Unknown"
+        }
+    ]
+}]

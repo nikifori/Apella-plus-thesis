@@ -1,0 +1,654 @@
+[{
+    "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2-\u038c\u03b8\u03c9\u03bd \u0393\u03bb\u03b5\u03bd\u03c4\u03ae\u03c2",
+    "romanize name": "Georgios-Othon Glentis",
+    "School-Department": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03a4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ce\u03bd",
+    "University": "uop",
+    "Rank": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2",
+    "Apella_id": 9433,
+    "Scholar name": "George Glentis",
+    "Scholar id": "xPq5hU0AAAAJ",
+    "Affiliation": "Unknown affiliation",
+    "Citedby": 1419,
+    "Scholar url": "https://scholar.google.com/citations?user=xPq5hU0AAAAJ&hl=en",
+    "Publications": [
+        {
+            "Title": "Pipelined architectures for the LMS adaptive Volterra filter",
+            "Publication year": 2006,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPP1-0064-0050",
+            "Abstract": "In this paper, efficient pipelined architectures for Least Mean Square (LMS) adaptive filtering and system identification of discrete-time Volterra models is presented. First, the multichannel embedding is adopted for the transformation of the discrete-time Volterra model to an equivalent multi-input single output format. Then, the LMS algorithm with delayed coefficients adaptation is applied, for the identification of the model parameters. The adaptation delay introduced in the computational flow of the adaptive scheme, allows for a pipelined implementation, however, the convergence and tracking properties of the algorithm are affected. Proper correction terms are subsequently introduced that compensate the adaptation delay and give results identical to the original LMS algorithm, subject to a latency delay.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:maZDTaKrznsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance analysis of the frequency domain LMS adaptive filter using the sliding DFT",
+            "Publication year": 2002,
+            "Publication url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.417.1530&rep=rep1&type=pdf",
+            "Abstract": "In this paper the performance of the Frequency Domain LMS adaptive lter is investigated, for the case when the Sliding Discrete Fourier Transform is utilized for the frequency domain data transformation. A statistical performance analysis in terms of the mean, and the mean squared error of the lter parameters is presented. The convergence speed of the algorithm is analyzed in terms of the eigenvalue spread of the input signal autocorrelation matrix. The theoretical analysis results are veri ed by computer simulations.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:-f6ydRqryjwC",
+            "Publisher": "Poznan, Poland: Institute of Computing Science, Technical University of Poznan, 1990-"
+        },
+        {
+            "Title": "An efficient implementation of the memory improved proportionate affine projection algorithm",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168415002042",
+            "Abstract": "In this paper, an efficient implementation of the Memory Improved Proportionate Affine Projection Algorithm (MIPAPA) is developed, for the adaptive identification of linear in parameters\u2019 systems. The proposed algorithm offers an exact implementation of the MIPAPA scheme, while maintaining the computational burden at an affordable level. The performance of the proposed approach is illustrated by means of computer simulation, in the context of adaptive identification of sparse systems. Moreover, it is shown that the proposed algorithm can be applied for the efficient estimation of the communication channel in the transmission over optical fiber links using intensity modulated direct detection ON/OFF signaling.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:zA6iFVUQeVQC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Non-parametric high-resolution SAR imaging",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6375852/",
+            "Abstract": "The development of high-resolution two-dimensional spectral estimation techniques is of notable interest in synthetic aperture radar (SAR) imaging. Typically, data-independent techniques are exploited to form the SAR images, although such approaches will suffer from limited resolution and high sidelobe levels. Recent work on data-adaptive approaches have shown that both the iterative adaptive approach (IAA) and the sparse learning via iterative minimization (SLIM) algorithm offer excellent performance with high-resolution and low side lobe levels for both complete and incomplete data sets. Regrettably, both algorithms are computationally intensive if applied directly to the phase history data to form the SAR images. To help alleviate this, efficient implementations have also been proposed. In this paper, we further this work, proposing yet further improved implementation strategies, including approaches using \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:Y0pCki6q_DkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast missing-data IAA by low rank completion",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6638860/",
+            "Abstract": "The adaptive spectral estimation method IAA provides better performance than the periodogram at the cost of higher computational complexity. Current fast IAA algorithms reduce the computational complexity using Toeplitz/Vandermonde structures, but are not efficient for missing data cases when the number of missing samples is small. We considerably reduce the computational complexity compared to the state-of-the-art by using a low rank completion to transform the problem to a Toeplitz/Vandermonde structured problem.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:_FxGoFyzp5QC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive identification of sparse systems using the slim approach",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6952231/",
+            "Abstract": "In this paper, a novel time recursive implementation of the Sparse Learning via Iterative Minimization (SLIM) algorithm is proposed, in the context of adaptive system identification. The proposed scheme exhibits fast convergence and tracking ability at an affordable computational cost. Numerical simulations illustrate the achieved performance gain in comparison to other existing adaptive sparse system identification techniques.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:4JMBOYKVnBMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A fast affine projection algorithm for 2D filtering and linear prediction",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/958260/",
+            "Abstract": "A two-dimensional (2D) fast affine projection algorithm (FAPA) is presented for 2D adaptive filtering and linear prediction. The derivation of the proposed algorithm is based on the spatial shift invariant properties that 2D discrete time signals possess. The proposed algorithm has low computational complexity, comparable to that of the 2D LMS algorithm. The convergence speed and tracking ability of the proposed scheme are comparable to those of the higher complexity 2D RLS algorithms.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:IWHjjKOFINEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Test and measurement assisted leak vibration signal analysis for leakages in metallic pipelines",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3437120.3437309",
+            "Abstract": "The detection and localization of a possible leak on a pipe network is a problem under heavy scrutiny by the process engineering departments of the oil and gas treating corporations due to the significant accompanying implications in terms of environmental and financial impact, health hazards etc. As a result, a series of solutions has been proposed spanning from early research derived proposals to final commercial products. Among the methods proposed or adopted over the years, the techniques based on the Time Difference of Arrival (TDOA) estimation for ascertaining the existence and location of a fault signal with non or less intrusive means have attracted significant interest due to their simplicity in terms of formulation and their promising results, especially in the case of the Cross-Correlation (CC) based approaches. In this paper an account of a testing and measuring campaign is presented, regarding the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:TlpoogIpr_IC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Performance assessment of correlation methods for the velocity estimation of vibro-acoustic signals propagating in fluid-filled pipelines",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9493410/",
+            "Abstract": "In this paper, an assessment of an assortment of cross-correlation based methods for the estimation of the velocity of propagation of vibro-acoustic waves along fluid-filled metallic pipelines is presented. All methods are studied under the premise of utilization in a Time-Difference-Of-Arrival (TDOA) approach for the signal\u2019s speed estimation, that leverages the expected time delay in the signal\u2019s pickup by consecutively installed sensors, due to the travel time spent as the acoustic signal spreads along the examined pipeline. Two popular, frequency domain cross-correlators are investigated, namely the Phase Transform (PHAT) and the Hassab-Boucher (HB), along with the baseline time domain cross-correlation algorithm. An inventory of acoustic data - captured by a vibration monitoring rig during a series of leak signal data gathering experiments, conducted on an existing pipeline installation - is utilized for the \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:JTqpx9DYBaYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FRLS complex Decision Feedback adaptive channel equalizer using real valued arithmetic",
+            "Publication year": 2004,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7079962/",
+            "Abstract": "This paper considers the implementation of a Fast Recursive Least Squares, complex adaptive Decision Feedback channel equalizer, using real valued arithmetic. An efficient adaptive scheme is established based on novel three-terms recursions for the time updating of the pertinent parameters, resulting in significant computational savings. The proposed algorithm is implemented using real valued arithmetic only, whilst reducing the number of the required real valued multiplication operations by 23%, at the expense of a marginal 1.5% increase in the number of the real valued additions.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:NMxIlDl6LWMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Clustering Based Sequence Equalizer in Direct Detection DQPSK optical signaling",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7193300/",
+            "Abstract": "In this paper, a Clustering Based Sequence Equalizer is proposed in the context of Intensity Modulated Direct Detection optical communications links operating at 40Gb/s using Differential Quadrature Phase-Shift Keying signaling. The equalizer provides an attractive implementation of the Maximum Likelihood Sequence Estimation, comprising of two successive steps, namely a) nonparametric estimation of the channel response using a cluster based approach and b) sequence estimation using the Viterbi algorithm. The performance of the cluster based sequence equalizer is investigated my means of computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:4OULZ7Gr8RgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Cost-effective adaptive optical network technologies for Metropolitan Area Networks",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6876568/",
+            "Abstract": "Improving the performance of electronic and optoelectronic components and systems has enabled the investigation of transmitting optical channels with data rates greater than 40 Gb/s. However, for transporting high capacity channels on demand over long distances, considerable signal processing is necessary, with current emphasis being on digital techniques. Meanwhile in the context of optical networks where spectrally adjacent channels may have crossed different routes to interconnect the same source destination nodes, adaptive transmission systems become vital. This paper will study adaptive optical and electronic network technologies that enable transmission of high capacity channels with emphasis to the interplay between realistic performance, feasibility and complexity/cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:hC7cP41nSMkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient Implementation of the IAA-based magnitude squared coherence estimator",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6004942/",
+            "Abstract": "Recently, a novel Magnitude Squared Coherence (MSC) estimator was proposed using the Iterative Adaptive Approach (IAA) algorithm. In this paper, we present a computationally efficient implementation of this estimator, exploiting the inherently low displacement rank of the necessary products of Toeplitz-like matrices, thereby allowing for the development of appropriate Gohberg-Semencul (GS) representations of these matrices. Together with relevant data dependent trigonometric polynomials, the presented implementation offers a substantial computational reduction as compared to earlier implementations. Numerical simulations along with theoretical complexity estimations illustrate the performance of the proposed algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:KxtntwgDAa4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Performance evaluation of the clustering based sequence equalizer in direct detection optical communication links",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7511978/",
+            "Abstract": "In this paper the performance of the Clustering Based Sequence Equalizer is investigated in the context of Intensity Modulated Direct Detection optical communications links operating at 10Gb/s, when non-return to zero on-off keyed and optical differential encoded phase shift keyed transmission is employed. The aforementioned equalizer provides an attractive implementation of the Maximum Likelihood Sequence Estimation, comprising of two successive steps, namely a) nonparametric estimation of the channel response using a cluster based approach and b) sequence estimation using the Viterbi algorithm. The performance of the cluster based equalizer in fiber links is investigated my means of computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:yD5IFk8b50cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Time-recursive IAA spectral estimation",
+            "Publication year": 2010,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5665753/",
+            "Abstract": "This letter presents computationally efficient time-updating algorithms of the recent Iterative Adaptive Approach (IAA) spectral estimation technique. By exploiting the inherently low displacement rank, together with the development of suitable Gohberg-Semencul (GS) representations, and the use of data dependent trigonometric polynomials, the proposed time-recursive IAA algorithm offers a reduction of the necessary computational complexity with at least one order of magnitude. The resulting complexity can also be reduced further by allowing for approximate solutions. Numerical simulations together with theoretical complexity measures illustrate the achieved performance gain.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:9yKSN-GCB0IC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient implementation of iterative adaptive approach spectral estimation techniques",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5753952/",
+            "Abstract": "This paper presents computationally efficient implementations for several recent algorithms based on the iterative adaptive approach (IAA) for uniformly sampled one- and two-dimensional data sets, considering both the complete data case, and the cases when the data sets are missing samples, either lacking arbitrary locations, or having gaps or periodically reoccurring gaps. By exploiting the method's inherent low displacement rank, together with the development of suitable Gohberg-Semencul representations, and the use of data dependent trigonometric polynomials, the proposed implementations are shown to offer a reduction of the necessary computational complexity by at least one order of magnitude. Numerical simulations together with theoretical complexity measures illustrate the achieved performance gain.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:d1gkVwhDpl0C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Block-recursive IAA-based spectral estimates with missing samples using data interpolation",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6853616/",
+            "Abstract": "In this work, we examine a computationally efficient block-updating scheme for estimating the spectral content of signals with missing samples. The work is an extension of our recent single-sample data interpolation updating of the Iterative Adaptive Approach (IAA), being reformulated to incorporate blocks of samples. The proposed implementation offers a substantial complexity reduction as compared to earlier presented updating schemes, without sacrificing the quality of the resulting spectral estimates more than marginally (if at all).",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:RHpTSmoSYBkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Computationally efficient IAA-based estimation of the fundamental frequency",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6334068/",
+            "Abstract": "Optimal linearly constrained minimum variance (LCMV) filtering methods have recently been applied to fundamental frequency estimation. Like many other fundamental frequency estimators, these methods are constructed using an estimate of the inverse data covariance matrix. The required matrix inverse is typically formed using the sample covariance matrix via data partitioning, although this is well-known to adversely affect the spectral resolution. In this paper, we propose a fast implementation of a novel optimal filtering method that utilizes the LCMV principle in conjunction with the iterative adaptive approach (IAA). The IAA formulation enables an accurate covariance matrix estimate from a single snapshot, i.e., without data partitioning, but the improvement comes at a notable computational cost. Exploiting the estimator's inherently low displacement rank of the necessary products of Toeplitz-like matrices, we \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:5nxA0vEk-isC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient selection of time domain features for leakage detection in pipes carrying liquid commodities",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9459811/",
+            "Abstract": "In this paper, a classification approach is proposed for the leakage detection in pipes carrying liquid commodities in the pipeline network of an oil refinery. Leak detection is treated as a binary classification task. Time domain features are computed from acoustic signal measurements using accelerometers mounted on the surface of the pipes. An efficient feature selection procedure is applied, combining correlation feature analysis and feature ranking. The root mean squared power and the zero crossing rate of the signals are shown to be the most discriminative among a set of candidate time domain features, which are subsequently used by a k-th nearest neighbor classifier, allowing for successful leakage detection at an affordable computational cost. The performance of the proposed scheme is evaluated using real measurements from oil refinery pipeline systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:wvYxNZNCP7wC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A Pipelined Fast Newton Transversal Filter",
+            "Publication year": 2002,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7072088/",
+            "Abstract": "In this paper a Pipelined Fast Newton Transversal Filter, (PFNTF), is presented for adaptive filtering and system identification. First, adaptation delay is introduced that allows for pipelining of the adaptive filter. Proper correction terms are subsequently utilized that compensate for the adaptation delay and provide results identical to the original FNTF algorithm, subject to an output delay. The performance of the proposed pipelined scheme is illustrated by computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:TFP_iSt0sucC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast implementation of sar imaging using sparse ml methods",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6810423/",
+            "Abstract": "High-resolution sparse spectral estimation techniques have recently been shown to offer significant performance gains as compared to most conventional estimation approaches, although such methods typically suffer the drawback of being computationally cumbersome. In this paper, we seek to alleviate this drawback somewhat, examining computationally efficient implementations of the recent iterative sparse maximum likelihood-based approaches (SMLA), exploiting the inherent rich structure of these estimators. The derived implementations reduce the resulting computational complexity with at least one order of magnitude, while still yielding exact implementations. The effectiveness of the discussed techniques are illustrated using experimental examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:mVmsd5A6BfQC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Preconditioned conjugate gradient IAA spectral estimation",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7073846/",
+            "Abstract": "In this paper, we develop superfast approximative algorithms for the computationally efficient implementation of the recent Iterative Adaptive Approach (IAA) spectral estimate. The proposed methods are based on rewriting the IAA algorithm using suitable Gohberg-Semencul representations, solving the resulting linear systems of equations using the preconditioned conjugate gradient method, where a novel preconditioning is applied using an incomplete factorization of the Toeplitz matrix. Numerical simulations illustrate the efficiency of the proposed algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:9ZlFYXVOiuMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast LCMV-based methods for fundamental frequency estimation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6502740/",
+            "Abstract": "Recently, optimal linearly constrained minimum variance (LCMV) filtering methods have been applied to fundamental frequency estimation. Such estimators often yield preferable performance but suffer from being computationally cumbersome as the resulting cost functions are multimodal with narrow peaks and require matrix inversions for each point in the search grid. In this paper, we therefore consider fast implementations of LCMV-based fundamental frequency estimators, exploiting the estimators' inherently low displacement rank of the used Toeplitz-like data covariance matrices, using as such either the classic time domain averaging covariance matrix estimator, or, if aiming for an increased spectral resolution, the covariance matrix resulting from the application of the recent iterative adaptive approach (IAA). The proposed exact implementations reduce the required computational complexity with several \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:aqlVkmm33-oC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "40 Gb/s FPGA implementation of a reduced complexity Volterra DFE for DQPSK optical links",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7193332/",
+            "Abstract": "A low complexity MIMO Volterra Decision Feedback Equalizers (VDFE) for optical transmission systems employing NRZ-DQPSK signalling is proposed. Based on a comparative study performed by means of simulations, it is proved that the proposed equalizers maintain the required efficiency in terms of BER, achieving significant reduction in terms of complexity. Also, suitable architectures for high-speed FPGA implementations are presented. A 8-input 2-output low complexity VDFE involving three taps feed-forward filtering and two taps backward filtering was implemented on a single state-of-the-art FPGA. The target rate of 40 Gb/s is achieved by applying extensive pipelining and parallelism and fully exploiting specific FPGA features.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:fPk4N6BV_jEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A fast algorithm for APES and Capon spectral estimation",
+            "Publication year": 2008,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/4527193/",
+            "Abstract": "In this paper, we derive a novel implementation of some very computationally demanding matched filter-bank-based spectral estimators, namely the amplitude and phase estimator (APES), the amplitude spectrum Capon (ASC) estimator, and the power spectrum Capon (PSC) estimator. Filter-bank-based spectral estimation methods that adopt data-dependent filter banks can provide spectra characterized by a significantly improved resolution compared to classical approaches. However, the computational complexity of the currently available implementation algorithms, is extremely high. A novel technique is introduced that provides efficient algorithms for the computation of the APES, ASC, and PSC spectra. The proposed method is based on suitable displacement representations of all pertinent data matrices, that are subsequently utilized for the computation of the associated complex valued polynomials. The \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:u-x6o8ySG0sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Study of the acoustic noise in pipelines carrying oil products in a refinery establishment",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3368640.3368685",
+            "Abstract": "The monitoring of pipeline networks in utility or industrial distribution installations for fault detection (eg leaks in water or hydrocarbon pipelines) is important for economical and environmental reasons and critical from the health hazard perspective. Significant focus has been attracted over the years on the implementation of passive and active methods for the fault source localization, based on acoustic signal processing. The knowledge of the acoustic noise background's stochastic characteristics, that is inherent in such installations due to electronic or mechanical machinery induced interference is crucial for designing and deploying an efficient, acoustic signal based, fault detection and localization system. In this paper, time and frequency domain algorithmic approaches are presented for estimating the lower and higher order statistical parameters of the signals of interest, as well as power spectrum and correlation \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:8d8msizDQcsC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Efficient fast recursive least-squares adaptive complex filtering using real valued arithmetic",
+            "Publication year": 2005,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S016516840500099X",
+            "Abstract": "In this paper, a novel implementation of the fast recursive least squares (FRLS) algorithm for complex adaptive filtering, is presented. Complex signals are treated as pairs of real signals, and operations are re-organized on a real arithmetic basis. A new set of signals and filtering parameters is introduced, which are expressed either as the sum, or as the difference between the real and the imaginary part of the original variables. The algorithmic strength reduction technique is subsequently applied, resulting in significant computational savings. In this way, an efficient, FRLS algorithm is derived, where only two real valued filters are propagated, based on novel three-terms recursions for the time updating of the pertinent parameters. The proposed algorithm is implemented using real valued arithmetic only, whilst reducing the number of the required real valued multiplication operations by 23.5%, at the expense of a \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:LkGwnXOMwfcC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Axial super-resolution for optical coherence tomography with the iterative adaptive approach",
+            "Publication year": 2021,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=ECBO-2021-ETu3D.7",
+            "Abstract": "Spectral estimation can improve axial resolution for optical coherence tomog-raphy. Using a fast implementation of the non-parametric iterative adaptive approach, we significantly improve resolution and image quality in processing times below 2 s.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:PkcyUWeTMh0C",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Cost-effective optical transponders for deployed metropolitan area networks",
+            "Publication year": 2016,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0030401816304722",
+            "Abstract": "Improving the performance of electronic and optoelectronic components has enabled the investigation of transmitting optical channels with data rates greater than 40 Gb/s, over infrastructures that were initially supporting 10 Gb/s transport. However, for transporting high capacity channels, over long distances, considerable signal processing is necessary, with current emphasis being on digital techniques. Meanwhile in the context of optical networking where spectrally adjacent channels may cross different routes to interconnect the same source destination nodes, adaptive transmission systems become vital. This paper will suggest, compare and develop the necessary transponder technologies that enable transportation of 40 Gb/s channels over deployed Metropolitan Area optical Networks (MAN) infrastructure with emphasis on the interplay between realistic performance, feasibility and complexity/cost. Specifically \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:cFHS6HbyZ2cC",
+            "Publisher": "North-Holland"
+        },
+        {
+            "Title": "Adaptive bit rate variable cost-effective optical networks",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7193716/",
+            "Abstract": "Today's optical networks rely on cost effective optical transmission for high capacity combined with long reach. Optical transmission systems, have historically relied on efficient multiplexing and efficient data modulation for spectral efficiency. Such systems are expected to reuse the existing infrastructure when upgrading into higher capacity systems, while complying with the constraints imposed by typical functionalities of next generation all-optical networks. The latter typically implies that bit rate variable and adaptive technologies should be in place. This paper will study bit rate variable adaptive optical and electronic network technologies that enable transmission of high capacity channels with low complexity and cost.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:rO6llkc54NcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Computationally efficient damped Capon and APES spectral estimation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6811453/",
+            "Abstract": "In this paper, we introduce computationally efficient implementations of the data-dependent non-parametric damped Capon (dCapon) and APES (dAPES) spectral estimators. These estimators form two-dimensional frequency representations over both frequency and damping, and have been shown to enable an efficient separation of closely spaced spectral lines with different line widths. The proposed implementations are formed using an FFT-based fast polynomial reformulation exploiting the displacement structure of the matrices associated with the trigonometric polynomials that appear in the nominator and the denominator of the spectral estimators. The resulting implementations are exact and notably reduces the required computational complexity of the estimators. Numerical simulations illustrates the performance and the achieved complexity gain of the proposed implementations.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:YOwf2qJgpHMC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Fast missing-data IAA with application to notched spectrum SAR",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6850194/",
+            "Abstract": "Recently, the spectral estimation method known as the iterative adaptive approach (IAA) has been shown to provide higher resolution and lower sidelobes than comparable spectral estimation methods. The computational complexity is higher than methods such as the periodogram (matched filter method). Fast algorithms have been developed that considerably reduce the computational complexity of IAA by using Toeplitz and Vandermonde structures. For the missing-data case, several of these structures are lost, and existing fast algorithms are only efficient when the number of available samples is small. In this work, we consider the case in which the number of missing samples is small. This allows us to use low-rank completion to transform the problem to the structured problem. We compare the computational speed of the algorithm with the state of the art and demonstrate the utility in a frequency-notched \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:ULOm3_A8WrAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "SAR imaging in the presence of spectrum notches via fast missing data IAA",
+            "Publication year": 2013,
+            "Publication url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8744/87440X/SAR-imaging-in-the-presence-of-spectrum-notches-via-fast/10.1117/12.2019848.short",
+            "Abstract": "A synthetic aperture radar system operating in congested frequency bands suffers from radio frequency inter ference (RFI) from narrowband sources. When RFI interference is suppressed by frequency notching, gaps are introduced into the fast time phase history. This results in a missing data spectral estimation problem, where the missing data increases sidelobe energy and degrades image quality. The adaptive spectral estimation method Iterative Adaptive Approach (IAA) has been shown to provide higher resolution and lower sidelobes than comparable methods, but at the cost of higher computationally complexity. Current fast IAA algorithms reduce the computational complexity using Toeplitz /Vandermonde structures, but are not applicable for missing data cases because these structures are lost. When the number of missing data samples is small, which often is the case in SAR with RFI, we use a low rank \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:QIV2ME_5wuYC",
+            "Publisher": "International Society for Optics and Photonics"
+        },
+        {
+            "Title": "Performance evaluation of Decision Feedback Equalizers in fiber communication links",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6877869/",
+            "Abstract": "In this paper, the performance of the conventional Decision Feedback (DFE) equalizer as well as the Volterra DFE is investigated in the context of intensity modulated direct detection optical communications links, when non-return to zero on-off keyed (NRZ-OOK) and optical differential encoded phase shift keyed (NRZ-DPSK) transmission is employed. The DFE is used to mitigate either the residual chromatic dispersion resulting from the incomplete optical compensation or the accumulated chromatic dispersion resulting from uncompensated optical transmission. To facilitate realtime implementation, the equalizer structure is dynamically configured discarding coefficients that have a marginal contribution to the performance of the equalizer leading to a significant computational complexity savings.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:hqOjcs7Dif8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive Optical Technologies for Optical Transmission Systems",
+            "Publication year": 2014,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/2645791.2645810",
+            "Abstract": "The emerging popularity of bandwidth-starving applications (such as internet video, cloud storage etc) has lead to an exponential growth of the amount of data to be transmitted over long distances using optical fibre. Fibre transmission impairments, like chromatic dispersion (CD) remain a limiting factor on optical transmission and hence their compensation becomes of vital importance. Furthermore, the severe reduction of dispersion tolerances in high-rate systems escalates the necessity of addressing any induced pulse broadening.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:_Qo2XoVZTnwC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Sound velocity measurement in acoustic leak noise correlation systems",
+            "Publication year": 2021,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/9459921/",
+            "Abstract": "In this paper, the acoustic leak noise correlation method is applied for the measurement of the sound velocity of the propagated acoustic signal in water filled metallic pipes. Artificially introduced leaks are used as out-of-bracket excitation signal sources. The standard time domain correlation method is adopted for the computation of the required difference time of arrival between noise leakage signals propagating in the pipeline network, which are collected by the use of accelerometers mounted on the surface of the pipe. A new method is proposed for the improvement of the accuracy of the measured sound velocity, introducing a technique of estimation fusion, based upon results obtained from multiple measurements. A simple to use formula is derived for the enhancement of the accuracy of the estimation, introducing a weighted mean of the estimations over various realizations, with the weighting coefficients \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:HJSXoJQnj-YC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Computationally efficient time-recursive IAA-based blood velocity estimation",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6194362/",
+            "Abstract": "High-resolution spectral Doppler is an important and powerful noninvasive tool for estimation of velocities in blood vessels using medical ultrasound scanners. Such estimates are typically formed using an averaged periodogram technique, resulting in well-known limitations in the resulting spectral resolution. Recently, we have proposed techniques to instead form high-resolution data-adaptive estimates exploiting measurements along both depth and emission. The resulting estimates gives noticeably superior velocity estimates as compared to the standard technique, but suffers from a high computational complexity, making it interesting to formulate computationally efficient implementations of the estimators. In this work, by exploiting the rich structure of the iterative adaptive approach (IAA) based estimator, we examine how these estimates can be efficiently implemented in a time-recursive manner using both exact \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:YsMSGLbcyi4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Smart sensor system for leakage detection in pipes carrying oil products in noisy environment: The ESTHISIS Project",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8862111/",
+            "Abstract": "The presented initiative aims at the development of a low cost and low energy wireless sensor system for the immediate detection of leaks in metallic piping systems for the transport of liquid and gaseous petroleum products in a noisy industrial environment. The method to be followed will be based on processing the changes monitored in the acoustic spectrum of sound signals appearing in the pipeline walls due to a leakage effect and will aim at minimal interference in the piping system. It is intended to use low frequencies to detect and characterize leakage in order to increase the range of sensors and thus to reduce cost. The method will focus only on the sounds produced during the leakage while intermittent processing will be applied with the potential to further reduce energy consumption and increase leakage detection reliability in a noisy environment.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:_FM0Bhl9EiAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "A true order recursive algorithm for two-dimensional mean squared error linear prediction and filtering",
+            "Publication year": 2000,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168400000451",
+            "Abstract": "In this paper a novel algorithm is presented for the efficient two-dimensional (2-D), mean squared error (MSE), FIR filtering and system identification. Filter masks of general boundaries are allowed. Efficient order updating recursions are developed by exploiting the spatial shift invariance property of the 2-D data set. Single-step-order updating recursions are developed. During each iteration, the filter coefficients set is augmented by a single new element. The single-step-order updating formulas allow for the development of an efficient, true order recursive algorithm for the 2-D MSE linear prediction and filtering. In contrast to the existing column(row)wise 2-D recursive schemes based on the Levinson\u2013Wiggins\u2013Robinson multichannel algorithm, the proposed technique offers the greatest maneuverability in the 2-D index space in a computational efficient way. This flexibility can be taken into advantage if the shape of \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:eQOLeE2rZwMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Implementation of adaptive generalized sidelobe cancellers using efficient complex valued arithmetic",
+            "Publication year": 2003,
+            "Publication url": "http://zbc.uz.zgora.pl/Content/2774/HTML/12oryg.pdf",
+            "Abstract": "Low complexity realizations of Least Mean Squared (LMS) error, Generalized Sidelobe Cancellers (GSCs) applied to adaptive beamforming are considered. The GSC method provides a simple way for implementing adaptive Linear Constraint Minimum Variance (LCMV) beamformers. Low complexity realizations of adaptive GSCs are of great importance for the design of high sampling rate, and/or small size and low power adaptive beamforming systems. The LMS algorithm and its Transform Domain (TD-LMS) counterpart are considered for the adaptive processing task involved in the design of optimum GSC systems. Since all input signals are represented by complex variables, complex valued arithmetic is utilized for the realization of GSC algorithms, either on general purpose computers, or on dedicated VLSI ASICs. Using algorithmic strength reduction (SR) techniques, two novel algorithms are developed for efficient realizations of both LMS GSCs and TD-LMS GSC schemes. Both of the proposed algorithms are implemented using real valued arithmetic only, whilst reducing the number of multipliers by 25% and 20%, respectively. When VLSI implementation aspects are considered, both the proposed algorithms result in reduced power dissipation and silicon area realizations. The performance of the proposed realizations of the LMS based GSC methods is illustrated in the context of typical beamforming applications.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:ufrVoPGSRksC",
+            "Publisher": "University of Zielona Gora Press"
+        },
+        {
+            "Title": "Fast algorithms for iterative adaptive approach spectral estimation techniques",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5947292/",
+            "Abstract": "This paper presents computationally efficient implementations for Iterative Adaptive Approach (IAA) spectral estimation techniques for uniformly sampled data sets. By exploiting the methods inherent low displacement rank, together with the development of suitable Gohberg-Semencul representations, and the use of data dependent trigonometric polynomials, the proposed implementations are shown to offer a reduction of the necessary computational complexity with at least one order of magnitude. Numerical simulations together with theoretical complexity measures illustrate the achieved performance gain.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:M3ejUd6NZC8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Superfast approximative implementation of the IAA spectral estimate",
+            "Publication year": 2011,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6036189/",
+            "Abstract": "In this correspondence, we develop superfast approximative one-dimensional algorithms for the computationally efficient implementation of the recent iterative adaptive approach (IAA) spectral estimate. The proposed methods are based on rewriting the IAA algorithm with suitable Gohberg-Semencul representations, solving the resulting linear systems of equations using the preconditioned conjugate gradient method, where a novel preconditioning is applied using an incomplete factorization of the Toeplitz matrix. Numerical simulations illustrate the efficiency of both the proposed preconditioning as well as the overall algorithm, offering a computational reduction of up to two orders of magnitude as compared to our recently proposed efficient and exact IAA implementation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:2osOgNQ5qMEC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An efficient affine projection algorithm for 2-D FIR adaptive filtering and linear prediction",
+            "Publication year": 2006,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168405001477",
+            "Abstract": "In this paper, a fast affine projection algorithm (FAPA), for the two-dimensional (2-D) adaptive linear filtering and prediction, is presented. The derivation of the proposed algorithm is based on the spatial shift-invariant properties of the 2-D discrete time signals. The proposed algorithm has low computational complexity, comparable to that of the 2-D LMS algorithm. The performance of the proposed scheme is comparable to that of the higher complexity 2-D RLS algorithms. The convergence speed and the tracking ability of the proposed 2-D FAPA algorithm are illustrated by computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:UeHWp8X0CEIC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Fractionally spaced clustering based equalizer for optical channels",
+            "Publication year": 2010,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=sppcom-2010-SPWC3",
+            "Abstract": "This paper a novel, Fractionally Spaced Clustering Based Equalization method is proposed for the electronic equalization of optical communication links. Channel estimation in optical channels is not a straightforward task since the optical channel is nonlinear and noise is non-Gaussian. The proposed equalizer treats equalization as a classification task and avoids optical channel estimation procedure. The proposed approach outperforms the recursive Volterra DFE methods as it is demonstrated by computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:qUcmZB5y_30C",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Time difference of arrival estimation using correlation-based methods: experimental validation via acoustic signal propagation",
+            "Publication year": 2019,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/8956255/",
+            "Abstract": "The Time Difference of Arrival estimation (TDOA) technique for ascertaining the source location of a signal of interest is a powerful tool utilized in several applications ranging from speech and acoustic processing, remote sensing and wireless communications to applications in the wider process engineering field like structural or manufacturing fault detection and leak detection in gas or liquid carrying piping networks. The correlation based TDOA methods in particular have attracted notable interest from quite early till nowadays for deployment in such applications. In this paper we present an overview of the most popular algorithms applied for the computation of the correlation function, that have been proposed over the years and we proceed to an initial evaluation and a proof-of-concept validation via an acoustic (audible) signal TDOA experimentation as a precursor to a later deployment of these methods for leak \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:LO7wyVUgiFcC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Pipelined architectures for the TD-LMS adaptive filter",
+            "Publication year": 2001,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/941107/",
+            "Abstract": "In this paper, efficient pipelined architectures for the implementation of the transform domain LMS algorithm, are presented. Pipelining of the TD-LMS algorithm is achieved by introducing an amount of time delay into the original adaptive scheme. The adaptation delay introduced to the TD-LMS algorithm allows for the development of pipelined architectures. By retiming the delays existing in the error feedback loop, two efficient, pipelined implementations of the delayed TD-LMS algorithm are developed.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:W7OEmFMy1HYC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Electronic dispersion compensation of fiber links using sparsity induced volterra equalizers",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6781889/",
+            "Abstract": "During the last few years, a lot of research has been invested for the development of electronic devices equipped with advanced signal processing techniques for the dispersion compensation of Optical transmission systems. Compared to their all-optical counterparts, electronic compensation increases flexibility and gives a new impetus to transparent optical networks for adaptive and dynamic handling in cases where the total accumulated dispersion is not known in advance. In this paper, the Sparse Learning via Iterative Minimization (SLIM) algorithm is employed for the design of reduced size Volterra Decision Feedback (VDFE) equalizers in the context of optical communications is considered. The equalizer structure is dynamically tuned discarding coefficients that have a marginal contribution to the performance of the equalizer leading to both enhanced convergence speed and significant computational \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:roLk4NBRz8UC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient block and time-recursive estimation of sparse volterra systems",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6319651/",
+            "Abstract": "We investigate the application of non-convex penalized least squares for parameter estimation in the Volterra model. Sparsity is promoted by introducing a weighted \u2113 q  penalty on the parameters and efficient batch and time recursive algorithms are devised based on the cyclic coordinate descent approach. Numerical examples illustrate the improved performance of the proposed algorithms as compared the weighted \u2113 1  norm.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:RGFaLdJalmkC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive control and signal processing literature survey (No. 27)",
+            "Publication year": 2011,
+            "Publication url": "Unknown",
+            "Abstract": "Unknown",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:bEWYMUwI8FkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Dispersion compensation of fiber links using pruned volterra equalizers",
+            "Publication year": 2015,
+            "Publication url": "https://www.osapublishing.org/abstract.cfm?uri=networks-2015-JM3A.7",
+            "Abstract": "A pruned Volterra DFE equalizer is proposed for the electronic dispersion compensation in the context of direct detection optical links, leading to significant computational complexity savings, compared to the full sized counterpart.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:SeFeTyx0c_EC",
+            "Publisher": "Optical Society of America"
+        },
+        {
+            "Title": "Adaptive channel identification in optical fiber communication systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6876482/",
+            "Abstract": "In this paper, adaptive methods for the identification of the channel response of optical fiber communications links are considered, in the context of intensity modulated direct detection on/off keying transmission. A discrete time, second order Volterra kernel is used for the modeling of the overall channel response. The Volterra parameters are estimated on the basis of the available input/output data, by resorting to adaptive system identification techniques. The performance of the adaptive processing algorithms is evaluated in terms of the achieved minimum estimation error, the rate of the convergence and the required computational complexity. It is demonstrated, by means of computer simulation, that the use of low cost adaptive processing algorithms, properly tailored to the problem at hand, can provide a reliable solution, without sacrificing much of the performance.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:GnPB-g6toBAC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Pipelined architectures for transform domain LMS adaptive filtering",
+            "Publication year": 2005,
+            "Publication url": "https://www.worldscientific.com/doi/abs/10.1142/S0218126605002519",
+            "Abstract": "In this paper, efficient pipelined architectures for the implementation of the Transform Domain LMS (TD-LMS) adaptive filter are considered. Pipelining of the TD-LMS algorithm is achieved by introducing an amount of time delay into the original adaptive scheme. The resulting algorithm, called thereafter the delayed TD-LMS, performs adaptive filtering with delayed coefficients adaptation. A statistical performance analysis of the proposed delayed TD-LMS adaptive algorithm is presented, both for the mean error and the mean squared error of the filter coefficients. A closed form expression is derived for the estimation of the steady state excess mean squared error, in terms of the adaptation delay and the input signal characteristics. The adaptation delay introduced to the delayed TD-LMS algorithm is subsequently utilized for the development of pipelined architectures. By retiming the delays existing in the error signal \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:L8Ckcad2t8MC",
+            "Publisher": "World Scientific Publishing Company"
+        },
+        {
+            "Title": "FPGA implementation of an MLSE equalizer in 10Gb/s optical links",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7251985/",
+            "Abstract": "In this paper, an FPGA implementation of a Maximum Likelihood Sequence Estimator (MLSE) is proposed, in the context of Intensity Modulated Direct Detection optical communications links operating at 10Gb/s, when non-return to zero on-off keyed transmission is employed. A forward processing, sliding window systolic architecture is adopted for the implementation of the Viterbi algorithm (VA), used for the efficient computation of the sequence detection in the MLSE approach. The proposed VA architecture is implemented using synthesisable VHDL code. VA decoders of up to 32 states operating at the rate of 10Gb/s can be accommodated, when the targeted hardware is the Xilinx Virtex 7 XC7VX690T-2 FPGA chip. A peak processing rate of 56Gb/s is achieved for a 4 states VA decoder.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:u_35RYKgDlwC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Time-updating IAA-based spectral estimates with missing samples using data interpolation",
+            "Publication year": 2013,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6638858/",
+            "Abstract": "In this work, we propose a computationally efficient time-updating algorithm for estimating the spectral content of a signal with missing samples. The algorithm extends earlier work on the topic by formulating a data-interpolation scheme reducing the required complexity to a fraction of the earlier efficient implementation, without resulting in any noticeable loss of performance for even a quite large degree of missing samples.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:NaGl4SEjCO4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Leak detection in the pipeline network of an oil refinery-A pattern classification paradigm",
+            "Publication year": 2020,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3437120.3437302",
+            "Abstract": "Leak detection and localization based on acoustic leak noise has been the subject of extensive research and a number of methods have been proposed for this purpose. It is a conceptually simple, non intrusive and easy to deploy approach for monitoring the condition of the pipeline network installation and it is suitable for either on demand or for continues time operation even in harsh environment. In this paper, leak detection is treating as a classification task. Spectral domain features are considered as they offer insight into the frequency characteristics of the signals of interest, and the k nearest neighbor classifier is employed for classification. The performance of the proposed scheme is evaluated using real measurements from oil refinery pipeline systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:DrR-2ekChdkC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Pipelined architectures for the frequency domain linear equalizer",
+            "Publication year": 2006,
+            "Publication url": "http://zbc.uz.zgora.pl/repozytorium/Content/57557/AMCS_2006_16_4_9.pdf",
+            "Abstract": "In this paper, novel pipelined architectures for the implementation of the frequency domain linear equalizer are presented. The Frequency Domain (FD) LMS algorithm is utilized for the adaptation of equalizer coefficients. The pipelining of the FD LMS linear equalizer is achieved by introducing an amount of time delay into the original adaptive scheme, and following proper delay retiming. Simulation results are presented that illustrate the performance of the effect of the time delay introduced into the adaptation algorithm. The proposed architectures for efficient pipelining of the FD LMS linear equalization algorithm are suitable for implementation on special purpose hardware by means of the ASIC, ASIP or FPGA VLSI processors.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:ZeXyd9-uunAC",
+            "Publisher": "Zielona G\u00f3ra: Uniwersytet Zielonog\u00f3rski"
+        },
+        {
+            "Title": "SAR imaging via efficient implementations of sparse ML approaches",
+            "Publication year": 2014,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168413003137",
+            "Abstract": "High-resolution spectral estimation techniques are of notable interest for synthetic aperture radar (SAR) imaging. Several sparse estimation techniques have been shown to provide significant performance gains as compared to conventional approaches. We consider efficient implementation of the recent iterative sparse maximum likelihood-based approaches (SMLAs). Furthermore, we present approximative fast SMLA formulation using the Quasi-Newton approach, as well as consider hybrid SMLA-MAP algorithms. The effectiveness of the discussed techniques is illustrated using numerical and experimental examples.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:KlAtU1dfN6UC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient algorithms for three-dimensional filtering and linear prediction",
+            "Publication year": 2000,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7075499/",
+            "Abstract": "In this paper optimal MSE three-dimensional (3-D) filtering and linear prediction is considered. 3-D filter masks of general shape are allowed. An efficient multichannel embedding is utilized that transforms the 3-D model to an equivalent multichannel formulation. Efficient recursions are developed for updating of lower order filter parameters towards neighboring points. Fast algorithms are applied for the solution of the 3-D normal equations in an order recursive way.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:R3hNpaxXUhUC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Adaptive least squares algorithms for two dimensional system identification and filtering: a unified approach",
+            "Publication year": 2003,
+            "Publication url": "https://www.infona.pl/resource/bwmeta1.element.baztech-article-BPP1-0035-0081",
+            "Abstract": "In this paper, a unified approach is presented for adaptive Least Squares Two-Dimensional system identification and linear filtering. First, a unified deterministic Least Squares criterion is introduced, and subsequently utilized for the derivation of a general algorithmic framework for the adaptive Two-Dimensional system identification and filtering. Overdetermined, as well as underdetermined Least Squares Two-Dimensional adaptive algorithms are derived, from the proposed general adaptive scheme. In this way, known Two-Dimensional adaptive algorithms are interpreted as special cases of a general algorithmic form. Moreover, new adaptive algorithms are derived, following the proposed methodology.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:TQgYirikUcIC",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Leakage detection using leak noise correlation techniques: overview and implementation aspects",
+            "Publication year": 2019,
+            "Publication url": "https://dl.acm.org/doi/abs/10.1145/3368640.3368646",
+            "Abstract": "Leakage detection based on acoustic leak noise correlation in particular, has drawn the attention of the research community in recent years, as it is a conceptually simple, non intrusive and easy to deploy approach for monitoring the condition of the pipeline network installation. In this paper an overview of the leakage detection using leak noise correlation techniques is presented. The basic concept of the method is described and an analysis of the data requirements and the corresponding computational cost is given. The validity of the method is illustrated by means of computer simulation.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:FAceZFleit8C",
+            "Publisher": "Unknown"
+        },
+        {
+            "Title": "Computationally efficient sparsity-inducing coherence spectrum estimation of complete and non-complete data sets",
+            "Publication year": 2013,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168412004410",
+            "Abstract": "The magnitude squared coherence (MSC) spectrum is an often used frequency-dependent measure for the linear dependency between two stationary processes, and the recent literature contain several contributions on how to form high-resolution data-dependent and adaptive MSC estimators, and on the efficient implementation of such estimators. In this work, we further this development with the presentation of computationally efficient implementations of the recent iterative adaptive approach (IAA) estimator, present a novel sparse learning via iterative minimization (SLIM) algorithm, discuss extensions to two-dimensional data sets, examining both the case of complete data sets and when some of the observations are missing. The algorithms further the recent development of exploiting the estimators' inherently low displacement rank of the necessary products of Toeplitz-like matrices, extending these formulations \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:0EnyYjriUFMC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Computationally efficient Capon-and APES-based coherence spectrum estimation",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6296721/",
+            "Abstract": "The coherence spectrum is of notable interest as a bivariate spectral measure in a variety of application, and the topic has lately attracted interest with the recent formulation of several high-resolution data adaptive estimators. In this work, we further this development with the presentation of computationally efficient implementations of the Capon- and APES-based MSC estimators. The presented implementations furthers the recent development of exploiting the estimators' inherently low displacement rank of the necessary products of Toeplitz-like matrices to include also the required cross-correlation covariance matrices for the mentioned coherence algorithms. Numerical simulations together with theoretical complexity measures illustrate the performance of the proposed implementations.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:3fE2CSJIrl8C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient spectral analysis in the missing data case using sparse ML methods",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6952629/",
+            "Abstract": "Given their wide applicability, several sparse high-resolution spectral estimation techniques and their implementation have been examined in the recent literature. In this work, we further the topic by examining a computationally efficient implementation of the recent SMLA algorithms in the missing data case. The work is an extension of our implementation for the uniformly sampled case, and offers a notable computational gain as compared to the alternative implementations in the missing data case.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:r0BpntZqJG4C",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient time recursive coherence spectrum estimation",
+            "Publication year": 2012,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6333859/",
+            "Abstract": "The coherence spectrum is of notable interest as a bivariate spectral measure in a variety of application, and the topic has lately attracted notable interest with the recent formulation of several high-resolution data adaptive estimators. In this work, we present computationally efficient time recursive implementations of the recent iterative adaptive approach (IAA) estimator, examining both the case of complete data sets and when some observations are missing. The algorithms continues the recent development of exploiting the estimators' inherently low displacement rank of the necessary products of Toeplitz-like matrices, extending these to time-updating formulations for the IAA-based coherence estimation algorithm. Numerical simulations together with theoretical complexity measures illustrate the performance of the proposed algorithm.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:MXK_kJrjxJIC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Subspace based blind identification of LTI FIR MIMO systems and equalization of finite memory SIMO Volterra systems",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168411000739",
+            "Abstract": "In this paper a novel algorithm based on subspace projections is developed for the blind kernel identification of LTI FIR multiple input multiple output (MIMO) systems, as well as blind equalization of finite memory SIMO Volterra systems. In addition, for Volterra systems, the algorithm computes the memory lengths of the nonlinearities involved. Simulations in the context of blind channel equalization and identification demonstrate good performance in comparison to existing schemes.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:4TOpqqG69KYC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "High-Speed, High-Performance DQPSK Optical Links with Reduced Complexity VDFE Equalizers",
+            "Publication year": 2017,
+            "Publication url": "https://www.mdpi.com/183106",
+            "Abstract": "Optical transmission technologies optimized for optical network segments sensitive to power consumption and cost, comprise modulation formats with direct detection technologies. Specifically, non-return to zero differential quaternary phase shift keying (NRZ-DQPSK) in deployed fiber plants, combined with high-performance, low-complexity electronic equalizers to compensate residual impairments at the receiver end, can be proved as a viable solution for high-performance, high-capacity optical links. Joint processing of the constructive and the destructive signals at the single-ended DQPSK receiver provides improved performance compared to the balanced configuration, however, at the expense of higher hardware requirements, a fact that may not be neglected especially in the case of high-speed optical links. To overcome this bottleneck, the use of partially joint constructive/destructive DQPSK equalization is investigated in this paper. Symbol-by-symbol equalization is performed by means of Volterra decision feedback-type equalizers, driven by a reduced subset of signals selected from the constructive and the destructive ports of the optical detectors. The proposed approach offers a low-complexity alternative for electronic equalization, without sacrificing much of the performance compared to the fully-deployed counterpart. The efficiency of the proposed equalizers is demonstrated by means of computer simulation in a typical optical transmission scenario. View Full-Text",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:pyW8ca7W8N0C",
+            "Publisher": "Multidisciplinary Digital Publishing Institute"
+        },
+        {
+            "Title": "High-performance FPGA implementations of volterra DFEs for optical fiber systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7032528/",
+            "Abstract": "Low-complexity Volterra Decision Feedback Equalizers (VDFEs) for optical fiber links are proposed. By properly discarding large blocks of coefficients in the feedforward and feedback sections of the equalizer, a significant complexity reduction is achieved without affecting its efficiency. Moreover, suitable architectures and high-performance FPGA implementations are provided. It is demonstrated that the efficiency of the proposed VDFEs in terms of BER is similar to the counterpart full-size VDFEs for links of the same length, while, they demand 50% less arithmetic resources. Also, the proposed DFEs meet the desired 10 Gb/s rate and in certain cases achieve rates of 17 Gb/s and 25 Gb/s.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:k_IJM867U9cC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "An efficient decision feedback equalizer for the ATSC DTV receiver",
+            "Publication year": 2011,
+            "Publication url": "https://www.sciencedirect.com/science/article/pii/S0165168411001666",
+            "Abstract": "In this paper an efficient decision feedback equalizer is presented for the equalization of the received signal in the eight level vestigial sideband, Advanced Television Systems Committee, digital television system, adopting a novel detection rule for symbol detection at the output of the equalizer. The conventional hard limiter is replaced by an efficient symbol detection algorithm, based on the underlying trellis coded modulated coding of the transmitted symbols. The proposed decision device has a marginal computational cost and it can be implemented using simple combinatorial and sequential logic circuitry. When the equalizer operates in the decision directed mode, the normalized least mean squared algorithm is utilized for the adaptation of the equalizer coefficients, in a \u201cstop-and-go\u201d like mode, triggered by a reliability signal associated to the detected symbols. The performance of the proposed method is \u2026",
+            "Abstract entirety": 0,
+            "Author pub id": "xPq5hU0AAAAJ:7PzlFSSx8tAC",
+            "Publisher": "Elsevier"
+        },
+        {
+            "Title": "Efficient algorithms for adaptive Capon and APES spectral estimation",
+            "Publication year": 2009,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/5184905/",
+            "Abstract": "In this paper fast algorithms for adaptive Capon and amplitude and phase estimation (APES) methods for spectral analysis of time varying signals, are derived. Fast, stable, nonrecursive formulae are derived, based on time shifting properties of the pertinent variables. As a consequence, efficient frequency domain recursive least squares (RLS) based, as well as fast RLS based algorithms for the adaptive estimation of the power spectra are developed. Stability issues of the frequency domain estimators are considered, and stabilization procedures are proposed. The computational complexity of the proposed algorithms is lower than relevant existing methods. The performance of the proposed algorithms is demonstrated through extensive simulations.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:qjMakFHDy7sC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "FPGA implementation of a MIMO DFE in 40 Gb/s DQPSK optical links",
+            "Publication year": 2015,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/7362650/",
+            "Abstract": "In this paper, an FPGA implementation of a Multi Input Multi Output (MIMO) Decision Feedback equalizer (DFE) is proposed, for the electronic compensation of the impairments in 40Gb/s Intensity Modulated Direct Detection (IM/DD) optical communication links employing NRZ DQPSK signaling. The proposed equalizer is used for the electronic compensation the residual Chromatic Dispersion (CD) along the installed optically compensated optical paths. The required processing rate is achieved by applying intensive pipelining and parallelism in the original architecture of the equalizer. At the given processing rate, a 8-input 2-output DFE involving three taps feedforward filtering and two taps backward filtering is implemented on a single, cutting edge technology, Xilinx FPGA device.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:3s1wT3WcHBgC",
+            "Publisher": "IEEE"
+        },
+        {
+            "Title": "Efficient FPGA implementations of volterra DFES for optical systems",
+            "Publication year": 2014,
+            "Publication url": "https://ieeexplore.ieee.org/abstract/document/6965328/",
+            "Abstract": "In this work suitable architectures and high-throughput FPGA implementations of Volterra Decision Feedback Equalizers (VDFEs) for optical communication links are presented. Two VDFE configurations were selected based on the available resources of the employed FPGA devices, and two multiplexer-based architectures were developed for each of them in order to achieve the target throughput. The comparison of the experimental results with respect to different VDFE configurations, throughput, and FPGA devices points out the platform-specific design characteristics. The introduced architectures meet the desired 10Gb/s throughput, so it is demonstrated that the FPGA is a suitable platform for high-speed optical fiber communication systems.",
+            "Abstract entirety": 1,
+            "Author pub id": "xPq5hU0AAAAJ:ns9cj8rnVeAC",
+            "Publisher": "IEEE"
+        }
+    ]
+}]
