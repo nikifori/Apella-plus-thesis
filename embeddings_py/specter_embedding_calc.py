@@ -65,9 +65,9 @@ title_embedding = title_embedding(title)
 
 # compute ranking
 ranking_in = compute_ranking(csd_in_specter, title_embedding)
-ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False)
+ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
 ranking_out = compute_ranking(csd_out_specter, title_embedding)
-ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False)
+ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
 
 
 
