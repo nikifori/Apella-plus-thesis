@@ -75,6 +75,8 @@ title_job = ["Fuzzy Systems and Fuzzy Rules Based Systems", "Image and Video Pro
              "Software Engineering Techniques", "Unsupervised Learning and Pattern Recognition in Natural Language Processing",
              "Machine Learning - Supervised Learning", "Robotics and Intelligent Systems", "Intelligent Systems - Symbolic Artificial Intelligence",
              "Integrated Circuits and Systems", "Analog and Digital VLSI Curcuits"]
+title_abstract = "Development of intelligent systems using a combination of methodologies of symbolic Artificial Intelligence, such as Representation of Knowledge and Reasoning, Multipracter Systems, Machine Learning, Intelligent Autonomous Systems, Planning and Scheduling of Actions, Satisfaction"
+title_whole = "Intelligent Systems - Symbolic Artificial Intelligence" + tokenizer.sep_token + title_abstract
 for title in title_job:
     print(title)
     title_emb = title_embedding(title)
