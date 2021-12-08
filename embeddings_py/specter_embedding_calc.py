@@ -59,15 +59,30 @@ model = AutoModel.from_pretrained('allenai/specter')
 author_specter_embedding(csd_in_specter)
 author_specter_embedding(csd_out_specter)
 
-# title embedding
-title = 'Intelligent Systems-Symbolic Artificial Intelligence'
-title_embedding = title_embedding(title)
+# # title embedding
+# title = title_job[1]
+# title_emb = title_embedding(title)
 
-# compute ranking
-ranking_in = compute_ranking(csd_in_specter, title_embedding)
-ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
-ranking_out = compute_ranking(csd_out_specter, title_embedding)
-ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+# # compute ranking
+# ranking_in = compute_ranking(csd_in_specter, title_emb)
+# ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+# ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
+# ranking_out = compute_ranking(csd_out_specter, title_emb)
+# ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+# ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
+
+title_job = ["Fuzzy Systems and Fuzzy Rules Based Systems", "Image and Video Processing", "Speech Recognition and Processing", "Software Engineering Techniques", "Unsupervised Learning and Pattern Recognition in Natural Language Processing"]
+for title in title_job:
+    print(title)
+    title_emb = title_embedding(title)
+    ranking_in = compute_ranking(csd_in_specter, title_emb)
+    ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+    ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
+    ranking_out = compute_ranking(csd_out_specter, title_emb)
+    ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+    ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
 
 
+# save csv
+# df.to_csv(path_or_buf=r'..\csv_files\csd_data_out_processed.csv', index=False)
 
