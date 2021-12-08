@@ -71,7 +71,10 @@ author_specter_embedding(csd_out_specter)
 # ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
 # ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
 
-title_job = ["Fuzzy Systems and Fuzzy Rules Based Systems", "Image and Video Processing", "Speech Recognition and Processing", "Software Engineering Techniques", "Unsupervised Learning and Pattern Recognition in Natural Language Processing"]
+title_job = ["Fuzzy Systems and Fuzzy Rules Based Systems", "Image and Video Processing", "Speech Recognition and Processing", 
+             "Software Engineering Techniques", "Unsupervised Learning and Pattern Recognition in Natural Language Processing",
+             "Machine Learning - Supervised Learning", "Robotics and Intelligent Systems", "Intelligent Systems - Symbolic Artificial Intelligence",
+             "Integrated Circuits and Systems", "Analog and Digital VLSI Curcuits"]
 for title in title_job:
     print(title)
     title_emb = title_embedding(title)
