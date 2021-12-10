@@ -28,11 +28,11 @@ def author_specter_embedding(authors_list: list):
                 print("Problem in specter_embedding function")
                 print(error)
     
-def title_embedding(title: str):
+def title_embedding(title: str, abstract: str = None):
+    title = title + tokenizer.sep_token + (abstract or "")
     inp = tokenizer(title, padding=True, truncation=True, return_tensors="pt", max_length=512)
     title_embedding = model(**inp).last_hidden_state[:, 0, :]
     title_embedding = title_embedding.detach().numpy()
-    
     return title_embedding
 
 def compute_ranking(authors_list: list, title_embedding):
@@ -43,7 +43,7 @@ def compute_ranking(authors_list: list, title_embedding):
             sim = cosine_similarity(author['Mean specter embedding'], title_embedding)
             ranking['Author name'].append(author['name'])
             ranking['Cosine similarity'].append(sim[0][0])
-            
+    
     return ranking
 # ---------------------------------------------------------------------------
 with open(r'..\json_files\csd_in_with_abstract\csd_in_specter.json', encoding="utf8") as json_file:
@@ -71,12 +71,7 @@ author_specter_embedding(csd_out_specter)
 # ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
 # ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
 
-title_job = ["Fuzzy Systems and Fuzzy Rules Based Systems", "Image and Video Processing", "Speech Recognition and Processing", 
-             "Software Engineering Techniques", "Unsupervised Learning and Pattern Recognition in Natural Language Processing",
-             "Machine Learning - Supervised Learning", "Robotics and Intelligent Systems", "Intelligent Systems - Symbolic Artificial Intelligence",
-             "Integrated Circuits and Systems", "Analog and Digital VLSI Curcuits"]
-title_abstract = "Development of intelligent systems using a combination of methodologies of symbolic Artificial Intelligence, such as Representation of Knowledge and Reasoning, Multipracter Systems, Machine Learning, Intelligent Autonomous Systems, Planning and Scheduling of Actions, Satisfaction"
-title_whole = "Intelligent Systems - Symbolic Artificial Intelligence" + tokenizer.sep_token + title_abstract
+
 for title in title_job:
     print(title)
     title_emb = title_embedding(title)
