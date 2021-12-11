@@ -6,14 +6,9 @@ Author: nikifori
 
 Copyright (c) 2021 Your Company
 '''
-from csd_csv_parser import *
-from google_search import *
-from google_scholar_scraper import *
-from semantic_scholar_scraper import *
-import time
+
 import pandas as pd
-import my_time as mt
-from scholarly import scholarly, ProxyGenerator
+import json
 
 with open(r'..\json_files\csd_in_with_abstract\csd_in_with_abstracts_db.json', encoding="utf8") as json_file:
     csd_in_list_dict = json.load(json_file)
