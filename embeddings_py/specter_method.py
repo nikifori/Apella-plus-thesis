@@ -32,15 +32,17 @@ def specter_embedding(authors_list: list, global_result: list=None):
     tokenizer = AutoTokenizer.from_pretrained('allenai/specter')
     model = AutoModel.from_pretrained('allenai/specter')
     
-    for author in authors_list:
+    for cc, author in enumerate(authors_list):
+        print(cc)
         if "Publications" in author:
             try:
                 for counter, pub in enumerate(author["Publications"]):
-                    temp_title_abs = pub['Title'] + tokenizer.sep_token + (pub.get('Abstract') or '')
-                    input_pair = tokenizer(temp_title_abs, padding=True, truncation=True, return_tensors="pt", max_length=512)
-                    embedding = model(**input_pair).last_hidden_state[:, 0, :]
-                    pub['Specter embedding'] = embedding.detach().numpy().tolist()
-                    print(counter)
+                    if "Specter embedding" not in pub:
+                        temp_title_abs = pub['Title'] + tokenizer.sep_token + (pub.get('Abstract') or '')
+                        input_pair = tokenizer(temp_title_abs, padding=True, truncation=True, return_tensors="pt", max_length=512)
+                        embedding = model(**input_pair).last_hidden_state[:, 0, :]
+                        pub['Specter embedding'] = embedding.detach().numpy().tolist()
+                        # print(counter)
             except Exception as error:
                 print("Problem in specter_embedding function")
                 print(error)
