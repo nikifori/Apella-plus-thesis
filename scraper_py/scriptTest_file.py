@@ -42,14 +42,14 @@ def check_unscraped_authors(authors_list: list):
 #     f.write(json_file)
 
 csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter.json")
-
+csd_out_with_abstracts_30_missing = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing.json")
 # save2json(json_fi=csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter.json")
 
 
 
 unscraped_authors = check_unscraped_authors(csd_out_specter)
+unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing)
 # correct_authors(csd_out_specter, can_not_fetch_complete)
-
 
 
 
