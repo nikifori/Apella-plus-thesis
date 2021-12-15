@@ -49,18 +49,29 @@ def reduce_dimensions(X, n_dims=5, type='PCA'):
 
 def embeddings_clustering(embeddings_input: np.array,
                           type='agglomerative',
-                          reduction_type='LLE',
+                          reduction_type='PCA',
                           n_clusters=5):
 
     clustering_types = ['agglomerative', 'kmeans','dbscan']
     dim_reduction_types = ['PCA', 'SVD', 'isomap', 'LLE']
-    n_dims_new = 25
+    author_centroids = []
 
-    embeddings, reducer = reduce_dimensions(embeddings_input,
-                                            n_dims=n_dims_new,
-                                            type=reduction_type) \
-        if embeddings_input.shape[1] > n_dims_new \
-        else embeddings_input
+    dimensions_reduced = 25  #It must be dimensions_reduced < min_samples
+    min_samples = 30
+    n_samples = embeddings_input.size(0)
+
+    if n_samples > min_samples:
+        embeddings, reducer = reduce_dimensions(embeddings_input,
+                                                n_dims=dimensions_reduced,
+                                                type=reduction_type) \
+            if embeddings_input.shape[1] > dimensions_reduced \
+            else embeddings_input
+    else:  # Too few samples
+        embeddings = embeddings_input
+        if n_samples <= n_clusters:
+            for i in range(n_samples):
+                author_centroids.append(embeddings[i, :].detach().cpu().numpy())
+            return author_centroids
 
     # Perform Clustering
     if type == 'agglomerative':
@@ -86,13 +97,4 @@ def embeddings_clustering(embeddings_input: np.array,
 
 
 if __name__ == "__main__":
-
-    # Generate random Data
-    X = np.random.rand(100,8)
-
-    # Perform Dimensionality reduction
-    n_dims = 2
-    X_hat = reduce_dimensions(X, n_dims, type='PCA')
-
-    # Perform clustering on data with reduced dimensions (Dimensionality reduction happens inside the function itselt)
-    X_hat = embeddings_clustering(X, type='kmeans', n_clusters=5)
+    print("emb_clustering.py")
