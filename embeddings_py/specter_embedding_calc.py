@@ -46,43 +46,45 @@ def compute_ranking(authors_list: list, title_embedding):
     
     return ranking
 # ---------------------------------------------------------------------------
-with open(r'..\json_files\csd_in_with_abstract\csd_in_specter.json', encoding="utf8") as json_file:
-    csd_in_specter = json.load(json_file)
-with open(r'..\json_files\csd_out_with_abstract\csd_out_specter.json', encoding="utf8") as json_file:
-    csd_out_specter = json.load(json_file)
-
-# needed for title_embedding function
-tokenizer = AutoTokenizer.from_pretrained('allenai/specter')
-model = AutoModel.from_pretrained('allenai/specter')
-
-# authors embeddings
-author_specter_embedding(csd_in_specter)
-author_specter_embedding(csd_out_specter)
-
-# # title embedding
-# title = title_job[1]
-# title_emb = title_embedding(title)
-
-# # compute ranking
-# ranking_in = compute_ranking(csd_in_specter, title_emb)
-# ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
-# ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
-# ranking_out = compute_ranking(csd_out_specter, title_emb)
-# ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
-# ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
-
-
-for title in title_job:
-    print(title)
-    title_emb = title_embedding(title)
-    ranking_in = compute_ranking(csd_in_specter, title_emb)
-    ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
-    ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
-    ranking_out = compute_ranking(csd_out_specter, title_emb)
-    ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
-    ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
-
-
-# save csv
-# df.to_csv(path_or_buf=r'..\csv_files\csd_data_out_processed.csv', index=False)
+if __name__ == '__main__':  
+    
+    with open(r'..\json_files\csd_in_with_abstract\csd_in_specter.json', encoding="utf8") as json_file:
+        csd_in_specter = json.load(json_file)
+    with open(r'..\json_files\csd_out_with_abstract\csd_out_specter.json', encoding="utf8") as json_file:
+        csd_out_specter = json.load(json_file)
+    
+    # needed for title_embedding function
+    tokenizer = AutoTokenizer.from_pretrained('allenai/specter')
+    model = AutoModel.from_pretrained('allenai/specter')
+    
+    # authors embeddings
+    author_specter_embedding(csd_in_specter)
+    author_specter_embedding(csd_out_specter)
+    
+    # # title embedding
+    # title = title_job[1]
+    # title_emb = title_embedding(title)
+    
+    # # compute ranking
+    # ranking_in = compute_ranking(csd_in_specter, title_emb)
+    # ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+    # ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
+    # ranking_out = compute_ranking(csd_out_specter, title_emb)
+    # ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+    # ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
+    
+    
+    for title in title_job:
+        print(title)
+        title_emb = title_embedding(title)
+        ranking_in = compute_ranking(csd_in_specter, title_emb)
+        ranking_df_in = pd.DataFrame(data=ranking_in).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+        ranking_df_in.to_csv(path_or_buf=fr'..\csv_files\{title}_in.csv', index=False)
+        ranking_out = compute_ranking(csd_out_specter, title_emb)
+        ranking_df_out = pd.DataFrame(data=ranking_out).sort_values(by=['Cosine similarity'], ascending=False, ignore_index=True)
+        ranking_df_out.to_csv(path_or_buf=fr'..\csv_files\{title}_out.csv', index=False)
+    
+    
+    # save csv
+    # df.to_csv(path_or_buf=r'..\csv_files\csd_data_out_processed.csv', index=False)
 

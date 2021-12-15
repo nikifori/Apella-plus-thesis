@@ -48,7 +48,7 @@ def specter_embedding(authors_list: list, global_result: list=None):
                 print(error)
     
     # global_result = global_result + authors_list
-    return authors_list
+    # return authors_list
 
 def specter_embedding_parallel(authors_list: list, threads_num:int=1):
     if threads_num>len(authors_list):threads_num=len(authors_list) # papers always

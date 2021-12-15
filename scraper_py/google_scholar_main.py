@@ -7,7 +7,7 @@ Author: nikifori
 Copyright (c) 2021 Your Company
 '''
 from csd_csv_parser import *
-from google_search import *
+from google_search_GS import *
 from google_scholar_scraper import *
 from semantic_scholar_scraper import *
 import time
@@ -42,6 +42,8 @@ df.to_csv(path_or_buf=r'..\csv_files\csd_data_out_processed_similarity.csv', ind
 csd_in_list_dict = pd.read_csv(r"..\csv_files\csd_data_in_processed_ground_truth.csv").to_dict(orient="records")
 csd_out_list_dict = pd.read_csv(r"..\csv_files\csd_data_out_processed_ground_truth.csv").to_dict(orient="records")
 
+missing = [x for x in csd_out_list_dict if x["name"]=="Παύλος - Πέτρος Σωτηριάδης" or x["name"]=="Ιωάννης Χατζηλυγερούδης"]
+csd_out_with_abstracts_30_missing = csd_out_with_abstracts_30_missing + missing
 
 # for professor in can_not_fetch:
 #     try:
@@ -52,6 +54,16 @@ csd_out_list_dict = pd.read_csv(r"..\csv_files\csd_data_out_processed_ground_tru
 #     except Exception as error:
 #         print("There is a problem in paper_scraper")
 #         print(error)
+
+for professor in csd_out_specter:
+    try:
+        # pg = ProxyGenerator()
+        # success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+        # scholarly.use_proxy(pg)
+        paper_scraper(professor, threads_num=25)
+    except Exception as error:
+        print("There is a problem in paper_scraper")
+        print(error)
 
 # open saved json file as dictionary
 # with open(r'..\json_files\can_not_fetch_incomplete.json', encoding="utf8") as json_file:

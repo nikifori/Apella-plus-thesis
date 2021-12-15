@@ -36,25 +36,56 @@ def check_unscraped_authors(authors_list: list):
     print(cc)
     return unscraped_authors
 
-# save dictionary as json file
-# json_file = json.dumps(authors_out_of_GS, indent=4)
-# with open(fr'..\json_files\csd_out_with_abstract\csd_out_authors_out_of_GS.json', 'w', encoding='utf-8') as f:
-#     f.write(json_file)
-
-csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter.json")
-csd_out_with_abstracts_30_missing = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing.json")
-# save2json(json_fi=csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter.json")
-
-
-
-unscraped_authors = check_unscraped_authors(csd_out_specter)
-unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing)
-# correct_authors(csd_out_specter, can_not_fetch_complete)
-
-
-
-
-
-
-
-
+if __name__ == '__main__':
+    # save dictionary as json file
+    # json_file = json.dumps(authors_out_of_GS, indent=4)
+    # with open(fr'..\json_files\csd_out_with_abstract\csd_out_authors_out_of_GS.json', 'w', encoding='utf-8') as f:
+    #     f.write(json_file)
+    
+    csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter_with_410_authors.json")
+    # csd_out_with_abstracts_30_missing = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing.json")
+    # save2json(json_fi=csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter_with_410_authors.json")
+    
+    unscraped_authors = check_unscraped_authors(csd_out_specter)
+    unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing)
+    # correct_authors(csd_out_specter, can_not_fetch_complete)
+    
+    df = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth.csv')
+    
+    # add 2 authors that didnt exist in main json file without specter embeddings
+    # temp_list = []
+    # for author in csd_out_with_abstracts_30_missing:
+    #     temp_list.append(author.get("name"))
+    
+    # temp_df = pd.DataFrame(temp_list, columns=["name"])
+    
+    # matched = (temp_df["name"]==df["name"])
+    
+    # for i in df["name"]:
+    #     counter = 0
+    #     for k in temp_df["name"]:
+    #         if k==i:
+    #             counter=1
+    #     if counter==0:
+    #         print(i)      
+    # save2json(csd_out_with_abstracts_30_missing, "csd_out_with_abstract\csd_out_with_abstracts_30_missing2.json")  
+    #---------------------------------------------------------------------------------------------------------------
+    # csd_out_specter.append(csd_out_with_abstracts_30_missing[-2])
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
