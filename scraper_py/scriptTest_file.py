@@ -43,11 +43,12 @@ if __name__ == '__main__':
     #     f.write(json_file)
     
     csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter_with_410_authors.json")
+    csd_out_with_abstracts_30_missing_with_410_authors = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing_with_410_authors.json")
     # csd_out_with_abstracts_30_missing = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing.json")
     # save2json(json_fi=csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter_with_410_authors.json")
     
     unscraped_authors = check_unscraped_authors(csd_out_specter)
-    unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing)
+    unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing_with_410_authors)
     # correct_authors(csd_out_specter, can_not_fetch_complete)
     
     df = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth.csv')
@@ -72,8 +73,9 @@ if __name__ == '__main__':
     #---------------------------------------------------------------------------------------------------------------
     # csd_out_specter.append(csd_out_with_abstracts_30_missing[-2])
     
-    
-    
+    # csd_out_researchgate_only_titles = open_json("csd_out_with_abstract/csd_out_researchgate_only_titles.json")
+    # correct_authors(csd_out_with_abstracts_30_missing_with_410_authors, csd_out_researchgate_only_titles)
+    # save2json(csd_out_with_abstracts_30_missing_with_410_authors, path2save="csd_out_with_abstract\csd_out_completed_missing_2.json")
     
     
     

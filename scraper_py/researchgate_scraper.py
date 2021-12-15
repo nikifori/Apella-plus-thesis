@@ -13,8 +13,6 @@ from difflib import SequenceMatcher
 import json
 import pandas as pd
 import re
-from semanticscholar import SemanticScholar
-import operator
 from semantic_scholar_scraper import *
 import math
 from scriptTest_file import *
