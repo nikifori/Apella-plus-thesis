@@ -5,9 +5,11 @@ import torch
 import numpy as np
 import pandas as pd
 import json
+import ijson
+from itertools import islice
 
 from sentence_transformers import util
-from sbert_utils import read_authors, get_embedding, get_specter_model
+from sbert_utils import get_embedding, get_specter_model
 from emb_clustering import embeddings_clustering
 
 
@@ -27,6 +29,9 @@ def find_author_relevance(authors_target, result):
     result_names = list(result[['Name_roman']].values.flatten())
     total_authors = result[['Name_roman']].size
     target_result = []
+
+    if len(authors_target) == 0:
+        return pd.DataFrame({'target_result':[]})
 
     for i in range(total_authors):
         if result_names[i] in authors_target:
@@ -48,20 +53,23 @@ def read_author_embedding_dict(author):
 
     author_embedding = []
 
+    if "Publications" not in author:
+        return np.empty([0,0])
+
     for pub in author['Publications']:
         if "Specter embedding" in pub:
-            specter_emb = np.array(pub['Specter embedding'][0])
+            # specter_emb = np.array(pub['Specter embedding'][0])
+            specter_emb = np.array([float(f) for f in pub['Specter embedding'][0]])
             author_embedding.append(specter_emb)
         else:
             print("SPECTER EMBEDDING IS MISSING FROM AUTHOR{}".format(author['Name']))
             return np.empty()
 
     author_embedding = np.matrix(author_embedding)
-    # print(author['romanize name'],' ',author_embedding.shape)
     return author_embedding
 
 
-def rank_candidates(auth_dict, title, description, mode='mean', clustering_type='agglomerative', reduction_type='PCA',csd_in=True,input_type='csv'):
+def rank_candidates(fname, title, description, mode='mean', clustering_type='agglomerative', reduction_type='PCA'):
     model, tokenizer = get_specter_model()
 
     title_embedding = get_embedding(title + tokenizer.sep_token + description, model, tokenizer)
@@ -69,38 +77,34 @@ def rank_candidates(auth_dict, title, description, mode='mean', clustering_type=
     similarity_score = []
     roman_name = []
 
-    for author in auth_dict:
-        try:
-            if input_type == "json":
-                author_embeddings_np = read_author_embedding_dict(author)
-            else:
-                author_embeddings_np = read_author_embedding_csv(author, csd_in)
-
+    with open(fname) as f:
+        objects = ijson.items(f, 'item')
+        objects = islice(objects, 500)
+        for author in objects:
+            print(author['romanize name'])
+            author_embeddings_np = read_author_embedding_dict(author)
             author_embeddings = torch.tensor(author_embeddings_np)
             if not author_embeddings_np.size: continue  # No publications found for this author
-        except Exception as e:
-            print("File for {} NOT found...".format(author['romanize name']))
-            continue
 
-        if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
-            aggregated_embeddings = torch.mean(author_embeddings, dim=0)
-        if mode == 'clustering':  # Creates paper cluster (after dimensionality reduction) for each author
-            # and computes the cosine score for the most similar cluster to the title
-            n_clusters = 5
-            cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type, reduction_type=reduction_type, n_clusters=n_clusters)
-            aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
-        if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
-            N_articles = 10
-            aggregated_embeddings = author_embeddings
-            cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
-            cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
+            if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
+                aggregated_embeddings = torch.mean(author_embeddings, dim=0)
+            if mode == 'clustering':  # Creates paper cluster (after dimensionality reduction) for each author
+                # and computes the cosine score for the most similar cluster to the title
+                n_clusters = 5
+                cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type, reduction_type=reduction_type, n_clusters=n_clusters)
+                aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
+            if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
+                N_articles = 10
+                aggregated_embeddings = author_embeddings
+                cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
+                cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
+                roman_name.append(author['romanize name'])
+                similarity_score.append(np.mean(cos_scores))
+                continue
+
+            sim_val = max(util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()))
             roman_name.append(author['romanize name'])
-            similarity_score.append(np.mean(cos_scores))
-            continue
-
-        sim_val = max(util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()))
-        roman_name.append(author['romanize name'])
-        similarity_score.append(float(sim_val))
+            similarity_score.append(float(sim_val))
 
     result = pd.DataFrame({'Name_roman': roman_name,
                            'Cosine_score': similarity_score}).sort_values(by=['Cosine_score'],
@@ -129,17 +133,15 @@ def create_author_embeddings(author, model="", tokenizer=""):
         "author_embeddings/" + author['romanize name'].replace(" ", "_") + "_embeddings.csv", header=False, index=False)
 
 
-def main_ranking_authors(authors_dict, titles, descriptions, authors_targets, ranking_mode, clustering_type, reduction_type, input_type, csd_in):
+def main_ranking_authors(fname, titles, descriptions, authors_targets, ranking_mode, clustering_type, reduction_type, csd_in):
 
     for i, title in enumerate(titles):
-        res = rank_candidates(auth_dict=authors_dict,
+        res = rank_candidates(fname=fname,
                               title=title,
                               description=descriptions[i],
                               mode=ranking_mode,
                               clustering_type=clustering_type,
-                              reduction_type=reduction_type,
-                              csd_in=csd_in,
-                              input_type=input_type)
+                              reduction_type=reduction_type)
 
         # Format Csv Name
         in_or_out = 'in' if csd_in else 'out'
@@ -152,13 +154,13 @@ def main_ranking_authors(authors_dict, titles, descriptions, authors_targets, ra
         if not os.path.exists('./specter_rankings/{}/{}'.format(title, in_or_out)):
             os.mkdir('./specter_rankings/{}/{}'.format(title, in_or_out))
 
-        fname = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
-        if ranking_mode == 'clustering': fname += '_{}_{}'.format(clustering_type,reduction_type)
+        fname_out = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
+        if ranking_mode == 'clustering': fname_out += '_{}_{}'.format(clustering_type,reduction_type)
 
         res_target = find_author_relevance(authors_targets[i], res)
 
-        res.to_csv(fname + '.csv', encoding='utf-8', index=False)
-        res_target.to_csv('{}_target.csv'.format(fname), encoding='utf-8', index=False)
+        res.to_csv(fname_out + '.csv', encoding='utf-8', index=False)
+        res_target.to_csv('{}_target.csv'.format(fname_out), encoding='utf-8', index=False)
 
 
 if __name__ == '__main__':
@@ -169,7 +171,7 @@ if __name__ == '__main__':
     ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
-    clustering_type = 'agglomerative'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
+    clustering_type = 'kmeans'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
     reduction_type = 'PCA'             # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
     input_type = 'json'                # csv or json
 
@@ -182,32 +184,28 @@ if __name__ == '__main__':
     titles.append('Intelligent Systems - Symbolic Artificial Intelligence')
     descriptions.append('Development of intelligent systems using a combination of methodologies of symbolic Artificial Intelligence, such as Representation of Knowledge and Reasoning, Multiagent Systems, Machine Learning, Intelligent Autonomous Systems, Planning and Scheduling of Actions, Satisfaction')
     authors_targets_in.append(['Nikolaos Vasileiadis', 'Ioannis Vlachavas', 'Dimitrios Vrakas', 'Grigorios Tsoumakas', 'Athina Vakali'])
-    authors_targets_out.append([])
+    authors_targets_out.append(['Pavlos Moraitis','Georgios Paliouras','Emmanouil Koumparakis','Georgios Vouros','Grigorios Antoniou','Elpida Keravnou - Papailiou','Themistoklis Panagiotopoulos','Pavlos Peppas','Panagiotis Stamatopoulos','Georgios Chalkiadakis','Konstantinos Stathis','Dimitrios Kalles'])
 
     titles.append('Optical Communications')
     descriptions.append('')
     authors_targets_in.append(['Georgios Papadimitriou', 'Amalia Miliou'])
-    authors_targets_out.append([])
+    authors_targets_out.append([' Kyriakos Zoiros','Georgios Ellinas','Dimitrios  Syvridis','Kyriakos Vlachos','Antonios Bogris','Iraklis  Avramopoulos','Georgios Karagiannidis','Leonidas Georgiadis'])
 
     titles.append('Theoretical Cryptography')
     descriptions.append('Theoretical Cryptography is the development of cryptographical schemes based on difficult to solve algorithmic problems of number theory, as well as' +
                         'cryptanalytic methods for algorithmic solutions on such problems. Computational number theory is the algorithmic number theory problems solution such as' +
                         'factorisation, discrete logarithm problem, etc, which are used on modern cryptography schemes (RSA, Diffie-Hellman), while also quantity estimations in general,' +
                         'such as bounds for family solutions of diophantine equations, special form primes calculation, recursive sequences period calculations')
-    authors_targets_in.append(['Panagiotis Katsaros', 'Anastasios Gounaris ', 'Nikolaos Konofaos', 'Georgios Papadimitriou'])
-    authors_targets_out.append([])
+    authors_targets_in.append(['Panagiotis Katsaros', 'Anastasios Gounaris ', 'Nikolaos Konofaos', 'Georgios Papadimitriou','Eleftherios Angelis'])
+    authors_targets_out.append(['Dimitrios Poulakis','Theodoulos Garefalakis','Emmanouil Magkos','Ioannis Stamatiou','Stefanos Gkritzalis','Ioannis Mavridis','Michail Vrachatis','Vasilios Katos','Konstantinos Markantonakis','Nikolaos Diamantis','Nikolaos Bourmpakis','Ioannis Emiris','Georgios Makris'])
 
     for i,title in enumerate(titles):
         create_position_object(title, descriptions[i], targets_in=authors_targets_in[i], targets_out=authors_targets_out[i])
 
 
     ##### CALCULATE RANKINGS ######
-    csd_in = True
-    authors_dict = read_authors(r'..\json_files\csd_in_with_abstract\csd_in_specter.json')
-    main_ranking_authors(authors_dict, titles, descriptions, authors_targets_in, ranking_mode, clustering_type, reduction_type, input_type, csd_in)
+    fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter.json'
+    fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter.json'
 
-
-
-    # csd_in = False
-    # authors_dict = read_authors(r'..\json_files\csd_out_with_abstract\csd_out_specter_with_410_authors_missing_2.json')
-    # main_ranking_authors(authors_dict, titles, descriptions, authors_targets_out, ranking_mode, clustering_type, input_type, csd_in)
+    # main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, ranking_mode, clustering_type, reduction_type, csd_in=True)
+    main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, ranking_mode, clustering_type, reduction_type, csd_in=False)
