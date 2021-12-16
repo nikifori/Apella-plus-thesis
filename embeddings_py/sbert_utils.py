@@ -2,32 +2,8 @@ import math
 import json
 from os.path import splitext
 
-
-# Returns paper list in batches of 20 papers to reduce RAM consumption
-# FIXED: IT IS NOT NEEDED
-def batching(papers):
-    n = len(papers)
-    batch = []
-    batch_size = 3
-
-    if n > batch_size:
-        for i in range(0, n, batch_size):
-            batch.append(papers[i:min(i + batch_size, n)])
-    else:
-        batch = [papers]
-
-    return batch
-
-
-def chunks(authors_dict, threads):
-    chunked_list = []
-    n = len(authors_dict)
-    for i in range(threads):
-        start = int(math.floor(i * n / threads))
-        finish = int(math.floor((i + 1) * n / threads) - 1)
-        chunked_list.append(authors_dict[start:(finish + 1)])
-
-    return chunked_list
+from transformers import AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
 
 
 def read_authors(fname):
@@ -36,6 +12,17 @@ def read_authors(fname):
         with open(fname, encoding="utf8") as json_file:
             auth_dict = json.load(json_file)
     return auth_dict
+
+
+def get_embedding(text, model, tokenizer):
+    inputs = tokenizer(text, padding=True, truncation=True, return_tensors="pt", max_length=512)
+    return model(**inputs).last_hidden_state[:, 0, :]
+
+
+def get_specter_model():
+    tokenizer = AutoTokenizer.from_pretrained('allenai/specter')
+    model = AutoModel.from_pretrained('allenai/specter')
+    return model, tokenizer
 
 
 def sbert_check_test():
