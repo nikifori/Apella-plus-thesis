@@ -20,31 +20,26 @@ def reduce_dimensions(X, n_dims=5, type='PCA'):
 
     types = ['PCA', 'SVD', 'isomap', 'LLE']
     X_hat = []
-    reducer = []
 
     if type == 'PCA':
         pca = PCA(n_components=n_dims)
         pca.fit(X)
         X_hat = pca.transform(X)
-        reducer = pca
     elif type == 'SVD':
         truncatedSVD = TruncatedSVD(n_dims)
         X_hat = truncatedSVD.fit_transform(X)
-        reducer = truncatedSVD
     elif type == 'isomap':
         isomap = Isomap(n_components=n_dims)
         X_hat= isomap.fit_transform(X)
-        reducer = isomap
     elif type == 'LLE':  #Local Linear Embedding
         lle = LocallyLinearEmbedding(n_components=n_dims)
         X_hat = lle.fit_transform(X)
-        reducer = lle
     else:
         print("------ERROR-----")
         print("Give correct type argument on reduce_dimensions()!!")
         print("Accepted values are: {}".format(types))
 
-    return X_hat, reducer
+    return X_hat
 
 
 def embeddings_clustering(embeddings_input: np.array,
@@ -56,12 +51,12 @@ def embeddings_clustering(embeddings_input: np.array,
     dim_reduction_types = ['PCA', 'SVD', 'isomap', 'LLE']
     author_centroids = []
 
-    dimensions_reduced = 25  #It must be dimensions_reduced < min_samples
-    min_samples = 30
+    dimensions_reduced = 3  #It must be dimensions_reduced < min_samples
+    min_samples = 5
     n_samples = embeddings_input.size(0)
 
     if n_samples > min_samples:
-        embeddings, reducer = reduce_dimensions(embeddings_input,
+        embeddings = reduce_dimensions(embeddings_input,
                                                 n_dims=dimensions_reduced,
                                                 type=reduction_type) \
             if embeddings_input.shape[1] > dimensions_reduced \
@@ -97,4 +92,15 @@ def embeddings_clustering(embeddings_input: np.array,
 
 
 if __name__ == "__main__":
+
     print("emb_clustering.py")
+
+    # Generate random Data
+    X = np.random.rand(100,8)
+
+    # Perform Dimensionality reduction
+    n_dims = 2
+    X_hat = reduce_dimensions(X, n_dims, type='PCA')
+
+    # Perform clustering on data with reduced dimensions (Dimensionality reduction happens inside the function itselt)
+    X_hat = embeddings_clustering(X, type='kmeans', n_clusters=5)
