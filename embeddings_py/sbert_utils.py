@@ -1,5 +1,6 @@
-import math
 import json
+import ijson
+from itertools import islice
 from os.path import splitext
 
 from transformers import AutoTokenizer, AutoModel
@@ -11,6 +12,19 @@ def read_authors(fname):
     if file_extension == '.json':
         with open(fname, encoding="utf8") as json_file:
             auth_dict = json.load(json_file)
+    return auth_dict
+
+
+def read_authors2(fname):
+    _, file_extension = splitext(fname)
+    auth_dict = []
+
+    if file_extension == '.json':
+        with open(fname) as f:
+            objects = ijson.items(f, 'item')
+            objects = islice(objects, 500)
+            for author in objects:
+                auth_dict.append(author)
     return auth_dict
 
 
