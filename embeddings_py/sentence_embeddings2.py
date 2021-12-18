@@ -32,12 +32,17 @@ def find_author_relevance(authors_target, result):
 
     if len(authors_target) == 0:
         return pd.DataFrame({'target_result':[]})
-
+    
+    sum_of_ranking = 0
     for i in range(total_authors):
         if result_names[i] in authors_target:
             print('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
+            sum_of_ranking += i+1
             target_result.append('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
-
+    
+    n_authors = len(authors_target)
+    metric = (n_authors)(n_authors + 1)/(2*sum_of_ranking)
+    print(metric)
     return pd.DataFrame({'target_result':target_result})
 
 

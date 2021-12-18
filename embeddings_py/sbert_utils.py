@@ -5,7 +5,7 @@ from os.path import splitext
 
 from transformers import AutoTokenizer, AutoModel
 from sentence_transformers import SentenceTransformer
-
+from sentence_transformers import util
 
 def read_authors(fname):
     _, file_extension = splitext(fname)
