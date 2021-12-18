@@ -11,6 +11,7 @@ from itertools import islice
 from sentence_transformers import util
 from sbert_utils import get_embedding, get_specter_model
 from emb_clustering import embeddings_clustering
+from utils import *
 
 
 def create_position_object(title, description, targets_in, targets_out):
@@ -41,7 +42,7 @@ def find_author_relevance(authors_target, result):
             target_result.append('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
     
     n_authors = len(authors_target)
-    metric = (n_authors)(n_authors + 1)/(2*sum_of_ranking)
+    metric = (n_authors)*(n_authors + 1)/(2*sum_of_ranking)
     print(metric)
     return pd.DataFrame({'target_result':target_result})
 
@@ -212,5 +213,5 @@ if __name__ == '__main__':
     fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter.json'
     fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter.json'
 
-    # main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, ranking_mode, clustering_type, reduction_type, csd_in=True)
+    main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, ranking_mode, clustering_type, reduction_type, csd_in=True)
     main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, ranking_mode, clustering_type, reduction_type, csd_in=False)
