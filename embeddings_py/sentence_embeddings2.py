@@ -186,25 +186,17 @@ if __name__ == '__main__':
     descriptions = []
     authors_targets_in = []
     authors_targets_out = []
-
-    titles.append('Intelligent Systems - Symbolic Artificial Intelligence')
-    descriptions.append('Development of intelligent systems using a combination of methodologies of symbolic Artificial Intelligence, such as Representation of Knowledge and Reasoning, Multiagent Systems, Machine Learning, Intelligent Autonomous Systems, Planning and Scheduling of Actions, Satisfaction')
-    authors_targets_in.append(['Nikolaos Vasileiadis', 'Ioannis Vlachavas', 'Dimitrios Vrakas', 'Grigorios Tsoumakas', 'Athina Vakali'])
-    authors_targets_out.append(['Pavlos Moraitis','Georgios Paliouras','Emmanouil Koumparakis','Georgios Vouros','Grigorios Antoniou','Elpida Keravnou - Papailiou','Themistoklis Panagiotopoulos','Pavlos Peppas','Panagiotis Stamatopoulos','Georgios Chalkiadakis','Konstantinos Stathis','Dimitrios Kalles'])
-
-    titles.append('Optical Communications')
-    descriptions.append('')
-    authors_targets_in.append(['Georgios Papadimitriou', 'Amalia Miliou'])
-    authors_targets_out.append([' Kyriakos Zoiros','Georgios Ellinas','Dimitrios  Syvridis','Kyriakos Vlachos','Antonios Bogris','Iraklis  Avramopoulos','Georgios Karagiannidis','Leonidas Georgiadis'])
-
-    titles.append('Theoretical Cryptography')
-    descriptions.append('Theoretical Cryptography is the development of cryptographical schemes based on difficult to solve algorithmic problems of number theory, as well as' +
-                        'cryptanalytic methods for algorithmic solutions on such problems. Computational number theory is the algorithmic number theory problems solution such as' +
-                        'factorisation, discrete logarithm problem, etc, which are used on modern cryptography schemes (RSA, Diffie-Hellman), while also quantity estimations in general,' +
-                        'such as bounds for family solutions of diophantine equations, special form primes calculation, recursive sequences period calculations')
-    authors_targets_in.append(['Panagiotis Katsaros', 'Anastasios Gounaris ', 'Nikolaos Konofaos', 'Georgios Papadimitriou','Eleftherios Angelis'])
-    authors_targets_out.append(['Dimitrios Poulakis','Theodoulos Garefalakis','Emmanouil Magkos','Ioannis Stamatiou','Stefanos Gkritzalis','Ioannis Mavridis','Michail Vrachatis','Vasilios Katos','Konstantinos Markantonakis','Nikolaos Diamantis','Nikolaos Bourmpakis','Ioannis Emiris','Georgios Makris'])
-
+    
+    data = open_json(r'.\specter_rankings\test_apella_data.json')
+    
+    # TODO
+    # split standby authors
+    for i in data:
+        titles.append(i.get("title"))
+        descriptions.append(i.get("description"))
+        authors_targets_in.append(i.get("targets_in"))
+        authors_targets_out.append(i.get("targets_out"))
+        
     for i,title in enumerate(titles):
         create_position_object(title, descriptions[i], targets_in=authors_targets_in[i], targets_out=authors_targets_out[i])
 
