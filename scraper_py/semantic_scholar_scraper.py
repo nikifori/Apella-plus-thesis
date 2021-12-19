@@ -97,12 +97,12 @@ def fill_publications(author_dict: dict):
     return author_dict
 
 def save2json(json_fi: list, path2save: str):
-    json_file = json.dumps(json_fi, indent=4)
+    json_file = json.dumps(json_fi, indent=4, ensure_ascii=False)
     with open(fr'..\json_files\{path2save}', 'w', encoding='utf-8') as f:
         f.write(json_file)
             
 def open_json(path2read: str):
-    with open(fr'..\json_files\{path2read}', encoding="utf8") as json_file:
+    with open(fr'..\json_files\{path2read}', encoding="utf-8") as json_file:
         dictionary = json.load(json_file)
     return dictionary
         
