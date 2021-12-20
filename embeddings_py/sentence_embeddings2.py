@@ -55,7 +55,7 @@ def find_author_relevance(authors_target, authors_target_standby, result):
     top_k = len(top_k) / n_authors_target_all * 100
     print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
     target_result.append(f"Metric1: {metric}")
-    target_result.append(f'top_k={top_k}% (top {k} of {total_authors}')
+    target_result.append(f'top_k={top_k}% (top {k} of {total_authors})')
     return pd.DataFrame({'target_result': target_result})
 
 
