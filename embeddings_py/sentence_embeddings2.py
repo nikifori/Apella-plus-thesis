@@ -51,8 +51,7 @@ def find_author_relevance(authors_target, authors_target_standby, result):
             target_result.append('{}/{} ({}):{}'.format(i + 1, total_authors, "standby", result_names[i]))
             if i <= k: top_k.append(i + 1)
 
-    n_authors = len(authors_target)
-    metric = (n_authors) * (n_authors + 1) / (2 * sum_of_ranking)
+    metric = (n_authors_target_all) * (n_authors_target_all + 1) / (2 * sum_of_ranking)
     top_k = len(top_k) / n_authors_target_all * 100
     print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
     return pd.DataFrame({'target_result': target_result})
