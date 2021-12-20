@@ -14,18 +14,23 @@ from emb_clustering import embeddings_clustering
 from utils import *
 
 
-def create_position_object(title, description, targets_in, targets_out):
+def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby):
     position_dict = {
         "title": title,
         "description": description,
         "targets_in": targets_in,
-        "targets_out": targets_out
+        "targets_in_standby": targets_in_standby,
+        "targets_out": targets_out,
+        "targets_out_standby": targets_out_standby
     }
-    with open('./specter_rankings/{}/{}.json'.format(title, title), 'w') as fp:
-        json.dump(position_dict, fp, indent=2)
+    
+    # TODO error with not existing folders
+    save2json(position_dict, path2save=r"./specter_rankings/{}/{}.json".format(title, title))
+    # with open('./specter_rankings/{}/{}.json'.format(title, title), 'w') as fp:
+    #     json.dump(position_dict, fp, indent=2)
 
 
-def find_author_relevance(authors_target, result):
+def find_author_relevance(authors_target, authors_target_standby, result):
     print("Selected Authors ranking:")
     result_names = list(result[['Name_roman']].values.flatten())
     total_authors = result[['Name_roman']].size
@@ -40,6 +45,10 @@ def find_author_relevance(authors_target, result):
             print('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
             sum_of_ranking += i+1
             target_result.append('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
+        elif result_names[i] in authors_target_standby:
+            print('{}/{} ({}):{}'.format(i+1,total_authors,"standby",result_names[i]))
+            sum_of_ranking += i+1
+            target_result.append('{}/{} ({}):{}'.format(i+1,total_authors,"standby",result_names[i]))
     
     n_authors = len(authors_target)
     metric = (n_authors)*(n_authors + 1)/(2*sum_of_ranking)
@@ -139,7 +148,7 @@ def create_author_embeddings(author, model="", tokenizer=""):
         "author_embeddings/" + author['romanize name'].replace(" ", "_") + "_embeddings.csv", header=False, index=False)
 
 
-def main_ranking_authors(fname, titles, descriptions, authors_targets, ranking_mode, clustering_type, reduction_type, csd_in):
+def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_targets_standby, ranking_mode, clustering_type, reduction_type, csd_in):
 
     for i, title in enumerate(titles):
         res = rank_candidates(fname=fname,
@@ -163,21 +172,21 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, ranking_m
         fname_out = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
         if ranking_mode == 'clustering': fname_out += '_{}_{}'.format(clustering_type,reduction_type)
 
-        res_target = find_author_relevance(authors_targets[i], res)
+        res_target = find_author_relevance(authors_targets[i], authors_targets_standby[i], res)
 
         res.to_csv(fname_out + '.csv', encoding='utf-8', index=False)
         res_target.to_csv('{}_target.csv'.format(fname_out), encoding='utf-8', index=False)
 
-
+    
 if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
-    # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
+    ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
     # ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
-    ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
+    # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
-    clustering_type = 'kmeans'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
+    clustering_type = 'agglomerative'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
     reduction_type = 'PCA'             # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
     input_type = 'json'                # csv or json
 
@@ -185,25 +194,33 @@ if __name__ == '__main__':
     titles = []
     descriptions = []
     authors_targets_in = []
+    authors_targets_in_standby = []
     authors_targets_out = []
+    authors_targets_out_standby = []
     
     data = open_json(r'.\specter_rankings\test_apella_data.json')
     
     # TODO
     # split standby authors
-    for i in data:
+    for i in data[:-1]: # ignore last one without target_lists
         titles.append(i.get("title"))
         descriptions.append(i.get("description"))
         authors_targets_in.append(i.get("targets_in"))
+        authors_targets_in_standby.append(i.get("targets_in_standby"))
         authors_targets_out.append(i.get("targets_out"))
-        
-    for i,title in enumerate(titles):
-        create_position_object(title, descriptions[i], targets_in=authors_targets_in[i], targets_out=authors_targets_out[i])
+        authors_targets_out_standby.append(i.get("targets_out_standby"))
+          
+    for i, title in enumerate(titles):
+        create_position_object(title, descriptions[i], 
+                               targets_in=authors_targets_in[i],
+                               targets_in_standby=authors_targets_in_standby[i],
+                               targets_out=authors_targets_out[i],
+                               targets_out_standby=authors_targets_out_standby[i])
 
 
     ##### CALCULATE RANKINGS ######
-    fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter.json'
+    fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter_no_greeks.json'
     fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter.json'
 
-    main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, ranking_mode, clustering_type, reduction_type, csd_in=True)
-    main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, ranking_mode, clustering_type, reduction_type, csd_in=False)
+    main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, authors_targets_in_standby, ranking_mode, clustering_type, reduction_type, csd_in=True)
+    main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, authors_targets_out_standby, ranking_mode, clustering_type, reduction_type, csd_in=False)
