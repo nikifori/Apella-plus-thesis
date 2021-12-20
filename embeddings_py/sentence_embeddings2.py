@@ -128,6 +128,9 @@ def rank_candidates(fname, title, description, mode='mean', clustering_type='agg
                         print("Except")
                         continue
             if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
+                author_embeddings_np = read_author_embedding_dict(author)
+                author_embeddings = torch.tensor(author_embeddings_np)
+                if not author_embeddings_np.size: continue  # No publications found for this author
                 N_articles = 10
                 aggregated_embeddings = author_embeddings
                 cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
