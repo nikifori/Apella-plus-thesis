@@ -1,12 +1,7 @@
 # Specter Embeddings Csd_in and Csd_out at "https://drive.google.com/drive/folders/1SKbwnNQR3aa94far3JcBtbQ1DKZcVE2v?usp=sharing"
-import os.path
-
 import torch
 import numpy as np
 import pandas as pd
-import json
-import ijson
-from itertools import islice
 
 from sentence_transformers import util
 from sbert_utils import get_embedding, get_specter_model
@@ -23,37 +18,44 @@ def create_position_object(title, description, targets_in, targets_in_standby, t
         "targets_out": targets_out,
         "targets_out_standby": targets_out_standby
     }
-    
-    # TODO error with not existing folders
+
+    my_mkdir(r"./specter_rankings/")
+    my_mkdir(r"./specter_rankings/{}".format(title))
+    my_mkdir(r"./specter_rankings/{}/{}".format(title, title))
     save2json(position_dict, path2save=r"./specter_rankings/{}/{}.json".format(title, title))
-    # with open('./specter_rankings/{}/{}.json'.format(title, title), 'w') as fp:
-    #     json.dump(position_dict, fp, indent=2)
 
 
 def find_author_relevance(authors_target, authors_target_standby, result):
     print("Selected Authors ranking:")
     result_names = list(result[['Name_roman']].values.flatten())
     total_authors = result[['Name_roman']].size
+    n_authors_target_all = len(authors_target) + len(authors_target_standby)
+
+    k = int(1.5 * n_authors_target_all)
+    top_k = []
     target_result = []
 
     if len(authors_target) == 0:
-        return pd.DataFrame({'target_result':[]})
-    
+        return pd.DataFrame({'target_result': []})
+
     sum_of_ranking = 0
     for i in range(total_authors):
         if result_names[i] in authors_target:
-            print('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
-            sum_of_ranking += i+1
-            target_result.append('{}/{}:{}'.format(i+1,total_authors,result_names[i]))
+            print('{}/{}:{}'.format(i + 1, total_authors, result_names[i]))
+            sum_of_ranking += i + 1
+            target_result.append('{}/{}:{}'.format(i + 1, total_authors, result_names[i]))
+            if i <= k: top_k.append(i + 1)
         elif result_names[i] in authors_target_standby:
-            print('{}/{} ({}):{}'.format(i+1,total_authors,"standby",result_names[i]))
-            sum_of_ranking += i+1
-            target_result.append('{}/{} ({}):{}'.format(i+1,total_authors,"standby",result_names[i]))
-    
+            print('{}/{} ({}):{}'.format(i + 1, total_authors, "standby", result_names[i]))
+            sum_of_ranking += i + 1
+            target_result.append('{}/{} ({}):{}'.format(i + 1, total_authors, "standby", result_names[i]))
+            if i <= k: top_k.append(i + 1)
+
     n_authors = len(authors_target)
-    metric = (n_authors)*(n_authors + 1)/(2*sum_of_ranking)
-    print(metric)
-    return pd.DataFrame({'target_result':target_result})
+    metric = (n_authors) * (n_authors + 1) / (2 * sum_of_ranking)
+    top_k = len(top_k) / n_authors_target_all * 100
+    print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
+    return pd.DataFrame({'target_result': target_result})
 
 
 def read_author_embedding_csv(author, csd_in=True):
@@ -97,17 +99,35 @@ def rank_candidates(fname, title, description, mode='mean', clustering_type='agg
         objects = islice(objects, 500)
         for author in objects:
             print(author['romanize name'])
-            author_embeddings_np = read_author_embedding_dict(author)
-            author_embeddings = torch.tensor(author_embeddings_np)
-            if not author_embeddings_np.size: continue  # No publications found for this author
+            fname_base = "./author_embeddings/aggregations/" + author['romanize name'].replace(" ", "_") + "/"
 
             if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
-                aggregated_embeddings = torch.mean(author_embeddings, dim=0)
+                fname_in = fname_base + "mean.csv"
+                try:
+                    aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
+                except:
+                    author_embeddings_np = read_author_embedding_dict(author)
+                    author_embeddings = torch.tensor(author_embeddings_np)
+                    if not author_embeddings_np.size: continue  # No publications found for this author
+                    aggregated_embeddings = torch.mean(author_embeddings, dim=0)
             if mode == 'clustering':  # Creates paper cluster (after dimensionality reduction) for each author
-                # and computes the cosine score for the most similar cluster to the title
+                                      # and computes the cosine score for the most similar cluster to the title
                 n_clusters = 5
-                cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type, reduction_type=reduction_type, n_clusters=n_clusters)
-                aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
+                try:
+                    fname_in = fname_base + "{}_{}_{}_{}.csv".format(clustering_type, n_clusters, reduction_type, 3)
+                    aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
+                except:
+                    try:
+                        author_embeddings_np = read_author_embedding_dict(author)
+                        author_embeddings = torch.tensor(author_embeddings_np)
+                        if not author_embeddings_np.size: continue  # No publications found for this author
+                        cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type,
+                                                                      reduction_type=reduction_type,
+                                                                      n_clusters=n_clusters)
+                        aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
+                    except:
+                        print("Except")
+                        continue
             if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
                 N_articles = 10
                 aggregated_embeddings = author_embeddings
@@ -160,33 +180,28 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
 
         # Format Csv Name
         in_or_out = 'in' if csd_in else 'out'
-        if not os.path.exists('./specter_rankings'):
-            os.mkdir('./specter_rankings')
+        my_mkdir('./specter_rankings')
+        my_mkdir('./specter_rankings/{}'.format(title))
+        my_mkdir('./specter_rankings/{}/{}'.format(title, in_or_out))
 
-        if not os.path.exists('./specter_rankings/{}'.format(title)):
-            os.mkdir('./specter_rankings/{}'.format(title))
-
-        if not os.path.exists('./specter_rankings/{}/{}'.format(title, in_or_out)):
-            os.mkdir('./specter_rankings/{}/{}'.format(title, in_or_out))
-
-        fname_out = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
-        if ranking_mode == 'clustering': fname_out += '_{}_{}'.format(clustering_type,reduction_type)
+        fname_output = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
+        if ranking_mode == 'clustering': fname_output += '_{}_{}'.format(clustering_type, reduction_type)
 
         res_target = find_author_relevance(authors_targets[i], authors_targets_standby[i], res)
 
-        res.to_csv(fname_out + '.csv', encoding='utf-8', index=False)
-        res_target.to_csv('{}_target.csv'.format(fname_out), encoding='utf-8', index=False)
+        res.to_csv(fname_output + '.csv', encoding='utf-8', index=False)
+        res_target.to_csv('{}_target.csv'.format(fname_output), encoding='utf-8', index=False)
 
     
 if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
-    ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
+    # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
     # ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
-    # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
+    ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
-    clustering_type = 'agglomerative'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
+    clustering_type = 'kmeans'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
     reduction_type = 'PCA'             # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
     input_type = 'json'                # csv or json
 
