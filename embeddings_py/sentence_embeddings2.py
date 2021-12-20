@@ -54,6 +54,8 @@ def find_author_relevance(authors_target, authors_target_standby, result):
     metric = (n_authors_target_all) * (n_authors_target_all + 1) / (2 * sum_of_ranking)
     top_k = len(top_k) / n_authors_target_all * 100
     print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
+    target_result.append(f"Metric1: {metric}")
+    target_result.append(f'top_k={top_k}% (top {k} of {total_authors}')
     return pd.DataFrame({'target_result': target_result})
 
 
@@ -199,11 +201,11 @@ if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
     # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
-    # ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
-    ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
+    ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
+    # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
-    clustering_type = 'kmeans'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
+    clustering_type = 'agglomerative'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
     reduction_type = 'PCA'             # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
     input_type = 'json'                # csv or json
 
@@ -219,7 +221,7 @@ if __name__ == '__main__':
     
     # TODO
     # split standby authors
-    for i in data[:-1]: # ignore last one without target_lists
+    for i in data[3:-1]: # ignore last one without target_lists
         titles.append(i.get("title"))
         descriptions.append(i.get("description"))
         authors_targets_in.append(i.get("targets_in"))
