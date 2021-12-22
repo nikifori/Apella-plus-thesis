@@ -46,7 +46,8 @@ def embeddings_clustering(embeddings_input: np.array,
                           type='agglomerative',
                           reduction_type='PCA',
                           n_clusters=5):
-
+    
+    # TODO k-medoids
     clustering_types = ['agglomerative', 'kmeans','dbscan']
     dim_reduction_types = ['PCA', 'SVD', 'isomap', 'LLE']
     author_centroids = []

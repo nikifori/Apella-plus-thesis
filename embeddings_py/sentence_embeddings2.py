@@ -219,8 +219,6 @@ if __name__ == '__main__':
     
     data = open_json(r'.\specter_rankings\test_apella_data.json')
     
-    # TODO
-    # split standby authors
     for i in data[3:-1]: # ignore last one without target_lists
         titles.append(i.get("title"))
         descriptions.append(i.get("description"))
