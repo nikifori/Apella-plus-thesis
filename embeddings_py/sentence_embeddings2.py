@@ -137,7 +137,7 @@ def rank_candidates(fname, title, description, mode='mean', clustering_type='agg
                 author_embeddings_np = read_author_embedding_dict(author)
                 author_embeddings = torch.tensor(author_embeddings_np)
                 if not author_embeddings_np.size: continue  # No publications found for this author
-                N_articles = 15
+                N_articles = 10
                 aggregated_embeddings = author_embeddings
                 cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
                 cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
@@ -223,7 +223,7 @@ if __name__ == '__main__':
     
     data = open_json(r'.\specter_rankings\test_apella_data.json')
     
-    for i in data[3:-1]: # ignore last one without target_lists
+    for i in data[:-1]: # ignore last one without target_lists
         titles.append(i.get("title"))
         descriptions.append(i.get("description"))
         authors_targets_in.append(i.get("targets_in"))
