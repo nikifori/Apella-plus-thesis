@@ -4,6 +4,22 @@ from sklearn.manifold import Isomap, LocallyLinearEmbedding
 import numpy as np
 
 
+def average_precision(authors_target: list, authors_target_standby: list, pred_ranking: list):
+    true_ranking = authors_target + authors_target_standby
+    authors_len = len(true_ranking)
+    
+    precision_sum = 0
+    authors_sum = 0
+    
+    for cc, author in enumerate(pred_ranking):
+        if author in true_ranking:
+            authors_sum += 1
+            precision_sum += authors_sum/(cc+1)
+    
+    averagePre = precision_sum/authors_len
+    return averagePre
+
+
 def get_clusters(X, y_predict):
     clusters = []
     n_clusters = len(np.unique(y_predict))

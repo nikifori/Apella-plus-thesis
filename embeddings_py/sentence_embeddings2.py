@@ -5,7 +5,7 @@ import pandas as pd
 
 from sentence_transformers import util
 from sbert_utils import get_embedding, get_specter_model
-from emb_clustering import embeddings_clustering
+from emb_clustering import embeddings_clustering, average_precision
 from utils import *
 
 
@@ -51,11 +51,15 @@ def find_author_relevance(authors_target, authors_target_standby, result):
             target_result.append('{}/{} ({}):{}'.format(i + 1, total_authors, "standby", result_names[i]))
             if i <= k: top_k.append(i + 1)
 
-    metric = (n_authors_target_all) * (n_authors_target_all + 1) / (2 * sum_of_ranking)
-    top_k = len(top_k) / n_authors_target_all * 100
-    print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
-    target_result.append(f"Metric1: {metric}")
-    target_result.append(f'top_k={top_k}% (top {k} of {total_authors})')
+    # metric = (n_authors_target_all) * (n_authors_target_all + 1) / (2 * sum_of_ranking)
+    # top_k = len(top_k) / n_authors_target_all * 100
+    # print("Metric1:{}, top_k={}% (top {} of {})".format(metric, top_k, k, total_authors))
+    # target_result.append(f"Metric1: {metric}")
+    # target_result.append(f'top_k={top_k}% (top {k} of {total_authors})')
+    averageP = average_precision(authors_target, authors_target_standby, result_names)
+    target_result.append(f"Average Precision: {averageP}")
+    print('Average Precision: {}'.format(averageP))
+    
     return pd.DataFrame({'target_result': target_result})
 
 
@@ -133,7 +137,7 @@ def rank_candidates(fname, title, description, mode='mean', clustering_type='agg
                 author_embeddings_np = read_author_embedding_dict(author)
                 author_embeddings = torch.tensor(author_embeddings_np)
                 if not author_embeddings_np.size: continue  # No publications found for this author
-                N_articles = 10
+                N_articles = 15
                 aggregated_embeddings = author_embeddings
                 cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
                 cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
