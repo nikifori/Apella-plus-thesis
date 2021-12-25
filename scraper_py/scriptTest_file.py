@@ -111,9 +111,7 @@ def correct_rank(authors_list: list):
         csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek.json")
         csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek.json")
         
-        csd_in_completed_no_greek = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek.json")
-    
-    
+        
     
     
     

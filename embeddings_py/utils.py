@@ -51,7 +51,7 @@ def read_authors2(fname):
 
 
 if __name__ == '__main__':
-    
-    csd_out_completed_missing_2 = open_json(r"E:\GitHub_clones\Apella-plus-thesis\json_files\csd_out_with_abstract\csd_out_completed_missing_2.json")
-    save2json(csd_out_completed_missing_2, path2save=r"E:\GitHub_clones\Apella-plus-thesis\json_files\csd_out_with_abstract\csd_out_completed_missing_22.json")
-    test = open_json(r'.\specter_rankings\test_apella_data.json')
+    pass
+    # csd_out_completed_missing_2 = open_json(r"E:\GitHub_clones\Apella-plus-thesis\json_files\csd_out_with_abstract\csd_out_completed_missing_2.json")
+    # save2json(csd_out_completed_missing_2, path2save=r"E:\GitHub_clones\Apella-plus-thesis\json_files\csd_out_with_abstract\csd_out_completed_missing_22.json")
+    # test = open_json(r'.\specter_rankings\test_apella_data.json')

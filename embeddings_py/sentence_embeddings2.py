@@ -91,7 +91,7 @@ def read_author_embedding_dict(author):
     return author_embedding
 
 
-def rank_candidates(fname, title, description, mode='mean', clustering_type='agglomerative', reduction_type='PCA'):
+def rank_candidates(fname, title, description, position_rank, mode='mean', clustering_type='agglomerative', reduction_type='PCA'):
     model, tokenizer = get_specter_model()
 
     title_embedding = get_embedding(title + tokenizer.sep_token + description, model, tokenizer)
@@ -103,52 +103,58 @@ def rank_candidates(fname, title, description, mode='mean', clustering_type='agg
         objects = ijson.items(f, 'item')
         objects = islice(objects, 500)
         for author in objects:
-            print(author['romanize name'])
-            fname_base = "./author_embeddings/aggregations/" + author['romanize name'].replace(" ", "_") + "/"
-
-            if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
-                fname_in = fname_base + "mean.csv"
-                try:
-                    aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
-                except:
-                    author_embeddings_np = read_author_embedding_dict(author)
-                    author_embeddings = torch.tensor(author_embeddings_np)
-                    if not author_embeddings_np.size: continue  # No publications found for this author
-                    aggregated_embeddings = torch.mean(author_embeddings, dim=0)
-            if mode == 'clustering':  # Creates paper cluster (after dimensionality reduction) for each author
-                                      # and computes the cosine score for the most similar cluster to the title
-                n_clusters = 5
-                try:
-                    fname_in = fname_base + "{}_{}_{}_{}.csv".format(clustering_type, n_clusters, reduction_type, 3)
-                    aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
-                except:
+            if author["Rank"]<=position_rank:
+                print(author['romanize name'])
+                fname_base = "./author_embeddings/aggregations/" + author['romanize name'].replace(" ", "_") + "/"
+    
+                if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
+                    fname_in = fname_base + "mean.csv"
                     try:
+                        aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
+                    except:
                         author_embeddings_np = read_author_embedding_dict(author)
                         author_embeddings = torch.tensor(author_embeddings_np)
                         if not author_embeddings_np.size: continue  # No publications found for this author
-                        cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type,
-                                                                      reduction_type=reduction_type,
-                                                                      n_clusters=n_clusters)
-                        aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
+                        aggregated_embeddings = torch.mean(author_embeddings, dim=0)
+                if mode == 'clustering':  # Creates paper cluster (after dimensionality reduction) for each author
+                                          # and computes the cosine score for the most similar cluster to the title
+                    n_clusters = 5
+                    try:
+                        fname_in = fname_base + "{}_{}_{}_{}.csv".format(clustering_type, n_clusters, reduction_type, 3)
+                        aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
                     except:
-                        print("Except")
-                        continue
-            if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
-                author_embeddings_np = read_author_embedding_dict(author)
-                author_embeddings = torch.tensor(author_embeddings_np)
-                if not author_embeddings_np.size: continue  # No publications found for this author
-                N_articles = 10
-                aggregated_embeddings = author_embeddings
-                cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
-                cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
+                        try:
+                            author_embeddings_np = read_author_embedding_dict(author)
+                            author_embeddings = torch.tensor(author_embeddings_np)
+                            if not author_embeddings_np.size: continue  # No publications found for this author
+                            cluster_centroids = embeddings_clustering(author_embeddings, type=clustering_type,
+                                                                          reduction_type=reduction_type,
+                                                                          n_clusters=n_clusters)
+                            aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
+                        except:
+                            print("Except")
+                            continue
+                if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
+                    author_embeddings_np = read_author_embedding_dict(author)
+                    author_embeddings = torch.tensor(author_embeddings_np)
+                    if not author_embeddings_np.size: continue  # No publications found for this author
+                    N_articles = 10
+                    aggregated_embeddings = author_embeddings
+                    cos_scores = util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()).detach().cpu().numpy()
+                    cos_scores = np.sort(cos_scores, axis=0,)[-N_articles:]
+                    roman_name.append(author['romanize name'])
+                    similarity_score.append(np.mean(cos_scores))
+                    continue
+
+                sim_val = max(util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()))
                 roman_name.append(author['romanize name'])
-                similarity_score.append(np.mean(cos_scores))
-                continue
-
-            sim_val = max(util.pytorch_cos_sim(aggregated_embeddings, title_embedding.double()))
-            roman_name.append(author['romanize name'])
-            similarity_score.append(float(sim_val))
-
+                similarity_score.append(float(sim_val))
+                
+            else:
+                sim_val = 0
+                roman_name.append(author['romanize name'])
+                similarity_score.append(float(sim_val))
+                
     result = pd.DataFrame({'Name_roman': roman_name,
                            'Cosine_score': similarity_score}).sort_values(by=['Cosine_score'],
                                                                           ascending=False)
@@ -176,12 +182,13 @@ def create_author_embeddings(author, model="", tokenizer=""):
         "author_embeddings/" + author['romanize name'].replace(" ", "_") + "_embeddings.csv", header=False, index=False)
 
 
-def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_targets_standby, ranking_mode, clustering_type, reduction_type, csd_in):
+def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_targets_standby, position_ranks, ranking_mode, clustering_type, reduction_type, csd_in):
 
     for i, title in enumerate(titles):
         res = rank_candidates(fname=fname,
                               title=title,
                               description=descriptions[i],
+                              position_rank=position_ranks[i],
                               mode=ranking_mode,
                               clustering_type=clustering_type,
                               reduction_type=reduction_type)
@@ -204,8 +211,8 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
 if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
-    # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
-    ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
+    ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
+    # ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
     # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
@@ -220,6 +227,7 @@ if __name__ == '__main__':
     authors_targets_in_standby = []
     authors_targets_out = []
     authors_targets_out_standby = []
+    position_ranks = []
     
     data = open_json(r'.\specter_rankings\test_apella_data.json')
     
@@ -230,6 +238,7 @@ if __name__ == '__main__':
         authors_targets_in_standby.append(i.get("targets_in_standby"))
         authors_targets_out.append(i.get("targets_out"))
         authors_targets_out_standby.append(i.get("targets_out_standby"))
+        position_ranks.append(i.get("rank"))
           
     for i, title in enumerate(titles):
         create_position_object(title, descriptions[i], 
@@ -240,8 +249,12 @@ if __name__ == '__main__':
 
 
     ##### CALCULATE RANKINGS ######
-    fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter_no_greeks.json'
-    fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter.json'
+    fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter_no_greek_rank.json'
+    fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter_rank.json'
 
-    main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, authors_targets_in_standby, ranking_mode, clustering_type, reduction_type, csd_in=True)
-    main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, authors_targets_out_standby, ranking_mode, clustering_type, reduction_type, csd_in=False)
+    main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, 
+                         authors_targets_in_standby, position_ranks, ranking_mode, 
+                         clustering_type, reduction_type, csd_in=True)
+    main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, 
+                         authors_targets_out_standby, position_ranks, ranking_mode, 
+                         clustering_type, reduction_type, csd_in=False)
