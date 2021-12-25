@@ -213,8 +213,8 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
 if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
-    ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
-    # ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
+    # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
+    ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
     # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
                                      # and computes the cosine score for the most similar cluster to the title
 
@@ -248,7 +248,7 @@ if __name__ == '__main__':
                                targets_in_standby=authors_targets_in_standby[i],
                                targets_out=authors_targets_out[i],
                                targets_out_standby=authors_targets_out_standby[i],
-                               position_ranks[i])
+                               position_rank=position_ranks[i])
 
 
     ##### CALCULATE RANKINGS ######
