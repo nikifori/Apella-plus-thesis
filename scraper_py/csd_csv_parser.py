@@ -25,6 +25,7 @@ def df_to_dict_parser(df):
                'Εθνικό Κέντρο Ερευνας Φυσικών Επιστημών "ΔΗΜΟΚΡΙΤΟΣ"': "demokritos", "Πολυτεχνέιο Κρήτης": "tuc", 
                "Πανεπιστήμιο Πειραιως": "unipi", "Ανοικτό Πανεπιστήμιο Κύπρου": "ouc"}
     
+    # TODO correct rank of professors. Proprocess duplicates 
     try:
         df = df[["Επώνυμο", "Όνομα", "Τμήμα", "Ίδρυμα", "Βαθμίδα", "Κωδικός ΑΠΕΛΛΑ"]]
         df["name"] = df["Όνομα"] + " " + df["Επώνυμο"]
@@ -50,5 +51,11 @@ def df_to_dict_parser(df):
 
 
 
-
-
+if __name__ == '__main__':
+    csd_in = pd.read_excel(r"..\csv_files\csd_data_in.xlsx")
+    csd_out = pd.read_excel(r"..\csv_files\csd_data_out.xlsx")
+    csd_in["Βαθμίδα"].unique()
+    csd_in["Βαθμίδα"].value_counts()
+    csd_out["Βαθμίδα"].value_counts()
+    csd_in["Βαθμίδα"].isna().sum()
+    csd_out["Βαθμίδα"].isna().sum()
