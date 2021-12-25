@@ -9,14 +9,16 @@ from emb_clustering import embeddings_clustering, average_precision
 from utils import *
 
 
-def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby):
+def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby, position_rank):
     position_dict = {
         "title": title,
         "description": description,
+        "rank": position_rank,
         "targets_in": targets_in,
         "targets_in_standby": targets_in_standby,
         "targets_out": targets_out,
         "targets_out_standby": targets_out_standby
+        
     }
 
     my_mkdir(r"./specter_rankings/")
@@ -245,7 +247,8 @@ if __name__ == '__main__':
                                targets_in=authors_targets_in[i],
                                targets_in_standby=authors_targets_in_standby[i],
                                targets_out=authors_targets_out[i],
-                               targets_out_standby=authors_targets_out_standby[i])
+                               targets_out_standby=authors_targets_out_standby[i],
+                               position_ranks[i])
 
 
     ##### CALCULATE RANKINGS ######
