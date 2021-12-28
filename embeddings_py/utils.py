@@ -50,6 +50,31 @@ def read_authors2(fname):
     return auth_dict
 
 
+def find_author_rank(author):
+    # all_ranks = ['Αναπληρωτής καθηγητής', 'Αναπληρωτής Καθηγητής ', 'Καθηγητής', 'Αναπληρωτής Καθηγητής', 'Διευθυντής Ερευνών',
+    #              'Κύριος Ερευνητής', 'Καθηγήτρια', 'Επίκουρος Καθηγητής (Μόνιμος)', 'Professor', ' Καθηγητής', 'Kαθηγητής']
+
+    rank_3 = ['Επίκουρος Καθηγητής (Μόνιμος)']
+    rank_2 = ['Αναπληρωτής καθηγητής', 'Αναπληρωτής Καθηγητής ', 'Αναπληρωτής Καθηγητής', 'Κύριος Ερευνητής']
+    rank_1 = ['Καθηγητής', 'Διευθυντής Ερευνών', 'Καθηγήτρια', 'Professor', ' Καθηγητής', 'Kαθηγητής']
+
+    if "Rank" in author:
+        if author["Rank"] in [1, 2, 3]:
+            return author["Rank"]
+        else:
+            true_rank = author["Rank"]
+    else:
+        return 1
+
+    true_rank_int = 1
+
+    if true_rank in rank_1: true_rank_int = 1
+    if true_rank in rank_2: true_rank_int = 2
+    if true_rank in rank_3: true_rank_int = 3
+
+    return true_rank_int
+
+
 if __name__ == '__main__':
     pass
     # csd_out_completed_missing_2 = open_json(r"E:\GitHub_clones\Apella-plus-thesis\json_files\csd_out_with_abstract\csd_out_completed_missing_2.json")
