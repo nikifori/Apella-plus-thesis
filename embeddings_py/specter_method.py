@@ -76,25 +76,28 @@ def chunks(my_list, threads):
        
     return chunked_list
 #------------------------------------------------------------------------------      
-with open(r'..\json_files\csd_in_with_abstract\csd_in_with_abstracts_db.json', encoding="utf8") as json_file:
-    csd_in_list_dict = json.load(json_file)
-with open(r'..\json_files\csd_out_with_abstract\csd_out_with_abstracts_db.json', encoding="utf8") as json_file:
-    csd_out_list_dict = json.load(json_file)
+
+if __name__ == '__main__':
+
+    with open(r'..\json_files\csd_in_with_abstract\csd_in_with_abstracts_db.json', encoding="utf8") as json_file:
+        csd_in_list_dict = json.load(json_file)
+    with open(r'..\json_files\csd_out_with_abstract\csd_out_with_abstracts_db.json', encoding="utf8") as json_file:
+        csd_out_list_dict = json.load(json_file)
+        
+    authors_in_with_embeddings = specter_embedding(csd_in_list_dict)
+    # save dictionary as json file
+    json_file = json.dumps(csd_in_list_dict, indent=4)
+    json_name = "csd_in_specter"
+    with open(fr'..\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
+        f.write(f"{json_file}")
     
-authors_in_with_embeddings = specter_embedding(csd_in_list_dict)
-# save dictionary as json file
-json_file = json.dumps(csd_in_list_dict, indent=4)
-json_name = "csd_in_specter"
-with open(fr'..\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
-    f.write(f"{json_file}")
-
-authors_out_with_embeddings = specter_embedding(csd_out_list_dict)
-# save dictionary as json file
-json_file = json.dumps(csd_out_list_dict, indent=4)
-json_name = "csd_out_specter"
-with open(fr'..\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
-    f.write(f"{json_file}")
-
+    authors_out_with_embeddings = specter_embedding(csd_out_list_dict)
+    # save dictionary as json file
+    json_file = json.dumps(csd_out_list_dict, indent=4)
+    json_name = "csd_out_specter"
+    with open(fr'..\json_files\{json_name}.json', 'w', encoding='utf-8') as f:
+        f.write(f"{json_file}")
+    
 
 
 
