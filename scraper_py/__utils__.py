@@ -17,6 +17,18 @@ def save2json(json_fi: list, path2save: str):
         f.write(json_file)
             
 def open_json(path2read: str):
+    """
+    
+
+    Args:
+        path2read (str): DESCRIPTION.
+
+    Returns:
+        dictionary (TYPE): DESCRIPTION.
+
+    """
+    
+    
     with open(fr'{path2read}', encoding="utf8") as json_file:
         dictionary = json.load(json_file)
     return dictionary
