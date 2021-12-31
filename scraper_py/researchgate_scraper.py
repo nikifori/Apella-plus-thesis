@@ -13,7 +13,7 @@ from difflib import SequenceMatcher
 import json
 import pandas as pd
 import re
-from semantic_scholar_scraper import *
+from __utils__ import *
 import math
 from scriptTest_file import *
 
@@ -100,10 +100,12 @@ def title_scraper(author_dict: dict):
                     paper_section = stop_at.find_all_previous("div", class_="nova-legacy-o-stack nova-legacy-o-stack--gutter-xxl nova-legacy-o-stack--spacing-xl nova-legacy-o-stack--show-divider")[1]
                     paper_blocks = paper_section.find_all("div", class_="nova-legacy-o-stack__item")
                     for cc, i in enumerate(paper_blocks):
-                        title = i.find("a", class_="nova-legacy-e-link nova-legacy-e-link--color-inherit nova-legacy-e-link--theme-bare").text
-                        new_paper = {"Title": title}
+                        block = i.find("a", class_="nova-legacy-e-link nova-legacy-e-link--color-inherit nova-legacy-e-link--theme-bare")
+                        paper_title = block.text
+                        paper_link = block["href"]
+                        new_paper = {"Title": paper_title, "Paper url": paper_link}
                         print(cc)
-                        print(title)
+                        print(paper_title)
                         try: 
                             pub_year = i.find("li", class_="nova-legacy-e-list__item nova-legacy-v-publication-item__meta-data-item")
                             pub_year = re.findall('\d+', pub_year.text)[0]
@@ -132,10 +134,12 @@ def title_scraper(author_dict: dict):
                     paper_section = soup.find_all("div", id="research-items")[0]
                     paper_blocks = paper_section.find_all("div", class_="nova-legacy-v-publication-item__body")
                     for cc, i in enumerate(paper_blocks):
-                        title = i.find('a', class_="nova-legacy-e-link nova-legacy-e-link--color-inherit nova-legacy-e-link--theme-bare").text
-                        new_paper = {"Title": title}
+                        block = i.find('a', class_="nova-legacy-e-link nova-legacy-e-link--color-inherit nova-legacy-e-link--theme-bare")
+                        paper_title = block.text
+                        paper_link = block["href"]
+                        new_paper = {"Title": paper_title, "Paper url": paper_link}
                         print(cc)
-                        print(title)
+                        print(paper_title)
                         try: 
                             pub_year = i.find("li", class_="nova-legacy-e-list__item nova-legacy-v-publication-item__meta-data-item")
                             pub_year = re.findall('\d+', pub_year.text)[0]
@@ -164,6 +168,36 @@ def title_scraper(author_dict: dict):
             print("There is a problem in ResearchGate Title retrieval")
 
 
+def paper_filler(author_dict: dict):
+    if "Publications" in author_dict:
+        try:
+            for paper in author_dict.get("Publications"):
+                if "Abstract" not in paper:
+                    paper_page = requests.get(paper["Paper url"])
+                    soup = BeautifulSoup(paper_page.content, "html.parser")
+                    abstract_block = soup.find('div', class_='nova-legacy-l-flex__item nova-legacy-l-flex nova-legacy-l-flex--gutter-m nova-legacy-l-flex--direction-column@s-up nova-legacy-l-flex--direction-row@xl-only nova-legacy-l-flex--align-items-stretch@s-up nova-legacy-l-flex--justify-content-flex-start@s-up nova-legacy-l-flex--wrap-nowrap@s-up research-detail-middle-section')
+                    if "Abstract" in abstract_block.text:
+                        abstract = abstract_block.find('div', 'nova-legacy-e-text nova-legacy-e-text--size-m nova-legacy-e-text--family-sans-serif nova-legacy-e-text--spacing-none nova-legacy-e-text--color-grey-800 research-detail-middle-section__abstract')
+                        abstract = abstract.text
+                        paper["Abstract"] = abstract
+                        print(paper.get('Title'))
+                    else:
+                        continue
+                
+        except Exception as error:
+            print(error)
+            print("There is a problem in Paper Abstract retrieval")
+        
+    print(author_dict.get('romanize name'))
+    
+    
+
+def load_csv_with_ground_truth(path2load=None):
+    if path2load:
+        df = pd.read_csv(r"..\csv_files\csd_out_researchgate_ground_truth.csv").to_dict(orient="records")
+        return df
+    else: print("Incorrect path2load")
+
 
 
 if __name__ == '__main__':
@@ -177,24 +211,28 @@ if __name__ == '__main__':
     
     # csd_out_authors_out_of_GS = pd.read_csv(r'..\csv_files\csd_out_authors_out_of_GS_processed_similarity.csv').to_dict(orient="records")
     
-    csd_out_researchgate_ground_truth = pd.read_csv(r"..\csv_files\csd_out_researchgate_ground_truth.csv").to_dict(orient="records")
+    csd_out_researchgate_ground_truth = load_csv_with_ground_truth(r"..\csv_files\csd_out_researchgate_ground_truth.csv")
     
     # scrape data
     # for author in csd_out_researchgate_ground_truth:
     #     title_scraper(author)
     
-    save2json(csd_out_researchgate_ground_truth, path2save="csd_out_with_abstract\csd_out_researchgate_only_titles.json")
+    # paper_filler
+    for author in csd_out_researchgate_ground_truth:
+        paper_filler(author)
+    
+    save2json(csd_out_researchgate_ground_truth, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_only_titles_with_url.json")
     
     # delete 2 authors that cant be found
-    for cc, author in enumerate(csd_out_researchgate_ground_truth):
-        if author["ResearchGate name"]=="Unknown":
-            print(author["name"])
-            csd_out_researchgate_ground_truth.pop(cc)
+    # for cc, author in enumerate(csd_out_researchgate_ground_truth):
+    #     if author["ResearchGate name"]=="Unknown":
+    #         print(author["name"])
+    #         csd_out_researchgate_ground_truth.pop(cc)
     
-    csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter_with_410_authors.json")
-    correct_authors(csd_out_specter, csd_out_researchgate_ground_truth)
+    # csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter_with_410_authors.json")
+    # correct_authors(csd_out_specter, csd_out_researchgate_ground_truth)
     # specter_embedding(csd_out_specter)
-    save2json(csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter_with_410_authors_missing_2.json")
+    # save2json(csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter_with_410_authors_missing_2.json")
     
-    unscraped_authors = check_unscraped_authors(csd_out_specter)
+    # unscraped_authors = check_unscraped_authors(csd_out_specter)
     

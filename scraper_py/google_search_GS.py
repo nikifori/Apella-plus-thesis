@@ -52,4 +52,7 @@ def get_scholar_name(author_dict: dict):
     return author_dict
     
 
+
+if __name__ == '__main__':
+    pass
     
