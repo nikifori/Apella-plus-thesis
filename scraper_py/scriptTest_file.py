@@ -9,7 +9,7 @@ Copyright (c) 2021 Your Company
 
 import pandas as pd
 import json
-from semantic_scholar_scraper import *
+from __utils__ import *
 
 # correct main authors list - fix unscraped authors
 def correct_authors(main_authors_list: list, authors2add: list):
@@ -108,14 +108,20 @@ def correct_rank(authors_list: list):
         # correct_authors(csd_out_with_abstracts_30_missing_with_410_authors, csd_out_researchgate_only_titles)
         # save2json(csd_out_with_abstracts_30_missing_with_410_authors, path2save="csd_out_with_abstract\csd_out_completed_missing_2.json")
         
-        csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek.json")
-        csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek.json")
+        # csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek.json")
+        # csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek.json")
+        
+        # csd_out_researchgate = open_json(r'..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json')
         
         
+        # csd_out_specter_rank = open_json(r'..\json_files\csd_out_with_abstract\csd_out_specter_rank.json')
+        # correct_authors(csd_out_specter_rank, csd_out_researchgate)
+        
+        save2json(file, path2save=fr"..\json_files\csd_out_with_abstract\{name}.json")
+        
     
-    
-    
-    
+        csd_out_specter_rank = open_json("..\json_files\csd_out_with_abstract\csd_out_specter_rank.json")
+        
     
     
     

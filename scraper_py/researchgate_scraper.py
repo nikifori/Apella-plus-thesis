@@ -169,11 +169,14 @@ def title_scraper(author_dict: dict):
 
 
 def paper_filler(author_dict: dict):
+    PROXY = {"http": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112",
+             "https": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112"}
     if "Publications" in author_dict:
         try:
             for paper in author_dict.get("Publications"):
                 if "Abstract" not in paper:
-                    paper_page = requests.get(paper["Paper url"])
+                    paper_page = requests.get(paper["Paper url"], proxies=PROXY)
+                    if paper_page.status_code==200: print('Successful page request!')
                     soup = BeautifulSoup(paper_page.content, "html.parser")
                     abstract_block = soup.find('div', class_='nova-legacy-l-flex__item nova-legacy-l-flex nova-legacy-l-flex--gutter-m nova-legacy-l-flex--direction-column@s-up nova-legacy-l-flex--direction-row@xl-only nova-legacy-l-flex--align-items-stretch@s-up nova-legacy-l-flex--justify-content-flex-start@s-up nova-legacy-l-flex--wrap-nowrap@s-up research-detail-middle-section')
                     if "Abstract" in abstract_block.text:
@@ -182,6 +185,8 @@ def paper_filler(author_dict: dict):
                         paper["Abstract"] = abstract
                         print(paper.get('Title'))
                     else:
+                        paper["Abstract"] = "Empty"
+                        print(paper.get('Title'))
                         continue
                 
         except Exception as error:
@@ -199,8 +204,31 @@ def load_csv_with_ground_truth(path2load=None):
     else: print("Incorrect path2load")
 
 
+def empty_unfetch_counter(authors_list: list):
+    counter_empty = 0
+    counter_unfetch = 0
+    for author in authors_list:
+        if "Publications" in author:
+            for pub in author.get("Publications"):
+                if "Abstract" in pub and pub.get("Abstract")=="Empty":
+                    counter_empty += 1
+                elif "Abstract" not in pub:
+                    counter_unfetch += 1
+    
+    return counter_empty, counter_unfetch
 
+def delete_empty_abstract(authors_list: list):
+    for author in authors_list:
+        if "Publications" in author:
+            for pub in author.get('Publications'):
+                if "Abstract" in pub and pub.get("Abstract")=="Empty":
+                    del pub["Abstract"]
+                
+    
 if __name__ == '__main__':
+    
+    PROXY = {"http": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112",
+             "https": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112"}
     
     # for author in unscraped_authors:
     #     get_researchgate_name(author)
@@ -211,17 +239,19 @@ if __name__ == '__main__':
     
     # csd_out_authors_out_of_GS = pd.read_csv(r'..\csv_files\csd_out_authors_out_of_GS_processed_similarity.csv').to_dict(orient="records")
     
-    csd_out_researchgate_ground_truth = load_csv_with_ground_truth(r"..\csv_files\csd_out_researchgate_ground_truth.csv")
+    # csd_out_researchgate_ground_truth = load_csv_with_ground_truth(r"..\csv_files\csd_out_researchgate_ground_truth.csv")
     
+    csd_out_researchgate = open_json(r'..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json')
     # scrape data
     # for author in csd_out_researchgate_ground_truth:
     #     title_scraper(author)
     
     # paper_filler
-    for author in csd_out_researchgate_ground_truth:
-        paper_filler(author)
+    # for author in csd_out_researchgate:
+    #     paper_filler(author)
     
-    save2json(csd_out_researchgate_ground_truth, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_only_titles_with_url.json")
+    # x,y = empty_unfetch_counter(csd_out_researchgate)
+    # save2json(csd_out_researchgate, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json")
     
     # delete 2 authors that cant be found
     # for cc, author in enumerate(csd_out_researchgate_ground_truth):
@@ -236,3 +266,31 @@ if __name__ == '__main__':
     
     # unscraped_authors = check_unscraped_authors(csd_out_specter)
     
+    
+    # fill all papers - multiple tries
+    # empty = []
+    # unfetch = []
+    # for i in range(10):
+    #     for author in csd_out_researchgate:
+    #         paper_filler(author)
+    #     x, y = empty_unfetch_counter(csd_out_researchgate)
+    #     empty.append(x)
+    #     unfetch.append(y)
+        save2json(csd_out_researchgate, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json")
+        
+        
+    empty_unfetch_counter(csd_out_researchgate)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+

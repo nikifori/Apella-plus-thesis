@@ -12,7 +12,7 @@ import os.path
 
 
 def save2json(json_fi: list, path2save: str):
-    json_file = json.dumps(json_fi, indent=4)   #, ensure_ascii=False
+    json_file = json.dumps(json_fi, indent=4, ensure_ascii=True)   #, ensure_ascii=False
     with open(fr'{path2save}', 'w', encoding='utf-8') as f:
         f.write(json_file)
             
