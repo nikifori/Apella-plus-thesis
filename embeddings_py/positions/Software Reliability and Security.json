@@ -1,0 +1,35 @@
+{
+    "title": "Software Reliability and Security",
+    "description": "Software design of complex and critical systems with proven predictable behavior and protection against security threats. These systems are usually in constant interaction with the environment and their software combines synchronization with parallel processing, communication and / or scheduling constraints (examples: embedded systems, web of objects).",
+    "rank": 2,
+    "targets_in": [
+        "Eleftherios Angelis",
+        "Ioannis Stamelos",
+        "Georgios Papadimitriou",
+        "Petros Nikopolitidis",
+        "Athina Vakali"
+    ],
+    "targets_in_standby": [
+        "Ioannis Vlachavas",
+        "Nikolaos Vasileiadis",
+        "Stavros Dimitriadis",
+        "Apostolos Papadopoulos"
+    ],
+    "targets_out": [
+        "Ioannis Mavridis",
+        "Alexandros Chatzigeorgiou",
+        "Diomidis Spinellis",
+        "Giannis Papadopoulos",
+        "Andreas Andreou",
+        "Ioannis Smaragdakis"
+    ],
+    "targets_out_standby": [
+        "Anna Filippou",
+        "Maria  Virvou",
+        "Apostolos Zarras",
+        "Andreas Symeonidis",
+        "Vasilios Katos",
+        "Vasileios Megalooikonomou",
+        "Nikolaos Malevris"
+    ]
+}
