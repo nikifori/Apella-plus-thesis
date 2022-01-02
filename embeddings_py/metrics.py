@@ -1,5 +1,10 @@
 import os.path
-from utils import my_mkdir
+from itertools import islice
+from random import sample
+
+import ijson
+
+from utils import my_mkdir, find_author_rank
 import pandas as pd
 
 
@@ -83,6 +88,54 @@ def coverage_rank(authors_target_all: list, pred_ranking: list):
     return coverage if target_count == len(authors_target_all) else len(pred_ranking)
 
 
+def mean(l: list):
+    mean_of_list = sum(l) / len(l)
+    return mean_of_list
+
+
+def random_rankings(fname, title, in_or_out, position_rank, authors_target, authors_target_standby):
+    total_authors_len = 0
+    total_authors_ranked_len = 0
+    total_authors_target_len = len(authors_target) + len(authors_target_standby)
+    total_trials = 4000
+
+    av_pre = []
+    prize_rank = []
+    reciprocal = []
+    coverage = []
+    metric1 = []
+
+    with open(fname, encoding='utf-8') as f:
+        objects = ijson.items(f, 'item')
+        objects = islice(objects, 500)
+        for author in objects:
+            author_rank = find_author_rank(author)
+            total_authors_len += 1
+            if author_rank <= position_rank:
+                total_authors_ranked_len += 1
+
+    total_authors_ranked = list(range(total_authors_ranked_len))
+    total_authors = list(range(total_authors_len))
+    for i in range(total_trials):
+        results = sample(total_authors_ranked, total_authors_target_len)
+        results.sort()
+        av_pre.append(average_precision(authors_target=results, authors_target_standby=[], pred_ranking=total_authors))
+        metric1.append(sum_of_rankings_metric(results, total_authors))
+        prize_rank.append(prize_metric(results, total_authors))
+        reciprocal.append(reciprocal_rank(results, total_authors))
+        coverage.append(coverage_rank(results, total_authors))
+
+    print("Random Rankings")
+    print(f"Av_pre:{mean(av_pre)}")
+    print(f"metric1:{mean(metric1)}")
+    print(f"prize_rank:{mean(prize_rank)}")
+    print(f"reciprocal:{mean(reciprocal)}")
+    print(f"coverage:{mean(coverage)}")
+
+    store_results(title, "random", in_or_out, mean(metric1), 0, 0, mean(av_pre), mean(prize_rank), mean(reciprocal),
+                  mean(coverage))
+
+
 def find_author_relevance(position_title, version, csd_in, authors_target, authors_target_standby, result):
     result_names = list(result[['Name_roman']].values.flatten())
     target_all = authors_target + authors_target_standby
@@ -116,8 +169,8 @@ def find_author_relevance(position_title, version, csd_in, authors_target, autho
 
 
 def store_results(position_title, version, csd_in, srm, top_k, k, average_precision_val, prize_val, reciprocal, coverage):
-    my_mkdir(f"./specter_rankings/{position_title}")
-    fname_in = f"./specter_rankings/{position_title}/{position_title}_{csd_in}.csv"
+    my_mkdir(f"./results/specter/{position_title}")
+    fname_in = f"./results/specter/{position_title}/{position_title}_{csd_in}.csv"
 
     row_names = ['Metric1', f'top_{k}', 'Average_Precision', 'prize_metric', 'Reciprocal_rank', 'Coverage']
     vals = [round(srm,3), round(top_k/100,3), round(average_precision_val,3), round(prize_val,3), reciprocal, coverage]
@@ -142,7 +195,7 @@ def store_results(position_title, version, csd_in, srm, top_k, k, average_precis
 def print_sorted_metrics(titles, metric='Average_Precision', ascending=False, in_or_out='out'):
 
     for i, title in enumerate(titles):
-        fname = f'./specter_rankings/{title}/{title}_{in_or_out}.csv'
+        fname = f'./results/specter/{title}/{title}_{in_or_out}.csv'
         res_temp = pd.read_csv(fname, header=0, index_col=0)
         if i == 0:
             df = res_temp.transpose()
@@ -154,4 +207,4 @@ def print_sorted_metrics(titles, metric='Average_Precision', ascending=False, in
     res = res.round(decimals=4)
     print(res[['Average_Precision','prize_metric','Metric1','Reciprocal_rank','Coverage']].to_string())
 
-    res[['Average_Precision','prize_metric','Metric1','Reciprocal_rank','Coverage']].to_csv(f"{in_or_out}_sort_by_{metric}.csv")
+    res[['Average_Precision','prize_metric','Metric1','Reciprocal_rank','Coverage']].to_csv(f"./results/{in_or_out}_sort_by_{metric}.csv")
