@@ -1,4 +1,6 @@
 # Specter Embeddings Csd_in and Csd_out at "https://drive.google.com/drive/folders/1SKbwnNQR3aa94far3JcBtbQ1DKZcVE2v?usp=sharing"
+import re
+
 import torch
 import numpy as np
 import pandas as pd
@@ -21,7 +23,8 @@ def get_specter_model():
     return model, tokenizer
 
 
-def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby, position_rank):
+def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby,
+                           position_rank):
     position_dict = {
         "title": title,
         "description": description,
@@ -30,12 +33,11 @@ def create_position_object(title, description, targets_in, targets_in_standby, t
         "targets_in_standby": targets_in_standby,
         "targets_out": targets_out,
         "targets_out_standby": targets_out_standby
-        
+
     }
 
-    my_mkdir(r"./specter_rankings/")
-    my_mkdir(r"./specter_rankings/{}".format(title))
-    save2json(position_dict, path2save=r"./specter_rankings/{}/{}.json".format(title, title))
+    my_mkdir(r"./positions/")
+    save2json(position_dict, path2save=r"./positions/{}.json".format(title))
 
 
 def read_author_embedding_csv(author, csd_in=True):
@@ -73,21 +75,22 @@ def rank_candidates(fname, in_or_out, title, description, position_rank, mode='m
     similarity_score = []
     roman_name = []
 
-    with open(fname) as f:
+    with open(fname, encoding='utf-8') as f:
         objects = ijson.items(f, 'item')
         objects = islice(objects, 500)
         for author in objects:
             author_rank = find_author_rank(author)
-            if author_rank <= position_rank:
+            if author_rank <= position_rank and "Publications" in author:
                 print(author['romanize name'])
-                fname_base = f"./author_embeddings/aggregations/{in_or_out}/" + author['romanize name'].replace(" ", "_") + "/"
+                fname_base = f"./author_embeddings/specter_embeddings/aggregations/{in_or_out}/" + author['romanize name'].replace(" ", "_") + "/"
 
                 if mode == 'mean':  # average of all paper embeddings (title + abstract, for each paper)
                     fname_in = fname_base + "aggregations.json"
                     try:
-                        aggregate_dict = open_json(fname_in)
-                        aggregated_embeddings = np.matrix(aggregate_dict["mean"]["avg"]["clusters"][0])
+                        fname_in = fname_base + 'mean.csv'
+                        aggregated_embeddings = np.genfromtxt(fname_in, delimiter=',')
                     except:
+                        print("Except")
                         author_embeddings_np = read_author_embedding_dict(author)
                         author_embeddings = torch.tensor(author_embeddings_np)
                         if not author_embeddings_np.size: continue  # No publications found for this author
@@ -108,7 +111,7 @@ def rank_candidates(fname, in_or_out, title, description, position_rank, mode='m
                                                                           n_clusters=n_clusters)
                             aggregated_embeddings = torch.Tensor(np.matrix(cluster_centroids)).double()
                         except:
-                            print("Except")
+                            print("EXCEPT2------------------")
                             continue
                 if mode == 'max_articles':  # Average of N most relevant papers (N=10 by default)
                     author_embeddings_np = read_author_embedding_dict(author)
@@ -158,9 +161,11 @@ def create_author_embeddings(author, model="", tokenizer=""):
         "author_embeddings/" + author['romanize name'].replace(" ", "_") + "_embeddings.csv", header=False, index=False)
 
 
-def create_author_aggregations(author):
+def create_author_aggregations(author, in_or_out="in"):
     papers = author['Publications'] if "Publications" in author else []
     print("Author:{}, total papers:{}".format(author['name'], len(papers)))
+    auth_underscore_name = re.sub('/', '_', author["romanize name"])
+    auth_underscore_name = re.sub(' ', '_', auth_underscore_name)
     author_embeddings = []
     if not len(papers): return
 
@@ -176,15 +181,17 @@ def create_author_aggregations(author):
     author_embeddings = torch.tensor(np.matrix(author_embeddings))
 
     n_clusters = [2, 3, 4, 5, 7]
-    dims_reduced = [2, 3, 5, 7, 10, 25]
+    dims_reduced = [2, 3, 5, 7, 10]
     clustering_types = ['agglomerative', 'kmeans']
     reduction_types = ['PCA', 'isomap']
 
     my_mkdir('./author_embeddings')
-    my_mkdir('./author_embeddings/aggregations')
-    my_mkdir('./author_embeddings/aggregations/{}'.format(author['romanize name'].replace(" ", "_")))
+    my_mkdir('./author_embeddings/specter_embeddings')
+    my_mkdir('./author_embeddings/specter_embeddings/aggregations')
+    my_mkdir(f'./author_embeddings/specter_embeddings/aggregations/{in_or_out}')
+    my_mkdir(f'./author_embeddings/specter_embeddings/aggregations/{in_or_out}/{auth_underscore_name}')
 
-    fname_base = "./author_embeddings/aggregations/" + author['romanize name'].replace(" ", "_") + "/"
+    fname_base = f'./author_embeddings/specter_embeddings/aggregations/{in_or_out}/{auth_underscore_name}/'
 
     for clustering_type in clustering_types:
         for reduction_type in reduction_types:
@@ -201,8 +208,8 @@ def create_author_aggregations(author):
 
     fname_out = fname_base + "mean.csv"
     pd.DataFrame(np.matrix(torch.mean(author_embeddings, dim=0))).to_csv(fname_out, header=False, index=False)
-    
-    
+
+
 def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_targets_standby, position_ranks, ranking_mode, clustering_type, reduction_type, csd_in):
 
     n_clusters = 5
@@ -222,11 +229,12 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
                               reduced_dims=reduced_dims)
 
         # Format Csv Name
-        my_mkdir('./specter_rankings')
-        my_mkdir('./specter_rankings/{}'.format(title))
-        my_mkdir('./specter_rankings/{}/{}'.format(title, in_or_out))
+        my_mkdir('./results')
+        my_mkdir('./results/specter')
+        my_mkdir('./results/specter/{}'.format(title))
+        my_mkdir('./results/specter/{}/{}'.format(title, in_or_out))
 
-        fname_output = './specter_rankings/{}/{}/{}'.format(title, in_or_out, ranking_mode)
+        fname_output = './results/specter/{}/{}/{}'.format(title, in_or_out, ranking_mode)
         if ranking_mode == 'clustering':
             fname_output += '_{}_{}'.format(clustering_type, reduction_type)
             version = f'{clustering_type}_{n_clusters}_{reduction_type}_{reduced_dims}'
@@ -238,18 +246,18 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
         res.to_csv(fname_output + '.csv', encoding='utf-8', index=False)
         res_target.to_csv('{}_target.csv'.format(fname_output), encoding='utf-8', index=False)
 
-    
+
 if __name__ == '__main__':
 
     ##### SET PARAMETERS ######
-    # ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
-    ranking_mode = 'mean'          # Average of all paper embeddings (title + abstract, for each paper)
+    ranking_mode = 'max_articles'  # Average of N most relevant papers (N=10 by default)
+    # ranking_mode = 'mean'  # Average of all paper embeddings (title + abstract, for each paper)
     # ranking_mode = 'clustering'    # Creates paper cluster (after dimensionality reduction) for each author
-                                     # and computes the cosine score for the most similar cluster to the title
+    # and computes the cosine score for the most similar cluster to the title
 
-    clustering_type = 'agglomerative'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
-    reduction_type = 'PCA'             # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
-    input_type = 'json'                # csv or json
+    clustering_type = 'kmeans'  # clustering_options = ['agglomerative', 'kmeans', 'dbscan']
+    reduction_type = 'PCA'  # reduction_options = ['PCA', 'SVD', 'isomap', 'LLE']
+    input_type = 'json'  # csv or json
 
     ##### SET TITLES ######
     titles = []
@@ -259,10 +267,10 @@ if __name__ == '__main__':
     authors_targets_out = []
     authors_targets_out_standby = []
     position_ranks = []
-    
-    data = open_json(r'.\specter_rankings\test_apella_data.json')
-    
-    for i in data[:-1]: # ignore last one without target_lists
+
+    data = open_json(r'.\positions\test_apella_data.json')
+
+    for i in data[:-1]:  # ignore last one without target_lists
         titles.append(i.get("title"))
         descriptions.append(i.get("description"))
         authors_targets_in.append(i.get("targets_in"))
@@ -270,21 +278,23 @@ if __name__ == '__main__':
         authors_targets_out.append(i.get("targets_out"))
         authors_targets_out_standby.append(i.get("targets_out_standby"))
         position_ranks.append(i.get("rank"))
-          
+
     for i, title in enumerate(titles):
-        create_position_object(title, descriptions[i], 
+        create_position_object(title, descriptions[i],
                                targets_in=authors_targets_in[i],
                                targets_in_standby=authors_targets_in_standby[i],
                                targets_out=authors_targets_out[i],
                                targets_out_standby=authors_targets_out_standby[i],
                                position_rank=position_ranks[i])
 
-
     ##### CALCULATE RANKINGS ######
     fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter_no_greek_rank.json'
-    fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter_rank.json'
+    fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter_out.json'
 
     main_ranking_authors(fname_in, titles, descriptions, authors_targets_in, authors_targets_in_standby, position_ranks, ranking_mode,
                          clustering_type, reduction_type, csd_in=True)
     main_ranking_authors(fname_out, titles, descriptions, authors_targets_out, authors_targets_out_standby, position_ranks,
                          ranking_mode, clustering_type, reduction_type, csd_in=False)
+
+    # print_sorted_metrics(titles, metric='Average_Precision', ascending=False, in_or_out='in')
+    # print_sorted_metrics(titles, metric='Average_Precision', ascending=False, in_or_out='out')
