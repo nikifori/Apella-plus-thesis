@@ -72,95 +72,72 @@ def delete_NameSimilarity(authors_list: list):
         if "name_similarity" in author:
             del author["name_similarity"]
                 
-def publications_metrics(authors_list: list):
-        pub_sum = 0
-        average_pub_count = 0
-        for author in authors_list:
-            if "Publications" in author:
-                pub_sum += len(author.get("Publications"))
-        
-        average_pub_count = pub_sum/len(authors_list)
-        
-        return pub_sum, average_pub_count
+
+def paper_checker(authors_list: list):
+    from scholarly import scholarly, ProxyGenerator
+    import operator
+    
+    unscraped_papers_authors_list = []
+    for cc, scraped_author in enumerate(authors_list):
+        if 'Publications' in scraped_author and scraped_author['Scholar name']!='Unknown':
+            print(cc)
+            
+            try:
+                author = scholarly.search_author_id(scraped_author["Scholar id"]) #object
+            except Exception as error:
+                print(error)
+                print("id query does not work")
+                try:
+                    search_query = scholarly.search_author(scraped_author["Scholar name"]) 
+                    author = next(search_query) 
+                except Exception as error:
+                    print(error)
+                    print("name query does not work")
+                    return
+            
+            scholarly.fill(author, sections=["publications"])
+            # sort list of papers based on pub_year
+            for paper in author["publications"]:
+                paper["pub_year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
+                
+            author["publications"].sort(key=operator.itemgetter("pub_year"), reverse=True) 
+            paper_list = []
+            for paper in author["publications"]:
+                if paper["pub_year"]>=2000: paper_list.append(paper)
+            
+            author2append = {"romanize name": scraped_author.get('romanize name'),
+                             'Scholar name': scraped_author.get('Scholar name'),
+                             'unscraped papers': []}
+            
+            scraped_papers_list_titles = [x['Title'] for x in scraped_author['Publications']]
+            
+            for paper in paper_list:
+                if paper['bib']['title'] not in scraped_papers_list_titles:
+                    author2append['unscraped papers'].append(paper)
+            
+            unscraped_papers_authors_list.append(author2append)
+            
+    return unscraped_papers_authors_list
+                        
+
 
 if __name__ == '__main__':
     
-    # save dictionary as json file
-    # json_file = json.dumps(authors_out_of_GS, indent=4)
-    # with open(fr'..\json_files\csd_out_with_abstract\csd_out_authors_out_of_GS.json', 'w', encoding='utf-8') as f:
-    #     f.write(json_file)
+    pass
     
-    # csd_out_specter = open_json("csd_out_with_abstract\csd_out_specter_with_410_authors.json")
-    # csd_out_with_abstracts_30_missing_with_410_authors = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing_with_410_authors.json")
-    # csd_out_with_abstracts_30_missing = open_json("csd_out_with_abstract\csd_out_with_abstracts_30_missing.json")
-    # save2json(json_fi=csd_out_specter, path2save="csd_out_with_abstract\csd_out_specter_with_410_authors.json")
-    
-    # unscraped_authors = check_unscraped_authors(csd_out_specter)
-    # unscraped_authors = check_unscraped_authors(csd_out_with_abstracts_30_missing_with_410_authors)
-    # correct_authors(csd_out_specter, can_not_fetch_complete)
-    
-    # df = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth.csv')
-    
-    # add 2 authors that didnt exist in main json file without specter embeddings
-    # temp_list = []
-    # for author in csd_out_with_abstracts_30_missing:
-    #     temp_list.append(author.get("name"))
-    
-    # temp_df = pd.DataFrame(temp_list, columns=["name"])
-    
-    # matched = (temp_df["name"]==df["name"])
-    
-    # for i in df["name"]:
-    #     counter = 0
-    #     for k in temp_df["name"]:
-    #         if k==i:
-    #             counter=1
-    #     if counter==0:
-    #         print(i)      
-    # save2json(csd_out_with_abstracts_30_missing, "csd_out_with_abstract\csd_out_with_abstracts_30_missing2.json")  
-    #---------------------------------------------------------------------------------------------------------------
-    # csd_out_specter.append(csd_out_with_abstracts_30_missing[-2])
-    
-    # csd_out_researchgate_only_titles = open_json("csd_out_with_abstract/csd_out_researchgate_only_titles.json")
-    # correct_authors(csd_out_with_abstracts_30_missing_with_410_authors, csd_out_researchgate_only_titles)
-    # save2json(csd_out_with_abstracts_30_missing_with_410_authors, path2save="csd_out_with_abstract\csd_out_completed_missing_2.json")
-    
-    # csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek.json")
-    # csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek.json")
-    
-    # csd_out_researchgate = open_json(r'..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json')
-    
-    
-    # csd_out_specter_rank = open_json(r'..\json_files\csd_out_with_abstract\csd_out_specter_rank.json')
-    # correct_authors(csd_out_specter_rank, csd_out_researchgate)
-    
-    # save2json(file, path2save=fr"..\json_files\csd_out_with_abstract\{name}.json")
-    
-    
-    # csd_out_specter_rank = open_json("..\json_files\csd_out_with_abstract\csd_out_specter_rank.json")
-    
-    # delete name_similarity
-    # files = ["csd_out_completed_missing_2_no_greek_only_titles_rank",
-    #          "csd_out_completed_missing_2_no_greek_only_titles_rank_specter", 
-    #          "csd_out_completed_missing_2_no_greek_rank", 
-    #          "csd_out_specter_rank"]
 
     # for file in files:
-    #     authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
-    #     delete_NameSimilarity(authors)
-    #     save2json(authors, path2save=fr"..\json_files\csd_out_with_abstract\{file}2.json")
-
-    csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek_rank.json")
-    csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_rank.json")
+        # authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
+        # delete_NameSimilarity(authors)
+        # save2json(authors, path2save=fr"..\json_files\csd_out_with_abstract\{file}2.json")
+        
+    file = 'csd_out_completed_missing_2_no_greek_rank'
+    authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
     
-    csd_in_pubs_sum, csd_in_average_pub_num = publications_metrics(csd_in)
-    csd_out_pubs_sum, csd_out_average_pub_num = publications_metrics(csd_out)
+    # test = paper_checker(authors)
+    test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers2.json')
     
+    for author in test:
+        print('{}     {}'.format((len(author['unscraped papers'])), author['romanize name']))
     
-    
-    
-    
-    
-    
-    
-    
+    save2json(test, path2save=r'..\json_files\csd_out_with_abstract\unscraped_papers2.json')

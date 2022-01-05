@@ -142,7 +142,57 @@ def paper_filler(chunk_of_papers, result_list):
          
             
 
-
+def paper_scraper_extra(author_dict: dict, threads_num=1):
+    global result_list
+    result_list = []
+    threads = []
+    
+    if threads_num>len(author_dict['unscraped papers']):threads_num=len(author_dict['unscraped papers']) # papers always
+    print(threads_num)
+    
+    chunked_list = chunks(author_dict['unscraped papers'], threads_num)
+    
+    for chunk in chunked_list:
+        x = threading.Thread(target=paper_filler_extra, args=(chunk, result_list))
+        threads.append(x)
+        x.start()
+    
+    for thread in threads:
+        thread.join()
+    
+    if 'Publications' not in author_dict:
+        author_dict["Publications"] = result_list.copy()
+    else:
+        author_dict['Publications'] + result_list
+    
+    return author_dict
+            
+    
+def paper_filler_extra(chunk_of_papers, result_list):
+    for paper in chunk_of_papers:
+        if 'abstract' not in paper['bib']:
+            scholarly.fill(paper)
+            new_paper = {}
+            try:
+                new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else "Unknown"
+                new_paper["Publication year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
+                new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else "Unknown"
+                new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else "Unknown"
+                new_paper["Abstract entirety"] = 0 if new_paper["Abstract"][-1]=='…' else 1
+                new_paper["Author pub id"] = paper["author_pub_id"] if "author_pub_id" in paper else "Unknown"
+                new_paper["Publisher"] = paper["bib"]["publisher"] if "publisher" in paper["bib"] else "Unknown"
+                print(new_paper["Title"])
+                result_list.append(new_paper)
+                
+            except Exception as error:
+                print("There is a problem")
+                print(error)
+    
+    
+    
+    
+    
+    
 #-----------------------------------------------------------------------------------------------------------------
 
 if __name__ == '__main__':
@@ -156,6 +206,14 @@ if __name__ == '__main__':
     # test = paper_scraper("Thomas Karanikiotis", threads_num=20, host="localhost:27017", 
     #                      json_file_path = r"E:\GitHub_clones\Apella-plus-thesis\json_files")
     # t.toc()
-
-
-
+    
+    for professor in test:
+        try:
+            # pg = ProxyGenerator()
+            # success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
+            # scholarly.use_proxy(pg)
+            paper_scraper_extra(professor, threads_num=25)
+        except Exception as error:
+            print("There is a problem in paper_scraper")
+            print(error)
+            
