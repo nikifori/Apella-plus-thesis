@@ -143,7 +143,7 @@ if __name__ == '__main__':
         # save2json(authors, path2save=fr"..\json_files\csd_out_with_abstract\{file}2.json")
         
     # file = 'csd_out_completed_missing_2_no_greek_rank'
-    authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
+    # authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
     
     # test = paper_checker(authors)
     test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers\unscraped_papers_with_abstracts.json')
@@ -151,7 +151,7 @@ if __name__ == '__main__':
     # for author in test:
     #     print('{}     {}'.format((len(author['unscraped papers'])), author['romanize name']))
     
-    save2json(authors, path2save=r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_only_titles_rank2.json')
+    # save2json(authors, path2save=r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_only_titles_rank2.json')
     
     # append_unscraped_pubs(authors, test)
     

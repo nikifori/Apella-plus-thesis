@@ -136,7 +136,7 @@ if __name__ == '__main__':
         print(counter)
         fill_publications(author)
     
-    save2json(json_fi=csd_out_semantic, path2save="csd_out_with_abstract\csd_out_semantic_scholar_abstracts.json")
+    save2json(csd_out_semantic, path2save="csd_out_with_abstract\csd_out_semantic_scholar_abstracts.json")
     
     # rename title to Title and year to Publication year
     for counter, author in enumerate(csd_out_semantic):

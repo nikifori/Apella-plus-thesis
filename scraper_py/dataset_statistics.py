@@ -78,8 +78,8 @@ def boxplot_pub(authors_list_1: list, authors_list_2: list = None, title: str = 
 if __name__ == "__main__":
     
     
-    csd_in = open_json("..\json_files\csd_in_with_abstract\csd_in_completed_no_greek_rank.json")
-    csd_out = open_json("..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_rank.json")
+    csd_in = open_json(r"..\json_files\csd_in_with_abstract\csd_in_completed_no_greek_rank.json")
+    csd_out = open_json(r"..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_rank.json")
     
     csd_in_pubs_sum, csd_in_average_pub_num = publications_metrics(csd_in)
     csd_out_pubs_sum, csd_out_average_pub_num = publications_metrics(csd_out)
