@@ -276,7 +276,7 @@ if __name__ == '__main__':
     #     x, y = empty_unfetch_counter(csd_out_researchgate)
     #     empty.append(x)
     #     unfetch.append(y)
-        save2json(csd_out_researchgate, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json")
+    save2json(csd_out_researchgate, path2save=r"..\json_files\csd_out_with_abstract\unused\csd_out_researchgate_with_abstract_title.json")
         
         
     empty_unfetch_counter(csd_out_researchgate)
