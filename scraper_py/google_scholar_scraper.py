@@ -17,6 +17,7 @@ import math
 import pymongo
 import json
 import operator
+from __utils__ import *
 
 
 
@@ -149,6 +150,7 @@ def paper_scraper_extra(author_dict: dict, threads_num=1):
     
     if threads_num>len(author_dict['unscraped papers']):threads_num=len(author_dict['unscraped papers']) # papers always
     print(threads_num)
+    print(author_dict.get('romanize name'))
     
     chunked_list = chunks(author_dict['unscraped papers'], threads_num)
     
@@ -189,8 +191,37 @@ def paper_filler_extra(chunk_of_papers, result_list):
                 print(error)
     
     
-    
-    
+def check_missings(authors_list: list):
+    for cc, author in enumerate(authors_list):
+        if 'Publications' in author and 'unscraped papers' in author:
+            print(cc)
+            print('Number of unscraped papers: {}    Number of Publications: {}   {}'.format(len(author['unscraped papers']),
+                                                                                             len(author['Publications']),
+                                                                                             author["romanize name"]))
+
+def copy_unscraped_papers_fix(authors_list: list):
+    for author in authors_list:
+        if 'Publications' in author and 'unscraped papers' in author and author['Publications'] and author['unscraped papers']:
+            publications_titles = [x.get('Title') for x in author.get('Publications')]
+            for paper in author.get('unscraped papers'):
+                if paper['bib']['title'] not in publications_titles:
+                    try:
+                        new_paper = {}
+                        new_paper["Title"] = paper["bib"]["title"] if "title" in paper["bib"] else "Unknown"
+                        new_paper["Publication year"] = int(paper["bib"]["pub_year"]) if "pub_year" in paper["bib"] else 0
+                        new_paper["Publication url"] = paper["pub_url"] if "pub_url" in paper else "Unknown"
+                        new_paper["Abstract"] = paper["bib"]["abstract"] if "abstract" in paper["bib"] else "Unknown"
+                        new_paper["Abstract entirety"] = 0 if new_paper["Abstract"][-1]=='…' else 1
+                        new_paper["Author pub id"] = paper["author_pub_id"] if "author_pub_id" in paper else "Unknown"
+                        new_paper["Publisher"] = paper["bib"]["publisher"] if "publisher" in paper["bib"] else "Unknown"
+                        print(new_paper["Title"])
+                        author['Publications'].append(new_paper)
+                        
+                    except Exception as error:
+                        print("There is a problem")
+                        print(error)
+                    
+                    
     
     
 #-----------------------------------------------------------------------------------------------------------------
@@ -207,13 +238,19 @@ if __name__ == '__main__':
     #                      json_file_path = r"E:\GitHub_clones\Apella-plus-thesis\json_files")
     # t.toc()
     
-    for professor in test:
-        try:
-            # pg = ProxyGenerator()
-            # success = pg.SingleProxy(http = "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112")
-            # scholarly.use_proxy(pg)
-            paper_scraper_extra(professor, threads_num=25)
-        except Exception as error:
-            print("There is a problem in paper_scraper")
-            print(error)
-            
+    # counter=327
+    # pg = ProxyGenerator()
+    # success = pg.SingleProxy(http = "http://118.140.160.8480")
+    # scholarly.use_proxy(pg)
+    # for professor in test:
+    #     try:
+    #         counter += 1
+    #         paper_scraper_extra(professor, threads_num=25)
+    #         save2json(test, path2save=fr'..\json_files\csd_out_with_abstract\unscraped_papers{counter}.json')
+    #     except Exception as error:
+    #         print("There is a problem in paper_scraper")
+    #         print(error)
+    
+    test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers_with_abstracts.json')
+    check_missings(test)
+    copy_unscraped_papers_fix(test)

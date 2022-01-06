@@ -121,6 +121,17 @@ def paper_checker(authors_list: list):
                         
 
 
+def append_unscraped_pubs(main_list: list, extra_list: list):
+    cc=0
+    for incomplete_author in extra_list:
+        for counter, author in enumerate(main_list):
+            if incomplete_author["Scholar name"]==author["Scholar name"]:
+                cc+=1
+                print(cc)
+                print('{}     {}     {}'.format(author["Scholar name"], main_list[counter]['Scholar name'], incomplete_author['Scholar name']))
+                main_list[counter]['Publications'] = main_list[counter]['Publications'] + incomplete_author["Publications"]
+
+
 if __name__ == '__main__':
     
     pass
@@ -131,13 +142,16 @@ if __name__ == '__main__':
         # delete_NameSimilarity(authors)
         # save2json(authors, path2save=fr"..\json_files\csd_out_with_abstract\{file}2.json")
         
-    file = 'csd_out_completed_missing_2_no_greek_rank'
+    # file = 'csd_out_completed_missing_2_no_greek_rank'
     authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
     
     # test = paper_checker(authors)
-    test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers2.json')
+    test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers\unscraped_papers_with_abstracts.json')
     
-    for author in test:
-        print('{}     {}'.format((len(author['unscraped papers'])), author['romanize name']))
+    # for author in test:
+    #     print('{}     {}'.format((len(author['unscraped papers'])), author['romanize name']))
     
-    save2json(test, path2save=r'..\json_files\csd_out_with_abstract\unscraped_papers2.json')
+    save2json(authors, path2save=r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_only_titles_rank2.json')
+    
+    # append_unscraped_pubs(authors, test)
+    
