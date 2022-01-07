@@ -7,8 +7,6 @@ Author: nikifori
 Copyright (c) 2021 Your Company
 '''
 import json
-import ijson
-from itertools import islice
 from os.path import splitext
 import os.path
 
@@ -24,9 +22,12 @@ def open_json(path2read: str):
     return dictionary
 
 
-def my_mkdir(dir_name):
-    if not os.path.exists(dir_name):
-        os.mkdir(dir_name)
+def mkdirs(path_name):
+    os.makedirs(path_name, exist_ok=True)
+
+    if not os.path.exists(path_name):
+        print(f"---Error creating directory {path_name}")
+    else: pass
 
 
 def read_authors(fname):
@@ -34,19 +35,6 @@ def read_authors(fname):
     if file_extension == '.json':
         with open(fname, encoding="utf8") as json_file:
             auth_dict = json.load(json_file)
-    return auth_dict
-
-
-def read_authors2(fname):
-    _, file_extension = splitext(fname)
-    auth_dict = []
-
-    if file_extension == '.json':
-        with open(fname) as f:
-            objects = ijson.items(f, 'item')
-            objects = islice(objects, 500)
-            for author in objects:
-                auth_dict.append(author)
     return auth_dict
 
 
@@ -73,6 +61,55 @@ def find_author_rank(author):
     if true_rank in rank_3: true_rank_int = 3
 
     return true_rank_int
+
+
+def create_position_object(title, description, targets_in, targets_in_standby, targets_out, targets_out_standby,
+                           position_rank):
+    position_dict = {
+        "title": title,
+        "description": description,
+        "rank": position_rank,
+        "targets_in": targets_in,
+        "targets_in_standby": targets_in_standby,
+        "targets_out": targets_out,
+        "targets_out_standby": targets_out_standby
+
+    }
+
+    mkdirs(r"./positions/")
+    save2json(position_dict, path2save=r"./positions/{}.json".format(title))
+
+
+def get_positions(path):
+    titles = []
+    descriptions = []
+    authors_targets_in = []
+    authors_targets_in_standby = []
+    authors_targets_out = []
+    authors_targets_out_standby = []
+    position_ranks = []
+
+    data = open_json(path)
+
+    for i in data[:-1]:  # ignore last one without target_lists
+        titles.append(i.get("title"))
+        descriptions.append(i.get("description"))
+        authors_targets_in.append(i.get("targets_in"))
+        authors_targets_in_standby.append(i.get("targets_in_standby"))
+        authors_targets_out.append(i.get("targets_out"))
+        authors_targets_out_standby.append(i.get("targets_out_standby"))
+        position_ranks.append(i.get("rank"))
+
+    for i, title in enumerate(titles):
+        create_position_object(title, descriptions[i],
+                               targets_in=authors_targets_in[i],
+                               targets_in_standby=authors_targets_in_standby[i],
+                               targets_out=authors_targets_out[i],
+                               targets_out_standby=authors_targets_out_standby[i],
+                               position_rank=position_ranks[i])
+
+    return titles, descriptions, authors_targets_in, authors_targets_in_standby, authors_targets_out, authors_targets_out_standby, position_ranks
+
 
 
 if __name__ == '__main__':
