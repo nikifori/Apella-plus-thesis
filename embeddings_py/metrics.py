@@ -1,10 +1,9 @@
 import os.path
-from itertools import islice
-from random import sample
-
 import ijson
+from itertools import islice
 
-from utils import my_mkdir, find_author_rank
+from random import sample
+from utils import find_author_rank, mkdirs
 import pandas as pd
 
 
@@ -169,7 +168,7 @@ def find_author_relevance(position_title, version, csd_in, authors_target, autho
 
 
 def store_results(position_title, version, csd_in, srm, top_k, k, average_precision_val, prize_val, reciprocal, coverage):
-    my_mkdir(f"./results/specter/{position_title}")
+    mkdirs(f"./results/specter/{position_title}")
     fname_in = f"./results/specter/{position_title}/{position_title}_{csd_in}.csv"
 
     row_names = ['Metric1', f'top_{k}', 'Average_Precision', 'prize_metric', 'Reciprocal_rank', 'Coverage']
@@ -208,3 +207,13 @@ def print_sorted_metrics(titles, metric='Average_Precision', ascending=False, in
     print(res[['Average_Precision','prize_metric','Metric1','Reciprocal_rank','Coverage']].to_string())
 
     res[['Average_Precision','prize_metric','Metric1','Reciprocal_rank','Coverage']].to_csv(f"./results/{in_or_out}_sort_by_{metric}.csv")
+
+
+def print_final_results(titles):
+    metrics = ['Average_Precision', 'prize_metric', 'Metric1', 'Reciprocal_rank', 'Coverage']
+    ascendings = [False, False, False, True, True]
+
+    for i, metric in enumerate(metrics):
+        print_sorted_metrics(titles, metric=metric, ascending=ascendings[i], in_or_out='in')
+        print_sorted_metrics(titles, metric=metric, ascending=ascendings[i], in_or_out='out')
+
