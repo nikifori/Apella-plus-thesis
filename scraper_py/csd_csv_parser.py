@@ -20,10 +20,10 @@ def df_to_dict_parser(df):
                "Πανεπιστήμιο Πελοπονήσσου": "uop", "Οικονομικό Πανεπιστήμιο Αθηνών": "aueb",
                "ΕΚΕΤΑ": "certh", 'Ερευνητικό Κέντρο Καινοτομίας στις Τεχνολογίες της Πληροφορίας, των Επικοινωνιών & τηςΣ Γνώσης - "ΑΘΗΝΑ" ': "athena-innovation", 
                "Πανεπιστήμιο Πειραιά": "unipi", "Πανεπιστήμιο Μακεδονίας": "uom", 
-               "Παν/μιο Πατρών ": "upatras", "Πανεπιστήμιο Πελοποννήσου": "uop", "Πολυτεχνειο Κρήτης": "tuc", "Ε.Κ. Αθηνά": "Ε.Κ. Αθηνά", 
+               "Παν/μιο Πατρών ": "upatras", "Πανεπιστήμιο Πελοποννήσου": "uop", "Πολυτεχνειο Κρήτης": "tuc", "Ε.Κ. Αθηνά": "athena-innovation", 
                "Πανεπιστήμιο Δυτικής Αττικής  (ΤΕΙ Αθήνας)": "uniwa", "Πανεπιστημιο Ιωαννίνων": "uoi",
                'Εθνικό Κέντρο Ερευνας Φυσικών Επιστημών "ΔΗΜΟΚΡΙΤΟΣ"': "demokritos", "Πολυτεχνέιο Κρήτης": "tuc", 
-               "Πανεπιστήμιο Πειραιως": "unipi", "Ανοικτό Πανεπιστήμιο Κύπρου": "ouc"}
+               "Πανεπιστήμιο Πειραιως": "unipi", "Ανοικτό Πανεπιστήμιο Κύπρου": "ouc", 'Παν/μιο Πατρών': "upatras"}
     
     # TODO correct rank of professors. Proprocess duplicates 
     try:
@@ -40,7 +40,8 @@ def df_to_dict_parser(df):
         
         romanize_df = pd.DataFrame(roman_list, columns=["romanize name"])
         df.insert(1, "romanize name", romanize_df)
-        df["University"] = df["University"].replace(uni_replace)
+        df["University email domain"] = df["University"].replace(uni_replace)
+        df = df[['name', 'romanize name', 'School-Department', 'University', 'University email domain', 'Rank', 'Apella_id']]
         
     except Exception as error:
         print("There is a problem")
@@ -59,3 +60,6 @@ if __name__ == '__main__':
     csd_out["Βαθμίδα"].value_counts()
     csd_in["Βαθμίδα"].isna().sum()
     csd_out["Βαθμίδα"].isna().sum()
+    
+    csd_out["Ίδρυμα"].unique()
+    csd_out["Ίδρυμα"].value_counts()
