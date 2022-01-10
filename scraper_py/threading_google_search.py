@@ -30,13 +30,13 @@ def query_maker_GS(author_dict: dict):
     return query
 
 # retrieve Google Scholar name/id
-def get_scholar_name(author_dict: dict): 
+def get_scholar_name(author_dict: dict, proxy_dict: dict=None): 
     query = query_maker_GS(author_dict)
     links = search(query, num_results=5)
     for link in links:
         if "scholar" in link:
             try:
-                author_page = requests.get(link)
+                author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = soup.find("div", id="gsc_prf_in").text
                 print(name)
@@ -55,12 +55,12 @@ def get_scholar_name(author_dict: dict):
             
             except Exception as error:
                 print(error)
-                print("There is a problem in Google Scholar name/id retrieval")
+                print("Url does not start with http://scholar.google.com")
         
         else:
             continue 
         
-    print("Url does not start with http://scholar.google.com")
+    print("There is a problem in Google Scholar name/id retrieval")
     print("Unknown")
     author_dict["Scholar name"] = "Unknown"
     author_dict["Scholar id"] = "Unknown"
@@ -72,13 +72,13 @@ def query_maker_SS(author_dict: dict):
     return query
 
 # retrieve Semantic Scholar name/id
-def get_semantic_name(author_dict: dict): 
+def get_semantic_name(author_dict: dict, proxy_dict: dict=None): 
     query = query_maker_SS(author_dict)
     links = search(query, num_results=10)
     for link in links:
         if bool(re.search("^https://www.semanticscholar.org/author/.",link)):
             try:
-                author_page = requests.get(link)
+                author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = soup.find(class_="author-detail-card__author-name").text
                 # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
@@ -94,12 +94,12 @@ def get_semantic_name(author_dict: dict):
             
             except Exception as error:
                 print(error)
-                print("There is a problem in Semantic Scholar name/id retrieval")
+                print("Url does not start with https://www.semanticscholar.org/")
         
         else:
             continue 
         
-    print("Url does not start with https://www.semanticscholar.org/")
+    print("There is a problem in Semantic Scholar name/id retrieval")
     print("Unknown")
     author_dict["Semantic Scholar name"] = "Unknown"
     author_dict["Semantic Scholar id"] = "Unknown"
@@ -111,7 +111,7 @@ def query_maker_RG(author_dict: dict):
     return query
 
 # retrieve ResearchGate name/id and type of author's page (profile or scientific-contributions)
-def get_researchgate_name(author_dict: dict): 
+def get_researchgate_name(author_dict: dict, proxy_dict: dict=None): 
     # PROXY = {"http": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112",
     #           "https": "http://kartzafos22:1gnsjksaDs6FkTGT@proxy.packetstream.io:31112"}
     query = query_maker_RG(author_dict)
@@ -119,7 +119,7 @@ def get_researchgate_name(author_dict: dict):
     for link in links:
         if bool(re.search("^https://www.researchgate.net/profile/.",link)):
             try:
-                author_page = requests.get(link)
+                author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = soup.find("div", class_="nova-legacy-e-text nova-legacy-e-text--size-xxl nova-legacy-e-text--family-sans-serif nova-legacy-e-text--spacing-xxs nova-legacy-e-text--color-inherit fn").text
                 # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
@@ -133,11 +133,11 @@ def get_researchgate_name(author_dict: dict):
             
             except Exception as error:
                 print(error)
-                print("Author is not in ResearchGate profile section.")
+                print("Url does not start with https://www.researchgate.net/profile/")
             
         elif bool(re.search("^https://www.researchgate.net/scientific-contributions/.",link)):
             try:
-                author_page = requests.get(link)
+                author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = link.split("/")[-1].split("-")
                 name.pop()
@@ -153,31 +153,31 @@ def get_researchgate_name(author_dict: dict):
             
             except Exception as error:
                 print(error)
-                print("Author is not in ResearchGate scientific-contributions section.")
+                print("Url does not start with https://www.researchgate.net/scientific-contributions/")
                 
         
         else:
             continue 
         
-    print("Url does not start with https://www.researchgate.net/profile/")
+    print("Author is not in ResearchGate.")
     print("Unknown")
     author_dict["ResearchGate name"] = "Unknown"
     author_dict["ResearchGate url name/id"] = "Unknown"
     return author_dict
 
 
-def pipeline(chuck_of_authors: list, global_result_list):
+def pipeline(chuck_of_authors: list, global_result_list, proxy_dict: dict=None):
     for author_dict in chuck_of_authors:
         query_maker_GS(author_dict)
-        author = get_scholar_name(author_dict)
+        author = get_scholar_name(author_dict, proxy_dict)
 
         if author['Scholar name']=='Unknown':
             query_maker_SS(author_dict)
-            author = get_semantic_name(author_dict)
+            author = get_semantic_name(author_dict, proxy_dict)
 
             if author['Semantic Scholar name']=='Unknown':
                 query_maker_RG(author_dict)
-                author = get_researchgate_name(author_dict)
+                author = get_researchgate_name(author_dict, proxy_dict)
     
         global_result_list.append(author_dict)
 
@@ -193,7 +193,7 @@ def chunks(authors_list: list, threads: int):
     return chunked_list
 
 
-def main(authors_list: list, threads_num: int=1):
+def main(authors_list: list, threads_num: int=1, proxy_dict: dict=None):
     if threads_num>len(authors_list):threads_num=len(authors_list) # threads always equal or lower than number of authors
     print(threads_num)
 
@@ -204,7 +204,7 @@ def main(authors_list: list, threads_num: int=1):
     threads = []
     chunked_list = chunks(authors_list, threads_num)
     for chunk in chunked_list:
-        x = threading.Thread(target=pipeline, args=(chunk, result_list))
+        x = threading.Thread(target=pipeline, args=(chunk, result_list, proxy_dict))
         threads.append(x)
         x.start()
     
@@ -261,10 +261,13 @@ if __name__ == "__main__":
     csd_test = [csd_in_test, csd_out_test]
     csd_ground_truth = [csd_in_ground_truth, csd_out_ground_truth]
     
+    
+    # proxy = {'http': '110.77.200.135:8080'}
+    proxy=None
     results = []
     percentage = []
     for cc, i in enumerate(csd_test):
-        results.append(main(i, 20))
+        results.append(main(i, 20, proxy))
         percentage.append(evaluate_results(results[cc], csd_ground_truth[cc]))
         
     print(percentage)
