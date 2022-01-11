@@ -16,14 +16,16 @@ import requests
 from bs4 import BeautifulSoup
 from googlesearch import search
 import re
-from difflib import SequenceMatcher
+# from difflib import SequenceMatcher
 import math
 from thefuzz import fuzz
 import jellyfish
+from pythongreeklish.greeklish.converter import Converter
+
 
 # similarity measurement
-def similar(a, b):
-    return SequenceMatcher(None, a, b).ratio()
+def similar(a: str, b: str):
+    return fuzz.partial_token_sort_ratio(a, b)
 
 # query constructor for Google Scholar search
 def query_maker_GS(author_dict: dict):
@@ -42,10 +44,11 @@ def get_scholar_name(author_dict: dict, proxy_dict: dict=None):
                 name = soup.find("div", id="gsc_prf_in").text
                 print(name)
                 author_dict["Scholar name"] = name
-                # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
+                name_similarity = similar(author_dict['romanize name'], name) if name else 0
+                if name_similarity<=40: continue
                 temp_id = link.split("user=")[1]
                 author_dict["Scholar id"] = temp_id.split("&hl=")[0] if "&hl=" in temp_id else temp_id
-                # author_dict["name_similarity"] = name_similarity
+                author_dict["name_similarity"] = name_similarity
                 author_dict["Semantic Scholar name"] = 'Unknown'
                 author_dict["Semantic Scholar id"] = 'Unknown'
                 author_dict["ResearchGate name"] = 'Unknown'
@@ -82,11 +85,12 @@ def get_semantic_name(author_dict: dict, proxy_dict: dict=None):
                 author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = soup.find(class_="author-detail-card__author-name").text
-                # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
+                name_similarity = similar(author_dict['romanize name'], name) if name else 0
+                if name_similarity<=40: continue
                 print(name)
                 author_dict["Semantic Scholar name"] = name
                 author_dict["Semantic Scholar id"] = link.split("/")[-1]
-                # author_dict["name_similarity"] = name_similarity
+                author_dict["name_similarity"] = name_similarity
                 author_dict["ResearchGate name"] = 'Unknown'
                 author_dict["ResearchGate url name/id"] = 'Unknown'
                 author_dict["ResearchGate url type"] = 'Unknown'
@@ -123,11 +127,12 @@ def get_researchgate_name(author_dict: dict, proxy_dict: dict=None):
                 author_page = requests.get(link) if not proxy_dict else requests.get(link, proxies=proxy_dict)
                 soup = BeautifulSoup(author_page.content, "html.parser")
                 name = soup.find("div", class_="nova-legacy-e-text nova-legacy-e-text--size-xxl nova-legacy-e-text--family-sans-serif nova-legacy-e-text--spacing-xxs nova-legacy-e-text--color-inherit fn").text
-                # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
+                name_similarity = similar(author_dict['romanize name'], name) if name else 0
+                if name_similarity<=40: continue
                 print(name)
                 author_dict["ResearchGate name"] = name
                 author_dict["ResearchGate url name/id"] = link.split("/")[-1]
-                # author_dict["name_similarity"] = name_similarity
+                author_dict["name_similarity"] = name_similarity
                 author_dict["ResearchGate url type"] = link.split("/")[-2]
                 
                 return author_dict
@@ -144,10 +149,11 @@ def get_researchgate_name(author_dict: dict, proxy_dict: dict=None):
                 name.pop()
                 name = " ".join(x for x in name)
                 print(name)
-                # name_similarity = similar(name.lower(), author_dict["romanize name"].lower())
+                name_similarity = similar(author_dict['romanize name'], name) if name else 0
+                if name_similarity<=40: continue
                 author_dict["ResearchGate name"] = name
                 author_dict["ResearchGate url name/id"] = link.split("/")[-1]
-                # author_dict["name_similarity"] = name_similarity
+                author_dict["name_similarity"] = name_similarity
                 author_dict["ResearchGate url type"] = link.split("/")[-2]
                 
                 return author_dict
@@ -240,14 +246,22 @@ def evaluate_results(exp_data: dict, ground_truth_data):
                                           'ResearchGate name', 'ResearchGate url name/id',
                                           'ResearchGate url type']).sum()
     
+    correct_df = all_data[all_data.duplicated(subset=['name', 'romanize name', 'School-Department', 'University',
+                                          'University email domain', 'Rank', 'Apella_id', 'Scholar name',
+                                          'Scholar id', 'Semantic Scholar name', 'Semantic Scholar id',
+                                          'ResearchGate name', 'ResearchGate url name/id',
+                                          'ResearchGate url type'], keep='last')]
+    
     incorrect_df = all_data[~all_data.duplicated(subset=['name', 'romanize name', 'School-Department', 'University',
                                           'University email domain', 'Rank', 'Apella_id', 'Scholar name',
                                           'Scholar id', 'Semantic Scholar name', 'Semantic Scholar id',
                                           'ResearchGate name', 'ResearchGate url name/id',
                                           'ResearchGate url type'], keep=False)]
     
+    
+    
     percentage = correct/len(ground_truth_data)    
-    return percentage, incorrect_df
+    return percentage, incorrect_df, exp_data, correct_df
 
 
 
@@ -262,20 +276,27 @@ if __name__ == "__main__":
     csd_out_test = pd.read_csv(r'..\csv_files\csd_data_out_unlabeled.csv').to_dict(orient='records')
 
     # ground truth data
-    csd_in_ground_truth = pd.read_csv(r'..\csv_files\csd_data_in_processed_ground_truth_completed.csv').to_dict(orient='records')
-    csd_out_ground_truth = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth_completed.csv').to_dict(orient='records')
+    csd_in_ground_truth = pd.read_csv(r'..\csv_files\csd_data_in_processed_ground_truth_completed.csv')#.to_dict(orient='records')
+    csd_out_ground_truth = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth_completed.csv')#.to_dict(orient='records')
 
     csd_test = [csd_in_test, csd_out_test]
     csd_ground_truth = [csd_in_ground_truth, csd_out_ground_truth]
     
     
-    # proxy = {'http': '110.77.200.135:8080'}
-    proxy=None
+    proxy = {'http': '106.15.61.206:7890'}
+    # proxy=None
     results = []
     percentage = []
+    incorrect = []
+    pred_data = []
+    correct_df = []
     for cc, i in enumerate(csd_test):
         results.append(main(i, 20, proxy))
-        percentage.append(evaluate_results(results[cc], csd_ground_truth[cc]))
+        x, y, z, w = evaluate_results(results[cc], csd_ground_truth[cc])
+        percentage.append(x)
+        incorrect.append(y)
+        pred_data.append(z)
+        correct_df.append(w)
         
     print(percentage)
         
