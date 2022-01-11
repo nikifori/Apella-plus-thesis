@@ -18,7 +18,8 @@ from googlesearch import search
 import re
 from difflib import SequenceMatcher
 import math
-
+from thefuzz import fuzz
+import jellyfish
 
 # similarity measurement
 def similar(a, b):
@@ -239,8 +240,14 @@ def evaluate_results(exp_data: dict, ground_truth_data):
                                           'ResearchGate name', 'ResearchGate url name/id',
                                           'ResearchGate url type']).sum()
     
+    incorrect_df = all_data[~all_data.duplicated(subset=['name', 'romanize name', 'School-Department', 'University',
+                                          'University email domain', 'Rank', 'Apella_id', 'Scholar name',
+                                          'Scholar id', 'Semantic Scholar name', 'Semantic Scholar id',
+                                          'ResearchGate name', 'ResearchGate url name/id',
+                                          'ResearchGate url type'], keep=False)]
+    
     percentage = correct/len(ground_truth_data)    
-    return percentage
+    return percentage, incorrect_df
 
 
 
@@ -255,8 +262,8 @@ if __name__ == "__main__":
     csd_out_test = pd.read_csv(r'..\csv_files\csd_data_out_unlabeled.csv').to_dict(orient='records')
 
     # ground truth data
-    csd_in_ground_truth = pd.read_csv(r'..\csv_files\csd_data_in_processed_ground_truth_completed.csv')#.to_dict(orient='records')
-    csd_out_ground_truth = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth_completed.csv')#.to_dict(orient='records')
+    csd_in_ground_truth = pd.read_csv(r'..\csv_files\csd_data_in_processed_ground_truth_completed.csv').to_dict(orient='records')
+    csd_out_ground_truth = pd.read_csv(r'..\csv_files\csd_data_out_processed_ground_truth_completed.csv').to_dict(orient='records')
 
     csd_test = [csd_in_test, csd_out_test]
     csd_ground_truth = [csd_in_ground_truth, csd_out_ground_truth]
@@ -272,7 +279,8 @@ if __name__ == "__main__":
         
     print(percentage)
         
-
+    
+    
 
 
 
