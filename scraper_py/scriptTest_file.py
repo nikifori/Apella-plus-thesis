@@ -146,7 +146,7 @@ if __name__ == '__main__':
     # authors = open_json(fr"..\json_files\csd_out_with_abstract\{file}.json")
     
     # test = paper_checker(authors)
-    test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers\unscraped_papers_with_abstracts.json')
+    # test = open_json(r'..\json_files\csd_out_with_abstract\unscraped_papers\unscraped_papers_with_abstracts.json')
     
     # for author in test:
     #     print('{}     {}'.format((len(author['unscraped papers'])), author['romanize name']))
@@ -154,4 +154,42 @@ if __name__ == '__main__':
     # save2json(authors, path2save=r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_only_titles_rank2.json')
     
     # append_unscraped_pubs(authors, test)
+    
+    csd_out = open_json(r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_rank.json')
+    csd_out_specter = open_json(r'..\json_files\csd_out_with_abstract\csd_out_specter_rank.json')
+    
+    
+    # save2json(csd_out_specter, path2save=r'..\json_files\csd_out_with_abstract\csd_out_specter_rank2.json')
+    
+    # ----------------------------------------------------------------------------------------------------------------------------
+    # fix wrong google scholar names and ids
+    # fix_authors = [x for x in csd_out if x['Scholar name']=='A.N.Yannacopoulos' or x['Scholar name']=='Emm. Giakoumakis' or x['Scholar name']=='V. Zissimopoulos' or x['Scholar name']=='Kleanthis Thramboulidis']
+    # for author in fix_authors:
+    #     del author['Publications']
+    
+    # pg = ProxyGenerator()
+    # success = pg.SingleProxy(http = "http://178.77.35.42")
+    # scholarly.use_proxy(pg)
+    # try:
+    #     paper_scraper(fix_authors[3], threads_num=25)
+    # except Exception as error:
+    #     print("There is a problem in paper_scraper")
+    #     print(error)
+    # save2json(fix_authors, r'..\json_files\csd_out_with_abstract\fix3.json')
+    
+    # correct_authors(csd_out, fix_authors)
+    
+    # save2json(csd_out, r'..\json_files\csd_out_with_abstract\csd_out_completed_missing_2_no_greek_rank2.json')
+    # correct_authors(csd_out_specter, fix_authors)
+    # save2json(csd_out_specter, r'..\json_files\csd_out_with_abstract\csd_out_specter_rank2.json')
+    #-----------------------------------------------------------------------------------------------------------------------------
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
