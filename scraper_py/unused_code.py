@@ -48,6 +48,7 @@ def check4wrong_GS_id_parallel(authors_list: list, threads_num: int=1, proxy: st
 
 
 if __name__ == "__main__":
+    pass
     # -----------------------------------------------------------------------------
     # proxy = 'http://123.120.190.41'
     # from scholarly import scholarly, ProxyGenerator
