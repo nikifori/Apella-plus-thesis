@@ -1,44 +1,16 @@
-import re
-
 import torch
 import numpy as np
 import pandas as pd
-from transformers import AutoTokenizer, AutoModel
 
 from sentence_transformers import util
 from emb_clustering import embeddings_clustering
+from embeddings.sentence_transformer_models import get_specter_model, get_embedding
 from utils import *
 from metrics import *
 
 
-def get_embedding(text, model, tokenizer):
-    inputs = tokenizer(text, padding=True, truncation=True, return_tensors="pt", max_length=512)
-    return model(**inputs).last_hidden_state[:, 0, :]
-
-
-def get_scibert_model():
-    tokenizer = AutoTokenizer.from_pretrained('allenai/scibert_scivocab_uncased')
-    model = AutoModel.from_pretrained('allenai/scibert_scivocab_uncased')
-    return model, tokenizer
-
-
-def get_specter_model():
-    tokenizer = AutoTokenizer.from_pretrained('allenai/specter')
-    model = AutoModel.from_pretrained('allenai/specter')
-    return model, tokenizer
-
-
-def read_author_embedding_csv(author, csd_in=True):
-    subfolder = "/csd_in/" if csd_in else "/csd_out/"
-
-    fname = "author_embeddings" + subfolder + author['romanize name'].replace(" ", "_") + "_embeddings.csv"
-    author_embedding = np.genfromtxt(fname, delimiter=',')
-    return author_embedding
-
-
 def read_author_embedding_dict(author):
     author_embedding = []
-
     if "Publications" not in author: return np.empty([0, 0])
 
     for pub in author['Publications']:
@@ -51,6 +23,18 @@ def read_author_embedding_dict(author):
 
     author_embedding = np.matrix(author_embedding)
     return author_embedding
+
+
+def load_auth_embeddings(author, model_name="specter", in_or_out="in"):
+    auth_underscore_name = get_underscored_name(author['romanize name'])
+
+    if model_name == "specter": return read_author_embedding_dict(author)
+    elif model_name in ['scibert_average', 'scibert_cls']:
+        fname = f'./author_embeddings/{model_name}_embeddings/{in_or_out}/{auth_underscore_name}.csv'
+        author_embedding = np.genfromtxt(fname, delimiter=',')
+        return author_embedding
+    else:
+        return np.empty([0,0])
 
 
 def calculate_similarities(title_emb: torch.tensor, author_embeddings, similarity_mode, clustering_parameters: dict, success=False):
@@ -119,72 +103,32 @@ def rank_candidates(fname, in_or_out, title_embedding, position_rank, mode, clus
     return result
 
 
-def create_author_embeddings(author, model="", tokenizer=""):
-    if model == "" or tokenizer == "":
-        model, tokenizer = get_specter_model()
+def create_author_aggregations(author, model_name="specter", in_or_out="in"):
+    if "Publications" not in author: return
 
-    papers = author['Publications'] if "Publications" in author else []
-    print("Author:{}, total papers:{}".format(author['name'], len(papers)))
-    emb_total = []
-
-    for paper in papers:
-        title_abs = paper['Title'] + tokenizer.sep_token + paper['Abstract'] if "Abstract" in paper else paper['Title']
-        inputs = tokenizer(title_abs, padding=True, truncation=True, return_tensors="pt", max_length=512)
-        result = model(**inputs)
-        print('---' + paper['Title'])
-        emb_total.append(result.last_hidden_state[:, 0, :].tolist()[0])
-
-    pd.DataFrame(np.matrix(emb_total)).to_csv(
-        "author_embeddings/" + author['romanize name'].replace(" ", "_") + "_embeddings.csv", header=False, index=False)
-
-
-def create_author_aggregations(author, in_or_out="in"):
-    papers = author['Publications'] if "Publications" in author else []
-    print("Author:{}, total papers:{}".format(author['name'], len(papers)))
-    auth_underscore_name = re.sub('/', '_', author["romanize name"])
-    auth_underscore_name = re.sub(' ', '_', auth_underscore_name)
-    author_embeddings = []
-    if not len(papers): return
-
-    for pub in author['Publications']:
-        if "Specter embedding" in pub:
-            # specter_emb = np.array(pub['Specter embedding'][0])
-            specter_emb = np.array([float(f) for f in pub['Specter embedding'][0]])
-            author_embeddings.append(specter_emb)
-        else:
-            print("SPECTER EMBEDDING IS MISSING FROM AUTHOR{}".format(author['Name']))
-            return
-
-    author_embeddings = torch.tensor(np.matrix(author_embeddings))
-
-    # n_clusters = [2, 3, 4, 5, 7]
-    # dims_reduced = [2, 3, 5, 7, 10, 768]
-    # clustering_types = ['agglomerative', 'kmeans', 'spectral']
-    # reduction_types = ['PCA', 'isomap']
+    auth_underscore_name = get_underscored_name(author['romanize name'])
+    print(f"Author:{auth_underscore_name}")
+    model_dir = f"{model_name}_embeddings"
+    fname_base = f'./author_embeddings/{model_dir}/aggregations/{in_or_out}/{auth_underscore_name}/'
+    author_embeddings = torch.tensor(load_auth_embeddings(author, model_name=model_name, in_or_out=in_or_out))
+    mkdirs(fname_base)
 
     n_clusters = [2, 3, 4, 5, 7]
     dims_reduced = [2, 3, 5, 7, 10, 768]
-    clustering_types = ['agglomerative_cosine', 'kmeans_cosine']
+    clustering_types = ['agglomerative', 'kmeans', 'spectral','agglomerative_cosine', 'kmeans_cosine']
     reduction_types = ['PCA', 'isomap']
-
-    mkdirs(f'./author_embeddings/specter_embeddings/aggregations/{in_or_out}/{auth_underscore_name}')
-    fname_base = f'./author_embeddings/specter_embeddings/aggregations/{in_or_out}/{auth_underscore_name}/'
 
     for clustering_type in clustering_types:
         for reduction_type in reduction_types:
             for n_cluster in n_clusters:
                 for d in dims_reduced:
                     try:
-                        print("{}-{}-{}-{}".format(author['romanize name'], clustering_type, n_cluster, reduction_type,
-                                                   d))
-                        author_centroids = embeddings_clustering(author_embeddings, clustering_type, reduction_type,
-                                                                 n_cluster, dimensions_reduced=d)
+                        print(f'{auth_underscore_name}-{clustering_type}-{n_cluster}-{reduction_type}-{d}')
+                        author_centroids = embeddings_clustering(author_embeddings, clustering_type, reduction_type, n_cluster, dimensions_reduced=d)
                         fname_out = fname_base + "{}_{}_{}_{}.csv".format(clustering_type, n_cluster, reduction_type, d)
                         pd.DataFrame(np.matrix(author_centroids)).to_csv(fname_out, header=False, index=False)
                     except Exception as e:
-                        print("Problem for author:{}, {}-{}-{}-{}".format(author['romanize name'], clustering_type,
-                                                                          n_cluster, reduction_type, d))
-                        print(e)
+                        print(f'Problem for: {auth_underscore_name}-{clustering_type}-{n_cluster}-{reduction_type}-{d} \n{e}')
 
     fname_out = fname_base + "mean.csv"
     pd.DataFrame(np.matrix(torch.mean(author_embeddings, dim=0))).to_csv(fname_out, header=False, index=False)
@@ -215,14 +159,14 @@ def main_ranking_authors(fname, titles, descriptions, authors_targets, authors_t
         if ranking_mode == 'clustering':
             fname_output += '_{}_{}'.format(clustering_type, reduction_type)
             version = f'{clustering_type}_{n_clusters}_{reduction_type}_{reduced_dims}'
-        else:
-            version = f'{ranking_mode}'
+        else: version = f'{ranking_mode}'
 
         res_target = find_author_relevance(title, version, in_or_out, authors_targets[i], authors_targets_standby[i],
                                            res)
 
         res.to_csv(fname_output + '.csv', encoding='utf-8', index=False)
         res_target.to_csv('{}_target.csv'.format(fname_output), encoding='utf-8', index=False)
+
 
 
 if __name__ == '__main__':
