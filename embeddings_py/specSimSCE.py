@@ -8,9 +8,9 @@
 """
 from utils import*
 from transformers import AutoTokenizer, AutoModel
-from sentence_transformer_models import get_specteget_specter_model
+from sentence_transformer_models import get_specter_model
 
 
 if __name__ == "__main__":
     pass
-    model, tokenizer = get_specteget_specter_model()
+    model, tokenizer = get_specter_model()
