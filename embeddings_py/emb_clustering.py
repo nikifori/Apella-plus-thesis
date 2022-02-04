@@ -1,20 +1,39 @@
-import os.path
-import re
-
 import torch
-from sklearn.cluster import AgglomerativeClustering, KMeans, SpectralClustering, DBSCAN
-from sklearn.metrics import silhouette_score
-from sklearn.decomposition import PCA, TruncatedSVD
-from sklearn.manifold import Isomap, LocallyLinearEmbedding
 import numpy as np
 import kneed
-
+import os.path
+import re
 import ijson
 from itertools import islice
 
-from utils import open_json, save2json, mkdirs
-
+from sklearn.cluster import AgglomerativeClustering, KMeans, SpectralClustering
 from nltk.cluster import cosine_distance, KMeansClusterer
+from sklearn.metrics import silhouette_score
+from sklearn.decomposition import PCA, TruncatedSVD
+from sklearn.manifold import Isomap
+from k_means_constrained import KMeansConstrained
+
+from utils import open_json, save2json, mkdirs, get_underscored_name
+
+
+def constrained_clustering(embeddings, n_samples: int, n_clusters: int):
+    n_clusters_original = n_clusters
+    while n_samples/n_clusters < 10:
+        n_clusters-=1
+
+    if n_clusters <= 0:
+        n_clusters = 1
+        y_predict = []
+        for i in range(n_samples):
+            y_predict.append(0)
+    else:
+        clf = KMeansConstrained(n_clusters=n_clusters,
+                                size_min=10,
+                                random_state=0)
+        y_predict = clf.fit_predict(embeddings)
+
+    print(f"Constrained K-means Clustering, X:{n_samples} samples, n_clusters_targ:{n_clusters_original}, n_clusters:{n_clusters}")
+    return np.array(y_predict)
 
 
 def get_clusters(X, y_predict):
@@ -22,8 +41,7 @@ def get_clusters(X, y_predict):
     n_clusters = len(np.unique(y_predict))
 
     for cl in range(0, n_clusters):
-        filt = [True if i == cl else False
-                for i in y_predict]
+        filt = [True if i == cl else False for i in y_predict]
         clusters.append(X[filt])
 
     return clusters
@@ -31,27 +49,15 @@ def get_clusters(X, y_predict):
 
 def reduce_dimensions(X, n_dims=5, type='PCA'):
     types = ['PCA', 'SVD', 'isomap']
-    X_hat = []
-    reducer = []
 
-    if type == 'PCA':
-        pca = PCA(n_components=n_dims)
-        pca.fit(X)
-        X_hat = pca.transform(X)
-        reducer = pca
-    elif type == 'SVD':
-        truncatedSVD = TruncatedSVD(n_dims)
-        X_hat = truncatedSVD.fit_transform(X)
-        reducer = truncatedSVD
-    elif type == 'isomap':
-        isomap = Isomap(n_components=n_dims)
-        X_hat = isomap.fit_transform(X)
-        reducer = isomap
+    if type == 'PCA': reducer = PCA(n_components=n_dims)
+    elif type == 'SVD': reducer = TruncatedSVD(n_dims)
+    elif type == 'isomap': reducer = Isomap(n_components=n_dims)
     else:
-        print("------ERROR-----")
-        print("Give correct type argument on reduce_dimensions()!!")
-        print("Accepted values are: {}".format(types))
+        print(f"------ERROR-----, incorrect reduce dimension type, accepted values are {types}")
+        return [], []
 
+    X_hat = reducer.fit_transform(X)
     return X_hat, reducer
 
 
@@ -60,7 +66,8 @@ def embeddings_clustering(embeddings_input: np.array,
                           reduction_type='PCA',
                           n_clusters=5,
                           dimensions_reduced=5):
-    clustering_types = ['agglomerative', 'kmeans', 'spectral', 'agglomerative_cosine', 'kmeans_cosine']
+    clustering_types = ['agglomerative', 'kmeans', 'spectral', 'agglomerative_cosine',
+                        'kmeans_cosine', 'kmeans_euclidean_constr']
     dim_reduction_types = ['PCA', 'SVD', 'isomap']
     author_centroids = []
 
@@ -83,14 +90,15 @@ def embeddings_clustering(embeddings_input: np.array,
             return np.mean(author_centroids, axis=0)
 
     # Perform Clustering
-    if type == 'agglomerative':          y_predict = AgglomerativeClustering(n_clusters=n_clusters).fit_predict(embeddings)
-    elif type == 'agglomerative_cosine': y_predict = AgglomerativeClustering(n_clusters=n_clusters, affinity='cosine', linkage='average').fit_predict(embeddings)
-    elif type == 'kmeans':               y_predict = KMeans(n_clusters=n_clusters, random_state=0).fit_predict(embeddings)
+    if type == 'agglomerative':             y_predict = AgglomerativeClustering(n_clusters=n_clusters).fit_predict(embeddings)
+    elif type == 'agglomerative_cosine':    y_predict = AgglomerativeClustering(n_clusters=n_clusters, affinity='cosine', linkage='average').fit_predict(embeddings)
+    elif type == 'kmeans':                  y_predict = KMeans(n_clusters=n_clusters, random_state=0).fit_predict(embeddings)
     elif type == 'kmeans_cosine':
         vectors = [embeddings[i,:] for i in range(embeddings.shape[0])]
         clusterer = KMeansClusterer(n_clusters, cosine_distance, avoid_empty_clusters=True)
         y_predict = clusterer.cluster(vectors, True, trace=False)
-    elif type == 'spectral':             y_predict = SpectralClustering(n_clusters=n_clusters).fit_predict(embeddings)
+    elif type == 'spectral':                y_predict = SpectralClustering(n_clusters=n_clusters).fit_predict(embeddings)
+    elif type == 'kmeans_euclidean_constr': y_predict = constrained_clustering(embeddings, n_samples, n_clusters)
     else:
         print("------ERROR-----")
         print("Give correct type argument on embeddings_clustering()!!")
@@ -119,7 +127,6 @@ def embeddings_clustering_finder(author_name ,embeddings_input: np.array,
                                  reduction_type='PCA'):
 
     max_dim = 10 if embeddings_input.shape[0] > 10 else embeddings_input.shape[0]
-    dims_reduced = range(2,max_dim)
 
     if reduction_type == 'PCA' or reduction_type == 'SVD':
         embeddings, reducer = reduce_dimensions(torch.tensor(embeddings_input), n_dims=max_dim, type=reduction_type) \
@@ -127,9 +134,8 @@ def embeddings_clustering_finder(author_name ,embeddings_input: np.array,
         vals = reducer.explained_variance_ratio_.cumsum()
         knee, _ = find_knee(vals,range(max_dim), curve="concave", direction="increasing")
     elif reduction_type == 'isomap':
-        dims_reduced = range(2,max_dim)
-        vals = []
-        dims = []
+        dims_reduced = range(2, max_dim)
+        vals, dims = ([], [])
         for d in dims_reduced:
             embeddings, reducer = reduce_dimensions(torch.tensor(embeddings_input), n_dims=d, type='isomap') \
                                   if embeddings_input.shape[1] > d else embeddings_input
@@ -141,10 +147,8 @@ def embeddings_clustering_finder(author_name ,embeddings_input: np.array,
     embeddings,_ = reduce_dimensions(torch.tensor(embeddings_input), n_dims=knee, type=reduction_type) \
         if embeddings_input.shape[1] > knee else torch.tensor(embeddings_input)
 
-    if not type == "mean":
-        print("Method:{}, knee dimension:{}".format(reduction_type, knee))
-    else:
-        reduction_type = "avg"
+    if not type == "mean": print("Method:{}, knee dimension:{}".format(reduction_type, knee))
+    else: reduction_type = "avg"
 
     # Perform Clustering
     n_clusters = range(2,7)
@@ -178,8 +182,7 @@ def embeddings_clustering_finder(author_name ,embeddings_input: np.array,
 
     max_ind = max(range(len(sil_scores)), key=sil_scores.__getitem__)
     print("Method:{}, max silhouette score:{} for {} clusters\n".format(type, max(sil_scores), n_clusters[max_ind]))
-    auth_underscore_name = re.sub('/', '_', author_name)
-    auth_underscore_name = re.sub(' ', '_', auth_underscore_name)
+    auth_underscore_name = get_underscored_name(author_name)
     path_name = fr"./author_embeddings/specter_embeddings/aggregations/{in_or_out}/{auth_underscore_name}"
     mkdirs(path_name)
 
@@ -204,8 +207,8 @@ def embeddings_clustering_finder(author_name ,embeddings_input: np.array,
 
 if __name__ == "__main__":
     in_or_out="out"
-    clustering_type = 'kmeans'   # ['agglomerative', 'kmeans']
-    reduction_type  = 'PCA'        # ['PCA', 'SVD', 'isomap'']
+    clustering_types = ['agglomerative','kmeans','agglomerative_cosine','kmeans_cosine']
+    reduction_types  = ['PCA', 'isomap']
 
     fname_in = r'..\json_files\csd_in_with_abstract\csd_in_specter.json'
     fname_out = r'..\json_files\csd_out_with_abstract\csd_out_specter_out.json'
@@ -228,10 +231,9 @@ if __name__ == "__main__":
                         author_embedding = np.empty()
                         break
                 author_embedding = np.matrix(author_embedding)
-                for clustering_type in ['agglomerative','kmeans','agglomerative_cosine','kmeans_cosine']:
-                    for reduction_type in ['PCA','isomap']:
-                        embeddings_clustering_finder(author['romanize name'],
-                                                     author_embedding, in_or_out=in_or_out,
+                for clustering_type in clustering_types:
+                    for reduction_type in reduction_types:
+                        embeddings_clustering_finder(author['romanize name'], author_embedding, in_or_out=in_or_out,
                                                      type=clustering_type, reduction_type=reduction_type)
             except Exception as e:
                 print(e)
