@@ -67,40 +67,6 @@ def main_ranking_authors(fname, in_or_out, titles, descriptions, authors_targets
         res_target.to_csv('{}_target.csv'.format(fname_output), encoding='utf-8', index=False)
 
 
-# def create_scibert_embeddings(fname: str):
-#
-#     model, tokenizer = get_scibert_model()
-#     mkdirs("./author_embeddings/scibert_embeddings/average")
-#
-#     with open(fname, encoding='utf-8') as f:
-#         authors = ijson.items(f, 'item')
-#         authors = islice(authors, 500)
-#         for i, author in enumerate(authors):
-#             print(f"{i}.",author['romanize name'])
-#             auth_underscore_name = re.sub('/', '_', author['romanize name'])
-#             auth_underscore_name = re.sub(' ', '_', auth_underscore_name)
-#             if "Publications" not in author:
-#                 open(fr"./author_embeddings/scibert_embeddings/cls/{auth_underscore_name}.csv", 'w')
-#                 open(fr"./author_embeddings/scibert_embeddings/average/{auth_underscore_name}.csv", 'w')
-#                 continue
-#
-#             cls_embeddings = []
-#             average_embeddings = []
-#             for pub in author["Publications"]:
-#                 try:
-#                     text = pub['Title'] + ". " + pub["Abstract"]
-#                 except:
-#                     text = pub['Title']
-#                 model_input = tokenizer(text, padding=True, truncation=True, return_tensors="pt", max_length=512)
-#                 result = model(**model_input)
-#                 embeddings = result.last_hidden_state[0, :, :].detach().cpu().numpy()
-#
-#                 cls_embeddings.append(embeddings[0, :])
-#                 average_embeddings.append(np.mean(embeddings, axis=0))
-#             pd.DataFrame(np.matrix(np.matrix(cls_embeddings))).to_csv(fr"./author_embeddings/scibert_embeddings/cls/{auth_underscore_name}.csv", header=False,index=False)
-#             pd.DataFrame(np.matrix(np.matrix(average_embeddings))).to_csv(fr"./author_embeddings/scibert_embeddings/average/{auth_underscore_name}.csv", header=False,index=False)
-
-
 if __name__ == '__main__':
 
     ranking_mode = "max_articles"
