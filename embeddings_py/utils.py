@@ -11,6 +11,12 @@ from os.path import splitext
 import os.path
 
 
+def remove_nans_json(fname_in, fname_out):
+    with open(fname_in, "r", encoding='utf-8') as r, open(fname_out, "w", encoding='utf-8') as w:
+        for line in r:
+            w.write(re.sub('NaN', '"Unknown"', line))
+
+
 def save2json(json_fi: list, path2save: str):
     json_file = json.dumps(json_fi, indent=4)  # , ensure_ascii=False
     with open(fr'{path2save}', 'w', encoding='utf-8') as f:

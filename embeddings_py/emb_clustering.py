@@ -20,6 +20,7 @@ def constrained_clustering(embeddings, n_samples: int, n_clusters: int):
     n_clusters_original = n_clusters
     while n_samples/n_clusters < 10:
         n_clusters-=1
+        if n_clusters == 0: break
 
     if n_clusters <= 0:
         n_clusters = 1
