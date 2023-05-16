@@ -7,3 +7,5 @@ The project consists of two main parts. The first is an implementation for autom
 The best performing fine-tuned models **SimCSE_smallD** and **SimCSE_largeD** (*batch_size:40, max_sequence_length:300*) based on contrastive learning, can be found [here](https://drive.google.com/drive/folders/1m6X5Q9mwnojHF9ECvSMur3EGCFOP8ssz?usp=sharing) (with PDF report), in a typical Hugging Face model format. The datasets used for models training/fine tuning lie also on the same folder.
 
 The present data on /csv_files folder about professors personal info (name, rank, APELLA id, email, etc) are already publicly available as raw pdf/xlsx files at the School of Informatics AUTh official website (<https://www.csd.auth.gr/>).
+
+![results comparison](/results.png "results")
